@@ -1,9 +1,13 @@
 {
   "Lista": [
+   {"Citta": "Belpasso", "Sito": "belpasso", "Percorso": "trasparenza/albo-pretorio"},
+   {"Citta": "Bitonto", "Sito": "bitonto", "Percorso": "trasparenza/albo-pretorio"},
    {"Citta": "Concesio", "Sito": "concesio", "Percorso": "trasparenza/albo-pretorio"},
-   {"Citta": "Desio", "Sito": "desio", "Percorso": "albo/papca-ap"},
+   {"Citta": "Dolo", "Sito": "dolo", "Percorso": "trasparenza/albo-pretorio"},
+   {"Citta": "Felino", "Sito": "felino", "Percorso": "trasparenza/albo-pretorio"},
    {"Citta": "Orzinuovi", "Sito": "orzinuovi", "Percorso": "trasparenza/albo-pretorio"},
    {"Citta": "Pesaro", "Sito": "pesaro", "Percorso": "trasparenza/albo-pretorio"},
+   {"Citta": "Sgurgola", "Sito": "sgurgola", "Percorso": "trasparenza/albo-pretorio"},
    {"Citta": "Viterbo", "Sito": "viterbo", "Percorso": "trasparenza2/albo-pretorio"}
   ]
 }
