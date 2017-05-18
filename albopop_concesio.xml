@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:a10="http://www.w3.org/2005/Atom" version="2.0">
 	<channel>
-		<title>RSS Albo Pretorio Concesio</title>
+		<title>AlboPOP - Comune - Concesio</title>
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
-		<description>RSS Albo Pretorio Concesio by Ipersoft</description>
-		<language>it-it</language>
-		<lastBuildDate>Thu, 18 May 2017 08:08:22 +0200</lastBuildDate>
-		<a10:id>http://feeds.feedburner.com/albopretorioconcesio</a10:id>
+		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
+		<language>it</language>
+		<lastBuildDate>Thu, 18 May 2017 09:45:39 +0200</lastBuildDate>
+		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
+		<pubDate>Thu, 18 May 2017 07:45:48 GMT</pubDate>
+		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3260698</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3260698</link>
