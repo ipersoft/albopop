@@ -5,9 +5,9 @@
 
 - [Annone Veneto](http://feeds.feedburner.com/albopretorio_annoneveneto)
 - [Baranzate](http://feeds.feedburner.com/albopretorio_baranzate)
-- [Belpasso](http://feeds.feedburner.com/albopretorio_belpasso)
+- [Belpasso](http://feeds.feedburner.com/albopretorio_belpasso) Già presente
 - [Bernareggio](http://feeds.feedburner.com/albopretorio_bernareggio)
-- [Bitonto](http://feeds.feedburner.com/albopretorio_bitonto)
+- [Bitonto](http://feeds.feedburner.com/albopretorio_bitonto) Già presente
 - [Busnago](http://feeds.feedburner.com/albopretorio_busnago)
 - [Canosa di Puglia](http://feeds.feedburner.com/albopretorio_canosadipuglia)
 - [Celle di Bulgheria](http://feeds.feedburner.com/albopretorio_celledibulgheria)
