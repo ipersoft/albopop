@@ -5,15 +5,26 @@
 		<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bitonto</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 26 May 2017 12:30:44 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 26 May 2017 13:30:42 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bitonto</category>
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bitonto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bitonto</a10:id>
-		<pubDate>26/05/2017 12:30:44 +02:00</pubDate>
+		<pubDate>26/05/2017 13:30:42 +02:00</pubDate>
 		<docs>http://albopop.it/comune/bitonto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
+		<item>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3282271</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3282271</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 26 May 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 10 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3282271</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
+			<title>VIA TASSO ANGOLO VIA FERRARA - LAVORI DI MANUTENZIO ORDINARIA ALL'IMMOBILE IVI ESISTENTE NEI GIORNI 29-30-31/05/2017</title>
+			<description>VIA TASSO ANGOLO VIA FERRARA - LAVORI DI MANUTENZIO ORDINARIA ALL'IMMOBILE IVI ESISTENTE NEI GIORNI 29-30-31/05/2017</description>
+			<a10:updated>2017-05-26T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3280931</guid>
 			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3280931</link>
@@ -1101,17 +1112,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI RESPONSABILI DEI SERVIZI (DAL 6-03-2015) 07 - SERVIZIO DEMOGRAFICO</category>
 			<title>ELEZIONI COMUNALI DELL' 11 GIUGNO 2017 - FORNITURA CABINE POLIVALENTI</title>
 			<description>ELEZIONI COMUNALI DELL' 11 GIUGNO 2017 - FORNITURA CABINE POLIVALENTI</description>
-			<a10:updated>2017-05-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3270488</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3270488</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 22 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 06 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3270488</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI RESPONSABILI DEI SERVIZI (DAL 6-03-2015) 07 - SERVIZIO DEMOGRAFICO</category>
-			<title>ELEZIONI DEL SINDACO E DEL CONSIGLIO COMUNALE: FORNITURA CARTONI PER IMBALLAGGIO PER LE SEZIONI ELETTORALI</title>
-			<description>ELEZIONI DEL SINDACO E DEL CONSIGLIO COMUNALE: FORNITURA CARTONI PER IMBALLAGGIO PER LE SEZIONI ELETTORALI</description>
 			<a10:updated>2017-05-22T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
