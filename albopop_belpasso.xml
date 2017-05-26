@@ -5,15 +5,26 @@
 		<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Belpasso</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 25 May 2017 18:31:50 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 26 May 2017 08:30:33 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Belpasso</category>
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Belpasso</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_belpasso</a10:id>
-		<pubDate>25/05/2017 18:31:50 +02:00</pubDate>
+		<pubDate>26/05/2017 08:30:33 +02:00</pubDate>
 		<docs>http://albopop.it/comune/belpasso/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
+		<item>
+			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3281115</guid>
+			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3281115</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 25 May 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 02 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3281115</category>
+			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>PUBBLICAZIONE DI MATRIMONIO VERBALE N. 51</title>
+			<description>PUBBLICAZIONE DI MATRIMONIO VERBALE N. 51</description>
+			<a10:updated>2017-05-25T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3279989</guid>
 			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3279989</link>
@@ -807,28 +818,6 @@
 			<a10:updated>2017-05-17T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3258453</guid>
-			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3258453</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 17 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 25 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3258453</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO PER IRREPERIBILITA'</category>
-			<title>ATTO DI CONTESTAZIONE PER VIOLAZIONE DELLE NORME TRIBUTARIE N.30300/17 A CARICO DI SCUDERI SALVATORE NATO A BELPASSO IL 08/8/1968</title>
-			<description>ATTO DI CONTESTAZIONE PER VIOLAZIONE DELLE NORME TRIBUTARIE N.30300/17 A CARICO DI SCUDERI SALVATORE NATO A BELPASSO IL 08/8/1968</description>
-			<a10:updated>2017-05-17T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3258007</guid>
-			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3258007</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 17 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 25 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3258007</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO PER IRREPERIBILITA'</category>
-			<title>ATTO DI CONTESTAZIONE PER VIOLAZIONE DELLE NORME TRIBUTARIE N.59963/2017 A CARICO DI CATANESE ALFIO NATO A CATANIA IL 17/6/1990</title>
-			<description>ATTO DI CONTESTAZIONE PER VIOLAZIONE DELLE NORME TRIBUTARIE N.59963/2017 A CARICO DI CATANESE ALFIO NATO A CATANIA IL 17/6/1990</description>
-			<a10:updated>2017-05-17T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
 			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3257386</guid>
 			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3257386</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 17 May 2017 02:00:00 +0200</category>
@@ -1112,6 +1101,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>CONSUMO ENERGIA ELETTRICA IMPIANTI DI PUBBLICA ILLUMINAZIONE A FAVORE DELLA DITTA GALA S.P.A. LIQUIDAZIONE SPESE. </title>
 			<description>CONSUMO ENERGIA ELETTRICA IMPIANTI DI PUBBLICA ILLUMINAZIONE A FAVORE DELLA DITTA GALA S.P.A. LIQUIDAZIONE SPESE. </description>
+			<a10:updated>2017-05-15T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3248135</guid>
+			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3248135</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 15 May 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 30 May 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3248135</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>SOSTITUZIONE RADIATORE PULMINO TARGATO DL 987FG - COD. CIG. ZEA166ECF3. LIQUIDAZIONE SPESE. </title>
+			<description>SOSTITUZIONE RADIATORE PULMINO TARGATO DL 987FG - COD. CIG. ZEA166ECF3. LIQUIDAZIONE SPESE. </description>
 			<a10:updated>2017-05-15T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
