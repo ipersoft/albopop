@@ -5,13 +5,13 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 27 May 2017 18:33:32 +0200</lastBuildDate>
+		<lastBuildDate>Sun, 28 May 2017 08:32:41 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>27/05/2017 18:33:32 +02:00</pubDate>
+		<pubDate>28/05/2017 08:32:41 +02:00</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<item>
@@ -994,17 +994,6 @@
 			<a10:updated>2017-05-19T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2785374</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2785374</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 19 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 27 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2785374</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE AVVISI DI DEPOSITO</category>
-			<title>AVVISO DI DEPOSITO DEL 19/05/2017_ ATTO N. 12/3/003189/000/001/2015/004-D357 A CARICO DI OFFICE TEAM SRL_CRONOLOGICO N. 0932</title>
-			<description>AVVISO DI DEPOSITO DEL 19/05/2017_ ATTO N. 12/3/003189/000/001/2015/004-D357 A CARICO DI OFFICE TEAM SRL_CRONOLOGICO N. 0932</description>
-			<a10:updated>2017-05-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2783287</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2783287</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 19 May 2017 02:00:00 +0200</category>
@@ -1112,6 +1101,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>PROCEDURA NEGOZIATA PER AFFIDAMENTO SERVIZIO DI BROKERAGGIO ASSICURATIVO. AGGIUDICAZIONE DEFINITIVA.</title>
 			<description>PROCEDURA NEGOZIATA PER AFFIDAMENTO SERVIZIO DI BROKERAGGIO ASSICURATIVO. AGGIUDICAZIONE DEFINITIVA.</description>
+			<a10:updated>2017-05-18T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2784658</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2784658</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 18 May 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 03 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2784658</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>GARA PER AFFIDAMENTO IN APPALTO SERVIZIO ESTIVO NIDI, SERVIZIO AUSILIARIO DI TUTTI I NIDI COMUNALI ED EDUCATIVO NIDO COMUNALE VIA BRAMANTE E NIDO INTEGRATO SANT'ANTONIO E BUSO. PRESA D'ATTO DEI CONOCORRENTI AMMESSI ALLA PROCEDURA DI GARA AI SENSI DELL'ART.29 COMMA 1 D.LGS.50/2016.</title>
+			<description>GARA PER AFFIDAMENTO IN APPALTO SERVIZIO ESTIVO NIDI, SERVIZIO AUSILIARIO DI TUTTI I NIDI COMUNALI ED EDUCATIVO NIDO COMUNALE VIA BRAMANTE E NIDO INTEGRATO SANT'ANTONIO E BUSO. PRESA D'ATTO DEI CONOCORRENTI AMMESSI ALLA PROCEDURA DI GARA AI SENSI DELL'ART.29 COMMA 1 D.LGS.50/2016.</description>
 			<a10:updated>2017-05-18T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
