@@ -5,15 +5,26 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 30 May 2017 15:33:16 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 30 May 2017 16:33:21 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>30/05/2017 15:33:16 +02:00</pubDate>
+		<pubDate>30/05/2017 16:33:21 +02:00</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2799217</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2799217</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 30 May 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 07 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2799217</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE GARE E APPALTI</category>
+			<title>AVVISO PUBBLICO DI MANIFESTAZIONE DI INTERESSE PER LA GESTIONE DEL CENTRO ANTIVIOLENZA DEL POLESINE E CASA RIFUGIO DEL CENTRO ANTIVIOLENZA DEL POLESINE</title>
+			<description>AVVISO PUBBLICO DI MANIFESTAZIONE DI INTERESSE PER LA GESTIONE DEL CENTRO ANTIVIOLENZA DEL POLESINE E CASA RIFUGIO DEL CENTRO ANTIVIOLENZA DEL POLESINE</description>
+			<a10:updated>2017-05-30T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2799138</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2799138</link>
@@ -1101,17 +1112,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>LIQUIDAZIONE SPESA A FAVORE DELLA L.N.D.C. (LEGA NAZIONALE PER LA DIFESA DEL CANE) PER LA GESTIONE DEL RIFUGIO PER CANI UBICATO PRESSO IL C.I.P.A. IN LOCALITÀ BIOLCATA – FENIL DEL TURCO – ANNO 2017.</title>
 			<description>LIQUIDAZIONE SPESA A FAVORE DELLA L.N.D.C. (LEGA NAZIONALE PER LA DIFESA DEL CANE) PER LA GESTIONE DEL RIFUGIO PER CANI UBICATO PRESSO IL C.I.P.A. IN LOCALITÀ BIOLCATA – FENIL DEL TURCO – ANNO 2017.</description>
-			<a10:updated>2017-05-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2785504</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2785504</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 19 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 03 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2785504</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>IMPEGNO DI SPESA A FAVORE DELLA REGIONE VENETO DI UN TERZO DEGLI INTROITI DERIVANTI DALL’APPLICAZIONE DELLE SANZIONI AMMINISTRATIVE IN MATERIA DI IGIENE E SANITÀ PUBBLICA, IGIENE ALIMENTARE E SANITÀ ANIMALE – ANNUALITÀ 2016.</title>
-			<description>IMPEGNO DI SPESA A FAVORE DELLA REGIONE VENETO DI UN TERZO DEGLI INTROITI DERIVANTI DALL’APPLICAZIONE DELLE SANZIONI AMMINISTRATIVE IN MATERIA DI IGIENE E SANITÀ PUBBLICA, IGIENE ALIMENTARE E SANITÀ ANIMALE – ANNUALITÀ 2016.</description>
 			<a10:updated>2017-05-19T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
