@@ -5,15 +5,26 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 30 May 2017 13:32:48 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 30 May 2017 14:32:40 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>30/05/2017 13:32:48 +02:00</pubDate>
+		<pubDate>30/05/2017 14:32:40 +02:00</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3288387</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3288387</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 30 May 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 07 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3288387</category>
+			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>PUBBLICAZIONI ANNO 2017 N. 30 ROMANO GIANLUCA DOTTORE MARTINA</title>
+			<description>PUBBLICAZIONI ANNO 2017 N. 30 ROMANO GIANLUCA DOTTORE MARTINA</description>
+			<a10:updated>2017-05-30T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3288179</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3288179</link>
@@ -1101,17 +1112,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>PAGAMENTO IMPOSTA MUNICIPALE UNICA PER IMMOBILI SITUATI IN COMUNE DI CAPANNORI – ANNO 2017</title>
 			<description>PAGAMENTO IMPOSTA MUNICIPALE UNICA PER IMMOBILI SITUATI IN COMUNE DI CAPANNORI – ANNO 2017</description>
-			<a10:updated>2017-05-24T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3276455</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3276455</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 24 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 08 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3276455</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>LIQUIDAZIONE COMPENSI AI DIPENDENTI - COLLABORATORI – AMMINISTRATORI - MESE DI MAGGIO 2017.</title>
-			<description>LIQUIDAZIONE COMPENSI AI DIPENDENTI - COLLABORATORI – AMMINISTRATORI - MESE DI MAGGIO 2017.</description>
 			<a10:updated>2017-05-24T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
