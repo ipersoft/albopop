@@ -5,15 +5,26 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 31 May 2017 14:33:05 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 31 May 2017 15:33:53 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>31/05/2017 14:33:05 +02:00</pubDate>
+		<pubDate>31/05/2017 15:33:53 +02:00</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3291381</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3291381</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 31 May 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 15 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3291381</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>ORDINANZA N. 906 DEL 23/05/2017 DI DIVIETO DI CONSUMO DI BEVANDE ALCOLICHE ALL'INTERNO DEI PARCHI COMUNALI ATTREZZATI A PARCHI GIOCO PER BAMBINI E AL PARCO "LA MONTAGNOLA"NONCHE' NELLE ADIACENZE DEI PLESSI SCOLASTICI DI OGNI ORDINE E GRADO </title>
+			<description>ORDINANZA N. 906 DEL 23/05/2017 DI DIVIETO DI CONSUMO DI BEVANDE ALCOLICHE ALL'INTERNO DEI PARCHI COMUNALI ATTREZZATI A PARCHI GIOCO PER BAMBINI E AL PARCO "LA MONTAGNOLA"NONCHE' NELLE ADIACENZE DEI PLESSI SCOLASTICI DI OGNI ORDINE E GRADO </description>
+			<a10:updated>2017-05-31T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3290737</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3290737</link>
@@ -304,7 +315,7 @@
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3286518</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3286518</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 30 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 14 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 15 Jun 2017 02:00:00 +0200</category>
 			<category domain="http://albopop.it/specs#item-category-uid">3286518</category>
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI GIUNTA</category>
 			<title>RENDICONTO DELLA GESTIONE DELL’ESERCIZIO FINANZIARIO 2016 – APPROVAZIONE SCHEMA</title>
@@ -315,7 +326,7 @@
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3286515</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3286515</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 30 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 14 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 15 Jun 2017 02:00:00 +0200</category>
 			<category domain="http://albopop.it/specs#item-category-uid">3286515</category>
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI GIUNTA</category>
 			<title>RIACCERTAMENTO ORDINARIO DEI RESIDUI ATTIVI E PASSIVI AL 31.12.2016 AI FINI DELLA FORMAZIONE DEL CONTO DEL BILANCIO 2016 (ART. 228, COMMA 3, D.LGS 267/2000) – APPROVAZIONE</title>
@@ -1101,17 +1112,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
 			<title>VIA SAN MARCO, FRAZ. SAN MARCO, MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE PEDONALE IN PROSSIMITÀ DEL N. CIV. 479 IL GIORNO 29 MAGGIO 2017.</title>
 			<description>VIA SAN MARCO, FRAZ. SAN MARCO, MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE PEDONALE IN PROSSIMITÀ DEL N. CIV. 479 IL GIORNO 29 MAGGIO 2017.</description>
-			<a10:updated>2017-05-24T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3276918</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3276918</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 24 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 08 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3276918</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>PROROGA ORDINANZA N. 506 DEL 27/03/2017 VIA DELLA POLVERIERA, CENTRO STORICO, MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE STRADALE FINO AL GIORNO 30 GIUGNO 2017.</title>
-			<description>PROROGA ORDINANZA N. 506 DEL 27/03/2017 VIA DELLA POLVERIERA, CENTRO STORICO, MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE STRADALE FINO AL GIORNO 30 GIUGNO 2017.</description>
 			<a10:updated>2017-05-24T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
