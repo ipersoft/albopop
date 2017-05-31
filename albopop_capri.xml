@@ -5,15 +5,26 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 31 May 2017 08:33:37 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 31 May 2017 10:33:17 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>31/05/2017 08:33:37 +02:00</pubDate>
+		<pubDate>31/05/2017 10:33:17 +02:00</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2799730</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2799730</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 31 May 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 15 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2799730</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>INGIUNZIONE ALLA DEMOLIZIONE DI OPERE EDILI ABUSIVE ESISTENTI NELLA PROPRIETA' DI VIA CASTELLO N.29 GIA' DISTINTA IN CATASTO AL FOGLIO DI MAPPA N.5 MAPPALI N.207-551 - EREDI SIG:RA MIRELLA FERRARO </title>
+			<description>INGIUNZIONE ALLA DEMOLIZIONE DI OPERE EDILI ABUSIVE ESISTENTI NELLA PROPRIETA' DI VIA CASTELLO N.29 GIA' DISTINTA IN CATASTO AL FOGLIO DI MAPPA N.5 MAPPALI N.207-551 - EREDI SIG:RA MIRELLA FERRARO </description>
+			<a10:updated>2017-05-31T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2799274</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2799274</link>
@@ -1101,17 +1112,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>Procedura aperta per l’affidamento del servizio di pulizia dei locali della sede comunale, uffici dislocati ed aree cimiteriali - periodo 1° giugno 2017 - 31 maggio 2020 - CIG: 6958048AD8 Impegnativa spese pubblicazione esito di gara in favore della ditta Lexmedia S.r.l. di Roma Cig:ZDE1EA2F48 </title>
 			<description>Procedura aperta per l’affidamento del servizio di pulizia dei locali della sede comunale, uffici dislocati ed aree cimiteriali - periodo 1° giugno 2017 - 31 maggio 2020 - CIG: 6958048AD8 Impegnativa spese pubblicazione esito di gara in favore della ditta Lexmedia S.r.l. di Roma Cig:ZDE1EA2F48 </description>
-			<a10:updated>2017-05-17T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2782450</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2782450</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 17 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 01 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2782450</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>LAVORI DI MANUTENZIONE STRAORDINARIA, DI RECUPERO E MESSA IN SICUREZZA DELLE AREE APPARTENENTI IL PARCO ASTARITA. -AFFIDAMENTO DEI LAVORI-.</title>
-			<description>LAVORI DI MANUTENZIONE STRAORDINARIA, DI RECUPERO E MESSA IN SICUREZZA DELLE AREE APPARTENENTI IL PARCO ASTARITA. -AFFIDAMENTO DEI LAVORI-.</description>
 			<a10:updated>2017-05-17T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
