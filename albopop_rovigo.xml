@@ -5,15 +5,26 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 31 May 2017 13:33:20 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 31 May 2017 14:33:33 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>31/05/2017 13:33:20 +02:00</pubDate>
+		<pubDate>31/05/2017 14:33:33 +02:00</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2800952</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2800952</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 31 May 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 08 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2800952</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE GARE E APPALTI</category>
+			<title>AVVISO DI INDAGINE DI MERCATO PER MANIFESTAZIONE DI INTERESSE A PARTECIPARE ALLA PROCEDURA NEGOZIATA PER L'AFFIDAMENTO DELLA FORNITURA DI CAPI DI VESTIARIO PER DIPENDENTI AVENTI DIRITTO IN SERVIZIO PRESSO SETTORI VARI DELL'AMMINISTRAZIONE COMUNE DI ROVIGO</title>
+			<description>AVVISO DI INDAGINE DI MERCATO PER MANIFESTAZIONE DI INTERESSE A PARTECIPARE ALLA PROCEDURA NEGOZIATA PER L'AFFIDAMENTO DELLA FORNITURA DI CAPI DI VESTIARIO PER DIPENDENTI AVENTI DIRITTO IN SERVIZIO PRESSO SETTORI VARI DELL'AMMINISTRAZIONE COMUNE DI ROVIGO</description>
+			<a10:updated>2017-05-31T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2800778</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2800778</link>
@@ -1101,17 +1112,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>LIQUIDAZIONE SPESA A FAVORE DEL CONSORZIO DI BONIFICA ADIGE PO PER SERVIZIO DI RACCOLTA E TRASPORTO RIFIUTI SOLIDI ASSIMILATI URBANI DAI CANALI ADIGETTO E SCORTICO – ANNO 2017.</title>
 			<description>LIQUIDAZIONE SPESA A FAVORE DEL CONSORZIO DI BONIFICA ADIGE PO PER SERVIZIO DI RACCOLTA E TRASPORTO RIFIUTI SOLIDI ASSIMILATI URBANI DAI CANALI ADIGETTO E SCORTICO – ANNO 2017.</description>
-			<a10:updated>2017-05-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2785507</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2785507</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 19 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 03 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2785507</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>LIQUIDAZIONE SPESA A FAVORE DELLA L.N.D.C. (LEGA NAZIONALE PER LA DIFESA DEL CANE) PER LA GESTIONE DEL RIFUGIO PER CANI UBICATO PRESSO IL C.I.P.A. IN LOCALITÀ BIOLCATA – FENIL DEL TURCO – ANNO 2017.</title>
-			<description>LIQUIDAZIONE SPESA A FAVORE DELLA L.N.D.C. (LEGA NAZIONALE PER LA DIFESA DEL CANE) PER LA GESTIONE DEL RIFUGIO PER CANI UBICATO PRESSO IL C.I.P.A. IN LOCALITÀ BIOLCATA – FENIL DEL TURCO – ANNO 2017.</description>
 			<a10:updated>2017-05-19T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
