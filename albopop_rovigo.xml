@@ -5,15 +5,26 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 31 May 2017 11:33:46 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 31 May 2017 12:33:36 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>31/05/2017 11:33:46 +02:00</pubDate>
+		<pubDate>31/05/2017 12:33:36 +02:00</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2800308</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2800308</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 31 May 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 15 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2800308</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE PERMESSI DI COSTRUIRE</category>
+			<title>PERMESSO DI COSTRUIRE N. 50 DEL 31/05/2017,RIF. UT 438/2017, IN ACCERTAMENTO DI CONFORMITÀ EX ART. 36 DPR380/2001, PER OPERE REALIZZATE IN DIFFORMITÀ DALLA LICENZA EDILIZIA N. 1161/61 AL PIANO QUARTO IN VIA G. VERDI 7/A-B, CENS. DI ROVIGO F. 18 - MAPP. 367 SUB 10 - 11 18 - 25 - 30PARTE.</title>
+			<description>PERMESSO DI COSTRUIRE N. 50 DEL 31/05/2017,RIF. UT 438/2017, IN ACCERTAMENTO DI CONFORMITÀ EX ART. 36 DPR380/2001, PER OPERE REALIZZATE IN DIFFORMITÀ DALLA LICENZA EDILIZIA N. 1161/61 AL PIANO QUARTO IN VIA G. VERDI 7/A-B, CENS. DI ROVIGO F. 18 - MAPP. 367 SUB 10 - 11 18 - 25 - 30PARTE.</description>
+			<a10:updated>2017-05-31T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2799692</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2799692</link>
@@ -1101,17 +1112,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>IMPEGNO DI SPESA A FAVORE DELLA REGIONE VENETO DI UN TERZO DEGLI INTROITI DERIVANTI DALL’APPLICAZIONE DELLE SANZIONI AMMINISTRATIVE IN MATERIA DI IGIENE E SANITÀ PUBBLICA, IGIENE ALIMENTARE E SANITÀ ANIMALE – ANNUALITÀ 2016.</title>
 			<description>IMPEGNO DI SPESA A FAVORE DELLA REGIONE VENETO DI UN TERZO DEGLI INTROITI DERIVANTI DALL’APPLICAZIONE DELLE SANZIONI AMMINISTRATIVE IN MATERIA DI IGIENE E SANITÀ PUBBLICA, IGIENE ALIMENTARE E SANITÀ ANIMALE – ANNUALITÀ 2016.</description>
-			<a10:updated>2017-05-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2785501</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2785501</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 19 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 03 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2785501</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>LIQUIDAZIONE FATTURA N.19900375 DEL 02.05.2017 EMESSA DALLA DITTA ENI S.P.A. DIVISIONE REFINING&amp;MARKETING - CIG DERIVATO Z111E2830E. </title>
-			<description>LIQUIDAZIONE FATTURA N.19900375 DEL 02.05.2017 EMESSA DALLA DITTA ENI S.P.A. DIVISIONE REFINING&amp;MARKETING - CIG DERIVATO Z111E2830E. </description>
 			<a10:updated>2017-05-19T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
