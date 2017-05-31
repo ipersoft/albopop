@@ -5,13 +5,13 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 30 May 2017 18:34:13 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 31 May 2017 08:33:06 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>30/05/2017 18:34:13 +02:00</pubDate>
+		<pubDate>31/05/2017 08:33:06 +02:00</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<item>
@@ -686,17 +686,6 @@
 			<a10:updated>2017-05-23T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2789141</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2789141</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 23 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 30 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2789141</category>
-			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO</category>
-			<title>AVVISO PUBBLICAZIONI MATRIMONIO APREA/KOROLEVA</title>
-			<description>AVVISO PUBBLICAZIONI MATRIMONIO APREA/KOROLEVA</description>
-			<a10:updated>2017-05-23T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2788718</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2788718</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 22 May 2017 02:00:00 +0200</category>
@@ -1112,6 +1101,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>Procedura aperta per l’affidamento del servizio di pulizia dei locali della sede comunale, uffici dislocati ed aree cimiteriali - periodo 1° giugno 2017 - 31 maggio 2020 - CIG: 6958048AD8 Impegnativa spese pubblicazione esito di gara in favore della ditta Lexmedia S.r.l. di Roma Cig:ZDE1EA2F48 </title>
 			<description>Procedura aperta per l’affidamento del servizio di pulizia dei locali della sede comunale, uffici dislocati ed aree cimiteriali - periodo 1° giugno 2017 - 31 maggio 2020 - CIG: 6958048AD8 Impegnativa spese pubblicazione esito di gara in favore della ditta Lexmedia S.r.l. di Roma Cig:ZDE1EA2F48 </description>
+			<a10:updated>2017-05-17T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2782450</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2782450</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 17 May 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 01 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2782450</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>LAVORI DI MANUTENZIONE STRAORDINARIA, DI RECUPERO E MESSA IN SICUREZZA DELLE AREE APPARTENENTI IL PARCO ASTARITA. -AFFIDAMENTO DEI LAVORI-.</title>
+			<description>LAVORI DI MANUTENZIONE STRAORDINARIA, DI RECUPERO E MESSA IN SICUREZZA DELLE AREE APPARTENENTI IL PARCO ASTARITA. -AFFIDAMENTO DEI LAVORI-.</description>
 			<a10:updated>2017-05-17T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
