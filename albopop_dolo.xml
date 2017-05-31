@@ -5,15 +5,26 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 31 May 2017 08:31:15 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 31 May 2017 10:31:14 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>31/05/2017 08:31:15 +02:00</pubDate>
+		<pubDate>31/05/2017 10:31:14 +02:00</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3289304</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3289304</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 31 May 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 15 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3289304</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
+			<title>ASSEGNAZIONE ALLOGGIO ERP SITO IN VIA …………. AL NUCLEO FAMILIARE DEL SIG. ……………………….</title>
+			<description>ASSEGNAZIONE ALLOGGIO ERP SITO IN VIA …………. AL NUCLEO FAMILIARE DEL SIG. ……………………….</description>
+			<a10:updated>2017-05-31T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3288775</guid>
 			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3288775</link>
@@ -1102,17 +1113,6 @@
 			<title>LIQUIDAZIONE FATTURA N. 754/FATT_EL DEL 24.04.2017 AGENZIA DELLE ENTRATE PER REDAZIONE PERIZIA DI STIMA AREA COMUNALE FG. 9 MAPP.LI 125-1503-1517</title>
 			<description>LIQUIDAZIONE FATTURA N. 754/FATT_EL DEL 24.04.2017 AGENZIA DELLE ENTRATE PER REDAZIONE PERIZIA DI STIMA AREA COMUNALE FG. 9 MAPP.LI 125-1503-1517</description>
 			<a10:updated>2017-05-16T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3241759</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3241759</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 11 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 10 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3241759</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISO GENERICO</category>
-			<title>RICHIESTA PUBBLICAZIONE AVVISO RELATIVO AGLI APPALTI AGGIUDICATI. "LAVORI DI MANUTENZIONE STRAORDINARIA PER INTERVENTI URGENTI PRESSO GLI EDIFICI SCOLASTICI ZONA SUD MIRANO DOLO" </title>
-			<description>RICHIESTA PUBBLICAZIONE AVVISO RELATIVO AGLI APPALTI AGGIUDICATI. "LAVORI DI MANUTENZIONE STRAORDINARIA PER INTERVENTI URGENTI PRESSO GLI EDIFICI SCOLASTICI ZONA SUD MIRANO DOLO" </description>
-			<a10:updated>2017-05-11T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
