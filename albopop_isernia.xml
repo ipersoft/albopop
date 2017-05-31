@@ -5,13 +5,13 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 31 May 2017 11:33:41 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 31 May 2017 12:33:32 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>31/05/2017 11:33:41 +02:00</pubDate>
+		<pubDate>31/05/2017 12:33:32 +02:00</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<item>
@@ -442,6 +442,17 @@
 			<title>LIQUIDAZIONE DI SPESA PER PAGAMENTO UTENZA TELECOM CHIAMATA TAXI</title>
 			<description>LIQUIDAZIONE DI SPESA PER PAGAMENTO UTENZA TELECOM CHIAMATA TAXI</description>
 			<a10:updated>2017-05-26T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3290361</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3290361</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 25 May 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 09 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3290361</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO AVVISO AI CREDITORI</category>
+			<title>INTERVENTI MITIGAZIONE RISCHIO IDROGEOLOGICO. DELIBERA CIPE N. 8 DEL 20.01.2012. “SISTEMAZIONE MOVIMENTO FRANOSO IN LOCALITÀ TUORO - PROGETTO ESECUTIVO 1° STRALCIO”. INTERVENTO PER €.1.200.000,00. DECRETO DEL COMMISSARIO STRAORDINARIO DELEGATO N. 44 DEL 23.12.2014. RICHIESTA DI PUBBLICAZIONE.</title>
+			<description>INTERVENTI MITIGAZIONE RISCHIO IDROGEOLOGICO. DELIBERA CIPE N. 8 DEL 20.01.2012. “SISTEMAZIONE MOVIMENTO FRANOSO IN LOCALITÀ TUORO - PROGETTO ESECUTIVO 1° STRALCIO”. INTERVENTO PER €.1.200.000,00. DECRETO DEL COMMISSARIO STRAORDINARIO DELEGATO N. 44 DEL 23.12.2014. RICHIESTA DI PUBBLICAZIONE.</description>
+			<a10:updated>2017-05-25T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3281006</guid>
@@ -1101,17 +1112,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
 			<title>LIQUIDAZIONE DI SPESA PER FORNITURA GPL PER FUNZIONAMENTO DELL'IMPIANTO SPORTIVO POLIVALENTE DI C.DA LE PIANE. DITTA MOLISANA GAS.</title>
 			<description>LIQUIDAZIONE DI SPESA PER FORNITURA GPL PER FUNZIONAMENTO DELL'IMPIANTO SPORTIVO POLIVALENTE DI C.DA LE PIANE. DITTA MOLISANA GAS.</description>
-			<a10:updated>2017-05-17T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3258588</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3258588</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 17 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 01 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3258588</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
-			<title>[AMBITO TERRITORIALE SOCIALE] AVVISO “HOME CARE PREMIUM 2014” PER L’ADESIONE E LA GESTIONE DI PROGETTI INNOVATIVI E SPERIMENTALI DI ASSISTENZA DOMICILIARE. LIQUIDAZIONE ALLA CASI SOCIETÀ COOPERATIVA SOCIALE DELLE FATTURE RELATIVE ALLE “PRESTAZIONI SOCIO ASSISTENZIALI INTEGRATIVE EROGATE NEL PERIODO LUGLIO - AGOSTO 2016. </title>
-			<description>[AMBITO TERRITORIALE SOCIALE] AVVISO “HOME CARE PREMIUM 2014” PER L’ADESIONE E LA GESTIONE DI PROGETTI INNOVATIVI E SPERIMENTALI DI ASSISTENZA DOMICILIARE. LIQUIDAZIONE ALLA CASI SOCIETÀ COOPERATIVA SOCIALE DELLE FATTURE RELATIVE ALLE “PRESTAZIONI SOCIO ASSISTENZIALI INTEGRATIVE EROGATE NEL PERIODO LUGLIO - AGOSTO 2016. </description>
 			<a10:updated>2017-05-17T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
