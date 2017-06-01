@@ -5,15 +5,26 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 01 Jun 2017 11:31:17 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 01 Jun 2017 12:31:28 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>01/06/2017 11:31:17 +02:00</pubDate>
+		<pubDate>01/06/2017 12:31:28 +02:00</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/603743</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/603743</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 01 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 16 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">603743</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO ESITI DI GARA</category>
+			<title>OGGETTO: ESITO DI PROCEDURA NEGOZIATA AI SENSI DELL’ART. 36 COMMA 2 LETT. B) DEL D.LGS. 50/2016 PER L’APPALTO DEI LAVORI DI RIPRISTINO DEL PROFILO DI SPIAGGIA ANTECEDENTE AGLI EVENTI METEOMARINI EROSIVI MEDIANTE RECUPERO SABBIA DALLA BATIMETRICA – 0,50 MT E TRASPORTO SULLA SPIAGGIA EMERSA ALL'INTERNO DELLE AREE DI SCAVO/RIPORTO DI PROGETTO A SEGUITO DI AVVISO PUBBLICO PER MANIFESTAZIONE DI INTERESSE DEL 31/01/2017. GARA DEL 03/04/2017 </title>
+			<description>OGGETTO: ESITO DI PROCEDURA NEGOZIATA AI SENSI DELL’ART. 36 COMMA 2 LETT. B) DEL D.LGS. 50/2016 PER L’APPALTO DEI LAVORI DI RIPRISTINO DEL PROFILO DI SPIAGGIA ANTECEDENTE AGLI EVENTI METEOMARINI EROSIVI MEDIANTE RECUPERO SABBIA DALLA BATIMETRICA – 0,50 MT E TRASPORTO SULLA SPIAGGIA EMERSA ALL'INTERNO DELLE AREE DI SCAVO/RIPORTO DI PROGETTO A SEGUITO DI AVVISO PUBBLICO PER MANIFESTAZIONE DI INTERESSE DEL 31/01/2017. GARA DEL 03/04/2017 </description>
+			<a10:updated>2017-06-01T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/603689</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/603689</link>
@@ -1101,17 +1112,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>RETTIFICA DETERMINAZIONE NR. 1051 DEL 05/05/2017: APPROVAZIONE NUOVO SCHEMA DI CONTRATTO PER CONCESSIONE D'USO AL CSV MARCHE DEI LOCALI DI PROPRIETA' COMUNALE SITO IN PESARO IN VIA CEFALONIA SN EX SEDE NIDO MEZZOCIELO ORA CENTRO SKOLE'</title>
 			<description>RETTIFICA DETERMINAZIONE NR. 1051 DEL 05/05/2017: APPROVAZIONE NUOVO SCHEMA DI CONTRATTO PER CONCESSIONE D'USO AL CSV MARCHE DEI LOCALI DI PROPRIETA' COMUNALE SITO IN PESARO IN VIA CEFALONIA SN EX SEDE NIDO MEZZOCIELO ORA CENTRO SKOLE'</description>
-			<a10:updated>2017-05-29T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/597363</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/597363</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 29 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 13 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">597363</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>PROLUNGAMENTO NAVETTA ESTIVA 2017 </title>
-			<description>PROLUNGAMENTO NAVETTA ESTIVA 2017 </description>
 			<a10:updated>2017-05-29T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
