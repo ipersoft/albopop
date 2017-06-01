@@ -5,15 +5,48 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 01 Jun 2017 16:31:26 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 01 Jun 2017 17:31:24 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>01/06/2017 16:31:26 +02:00</pubDate>
+		<pubDate>01/06/2017 17:31:24 +02:00</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/603943</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/603943</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 01 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 16 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">603943</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>RIMBORSO A SALDO FATTURA N. 160058 DEL 31/12/2016 SOCIETÀ IMETER S.R.L</title>
+			<description>RIMBORSO A SALDO FATTURA N. 160058 DEL 31/12/2016 SOCIETÀ IMETER S.R.L</description>
+			<a10:updated>2017-06-01T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/603930</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/603930</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 01 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 16 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">603930</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PUBBLICAZIONI RICHIESTE DA SOGGETTI ESTERNI</category>
+			<title>ORDINANZA N. 15/2017 - GARA DI PESCA SPORTIVA SUBACQUEA IN APNEA "XXVII^ COPPA CITTA' DI PESARO" - GIORNO 04 GIUGNO 2017 - </title>
+			<description>ORDINANZA N. 15/2017 - GARA DI PESCA SPORTIVA SUBACQUEA IN APNEA "XXVII^ COPPA CITTA' DI PESARO" - GIORNO 04 GIUGNO 2017 - </description>
+			<a10:updated>2017-06-01T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/603929</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/603929</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 01 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 16 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">603929</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PUBBLICAZIONI RICHIESTE DA SOGGETTI ESTERNI</category>
+			<title>ORDINANZA N. 16/2017 - SPETTACOLO PIROTECNICO PRESSO IL VECCHIO MOLETTO ANTISTANTE IL RISTORANTE "IL FALCO" - PORTO BAIA VALLUGOLA - GIORNI 2 E 30 GIUGNO / 21 LUGLIO / 15 AGOSTO E 1 SETTEMBRE 2017 - </title>
+			<description>ORDINANZA N. 16/2017 - SPETTACOLO PIROTECNICO PRESSO IL VECCHIO MOLETTO ANTISTANTE IL RISTORANTE "IL FALCO" - PORTO BAIA VALLUGOLA - GIORNI 2 E 30 GIUGNO / 21 LUGLIO / 15 AGOSTO E 1 SETTEMBRE 2017 - </description>
+			<a10:updated>2017-06-01T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/603743</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/603743</link>
@@ -1079,39 +1112,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>MANUTENZIONE, ASSISTENZA E SERVIZI COLLEGATI RELATIVI AL SISTEMA DI RILEVAZIONE INFRAZIONI SEMAFORICHE VISTARED</title>
 			<description>MANUTENZIONE, ASSISTENZA E SERVIZI COLLEGATI RELATIVI AL SISTEMA DI RILEVAZIONE INFRAZIONI SEMAFORICHE VISTARED</description>
-			<a10:updated>2017-05-29T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/597372</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/597372</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 29 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 13 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">597372</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>PROGETTO EUROPEO WOW (PROGRAMMA ERASMUS+ SPORT) – K-LAB DI NANCY RISERVATO AI PROGETTI ERASMUS FINANZIATI NELLA CALL EAC-A04-2015</title>
-			<description>PROGETTO EUROPEO WOW (PROGRAMMA ERASMUS+ SPORT) – K-LAB DI NANCY RISERVATO AI PROGETTI ERASMUS FINANZIATI NELLA CALL EAC-A04-2015</description>
-			<a10:updated>2017-05-29T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/597369</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/597369</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 29 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 13 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">597369</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>INIZIATIVA PROMOSSA DELLA PRESIDENZA DEL CONSIGLIO COMUNALE IN COLLABORAZIONE CON ISTITUTO SCOLASTICO LICEO CLASSICO LINGUISTICO SCIENZE UMANE "T. MAMIANI" DENOMINATA "UN GIORNO VIVRÒ ANCH'IO - IL GENOCIDIO DEL RWANDA SPIEGATO AI GIOVANI".</title>
-			<description>INIZIATIVA PROMOSSA DELLA PRESIDENZA DEL CONSIGLIO COMUNALE IN COLLABORAZIONE CON ISTITUTO SCOLASTICO LICEO CLASSICO LINGUISTICO SCIENZE UMANE "T. MAMIANI" DENOMINATA "UN GIORNO VIVRÒ ANCH'IO - IL GENOCIDIO DEL RWANDA SPIEGATO AI GIOVANI".</description>
-			<a10:updated>2017-05-29T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/597366</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/597366</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 29 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 13 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">597366</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>RETTIFICA DETERMINAZIONE NR. 1051 DEL 05/05/2017: APPROVAZIONE NUOVO SCHEMA DI CONTRATTO PER CONCESSIONE D'USO AL CSV MARCHE DEI LOCALI DI PROPRIETA' COMUNALE SITO IN PESARO IN VIA CEFALONIA SN EX SEDE NIDO MEZZOCIELO ORA CENTRO SKOLE'</title>
-			<description>RETTIFICA DETERMINAZIONE NR. 1051 DEL 05/05/2017: APPROVAZIONE NUOVO SCHEMA DI CONTRATTO PER CONCESSIONE D'USO AL CSV MARCHE DEI LOCALI DI PROPRIETA' COMUNALE SITO IN PESARO IN VIA CEFALONIA SN EX SEDE NIDO MEZZOCIELO ORA CENTRO SKOLE'</description>
 			<a10:updated>2017-05-29T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
