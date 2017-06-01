@@ -5,13 +5,13 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 31 May 2017 18:32:58 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 01 Jun 2017 08:33:11 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>31/05/2017 18:32:58 +02:00</pubDate>
+		<pubDate>01/06/2017 08:33:11 +02:00</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<item>
@@ -807,17 +807,6 @@
 			<a10:updated>2017-05-23T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3275230</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3275230</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 23 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 31 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3275230</category>
-			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO PUBBLICAZIONE DI MATRIMONIO</category>
-			<title>PUBBLICAZIONE DI MATRIMONIO DI LEONARDI GIOVANNI E TURCO ANGIOLINA</title>
-			<description>PUBBLICAZIONE DI MATRIMONIO DI LEONARDI GIOVANNI E TURCO ANGIOLINA</description>
-			<a10:updated>2017-05-23T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
 			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3275122</guid>
 			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3275122</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 23 May 2017 02:00:00 +0200</category>
@@ -1112,6 +1101,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
 			<title>ATTO DI LIQUIDAZIONE di spesa per Pagamento utenza ENERGIA ELETTRICA“Casa dello Studente” DITTA ENEL ENERGIA- CIG: Z811CFED9D- PERIODO marzo 2017 </title>
 			<description>ATTO DI LIQUIDAZIONE di spesa per Pagamento utenza ENERGIA ELETTRICA“Casa dello Studente” DITTA ENEL ENERGIA- CIG: Z811CFED9D- PERIODO marzo 2017 </description>
+			<a10:updated>2017-05-18T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3262338</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3262338</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 18 May 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 02 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3262338</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
+			<title>ATTO DI LIQUIDAZIONE DI SPESA Per pagamento utenza Telecom scuola Elementare –2°Bim. -2016- CIG: Z3218341E3</title>
+			<description>ATTO DI LIQUIDAZIONE DI SPESA Per pagamento utenza Telecom scuola Elementare –2°Bim. -2016- CIG: Z3218341E3</description>
 			<a10:updated>2017-05-18T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
