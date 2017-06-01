@@ -5,15 +5,26 @@
 		<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Belpasso</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 01 Jun 2017 08:31:59 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 01 Jun 2017 09:30:34 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Belpasso</category>
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Belpasso</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_belpasso</a10:id>
-		<pubDate>01/06/2017 08:31:59 +02:00</pubDate>
+		<pubDate>01/06/2017 09:30:34 +02:00</pubDate>
 		<docs>http://albopop.it/comune/belpasso/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
+		<item>
+			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3292008</guid>
+			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3292008</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 01 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 16 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3292008</category>
+			<category domain="http://albopop.it/specs#item-category-type">BANDI BANDO DI GARA</category>
+			<title> MANIFESTAZIONE DI INTERESSE ALLA GESTIONE DELLA PISCINA COMUNALE SCOPERTA PER LA STAGIONE ESTIVA 2017</title>
+			<description> MANIFESTAZIONE DI INTERESSE ALLA GESTIONE DELLA PISCINA COMUNALE SCOPERTA PER LA STAGIONE ESTIVA 2017</description>
+			<a10:updated>2017-06-01T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3290546</guid>
 			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3290546</link>
@@ -1102,17 +1113,6 @@
 			<title>VERBALE V COMMISSIONE DEL 5.5.2017</title>
 			<description>VERBALE V COMMISSIONE DEL 5.5.2017</description>
 			<a10:updated>2017-05-17T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3252894</guid>
-			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3252894</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 16 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 10 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3252894</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO</category>
-			<title>AVVISO DISABILI GRAVISSIMI- MODELLO DI DOMANDA - PATTOI DI CURA</title>
-			<description>AVVISO DISABILI GRAVISSIMI- MODELLO DI DOMANDA - PATTOI DI CURA</description>
-			<a10:updated>2017-05-16T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
