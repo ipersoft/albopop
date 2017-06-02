@@ -5,13 +5,13 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 01 Jun 2017 18:33:22 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 02 Jun 2017 08:33:12 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>01/06/2017 18:33:22 +02:00</pubDate>
+		<pubDate>02/06/2017 08:33:12 +02:00</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<item>
@@ -642,17 +642,6 @@
 			<a10:updated>2017-05-25T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2791792</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2791792</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 25 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 01 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2791792</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE PUBBLICAZIONI MATRIMONIALI</category>
-			<title>PUBBLICAZIONE DI MATRIMONIO 77 II C 2017 SONEL GEORGIAN-CIPRIAN OCNEANU CRISTINA</title>
-			<description>PUBBLICAZIONE DI MATRIMONIO 77 II C 2017 SONEL GEORGIAN-CIPRIAN OCNEANU CRISTINA</description>
-			<a10:updated>2017-05-25T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2792287</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2792287</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 24 May 2017 02:00:00 +0200</category>
@@ -1112,6 +1101,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>LIQUIDAZIONE AGGIO PER IL SERVIZIO DI RILASCIO E RISCOSSIONE DEL CANONE CONCESSORIO STRADALE RELATIVO AGLI ACCESSI E PASSI CARRABILI DI CUI AL CONTRATTO REP. N. 5101 DEL 27.06.2002 PER ATTIVITA' ESPLETATA DA LUGLIO A DICEMBRE 2016</title>
 			<description>LIQUIDAZIONE AGGIO PER IL SERVIZIO DI RILASCIO E RISCOSSIONE DEL CANONE CONCESSORIO STRADALE RELATIVO AGLI ACCESSI E PASSI CARRABILI DI CUI AL CONTRATTO REP. N. 5101 DEL 27.06.2002 PER ATTIVITA' ESPLETATA DA LUGLIO A DICEMBRE 2016</description>
+			<a10:updated>2017-05-19T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2786138</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2786138</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 19 May 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 03 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2786138</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>LIQUIDAZIONE AGGIO PER IL SERVIZIO DI ACCERTAMENTO E RISCOSSIONE DELL'IMPOSTA COMUNALE SULLA PUBBLICITA' DI CUI AL CONTRATTO REP. N. 5101 DEL 27.06.2002 PER ATTIVITA' ESPLETATA DA LUGLIO A DICEMBRE 2016</title>
+			<description>LIQUIDAZIONE AGGIO PER IL SERVIZIO DI ACCERTAMENTO E RISCOSSIONE DELL'IMPOSTA COMUNALE SULLA PUBBLICITA' DI CUI AL CONTRATTO REP. N. 5101 DEL 27.06.2002 PER ATTIVITA' ESPLETATA DA LUGLIO A DICEMBRE 2016</description>
 			<a10:updated>2017-05-19T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
