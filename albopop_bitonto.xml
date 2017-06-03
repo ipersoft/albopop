@@ -5,15 +5,26 @@
 		<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bitonto</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 03 Jun 2017 10:30:39 +0200</lastBuildDate>
+		<lastBuildDate>Sat, 03 Jun 2017 11:30:40 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bitonto</category>
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bitonto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bitonto</a10:id>
-		<pubDate>03/06/2017 10:30:39 +02:00</pubDate>
+		<pubDate>03/06/2017 11:30:40 +02:00</pubDate>
 		<docs>http://albopop.it/comune/bitonto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
+		<item>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3295225</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3295225</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 03 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 18 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3295225</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
+			<title>CHIUSURA DELLA VILLA COMUNALE "UMBERTO I" NELLA GIORNATA DI LUNEDI' 5 GIUGNO 2017 - TRATTAMENTO DEI LECCI</title>
+			<description>CHIUSURA DELLA VILLA COMUNALE "UMBERTO I" NELLA GIORNATA DI LUNEDI' 5 GIUGNO 2017 - TRATTAMENTO DEI LECCI</description>
+			<a10:updated>2017-06-03T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3295190</guid>
 			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3295190</link>
@@ -1101,17 +1112,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERA DI CONSIGLIO</category>
 			<title>SINISTRO STRADALE. VERTENZA IGNOMERIELLO COSIMA C/COMUNE DI BITONTO – LIQUIDAZIONE DANNI A SEGUITO SENTENZA DEL GIUDICE DI PACE DI BARI N. 9/2016. RICONOSCIMENTO DELLA LEGITTIMITA’ QUALE DEBITO FUORI BILANCIO DELLE OBBLIGAZIONI PER SORTE CAPITALE E SPESE DI GIUDIZIO AI SENSI DELL’ART. 194, COMMA 1, LETTERA A) DEL D.LGS. N. 267 DEL 18 AGOSTO 2000. </title>
 			<description>SINISTRO STRADALE. VERTENZA IGNOMERIELLO COSIMA C/COMUNE DI BITONTO – LIQUIDAZIONE DANNI A SEGUITO SENTENZA DEL GIUDICE DI PACE DI BARI N. 9/2016. RICONOSCIMENTO DELLA LEGITTIMITA’ QUALE DEBITO FUORI BILANCIO DELLE OBBLIGAZIONI PER SORTE CAPITALE E SPESE DI GIUDIZIO AI SENSI DELL’ART. 194, COMMA 1, LETTERA A) DEL D.LGS. N. 267 DEL 18 AGOSTO 2000. </description>
-			<a10:updated>2017-05-23T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3273657</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3273657</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 23 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 06 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3273657</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERA DI CONSIGLIO</category>
-			<title>SINISTRO STRADALE. VERTENZA CARBONE FRANCESCA C/COMUNE DI BITONTO – LIQUIDAZIONE DANNI A SEGUITO SENTENZA DEL GIUDICE DI PACE DI BARI EX SEDE DI BITONTO N.71/2016. RICONOSCIMENTO DELLA LEGITTIMITA’ QUALE DEBITO FUORI BILANCIO DELLE OBBLIGAZIONI PER SORTE CAPITALE E SPESE DI GIUDIZIO AI SENSI DELL’ART. 194, COMMA 1, LETTERA A) DEL D.LGS. N. 267 DEL 18 AGOSTO 2000. </title>
-			<description>SINISTRO STRADALE. VERTENZA CARBONE FRANCESCA C/COMUNE DI BITONTO – LIQUIDAZIONE DANNI A SEGUITO SENTENZA DEL GIUDICE DI PACE DI BARI EX SEDE DI BITONTO N.71/2016. RICONOSCIMENTO DELLA LEGITTIMITA’ QUALE DEBITO FUORI BILANCIO DELLE OBBLIGAZIONI PER SORTE CAPITALE E SPESE DI GIUDIZIO AI SENSI DELL’ART. 194, COMMA 1, LETTERA A) DEL D.LGS. N. 267 DEL 18 AGOSTO 2000. </description>
 			<a10:updated>2017-05-23T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
