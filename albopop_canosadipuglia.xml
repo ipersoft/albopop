@@ -5,13 +5,13 @@
 		<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Canosa di Puglia</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 02 Jun 2017 18:32:28 +0200</lastBuildDate>
+		<lastBuildDate>Sat, 03 Jun 2017 10:00:13 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Canosa di Puglia</category>
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Canosa di Puglia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_canosadipuglia</a10:id>
-		<pubDate>02/06/2017 18:32:28 +02:00</pubDate>
+		<pubDate>03/06/2017 10:00:13 +02:00</pubDate>
 		<docs>http://albopop.it/comune/canosadipuglia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<item>
@@ -620,17 +620,6 @@
 			<a10:updated>2017-05-25T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3279325</guid>
-			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3279325</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 25 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 02 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3279325</category>
-			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO</category>
-			<title>IACOBONE - MIANO</title>
-			<description>IACOBONE - MIANO</description>
-			<a10:updated>2017-05-25T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
 			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3278666</guid>
 			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3278666</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 25 May 2017 02:00:00 +0200</category>
@@ -1112,6 +1101,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
 			<title>PROSECUZIONE COLLOCAMENTO DI PERSONA ANZIANA NELLA COMUNITA' ALLOGGIO PER ANZIANI "IL SORRISO" - ANNO 2017</title>
 			<description>PROSECUZIONE COLLOCAMENTO DI PERSONA ANZIANA NELLA COMUNITA' ALLOGGIO PER ANZIANI "IL SORRISO" - ANNO 2017</description>
+			<a10:updated>2017-05-21T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3269769</guid>
+			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3269769</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sun, 21 May 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 05 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3269769</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
+			<title>Trasloco Uffici del Giudice di Pace. Assunzione spesa.</title>
+			<description>Trasloco Uffici del Giudice di Pace. Assunzione spesa.</description>
 			<a10:updated>2017-05-21T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
