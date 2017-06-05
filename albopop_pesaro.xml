@@ -5,15 +5,26 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 05 Jun 2017 09:30:58 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 05 Jun 2017 10:31:02 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>05/06/2017 09:30:58 +02:00</pubDate>
+		<pubDate>05/06/2017 10:31:02 +02:00</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/604125</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/604125</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 05 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 05 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">604125</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO SELEZIONI CONCORSI - ALBO</category>
+			<title>RICHIESTA DI AVVIAMENTO A SELEZIONE AI SENSI DELL’ART.16 LEGGE 56/87 E SUCCESSIVE INTEGRAZIONI E MODIFICAZIONI- RETTIFICA</title>
+			<description>RICHIESTA DI AVVIAMENTO A SELEZIONE AI SENSI DELL’ART.16 LEGGE 56/87 E SUCCESSIVE INTEGRAZIONI E MODIFICAZIONI- RETTIFICA</description>
+			<a10:updated>2017-06-05T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/604038</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/604038</link>
@@ -1101,17 +1112,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
 			<title>ITALCANTIERI SRL - VIA LAMBRO/VIA BORMIDA - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI.</title>
 			<description>ITALCANTIERI SRL - VIA LAMBRO/VIA BORMIDA - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI.</description>
-			<a10:updated>2017-05-29T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/597620</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/597620</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 29 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 13 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">597620</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
-			<title>FRASCHI MARA - VIA PICCIOLA N. 33 - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI.</title>
-			<description>FRASCHI MARA - VIA PICCIOLA N. 33 - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI.</description>
 			<a10:updated>2017-05-29T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
