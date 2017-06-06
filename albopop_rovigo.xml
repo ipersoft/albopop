@@ -5,15 +5,26 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 06 Jun 2017 12:32:36 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 06 Jun 2017 14:33:10 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>06/06/2017 12:32:36 +02:00</pubDate>
+		<pubDate>06/06/2017 14:33:10 +02:00</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2806966</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2806966</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 06 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 21 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2806966</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>LIQUIDAZIONE RETTE DI RICOVERO DEI MESI DI MARZO/APRILE 2017 ALLA CASA DI CURA PRIVATA “CITTÀ DI ROVIGO” (RO). </title>
+			<description>LIQUIDAZIONE RETTE DI RICOVERO DEI MESI DI MARZO/APRILE 2017 ALLA CASA DI CURA PRIVATA “CITTÀ DI ROVIGO” (RO). </description>
+			<a10:updated>2017-06-06T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2806876</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2806876</link>
@@ -1101,17 +1112,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERE DI GIUNTA</category>
 			<title>OGGETTO: AUTORIZZAZIONE DELLA MANIFESTAZIONE DENOMINATA "ROVIGO COMICS COSPLAY &amp; GAMES" PREVISTA PER I GIORNI 26-27-28 MAGGIO 2017 NELLE PIAZZE E VIE DEL CENTRO STORICO E DELLE INIZIATIVE COLLEGATE : - "FESTA AMERICANA E CIBI DAL MONDO" CHE SI SVOLGERÀ I GIORNI 26-27-28 MAGGIO 2017 NELLE VIE DEL CENTRO STORICO; - "TEDDY BEAR HOSPITAL" PREVISTA PER IL 27 MAGGIO 2017 NEL CENTRO STORICO CITTADINO . </title>
 			<description>OGGETTO: AUTORIZZAZIONE DELLA MANIFESTAZIONE DENOMINATA "ROVIGO COMICS COSPLAY &amp; GAMES" PREVISTA PER I GIORNI 26-27-28 MAGGIO 2017 NELLE PIAZZE E VIE DEL CENTRO STORICO E DELLE INIZIATIVE COLLEGATE : - "FESTA AMERICANA E CIBI DAL MONDO" CHE SI SVOLGERÀ I GIORNI 26-27-28 MAGGIO 2017 NELLE VIE DEL CENTRO STORICO; - "TEDDY BEAR HOSPITAL" PREVISTA PER IL 27 MAGGIO 2017 NEL CENTRO STORICO CITTADINO . </description>
-			<a10:updated>2017-05-24T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2791134</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2791134</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 24 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 08 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2791134</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERE DI GIUNTA</category>
-			<title>APPROVAZIONE SCHEMA DI CONVENZIONE ANCI SA S.R.L. E COMUNE DI ROVIGO PER LE POLITICHE COMUNITARIE </title>
-			<description>APPROVAZIONE SCHEMA DI CONVENZIONE ANCI SA S.R.L. E COMUNE DI ROVIGO PER LE POLITICHE COMUNITARIE </description>
 			<a10:updated>2017-05-24T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
