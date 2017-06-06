@@ -5,15 +5,26 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 06 Jun 2017 08:32:58 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 06 Jun 2017 09:32:54 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>06/06/2017 08:32:58 +02:00</pubDate>
+		<pubDate>06/06/2017 09:32:54 +02:00</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3298418</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3298418</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 06 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 21 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3298418</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
+			<title>INDIZIONE DI UNA SELEZIONE PUBBLICA PER L'AFFIDAMENTO DELL'INCARICO DIRIGENZIALE EX ART. 110, COMMA 1 DEL D.LGS. 267/2000 DI RESPONSABILE DEL SETTORE TECNICO DELL'ENTE. </title>
+			<description>INDIZIONE DI UNA SELEZIONE PUBBLICA PER L'AFFIDAMENTO DELL'INCARICO DIRIGENZIALE EX ART. 110, COMMA 1 DEL D.LGS. 267/2000 DI RESPONSABILE DEL SETTORE TECNICO DELL'ENTE. </description>
+			<a10:updated>2017-06-06T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3297435</guid>
 			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3297435</link>
@@ -1101,17 +1112,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
 			<title>Liquidazione della fattura di materiale necessario alla manutenzione ordinaria degli immobili comunali. Liquidazione Ditta Valerio S.r.l. CIG: Z9A1A52D7F -</title>
 			<description>Liquidazione della fattura di materiale necessario alla manutenzione ordinaria degli immobili comunali. Liquidazione Ditta Valerio S.r.l. CIG: Z9A1A52D7F -</description>
-			<a10:updated>2017-05-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3270267</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3270267</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 22 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 06 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3270267</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
-			<title>Utenza per la fornitura di gas metano - sede del Settore III Tecnico - Piazza Michelangelo - ENEL Energia SpA - Impegno e liquidazione di spesa - C.I.G. Z171DEBFE4.</title>
-			<description>Utenza per la fornitura di gas metano - sede del Settore III Tecnico - Piazza Michelangelo - ENEL Energia SpA - Impegno e liquidazione di spesa - C.I.G. Z171DEBFE4.</description>
 			<a10:updated>2017-05-22T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
