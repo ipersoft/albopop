@@ -5,15 +5,26 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 06 Jun 2017 08:32:38 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 06 Jun 2017 09:32:37 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>06/06/2017 08:32:38 +02:00</pubDate>
+		<pubDate>06/06/2017 09:32:37 +02:00</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3298411</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3298411</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 06 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 14 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3298411</category>
+			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>PUBBLICAZIONI ANNO 2017 N. 198 DEL SARTO STEFANO BETTI MARIA GRAZIA</title>
+			<description>PUBBLICAZIONI ANNO 2017 N. 198 DEL SARTO STEFANO BETTI MARIA GRAZIA</description>
+			<a10:updated>2017-06-06T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3296879</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3296879</link>
@@ -1102,17 +1113,6 @@
 			<title>U.O. 2.3 - ASSEGNAZIONE DI ALLOGGIO DI ERP POSTO NEL COMUNE DI LUCCA "INTERVENTI PILOTA A FAVORE DI COMUNITA' EMARGINATE " CONTENUTO: (GESTIONE ALLOGGI FAMIGLIA 11 "ALTRO")</title>
 			<description>U.O. 2.3 - ASSEGNAZIONE DI ALLOGGIO DI ERP POSTO NEL COMUNE DI LUCCA "INTERVENTI PILOTA A FAVORE DI COMUNITA' EMARGINATE " CONTENUTO: (GESTIONE ALLOGGI FAMIGLIA 11 "ALTRO")</description>
 			<a10:updated>2017-05-31T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3289048</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3289048</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 30 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 14 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3289048</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>ASSEGNAZIONE IN CONCESSIONE DEI POSTEGGI FISSI ALL'INTERNO DEL MERCATO ALL'INGROSSO DI PULIA. III PROCEDIMENTO DI ASSEGNAZIONE. APPROVAZIONE AVVISO.</title>
-			<description>ASSEGNAZIONE IN CONCESSIONE DEI POSTEGGI FISSI ALL'INTERNO DEL MERCATO ALL'INGROSSO DI PULIA. III PROCEDIMENTO DI ASSEGNAZIONE. APPROVAZIONE AVVISO.</description>
-			<a10:updated>2017-05-30T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
