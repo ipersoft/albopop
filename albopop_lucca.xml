@@ -5,15 +5,26 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 05 Jun 2017 23:07:43 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 06 Jun 2017 08:32:38 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>05/06/2017 23:07:43 +02:00</pubDate>
+		<pubDate>06/06/2017 08:32:38 +02:00</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3296879</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3296879</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 06 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 05 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3296879</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRO</category>
+			<title>ACQUE SERVIZI - AVVISO AI CREDITORI - ULTIMAZIONE LAVORI ATTRAVERSAMENTO FERROVIARIO LINEA PISTOIA-LUCCA, DA REALIZZARSI A MONTECARLO</title>
+			<description>ACQUE SERVIZI - AVVISO AI CREDITORI - ULTIMAZIONE LAVORI ATTRAVERSAMENTO FERROVIARIO LINEA PISTOIA-LUCCA, DA REALIZZARSI A MONTECARLO</description>
+			<a10:updated>2017-06-06T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3298104</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3298104</link>
@@ -1101,17 +1112,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>ASSEGNAZIONE IN CONCESSIONE DEI POSTEGGI FISSI ALL'INTERNO DEL MERCATO ALL'INGROSSO DI PULIA. III PROCEDIMENTO DI ASSEGNAZIONE. APPROVAZIONE AVVISO.</title>
 			<description>ASSEGNAZIONE IN CONCESSIONE DEI POSTEGGI FISSI ALL'INTERNO DEL MERCATO ALL'INGROSSO DI PULIA. III PROCEDIMENTO DI ASSEGNAZIONE. APPROVAZIONE AVVISO.</description>
-			<a10:updated>2017-05-30T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3288951</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3288951</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 30 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 14 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3288951</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>AFFIDAMENTO DEI LAVORI DI MIGLIORAMENTO SISMICO DELL'ALA EST DEL CHIOSTRO DEL MERCATO DEL CARMINE MEDIANTE PROCEDURA NEGOZIATA AI SENSI DEGLI ART. 36, COMMA 2, LETTERA C) DEL D.LGS. N.50/2016 - APPROVAZIONE RISULTANZE FASE DI AMMISSIONE DEI CONCORRENTI ALLA GARA.– CIG 6893323617</title>
-			<description>AFFIDAMENTO DEI LAVORI DI MIGLIORAMENTO SISMICO DELL'ALA EST DEL CHIOSTRO DEL MERCATO DEL CARMINE MEDIANTE PROCEDURA NEGOZIATA AI SENSI DEGLI ART. 36, COMMA 2, LETTERA C) DEL D.LGS. N.50/2016 - APPROVAZIONE RISULTANZE FASE DI AMMISSIONE DEI CONCORRENTI ALLA GARA.– CIG 6893323617</description>
 			<a10:updated>2017-05-30T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
