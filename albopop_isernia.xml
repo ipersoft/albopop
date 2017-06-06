@@ -5,15 +5,26 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 06 Jun 2017 11:32:27 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 06 Jun 2017 12:32:29 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>06/06/2017 11:32:27 +02:00</pubDate>
+		<pubDate>06/06/2017 12:32:29 +02:00</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3299252</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3299252</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 06 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 21 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3299252</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
+			<title>LIQUIDAZIONE DI SPESA PER PAGAMENTO UTENZA TELECOM UFFICI COMUNALI </title>
+			<description>LIQUIDAZIONE DI SPESA PER PAGAMENTO UTENZA TELECOM UFFICI COMUNALI </description>
+			<a10:updated>2017-06-06T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3298840</guid>
 			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3298840</link>
@@ -1101,17 +1112,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO AVVISO AI CREDITORI</category>
 			<title>COMUNE DI ISERNIA – FINANZIAMENTO DI UNA CAMPAGNA DI INDAGINI GEOGNOSTICHE, PER UN IMPORTO COMPLESSIVO DI €. 50.000,00, FINALIZZATA ALLO STUDIO DEL FENOMENO DI DISSESTO IDROGEOLOGICO INTERESSANTE LA S.S. N.17 “APPULO SANNITICA” – TRA IL KM 171 + 800 E IL KM 172 + 000, IN LOCALITÀ MACERONE DEL COMUNE MEDESIMO. RICHIESTA DI PUBBLICAZIONE. </title>
 			<description>COMUNE DI ISERNIA – FINANZIAMENTO DI UNA CAMPAGNA DI INDAGINI GEOGNOSTICHE, PER UN IMPORTO COMPLESSIVO DI €. 50.000,00, FINALIZZATA ALLO STUDIO DEL FENOMENO DI DISSESTO IDROGEOLOGICO INTERESSANTE LA S.S. N.17 “APPULO SANNITICA” – TRA IL KM 171 + 800 E IL KM 172 + 000, IN LOCALITÀ MACERONE DEL COMUNE MEDESIMO. RICHIESTA DI PUBBLICAZIONE. </description>
-			<a10:updated>2017-05-23T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3275122</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3275122</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 23 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 07 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3275122</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
-			<title>Appalto del Servizio di trasporto scolastico a mezzo scuolabus - Regime di proroga tecnica - Liquidazione di spesa relativa alle spettanze per il mese di aprile 2017 - ditta: Happy Travel Lines snc</title>
-			<description>Appalto del Servizio di trasporto scolastico a mezzo scuolabus - Regime di proroga tecnica - Liquidazione di spesa relativa alle spettanze per il mese di aprile 2017 - ditta: Happy Travel Lines snc</description>
 			<a10:updated>2017-05-23T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
