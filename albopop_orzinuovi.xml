@@ -5,15 +5,26 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 06 Jun 2017 18:31:05 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 07 Jun 2017 11:31:12 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>06/06/2017 18:31:05 +02:00</pubDate>
+		<pubDate>07/06/2017 11:31:12 +02:00</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2808666</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2808666</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 07 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 22 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2808666</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>SERVIZI DI VIGILANZA STRAORDINARI ISPETTIVI DINAMICI SUI PLESSI COMUNALI - CIG Z931ED0B16</title>
+			<description>SERVIZI DI VIGILANZA STRAORDINARI ISPETTIVI DINAMICI SUI PLESSI COMUNALI - CIG Z931ED0B16</description>
+			<a10:updated>2017-06-07T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2806820</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2806820</link>
@@ -89,17 +100,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI GRADUATORIA</category>
 			<title>GRADUATORIA AI FINI DELL’ASSEGNAZIONE DELLE CONCESSIONI DI POSTEGGIO NEL MERCATO SETTIMANALE - BANDO PUBBLICO PUBBLICATO IN DATA 5 GENNAIO 2017. </title>
 			<description>GRADUATORIA AI FINI DELL’ASSEGNAZIONE DELLE CONCESSIONI DI POSTEGGIO NEL MERCATO SETTIMANALE - BANDO PUBBLICO PUBBLICATO IN DATA 5 GENNAIO 2017. </description>
-			<a10:updated>2017-06-05T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2804317</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2804317</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 05 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 06 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2804317</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DEPOSITO ATTI EQUITALIA</category>
-			<title>DEPOSITO ATTI NELLA CASA COMUNALE PER AFFISSIONE ALL'ALBO </title>
-			<description>DEPOSITO ATTI NELLA CASA COMUNALE PER AFFISSIONE ALL'ALBO </description>
 			<a10:updated>2017-06-05T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
@@ -675,116 +675,6 @@
 			<a10:updated>2017-05-23T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2788627</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2788627</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 22 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 06 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2788627</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>APPROVAZIONE PROGETTI FORMATIVI E DI ORIENTAMENTO PRESENTATI DALL’ISTITUTO D’ISTRUZIONE SUPERIORE “RACCHETTI - DA VINCI” DI CREMA, RELATIVO ALLO STAGE DI N. 2 STUDENTI</title>
-			<description>APPROVAZIONE PROGETTI FORMATIVI E DI ORIENTAMENTO PRESENTATI DALL’ISTITUTO D’ISTRUZIONE SUPERIORE “RACCHETTI - DA VINCI” DI CREMA, RELATIVO ALLO STAGE DI N. 2 STUDENTI</description>
-			<a10:updated>2017-05-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2788624</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2788624</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 22 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 06 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2788624</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>APPROVAZIONE PROGETTO FORMATIVO E DI ORIENTAMENTO PRESENTATO DALL’ISTITUTO “CANOSSA SCUOLE SUPERIORI PARITARIE” DI BRESCIA, RELATIVO ALLO STAGE DI N. 1 STUDENTE</title>
-			<description>APPROVAZIONE PROGETTO FORMATIVO E DI ORIENTAMENTO PRESENTATO DALL’ISTITUTO “CANOSSA SCUOLE SUPERIORI PARITARIE” DI BRESCIA, RELATIVO ALLO STAGE DI N. 1 STUDENTE</description>
-			<a10:updated>2017-05-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2788489</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2788489</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 22 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 06 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2788489</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>APPROVAZIONE BANDO D’ASTA PUBBLICA PER ALIENAZIONE DI AREA DI PROPRIETA’ COMUNALE.</title>
-			<description>APPROVAZIONE BANDO D’ASTA PUBBLICA PER ALIENAZIONE DI AREA DI PROPRIETA’ COMUNALE.</description>
-			<a10:updated>2017-05-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2788418</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2788418</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 22 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 06 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2788418</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>SERVIZIO DI MANUTENZIONE IMPIANTI ANTINTRUSIONE E ANTINCENDIO A SERVIZO DEGLI IMMOBILI DI PROPRIETA’ COMUNALE – PERIODO 01.01.2017 – 31.12.2018 - CIG: ZB81C2CAB9. - SERVIZI SUPPLEMENTARI</title>
-			<description>SERVIZIO DI MANUTENZIONE IMPIANTI ANTINTRUSIONE E ANTINCENDIO A SERVIZO DEGLI IMMOBILI DI PROPRIETA’ COMUNALE – PERIODO 01.01.2017 – 31.12.2018 - CIG: ZB81C2CAB9. - SERVIZI SUPPLEMENTARI</description>
-			<a10:updated>2017-05-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2788415</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2788415</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 22 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 06 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2788415</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>INTERVENTO MANUTENTIVO STRAORDINARIO TRATTO PISTA CICLABILE VIALE VITTORIO VENETO – CIG: Z1E1E8BFD2</title>
-			<description>INTERVENTO MANUTENTIVO STRAORDINARIO TRATTO PISTA CICLABILE VIALE VITTORIO VENETO – CIG: Z1E1E8BFD2</description>
-			<a10:updated>2017-05-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2787958</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2787958</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 22 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 06 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2787958</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>FORNITURA E POSA LASTRE IN PLEXGLAS A PROTEZIONE DI UN QUADRO ANTICO AD OLIO COLLOCATO PRESSO LA SALA CONSIGLIO DEL PALAZZO MUNICIPALE. CIG: Z551E74E4D</title>
-			<description>FORNITURA E POSA LASTRE IN PLEXGLAS A PROTEZIONE DI UN QUADRO ANTICO AD OLIO COLLOCATO PRESSO LA SALA CONSIGLIO DEL PALAZZO MUNICIPALE. CIG: Z551E74E4D</description>
-			<a10:updated>2017-05-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2787906</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2787906</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 22 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 06 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2787906</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>APPALTO MANUTENZIONE ORDINARIA IMMOBILI COMUNALI - NOLO MACCHINE OPERATRICI. PERIODO 01.09.2016/31.08.2018. CIG: ZE41A7F6A2 - SERVIZI SUPPLEMENTARI</title>
-			<description>APPALTO MANUTENZIONE ORDINARIA IMMOBILI COMUNALI - NOLO MACCHINE OPERATRICI. PERIODO 01.09.2016/31.08.2018. CIG: ZE41A7F6A2 - SERVIZI SUPPLEMENTARI</description>
-			<a10:updated>2017-05-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2787869</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2787869</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 22 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 06 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2787869</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI VERBALE</category>
-			<title>VERBALE DI COSA RITROVATA (BICICLETTA DA DONNA)</title>
-			<description>VERBALE DI COSA RITROVATA (BICICLETTA DA DONNA)</description>
-			<a10:updated>2017-05-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2787700</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2787700</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 22 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 06 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2787700</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI AUTORIZZAZIONI</category>
-			<title>AUTORIZZAZIONE PER INSTALLAZIONE DI N° 1 CARTELLO PUBBLICITARIO "CLINICA DENTISTICA MUTUALISTICA........." IN VIA VITTORIO VENETO N° 4</title>
-			<description>AUTORIZZAZIONE PER INSTALLAZIONE DI N° 1 CARTELLO PUBBLICITARIO "CLINICA DENTISTICA MUTUALISTICA........." IN VIA VITTORIO VENETO N° 4</description>
-			<a10:updated>2017-05-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2787515</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2787515</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 22 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 06 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2787515</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI AUTORIZZAZIONI</category>
-			<title>AUTORIZZAZIONE PER STRISCIONE PUBBLICITARIO "TORNEO FIFA 17 ............" DA POSIZIONARE SULLA ROTONDA DI VIA MILANO</title>
-			<description>AUTORIZZAZIONE PER STRISCIONE PUBBLICITARIO "TORNEO FIFA 17 ............" DA POSIZIONARE SULLA ROTONDA DI VIA MILANO</description>
-			<a10:updated>2017-05-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2784836</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2784836</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 18 May 2017 02:00:00 +0200</category>
@@ -838,17 +728,6 @@
 			<title>VERBALE NR 2: CONSTATAZIONE, RIMOZIONE E CONFERIMENTO PROVVISORIO A CENTRO DI RACCOLTA DI VEICOLO IN STATO DI ABBANDONO</title>
 			<description>VERBALE NR 2: CONSTATAZIONE, RIMOZIONE E CONFERIMENTO PROVVISORIO A CENTRO DI RACCOLTA DI VEICOLO IN STATO DI ABBANDONO</description>
 			<a10:updated>2017-05-04T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2763631</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2763631</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 03 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 06 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2763631</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI BANDO</category>
-			<title>AVVISO DI MOBILITA' VOLONTARIA ESTERNA NEL PROFILO DI ISTRUTTORE TECNICO-GEOMETRA, CAT. C1 NELL'AREA SVILUPPO, GOVERNO E SERVIZI AL TERRITORIO</title>
-			<description>AVVISO DI MOBILITA' VOLONTARIA ESTERNA NEL PROFILO DI ISTRUTTORE TECNICO-GEOMETRA, CAT. C1 NELL'AREA SVILUPPO, GOVERNO E SERVIZI AL TERRITORIO</description>
-			<a10:updated>2017-05-03T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2736625</guid>
