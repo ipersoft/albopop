@@ -5,15 +5,26 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 07 Jun 2017 12:31:24 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 07 Jun 2017 13:31:10 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>07/06/2017 12:31:24 +02:00</pubDate>
+		<pubDate>07/06/2017 13:31:10 +02:00</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/604888</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/604888</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 07 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 22 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">604888</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
+			<title>IMPRESA FAZIO GIACOMO - VIA PASSERI N. 73 - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI.</title>
+			<description>IMPRESA FAZIO GIACOMO - VIA PASSERI N. 73 - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI.</description>
+			<a10:updated>2017-06-07T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/604802</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/604802</link>
@@ -1101,17 +1112,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALBO ESITI DI GARA</category>
 			<title>OGGETTO: ESITO DI PROCEDURA NEGOZIATA AI SENSI DELL’ART. 36 COMMA 2 LETT. B) DEL D.LGS. 50/2016 PER L’APPALTO DEI LAVORI DI RIPRISTINO DEL PROFILO DI SPIAGGIA ANTECEDENTE AGLI EVENTI METEOMARINI EROSIVI MEDIANTE RECUPERO SABBIA DALLA BATIMETRICA – 0,50 MT E TRASPORTO SULLA SPIAGGIA EMERSA ALL'INTERNO DELLE AREE DI SCAVO/RIPORTO DI PROGETTO A SEGUITO DI AVVISO PUBBLICO PER MANIFESTAZIONE DI INTERESSE DEL 31/01/2017. GARA DEL 03/04/2017 </title>
 			<description>OGGETTO: ESITO DI PROCEDURA NEGOZIATA AI SENSI DELL’ART. 36 COMMA 2 LETT. B) DEL D.LGS. 50/2016 PER L’APPALTO DEI LAVORI DI RIPRISTINO DEL PROFILO DI SPIAGGIA ANTECEDENTE AGLI EVENTI METEOMARINI EROSIVI MEDIANTE RECUPERO SABBIA DALLA BATIMETRICA – 0,50 MT E TRASPORTO SULLA SPIAGGIA EMERSA ALL'INTERNO DELLE AREE DI SCAVO/RIPORTO DI PROGETTO A SEGUITO DI AVVISO PUBBLICO PER MANIFESTAZIONE DI INTERESSE DEL 31/01/2017. GARA DEL 03/04/2017 </description>
-			<a10:updated>2017-06-01T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/603689</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/603689</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 01 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 10 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">603689</category>
-			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO RICHIESTA PUBBLICAZIONE MATRIMONIO ALBO</category>
-			<title>PUBBLICAZIONI DI MATRIMONIO DI "RICCI SIMONE E RICCIARDELLI PAOLA NATA IL 04.08.1968" </title>
-			<description>PUBBLICAZIONI DI MATRIMONIO DI "RICCI SIMONE E RICCIARDELLI PAOLA NATA IL 04.08.1968" </description>
 			<a10:updated>2017-06-01T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
