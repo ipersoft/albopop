@@ -5,7 +5,7 @@
 		<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Belpasso</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 09 Jun 2017 13:31:58 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 09 Jun 2017 14:30:29 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Belpasso</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -14,11 +14,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Belpasso</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_belpasso</a10:id>
-		<pubDate>09/06/2017 13:31:58 +02:00</pubDate>
+		<pubDate>09/06/2017 14:30:29 +02:00</pubDate>
 		<docs>http://albopop.it/comune/belpasso/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta name="robots" content="noindex" />
 		<creativeCommons:license>http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3322749</guid>
+			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3322749</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 09 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 16 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3322749</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONSIGLIO COMUNALE CONVOCAZIONE CONSIGLIO COMUNALE</category>
+			<title> RINVIO LAVORI CONSIGLIO COMUNALE</title>
+			<description> RINVIO LAVORI CONSIGLIO COMUNALE</description>
+			<a10:updated>2017-06-09T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3322747</guid>
+			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3322747</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 09 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 08 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3322747</category>
+			<category domain="http://albopop.it/specs#item-category-type">BANDI BANDO DI GARA</category>
+			<title>LEGGE 10 MARZO 2000 N. 62. NORME PER LA PARITÀ SCOLASTICA E DISPOSIZIONI SUL DIRITTO ALLO STUDIO E ALL'ISTRUZIONE E DPCM 14/2/2001 N.106. DISPOSIZIONI ATTUATIVE A.S. 2016/17 E BANDO PER L'ASSEGNAZIONE DELLE BORSE DI STUDIO. PUBBLICAZIONI</title>
+			<description>LEGGE 10 MARZO 2000 N. 62. NORME PER LA PARITÀ SCOLASTICA E DISPOSIZIONI SUL DIRITTO ALLO STUDIO E ALL'ISTRUZIONE E DPCM 14/2/2001 N.106. DISPOSIZIONI ATTUATIVE A.S. 2016/17 E BANDO PER L'ASSEGNAZIONE DELLE BORSE DI STUDIO. PUBBLICAZIONI</description>
+			<a10:updated>2017-06-09T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3321755</guid>
 			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3321755</link>
@@ -1096,27 +1118,6 @@
 			<title>ESITO PROVA ORALE DEL CONCORSO PER TITOLI ED ASAMI DI ISTRUTTORE CONTABILE CAT.C . </title>
 			<description>ESITO PROVA ORALE DEL CONCORSO PER TITOLI ED ASAMI DI ISTRUTTORE CONTABILE CAT.C . </description>
 			<a10:updated>2017-05-11T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3161912</guid>
-			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3161912</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 03 Apr 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 31 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3161912</category>
-			<category domain="http://albopop.it/specs#item-category-type">MANIFESTI MANIFESTO INVITO</category>
-			<title>AGGIORNAMENTO DEGLI ALBI DEI GIUDICI POPOLARI PER LE CORTI D'ASSISE E PER LE CORTI D'ASSISE D'APPELLO - ISCRIZIONE NEGLI ELENCHI COMUNALI - BIENNIO 2019-2020 - DA AFFIGGERE IL 03/04/2017 FINO AL 31/07/2017</title>
-			<description>AGGIORNAMENTO DEGLI ALBI DEI GIUDICI POPOLARI PER LE CORTI D'ASSISE E PER LE CORTI D'ASSISE D'APPELLO - ISCRIZIONE NEGLI ELENCHI COMUNALI - BIENNIO 2019-2020 - DA AFFIGGERE IL 03/04/2017 FINO AL 31/07/2017</description>
-			<a10:updated>2017-04-03T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3111864</guid>
-			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3111864</link>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 27 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3111864</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVVISO DI VENDITA IMMOBILIARE</category>
-			<title>AVVISO DI VENDITA IMMOBILIARE</title>
-			<description>AVVISO DI VENDITA IMMOBILIARE</description>
-			<a10:updated>2017-03-10T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
