@@ -5,7 +5,7 @@
 		<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Viterbo</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 09 Jun 2017 13:31:34 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 09 Jun 2017 14:31:26 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Viterbo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Viterbo</category>
@@ -14,11 +14,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Viterbo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_viterbo</a10:id>
-		<pubDate>09/06/2017 13:31:34 +02:00</pubDate>
+		<pubDate>09/06/2017 14:31:26 +02:00</pubDate>
 		<docs>http://albopop.it/comune/viterbo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta name="robots" content="noindex" />
 		<creativeCommons:license>http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3322806</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3322806</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 09 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 29 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3322806</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONVOCAZIONE CONSIGLIO </category>
+			<title>CONVOCAZIONE CONSIGLIO COMUNALE DEL 22 E 29 GIUGNO 2017 - PROTOCOLLO N 3485-2017</title>
+			<description>CONVOCAZIONE CONSIGLIO COMUNALE DEL 22 E 29 GIUGNO 2017 - PROTOCOLLO N 3485-2017</description>
+			<a10:updated>2017-06-09T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3322804</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3322804</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 09 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 20 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3322804</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONVOCAZIONE CONSIGLIO </category>
+			<title>CONVOCAZIONE CONSIGLIO COMUNALE- PROT. 3483-2017</title>
+			<description>CONVOCAZIONE CONSIGLIO COMUNALE- PROT. 3483-2017</description>
+			<a10:updated>2017-06-09T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3322051</guid>
 			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3322051</link>
@@ -1096,28 +1118,6 @@
 			<title>DOCUMENTO UNICO DI PROGRAMMAZIONE (DUP) - PERIODO2017/2019 DISCUSSIONE E CONSEGUENTE DELIBERAZIONE (ART. 170, COMMA 1, DEL D. LGS. N. 267/2000)</title>
 			<description>DOCUMENTO UNICO DI PROGRAMMAZIONE (DUP) - PERIODO2017/2019 DISCUSSIONE E CONSEGUENTE DELIBERAZIONE (ART. 170, COMMA 1, DEL D. LGS. N. 267/2000)</description>
 			<a10:updated>2017-06-01T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3294554</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3294554</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 01 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 16 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3294554</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERA DELIBERA CONSIGLIO</category>
-			<title>APPROVAZIONE DEL BILANCIO CONSOLIDATO DELL'ESERCIZIO 2014 AI SENSI DELL'ART. 11-BIS DEL D. LGS. N. 118/2011</title>
-			<description>APPROVAZIONE DEL BILANCIO CONSOLIDATO DELL'ESERCIZIO 2014 AI SENSI DELL'ART. 11-BIS DEL D. LGS. N. 118/2011</description>
-			<a10:updated>2017-06-01T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3294301</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3294301</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 03 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 11 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3294301</category>
-			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO </category>
-			<title>PUBBLICAZIONE DI MATRIMONIO N. 148/2017: CUCCODORO - TADDEI</title>
-			<description>PUBBLICAZIONE DI MATRIMONIO N. 148/2017: CUCCODORO - TADDEI</description>
-			<a10:updated>2017-06-03T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
