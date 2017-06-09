@@ -5,13 +5,13 @@
 		<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/igrid/1210528</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Celle di Bulgheria</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 08 Jun 2017 18:30:40 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 09 Jun 2017 08:30:40 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Celle di Bulgheria</category>
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Celle di Bulgheria</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_celledibulgheria</a10:id>
-		<pubDate>08/06/2017 18:30:40 +02:00</pubDate>
+		<pubDate>09/06/2017 08:30:40 +02:00</pubDate>
 		<docs>http://albopop.it/comune/celledibulgheria/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta name="robots" content="noindex" />
@@ -204,17 +204,6 @@
 			<a10:updated>2017-05-25T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2790749</guid>
-			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2790749</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 24 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 08 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2790749</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI PERMESSI DI COSTRUIRE</category>
-			<title>RICHIESTA SVINCOLO IDROGEOLOGICO, IN SANATORIA PER LA REALIZZAZIONE DI UNO SCAVO RELATIVO ALLA REALIZZAZIONE DI UN FABBRICATO, AI SENSI DELLA LEGGE R.LE N. 11/96 ART.23</title>
-			<description>RICHIESTA SVINCOLO IDROGEOLOGICO, IN SANATORIA PER LA REALIZZAZIONE DI UNO SCAVO RELATIVO ALLA REALIZZAZIONE DI UN FABBRICATO, AI SENSI DELLA LEGGE R.LE N. 11/96 ART.23</description>
-			<a10:updated>2017-05-24T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
 			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2789990</guid>
 			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2789990</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 23 May 2017 02:00:00 +0200</category>
@@ -235,6 +224,17 @@
 			<title>AVVISO PUBBLICO PER LA NOMINA DEL COMPONENETE UNICO DELL'ORGANISMO INDIPENDENTE DI VALUTAZIONE DEL COMUNE DI CELLE D BULGHERIA</title>
 			<description>AVVISO PUBBLICO PER LA NOMINA DEL COMPONENETE UNICO DELL'ORGANISMO INDIPENDENTE DI VALUTAZIONE DEL COMUNE DI CELLE D BULGHERIA</description>
 			<a10:updated>2017-05-17T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2758895</guid>
+			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2758895</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 28 Apr 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 01 Jan 2018 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2758895</category>
+			<category domain="http://albopop.it/specs#item-category-type">BANDI E AVVISI AVVISO</category>
+			<title>CALENDARIO REPERIBILITA' SERVIZIO NECROFORO</title>
+			<description>CALENDARIO REPERIBILITA' SERVIZIO NECROFORO</description>
+			<a10:updated>2017-04-28T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
