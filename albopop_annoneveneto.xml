@@ -5,16 +5,13 @@
 		<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Annone Veneto</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 09 Jun 2017 10:42:25 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 09 Jun 2017 11:31:40 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Annone Veneto</category>
-		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
-		<category domain="http://albopop.it/specs#channel-category-region">Veneto</category>
-		<category domain="http://albopop.it/specs#channel-category-uid">istat:27001</category>
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Annone Veneto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_annoneveneto</a10:id>
-		<pubDate>09/06/2017 10.42.25 +02:00</pubDate>
+		<pubDate>09/06/2017 11:31:40 +02:00</pubDate>
 		<docs>http://albopop.it/comune/annoneveneto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta name="robots" content="noindex" />
@@ -781,7 +778,6 @@
 		<item>
 			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3126661</guid>
 			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3126661</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 16 Mar 2017 01:00:00 +0200</category>
 			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 02 Sep 2017 02:00:00 +0200</category>
 			<category domain="http://albopop.it/specs#item-category-uid">3126661</category>
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
@@ -792,7 +788,6 @@
 		<item>
 			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3126593</guid>
 			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3126593</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 16 Mar 2017 01:00:00 +0200</category>
 			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 28 Nov 2017 01:00:00 +0200</category>
 			<category domain="http://albopop.it/specs#item-category-uid">3126593</category>
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
@@ -803,7 +798,6 @@
 		<item>
 			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3110771</guid>
 			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3110771</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 10 Mar 2017 01:00:00 +0200</category>
 			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 12 Jul 2017 02:00:00 +0200</category>
 			<category domain="http://albopop.it/specs#item-category-uid">3110771</category>
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI AVVISO</category>
