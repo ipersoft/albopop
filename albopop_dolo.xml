@@ -5,13 +5,16 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 09 Jun 2017 10:31:00 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 09 Jun 2017 10:41:31 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
+		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
+		<category domain="http://albopop.it/specs#channel-category-region">Veneto</category>
+		<category domain="http://albopop.it/specs#channel-category-uid">istat:27012</category>
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>09/06/2017 10:31:00 +02:00</pubDate>
+		<pubDate>09/06/2017 10.41.31 +02:00</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta name="robots" content="noindex" />
@@ -943,6 +946,7 @@
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3106106</guid>
 			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3106106</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 08 Mar 2017 01:00:00 +0200</category>
 			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 06 Jul 2017 02:00:00 +0200</category>
 			<category domain="http://albopop.it/specs#item-category-uid">3106106</category>
 			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
