@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 09 Jun 2017 16:31:19 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 09 Jun 2017 17:31:42 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -14,11 +14,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>09/06/2017 16:31:19 +02:00</pubDate>
+		<pubDate>09/06/2017 17:31:42 +02:00</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta name="robots" content="noindex" />
 		<creativeCommons:license>http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/605806</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/605806</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 09 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 24 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">605806</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>LAVORI DI RIQUALIFICAZIONE DEL CENTRO STORICO DI PESARO - 1° STRALCIO PIAZZA OLIVIERI E VIA PEDROTTI. - APPROVAZIONE STATO FINALE DEI LAVORI, RELAZIONE SUL CONTO FINALE E CERTIFICATO DI REGOLARE ESECUZIONE. - APPROVAZIONE NUOVO QUADRO ECONOMICO - RIDUZIONE IMPEGNO DI SPESA ESISTENTE - ASSUNZIONE NUOVO IMPEGNO DI SPESA </title>
+			<description>LAVORI DI RIQUALIFICAZIONE DEL CENTRO STORICO DI PESARO - 1° STRALCIO PIAZZA OLIVIERI E VIA PEDROTTI. - APPROVAZIONE STATO FINALE DEI LAVORI, RELAZIONE SUL CONTO FINALE E CERTIFICATO DI REGOLARE ESECUZIONE. - APPROVAZIONE NUOVO QUADRO ECONOMICO - RIDUZIONE IMPEGNO DI SPESA ESISTENTE - ASSUNZIONE NUOVO IMPEGNO DI SPESA </description>
+			<a10:updated>2017-06-09T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/605779</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/605779</link>
@@ -1105,17 +1116,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DECRETO DEL SINDACO</category>
 			<title>DR.SSA PAOLA NONNI : INCARICO DI RESPONSABILE DELLA PREVENZIONE DELLA CORRUZIONE E RESPONSABILE DELLA TRASPARENZA.</title>
 			<description>DR.SSA PAOLA NONNI : INCARICO DI RESPONSABILE DELLA PREVENZIONE DELLA CORRUZIONE E RESPONSABILE DELLA TRASPARENZA.</description>
-			<a10:updated>2017-06-06T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/604641</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/604641</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 06 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 21 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">604641</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>MOSTRA “LA DEVOTA BELLEZZA. IL SASSOFERRATO CON I DISEGNI DELLA COLLEZIONE REALE BRITANNICA” SASSOFERRATO, PALAZZO DEGLI SCALZI - 17 GIUGNO – 5 NOVEMBRE 2017, PRESTITO TEMPORANEO DI N. 1 (UNA) OPERA D’ARTE DI PROPRIETÀ DEL COMUNE DI PESARO, CONSERVATA NEI MUSEI CIVICI DI PESARO </title>
-			<description>MOSTRA “LA DEVOTA BELLEZZA. IL SASSOFERRATO CON I DISEGNI DELLA COLLEZIONE REALE BRITANNICA” SASSOFERRATO, PALAZZO DEGLI SCALZI - 17 GIUGNO – 5 NOVEMBRE 2017, PRESTITO TEMPORANEO DI N. 1 (UNA) OPERA D’ARTE DI PROPRIETÀ DEL COMUNE DI PESARO, CONSERVATA NEI MUSEI CIVICI DI PESARO </description>
 			<a10:updated>2017-06-06T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
