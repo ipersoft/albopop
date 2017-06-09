@@ -5,17 +5,42 @@
 		<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Belpasso</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 09 Jun 2017 11:31:52 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 09 Jun 2017 12:30:31 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Belpasso</category>
+		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
+		<category domain="http://albopop.it/specs#channel-category-region">Sicilia</category>
+		<category domain="http://albopop.it/specs#channel-category-uid">istat:87007</category>
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Belpasso</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_belpasso</a10:id>
-		<pubDate>09/06/2017 11:31:52 +02:00</pubDate>
+		<pubDate>09/06/2017 12:30:31 +02:00</pubDate>
 		<docs>http://albopop.it/comune/belpasso/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta name="robots" content="noindex" />
 		<creativeCommons:license>http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3321755</guid>
+			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3321755</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 09 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 24 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3321755</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZA P.M. ORDINANZA DI POLIZIA MUNICIPALE</category>
+			<title>CHIUSURA GIARDINO MARTOGLIO PER MANIFESTAZIONE DENOMINATA "PASSEGGIATA CICLOMOTORI PIAGGIO VESPA"</title>
+			<description>CHIUSURA GIARDINO MARTOGLIO PER MANIFESTAZIONE DENOMINATA "PASSEGGIATA CICLOMOTORI PIAGGIO VESPA"</description>
+			<a10:updated>2017-06-09T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3321752</guid>
+			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3321752</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 09 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 08 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3321752</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO</category>
+			<title>AVVISO AI CREDITORI RELATIVO AI LAVORI DI "REALIZZAZIONE DEL 2° LOTTO DEL SITEMA FOGNARIO INTERCOMUNALE"</title>
+			<description>AVVISO AI CREDITORI RELATIVO AI LAVORI DI "REALIZZAZIONE DEL 2° LOTTO DEL SITEMA FOGNARIO INTERCOMUNALE"</description>
+			<a10:updated>2017-06-09T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3321067</guid>
 			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3321067</link>
@@ -1092,28 +1117,6 @@
 			<title>AVVISO DI VENDITA IMMOBILIARE</title>
 			<description>AVVISO DI VENDITA IMMOBILIARE</description>
 			<a10:updated>2017-03-10T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3047216</guid>
-			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3047216</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 07 Feb 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 14 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3047216</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVVISO DI VENDITA IMMOBILIARE</category>
-			<title>AVVISO DI VENDITA IMMOBILIARE </title>
-			<description>AVVISO DI VENDITA IMMOBILIARE </description>
-			<a10:updated>2017-02-07T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3011690</guid>
-			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3011690</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 19 Jan 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 19 Jan 2018 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3011690</category>
-			<category domain="http://albopop.it/specs#item-category-type">PERSONALE BENESSERE ORGANIZZATIVO</category>
-			<title>DATI BENESSERE ORGANIZZATIVO 2016 CON L'ESPLICAZIONE DEI RISULTATI E ALCUNE SCHEDE GRAFICHE SUI RISULTATI.</title>
-			<description>DATI BENESSERE ORGANIZZATIVO 2016 CON L'ESPLICAZIONE DEI RISULTATI E ALCUNE SCHEDE GRAFICHE SUI RISULTATI.</description>
-			<a10:updated>2017-01-19T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
