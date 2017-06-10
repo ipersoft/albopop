@@ -5,7 +5,7 @@
 		<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bernareggio</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 09 Jun 2017 18:32:09 +0200</lastBuildDate>
+		<lastBuildDate>Sat, 10 Jun 2017 08:31:42 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bernareggio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -14,7 +14,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bernareggio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bernareggio</a10:id>
-		<pubDate>09/06/2017 18:32:09 +02:00</pubDate>
+		<pubDate>10/06/2017 08:31:42 +02:00</pubDate>
 		<docs>http://albopop.it/comune/bernareggio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta name="robots" content="noindex" />
@@ -215,17 +215,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
 			<title>AUTORIZZAZIONE A PRENDERE IN CARICO LA GESTIONE DEL CAMPO DA CALCIO E DI ATLETICA DEL CONSORZIO CTL3 IN LIQUIDAZIONE A FAR DATA DAL 01/06/2017</title>
 			<description>AUTORIZZAZIONE A PRENDERE IN CARICO LA GESTIONE DEL CAMPO DA CALCIO E DI ATLETICA DEL CONSORZIO CTL3 IN LIQUIDAZIONE A FAR DATA DAL 01/06/2017</description>
-			<a10:updated>2017-06-01T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3294111</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3294111</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 01 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 09 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3294111</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI BANDO DI CONCORSO</category>
-			<title>POSTA CERTIFICATA: CONVOCAZIONE ASSEMBLEA GENERALE GIORNO 09.06.2017 ORE 11,30 - RICHIESTA PUBBLICAZIONE</title>
-			<description>POSTA CERTIFICATA: CONVOCAZIONE ASSEMBLEA GENERALE GIORNO 09.06.2017 ORE 11,30 - RICHIESTA PUBBLICAZIONE</description>
 			<a10:updated>2017-06-01T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
@@ -504,116 +493,6 @@
 			<a10:updated>2017-05-26T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3281110</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3281110</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 25 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 09 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3281110</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI CONSIGLIO</category>
-			<title>SOSTITUZIONE COMPONENTE DEL CONSIGLIO DI AMMINISTRAZIONE DELL'ASSOCIAZIONE PRO-LOCO</title>
-			<description>SOSTITUZIONE COMPONENTE DEL CONSIGLIO DI AMMINISTRAZIONE DELL'ASSOCIAZIONE PRO-LOCO</description>
-			<a10:updated>2017-05-25T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3281062</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3281062</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 25 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 09 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3281062</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI CONSIGLIO</category>
-			<title>TRASFORMAZIONE DEL DIRITTO DI SUPERFICIE IN DIRITTO DI PIENA PROPRIETA' DI AREA A CARATTERE INDUSTRIALE UBICATA IN ZONA P.I.P. VIALE DELLE INDUSTRIE 37/39 – FG 33 MAPPALE 52 SUBALTERNI 701 / 702 GIA’ CONCESSA IN DIRITTO DI SUPERFICIE ALLA SOCIETÀ COOPERATIVA LAVORO E PRODUZIONE S.R.L. PER AZIONI E SUCCESSIVAMENTE ASSEGNATA ALLA DITTA INDIVIDUALE FACMA DI MAGNI ROBERTO - RITIRO </title>
-			<description>TRASFORMAZIONE DEL DIRITTO DI SUPERFICIE IN DIRITTO DI PIENA PROPRIETA' DI AREA A CARATTERE INDUSTRIALE UBICATA IN ZONA P.I.P. VIALE DELLE INDUSTRIE 37/39 – FG 33 MAPPALE 52 SUBALTERNI 701 / 702 GIA’ CONCESSA IN DIRITTO DI SUPERFICIE ALLA SOCIETÀ COOPERATIVA LAVORO E PRODUZIONE S.R.L. PER AZIONI E SUCCESSIVAMENTE ASSEGNATA ALLA DITTA INDIVIDUALE FACMA DI MAGNI ROBERTO - RITIRO </description>
-			<a10:updated>2017-05-25T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3281060</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3281060</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 25 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 09 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3281060</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI CONSIGLIO</category>
-			<title>APPROVAZIONE DEL NUOVO REGOLAMENTO PER L'ACCESSO AGLI ATTI ED AI DOCUMENTI, PER L’ACCESSO CIVICO E PER L’ ACCESSO GENERALIZZATO</title>
-			<description>APPROVAZIONE DEL NUOVO REGOLAMENTO PER L'ACCESSO AGLI ATTI ED AI DOCUMENTI, PER L’ACCESSO CIVICO E PER L’ ACCESSO GENERALIZZATO</description>
-			<a10:updated>2017-05-25T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3281058</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3281058</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 25 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 09 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3281058</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI CONSIGLIO</category>
-			<title>PROROGA DELL’AFFIDAMENTO IN ESSERE CON LA SOCIETÀ IN HOUSE CEM AMBIENTE S.P.A. PER LA GESTIONE DEI SERVIZI DI IGIENE URBANA OLTRE IL TERMINE DEL 31 MAGGIO P.V.</title>
-			<description>PROROGA DELL’AFFIDAMENTO IN ESSERE CON LA SOCIETÀ IN HOUSE CEM AMBIENTE S.P.A. PER LA GESTIONE DEI SERVIZI DI IGIENE URBANA OLTRE IL TERMINE DEL 31 MAGGIO P.V.</description>
-			<a10:updated>2017-05-25T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3281056</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3281056</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 25 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 09 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3281056</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI CONSIGLIO</category>
-			<title>ADOZIONE 1° VARIAZIONE AL BILANCIO DI PREVISIONE 2017/2019 ED ALLEGATI</title>
-			<description>ADOZIONE 1° VARIAZIONE AL BILANCIO DI PREVISIONE 2017/2019 ED ALLEGATI</description>
-			<a10:updated>2017-05-25T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3281054</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3281054</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 25 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 09 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3281054</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI CONSIGLIO</category>
-			<title>APPROVAZIONE RENDICONTO DELLA GESTIONE ESERCIZIO 2016 E RELAZIONE ILLUSTRATIVA</title>
-			<description>APPROVAZIONE RENDICONTO DELLA GESTIONE ESERCIZIO 2016 E RELAZIONE ILLUSTRATIVA</description>
-			<a10:updated>2017-05-25T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3281052</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3281052</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 25 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 09 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3281052</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI CONSIGLIO</category>
-			<title>APPROVAZIONE VERBALI DELIBERAZIONI ADOTTATE NELLE SEDUTE PRECEDENTI</title>
-			<description>APPROVAZIONE VERBALI DELIBERAZIONI ADOTTATE NELLE SEDUTE PRECEDENTI</description>
-			<a10:updated>2017-05-25T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3281050</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3281050</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 25 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 09 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3281050</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI CONSIGLIO</category>
-			<title>VERBALE DI SEDUTA DEL 19 MAGGIO 2017</title>
-			<description>VERBALE DI SEDUTA DEL 19 MAGGIO 2017</description>
-			<a10:updated>2017-05-25T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3279316</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3279316</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 25 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 09 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3279316</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>APPROVAZIONE PROGETTO "RECUPERO E MIGLIORAMENTO OASI CASTAGNETO" IN COMUNE DI BERNAREGGIO NELL'AMBITO DEL PROGETTO CARIPLO "AZIONI PER IL RAFFORZAMENTO INTEGRATO DELLA RETE ECOLOGICA - APRIRE"</title>
-			<description>APPROVAZIONE PROGETTO "RECUPERO E MIGLIORAMENTO OASI CASTAGNETO" IN COMUNE DI BERNAREGGIO NELL'AMBITO DEL PROGETTO CARIPLO "AZIONI PER IL RAFFORZAMENTO INTEGRATO DELLA RETE ECOLOGICA - APRIRE"</description>
-			<a10:updated>2017-05-25T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3279313</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3279313</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 25 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 09 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3279313</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>PROCEDURE INTERNE PER LA SEGNALAZIONE DI OPERAZIONI SOSPETTE DI RICICLAGGIO E DI FINANZIAMENTO DEL TERRORISMO - DIRETTIVE</title>
-			<description>PROCEDURE INTERNE PER LA SEGNALAZIONE DI OPERAZIONI SOSPETTE DI RICICLAGGIO E DI FINANZIAMENTO DEL TERRORISMO - DIRETTIVE</description>
-			<a10:updated>2017-05-25T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
 			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3274472</guid>
 			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3274472</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 23 May 2017 02:00:00 +0200</category>
@@ -689,17 +568,6 @@
 			<title>POSTA CERTIFICATA: INVIO BANDO DI MOBILITA' ESTERNA VOLONTARIA - N. 1 ISTRUTTORE AMMINISTRATIVO/CONTABILE - CATEGORIA C</title>
 			<description>POSTA CERTIFICATA: INVIO BANDO DI MOBILITA' ESTERNA VOLONTARIA - N. 1 ISTRUTTORE AMMINISTRATIVO/CONTABILE - CATEGORIA C</description>
 			<a10:updated>2017-05-12T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3231132</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3231132</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 05 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 09 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3231132</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI BANDO DI CONCORSO</category>
-			<title>AVVISO DI SELEZIONE PER LA COPERTURA DI UN POSTO A TEMPO PIENO ED INDETERMINATO, MEDIANTE MOBILITA’ ESTERNA VOLONTARIA AI SENSI DELL’ART. 30 DEL D. LGS 165/2001, DI N. 1 FUNZIONARIO DIRETTIVO AMMINISTRATIVO CAT. D1, CCNL REGIONI ED ENTI LOCALI, PRESSO IL SETTORE ASSOCIATO N. 1 AFFARI GENERALI</title>
-			<description>AVVISO DI SELEZIONE PER LA COPERTURA DI UN POSTO A TEMPO PIENO ED INDETERMINATO, MEDIANTE MOBILITA’ ESTERNA VOLONTARIA AI SENSI DELL’ART. 30 DEL D. LGS 165/2001, DI N. 1 FUNZIONARIO DIRETTIVO AMMINISTRATIVO CAT. D1, CCNL REGIONI ED ENTI LOCALI, PRESSO IL SETTORE ASSOCIATO N. 1 AFFARI GENERALI</description>
-			<a10:updated>2017-05-05T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3216626</guid>
