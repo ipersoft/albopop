@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 09 Jun 2017 18:30:46 +0200</lastBuildDate>
+		<lastBuildDate>Sat, 10 Jun 2017 08:30:48 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -14,11 +14,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>09/06/2017 18:30:46 +02:00</pubDate>
+		<pubDate>10/06/2017 08:30:48 +02:00</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta name="robots" content="noindex" />
 		<creativeCommons:license>http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3322212</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3322212</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 10 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 30 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3322212</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI AVVISO</category>
+			<title>MANIFESTO DEPOSITO LISTE ELETTORALI AGGIORNATE - I° SEMESTRALE 2017</title>
+			<description>MANIFESTO DEPOSITO LISTE ELETTORALI AGGIORNATE - I° SEMESTRALE 2017</description>
+			<a10:updated>2017-06-10T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3321484</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3321484</link>
@@ -955,28 +966,6 @@
 			<a10:updated>2017-05-26T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3280689</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3280689</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 25 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 09 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3280689</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>INTEGRAZIONI E MODIFICHE ALL'AVVISO PUBBLICO PER LA FORMAZIONE DELL'ALBO FORNITORI PER LE CATEGORIE DI ACQUISTI DI BENI E SERVIZI PER IL SETTORE SERVIZI ALLA PERSONA - (D.LGS. N. 50/2016 e successive integrazioni e correzioni).</title>
-			<description>INTEGRAZIONI E MODIFICHE ALL'AVVISO PUBBLICO PER LA FORMAZIONE DELL'ALBO FORNITORI PER LE CATEGORIE DI ACQUISTI DI BENI E SERVIZI PER IL SETTORE SERVIZI ALLA PERSONA - (D.LGS. N. 50/2016 e successive integrazioni e correzioni).</description>
-			<a10:updated>2017-05-25T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3279531</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3279531</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 25 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 09 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3279531</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>DETERMINAZIONE A CONTRATTARE MEDIANTE PROCEDURA SUL MERCATO ELETTRONICO DELLA PUBBLICA AMMINISTRAZIONE (SINTEL) PER L'AFFIDAMENTO DIRETTO DEL SERVIZIO DI REVISIONE STRAORDINARIA DELL'INVENTARIO DEI BENI MOBILI E IMMOBILI DEL COMUNE DI CONCESIO ED AGGIORNAMENTO ANNUALE DEI LIBRI INVENTARIALI DEI BENI MOBILI ED IMMOBILI. C.I.G. Z271EC25F6.</title>
-			<description>DETERMINAZIONE A CONTRATTARE MEDIANTE PROCEDURA SUL MERCATO ELETTRONICO DELLA PUBBLICA AMMINISTRAZIONE (SINTEL) PER L'AFFIDAMENTO DIRETTO DEL SERVIZIO DI REVISIONE STRAORDINARIA DELL'INVENTARIO DEI BENI MOBILI E IMMOBILI DEL COMUNE DI CONCESIO ED AGGIORNAMENTO ANNUALE DEI LIBRI INVENTARIALI DEI BENI MOBILI ED IMMOBILI. C.I.G. Z271EC25F6.</description>
-			<a10:updated>2017-05-25T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3279355</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3279355</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 25 May 2017 02:00:00 +0200</category>
@@ -1076,17 +1065,6 @@
 			<a10:updated>2017-05-22T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3268457</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3268457</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 19 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 09 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3268457</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI AVVISO</category>
-			<title>POSTA CERTIFICATA: ACB BANDI</title>
-			<description>POSTA CERTIFICATA: ACB BANDI</description>
-			<a10:updated>2017-05-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3262988</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3262988</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 18 May 2017 02:00:00 +0200</category>
@@ -1118,6 +1096,28 @@
 			<title>PUBBLICAZIONE BANDI INVIATI DA ASSOCIAZIONE COMUNI BRESCIANI - VEDI ALLEGATI</title>
 			<description>PUBBLICAZIONE BANDI INVIATI DA ASSOCIAZIONE COMUNI BRESCIANI - VEDI ALLEGATI</description>
 			<a10:updated>2017-05-16T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3251802</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3251802</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 16 May 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 14 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3251802</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI AVVISO</category>
+			<title>POSTA CERTIFICATA: ACB INVIO MULTIPLO DI BANDI</title>
+			<description>POSTA CERTIFICATA: ACB INVIO MULTIPLO DI BANDI</description>
+			<a10:updated>2017-05-16T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3226078</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3226078</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 03 May 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 02 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3226078</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI AVVISO</category>
+			<title>BANDO PUBBLICO PER LE ASSEGNAZIONI DI CONCESSIONI DI AREE PUBBLICHE AI FINI DELL’ESERCIZIO DI RIVENDITA DI QUOTIDIANI E PERIODICI</title>
+			<description>BANDO PUBBLICO PER LE ASSEGNAZIONI DI CONCESSIONI DI AREE PUBBLICHE AI FINI DELL’ESERCIZIO DI RIVENDITA DI QUOTIDIANI E PERIODICI</description>
+			<a10:updated>2017-05-03T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
