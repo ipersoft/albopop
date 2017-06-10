@@ -5,7 +5,7 @@
 		<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bitonto</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 10 Jun 2017 10:30:37 +0200</lastBuildDate>
+		<lastBuildDate>Sat, 10 Jun 2017 11:30:37 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bitonto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Bari</category>
@@ -14,11 +14,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bitonto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bitonto</a10:id>
-		<pubDate>10/06/2017 10:30:37 +02:00</pubDate>
+		<pubDate>10/06/2017 11:30:37 +02:00</pubDate>
 		<docs>http://albopop.it/comune/bitonto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta name="robots" content="noindex" />
 		<creativeCommons:license>http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3323539</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3323539</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 10 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 25 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3323539</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
+			<title>VIA G. MATTEOTTI - TRATTO COMPRESO TRA VIA D. GENTILE E VIA GEN. CANTORE, DIVIETO DI CIRCOLAZIONE E SOSTA CON RIMOZIONE IL GIORNO 15/06/2017, DALLE ORE 7,00 ALLE ORE 18,00 PER MONTAGGIO DI UNA GRU</title>
+			<description>VIA G. MATTEOTTI - TRATTO COMPRESO TRA VIA D. GENTILE E VIA GEN. CANTORE, DIVIETO DI CIRCOLAZIONE E SOSTA CON RIMOZIONE IL GIORNO 15/06/2017, DALLE ORE 7,00 ALLE ORE 18,00 PER MONTAGGIO DI UNA GRU</description>
+			<a10:updated>2017-06-10T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3323108</guid>
 			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3323108</link>
@@ -1106,17 +1117,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI 08 - SERVIZIO POLITICHE SOCIALI</category>
 			<title>SERVIZIO OSPITALITA' MINORE D. G D. PRESSO COMU NITA' EDUCATIVA ALBA - COOPERATIVA SOCIALE "EOS" - GRAVINA DI PUGLIA. LIQUIDAZIONE FATTURE PERIODO GANNAIO-MARZO 2016.</title>
 			<description>SERVIZIO OSPITALITA' MINORE D. G D. PRESSO COMU NITA' EDUCATIVA ALBA - COOPERATIVA SOCIALE "EOS" - GRAVINA DI PUGLIA. LIQUIDAZIONE FATTURE PERIODO GANNAIO-MARZO 2016.</description>
-			<a10:updated>2017-06-08T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3303705</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3303705</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 08 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 23 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3303705</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI 08 - SERVIZIO POLITICHE SOCIALI</category>
-			<title>SERVIZIO OSPITALITA' N. 2 MINORI PRESSO COMUNITA' EDUCATIVA "A. AGOSTINI" GESTITA DALLA COOPERATIVA SOCIALE AMA AQUILONE - PAGLIARE DEL TRONTO (AP). LIQUIDAZIONE FATTURE PERIODO GENNAIO 2017.</title>
-			<description>SERVIZIO OSPITALITA' N. 2 MINORI PRESSO COMUNITA' EDUCATIVA "A. AGOSTINI" GESTITA DALLA COOPERATIVA SOCIALE AMA AQUILONE - PAGLIARE DEL TRONTO (AP). LIQUIDAZIONE FATTURE PERIODO GENNAIO 2017.</description>
 			<a10:updated>2017-06-08T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
