@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 10 Jun 2017 18:33:47 +0200</lastBuildDate>
+		<lastBuildDate>Sun, 11 Jun 2017 08:32:50 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -14,7 +14,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>10/06/2017 18:33:47 +02:00</pubDate>
+		<pubDate>11/06/2017 08:32:50 +02:00</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta name="robots" content="noindex" />
@@ -193,17 +193,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">AVVISO AVVISO PUBBLICO</category>
 			<title>BANDO DI SELEZIONE PUBBLICA PER L'AMMISSIONE A TIROCINI FORMATIVI RISERVATI AI LAVORATORI DISABILI DI CUI ALLA 68/99 - , FINALIZZATI ALL'ASSUNZIO A TEMPO PIENO E INDETERMINATO DI N.3 UNITA' CAT B1 - PROFILO PROFESSIONALE ESECUTORE AMMINISTRATIVO </title>
 			<description>BANDO DI SELEZIONE PUBBLICA PER L'AMMISSIONE A TIROCINI FORMATIVI RISERVATI AI LAVORATORI DISABILI DI CUI ALLA 68/99 - , FINALIZZATI ALL'ASSUNZIO A TEMPO PIENO E INDETERMINATO DI N.3 UNITA' CAT B1 - PROFILO PROFESSIONALE ESECUTORE AMMINISTRATIVO </description>
-			<a10:updated>2017-06-09T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2812296</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2812296</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 09 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 10 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2812296</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISO CARTELLE ESATTORIALI ART. 140</category>
-			<title>PUBBLICAZIONE ART. 140 A CARICO DI CEMAR SNC C/O MINARDI NUNZIA CONTITOLARE ED ALTRI</title>
-			<description>PUBBLICAZIONE ART. 140 A CARICO DI CEMAR SNC C/O MINARDI NUNZIA CONTITOLARE ED ALTRI</description>
 			<a10:updated>2017-06-09T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
@@ -1117,6 +1106,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO ATTO DI MATRIMONIO</category>
 			<title>PUBBLICAZIONE ATTO DI MATRIMONIO A NOME DI CALDARERA MARCO, AREZZO DANIELA</title>
 			<description>PUBBLICAZIONE ATTO DI MATRIMONIO A NOME DI CALDARERA MARCO, AREZZO DANIELA</description>
+			<a10:updated>2017-06-06T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2806579</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2806579</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 06 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 14 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2806579</category>
+			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO ATTO DI MATRIMONIO</category>
+			<title>PUBBLICAZIONE ATTO DI MATRIMONIO A NOME DI RANIOLO OSVALDO, CAMPO MANUELA</title>
+			<description>PUBBLICAZIONE ATTO DI MATRIMONIO A NOME DI RANIOLO OSVALDO, CAMPO MANUELA</description>
 			<a10:updated>2017-06-06T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
