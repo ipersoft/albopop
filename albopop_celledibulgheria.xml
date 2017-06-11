@@ -5,7 +5,7 @@
 		<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/igrid/1210528</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Celle di Bulgheria</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 10 Jun 2017 18:30:42 +0200</lastBuildDate>
+		<lastBuildDate>Sun, 11 Jun 2017 08:30:39 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Celle di Bulgheria</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Salerno</category>
@@ -14,7 +14,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Celle di Bulgheria</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_celledibulgheria</a10:id>
-		<pubDate>10/06/2017 18:30:42 +02:00</pubDate>
+		<pubDate>11/06/2017 08:30:39 +02:00</pubDate>
 		<docs>http://albopop.it/comune/celledibulgheria/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta name="robots" content="noindex" />
@@ -218,17 +218,6 @@
 			<a10:updated>2017-05-23T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2783043</guid>
-			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2783043</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 17 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 10 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2783043</category>
-			<category domain="http://albopop.it/specs#item-category-type">BANDI E AVVISI AVVISO</category>
-			<title>AVVISO PUBBLICO PER LA NOMINA DEL COMPONENETE UNICO DELL'ORGANISMO INDIPENDENTE DI VALUTAZIONE DEL COMUNE DI CELLE D BULGHERIA</title>
-			<description>AVVISO PUBBLICO PER LA NOMINA DEL COMPONENETE UNICO DELL'ORGANISMO INDIPENDENTE DI VALUTAZIONE DEL COMUNE DI CELLE D BULGHERIA</description>
-			<a10:updated>2017-05-17T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
 			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2758895</guid>
 			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2758895</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 28 Apr 2017 02:00:00 +0200</category>
@@ -237,6 +226,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">BANDI E AVVISI AVVISO</category>
 			<title>CALENDARIO REPERIBILITA' SERVIZIO NECROFORO</title>
 			<description>CALENDARIO REPERIBILITA' SERVIZIO NECROFORO</description>
+			<a10:updated>2017-04-28T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2758894</guid>
+			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2758894</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 28 Apr 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 27 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2758894</category>
+			<category domain="http://albopop.it/specs#item-category-type">BANDI E AVVISI AVVISO</category>
+			<title>TURNI DI REPERIBILITÀ DELL'UFFICIO DELLO STATO CIVILE DAL 29 APRILE AL 25 GIUGNO 2017</title>
+			<description>TURNI DI REPERIBILITÀ DELL'UFFICIO DELLO STATO CIVILE DAL 29 APRILE AL 25 GIUGNO 2017</description>
 			<a10:updated>2017-04-28T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
