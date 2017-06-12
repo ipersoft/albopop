@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 12 Jun 2017 16:33:31 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 12 Jun 2017 17:32:39 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Mon, 12 Jun 2017 16:33:31 +0200</pubDate>
+		<pubDate>Mon, 12 Jun 2017 17:32:39 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
-		<creativeCommons:license>http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3326041</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3326041</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 12 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 27 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3326041</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>TARIFFA RIFIUTI ANNO 2017 – IMPEGNO DI SPESA</title>
+			<description>TARIFFA RIFIUTI ANNO 2017 – IMPEGNO DI SPESA</description>
+			<a10:updated>2017-06-12T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3326038</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3326038</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 12 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 27 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3326038</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>P.T. N°32-13 - COMPLETAMENTO VIABILITA' DI ACCESSO AL NUOVO PRESIDIO OSPEDALIERO. ADEGUAMENTO CANALI ACQUE BIANCHE – APPROVAZIONE DEL PROGETTO DEFINITIVO/ESECUTIVO, FINANZIAMENTO E AFFIDAMENTO DEI LAVORI. CUP J61B13000190002 CIG Z181EC1DFF</title>
+			<description>P.T. N°32-13 - COMPLETAMENTO VIABILITA' DI ACCESSO AL NUOVO PRESIDIO OSPEDALIERO. ADEGUAMENTO CANALI ACQUE BIANCHE – APPROVAZIONE DEL PROGETTO DEFINITIVO/ESECUTIVO, FINANZIAMENTO E AFFIDAMENTO DEI LAVORI. CUP J61B13000190002 CIG Z181EC1DFF</description>
+			<a10:updated>2017-06-12T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3325891</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3325891</link>
@@ -1097,28 +1119,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>DIRITTO ALLO STUDIO - FORNITURA LIBRI DI TESTO PER ALUNNO IPOVEDENTE A.S. 2017/2018 - CIG. Z871EBB78D </title>
 			<description>DIRITTO ALLO STUDIO - FORNITURA LIBRI DI TESTO PER ALUNNO IPOVEDENTE A.S. 2017/2018 - CIG. Z871EBB78D </description>
-			<a10:updated>2017-06-07T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3301396</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3301396</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 07 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 22 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3301396</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>CONFERENZA ZONALE PER L'ISTRUZIONE DELLA PIANA DI LUCCA – EROGAZIONE DEI CONTRIBUTI INERENTI LA REALIZZAZIONE DEI PROGETTI EDUCATIVI ZONALI (P.E.Z.) ETA' SCOLARE A.S. 2016/2017: SEMINARIO DI STUDIO “PERCORSI DI PEDAGOGIA GLOBALE”.</title>
-			<description>CONFERENZA ZONALE PER L'ISTRUZIONE DELLA PIANA DI LUCCA – EROGAZIONE DEI CONTRIBUTI INERENTI LA REALIZZAZIONE DEI PROGETTI EDUCATIVI ZONALI (P.E.Z.) ETA' SCOLARE A.S. 2016/2017: SEMINARIO DI STUDIO “PERCORSI DI PEDAGOGIA GLOBALE”.</description>
-			<a10:updated>2017-06-07T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3301393</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3301393</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 07 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 22 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3301393</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>GESTIONE SERVIZI IGIENICI DI VIA PESCHERIA. CONVENZIONE CON LA COOPERATIVA DI TIPO B) PER I MESI DI MAGGIO - GIUGNO 2017. (ATTI DI CONVENZIONE CON SOGGETTI TERZO SETTORE - FAMIGLIA 07).</title>
-			<description>GESTIONE SERVIZI IGIENICI DI VIA PESCHERIA. CONVENZIONE CON LA COOPERATIVA DI TIPO B) PER I MESI DI MAGGIO - GIUGNO 2017. (ATTI DI CONVENZIONE CON SOGGETTI TERZO SETTORE - FAMIGLIA 07).</description>
 			<a10:updated>2017-06-07T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
