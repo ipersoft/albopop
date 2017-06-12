@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 12 Jun 2017 12:30:48 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 12 Jun 2017 13:30:44 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -14,11 +14,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>12/06/2017 12:30:48 +02:00</pubDate>
+		<pubDate>12/06/2017 13:30:44 +02:00</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta name="robots" content="noindex" />
 		<creativeCommons:license>http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3325154</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3325154</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 12 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 27 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3325154</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>ASSUNZIONE IMPEGNO DI SPESA PER LA PARTECIPAZIONE DELLA RESPONSABILE DEL SETTORE SERVIZI ALLA PERSONA AL CORSO ORGANIZZATO DALLA SCUOLA DELLE ARTI E DELLA FORMAZIONE PROFESSIONALE RODOLFO VANTINI SUL TEMA "LE PRINCIPALI NOVITA' E CRITICITA' DEL NUOVO CODICE DEI CONTRATTI PUBBLICI E DEL DECRETO CORRETTIVO.</title>
+			<description>ASSUNZIONE IMPEGNO DI SPESA PER LA PARTECIPAZIONE DELLA RESPONSABILE DEL SETTORE SERVIZI ALLA PERSONA AL CORSO ORGANIZZATO DALLA SCUOLA DELLE ARTI E DELLA FORMAZIONE PROFESSIONALE RODOLFO VANTINI SUL TEMA "LE PRINCIPALI NOVITA' E CRITICITA' DEL NUOVO CODICE DEI CONTRATTI PUBBLICI E DEL DECRETO CORRETTIVO.</description>
+			<a10:updated>2017-06-12T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3324924</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3324924</link>
@@ -1106,17 +1117,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI DEPOSITO - ART. 143 C.P.C.</category>
 			<title>MESSO COMUNALE: NOTIFICA N. 362/2017 DEL 24/05/2017 DI ZHOU QI-</title>
 			<description>MESSO COMUNALE: NOTIFICA N. 362/2017 DEL 24/05/2017 DI ZHOU QI-</description>
-			<a10:updated>2017-05-24T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3275542</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3275542</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 24 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 13 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3275542</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI DEPOSITO - ART. 143 C.P.C.</category>
-			<title>MESSO COMUNALE: NOTIFICA N. 361/2017 DEL 24/05/2017DI MARRA ANTONIO</title>
-			<description>MESSO COMUNALE: NOTIFICA N. 361/2017 DEL 24/05/2017DI MARRA ANTONIO</description>
 			<a10:updated>2017-05-24T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
