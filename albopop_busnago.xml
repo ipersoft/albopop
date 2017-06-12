@@ -5,19 +5,21 @@
 		<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Busnago</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 12 Jun 2017 15:31:48 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 12 Jun 2017 16:32:49 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Busnago</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
 		<category domain="http://albopop.it/specs#channel-category-region">Lombardia</category>
 		<category domain="http://albopop.it/specs#channel-category-uid">istat:108051</category>
+		<category domain="http://albopop.it/specs#channel-category-latitude">45.6164655</category>
+		<category domain="http://albopop.it/specs#channel-category-longitude">9.4644206</category>
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Busnago</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_busnago</a10:id>
-		<pubDate>12/06/2017 15:31:48 +02:00</pubDate>
+		<pubDate>Mon, 12 Jun 2017 16:32:49 +0200</pubDate>
 		<docs>http://albopop.it/comune/busnago/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
-		<xhtml:meta name="robots" content="noindex" />
+		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license>http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
 		<item>
 			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3323525</guid>
