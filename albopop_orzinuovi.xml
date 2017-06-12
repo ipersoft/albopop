@@ -5,19 +5,21 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 12 Jun 2017 15:31:08 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 12 Jun 2017 16:31:34 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
 		<category domain="http://albopop.it/specs#channel-category-region">Lombardia</category>
 		<category domain="http://albopop.it/specs#channel-category-uid">istat:17125</category>
+		<category domain="http://albopop.it/specs#channel-category-latitude">45.4055212</category>
+		<category domain="http://albopop.it/specs#channel-category-longitude">9.9258238</category>
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>12/06/2017 15:31:08 +02:00</pubDate>
+		<pubDate>Mon, 12 Jun 2017 16:31:34 +0200</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
-		<xhtml:meta name="robots" content="noindex" />
+		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license>http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2814684</guid>
