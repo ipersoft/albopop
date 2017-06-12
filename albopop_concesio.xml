@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 12 Jun 2017 09:30:44 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 12 Jun 2017 10:30:52 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -14,11 +14,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>12/06/2017 09:30:44 +02:00</pubDate>
+		<pubDate>12/06/2017 10:30:52 +02:00</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta name="robots" content="noindex" />
 		<creativeCommons:license>http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3324212</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3324212</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 12 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 10 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3324212</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI AVVISO</category>
+			<title>ACB INVIO BANDI COMUNE DI PASSIRANO - COMUNE DI TRAVAGLIATO</title>
+			<description>ACB INVIO BANDI COMUNE DI PASSIRANO - COMUNE DI TRAVAGLIATO</description>
+			<a10:updated>2017-06-12T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3324210</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3324210</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 12 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 27 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3324210</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
+			<title>Gara Ciclistica 60° G.P. Sportivi San Vigilio "14° Memorial Amerio Armanasco"</title>
+			<description>Gara Ciclistica 60° G.P. Sportivi San Vigilio "14° Memorial Amerio Armanasco"</description>
+			<a10:updated>2017-06-12T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3322212</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3322212</link>
@@ -1096,28 +1118,6 @@
 			<title>PUBBLICAZIONE BANDI INVIATI DA ASSOCIAZIONE COMUNI BRESCIANI - VEDI ALLEGATI</title>
 			<description>PUBBLICAZIONE BANDI INVIATI DA ASSOCIAZIONE COMUNI BRESCIANI - VEDI ALLEGATI</description>
 			<a10:updated>2017-05-16T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3251802</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3251802</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 16 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 14 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3251802</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI AVVISO</category>
-			<title>POSTA CERTIFICATA: ACB INVIO MULTIPLO DI BANDI</title>
-			<description>POSTA CERTIFICATA: ACB INVIO MULTIPLO DI BANDI</description>
-			<a10:updated>2017-05-16T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3226078</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3226078</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 03 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 02 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3226078</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI AVVISO</category>
-			<title>BANDO PUBBLICO PER LE ASSEGNAZIONI DI CONCESSIONI DI AREE PUBBLICHE AI FINI DELL’ESERCIZIO DI RIVENDITA DI QUOTIDIANI E PERIODICI</title>
-			<description>BANDO PUBBLICO PER LE ASSEGNAZIONI DI CONCESSIONI DI AREE PUBBLICHE AI FINI DELL’ESERCIZIO DI RIVENDITA DI QUOTIDIANI E PERIODICI</description>
-			<a10:updated>2017-05-03T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
