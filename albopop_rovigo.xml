@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 13 Jun 2017 14:31:17 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 13 Jun 2017 16:31:22 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Tue, 13 Jun 2017 14:31:17 +0200</pubDate>
+		<pubDate>Tue, 13 Jun 2017 16:31:22 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2816998</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2816998</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 13 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 28 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2816998</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>VARIAZIONE ALLE PARTITE DI GIRO AI SENSI DELL'ART. 175 COMMA 5 QUATER LETT. E) DEL D.LGS. 267/2000</title>
+			<description>VARIAZIONE ALLE PARTITE DI GIRO AI SENSI DELL'ART. 175 COMMA 5 QUATER LETT. E) DEL D.LGS. 267/2000</description>
+			<a10:updated>2017-06-13T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2816835</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2816835</link>
@@ -284,17 +295,6 @@
 			<title>ORDINANZA DIRIGENZIALE DI IRROGAZIONE SANZIONE AMMINISTRATIVA PECUNIARIA AI SENSI DEGLI ARTT.167 COMMI 4 E 5 E 181 COMMA 1TER D.LGS.42/2004 PER OPERE ESEGUITE SENZA LA PREVENTIVA AUTORIZZAZIONE PAESAGGISTICA SULL'IMMOBILE CENSITO AL CENS. DI BUSO/SARZANO – F.16 MAPP.243 SUB 10 E 11 E MAPP.408 SUB 4.</title>
 			<description>ORDINANZA DIRIGENZIALE DI IRROGAZIONE SANZIONE AMMINISTRATIVA PECUNIARIA AI SENSI DEGLI ARTT.167 COMMI 4 E 5 E 181 COMMA 1TER D.LGS.42/2004 PER OPERE ESEGUITE SENZA LA PREVENTIVA AUTORIZZAZIONE PAESAGGISTICA SULL'IMMOBILE CENSITO AL CENS. DI BUSO/SARZANO – F.16 MAPP.243 SUB 10 E 11 E MAPP.408 SUB 4.</description>
 			<a10:updated>2017-06-10T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2813616</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2813616</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 09 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 24 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2813616</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>LIQUIDAZIONE FATTURA ELETTRONICA N.2017VP0000211 DEL 16.05.2017 EMESSA DALLA SOCIETA' ITALIA OGGI EDITORI ERINNE S.R.L.-ANNO 2017- SMARTCIG.Z591CAFEC6.</title>
-			<description>LIQUIDAZIONE FATTURA ELETTRONICA N.2017VP0000211 DEL 16.05.2017 EMESSA DALLA SOCIETA' ITALIA OGGI EDITORI ERINNE S.R.L.-ANNO 2017- SMARTCIG.Z591CAFEC6.</description>
-			<a10:updated>2017-06-09T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>

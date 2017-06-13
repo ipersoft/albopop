@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 13 Jun 2017 14:31:17 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 13 Jun 2017 16:31:23 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Tue, 13 Jun 2017 14:31:17 +0200</pubDate>
+		<pubDate>Tue, 13 Jun 2017 16:31:23 +0200</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2817035</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2817035</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 13 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 28 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2817035</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>ORDINANZA–INGIUNZIONE – VERBALE DI CONTRAVVENZIONE AMMINISTRATIVA N. 12 BG-2017 - COMANDO CARABINIERI PER LA TUTELA DELLA SALUTE NUCLEO ANTISOFISTICAZIONI E SANITA’ DI NAPOLI – REDATTO A CARICO DELLA “DITTA CAPRI PASTA DI ROBERTO COLAVECCHIA”, NATO A CAPRI (NA) IL 17.09.1976 E RESIDENTE AD ANACAPRI (NA) ALLA VIA VICINALE CARUSO N. 1 </title>
+			<description>ORDINANZA–INGIUNZIONE – VERBALE DI CONTRAVVENZIONE AMMINISTRATIVA N. 12 BG-2017 - COMANDO CARABINIERI PER LA TUTELA DELLA SALUTE NUCLEO ANTISOFISTICAZIONI E SANITA’ DI NAPOLI – REDATTO A CARICO DELLA “DITTA CAPRI PASTA DI ROBERTO COLAVECCHIA”, NATO A CAPRI (NA) IL 17.09.1976 E RESIDENTE AD ANACAPRI (NA) ALLA VIA VICINALE CARUSO N. 1 </description>
+			<a10:updated>2017-06-13T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2816812</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2816812</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">AVVISO PUBBLICAZIONE AVVISO</category>
 			<title>AVVISO DI RILASCIO PERMESSO COSTRUIRE SIG.RA PASTORINI</title>
 			<description>AVVISO DI RILASCIO PERMESSO COSTRUIRE SIG.RA PASTORINI</description>
-			<a10:updated>2017-06-09T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2812742</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2812742</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 09 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 17 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2812742</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISO PUBBLICAZIONE AVVISO</category>
-			<title>AVVISO DI DEPOSITO DI N.2 ATTI NELLA CASA COMUNALE</title>
-			<description>AVVISO DI DEPOSITO DI N.2 ATTI NELLA CASA COMUNALE</description>
 			<a10:updated>2017-06-09T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
