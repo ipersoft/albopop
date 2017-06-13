@@ -5,7 +5,7 @@
 		<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Canosa di Puglia</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 13 Jun 2017 10:33:44 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 13 Jun 2017 11:33:55 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Canosa di Puglia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Barletta-Andria-Trani</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Canosa di Puglia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_canosadipuglia</a10:id>
-		<pubDate>Tue, 13 Jun 2017 10:33:44 +0200</pubDate>
+		<pubDate>Tue, 13 Jun 2017 11:33:55 +0200</pubDate>
 		<docs>http://albopop.it/comune/canosadipuglia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3327016</guid>
+			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3327016</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 13 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 28 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3327016</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI E DEPOSITI RENDE NOTO</category>
+			<title>PERMESSO DI COSTRUIRE N.22 DEL 09/06/2017 RILASCIATO AL SIG. INGLESE FRANCESCA PER IL CAMBIO DI DESTINAZIONE D'USO DEL LOCALE A PIANO TERRA - SEMINTERRATO SITO IN CORSO GARIBALDI GIUSEPPE N. 88 E DOGE FALIERO 3 </title>
+			<description>PERMESSO DI COSTRUIRE N.22 DEL 09/06/2017 RILASCIATO AL SIG. INGLESE FRANCESCA PER IL CAMBIO DI DESTINAZIONE D'USO DEL LOCALE A PIANO TERRA - SEMINTERRATO SITO IN CORSO GARIBALDI GIUSEPPE N. 88 E DOGE FALIERO 3 </description>
+			<a10:updated>2017-06-13T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3325498</guid>
 			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3325498</link>
@@ -1108,17 +1119,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
 			<title>Accertamento in ENTRATA delle Risorse del “Piano d'Intervento” per l'attuazione del Sostegno per l'Inclusione Attiva - Fondo Sociale Europeo 2014-2020</title>
 			<description>Accertamento in ENTRATA delle Risorse del “Piano d'Intervento” per l'attuazione del Sostegno per l'Inclusione Attiva - Fondo Sociale Europeo 2014-2020</description>
-			<a10:updated>2017-05-29T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3286238</guid>
-			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3286238</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 29 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 13 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3286238</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
-			<title>Assunzione impegno di spesa ed affidamento fornitura scatole in cartone occorrenti per le elezioni amministrative 2017</title>
-			<description>Assunzione impegno di spesa ed affidamento fornitura scatole in cartone occorrenti per le elezioni amministrative 2017</description>
 			<a10:updated>2017-05-29T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
