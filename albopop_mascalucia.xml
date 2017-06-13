@@ -5,7 +5,7 @@
 		<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mascalucia</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 12 Jun 2017 22:07:30 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 13 Jun 2017 08:35:11 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mascalucia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mascalucia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mascalucia</a10:id>
-		<pubDate>Mon, 12 Jun 2017 22:07:30 +0200</pubDate>
+		<pubDate>Tue, 13 Jun 2017 08:35:11 +0200</pubDate>
 		<docs>http://albopop.it/comune/mascalucia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -547,17 +547,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRE PUBBLICAZIONI CONCESSIONE EDILIZIA</category>
 			<title>AUTORIZZAZIONE ALLO SCARICO N. 64/17 DEL 08/06/17 A NOME DELLA DITTA GIUFFRIDA ALFIO</title>
 			<description>AUTORIZZAZIONE ALLO SCARICO N. 64/17 DEL 08/06/17 A NOME DELLA DITTA GIUFFRIDA ALFIO</description>
-			<a10:updated>2017-06-09T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2812051</guid>
-			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2812051</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 09 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 12 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2812051</category>
-			<category domain="http://albopop.it/specs#item-category-type">CONSIGLIO COMUNALE CONVOCAZIONE DI CONSIGLIO</category>
-			<title>CONVOCAZIONE SEDUTA CONSIGLIO COMUNALE IN SESSIONE ORDINARIA GIORNO 12 GIUGNO 2017 ORE 18,00 - PUNTI AGGIUNTIVI</title>
-			<description>CONVOCAZIONE SEDUTA CONSIGLIO COMUNALE IN SESSIONE ORDINARIA GIORNO 12 GIUGNO 2017 ORE 18,00 - PUNTI AGGIUNTIVI</description>
 			<a10:updated>2017-06-09T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
@@ -1119,6 +1108,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
 			<title>CAMPIONATI NAZIONALI UNIVERSITARI ATTO DI INDIRIZZO</title>
 			<description>CAMPIONATI NAZIONALI UNIVERSITARI ATTO DI INDIRIZZO</description>
+			<a10:updated>2017-06-07T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2808590</guid>
+			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2808590</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 07 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 22 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2808590</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE SINDACALE</category>
+			<title>NOMINA ASSESSORE COMUNALE</title>
+			<description>NOMINA ASSESSORE COMUNALE</description>
 			<a10:updated>2017-06-07T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
