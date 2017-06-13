@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:a10="http://www.w3.org/2005/Atom" version="2.0">
+	<channel>
+		<title>AlboPOP - Comune - Nicolosi</title>
+		<link>http://nicolosi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
+		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Nicolosi</description>
+		<language>it</language>
+		<lastBuildDate>Tue, 13 Jun 2017 08:35:47 +0200</lastBuildDate>
+		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
+		<category domain="http://albopop.it/specs#channel-category-municipality">Nicolosi</category>
+		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
+		<category domain="http://albopop.it/specs#channel-category-region">Sicilia</category>
+		<category domain="http://albopop.it/specs#channel-category-uid">istat:87031</category>
+		<category domain="http://albopop.it/specs#channel-category-latitude">37.6174952</category>
+		<category domain="http://albopop.it/specs#channel-category-longitude">15.0240927</category>
+		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
+		<category domain="http://albopop.it/specs#channel-category-name">Comune di Nicolosi</category>
+		<a10:id>http://feeds.feedburner.com/albopretorio_nicolosi</a10:id>
+		<pubDate>Tue, 13 Jun 2017 08:35:47 +0200</pubDate>
+		<docs>http://albopop.it/comune/nicolosi/</docs>
+		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
+		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+	</channel>
+</rss>
