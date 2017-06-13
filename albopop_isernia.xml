@@ -5,7 +5,7 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 13 Jun 2017 16:31:21 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 13 Jun 2017 17:31:11 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Isernia</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>Tue, 13 Jun 2017 16:31:21 +0200</pubDate>
+		<pubDate>Tue, 13 Jun 2017 17:31:11 +0200</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3328687</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3328687</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 13 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 28 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3328687</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
+			<title>LIQUIDAZIONE FATTURA ASREM PER PRESTAZIONI SERVIZI DI MEDICINA LEGALE - VISITE FISCALI</title>
+			<description>LIQUIDAZIONE FATTURA ASREM PER PRESTAZIONI SERVIZI DI MEDICINA LEGALE - VISITE FISCALI</description>
+			<a10:updated>2017-06-13T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3328639</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3328639</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 13 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 28 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3328639</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
+			<title>LIQUIDAZIONE FATTURA PER FORNITURA BUONI PASTO DA EROGARE AI DIPENDENTI IN FAVORE DELLA DITTA REPAS LUNCH COUPON S.R.L.</title>
+			<description>LIQUIDAZIONE FATTURA PER FORNITURA BUONI PASTO DA EROGARE AI DIPENDENTI IN FAVORE DELLA DITTA REPAS LUNCH COUPON S.R.L.</description>
+			<a10:updated>2017-06-13T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3328419</guid>
 			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3328419</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
 			<title>LIQUIDAZIONE DI SPESA PER PAGAMENTO UTENZE TELECOM UFFICI COMUNALI </title>
 			<description>LIQUIDAZIONE DI SPESA PER PAGAMENTO UTENZE TELECOM UFFICI COMUNALI </description>
-			<a10:updated>2017-06-06T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3299252</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3299252</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 06 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 21 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3299252</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
-			<title>LIQUIDAZIONE DI SPESA PER PAGAMENTO UTENZA TELECOM UFFICI COMUNALI </title>
-			<description>LIQUIDAZIONE DI SPESA PER PAGAMENTO UTENZA TELECOM UFFICI COMUNALI </description>
-			<a10:updated>2017-06-06T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3298840</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3298840</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 06 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 21 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3298840</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
-			<title>SERVIZIO TRASCRIZIONE SEDUTE CONSILIARI - AFFIDAMENTO DITTA UNIVERSILANDIA DI RIBERA ANTONIO.-</title>
-			<description>SERVIZIO TRASCRIZIONE SEDUTE CONSILIARI - AFFIDAMENTO DITTA UNIVERSILANDIA DI RIBERA ANTONIO.-</description>
 			<a10:updated>2017-06-06T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
