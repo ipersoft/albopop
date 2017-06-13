@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 12 Jun 2017 22:05:55 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 13 Jun 2017 08:31:42 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Mon, 12 Jun 2017 22:05:55 +0200</pubDate>
+		<pubDate>Tue, 13 Jun 2017 08:31:42 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/614522</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/614522</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 13 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 21 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">614522</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO ATTI E AVVISI DIVERSI</category>
+			<title>A RICHIESTA DELL'AGENZIA DELLE ENTRATE DI PESARO E URBINO AVVISO DI DEPOSITO DOCUMENTO N. TQ9012T00558/2017</title>
+			<description>A RICHIESTA DELL'AGENZIA DELLE ENTRATE DI PESARO E URBINO AVVISO DI DEPOSITO DOCUMENTO N. TQ9012T00558/2017</description>
+			<a10:updated>2017-06-13T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/614507</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/614507</link>
@@ -1107,17 +1118,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALBO ATTI E AVVISI DIVERSI</category>
 			<title>ARCH. ANNARITA SANTILLI - CONFERIMENTO INCARICO DI RESPONSABILE DELLA U.O. AMBIENTE</title>
 			<description>ARCH. ANNARITA SANTILLI - CONFERIMENTO INCARICO DI RESPONSABILE DELLA U.O. AMBIENTE</description>
-			<a10:updated>2017-06-07T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/604797</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/604797</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 07 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 22 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">604797</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>ACCERTAMENTO ENTRATA PER SANZIONI NOTIFICATE - REVISIONE 01/01 - 30/04</title>
-			<description>ACCERTAMENTO ENTRATA PER SANZIONI NOTIFICATE - REVISIONE 01/01 - 30/04</description>
 			<a10:updated>2017-06-07T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
