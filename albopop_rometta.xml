@@ -5,7 +5,7 @@
 		<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rometta</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 14 Jun 2017 11:31:04 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 14 Jun 2017 12:31:42 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rometta</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Messina</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rometta</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rometta</a10:id>
-		<pubDate>Wed, 14 Jun 2017 11:31:04 +0200</pubDate>
+		<pubDate>Wed, 14 Jun 2017 12:31:42 +0200</pubDate>
 		<docs>http://albopop.it/comune/rometta/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3329892</guid>
+			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3329892</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 14 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 29 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3329892</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
+			<title>APPROVAZIONE AVVISO PUBBLICO DI MANIFESTAZIONI DI INTERESSE ALLA SPONSORIZZAZIONE DI INIZIATIVE CULTURALI, TURISTICHE, SPORTIVE, SOCIALI, EVENTI E MANIFESTAZIONI - ANNO 2017.</title>
+			<description>APPROVAZIONE AVVISO PUBBLICO DI MANIFESTAZIONI DI INTERESSE ALLA SPONSORIZZAZIONE DI INIZIATIVE CULTURALI, TURISTICHE, SPORTIVE, SOCIALI, EVENTI E MANIFESTAZIONI - ANNO 2017.</description>
+			<a10:updated>2017-06-14T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3329890</guid>
+			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3329890</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 14 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 29 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3329890</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
+			<title>VARIANTE PRESCRIZIONE ESECUTIVA P7 IN LOCALITA’ GIAMPAOLO. ATTO DI INDIRIZZO.</title>
+			<description>VARIANTE PRESCRIZIONE ESECUTIVA P7 IN LOCALITA’ GIAMPAOLO. ATTO DI INDIRIZZO.</description>
+			<a10:updated>2017-06-14T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3327255</guid>
 			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3327255</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>REFERENDUM 04 DICEMBRE 2016 - LIQUIDAZIONE COMPENSI AI DIPENDENTI DELL' U.E.C. A VALERE SUL FONDO LAVORO STRAORDINARIO ANNO 2016.</title>
 			<description>REFERENDUM 04 DICEMBRE 2016 - LIQUIDAZIONE COMPENSI AI DIPENDENTI DELL' U.E.C. A VALERE SUL FONDO LAVORO STRAORDINARIO ANNO 2016.</description>
-			<a10:updated>2017-06-01T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3294697</guid>
-			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3294697</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 01 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 16 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3294697</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DECRETO</category>
-			<title>CONSULTA DELLE ASSOCIAZIONI. NOMINA DEL COORDINATORE.</title>
-			<description>CONSULTA DELLE ASSOCIAZIONI. NOMINA DEL COORDINATORE.</description>
-			<a10:updated>2017-06-01T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3294151</guid>
-			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3294151</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 01 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 25 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3294151</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
-			<title>DISPOSIZIONI URGENTI DI PROTEZIONE CIVILE PER LA PREVENZIONE DEGLI INCENDI A TUTELA DELLA INCOLUMITÀ PUBBLICA E PRIVATA</title>
-			<description>DISPOSIZIONI URGENTI DI PROTEZIONE CIVILE PER LA PREVENZIONE DEGLI INCENDI A TUTELA DELLA INCOLUMITÀ PUBBLICA E PRIVATA</description>
 			<a10:updated>2017-06-01T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
