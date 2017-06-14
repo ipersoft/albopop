@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 14 Jun 2017 13:31:05 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 14 Jun 2017 14:31:20 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Wed, 14 Jun 2017 13:31:05 +0200</pubDate>
+		<pubDate>Wed, 14 Jun 2017 14:31:20 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3330927</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3330927</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 14 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 29 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3330927</category>
+			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI GIUNTA</category>
+			<title>RENDICONTO DELLA GESTIONE DELL’ESERCIZIO FINANZIARIO 2016 – APPROVAZIONE SCHEMA DEL CONTO ECONOMICO E DELLO STATO PATRIMONIALE.</title>
+			<description>RENDICONTO DELLA GESTIONE DELL’ESERCIZIO FINANZIARIO 2016 – APPROVAZIONE SCHEMA DEL CONTO ECONOMICO E DELLO STATO PATRIMONIALE.</description>
+			<a10:updated>2017-06-14T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3330553</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3330553</link>
@@ -284,17 +295,6 @@
 			<title>SO.FI.R. SRL - IVG DI LUCCA - BOLLETTINO ASTA STRAORDINARIA VENERDI 16 GIUGNO</title>
 			<description>SO.FI.R. SRL - IVG DI LUCCA - BOLLETTINO ASTA STRAORDINARIA VENERDI 16 GIUGNO</description>
 			<a10:updated>2017-06-14T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3328352</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3328352</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 13 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 28 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3328352</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>VIA DELL'ACQUACALDA E VIA DELLA CANOVETTA - FRAZIONE DI SAN PIETRO A VICO: MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE PER LAVORI DI REALZIZZAZIONE DELLA SEGNALETICA ORIZZONTALE NEI TRATTI INTERESSATI DAI LAVORI DI ESTENSIONE DELLA RETE FOGNARIA. PERIODO 15 - 23 GIUGNO 2017</title>
-			<description>VIA DELL'ACQUACALDA E VIA DELLA CANOVETTA - FRAZIONE DI SAN PIETRO A VICO: MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE PER LAVORI DI REALZIZZAZIONE DELLA SEGNALETICA ORIZZONTALE NEI TRATTI INTERESSATI DAI LAVORI DI ESTENSIONE DELLA RETE FOGNARIA. PERIODO 15 - 23 GIUGNO 2017</description>
-			<a10:updated>2017-06-13T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
