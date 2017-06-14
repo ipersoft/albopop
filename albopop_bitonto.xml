@@ -5,7 +5,7 @@
 		<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bitonto</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 14 Jun 2017 09:30:33 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 14 Jun 2017 10:30:32 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bitonto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Bari</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bitonto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bitonto</a10:id>
-		<pubDate>Wed, 14 Jun 2017 09:30:33 +0200</pubDate>
+		<pubDate>Wed, 14 Jun 2017 10:30:32 +0200</pubDate>
 		<docs>http://albopop.it/comune/bitonto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3329481</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3329481</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 14 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 29 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3329481</category>
+			<category domain="http://albopop.it/specs#item-category-type">PRATICHE SERVIZIO TERRITORIO</category>
+			<title>PERMESSO DI COSTRUIRE N° 51/17 : VITALE G. </title>
+			<description>PERMESSO DI COSTRUIRE N° 51/17 : VITALE G. </description>
+			<a10:updated>2017-06-14T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3329480</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3329480</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 14 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 29 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3329480</category>
+			<category domain="http://albopop.it/specs#item-category-type">PRATICHE SERVIZIO TERRITORIO</category>
+			<title>PERMESSO DI COSTRUIRE N° 50/17 : EDILIZIA 2015</title>
+			<description>PERMESSO DI COSTRUIRE N° 50/17 : EDILIZIA 2015</description>
+			<a10:updated>2017-06-14T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3329351</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3329351</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 14 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 29 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3329351</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI RESPONSABILI DEI SERVIZI (DAL 6-03-2015) 17 - CENTRALE UNICA DI COMMITENZA</category>
+			<title>POTENZIAMENTO DEL SISTEMA DI VIDEOSORVEGLIANZA CITTADINO: PROCEDURA APERTA PER L’APPALTO DI FORNITURE E POSA IN OPERA - CIG: 7099201DFB CUP C51H16000040001. APPROVAZIONE BANDO DI GARA.</title>
+			<description>POTENZIAMENTO DEL SISTEMA DI VIDEOSORVEGLIANZA CITTADINO: PROCEDURA APERTA PER L’APPALTO DI FORNITURE E POSA IN OPERA - CIG: 7099201DFB CUP C51H16000040001. APPROVAZIONE BANDO DI GARA.</description>
+			<a10:updated>2017-06-14T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3329210</guid>
 			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3329210</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI RESPONSABILI DEI SERVIZI (DAL 6-03-2015) 03 - SERVIZIO INFORMATICO</category>
 			<title>SUPPORTO SPECIALISTICO E AFFIANCAMENTO DURANTE LE ELEZIONI COMUNALI DELL'11-06-2017. AFFIDAMENTO E IMPEGNO SPESA.</title>
 			<description>SUPPORTO SPECIALISTICO E AFFIANCAMENTO DURANTE LE ELEZIONI COMUNALI DELL'11-06-2017. AFFIDAMENTO E IMPEGNO SPESA.</description>
-			<a10:updated>2017-06-11T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3323742</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3323742</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Sun, 11 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 26 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3323742</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI RESPONSABILI DEI SERVIZI (DAL 6-03-2015) 03 - SERVIZIO INFORMATICO</category>
-			<title>ASSISTENZA TECNICA DI PRIMO LIVELLO PER LE ATTIVITÀ DEL SERVIZIO INFORMATICO PER SEI MESI. AFFIDAMENTO E IMPEGNO SPESA.</title>
-			<description>ASSISTENZA TECNICA DI PRIMO LIVELLO PER LE ATTIVITÀ DEL SERVIZIO INFORMATICO PER SEI MESI. AFFIDAMENTO E IMPEGNO SPESA.</description>
-			<a10:updated>2017-06-11T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3323740</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3323740</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Sun, 11 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 26 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3323740</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI RESPONSABILI DEI SERVIZI (DAL 6-03-2015) 07 - SERVIZIO DEMOGRAFICO</category>
-			<title>ELEZIONI AMMINISTRATIVE DELL'11 GIUGNO 2017. ONORARI AI COMPONENTI DI SEGGIO. IMPEGNO DI SPESA</title>
-			<description>ELEZIONI AMMINISTRATIVE DELL'11 GIUGNO 2017. ONORARI AI COMPONENTI DI SEGGIO. IMPEGNO DI SPESA</description>
-			<a10:updated>2017-06-11T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3323738</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3323738</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Sun, 11 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 26 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3323738</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI RESPONSABILI DEI SERVIZI (DAL 6-03-2015) 15 - SERVIZIO POLIZIA LOCALE</category>
-			<title>AFFIDAMENTO ALLA COOP. SOCIALE "TASHA" BITONTO - SERVIZIO DI RANDAGISMO ANNO 2017</title>
-			<description>AFFIDAMENTO ALLA COOP. SOCIALE "TASHA" BITONTO - SERVIZIO DI RANDAGISMO ANNO 2017</description>
 			<a10:updated>2017-06-11T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

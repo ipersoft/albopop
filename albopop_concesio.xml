@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 14 Jun 2017 09:30:35 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 14 Jun 2017 10:30:34 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,31 +16,42 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Wed, 14 Jun 2017 09:30:35 +0200</pubDate>
+		<pubDate>Wed, 14 Jun 2017 10:30:34 +0200</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
 		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3329465</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3329465</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 14 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 29 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3329465</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>IMPEGNO DI SPESA PER PAGAMENTO CANONI DEMANIALI PER LE UTENZE DI ACQUA PUBBLICA - ANNO 2017.</title>
+			<description>IMPEGNO DI SPESA PER PAGAMENTO CANONI DEMANIALI PER LE UTENZE DI ACQUA PUBBLICA - ANNO 2017.</description>
+			<a10:updated>2017-06-14T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3328749</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3328749</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 13 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 28 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 01 Jul 2017 02:00:00 +0200</category>
 			<category domain="http://albopop.it/specs#item-category-uid">3328749</category>
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
-			<title>Istituzione temporanea del divieto di circolazione e sosta in Via Berlinguer</title>
-			<description>Istituzione temporanea del divieto di circolazione e sosta in Via Berlinguer</description>
+			<title>ISTITUZIONE TEMPORANEA DEL DIVIETO DI CIRCOLAZIONE E SOSTA IN VIA BERLINGUER</title>
+			<description>ISTITUZIONE TEMPORANEA DEL DIVIETO DI CIRCOLAZIONE E SOSTA IN VIA BERLINGUER</description>
 			<a10:updated>2017-06-13T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3328747</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3328747</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 13 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 28 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 04 Jul 2017 02:00:00 +0200</category>
 			<category domain="http://albopop.it/specs#item-category-uid">3328747</category>
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
-			<title>Proiezione film in P.zza Paolo VI - 2017</title>
-			<description>Proiezione film in P.zza Paolo VI - 2017</description>
+			<title>PROIEZIONE FILM IN P.ZZA PAOLO VI - 2017</title>
+			<description>PROIEZIONE FILM IN P.ZZA PAOLO VI - 2017</description>
 			<a10:updated>2017-06-13T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI RILASCIO PERMESSO DI COSTRUIRE</category>
 			<title>RILASCIO PERMESSO DI COSTRUIRE100.2017</title>
 			<description>RILASCIO PERMESSO DI COSTRUIRE100.2017</description>
-			<a10:updated>2017-06-08T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3304132</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3304132</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 08 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 23 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3304132</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI RILASCIO PERMESSO DI COSTRUIRE</category>
-			<title>RILASCIO PERMESSO DI COSTRUIRE N. 85.2017</title>
-			<description>RILASCIO PERMESSO DI COSTRUIRE N. 85.2017</description>
 			<a10:updated>2017-06-08T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
