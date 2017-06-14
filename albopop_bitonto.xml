@@ -5,7 +5,7 @@
 		<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bitonto</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 14 Jun 2017 10:30:32 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 14 Jun 2017 11:30:33 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bitonto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Bari</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bitonto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bitonto</a10:id>
-		<pubDate>Wed, 14 Jun 2017 10:30:32 +0200</pubDate>
+		<pubDate>Wed, 14 Jun 2017 11:30:33 +0200</pubDate>
 		<docs>http://albopop.it/comune/bitonto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3329676</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3329676</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 14 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 29 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3329676</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
+			<title>PERCORSI ALTERNATIVI DEGLI AUTOBUS DELLA LINEA URBANA ED EXTRAURBANA NEI GIORNI 17 E 18/06/2017 - PROCESSIONI DI "SAN ANTONIO" E "CORPUS DOMINI"</title>
+			<description>PERCORSI ALTERNATIVI DEGLI AUTOBUS DELLA LINEA URBANA ED EXTRAURBANA NEI GIORNI 17 E 18/06/2017 - PROCESSIONI DI "SAN ANTONIO" E "CORPUS DOMINI"</description>
+			<a10:updated>2017-06-14T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3329481</guid>
 			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3329481</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI RESPONSABILI DEI SERVIZI (DAL 6-03-2015) 12 - SERVIZIO LAVORI PUBBLICI</category>
 			<title>EMERGENZA NEVE GENNAIO 2017 - INTERVENTI DI SPALAMENTO E RIMOZIONE ELEMENTI IN PERICOLO DI CADUTA DA AREE PUBBLICHE E IMMOBILI COMUNALI – EDIFICI SCOLASTICI NELLE FRAZIONI DI PALOMBAIO E MARIOTTO - PROVVEDIMENTI</title>
 			<description>EMERGENZA NEVE GENNAIO 2017 - INTERVENTI DI SPALAMENTO E RIMOZIONE ELEMENTI IN PERICOLO DI CADUTA DA AREE PUBBLICHE E IMMOBILI COMUNALI – EDIFICI SCOLASTICI NELLE FRAZIONI DI PALOMBAIO E MARIOTTO - PROVVEDIMENTI</description>
-			<a10:updated>2017-06-11T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3323744</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3323744</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Sun, 11 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 26 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3323744</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI RESPONSABILI DEI SERVIZI (DAL 6-03-2015) 03 - SERVIZIO INFORMATICO</category>
-			<title>SUPPORTO SPECIALISTICO E AFFIANCAMENTO DURANTE LE ELEZIONI COMUNALI DELL'11-06-2017. AFFIDAMENTO E IMPEGNO SPESA.</title>
-			<description>SUPPORTO SPECIALISTICO E AFFIANCAMENTO DURANTE LE ELEZIONI COMUNALI DELL'11-06-2017. AFFIDAMENTO E IMPEGNO SPESA.</description>
 			<a10:updated>2017-06-11T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
