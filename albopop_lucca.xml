@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 13 Jun 2017 18:31:03 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 14 Jun 2017 08:31:21 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Tue, 13 Jun 2017 18:31:03 +0200</pubDate>
+		<pubDate>Wed, 14 Jun 2017 08:31:21 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -154,6 +154,17 @@
 			<a10:updated>2017-06-13T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3328376</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3328376</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 14 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 16 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3328376</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI E BANDI VARI</category>
+			<title>SO.FI.R. SRL - IVG DI LUCCA - BOLLETTINO ASTA STRAORDINARIA VENERDI 16 GIUGNO</title>
+			<description>SO.FI.R. SRL - IVG DI LUCCA - BOLLETTINO ASTA STRAORDINARIA VENERDI 16 GIUGNO</description>
+			<a10:updated>2017-06-14T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3328352</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3328352</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 13 Jun 2017 02:00:00 +0200</category>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>BIBLIOTECA CIVICA AGORA'. TRASFERIMENTO QUOTA AL COMUNE DI ALTOPASCIO PER PIANO INTEGRATO DELLA CULTURA (P.I.C. 2017) LUCCA. IMPEGNO DI SPESA E LIQUIDAZIONE (BENEFICI ECONOMICI FAMIGLIA 09)</title>
 			<description>BIBLIOTECA CIVICA AGORA'. TRASFERIMENTO QUOTA AL COMUNE DI ALTOPASCIO PER PIANO INTEGRATO DELLA CULTURA (P.I.C. 2017) LUCCA. IMPEGNO DI SPESA E LIQUIDAZIONE (BENEFICI ECONOMICI FAMIGLIA 09)</description>
-			<a10:updated>2017-06-13T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3326731</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3326731</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 13 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 28 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3326731</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>(PT 114/2017) SCUOLA PRIMARIA DI S. ANGELO IN CAMPO. ADEGUAMENTO ANTINCENDIO E SISTEMAZIONI ESTERNE. APPROVAZIONE PROGETTO DEFINITIVO/ESECUTIVO, FINANZIAMENTO DELLA SPESA E AGGIUDICAZIONE DEFINITIVA. CUP: J64H17000330004 - CIG: ZF81EEB366 - CIG: ZEA1EEB38C (FAMIGLIA ATTI: 03 - LL.SS.FF. DD UNICA AFFIDAMENTO)</title>
-			<description>(PT 114/2017) SCUOLA PRIMARIA DI S. ANGELO IN CAMPO. ADEGUAMENTO ANTINCENDIO E SISTEMAZIONI ESTERNE. APPROVAZIONE PROGETTO DEFINITIVO/ESECUTIVO, FINANZIAMENTO DELLA SPESA E AGGIUDICAZIONE DEFINITIVA. CUP: J64H17000330004 - CIG: ZF81EEB366 - CIG: ZEA1EEB38C (FAMIGLIA ATTI: 03 - LL.SS.FF. DD UNICA AFFIDAMENTO)</description>
 			<a10:updated>2017-06-13T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
