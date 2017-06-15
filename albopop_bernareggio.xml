@@ -5,7 +5,7 @@
 		<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bernareggio</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 15 Jun 2017 08:30:51 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 15 Jun 2017 09:30:50 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bernareggio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bernareggio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bernareggio</a10:id>
-		<pubDate>Thu, 15 Jun 2017 08:30:51 +0200</pubDate>
+		<pubDate>Thu, 15 Jun 2017 09:30:50 +0200</pubDate>
 		<docs>http://albopop.it/comune/bernareggio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3331836</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3331836</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 15 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3331836</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI BANDO DI CONCORSO</category>
+			<title>VARIANTE ALLE NORME DEL PIANO TERRITORIALE DI COORDINAMENTO PROVINCIALE DELLA PROVINCIA DI MONZA E DELLA BRIANZA. ADOZIONE. RICHIESTA PUBBLICAZIONE ALL'ALBO</title>
+			<description>VARIANTE ALLE NORME DEL PIANO TERRITORIALE DI COORDINAMENTO PROVINCIALE DELLA PROVINCIA DI MONZA E DELLA BRIANZA. ADOZIONE. RICHIESTA PUBBLICAZIONE ALL'ALBO</description>
+			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3326810</guid>
 			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3326810</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZE</category>
 			<title>DIVIETO DI ACCESSO E UTILIZZO DELLA STRUTTURA METALLICA REALIZZATA PRESSO L'AREA DI VIA CATTANEO IN OCCASIONE DI EVENTO RELIGIOSO</title>
 			<description>DIVIETO DI ACCESSO E UTILIZZO DELLA STRUTTURA METALLICA REALIZZATA PRESSO L'AREA DI VIA CATTANEO IN OCCASIONE DI EVENTO RELIGIOSO</description>
-			<a10:updated>2017-06-06T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3300108</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3300108</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 06 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 21 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3300108</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>APPROVAZIONE VERBALI DELLA COMMISSIONE DI VALUTAZIONE PER CONCESSIONE DEI LOCALI DELLE SCUOLE STATALI DI BERNAREGGIO PER L'ORGANIZZAZIONE DEL CENTRO RICREATIVO ESTIVO ANNO 2017. AFFIDAMENTO. CIG ZDF1E9A453</title>
-			<description>APPROVAZIONE VERBALI DELLA COMMISSIONE DI VALUTAZIONE PER CONCESSIONE DEI LOCALI DELLE SCUOLE STATALI DI BERNAREGGIO PER L'ORGANIZZAZIONE DEL CENTRO RICREATIVO ESTIVO ANNO 2017. AFFIDAMENTO. CIG ZDF1E9A453</description>
 			<a10:updated>2017-06-06T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

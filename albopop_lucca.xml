@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 15 Jun 2017 08:31:00 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 15 Jun 2017 09:31:01 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Thu, 15 Jun 2017 08:31:00 +0200</pubDate>
+		<pubDate>Thu, 15 Jun 2017 09:31:01 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3331845</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3331845</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 30 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3331845</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>CASA COMUNALE E UFFICIO SPEDIZIONI , PROCEDURA DI SCARTO MAGGIO 2017: APPROVAZIONE</title>
+			<description>CASA COMUNALE E UFFICIO SPEDIZIONI , PROCEDURA DI SCARTO MAGGIO 2017: APPROVAZIONE</description>
+			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3331341</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3331341</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>REALIZZAZIONE DI UN PARCHEGGIO SCAMBIATORE PRESSO LA STAZIONE DI PONTE A MORIANO - INT. 68 PT 2016-2018 (LL.PP. PARTECIPATI 2016 ZONA NORD). - ACQUISTO AREE A TRATTATIVA BONARIA.</title>
 			<description>REALIZZAZIONE DI UN PARCHEGGIO SCAMBIATORE PRESSO LA STAZIONE DI PONTE A MORIANO - INT. 68 PT 2016-2018 (LL.PP. PARTECIPATI 2016 ZONA NORD). - ACQUISTO AREE A TRATTATIVA BONARIA.</description>
-			<a10:updated>2017-06-13T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3328491</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3328491</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 13 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 28 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3328491</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>DIVIETO DI VENDITA E ASPORTO PER ALIMENTI E BEVANDE IN CONTENITORI RIGIDI QUALI METALLI E/O VETRO AGLI ESERCIZI COMMERCIALI E DI SOMMINISTRAZIONE UBICATI NELL'AREA DI SPETTACOLO E ZONE LIMITROFE IN OCCASIONE DEL SUMMER FESTIVAL RELATIVAMENTE AL CONCERTO DEL 14/06/2017- TRASMISSIONE </title>
-			<description>DIVIETO DI VENDITA E ASPORTO PER ALIMENTI E BEVANDE IN CONTENITORI RIGIDI QUALI METALLI E/O VETRO AGLI ESERCIZI COMMERCIALI E DI SOMMINISTRAZIONE UBICATI NELL'AREA DI SPETTACOLO E ZONE LIMITROFE IN OCCASIONE DEL SUMMER FESTIVAL RELATIVAMENTE AL CONCERTO DEL 14/06/2017- TRASMISSIONE </description>
 			<a10:updated>2017-06-13T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
