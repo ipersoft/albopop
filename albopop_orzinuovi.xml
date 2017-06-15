@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 14 Jun 2017 18:30:39 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 15 Jun 2017 08:30:40 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Wed, 14 Jun 2017 18:30:39 +0200</pubDate>
+		<pubDate>Thu, 15 Jun 2017 08:30:40 +0200</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2818732</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2818732</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 17 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2818732</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI AVVISO</category>
+			<title>AVVISO DI MOBILITA’ VOLONTARIA PER 1 ISTRUTTORE DIRETTIVO SERVIZI SOCIALI (CAT. D) - CONVENZIONE DEL SERVIZIO TRA IL COMUNE DI CALVAGESE DELLA RIVIERA E IL COMUNE DI MUSCOLINE</title>
+			<description>AVVISO DI MOBILITA’ VOLONTARIA PER 1 ISTRUTTORE DIRETTIVO SERVIZI SOCIALI (CAT. D) - CONVENZIONE DEL SERVIZIO TRA IL COMUNE DI CALVAGESE DELLA RIVIERA E IL COMUNE DI MUSCOLINE</description>
+			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2818562</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2818562</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
 			<title>EROGAZIONE CONTRIBUTO ECONOMICO ALLA FONDAZIONE “FILOSOFI LUNGO L’OGLIO” A SOSTEGNO DELLE ATTIVITA’ REALIZZATE E DA REALIZZARE SUL TERRITORIO ORCEANO.</title>
 			<description>EROGAZIONE CONTRIBUTO ECONOMICO ALLA FONDAZIONE “FILOSOFI LUNGO L’OGLIO” A SOSTEGNO DELLE ATTIVITA’ REALIZZATE E DA REALIZZARE SUL TERRITORIO ORCEANO.</description>
-			<a10:updated>2017-06-06T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2806808</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2806808</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 06 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 20 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2806808</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>ACCORDO CON IL COMUNE DI MAIRANO (BS) PER L’UTILIZZO DELLA GRADUATORIA VIGENTE DEL COMUNE DI ORZINUOVI PER IL CONCORSO PUBBLICO PER SOLI ESAMI PER LA COPERTURA DI UN POSTO DI AGENTE DI POLIZIA LOCALE – A TEMPO PIENO ED INDETERMINATO - CAT. C1 – DI CUI ALLA DETERMINAZIONE DEL SEGRETARIO COMUNALE N. 58 DEL 28.10.2010</title>
-			<description>ACCORDO CON IL COMUNE DI MAIRANO (BS) PER L’UTILIZZO DELLA GRADUATORIA VIGENTE DEL COMUNE DI ORZINUOVI PER IL CONCORSO PUBBLICO PER SOLI ESAMI PER LA COPERTURA DI UN POSTO DI AGENTE DI POLIZIA LOCALE – A TEMPO PIENO ED INDETERMINATO - CAT. C1 – DI CUI ALLA DETERMINAZIONE DEL SEGRETARIO COMUNALE N. 58 DEL 28.10.2010</description>
 			<a10:updated>2017-06-06T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

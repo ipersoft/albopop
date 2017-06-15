@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 14 Jun 2017 18:31:27 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 15 Jun 2017 08:31:10 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Wed, 14 Jun 2017 18:31:27 +0200</pubDate>
+		<pubDate>Thu, 15 Jun 2017 08:31:10 +0200</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2818724</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2818724</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 25 Dec 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2818724</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO ON LINE ORDINANZE E AVVISI</category>
+			<title>CHIUSURA PASSAGGIO A LIVELLO IN VIA GIAROLA A PONTESCODOGNA E IN VIA LIBERTA’ A GAIANO E APERTURA NUOVA VIABILITA’</title>
+			<description>CHIUSURA PASSAGGIO A LIVELLO IN VIA GIAROLA A PONTESCODOGNA E IN VIA LIBERTA’ A GAIANO E APERTURA NUOVA VIABILITA’</description>
+			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2818027</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2818027</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
 			<title>AFFIDAMENTO DIRETTO DEL SERVIZIO DI MANUTENZIONE E RIPARAZIONE DEGLI AUTOMEZZI COMUNALI FIAT PUNTO TARGA AY872BS, FIAT PANDA TARGA BP189VA, FIAT PUNTO VAN TARGA EW492XY E FIAT IVECO DAILY TARGA BF452BC ALLA DITTA AUTOFFICINA 2000 S.N.C. DI VIA G. DI VITTORIO, 76 LEMIGNANO DI COLLECCHIO. C. FISCALE/P.IVA 02099100345. CIG: Z7D1ED75E9.</title>
 			<description>AFFIDAMENTO DIRETTO DEL SERVIZIO DI MANUTENZIONE E RIPARAZIONE DEGLI AUTOMEZZI COMUNALI FIAT PUNTO TARGA AY872BS, FIAT PANDA TARGA BP189VA, FIAT PUNTO VAN TARGA EW492XY E FIAT IVECO DAILY TARGA BF452BC ALLA DITTA AUTOFFICINA 2000 S.N.C. DI VIA G. DI VITTORIO, 76 LEMIGNANO DI COLLECCHIO. C. FISCALE/P.IVA 02099100345. CIG: Z7D1ED75E9.</description>
-			<a10:updated>2017-06-07T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2809199</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2809199</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 07 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 22 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2809199</category>
-			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
-			<title>LIQUIDAZIONE CONTRIBUTI CONCESSORI EDILIZIA DI CULTO – ANNO 2016</title>
-			<description>LIQUIDAZIONE CONTRIBUTI CONCESSORI EDILIZIA DI CULTO – ANNO 2016</description>
 			<a10:updated>2017-06-07T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
