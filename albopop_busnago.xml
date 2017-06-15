@@ -5,7 +5,7 @@
 		<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Busnago</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 15 Jun 2017 10:30:53 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 15 Jun 2017 11:31:09 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Busnago</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Busnago</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_busnago</a10:id>
-		<pubDate>Thu, 15 Jun 2017 10:30:53 +0200</pubDate>
+		<pubDate>Thu, 15 Jun 2017 11:31:09 +0200</pubDate>
 		<docs>http://albopop.it/comune/busnago/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3332410</guid>
+			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3332410</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 23 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3332410</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO PUBBLICAZIONE DI MATRIMONIO</category>
+			<title>PUBBLICAZIONI DI MATRIMONIO</title>
+			<description>PUBBLICAZIONI DI MATRIMONIO</description>
+			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3332409</guid>
+			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3332409</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 23 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3332409</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO PUBBLICAZIONE DI MATRIMONIO</category>
+			<title>PUBBLICAZIONI DI MATRIMONIO </title>
+			<description>PUBBLICAZIONI DI MATRIMONIO </description>
+			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3332408</guid>
+			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3332408</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 30 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3332408</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO AVVISO RELATIVO AD APPALTO AGGIUDICATO</category>
+			<title>AVVISO RELATIVO AD APPALTO AGGIUDICATO (ART. 98 DEL D.LGS. N. 50/2016 E S.M.I.) SERVIZIO BIENNALE DI PULIZIA UFFICI ED IMMOBILI COMUNALI - CIG Z7E1ED4EF6 PROCEDURA TELEMATICA SINTEL I.D. N. 86218654</title>
+			<description>AVVISO RELATIVO AD APPALTO AGGIUDICATO (ART. 98 DEL D.LGS. N. 50/2016 E S.M.I.) SERVIZIO BIENNALE DI PULIZIA UFFICI ED IMMOBILI COMUNALI - CIG Z7E1ED4EF6 PROCEDURA TELEMATICA SINTEL I.D. N. 86218654</description>
+			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3331100</guid>
 			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3331100</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DETERMINAZIONE DEI RESPONSABILI</category>
 			<title>ANALISI SU CAMPIONI A MICROSCOPIA ELETTRONICA A SCANSIONE - SEM - A SEGUITO INTERVENTO DI RIMOZIONE E BONIFICA PAVIMENTAZIONE IN VINIL-AMIANTO DEL P1° DEL PALAZZO COMUNALE: APPROVAZIONE DELLA PROPOSTA DI AGGIUDICAZIONE DELLA PROCEDURA TELEMATICA DI AFFIDAMENTO DIRETTO SINTEL (ID N. 86087276) - CIG ZA41ECA5C7 - CUP B54H16001130004</title>
 			<description>ANALISI SU CAMPIONI A MICROSCOPIA ELETTRONICA A SCANSIONE - SEM - A SEGUITO INTERVENTO DI RIMOZIONE E BONIFICA PAVIMENTAZIONE IN VINIL-AMIANTO DEL P1° DEL PALAZZO COMUNALE: APPROVAZIONE DELLA PROPOSTA DI AGGIUDICAZIONE DELLA PROCEDURA TELEMATICA DI AFFIDAMENTO DIRETTO SINTEL (ID N. 86087276) - CIG ZA41ECA5C7 - CUP B54H16001130004</description>
-			<a10:updated>2017-06-03T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3295179</guid>
-			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3295179</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 03 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 18 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3295179</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DETERMINAZIONE DEI RESPONSABILI</category>
-			<title>LAVORO STRAORDINARIO PRESTATO DAI DIPENDENTI COMUNALI – LIQUIDAZIONE MESE DI APRILE 2017</title>
-			<description>LAVORO STRAORDINARIO PRESTATO DAI DIPENDENTI COMUNALI – LIQUIDAZIONE MESE DI APRILE 2017</description>
-			<a10:updated>2017-06-03T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3295174</guid>
-			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3295174</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 03 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 18 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3295174</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DETERMINAZIONE DEI RESPONSABILI</category>
-			<title>SERVIZIO DI RISTORAZIONE SCOLASTICA - ACCERTAMENTO ENTRATA PER APPLICAZIONE PENALI.</title>
-			<description>SERVIZIO DI RISTORAZIONE SCOLASTICA - ACCERTAMENTO ENTRATA PER APPLICAZIONE PENALI.</description>
-			<a10:updated>2017-06-03T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3295172</guid>
-			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3295172</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 03 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 18 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3295172</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DETERMINAZIONE DEI RESPONSABILI</category>
-			<title>DETERMINAZIONE INDENNITÀ DI FUNZIONE SPETTANTE AL SINDACO E AGLI ASSESSORI COMUNALI - ANNO 2017.</title>
-			<description>DETERMINAZIONE INDENNITÀ DI FUNZIONE SPETTANTE AL SINDACO E AGLI ASSESSORI COMUNALI - ANNO 2017.</description>
 			<a10:updated>2017-06-03T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 15 Jun 2017 10:31:08 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 15 Jun 2017 11:31:24 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Thu, 15 Jun 2017 10:31:08 +0200</pubDate>
+		<pubDate>Thu, 15 Jun 2017 11:31:24 +0200</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2819236</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2819236</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 30 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2819236</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>INGIUNZIONE ALLA RIMOZIONE DI TENDA PARASOLE ALL' ESTERNO DELL' ESERCIZIO COMMERCIALE DELLA SOC. ELLEDUEGI S.R.L. " CAPRIBELL " IN VIA ROMA N.65</title>
+			<description>INGIUNZIONE ALLA RIMOZIONE DI TENDA PARASOLE ALL' ESTERNO DELL' ESERCIZIO COMMERCIALE DELLA SOC. ELLEDUEGI S.R.L. " CAPRIBELL " IN VIA ROMA N.65</description>
+			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2819009</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2819009</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>RITORNO SULLA DETERMINAZIONE DIRIGENZIALE N. 422 DELL'8.6.2017 - PARZIALE RETTIFICA BANDO PER LA SELEZIONE DI N. 3 BORSISTI DA INSERIRE NEI PROGETTI DI BORSA LAVORO - AMBITO TERRITORIALE N34 - COMUNE DI CAPRI - ANNO 2017.</title>
 			<description>RITORNO SULLA DETERMINAZIONE DIRIGENZIALE N. 422 DELL'8.6.2017 - PARZIALE RETTIFICA BANDO PER LA SELEZIONE DI N. 3 BORSISTI DA INSERIRE NEI PROGETTI DI BORSA LAVORO - AMBITO TERRITORIALE N34 - COMUNE DI CAPRI - ANNO 2017.</description>
-			<a10:updated>2017-06-12T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2814858</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2814858</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 12 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 27 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2814858</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>Ritorno sull'Ordinanza nr. 78 del 07.06.2017 - sostituzione bus della ditta Capri Tour s.r.l. </title>
-			<description>Ritorno sull'Ordinanza nr. 78 del 07.06.2017 - sostituzione bus della ditta Capri Tour s.r.l. </description>
 			<a10:updated>2017-06-12T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

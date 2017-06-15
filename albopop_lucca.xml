@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 15 Jun 2017 10:31:02 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 15 Jun 2017 11:31:17 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Thu, 15 Jun 2017 10:31:02 +0200</pubDate>
+		<pubDate>Thu, 15 Jun 2017 11:31:17 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3332352</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3332352</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 30 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3332352</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>SERVIZIO DI REPERIBILITA' PER EMERGENZE A TUTELA DELLA PUBBLICA INCOLUMITA'. DETERMINAZIONE A CONTRARRE. CIG N. ZED1EF251C. AFFIDAMENTO DEL SERVIZIO IN AFFIANCAMENTO ALLA SQUADRA DI REPERIBILITA'. IMPEGNO DI SPESA PER IL PERIODO 1 LUGLIO 30 SETTEMBRE 2017.</title>
+			<description>SERVIZIO DI REPERIBILITA' PER EMERGENZE A TUTELA DELLA PUBBLICA INCOLUMITA'. DETERMINAZIONE A CONTRARRE. CIG N. ZED1EF251C. AFFIDAMENTO DEL SERVIZIO IN AFFIANCAMENTO ALLA SQUADRA DI REPERIBILITA'. IMPEGNO DI SPESA PER IL PERIODO 1 LUGLIO 30 SETTEMBRE 2017.</description>
+			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3331845</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3331845</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>SERVIZI EDUCATIVI PER LA PRIMA INFANZIA - SERVIZIO ESTIVO 2017 PRESSO IL NIDO D'INFANZIA IL SEME (FAMIGLIA 05)</title>
 			<description>SERVIZI EDUCATIVI PER LA PRIMA INFANZIA - SERVIZIO ESTIVO 2017 PRESSO IL NIDO D'INFANZIA IL SEME (FAMIGLIA 05)</description>
-			<a10:updated>2017-06-13T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3328707</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3328707</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 13 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 28 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3328707</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>REALIZZAZIONE DI UN PARCHEGGIO SCAMBIATORE PRESSO LA STAZIONE DI PONTE A MORIANO - INT. 68 PT 2016-2018 (LL.PP. PARTECIPATI 2016 ZONA NORD). - ACQUISTO AREE A TRATTATIVA BONARIA.</title>
-			<description>REALIZZAZIONE DI UN PARCHEGGIO SCAMBIATORE PRESSO LA STAZIONE DI PONTE A MORIANO - INT. 68 PT 2016-2018 (LL.PP. PARTECIPATI 2016 ZONA NORD). - ACQUISTO AREE A TRATTATIVA BONARIA.</description>
 			<a10:updated>2017-06-13T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
