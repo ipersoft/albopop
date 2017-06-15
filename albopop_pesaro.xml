@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 15 Jun 2017 17:30:48 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 15 Jun 2017 18:30:56 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Thu, 15 Jun 2017 17:30:48 +0200</pubDate>
+		<pubDate>Thu, 15 Jun 2017 18:30:56 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615882</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615882</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 30 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">615882</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>RICORSO AVVERSO VERBALE PER VIOLAZIONE A NORME AMMINISTRATIVE, RESISTENZA IN GIUDIZIO AVANTI IL TRIBUNALE DI PESARO R.G. 797/2017, UDIENZA DEL 20/07/2017</title>
+			<description>RICORSO AVVERSO VERBALE PER VIOLAZIONE A NORME AMMINISTRATIVE, RESISTENZA IN GIUDIZIO AVANTI IL TRIBUNALE DI PESARO R.G. 797/2017, UDIENZA DEL 20/07/2017</description>
+			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615879</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615879</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 30 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">615879</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>RICORSO AVVERSO ORDINANZA INGIUNZIONE PREFETTIZIA PER VIOLAZIONI A NORME DEL CDS, RESISTENZA IN GIUDIZIO AVANTI IL GIUDICE DI PACE DI PESARO, UDIENZA DEL 26/06/2017, R.G. 699/2017</title>
+			<description>RICORSO AVVERSO ORDINANZA INGIUNZIONE PREFETTIZIA PER VIOLAZIONI A NORME DEL CDS, RESISTENZA IN GIUDIZIO AVANTI IL GIUDICE DI PACE DI PESARO, UDIENZA DEL 26/06/2017, R.G. 699/2017</description>
+			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615859</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615859</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 26 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">615859</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO ATTI E AVVISI DIVERSI</category>
+			<title>INDIZIONE PROCEDURA INTERNA PER IL CONFERIMENTO DELL’INCARICO DI POSIZIONE ORGANIZZATIVA ”FABBRICATI” </title>
+			<description>INDIZIONE PROCEDURA INTERNA PER IL CONFERIMENTO DELL’INCARICO DI POSIZIONE ORGANIZZATIVA ”FABBRICATI” </description>
+			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615846</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615846</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
 			<title>REALIZZAZIONETRIBUNA PREFABBRICATA VIA CAMPO SPORTIVO. SISTEMAZIONE CAMPO DA GIOCO PRINCIPALE STADIO "TONINO BENELLI" DI PESARO - PROGETTI DEFINITIVI ESECUTIVI: A1) RISTRUTTURAZIONE - OPERE COMPLEMENTARI STADIO "TONINO BENELLI" DI PESARO: REALIZZAZIONE BASAMENTO IN CEMENTO ARMATO NUOVA TRIBUNA LATO VIA CAMPO SPORTIVO ("PRATO"). A2) RISTRUTTURAZIONE - OPERE COMPLEMENTARI STADIO "TONINO BENELLI" DI PESARO: LAVORI DI MIGLIORIA PER MESSA A NORMA PRATO SPORTIVO DEL CAMPO PRINCIPALE E COMPLETAMENTO. </title>
 			<description>REALIZZAZIONETRIBUNA PREFABBRICATA VIA CAMPO SPORTIVO. SISTEMAZIONE CAMPO DA GIOCO PRINCIPALE STADIO "TONINO BENELLI" DI PESARO - PROGETTI DEFINITIVI ESECUTIVI: A1) RISTRUTTURAZIONE - OPERE COMPLEMENTARI STADIO "TONINO BENELLI" DI PESARO: REALIZZAZIONE BASAMENTO IN CEMENTO ARMATO NUOVA TRIBUNA LATO VIA CAMPO SPORTIVO ("PRATO"). A2) RISTRUTTURAZIONE - OPERE COMPLEMENTARI STADIO "TONINO BENELLI" DI PESARO: LAVORI DI MIGLIORIA PER MESSA A NORMA PRATO SPORTIVO DEL CAMPO PRINCIPALE E COMPLETAMENTO. </description>
-			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615494</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615494</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 15 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">615494</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALBO PUBBLICAZIONI RICHIESTE DA SOGGETTI ESTERNI</category>
-			<title>AVVISO CONTENENTE IL SUNTO DELLA DOMANDA DI CAMBIAMENTO DEL COGNOME DA ZAREMBA OLEKSANDRA VOLODYMYRIVNA A PYLYPIV OLEKSANDRA VOLODYMYRIVNA - DECRETO PREFETTURA PESARO E URBINO N. 35327 DEL 07/06/2017</title>
-			<description>AVVISO CONTENENTE IL SUNTO DELLA DOMANDA DI CAMBIAMENTO DEL COGNOME DA ZAREMBA OLEKSANDRA VOLODYMYRIVNA A PYLYPIV OLEKSANDRA VOLODYMYRIVNA - DECRETO PREFETTURA PESARO E URBINO N. 35327 DEL 07/06/2017</description>
-			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615480</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615480</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 30 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">615480</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>AGGIUDICAZIONE AFFIDAMENTO DELLA GESTIONE DEL CENTRO ESTIVO DI COLOMBARONE PER IL PERIODO 26 GIUGNO/31 AGOSTO 2017 MEDIANTE TRATTATIVA DIRETTA SUL MEPA</title>
-			<description>AGGIUDICAZIONE AFFIDAMENTO DELLA GESTIONE DEL CENTRO ESTIVO DI COLOMBARONE PER IL PERIODO 26 GIUGNO/31 AGOSTO 2017 MEDIANTE TRATTATIVA DIRETTA SUL MEPA</description>
-			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615479</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615479</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 16 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">615479</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALBO PUBBLICAZIONI RICHIESTE DA SOGGETTI ESTERNI</category>
-			<title>AVVISO DI DEPOSITO - ART. 26 DPR 602/73, ART. 60 DPR 600/73, ART. 140 CPC - IRREPERIBILI - ALL. N. 08220179001571266000 - ELENCO N. 1 DEL 14/06/2017 - </title>
-			<description>AVVISO DI DEPOSITO - ART. 26 DPR 602/73, ART. 60 DPR 600/73, ART. 140 CPC - IRREPERIBILI - ALL. N. 08220179001571266000 - ELENCO N. 1 DEL 14/06/2017 - </description>
 			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
