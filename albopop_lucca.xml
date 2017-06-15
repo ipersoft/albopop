@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 15 Jun 2017 13:31:15 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 15 Jun 2017 14:31:01 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Thu, 15 Jun 2017 13:31:15 +0200</pubDate>
+		<pubDate>Thu, 15 Jun 2017 14:31:01 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3333143</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3333143</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 25 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3333143</category>
+			<category domain="http://albopop.it/specs#item-category-type">MANIFESTI</category>
+			<title>AVD - BALLOTTAGGIO</title>
+			<description>AVD - BALLOTTAGGIO</description>
+			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3333064</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3333064</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
 			<title>VIA S.DONNINO,CENTRO STORICO,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE STRADALE,PER IL GIORNO 27 GIUGNO 2017.</title>
 			<description>VIA S.DONNINO,CENTRO STORICO,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE STRADALE,PER IL GIORNO 27 GIUGNO 2017.</description>
-			<a10:updated>2017-06-14T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3329656</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3329656</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 14 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 29 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3329656</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>VIA MATTEO CIVITALI,FRAZIONE S.MARCO,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE STRADALE,DAL GIORNO 19 GIUGNO 2017 AL GIORNO 25 GIUGNO 2017.</title>
-			<description>VIA MATTEO CIVITALI,FRAZIONE S.MARCO,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE STRADALE,DAL GIORNO 19 GIUGNO 2017 AL GIORNO 25 GIUGNO 2017.</description>
 			<a10:updated>2017-06-14T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
