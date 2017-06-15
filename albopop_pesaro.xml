@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 15 Jun 2017 09:30:41 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 15 Jun 2017 10:30:41 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,55 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Thu, 15 Jun 2017 09:30:41 +0200</pubDate>
+		<pubDate>Thu, 15 Jun 2017 10:30:41 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615501</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615501</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 30 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">615501</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
+			<title>VARIAZIONE AL PEG – ESERCIZIO 2017/2019</title>
+			<description>VARIAZIONE AL PEG – ESERCIZIO 2017/2019</description>
+			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615499</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615499</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 30 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">615499</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
+			<title>PRELEVAMENTO DAL FONDO DI RISERVA PER L’ESERCIZIO 2017 ED ADEGUAMENTO DEL PEG 2017/2019 </title>
+			<description>PRELEVAMENTO DAL FONDO DI RISERVA PER L’ESERCIZIO 2017 ED ADEGUAMENTO DEL PEG 2017/2019 </description>
+			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615495</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615495</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 30 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">615495</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
+			<title>REALIZZAZIONETRIBUNA PREFABBRICATA VIA CAMPO SPORTIVO. SISTEMAZIONE CAMPO DA GIOCO PRINCIPALE STADIO "TONINO BENELLI" DI PESARO - PROGETTI DEFINITIVI ESECUTIVI: A1) RISTRUTTURAZIONE - OPERE COMPLEMENTARI STADIO "TONINO BENELLI" DI PESARO: REALIZZAZIONE BASAMENTO IN CEMENTO ARMATO NUOVA TRIBUNA LATO VIA CAMPO SPORTIVO ("PRATO"). A2) RISTRUTTURAZIONE - OPERE COMPLEMENTARI STADIO "TONINO BENELLI" DI PESARO: LAVORI DI MIGLIORIA PER MESSA A NORMA PRATO SPORTIVO DEL CAMPO PRINCIPALE E COMPLETAMENTO. </title>
+			<description>REALIZZAZIONETRIBUNA PREFABBRICATA VIA CAMPO SPORTIVO. SISTEMAZIONE CAMPO DA GIOCO PRINCIPALE STADIO "TONINO BENELLI" DI PESARO - PROGETTI DEFINITIVI ESECUTIVI: A1) RISTRUTTURAZIONE - OPERE COMPLEMENTARI STADIO "TONINO BENELLI" DI PESARO: REALIZZAZIONE BASAMENTO IN CEMENTO ARMATO NUOVA TRIBUNA LATO VIA CAMPO SPORTIVO ("PRATO"). A2) RISTRUTTURAZIONE - OPERE COMPLEMENTARI STADIO "TONINO BENELLI" DI PESARO: LAVORI DI MIGLIORIA PER MESSA A NORMA PRATO SPORTIVO DEL CAMPO PRINCIPALE E COMPLETAMENTO. </description>
+			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615494</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615494</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 15 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">615494</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PUBBLICAZIONI RICHIESTE DA SOGGETTI ESTERNI</category>
+			<title>AVVISO CONTENENTE IL SUNTO DELLA DOMANDA DI CAMBIAMENTO DEL COGNOME DA ZAREMBA OLEKSANDRA VOLODYMYRIVNA A PYLYPIV OLEKSANDRA VOLODYMYRIVNA - DECRETO PREFETTURA PESARO E URBINO N. 35327 DEL 07/06/2017</title>
+			<description>AVVISO CONTENENTE IL SUNTO DELLA DOMANDA DI CAMBIAMENTO DEL COGNOME DA ZAREMBA OLEKSANDRA VOLODYMYRIVNA A PYLYPIV OLEKSANDRA VOLODYMYRIVNA - DECRETO PREFETTURA PESARO E URBINO N. 35327 DEL 07/06/2017</description>
+			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615480</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615480</link>
@@ -250,50 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
 			<title>FONDO DESTINATO AGLI INQUILINI MOROSI INCOLPEVOLI (D.M. 30/3/2016 - D.G.R. MARCHE N. 82/2017): CRITERI </title>
 			<description>FONDO DESTINATO AGLI INQUILINI MOROSI INCOLPEVOLI (D.M. 30/3/2016 - D.G.R. MARCHE N. 82/2017): CRITERI </description>
-			<a10:updated>2017-06-14T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615090</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615090</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 14 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 29 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">615090</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>CONCESSIONE DEL SERVIZIO DI GESTIONE DELLA PISCINA COMUNALE “O.BERTI” E PROGETTAZIONE PER LA REALIZZAZIONE DEI LAVORI DI RIQUALIFICAZIONE E RECUPERO FUNZIONALE DELL’AREA A CARATTERE COMPLEMENTARE IN RELAZIONE ALLA GESTIONE DELL’IMPIANTO SPORTIVO. PROVVEDIMENTI</title>
-			<description>CONCESSIONE DEL SERVIZIO DI GESTIONE DELLA PISCINA COMUNALE “O.BERTI” E PROGETTAZIONE PER LA REALIZZAZIONE DEI LAVORI DI RIQUALIFICAZIONE E RECUPERO FUNZIONALE DELL’AREA A CARATTERE COMPLEMENTARE IN RELAZIONE ALLA GESTIONE DELL’IMPIANTO SPORTIVO. PROVVEDIMENTI</description>
-			<a10:updated>2017-06-14T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615056</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615056</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 14 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 20 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">615056</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALBO RISPOSTE A QUESITI GARE</category>
-			<title>GARA PER L’AFFIDAMENTO DELLA GESTIONE DI 4 SCUOLE COMUNALI DELL’INFANZIA E DI 5 SCUOLE ESTIVE DELL’INFANZIA PERIODO 01/09/2017-31/08/2020. CIG: 705618326B- RISPOSTA A QUESITO 2 (DATA PUBBLICAZIONE: 14 GIUGNO 2017) </title>
-			<description>GARA PER L’AFFIDAMENTO DELLA GESTIONE DI 4 SCUOLE COMUNALI DELL’INFANZIA E DI 5 SCUOLE ESTIVE DELL’INFANZIA PERIODO 01/09/2017-31/08/2020. CIG: 705618326B- RISPOSTA A QUESITO 2 (DATA PUBBLICAZIONE: 14 GIUGNO 2017) </description>
-			<a10:updated>2017-06-14T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615053</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615053</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 14 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 29 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">615053</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>AFFIDAMENTO DEL SERVIZIO DI VIGILANZA FISSA NON ARMATA DA RENDERE PRESSO IL CORTILE INTERNO STABILE EX ESERCITO IN VIA LAMARMORA DAL 16/6/2017 AL 19/6/2017</title>
-			<description>AFFIDAMENTO DEL SERVIZIO DI VIGILANZA FISSA NON ARMATA DA RENDERE PRESSO IL CORTILE INTERNO STABILE EX ESERCITO IN VIA LAMARMORA DAL 16/6/2017 AL 19/6/2017</description>
-			<a10:updated>2017-06-14T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615050</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615050</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 14 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 29 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">615050</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>INTERVENTO DI TUTELA E PROTEZIONE TEMPORANEA DI MINORI ALLONTANATI DALLA FAMIGLIA C/O STRUTTURA RESIDENZIALE AUTORIZZATA ED INDIVIDUATA DALL’ELENCO COMUNALE APERTO DI CUI ALL’AVVISO PUBBLICO DEL 28/04/2016 (INSERIMENTO MAGGIO 2017)</title>
-			<description>INTERVENTO DI TUTELA E PROTEZIONE TEMPORANEA DI MINORI ALLONTANATI DALLA FAMIGLIA C/O STRUTTURA RESIDENZIALE AUTORIZZATA ED INDIVIDUATA DALL’ELENCO COMUNALE APERTO DI CUI ALL’AVVISO PUBBLICO DEL 28/04/2016 (INSERIMENTO MAGGIO 2017)</description>
 			<a10:updated>2017-06-14T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

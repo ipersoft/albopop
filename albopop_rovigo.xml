@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 15 Jun 2017 09:31:07 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 15 Jun 2017 10:31:08 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Thu, 15 Jun 2017 09:31:07 +0200</pubDate>
+		<pubDate>Thu, 15 Jun 2017 10:31:08 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2819080</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2819080</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 30 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2819080</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZE</category>
+			<title>ORDINANZA DIRIGENZIALE EX ART. 34, COMMA 1, DPR 380/2001, DI RIMOZIONE E DEMOLIZIONE DEI MANUFATTI ACCESSORI OGGETTO DI ISTANZA DI CONDONO EDILIZIO EX LEGGE 47/85 IN VIA PASSETTO 152/C, CENS. DI BUSO/SARZANO- F. 20 MAPP. 271 SUB 2 E 289.</title>
+			<description>ORDINANZA DIRIGENZIALE EX ART. 34, COMMA 1, DPR 380/2001, DI RIMOZIONE E DEMOLIZIONE DEI MANUFATTI ACCESSORI OGGETTO DI ISTANZA DI CONDONO EDILIZIO EX LEGGE 47/85 IN VIA PASSETTO 152/C, CENS. DI BUSO/SARZANO- F. 20 MAPP. 271 SUB 2 E 289.</description>
+			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2818883</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2818883</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZE</category>
 			<title>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE PER LAVORI DI RIPRISTINI DEFINITIVI SU MANTO STRADALE DA ESEGUIRSI IN VIALE PORTA PO ED IN VIALE REGINA MARGHERITA FINO AL 30/06/2017</title>
 			<description>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE PER LAVORI DI RIPRISTINI DEFINITIVI SU MANTO STRADALE DA ESEGUIRSI IN VIALE PORTA PO ED IN VIALE REGINA MARGHERITA FINO AL 30/06/2017</description>
-			<a10:updated>2017-06-13T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2816998</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2816998</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 13 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 28 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2816998</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>VARIAZIONE ALLE PARTITE DI GIRO AI SENSI DELL'ART. 175 COMMA 5 QUATER LETT. E) DEL D.LGS. 267/2000</title>
-			<description>VARIAZIONE ALLE PARTITE DI GIRO AI SENSI DELL'ART. 175 COMMA 5 QUATER LETT. E) DEL D.LGS. 267/2000</description>
 			<a10:updated>2017-06-13T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
