@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 16 Jun 2017 08:31:06 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 16 Jun 2017 09:31:53 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Fri, 16 Jun 2017 08:31:06 +0200</pubDate>
+		<pubDate>Fri, 16 Jun 2017 09:31:53 +0200</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2820634</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2820634</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 16 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 01 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2820634</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONCESSIONI CONCESSIONE EDILIZIA</category>
+			<title>CONCESSIONE EDILIZIA N.22/2017 - SIG. AZZONE CARMELO</title>
+			<description>CONCESSIONE EDILIZIA N.22/2017 - SIG. AZZONE CARMELO</description>
+			<a10:updated>2017-06-16T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2820248</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2820248</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
 			<title>RETTIFICA QUADRO ECONOMICO DEL PROGETTO DI RIFACIMENTO DELLA RETE ACQUEDOTTISTICA DI VIA FORLANINI - COMUNICAZIONE - E VIE LIMITROFE. CIG 58341447ED</title>
 			<description>RETTIFICA QUADRO ECONOMICO DEL PROGETTO DI RIFACIMENTO DELLA RETE ACQUEDOTTISTICA DI VIA FORLANINI - COMUNICAZIONE - E VIE LIMITROFE. CIG 58341447ED</description>
-			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2819094</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2819094</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 22 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2819094</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
-			<title>SERVIZI RESIDENZIALI PER INABILI, DISABILI GRAVI E DISABILI MENTALI. IMPEGNO SPESA ANNO 2017</title>
-			<description>SERVIZI RESIDENZIALI PER INABILI, DISABILI GRAVI E DISABILI MENTALI. IMPEGNO SPESA ANNO 2017</description>
 			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
