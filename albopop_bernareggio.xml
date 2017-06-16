@@ -5,7 +5,7 @@
 		<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bernareggio</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 16 Jun 2017 12:31:16 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 16 Jun 2017 13:31:08 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bernareggio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bernareggio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bernareggio</a10:id>
-		<pubDate>Fri, 16 Jun 2017 12:31:16 +0200</pubDate>
+		<pubDate>Fri, 16 Jun 2017 13:31:08 +0200</pubDate>
 		<docs>http://albopop.it/comune/bernareggio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3335961</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3335961</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 16 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 17 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3335961</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI BANDO DI CONCORSO</category>
+			<title>POSTA CERTIFICATA: AVVISO DI MOBILITA’ ESTERNA PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 1 POSTO DI ISTRUTTORE DIRETTIVO CONTABILE “ CAT D1  </title>
+			<description>POSTA CERTIFICATA: AVVISO DI MOBILITA’ ESTERNA PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 1 POSTO DI ISTRUTTORE DIRETTIVO CONTABILE “ CAT D1  </description>
+			<a10:updated>2017-06-16T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3335571</guid>
 			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3335571</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>REALIZZAZIONE LOGO IN FORMATO VETTORIALE DEL CORPO ASSOCIATO DI POLIZIA LOCALE E ACQUISTO MATERIALI DI COMPLETAMENTO DELL'ALLESTIMENTO DEGLI UFFICI DEL COMANDO - CIG: Z411ED9BAA</title>
 			<description>REALIZZAZIONE LOGO IN FORMATO VETTORIALE DEL CORPO ASSOCIATO DI POLIZIA LOCALE E ACQUISTO MATERIALI DI COMPLETAMENTO DELL'ALLESTIMENTO DEGLI UFFICI DEL COMANDO - CIG: Z411ED9BAA</description>
-			<a10:updated>2017-06-07T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3302417</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3302417</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 07 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 07 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3302417</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI BANDO DI CONCORSO</category>
-			<title>POSTA CERTIFICATA: AVVISO DI MOBILITÀ VOLONTARIA, AI SENSI DELL'ART. 30 DEL D.LGS. N. 165/2001, PER LA COPERTURA DI N. 1 POSTO VACANTE A TEMPO PIENO ED INDETERMINATO DI ISTRUTTORE AMMINISTRATIVO - CATEGORIA C - PRESSO IL SETTORE SERVIZI AL CITTADINO E WELFARE</title>
-			<description>POSTA CERTIFICATA: AVVISO DI MOBILITÀ VOLONTARIA, AI SENSI DELL'ART. 30 DEL D.LGS. N. 165/2001, PER LA COPERTURA DI N. 1 POSTO VACANTE A TEMPO PIENO ED INDETERMINATO DI ISTRUTTORE AMMINISTRATIVO - CATEGORIA C - PRESSO IL SETTORE SERVIZI AL CITTADINO E WELFARE</description>
 			<a10:updated>2017-06-07T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
