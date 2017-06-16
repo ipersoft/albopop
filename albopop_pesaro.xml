@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 16 Jun 2017 10:31:29 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 16 Jun 2017 11:30:45 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Fri, 16 Jun 2017 10:31:29 +0200</pubDate>
+		<pubDate>Fri, 16 Jun 2017 11:30:45 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/616015</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/616015</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 16 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 25 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">616015</category>
+			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO RICHIESTA PUBBLICAZIONE MATRIMONIO ALBO</category>
+			<title>PUBBLICAZIONI DI MATRIMONIO DI "DE VINCENZIS MAURO E MILANO TERESA"</title>
+			<description>PUBBLICAZIONI DI MATRIMONIO DI "DE VINCENZIS MAURO E MILANO TERESA"</description>
+			<a10:updated>2017-06-16T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615965</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615965</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 16 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 01 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">615965</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>DITTA GEOSERVICE S.R.L. DI FERMO: FORNITURA ENTERPRISE LICENSE AGREEMENT DENOMINATA "SMALL ELA"</title>
+			<description>DITTA GEOSERVICE S.R.L. DI FERMO: FORNITURA ENTERPRISE LICENSE AGREEMENT DENOMINATA "SMALL ELA"</description>
+			<a10:updated>2017-06-16T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615961</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615961</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 16 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 01 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">615961</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>ORDINARIA MANUTENZIONE PALAZZO COMUNALE - AFFIDAMENTO LAVORI</title>
+			<description>ORDINARIA MANUTENZIONE PALAZZO COMUNALE - AFFIDAMENTO LAVORI</description>
+			<a10:updated>2017-06-16T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615959</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615959</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
 			<title>U.O. TURISMO - MANIFESTAZIONE GRAND FESTIVAL - DEROGA AL DIVIETO DI TRANSITO E SOSTA IN ZTL/APU - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI.</title>
 			<description>U.O. TURISMO - MANIFESTAZIONE GRAND FESTIVAL - DEROGA AL DIVIETO DI TRANSITO E SOSTA IN ZTL/APU - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI.</description>
-			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615697</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615697</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 30 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">615697</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
-			<title>DUE EMME SRLS - VIA CURIEL - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI.</title>
-			<description>DUE EMME SRLS - VIA CURIEL - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI.</description>
-			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615694</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615694</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 30 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">615694</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
-			<title>TECNO ISOLEDIL SRL - VIA VINCENZO ROSSI - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI.</title>
-			<description>TECNO ISOLEDIL SRL - VIA VINCENZO ROSSI - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI.</description>
-			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615688</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/615688</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 30 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">615688</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
-			<title>QUARTIERE 3 "COLLINE E CASTELLI" - FESTA DELLA BELLEZZA - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI.</title>
-			<description>QUARTIERE 3 "COLLINE E CASTELLI" - FESTA DELLA BELLEZZA - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI.</description>
 			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
