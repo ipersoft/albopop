@@ -5,7 +5,7 @@
 		<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Canosa di Puglia</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 17 Jun 2017 10:31:40 +0200</lastBuildDate>
+		<lastBuildDate>Sat, 17 Jun 2017 11:31:08 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Canosa di Puglia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Barletta-Andria-Trani</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Canosa di Puglia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_canosadipuglia</a10:id>
-		<pubDate>Sat, 17 Jun 2017 10:31:40 +0200</pubDate>
+		<pubDate>Sat, 17 Jun 2017 11:31:08 +0200</pubDate>
 		<docs>http://albopop.it/comune/canosadipuglia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3336751</guid>
+			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3336751</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 17 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 20 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3336751</category>
+			<category domain="http://albopop.it/specs#item-category-type">BANDI E GARE BANDO DI GARA</category>
+			<title>POSTA CERTIFICATA: PROCEDURA APERTA PER L'APPALTO DEI SERVIZI DI ARCHITETTURA E INGEGNERIA PER I LAVORI DI REALIZZAZIONE DEL CENTRO RISVEGLI DEL P.O. DI CANOSA DI P.</title>
+			<description>POSTA CERTIFICATA: PROCEDURA APERTA PER L'APPALTO DEI SERVIZI DI ARCHITETTURA E INGEGNERIA PER I LAVORI DI REALIZZAZIONE DEL CENTRO RISVEGLI DEL P.O. DI CANOSA DI P.</description>
+			<a10:updated>2017-06-17T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3336583</guid>
 			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3336583</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
 			<title>SENTENZA DELLA CORTE DI CASSAZIONE - SEZIONI UNITE CIVILI N. 9965/17. RIPETIZIONE SPESE DI LITE.</title>
 			<description>SENTENZA DELLA CORTE DI CASSAZIONE - SEZIONI UNITE CIVILI N. 9965/17. RIPETIZIONE SPESE DI LITE.</description>
-			<a10:updated>2017-06-16T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3336529</guid>
-			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3336529</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 16 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 01 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3336529</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
-			<title>Impugnazione Sentenza del Tribunale di Bari - Sezione stralcio - Articolazione di Altamura emessa nel giudizio Comune di Canosa di Puglia c/ CO.BE.MA s.r.l.. Assunzione spesa e liquidazione acconto onorario in favore dell'avv. Michele di Donna.</title>
-			<description>Impugnazione Sentenza del Tribunale di Bari - Sezione stralcio - Articolazione di Altamura emessa nel giudizio Comune di Canosa di Puglia c/ CO.BE.MA s.r.l.. Assunzione spesa e liquidazione acconto onorario in favore dell'avv. Michele di Donna.</description>
 			<a10:updated>2017-06-16T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
