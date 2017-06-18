@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 17 Jun 2017 18:31:33 +0200</lastBuildDate>
+		<lastBuildDate>Sun, 18 Jun 2017 08:30:54 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Sat, 17 Jun 2017 18:31:33 +0200</pubDate>
+		<pubDate>Sun, 18 Jun 2017 08:30:54 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -88,6 +88,50 @@
 			<a10:updated>2017-06-16T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3335486</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3335486</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sun, 18 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 25 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3335486</category>
+			<category domain="http://albopop.it/specs#item-category-type">MANIFESTI</category>
+			<title>ORARIO UFFICIO ELETTORALE - TURNO DI BALLOTTAGGIO</title>
+			<description>ORARIO UFFICIO ELETTORALE - TURNO DI BALLOTTAGGIO</description>
+			<a10:updated>2017-06-18T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3335386</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3335386</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sun, 18 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 25 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3335386</category>
+			<category domain="http://albopop.it/specs#item-category-type">MANIFESTI</category>
+			<title>ESERCIZIO DEL VOTO DEGLI ELETTORI NON DEAMBULANTI - TURNO DI BALLOTTAGGIO</title>
+			<description>ESERCIZIO DEL VOTO DEGLI ELETTORI NON DEAMBULANTI - TURNO DI BALLOTTAGGIO</description>
+			<a10:updated>2017-06-18T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3335385</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3335385</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sun, 18 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 25 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3335385</category>
+			<category domain="http://albopop.it/specs#item-category-type">MANIFESTI</category>
+			<title>ELETTORI IMPOSSIBILITATI AD ESPRIMERE PERSONALMENTE IL VOTO - TURNO DI BALLOTTAGGIO</title>
+			<description>ELETTORI IMPOSSIBILITATI AD ESPRIMERE PERSONALMENTE IL VOTO - TURNO DI BALLOTTAGGIO</description>
+			<a10:updated>2017-06-18T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3335384</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3335384</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sun, 18 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 25 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3335384</category>
+			<category domain="http://albopop.it/specs#item-category-type">MANIFESTI</category>
+			<title>VALIDITA' DELLA TESSERA - TURNO DI BALLOTTAGGIO</title>
+			<description>VALIDITA' DELLA TESSERA - TURNO DI BALLOTTAGGIO</description>
+			<a10:updated>2017-06-18T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3334239</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3334239</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Jun 2017 02:00:00 +0200</category>
@@ -141,28 +185,6 @@
 			<title>VIA DI CAMPITELLO - FRAZ. PIAZZA DI BRANCOLI E OMBREGLIO DI BRANCOLI : CHIUSURA AL TRANSITO VEICOLARE PER L'ESECUZIONE DI LAVORI DI SOSTITUZIONE TUBAZIONE ACQUEDOTTO : PERIODO 19 GIUGNO - 7 LUGLIO 2017.</title>
 			<description>VIA DI CAMPITELLO - FRAZ. PIAZZA DI BRANCOLI E OMBREGLIO DI BRANCOLI : CHIUSURA AL TRANSITO VEICOLARE PER L'ESECUZIONE DI LAVORI DI SOSTITUZIONE TUBAZIONE ACQUEDOTTO : PERIODO 19 GIUGNO - 7 LUGLIO 2017.</description>
 			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3334056</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3334056</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 16 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 17 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3334056</category>
-			<category domain="http://albopop.it/specs#item-category-type">DEPOSITO ATTI CASA COMUNALE</category>
-			<title>EQUITALIA SERVIZI DI RISCOSSIONE SPA - ELENCO: 3664-2-20170615-LUCCA</title>
-			<description>EQUITALIA SERVIZI DI RISCOSSIONE SPA - ELENCO: 3664-2-20170615-LUCCA</description>
-			<a10:updated>2017-06-16T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3334016</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3334016</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 16 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 17 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3334016</category>
-			<category domain="http://albopop.it/specs#item-category-type">DEPOSITO ATTI CASA COMUNALE</category>
-			<title>EQUITALIA SERVIZI DI RISCOSSIONE SPA - ELENCO: 3664-1-20170615-LUCCA</title>
-			<description>EQUITALIA SERVIZI DI RISCOSSIONE SPA - ELENCO: 3664-1-20170615-LUCCA</description>
-			<a10:updated>2017-06-16T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3333864</guid>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
 			<title>PROROGA ORDINANZA N. 722 DEL 24/04/2017 VIALE LUIGI CADORNA,FRAZIONE ARANCIO,MODIFICHE TEMPORANEE ALLA SOSTA FINO AL GIORNO 30 GIUGNO 2017.</title>
 			<description>PROROGA ORDINANZA N. 722 DEL 24/04/2017 VIALE LUIGI CADORNA,FRAZIONE ARANCIO,MODIFICHE TEMPORANEE ALLA SOSTA FINO AL GIORNO 30 GIUGNO 2017.</description>
-			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3332893</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3332893</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 30 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3332893</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>PIAZZA SANTA MARIA, CENTRO STORICO, MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE PEDONALE E ALLA SOSTA DAL GIORNO 21 GIUGNO 2017 AL GIORNO 30 GIUGNO 2017.</title>
-			<description>PIAZZA SANTA MARIA, CENTRO STORICO, MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE PEDONALE E ALLA SOSTA DAL GIORNO 21 GIUGNO 2017 AL GIORNO 30 GIUGNO 2017.</description>
-			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3332891</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3332891</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 30 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3332891</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>PIAZZA S.FREDIANO,CENTRO STORICO,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE STRADALE,DAL 21 GIUGNO 2017 AL 21 LUGLIO 2017.</title>
-			<description>PIAZZA S.FREDIANO,CENTRO STORICO,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE STRADALE,DAL 21 GIUGNO 2017 AL 21 LUGLIO 2017.</description>
 			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
