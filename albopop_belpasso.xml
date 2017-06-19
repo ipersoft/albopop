@@ -5,7 +5,7 @@
 		<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Belpasso</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 19 Jun 2017 13:30:50 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 19 Jun 2017 14:30:48 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Belpasso</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Belpasso</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_belpasso</a10:id>
-		<pubDate>Mon, 19 Jun 2017 13:30:50 +0200</pubDate>
+		<pubDate>Mon, 19 Jun 2017 14:30:48 +0200</pubDate>
 		<docs>http://albopop.it/comune/belpasso/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3339297</guid>
+			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3339297</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 19 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 19 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3339297</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO</category>
+			<title>STIPULA CONVENZIONE FRA IL COMUNE DI BELPASSO ED IL "CAF ACLI"</title>
+			<description>STIPULA CONVENZIONE FRA IL COMUNE DI BELPASSO ED IL "CAF ACLI"</description>
+			<a10:updated>2017-06-19T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3338404</guid>
 			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3338404</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title> 5° SIMPOSIO DI SCULTURA. ASSEGNAZIONE COMPENSO E BORSE DI STUDIO AGLI SCULTORI.IMPEGNO DI SPESA. CIG Z8E1F04C1E</title>
 			<description> 5° SIMPOSIO DI SCULTURA. ASSEGNAZIONE COMPENSO E BORSE DI STUDIO AGLI SCULTORI.IMPEGNO DI SPESA. CIG Z8E1F04C1E</description>
-			<a10:updated>2017-06-16T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3335731</guid>
-			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3335731</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 16 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 01 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3335731</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>“SERVIZIO DI SOMMINISTRAZIONE LAVORO INTERINALE TEMPORANEO DI N.2 AUTISTI DI SCUOLABUS DA DESTINARE ALL'AUTOPARCO DEL COMUNE DI BELPASSO A TEMPO DETERMINATO-ANNO SCOLASTICO 2016/2017--2017/2018- AGGIUDICAZIONE DEFINITIVA DEL SERVIZIO – CIG: 6934283F57.</title>
-			<description>“SERVIZIO DI SOMMINISTRAZIONE LAVORO INTERINALE TEMPORANEO DI N.2 AUTISTI DI SCUOLABUS DA DESTINARE ALL'AUTOPARCO DEL COMUNE DI BELPASSO A TEMPO DETERMINATO-ANNO SCOLASTICO 2016/2017--2017/2018- AGGIUDICAZIONE DEFINITIVA DEL SERVIZIO – CIG: 6934283F57.</description>
 			<a10:updated>2017-06-16T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

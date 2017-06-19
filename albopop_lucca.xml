@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 19 Jun 2017 13:31:01 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 19 Jun 2017 14:30:57 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Mon, 19 Jun 2017 13:31:01 +0200</pubDate>
+		<pubDate>Mon, 19 Jun 2017 14:30:57 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3339355</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3339355</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 19 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 04 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3339355</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>PIAZZA S.MICHELE,CENTRO STORICO, MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE STRADALE,PER IL 19/06/2017 DALLE ORE 14,00 ALLE ORE 16,00</title>
+			<description>PIAZZA S.MICHELE,CENTRO STORICO, MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE STRADALE,PER IL 19/06/2017 DALLE ORE 14,00 ALLE ORE 16,00</description>
+			<a10:updated>2017-06-19T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3338464</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3338464</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI GIUNTA</category>
 			<title>APPROVAZIONE DI APPOSITO PROGETTO INERENTE IL POTENZIAMENTO DEI SERVIZI DELLA POLIZIA MUNICIPALE DENOMINATO “LUCCA SI-CURA 2017” EX ART. 208 C.5- BIS, D.LGS. N.285/1992.</title>
 			<description>APPROVAZIONE DI APPOSITO PROGETTO INERENTE IL POTENZIAMENTO DEI SERVIZI DELLA POLIZIA MUNICIPALE DENOMINATO “LUCCA SI-CURA 2017” EX ART. 208 C.5- BIS, D.LGS. N.285/1992.</description>
-			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3333611</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3333611</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 30 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3333611</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>MERCATO PORTONE DEI BORGHI - EDIZIONE GIUGNO 2017: MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE ED ALLA SOSTA IN VIA MICHELE ROSI E VIA SAN LEONARDO IN OCCASIONE DELLO SVOLGIMENTO DEL MERCATO DENOMINATO PORTONE DEI BORGHI. 18 GIUGNO 2017 DALLE ORE 07.00 ALLE ORE 21:00. </title>
-			<description>MERCATO PORTONE DEI BORGHI - EDIZIONE GIUGNO 2017: MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE ED ALLA SOSTA IN VIA MICHELE ROSI E VIA SAN LEONARDO IN OCCASIONE DELLO SVOLGIMENTO DEL MERCATO DENOMINATO PORTONE DEI BORGHI. 18 GIUGNO 2017 DALLE ORE 07.00 ALLE ORE 21:00. </description>
 			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
