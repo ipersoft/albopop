@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 19 Jun 2017 09:30:40 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 19 Jun 2017 10:30:51 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Mon, 19 Jun 2017 09:30:40 +0200</pubDate>
+		<pubDate>Mon, 19 Jun 2017 10:30:51 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/616459</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/616459</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 19 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 04 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">616459</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>CONTRIBUTO A FAVORE DELL’ASSOCIAZIONE FREE WOMAN ONLUS DI ANCONA PER INTERVENTI A FAVORE DI PERSONE VITTIME DI TRATTA E SFRUTTAMENTO DEGLI ESSERI UMANI. STIPULA PROTOCOLLO OPERATIVO.</title>
+			<description>CONTRIBUTO A FAVORE DELL’ASSOCIAZIONE FREE WOMAN ONLUS DI ANCONA PER INTERVENTI A FAVORE DI PERSONE VITTIME DI TRATTA E SFRUTTAMENTO DEGLI ESSERI UMANI. STIPULA PROTOCOLLO OPERATIVO.</description>
+			<a10:updated>2017-06-19T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/616419</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/616419</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>CONCESSIONE ALLA FONDAZIONE PESARO NUOVO CINEMA ONLUS DEL DIRITTO D’USO DI SPAZI DI PROPRIETA’ DEL COMUNE QUALE SEDE ISTITUZIONALE E ORGANIZZATIVA </title>
 			<description>CONCESSIONE ALLA FONDAZIONE PESARO NUOVO CINEMA ONLUS DEL DIRITTO D’USO DI SPAZI DI PROPRIETA’ DEL COMUNE QUALE SEDE ISTITUZIONALE E ORGANIZZATIVA </description>
-			<a10:updated>2017-06-16T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/616015</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/616015</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 16 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 25 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">616015</category>
-			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO RICHIESTA PUBBLICAZIONE MATRIMONIO ALBO</category>
-			<title>PUBBLICAZIONI DI MATRIMONIO DI "DE VINCENZIS MAURO E MILANO TERESA"</title>
-			<description>PUBBLICAZIONI DI MATRIMONIO DI "DE VINCENZIS MAURO E MILANO TERESA"</description>
 			<a10:updated>2017-06-16T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
