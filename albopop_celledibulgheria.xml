@@ -5,7 +5,7 @@
 		<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/igrid/1210528</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Celle di Bulgheria</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 19 Jun 2017 11:30:33 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 19 Jun 2017 12:30:34 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Celle di Bulgheria</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Salerno</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Celle di Bulgheria</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_celledibulgheria</a10:id>
-		<pubDate>Mon, 19 Jun 2017 11:30:33 +0200</pubDate>
+		<pubDate>Mon, 19 Jun 2017 12:30:34 +0200</pubDate>
 		<docs>http://albopop.it/comune/celledibulgheria/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2823019</guid>
+			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2823019</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 19 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 04 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2823019</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZE E DECRETI SINDACALI</category>
+			<title>ORDINANZA ISTITUZIONE TEMPORANEO DIVIETO DI TRANSITO SU TRATTO DI VIA MALIZIA PER LAVORI RIPRISTINO PAVIMENTAZIONE STRADALE.</title>
+			<description>ORDINANZA ISTITUZIONE TEMPORANEO DIVIETO DI TRANSITO SU TRATTO DI VIA MALIZIA PER LAVORI RIPRISTINO PAVIMENTAZIONE STRADALE.</description>
+			<a10:updated>2017-06-19T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2819710</guid>
 			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2819710</link>
@@ -228,17 +239,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
 			<title>APPROVAZIONE BANDO AVVISO DI PRE-INFORMAZIONE PER LA GESTIONE DEGLI IMPIANTI SPORTIVI</title>
 			<description>APPROVAZIONE BANDO AVVISO DI PRE-INFORMAZIONE PER LA GESTIONE DEGLI IMPIANTI SPORTIVI</description>
-			<a10:updated>2017-06-05T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2805791</guid>
-			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2805791</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 05 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 20 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2805791</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>ATTO DI INDIRIZZO PER LA CONCESSIONE IN USO E GESTIONE DEGLI IMPIANTI SPORTIVI.</title>
-			<description>ATTO DI INDIRIZZO PER LA CONCESSIONE IN USO E GESTIONE DEGLI IMPIANTI SPORTIVI.</description>
 			<a10:updated>2017-06-05T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
