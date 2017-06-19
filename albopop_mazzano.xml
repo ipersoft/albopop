@@ -5,7 +5,7 @@
 		<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mazzano</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 19 Jun 2017 14:31:22 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 19 Jun 2017 15:32:25 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mazzano</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mazzano</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mazzano</a10:id>
-		<pubDate>Mon, 19 Jun 2017 14:31:22 +0200</pubDate>
+		<pubDate>Mon, 19 Jun 2017 15:32:25 +0200</pubDate>
 		<docs>http://albopop.it/comune/mazzano/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3340251</guid>
+			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3340251</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 19 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 04 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3340251</category>
+			<category domain="http://albopop.it/specs#item-category-type">BANDI GENERICI BANDO</category>
+			<title>AVVISO DI SELEZIONE PER CONFERIMENTO INCARICON. 1 OPERATORE SOCIALEI RETE </title>
+			<description>AVVISO DI SELEZIONE PER CONFERIMENTO INCARICON. 1 OPERATORE SOCIALEI RETE </description>
+			<a10:updated>2017-06-19T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3337745</guid>
 			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3337745</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERE DI GIUNTA COMUNALE</category>
 			<title>INTEGRAZIONE DELL’ELENCO DELLE SAGRE E DELLE MANIFESTAZIONI AVENTI CARATTERE DI SAGRA PER L’ANNO 2017, APPROVATO CON DELIBERAZIONE DELLA GIUNTA COMUNALE N. 179 DEL 28/11/2016. ESAME ED APPROVAZIONE.</title>
 			<description>INTEGRAZIONE DELL’ELENCO DELLE SAGRE E DELLE MANIFESTAZIONI AVENTI CARATTERE DI SAGRA PER L’ANNO 2017, APPROVATO CON DELIBERAZIONE DELLA GIUNTA COMUNALE N. 179 DEL 28/11/2016. ESAME ED APPROVAZIONE.</description>
-			<a10:updated>2017-06-12T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3324932</guid>
-			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3324932</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 12 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 27 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3324932</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERE DI GIUNTA COMUNALE</category>
-			<title>PROCEDIMENTO DI VALUTAZIONE AMBIENTALE STRATEGIA (VAS) RELATIVO ALL’AMPLIAMENTO DI EDIFICIO COMMERCIALE MEDIANTE COPERTURA TERRAZZA ESISTENTE PRESENTATO AL SUAP IN VARIANTE AL PIANO DELLE REGOLE VIGENTI AI SENSI DEL COMMA 5 DELLA L.R. 12/2005 - SOSTITUZIONE AUTORITA’ COMPETENTE </title>
-			<description>PROCEDIMENTO DI VALUTAZIONE AMBIENTALE STRATEGIA (VAS) RELATIVO ALL’AMPLIAMENTO DI EDIFICIO COMMERCIALE MEDIANTE COPERTURA TERRAZZA ESISTENTE PRESENTATO AL SUAP IN VARIANTE AL PIANO DELLE REGOLE VIGENTI AI SENSI DEL COMMA 5 DELLA L.R. 12/2005 - SOSTITUZIONE AUTORITA’ COMPETENTE </description>
 			<a10:updated>2017-06-12T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
