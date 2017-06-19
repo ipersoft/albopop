@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 19 Jun 2017 16:30:53 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 19 Jun 2017 17:31:03 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,55 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Mon, 19 Jun 2017 16:30:53 +0200</pubDate>
+		<pubDate>Mon, 19 Jun 2017 17:31:03 +0200</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2823759</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2823759</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 19 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 04 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2823759</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO PUBBLICAZIONE AVVISO</category>
+			<title>AVVISO RILASCIO PERMESSO DI COSTRURE SIG. STAIANO</title>
+			<description>AVVISO RILASCIO PERMESSO DI COSTRURE SIG. STAIANO</description>
+			<a10:updated>2017-06-19T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2823757</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2823757</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 19 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 04 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2823757</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO PUBBLICAZIONE AVVISO</category>
+			<title>AVVISO RILASCIO PERMESSO DI COSTRUIRE SIGG.RI MALAFRONTE / ESPOSITO</title>
+			<description>AVVISO RILASCIO PERMESSO DI COSTRUIRE SIGG.RI MALAFRONTE / ESPOSITO</description>
+			<a10:updated>2017-06-19T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2823755</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2823755</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 19 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 27 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2823755</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO PUBBLICAZIONE AVVISO</category>
+			<title>AVVISO DI DEPOSITO DI N.1 ATTO NELLA CASA COMUNALE</title>
+			<description>AVVISO DI DEPOSITO DI N.1 ATTO NELLA CASA COMUNALE</description>
+			<a10:updated>2017-06-19T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2823753</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2823753</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 19 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 04 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2823753</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO PUBBLICAZIONE AVVISO</category>
+			<title>AVVISO DI PUBBLICAZIONE.RICHIESTA C.D.M. SOCIETA' "LE ONDINE S.R.L."</title>
+			<description>AVVISO DI PUBBLICAZIONE.RICHIESTA C.D.M. SOCIETA' "LE ONDINE S.R.L."</description>
+			<a10:updated>2017-06-19T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2823268</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2823268</link>
@@ -250,50 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DI GIUNTA DELIBERA DI GIUNTA</category>
 			<title>REGOLAMENTAZIONE ZTL VIA ROMA - PIAZZETTA STRINA.</title>
 			<description>REGOLAMENTAZIONE ZTL VIA ROMA - PIAZZETTA STRINA.</description>
-			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2819662</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2819662</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 30 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2819662</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DI GIUNTA DELIBERA DI GIUNTA</category>
-			<title>ISTANZA SOC. SIPPIC FUNICOLARE DI CAPRI S.R.L. PER SISTEMAZIONE ZONA DI ATTESA DELL' UTENZA C/O LA STAZIONE SUPERIORE DELLA FUNICOLARE - PARERE</title>
-			<description>ISTANZA SOC. SIPPIC FUNICOLARE DI CAPRI S.R.L. PER SISTEMAZIONE ZONA DI ATTESA DELL' UTENZA C/O LA STAZIONE SUPERIORE DELLA FUNICOLARE - PARERE</description>
-			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2819659</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2819659</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 30 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2819659</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DI GIUNTA DELIBERA DI GIUNTA</category>
-			<title>APPELLO AL CONSIGLIO DI STATO AVVERSO LA SENTENZA N. 2844 DEL 29/05/2017 - GRUPPO “AVANTI CAPRI” /COMUNE DI CAPRI - NOMINA LEGALE. </title>
-			<description>APPELLO AL CONSIGLIO DI STATO AVVERSO LA SENTENZA N. 2844 DEL 29/05/2017 - GRUPPO “AVANTI CAPRI” /COMUNE DI CAPRI - NOMINA LEGALE. </description>
-			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2819439</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2819439</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 30 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2819439</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
-			<title>LIQUIDAZIONE ONERI SIAE EVENTI TURISTICO-CULTURALI.</title>
-			<description>LIQUIDAZIONE ONERI SIAE EVENTI TURISTICO-CULTURALI.</description>
-			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2819437</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2819437</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 30 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2819437</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
-			<title>LIQUIDAZIONE FATTURE POSTE ITALIANE - CIG: Z971CEE7E0. </title>
-			<description>LIQUIDAZIONE FATTURE POSTE ITALIANE - CIG: Z971CEE7E0. </description>
 			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
