@@ -5,7 +5,7 @@
 		<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Belpasso</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 20 Jun 2017 08:31:22 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 20 Jun 2017 09:30:49 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Belpasso</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Belpasso</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_belpasso</a10:id>
-		<pubDate>Tue, 20 Jun 2017 08:31:22 +0200</pubDate>
+		<pubDate>Tue, 20 Jun 2017 09:30:49 +0200</pubDate>
 		<docs>http://albopop.it/comune/belpasso/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3341081</guid>
+			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3341081</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 28 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3341081</category>
+			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>PUBBLICAZIONE DI MATRIMONIO VERBALE N. 58</title>
+			<description>PUBBLICAZIONE DI MATRIMONIO VERBALE N. 58</description>
+			<a10:updated>2017-06-20T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3339297</guid>
 			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3339297</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>:MANIFESTAZIONI DEL S.NATALE 2015. LIQUIDAZIONE DITTA VIVAIO BELVERDE DI BELPASSO.</title>
 			<description>:MANIFESTAZIONI DEL S.NATALE 2015. LIQUIDAZIONE DITTA VIVAIO BELVERDE DI BELPASSO.</description>
-			<a10:updated>2017-06-16T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3335733</guid>
-			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3335733</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 16 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 01 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3335733</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title> 5° SIMPOSIO DI SCULTURA. ASSEGNAZIONE COMPENSO E BORSE DI STUDIO AGLI SCULTORI.IMPEGNO DI SPESA. CIG Z8E1F04C1E</title>
-			<description> 5° SIMPOSIO DI SCULTURA. ASSEGNAZIONE COMPENSO E BORSE DI STUDIO AGLI SCULTORI.IMPEGNO DI SPESA. CIG Z8E1F04C1E</description>
 			<a10:updated>2017-06-16T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
