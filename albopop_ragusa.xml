@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 20 Jun 2017 12:31:12 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 20 Jun 2017 13:31:12 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Tue, 20 Jun 2017 12:31:12 +0200</pubDate>
+		<pubDate>Tue, 20 Jun 2017 13:31:12 +0200</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2824981</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2824981</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 10 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2824981</category>
+			<category domain="http://albopop.it/specs#item-category-type">INGIUNZIONE</category>
+			<title>PUBBLICAZIONE AI SENSI DELL'ART.143 DEL C.P.C. A CARICO DEL SIG. MAZZONE SIMONE N. 4 ATTI. ATTO N.0010368-N.0010382-N.0010369-N.0010385.</title>
+			<description>PUBBLICAZIONE AI SENSI DELL'ART.143 DEL C.P.C. A CARICO DEL SIG. MAZZONE SIMONE N. 4 ATTI. ATTO N.0010368-N.0010382-N.0010369-N.0010385.</description>
+			<a10:updated>2017-06-20T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2824823</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2824823</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 28 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2824823</category>
+			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO ATTO DI MATRIMONIO</category>
+			<title>PUBBLICAZIONE ATTO DI MATRIMONIO A NOME DI BONAPACE STEFANO E AMOROSO FRANCESCA</title>
+			<description>PUBBLICAZIONE ATTO DI MATRIMONIO A NOME DI BONAPACE STEFANO E AMOROSO FRANCESCA</description>
+			<a10:updated>2017-06-20T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2824822</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2824822</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 28 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2824822</category>
+			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO ATTO DI MATRIMONIO</category>
+			<title>PUBBLICAZIONE ATTO DI MATRIMONIO A NOME DI GUASTELLA STEFANO E GIOIA GIULIA</title>
+			<description>PUBBLICAZIONE ATTO DI MATRIMONIO A NOME DI GUASTELLA STEFANO E GIOIA GIULIA</description>
+			<a10:updated>2017-06-20T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2823513</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2823513</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO ATTO DI MATRIMONIO</category>
 			<title>PUBBLICAZIONE ATTO DI MATRIMONIO A NOME DI RUSSO UMBERTO, D'IAPICO NEALA</title>
 			<description>PUBBLICAZIONE ATTO DI MATRIMONIO A NOME DI RUSSO UMBERTO, D'IAPICO NEALA</description>
-			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2819307</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2819307</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 30 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2819307</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERA DI CONSIGLIO</category>
-			<title>DEL. C.C. N° 28/17 - RICONOSCIMENTO DELLA LEGITTIMITÀ DEI DEBITI FUORI BILANCIO 2016, AI SENSI DELL'ART. 194 DEL D.LGS 267/2000 - SETTORE 1° AFFARI GENERALI - (PROPOSTA DI DELIBERAZIONE DI GIUNTA MUNICIPALE N. 193 DEL 27.04.2017).</title>
-			<description>DEL. C.C. N° 28/17 - RICONOSCIMENTO DELLA LEGITTIMITÀ DEI DEBITI FUORI BILANCIO 2016, AI SENSI DELL'ART. 194 DEL D.LGS 267/2000 - SETTORE 1° AFFARI GENERALI - (PROPOSTA DI DELIBERAZIONE DI GIUNTA MUNICIPALE N. 193 DEL 27.04.2017).</description>
-			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2819306</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2819306</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 23 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2819306</category>
-			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO ATTO DI MATRIMONIO</category>
-			<title>PUBBLICAZIONE ATTO DI MATRIMONIO A NOME DI CUGNATA CARMELO, SORTINO SIMONA</title>
-			<description>PUBBLICAZIONE ATTO DI MATRIMONIO A NOME DI CUGNATA CARMELO, SORTINO SIMONA</description>
-			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2819267</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2819267</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 30 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2819267</category>
-			<category domain="http://albopop.it/specs#item-category-type">PROVVEDIMENTO SUAP PROVVEDIMENTO AUTORIZZATIVO UNICO</category>
-			<title>PROVVEDIMENTO SUAP N.37/17 - DEL 15/06/2017 - DITTA GIUMMARRA GIORGIO</title>
-			<description>PROVVEDIMENTO SUAP N.37/17 - DEL 15/06/2017 - DITTA GIUMMARRA GIORGIO</description>
 			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
