@@ -5,7 +5,7 @@
 		<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Felino</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 20 Jun 2017 10:30:39 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 20 Jun 2017 11:30:40 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Felino</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Felino</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_felino</a10:id>
-		<pubDate>Tue, 20 Jun 2017 10:30:39 +0200</pubDate>
+		<pubDate>Tue, 20 Jun 2017 11:30:40 +0200</pubDate>
 		<docs>http://albopop.it/comune/felino/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2824599</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2824599</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 30 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2824599</category>
+			<category domain="http://albopop.it/specs#item-category-type">A003 AVVISI ELETTORALI </category>
+			<title>DEPOSITO LISTE GENERALI RETTIFICATE, INSIEME CON GLI ELENCHI DELLA REVISIONE SEMESTRALE APPROVATI DALLA COMMISSIONE ELETTORALE CIRCONDARIALE </title>
+			<description>DEPOSITO LISTE GENERALI RETTIFICATE, INSIEME CON GLI ELENCHI DELLA REVISIONE SEMESTRALE APPROVATI DALLA COMMISSIONE ELETTORALE CIRCONDARIALE </description>
+			<a10:updated>2017-06-20T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2824339</guid>
 			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2824339</link>
@@ -284,17 +295,6 @@
 			<title>POSTA CERTIFICATA: PROT. N.2308 DEL 23-05-2017 - PUBBLICAZIONE AVVISO DI CONCORSO PUBBLICO PER TITOLI ED ESAMI PER LA COPERTURA DI N.1 POSTO ISTRUTTORE DIRETTIVO, CAT D, DA ASSEGNARE ALL' AREA "AFFARI GENERALI"</title>
 			<description>POSTA CERTIFICATA: PROT. N.2308 DEL 23-05-2017 - PUBBLICAZIONE AVVISO DI CONCORSO PUBBLICO PER TITOLI ED ESAMI PER LA COPERTURA DI N.1 POSTO ISTRUTTORE DIRETTIVO, CAT D, DA ASSEGNARE ALL' AREA "AFFARI GENERALI"</description>
 			<a10:updated>2017-05-24T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2752734</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2752734</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 29 Apr 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 31 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2752734</category>
-			<category domain="http://albopop.it/specs#item-category-type">A003 AVVISI ELETTORALI </category>
-			<title>AGGIORNAMENTO DEGLI ELENCHI PER GLI ALBI DEI GIUDICI POPOLARI - INVITO AI CITTADINI PER ISCRIZIONE</title>
-			<description>AGGIORNAMENTO DEGLI ELENCHI PER GLI ALBI DEI GIUDICI POPOLARI - INVITO AI CITTADINI PER ISCRIZIONE</description>
-			<a10:updated>2017-04-29T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
