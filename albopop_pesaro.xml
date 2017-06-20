@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 20 Jun 2017 14:30:38 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 20 Jun 2017 15:30:57 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Tue, 20 Jun 2017 14:30:38 +0200</pubDate>
+		<pubDate>Tue, 20 Jun 2017 15:30:57 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/616883</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/616883</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 05 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">616883</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>CONCESSIONE ALLA FONDAZIONE PESARO NUOVO CINEMA ONLUS DEL DIRITTO D’USO DI SPAZI DI PROPRIETA’ DEL COMUNE QUALE SEDE ISTITUZIONALE E ORGANIZZATIVA - PARZIALE RETTIFICA DELLA DETERMINA N.1501/2017 </title>
+			<description>CONCESSIONE ALLA FONDAZIONE PESARO NUOVO CINEMA ONLUS DEL DIRITTO D’USO DI SPAZI DI PROPRIETA’ DEL COMUNE QUALE SEDE ISTITUZIONALE E ORGANIZZATIVA - PARZIALE RETTIFICA DELLA DETERMINA N.1501/2017 </description>
+			<a10:updated>2017-06-20T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/616854</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/616854</link>
@@ -284,17 +295,6 @@
 			<title>PUBBLICAZIONI DI MATRIMONIO DI SERTORI LUCA E GARGAMELLI ELISA</title>
 			<description>PUBBLICAZIONI DI MATRIMONIO DI SERTORI LUCA E GARGAMELLI ELISA</description>
 			<a10:updated>2017-06-20T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/616613</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/616613</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 19 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 04 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">616613</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>SOSTENIBILITA’ AMBIENTALE NELLA PROGETTAZIONE DI OPERE PUBBLICHE. APPROVAZIONE DEL PIANO D’AZIONE PER L’ENERGIA SOSTENIBILE (PAES) E DELLO SCHEMA DI ACCORDO DI COLLABORAZIONE CON IL GESTORE SERVIZI ENERGETICI ( GSE). </title>
-			<description>SOSTENIBILITA’ AMBIENTALE NELLA PROGETTAZIONE DI OPERE PUBBLICHE. APPROVAZIONE DEL PIANO D’AZIONE PER L’ENERGIA SOSTENIBILE (PAES) E DELLO SCHEMA DI ACCORDO DI COLLABORAZIONE CON IL GESTORE SERVIZI ENERGETICI ( GSE). </description>
-			<a10:updated>2017-06-19T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
