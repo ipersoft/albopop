@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 20 Jun 2017 11:30:41 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 20 Jun 2017 12:30:43 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Tue, 20 Jun 2017 11:30:41 +0200</pubDate>
+		<pubDate>Tue, 20 Jun 2017 12:30:43 +0200</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2824692</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2824692</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 21 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2824692</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DEPOSITO ATTI EQUITALIA</category>
+			<title>DEPOSITO ATTI NELLA CASA COMUNALE PER AFFISSIONE ALL'ALBO </title>
+			<description>DEPOSITO ATTI NELLA CASA COMUNALE PER AFFISSIONE ALL'ALBO </description>
+			<a10:updated>2017-06-20T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2824690</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2824690</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 05 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2824690</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>ACCERTAMENTO REQUISITI E ASSEGNAZIONE ALLOGGIO E.R.P. AL NUCLEO FAMILIARE DEL SIGNOR H. E. B..</title>
+			<description>ACCERTAMENTO REQUISITI E ASSEGNAZIONE ALLOGGIO E.R.P. AL NUCLEO FAMILIARE DEL SIGNOR H. E. B..</description>
+			<a10:updated>2017-06-20T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2823629</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2823629</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>CIG N. Z0E1F01216 - ABBONAMENTO 365 GIORNI AL SERVIZIO DI AGGIORNAMENTO TRAMITE CIRCOLARI ON LINE - NOTIZIARI + SCHEDE OPERATIVE </title>
 			<description>CIG N. Z0E1F01216 - ABBONAMENTO 365 GIORNI AL SERVIZIO DI AGGIORNAMENTO TRAMITE CIRCOLARI ON LINE - NOTIZIARI + SCHEDE OPERATIVE </description>
-			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2819298</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2819298</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 30 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2819298</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>AGGIUDICAZIONE APPALTO DI MANUTENZIONE ORDINARIA IMMOBILI COMUNALI -OPERE EDILI-01.09.2016 – 31.08.2018 CIG: ZAE1A7F6C9 - LAVORI SUPPLEMENTARI. </title>
-			<description>AGGIUDICAZIONE APPALTO DI MANUTENZIONE ORDINARIA IMMOBILI COMUNALI -OPERE EDILI-01.09.2016 – 31.08.2018 CIG: ZAE1A7F6C9 - LAVORI SUPPLEMENTARI. </description>
-			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2819293</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2819293</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 30 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2819293</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>RIDUZIONE IMPEGNI ASSUNTI PER SERVIZIO SGOMBERO NEVE STAGIONE INVERNALE 2016 – 2017</title>
-			<description>RIDUZIONE IMPEGNI ASSUNTI PER SERVIZIO SGOMBERO NEVE STAGIONE INVERNALE 2016 – 2017</description>
 			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

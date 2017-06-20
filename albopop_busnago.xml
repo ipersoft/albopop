@@ -5,7 +5,7 @@
 		<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Busnago</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 20 Jun 2017 11:30:53 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 20 Jun 2017 12:30:57 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Busnago</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Busnago</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_busnago</a10:id>
-		<pubDate>Tue, 20 Jun 2017 11:30:53 +0200</pubDate>
+		<pubDate>Tue, 20 Jun 2017 12:30:57 +0200</pubDate>
 		<docs>http://albopop.it/comune/busnago/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3342059</guid>
+			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3342059</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 30 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3342059</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO REVISIONE DELLE LISTE ELETTORALI</category>
+			<title>REVISIONE SEMESTRALE DEPOSITO ELENCHI</title>
+			<description>REVISIONE SEMESTRALE DEPOSITO ELENCHI</description>
+			<a10:updated>2017-06-20T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3340515</guid>
 			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3340515</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DETERMINAZIONE DEI RESPONSABILI</category>
 			<title>AFFIDAMENTO INCARICO PER ASSISTENZA CONTABILITA' FISCALE 2017-2018.</title>
 			<description>AFFIDAMENTO INCARICO PER ASSISTENZA CONTABILITA' FISCALE 2017-2018.</description>
-			<a10:updated>2017-06-07T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3303001</guid>
-			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3303001</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 07 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 22 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3303001</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DETERMINAZIONE DEI RESPONSABILI</category>
-			<title>ESECUZIONE CURE COLTURALI PRESSO LA FORESTAZIONE URBANA PARCO ROBINSON - PERIODO MAGGIO 2017-MAGGIO 2019: APPROVAZIONE DELLA PROPOSTA DI AGGIUDICAZIONE DELA PROCEDURA TELEMATICA DI AFFIDAMENTO DIRETTO SINTEL I.D. 85909522 - CIG Z741EB9DD7 - CUP B56J17000270004</title>
-			<description>ESECUZIONE CURE COLTURALI PRESSO LA FORESTAZIONE URBANA PARCO ROBINSON - PERIODO MAGGIO 2017-MAGGIO 2019: APPROVAZIONE DELLA PROPOSTA DI AGGIUDICAZIONE DELA PROCEDURA TELEMATICA DI AFFIDAMENTO DIRETTO SINTEL I.D. 85909522 - CIG Z741EB9DD7 - CUP B56J17000270004</description>
 			<a10:updated>2017-06-07T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
