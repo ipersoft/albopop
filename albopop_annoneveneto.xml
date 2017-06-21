@@ -5,7 +5,7 @@
 		<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Annone Veneto</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 21 Jun 2017 13:30:47 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 21 Jun 2017 15:31:01 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Annone Veneto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Annone Veneto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_annoneveneto</a10:id>
-		<pubDate>Wed, 21 Jun 2017 13:30:47 +0200</pubDate>
+		<pubDate>Wed, 21 Jun 2017 15:31:01 +0200</pubDate>
 		<docs>http://albopop.it/comune/annoneveneto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3345439</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3345439</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 06 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3345439</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>QUOTA COMPETENZE STIPENDIALI DEL SEGRETARIO COMUNALE - LIQUIDAZIONE AL MINISTERO DELL'INTERNO</title>
+			<description>QUOTA COMPETENZE STIPENDIALI DEL SEGRETARIO COMUNALE - LIQUIDAZIONE AL MINISTERO DELL'INTERNO</description>
+			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3345436</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3345436</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 06 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3345436</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>UTENZE TELEFONICHE MUNICIPIO - LIQUIDAZIONE</title>
+			<description>UTENZE TELEFONICHE MUNICIPIO - LIQUIDAZIONE</description>
+			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3337014</guid>
 			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3337014</link>
@@ -270,28 +292,6 @@
 			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 12 Jul 2017 02:00:00 +0200</category>
 			<category domain="http://albopop.it/specs#item-category-uid">3323455</category>
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI AVVISO</category>
-			<title>AVVISO ESPLORATIVO DI SELEZIONE PUBBLICA PER PROCEDURA DI MOBILITA’ VOLONTARIA, AI SENSI DELL’ART. 30 DEL D. LGS. N. 165/2001 E S.M.I., PER LA COPERTURA DI N. 1 POSTO DI ISTRUTTORE DI VIGILANZA - CAT. C, A TEMPO PIENO E INDETERMINATO</title>
-			<description>AVVISO ESPLORATIVO DI SELEZIONE PUBBLICA PER PROCEDURA DI MOBILITA’ VOLONTARIA, AI SENSI DELL’ART. 30 DEL D. LGS. N. 165/2001 E S.M.I., PER LA COPERTURA DI N. 1 POSTO DI ISTRUTTORE DI VIGILANZA - CAT. C, A TEMPO PIENO E INDETERMINATO</description>
-			<a10:updated>2017-06-10T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3323453</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3323453</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 10 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 25 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3323453</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI AVVISO</category>
-			<title>AVVISO ESPLORATIVO DI SELEZIONE PUBBLICA PER PROCEDURA DI MOBILITA’ VOLONTARIA, AI SENSI DELL’ART. 30 DEL D. LGS. N. 165/2001 E S.M.I., PER LA COPERTURA DI N. 1 POSTO DI ISTRUTTORE DI VIGILANZA - CAT. C, A TEMPO PIENO E INDETERMINATO</title>
-			<description>AVVISO ESPLORATIVO DI SELEZIONE PUBBLICA PER PROCEDURA DI MOBILITA’ VOLONTARIA, AI SENSI DELL’ART. 30 DEL D. LGS. N. 165/2001 E S.M.I., PER LA COPERTURA DI N. 1 POSTO DI ISTRUTTORE DI VIGILANZA - CAT. C, A TEMPO PIENO E INDETERMINATO</description>
-			<a10:updated>2017-06-10T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3323400</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3323400</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 10 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 12 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3323400</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>AVVISO ESPLORATIVO DI SELEZIONE PUBBLICA PER PROCEDURA DI MOBILITA’ VOLONTARIA, AI SENSI DELL’ART. 30 DEL D. LGS. N. 165/2001 E S.M.I., PER LA COPERTURA DI N. 1 POSTO DI ISTRUTTORE DI VIGILANZA - CAT. C, A TEMPO PIENO E INDETERMINATO</title>
 			<description>AVVISO ESPLORATIVO DI SELEZIONE PUBBLICA PER PROCEDURA DI MOBILITA’ VOLONTARIA, AI SENSI DELL’ART. 30 DEL D. LGS. N. 165/2001 E S.M.I., PER LA COPERTURA DI N. 1 POSTO DI ISTRUTTORE DI VIGILANZA - CAT. C, A TEMPO PIENO E INDETERMINATO</description>
 			<a10:updated>2017-06-10T00:00:00+02:00</a10:updated>

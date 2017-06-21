@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 21 Jun 2017 13:31:04 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 21 Jun 2017 15:31:20 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Wed, 21 Jun 2017 13:31:04 +0200</pubDate>
+		<pubDate>Wed, 21 Jun 2017 15:31:20 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3345716</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3345716</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 25 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3345716</category>
+			<category domain="http://albopop.it/specs#item-category-type">MANIFESTI</category>
+			<title>SERVIZIO DI TRASPORTO PER GLI ELETTORI NON DEAMBULANTI</title>
+			<description>SERVIZIO DI TRASPORTO PER GLI ELETTORI NON DEAMBULANTI</description>
+			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3345715</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3345715</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 30 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3345715</category>
+			<category domain="http://albopop.it/specs#item-category-type">MANIFESTI</category>
+			<title>REVISIONE SEMESTRALE DELLE LISTE ELETTORALI</title>
+			<description>REVISIONE SEMESTRALE DELLE LISTE ELETTORALI</description>
+			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3345672</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3345672</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 06 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3345672</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>APPROVAZIONE DEL CERTIFICATO DI REGOLARE ESECUZIONE DEL PROGETTO "LUCCA, LE MURA E LA VIA FRANCIGENA: REALIZZAZIONE DEL CENTRO VISITE MULTIMEDIALE" AI SENSI DELL'ART. 102 E CAPO III – APPALTI NEL SETTORE DEI BENI CULTURALI D.LGS 50 DEL 18/04/2016</title>
+			<description>APPROVAZIONE DEL CERTIFICATO DI REGOLARE ESECUZIONE DEL PROGETTO "LUCCA, LE MURA E LA VIA FRANCIGENA: REALIZZAZIONE DEL CENTRO VISITE MULTIMEDIALE" AI SENSI DELL'ART. 102 E CAPO III – APPALTI NEL SETTORE DEI BENI CULTURALI D.LGS 50 DEL 18/04/2016</description>
+			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3345067</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3345067</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>(PT 51/2017) SCUOLA SECONDARIA DI I° GRADO DE NOBILI DI S.MARIA A COLLE. RIFACIMENTO IMPIANTO TERMICO. AGGIUDICAZIONE DEFINITIVA E NOMINA COORDINATORE IN FASE DELLA SICUREZZA. CUP: J64H17000300004 - CIG: 70825755C8 - CIG: ZBC1F0983F (FAMIGLIA ATTI: 02 - AGGIUDICAZIONE DEFINITIVA)</title>
 			<description>(PT 51/2017) SCUOLA SECONDARIA DI I° GRADO DE NOBILI DI S.MARIA A COLLE. RIFACIMENTO IMPIANTO TERMICO. AGGIUDICAZIONE DEFINITIVA E NOMINA COORDINATORE IN FASE DELLA SICUREZZA. CUP: J64H17000300004 - CIG: 70825755C8 - CIG: ZBC1F0983F (FAMIGLIA ATTI: 02 - AGGIUDICAZIONE DEFINITIVA)</description>
-			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3344277</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3344277</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 06 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3344277</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>UFFICI COMUNALI: LIQUIDAZIONE LAVORO STRAORDINARIO PER PRESTAZIONI RELATIVE AL MESE DI APRILE 2017.</title>
-			<description>UFFICI COMUNALI: LIQUIDAZIONE LAVORO STRAORDINARIO PER PRESTAZIONI RELATIVE AL MESE DI APRILE 2017.</description>
-			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3344274</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3344274</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 06 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3344274</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>IMPOSTA MUNICIPALE PROPRIA (IMU) – AVVISI DI ACCERTAMENTO EMESSI NELL’ANNO 2017 – ACCERTAMENTO IN BILANCIO DEL GETTITO STIMATO A RECUPERO, CON IL RELATIVO ACCANTONAMENTO NEL FCDE.</title>
-			<description>IMPOSTA MUNICIPALE PROPRIA (IMU) – AVVISI DI ACCERTAMENTO EMESSI NELL’ANNO 2017 – ACCERTAMENTO IN BILANCIO DEL GETTITO STIMATO A RECUPERO, CON IL RELATIVO ACCANTONAMENTO NEL FCDE.</description>
-			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3344180</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3344180</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 06 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3344180</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>APPROVAZIONE DEL CERTIFICATO DI REGOLARE ESECUZIONE DEL PROGETTO "LUCCA, LE MURA E LA VIA FRANCIGENA: REALIZZAZIONE DEL CENTRO VISITE MULTIMEDIALE" AI SENSI DELL'ART. 102 E CAPO III – APPALTI NEL SETTORE DEI BENI CULTURALI D.LGS 50 DEL 18/04/2016</title>
-			<description>APPROVAZIONE DEL CERTIFICATO DI REGOLARE ESECUZIONE DEL PROGETTO "LUCCA, LE MURA E LA VIA FRANCIGENA: REALIZZAZIONE DEL CENTRO VISITE MULTIMEDIALE" AI SENSI DELL'ART. 102 E CAPO III – APPALTI NEL SETTORE DEI BENI CULTURALI D.LGS 50 DEL 18/04/2016</description>
 			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
