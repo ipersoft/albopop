@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 21 Jun 2017 11:32:17 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 21 Jun 2017 12:31:16 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Wed, 21 Jun 2017 11:32:17 +0200</pubDate>
+		<pubDate>Wed, 21 Jun 2017 12:31:16 +0200</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2826381</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2826381</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 06 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2826381</category>
+			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
+			<title>AGGIORNAMENTO, MANUTENZIONE ED ASSISTENZA DELLE APPARECCHIATURE INFORMATICHE DEL SISTEMA COMUNALE – LIQUIDAZIONE FATTURA III TRIMESTRE DITTA ADVISER S.I. – CIG: ZC11CF1A6A</title>
+			<description>AGGIORNAMENTO, MANUTENZIONE ED ASSISTENZA DELLE APPARECCHIATURE INFORMATICHE DEL SISTEMA COMUNALE – LIQUIDAZIONE FATTURA III TRIMESTRE DITTA ADVISER S.I. – CIG: ZC11CF1A6A</description>
+			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2825646</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2825646</link>
@@ -284,17 +295,6 @@
 			<title>RITORNO SULLA DETERMINAZIONE N. 1509 DEL 10.11.2016 - APPROVAZIONE PREVENTIVO DELLA TIPOGRAFIA VINCENZO CAPUOZZO DA NAPOLI PER RILEGATURE REGISTRI DI STATO CIVILE E RELATIVI ALLEGATI. CIG Z2F1BF3E29</title>
 			<description>RITORNO SULLA DETERMINAZIONE N. 1509 DEL 10.11.2016 - APPROVAZIONE PREVENTIVO DELLA TIPOGRAFIA VINCENZO CAPUOZZO DA NAPOLI PER RILEGATURE REGISTRI DI STATO CIVILE E RELATIVI ALLEGATI. CIG Z2F1BF3E29</description>
 			<a10:updated>2017-06-20T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2824006</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2824006</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 19 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 04 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2824006</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
-			<title>RICORSO INNANZI ALLA CORTE DI CASSAZIONE AVVERSO GLI AVVISI DI ACCERTAMENTO ICI PER GLI ANNI 2004/2008 PRESENTATI DAI GERMANI DESIDERIO – LIQUIDAZIONE SALDO AVVOCATO UMBERTO FEDERICO RIF. DELIBERA G.C. N. 186 DEL 17/10/2014 DETERMINA N. 1122 DEL 22/12/2014 </title>
-			<description>RICORSO INNANZI ALLA CORTE DI CASSAZIONE AVVERSO GLI AVVISI DI ACCERTAMENTO ICI PER GLI ANNI 2004/2008 PRESENTATI DAI GERMANI DESIDERIO – LIQUIDAZIONE SALDO AVVOCATO UMBERTO FEDERICO RIF. DELIBERA G.C. N. 186 DEL 17/10/2014 DETERMINA N. 1122 DEL 22/12/2014 </description>
-			<a10:updated>2017-06-19T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>

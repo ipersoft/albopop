@@ -5,7 +5,7 @@
 		<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rometta</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 21 Jun 2017 11:32:11 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 21 Jun 2017 12:31:12 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rometta</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Messina</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rometta</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rometta</a10:id>
-		<pubDate>Wed, 21 Jun 2017 11:32:11 +0200</pubDate>
+		<pubDate>Wed, 21 Jun 2017 12:31:12 +0200</pubDate>
 		<docs>http://albopop.it/comune/rometta/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3344427</guid>
+			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3344427</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 29 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3344427</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI DEPOSITO ATTI IRREPERIBILITA'</category>
+			<title>ELENCO IRR. N. 5 DEL 21/06/17 - AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE DI ROMETTA</title>
+			<description>ELENCO IRR. N. 5 DEL 21/06/17 - AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE DI ROMETTA</description>
+			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3344267</guid>
 			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3344267</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>LAVORI DI REALIZZAZIONE STRADA DI COLLEGAMENTO ROMETTA - SPADAFORA CON VARIANTE SS. 113, VIA LUNGOMARE DI SPADAFORA E CASELLO AUTOSTRADALE DI ROMETTA - ACQUISTO MATERIALE PER SISTEMAZIONE CONDOTTA IDRICA NEL TRATTO DI STRADA RICADENTE ALL'INTERNO DEL COMPLESSO EDILIZIO GOLDEN SUNSET - LIQUIDAZIONE FATTURA ELETTRONICA N. 2 DEL 05.04.2017 </title>
 			<description>LAVORI DI REALIZZAZIONE STRADA DI COLLEGAMENTO ROMETTA - SPADAFORA CON VARIANTE SS. 113, VIA LUNGOMARE DI SPADAFORA E CASELLO AUTOSTRADALE DI ROMETTA - ACQUISTO MATERIALE PER SISTEMAZIONE CONDOTTA IDRICA NEL TRATTO DI STRADA RICADENTE ALL'INTERNO DEL COMPLESSO EDILIZIO GOLDEN SUNSET - LIQUIDAZIONE FATTURA ELETTRONICA N. 2 DEL 05.04.2017 </description>
-			<a10:updated>2017-06-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3337176</guid>
-			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3337176</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 19 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 04 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3337176</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>SERVIZIO URGENTE PER LO SPOSTAMENTO, SUL TERRITORIO COMUNALE DI UN MODULO PROTEZIONE CIVILE - AFFIDAMENTO SERVIZIO - IMPEGNO SPESA - CIG:Z561EDF4AA</title>
-			<description>SERVIZIO URGENTE PER LO SPOSTAMENTO, SUL TERRITORIO COMUNALE DI UN MODULO PROTEZIONE CIVILE - AFFIDAMENTO SERVIZIO - IMPEGNO SPESA - CIG:Z561EDF4AA</description>
 			<a10:updated>2017-06-19T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

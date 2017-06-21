@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 21 Jun 2017 11:31:40 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 21 Jun 2017 12:31:10 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Wed, 21 Jun 2017 11:31:40 +0200</pubDate>
+		<pubDate>Wed, 21 Jun 2017 12:31:10 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3344724</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3344724</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 29 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3344724</category>
+			<category domain="http://albopop.it/specs#item-category-type">DEPOSITO ATTI CASA COMUNALE</category>
+			<title>ARTICOLO 60, COMMA E) DEL DPR 600/1973 MASTER BUILDING SOCIETA' COOPERATIVAA- REP NR. 1765/2017- NOTIFICA ATTO</title>
+			<description>ARTICOLO 60, COMMA E) DEL DPR 600/1973 MASTER BUILDING SOCIETA' COOPERATIVAA- REP NR. 1765/2017- NOTIFICA ATTO</description>
+			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3344722</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3344722</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 29 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3344722</category>
+			<category domain="http://albopop.it/specs#item-category-type">DEPOSITO ATTI CASA COMUNALE</category>
+			<title>ARTICOLO 60, COMMA E) DPR 600/1973 NID-O' SRL - REP NR. 170/2017 - NOTIFICA ATTO</title>
+			<description>ARTICOLO 60, COMMA E) DPR 600/1973 NID-O' SRL - REP NR. 170/2017 - NOTIFICA ATTO</description>
+			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3344289</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3344289</link>
@@ -273,28 +295,6 @@
 			<title>PUBBLICAZIONI ANNO 2017 N. 221 SARTI ROLANDO DANIELE TOSATO SAMANTHA</title>
 			<description>PUBBLICAZIONI ANNO 2017 N. 221 SARTI ROLANDO DANIELE TOSATO SAMANTHA</description>
 			<a10:updated>2017-06-20T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3342523</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3342523</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 23 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3342523</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI E BANDI VARI</category>
-			<title>SO.FI.R. SRL - IVG DI LUCCA - BOLLETTINO ASTA GIUDIZIARIA DEL 23 06 17 : AVVISO</title>
-			<description>SO.FI.R. SRL - IVG DI LUCCA - BOLLETTINO ASTA GIUDIZIARIA DEL 23 06 17 : AVVISO</description>
-			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3342522</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3342522</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 21 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3342522</category>
-			<category domain="http://albopop.it/specs#item-category-type">VARIAZIONI ANAGRAFICHE</category>
-			<title>VARIAZIONE ANAGRAFICA: MODIFICA COGNOME DA TODOROVA A MITEVA: AFFISSIONE ALL'ALBO</title>
-			<description>VARIAZIONE ANAGRAFICA: MODIFICA COGNOME DA TODOROVA A MITEVA: AFFISSIONE ALL'ALBO</description>
-			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
