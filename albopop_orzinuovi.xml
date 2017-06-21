@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 21 Jun 2017 08:30:42 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 21 Jun 2017 09:30:44 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Wed, 21 Jun 2017 08:30:42 +0200</pubDate>
+		<pubDate>Wed, 21 Jun 2017 09:30:44 +0200</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2825822</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2825822</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 06 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2825822</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>EROGAZIONE CONTRIBUTI ECONOMICI FINALIZZATI - IMPEGNO DI SPESA</title>
+			<description>EROGAZIONE CONTRIBUTI ECONOMICI FINALIZZATI - IMPEGNO DI SPESA</description>
+			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2824846</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2824846</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
 			<title>APPLICAZIONE DEL CANONE PER L’OCCUPAZIONE DI SPAZI ED AREE PUBBLICHE DURANTE IL PERIODO DELLA FIERA REGIONALE DELL’AGRICOLTURA DEL COMMERCIO E DELLA ZOOTECNIA DI ORZINUOVI - ATTO DI INDIRIZZO</title>
 			<description>APPLICAZIONE DEL CANONE PER L’OCCUPAZIONE DI SPAZI ED AREE PUBBLICHE DURANTE IL PERIODO DELLA FIERA REGIONALE DELL’AGRICOLTURA DEL COMMERCIO E DELLA ZOOTECNIA DI ORZINUOVI - ATTO DI INDIRIZZO</description>
-			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2819398</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2819398</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 22 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2819398</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI MANIFESTO</category>
-			<title>MANIFESTO DELL'ORDINE DEL GIORNO DEL CONSIGLIO COMUNALE - SEDUTA DEL 21 GIUGNO 2017</title>
-			<description>MANIFESTO DELL'ORDINE DEL GIORNO DEL CONSIGLIO COMUNALE - SEDUTA DEL 21 GIUGNO 2017</description>
 			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
