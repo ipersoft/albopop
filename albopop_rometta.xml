@@ -5,7 +5,7 @@
 		<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rometta</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 21 Jun 2017 10:31:20 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 21 Jun 2017 11:32:11 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rometta</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Messina</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rometta</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rometta</a10:id>
-		<pubDate>Wed, 21 Jun 2017 10:31:20 +0200</pubDate>
+		<pubDate>Wed, 21 Jun 2017 11:32:11 +0200</pubDate>
 		<docs>http://albopop.it/comune/rometta/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3344267</guid>
+			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3344267</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 19 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 26 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3344267</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO PUBBLICO</category>
+			<title>ARESS FABIOLA ONLUS - SERVIZIO CIVILE - PROGETTO "GREY GENERATION".</title>
+			<description>ARESS FABIOLA ONLUS - SERVIZIO CIVILE - PROGETTO "GREY GENERATION".</description>
+			<a10:updated>2017-06-19T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3342834</guid>
 			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3342834</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>SERVIZIO URGENTE PER LO SPOSTAMENTO, SUL TERRITORIO COMUNALE DI UN MODULO PROTEZIONE CIVILE - AFFIDAMENTO SERVIZIO - IMPEGNO SPESA - CIG:Z561EDF4AA</title>
 			<description>SERVIZIO URGENTE PER LO SPOSTAMENTO, SUL TERRITORIO COMUNALE DI UN MODULO PROTEZIONE CIVILE - AFFIDAMENTO SERVIZIO - IMPEGNO SPESA - CIG:Z561EDF4AA</description>
-			<a10:updated>2017-06-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3337174</guid>
-			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3337174</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 19 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 04 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3337174</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>RISTRUTTURAZIONE DELLA VILLA COMUNALE IN ROMETTA MAEA - PAGAMENTO DIRITTI DA ALLEGARE ALLA SEGNALAZIONE CERTIFICATA DI INIZIO AI FINI DELLA SICUREZZA ANTINCENDIO</title>
-			<description>RISTRUTTURAZIONE DELLA VILLA COMUNALE IN ROMETTA MAEA - PAGAMENTO DIRITTI DA ALLEGARE ALLA SEGNALAZIONE CERTIFICATA DI INIZIO AI FINI DELLA SICUREZZA ANTINCENDIO</description>
 			<a10:updated>2017-06-19T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

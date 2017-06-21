@@ -5,7 +5,7 @@
 		<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mazzano</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 21 Jun 2017 10:31:28 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 21 Jun 2017 11:32:21 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mazzano</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mazzano</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mazzano</a10:id>
-		<pubDate>Wed, 21 Jun 2017 10:31:28 +0200</pubDate>
+		<pubDate>Wed, 21 Jun 2017 11:32:21 +0200</pubDate>
 		<docs>http://albopop.it/comune/mazzano/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3344388</guid>
+			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3344388</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 06 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3344388</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>ISTITUZIONE DI DIVIETI DI SOSTA CON RIMOZIONE FORZATA IN VARIE VIE DEL COMUNE DI MAZZANO PER REALIZZAZIONE SEGNALETICA ORIZZONTALE - DAL22 AL 23 GIUGNO 2017</title>
+			<description>ISTITUZIONE DI DIVIETI DI SOSTA CON RIMOZIONE FORZATA IN VARIE VIE DEL COMUNE DI MAZZANO PER REALIZZAZIONE SEGNALETICA ORIZZONTALE - DAL22 AL 23 GIUGNO 2017</description>
+			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3342734</guid>
 			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3342734</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
 			<title>ORGANIZZAZIONE INTERNA DELL'UFFICIO UNICO INTERCOMUNALE MAZZANO, NUVOLERA E NUVOLENTO PER I SERVIZI ECONOMICO-FINANZIARI E IDENTIFICAZIONE DELLA RESPONSABILITÀ DI CIASCUN COLLABORATORE PER IL RAGGIUNGIMENTO DEGLI OBIETTIVI ASSEGNATI PER L’ANNO 2017.</title>
 			<description>ORGANIZZAZIONE INTERNA DELL'UFFICIO UNICO INTERCOMUNALE MAZZANO, NUVOLERA E NUVOLENTO PER I SERVIZI ECONOMICO-FINANZIARI E IDENTIFICAZIONE DELLA RESPONSABILITÀ DI CIASCUN COLLABORATORE PER IL RAGGIUNGIMENTO DEGLI OBIETTIVI ASSEGNATI PER L’ANNO 2017.</description>
-			<a10:updated>2017-06-12T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3325755</guid>
-			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3325755</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 12 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 27 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3325755</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
-			<title>CIG: Z691CA8B78 – APPALTO NUOVA SEGNALETICA ORIZZONTALE STRADALE PRESSO IL COMUNE DI NUVOLERA APPROVAZIONE ATTI DI GARA ED AGGIUDICAZIONE.</title>
-			<description>CIG: Z691CA8B78 – APPALTO NUOVA SEGNALETICA ORIZZONTALE STRADALE PRESSO IL COMUNE DI NUVOLERA APPROVAZIONE ATTI DI GARA ED AGGIUDICAZIONE.</description>
 			<a10:updated>2017-06-12T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
