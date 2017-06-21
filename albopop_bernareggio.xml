@@ -5,7 +5,7 @@
 		<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bernareggio</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 21 Jun 2017 09:30:58 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 21 Jun 2017 10:31:08 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bernareggio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bernareggio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bernareggio</a10:id>
-		<pubDate>Wed, 21 Jun 2017 09:30:58 +0200</pubDate>
+		<pubDate>Wed, 21 Jun 2017 10:31:08 +0200</pubDate>
 		<docs>http://albopop.it/comune/bernareggio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3343985</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3343985</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 19 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3343985</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI BANDO DI CONCORSO</category>
+			<title>POSTA CERTIFICATA: AVVISO MOBILITA' PER N° 1 POSTO DI AGENTE POLIZIA LOCALE CAT C</title>
+			<description>POSTA CERTIFICATA: AVVISO MOBILITA' PER N° 1 POSTO DI AGENTE POLIZIA LOCALE CAT C</description>
+			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3343870</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3343870</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 29 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3343870</category>
+			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>PUBBLICAZIONE DI MATRIMONIO DI: RADAELLI LUCA E SALA NADIA</title>
+			<description>PUBBLICAZIONE DI MATRIMONIO DI: RADAELLI LUCA E SALA NADIA</description>
+			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3343816</guid>
 			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3343816</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
 			<title>DETERMINAZIONE SOMME NON SOGGETTE AD ESECUZIONE FORZATA - SECONDO SEMESTRE 2017</title>
 			<description>DETERMINAZIONE SOMME NON SOGGETTE AD ESECUZIONE FORZATA - SECONDO SEMESTRE 2017</description>
-			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3333033</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3333033</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 30 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3333033</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>APPROVAZIONE VARIAZIONE AL PIANO ESECUTIVO DI GESTIONE E DELLA PERFORMANCE 2017/2019</title>
-			<description>APPROVAZIONE VARIAZIONE AL PIANO ESECUTIVO DI GESTIONE E DELLA PERFORMANCE 2017/2019</description>
-			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3331836</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3331836</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 15 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3331836</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI BANDO DI CONCORSO</category>
-			<title>VARIANTE ALLE NORME DEL PIANO TERRITORIALE DI COORDINAMENTO PROVINCIALE DELLA PROVINCIA DI MONZA E DELLA BRIANZA. ADOZIONE. RICHIESTA PUBBLICAZIONE ALL'ALBO</title>
-			<description>VARIANTE ALLE NORME DEL PIANO TERRITORIALE DI COORDINAMENTO PROVINCIALE DELLA PROVINCIA DI MONZA E DELLA BRIANZA. ADOZIONE. RICHIESTA PUBBLICAZIONE ALL'ALBO</description>
 			<a10:updated>2017-06-15T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
