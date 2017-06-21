@@ -5,7 +5,7 @@
 		<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Viterbo</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 20 Jun 2017 18:30:45 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 21 Jun 2017 08:31:06 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Viterbo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Viterbo</category>
@@ -16,11 +16,55 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Viterbo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_viterbo</a10:id>
-		<pubDate>Tue, 20 Jun 2017 18:30:45 +0200</pubDate>
+		<pubDate>Wed, 21 Jun 2017 08:31:06 +0200</pubDate>
 		<docs>http://albopop.it/comune/viterbo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3343249</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3343249</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 29 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3343249</category>
+			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO </category>
+			<title>PUBBLICAZIONE DI MATRIMONIO N. 168/2017: MECALI - CIRILLI</title>
+			<description>PUBBLICAZIONE DI MATRIMONIO N. 168/2017: MECALI - CIRILLI</description>
+			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3343247</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3343247</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 29 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3343247</category>
+			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO </category>
+			<title>PUBBLICAZIONE DI MATRIMONIO N. 167/2017: FERRARI - FERRANTE</title>
+			<description>PUBBLICAZIONE DI MATRIMONIO N. 167/2017: FERRARI - FERRANTE</description>
+			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3343245</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3343245</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 29 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3343245</category>
+			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO </category>
+			<title>PUBBLICAZIONE DI MATRIMONIO N. 166/2017: VITTORI - BERNARDELLI</title>
+			<description>PUBBLICAZIONE DI MATRIMONIO N. 166/2017: VITTORI - BERNARDELLI</description>
+			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3343243</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3343243</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 29 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3343243</category>
+			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO </category>
+			<title>PUBBLICAZIONE DI MATRIMONIO N. 165/2017: COSTANTINI - CAPONERO</title>
+			<description>PUBBLICAZIONE DI MATRIMONIO N. 165/2017: COSTANTINI - CAPONERO</description>
+			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3343128</guid>
 			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3343128</link>
@@ -42,6 +86,17 @@
 			<title>CONVOCAZIONE ASSEMBLEA DEGLI UTENTI DEL CONSORZIO STRADALE "S.S. PELLEGRINO &amp; GINESTRETO".</title>
 			<description>CONVOCAZIONE ASSEMBLEA DEGLI UTENTI DEL CONSORZIO STRADALE "S.S. PELLEGRINO &amp; GINESTRETO".</description>
 			<a10:updated>2017-06-20T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3341969</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3341969</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 30 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3341969</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI VARI </category>
+			<title>REVISIONE SEMESTRALE DELLE LISTE ELETTORALI</title>
+			<description>REVISIONE SEMESTRALE DELLE LISTE ELETTORALI</description>
+			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3341843</guid>
@@ -239,61 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
 			<title>MANTENIMENTO DEI CANI DI PROPRIETA COMUNALE - RESPONSABILE SANITARIO DOTT. ANTONIO BULLITTA -PERIODO 16 GIUGNO/15AGOSTO 2017CIG: ZCA1ED3F2B</title>
 			<description>MANTENIMENTO DEI CANI DI PROPRIETA COMUNALE - RESPONSABILE SANITARIO DOTT. ANTONIO BULLITTA -PERIODO 16 GIUGNO/15AGOSTO 2017CIG: ZCA1ED3F2B</description>
-			<a10:updated>2017-06-20T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3341799</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3341799</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 05 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3341799</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONI SENZA IMPEGNO DI SPESA</category>
-			<title>ASSENZA PER MALATTIA - RIDUZIONE DELLA RETRIBUZIONE</title>
-			<description>ASSENZA PER MALATTIA - RIDUZIONE DELLA RETRIBUZIONE</description>
-			<a10:updated>2017-06-20T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3341797</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3341797</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 05 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3341797</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONI SENZA IMPEGNO DI SPESA</category>
-			<title>ASSENZA PER MALATTIA - RIDUZIONE DELLA RETRIBUZIONE</title>
-			<description>ASSENZA PER MALATTIA - RIDUZIONE DELLA RETRIBUZIONE</description>
-			<a10:updated>2017-06-20T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3341795</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3341795</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 05 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3341795</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
-			<title>AFFIDAMENTO SERVIZIO RECUPERO SALME SU DISPOSIZIONE DELLA PUBBLICA AUTORITA', SERVIZIO SALME INDIGENTI.</title>
-			<description>AFFIDAMENTO SERVIZIO RECUPERO SALME SU DISPOSIZIONE DELLA PUBBLICA AUTORITA', SERVIZIO SALME INDIGENTI.</description>
-			<a10:updated>2017-06-20T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3341793</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3341793</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 05 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3341793</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
-			<title>PULIZIA STRAORDINARIA EX TRIBUNALE DI VITERBO- PIAZZA FONTANA GRANDE- NUOVA SEDE DEGLI UFFICI COMUNALI. IMPEGNO SPESA CIG 66509780AD</title>
-			<description>PULIZIA STRAORDINARIA EX TRIBUNALE DI VITERBO- PIAZZA FONTANA GRANDE- NUOVA SEDE DEGLI UFFICI COMUNALI. IMPEGNO SPESA CIG 66509780AD</description>
-			<a10:updated>2017-06-20T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3341791</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3341791</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 05 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3341791</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
-			<title>SERVIZIO DISTRETTUALE TUTELA MINORI - INTERVENTI DI ASSISTENZA EDUCATIVA DOMICILARE ED INCONTRI PROTETTI SOC. COOP. CONSORTILE IL CERCHIO.CIG: Z301EC557D</title>
-			<description>SERVIZIO DISTRETTUALE TUTELA MINORI - INTERVENTI DI ASSISTENZA EDUCATIVA DOMICILARE ED INCONTRI PROTETTI SOC. COOP. CONSORTILE IL CERCHIO.CIG: Z301EC557D</description>
 			<a10:updated>2017-06-20T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
