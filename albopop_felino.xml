@@ -5,7 +5,7 @@
 		<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Felino</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 22 Jun 2017 08:30:49 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 22 Jun 2017 09:30:40 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Felino</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Felino</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_felino</a10:id>
-		<pubDate>Thu, 22 Jun 2017 08:30:49 +0200</pubDate>
+		<pubDate>Thu, 22 Jun 2017 09:30:40 +0200</pubDate>
 		<docs>http://albopop.it/comune/felino/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2827293</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2827293</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2827293</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
+			<title>SOSPENSIONE DEI PRELIEVI DAI CORSI D ACQUA NEL TERRITORIO DI COMPETENZA DELLA STRUTTURA AUTORIZZAZIONI E CONCESSIONI DI PARMA - 2017 - TRASMISSIONE ATTO</title>
+			<description>SOSPENSIONE DEI PRELIEVI DAI CORSI D ACQUA NEL TERRITORIO DI COMPETENZA DELLA STRUTTURA AUTORIZZAZIONI E CONCESSIONI DI PARMA - 2017 - TRASMISSIONE ATTO</description>
+			<a10:updated>2017-06-22T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2824895</guid>
 			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2824895</link>
@@ -284,17 +295,6 @@
 			<title>POSTA CERTIFICATA: PROT. N.2308 DEL 23-05-2017 - PUBBLICAZIONE AVVISO DI CONCORSO PUBBLICO PER TITOLI ED ESAMI PER LA COPERTURA DI N.1 POSTO ISTRUTTORE DIRETTIVO, CAT D, DA ASSEGNARE ALL' AREA "AFFARI GENERALI"</title>
 			<description>POSTA CERTIFICATA: PROT. N.2308 DEL 23-05-2017 - PUBBLICAZIONE AVVISO DI CONCORSO PUBBLICO PER TITOLI ED ESAMI PER LA COPERTURA DI N.1 POSTO ISTRUTTORE DIRETTIVO, CAT D, DA ASSEGNARE ALL' AREA "AFFARI GENERALI"</description>
 			<a10:updated>2017-05-24T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2752734</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2752734</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 29 Apr 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 31 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2752734</category>
-			<category domain="http://albopop.it/specs#item-category-type">A003 AVVISI ELETTORALI </category>
-			<title>AGGIORNAMENTO DEGLI ELENCHI PER GLI ALBI DEI GIUDICI POPOLARI - INVITO AI CITTADINI PER ISCRIZIONE</title>
-			<description>AGGIORNAMENTO DEGLI ELENCHI PER GLI ALBI DEI GIUDICI POPOLARI - INVITO AI CITTADINI PER ISCRIZIONE</description>
-			<a10:updated>2017-04-29T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
