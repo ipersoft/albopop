@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 22 Jun 2017 16:31:44 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 22 Jun 2017 17:32:13 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Thu, 22 Jun 2017 16:31:44 +0200</pubDate>
+		<pubDate>Thu, 22 Jun 2017 17:32:13 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2828848</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2828848</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 07 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2828848</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>PROGETTO HOME CARE PREMIUM 2014 – LIQUIDAZIONE FATTURE N. 70-71-72/PA DEL 07/04/2017 PER RICOVERO PRESSO STRUTTURA RESIDENZIALE IRAS DI ROVIGO, PERIODO: MARZO 2017</title>
+			<description>PROGETTO HOME CARE PREMIUM 2014 – LIQUIDAZIONE FATTURE N. 70-71-72/PA DEL 07/04/2017 PER RICOVERO PRESSO STRUTTURA RESIDENZIALE IRAS DI ROVIGO, PERIODO: MARZO 2017</description>
+			<a10:updated>2017-06-22T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2828404</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2828404</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>IMPEGNO DI SPESA DELLA SOMMA PER IL RISARCIMENTO DEI DANNI DA RCT SUBITI DA SOGGETTI DIVERSI, RUBRICATI E DEFINITI NEL CORSO DEL 2017 – MESE MAGGIO 2017. </title>
 			<description>IMPEGNO DI SPESA DELLA SOMMA PER IL RISARCIMENTO DEI DANNI DA RCT SUBITI DA SOGGETTI DIVERSI, RUBRICATI E DEFINITI NEL CORSO DEL 2017 – MESE MAGGIO 2017. </description>
-			<a10:updated>2017-06-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2827382</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2827382</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 07 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2827382</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>IMPEGNO DI SPESA PER RIMBORSO FRANCHIGIE ALLA ARISCOM COMPAGNIA DI ASSICURAZIONI S.P.A. - POLIZZA 0000021036. </title>
-			<description>IMPEGNO DI SPESA PER RIMBORSO FRANCHIGIE ALLA ARISCOM COMPAGNIA DI ASSICURAZIONI S.P.A. - POLIZZA 0000021036. </description>
 			<a10:updated>2017-06-22T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
