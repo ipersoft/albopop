@@ -5,7 +5,7 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 22 Jun 2017 17:32:10 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 22 Jun 2017 18:31:38 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Isernia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>Thu, 22 Jun 2017 17:32:10 +0200</pubDate>
+		<pubDate>Thu, 22 Jun 2017 18:31:38 +0200</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3348825</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3348825</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 07 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3348825</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZE</category>
+			<title>MISURE DI SICUREZZA E PREVENZIONE -DIVIETO TEMPORANEO VENDITA BIBITE IN CONTENITORI DI VETRO O LATTA DURANTE LA FIERA DELLE CIPOLLE 2017.</title>
+			<description>MISURE DI SICUREZZA E PREVENZIONE -DIVIETO TEMPORANEO VENDITA BIBITE IN CONTENITORI DI VETRO O LATTA DURANTE LA FIERA DELLE CIPOLLE 2017.</description>
+			<a10:updated>2017-06-22T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3348011</guid>
 			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3348011</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
 			<title>Atto di impegno per la fornitura di segnaletica stradale </title>
 			<description>Atto di impegno per la fornitura di segnaletica stradale </description>
-			<a10:updated>2017-06-20T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3341971</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3341971</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 05 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3341971</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
-			<title>Aggiornamento importi spese di accertamento, procedimento e notificazione per violazioni alle norme del Codice della Strada ed altri illeciti Amministrativi - prop.190/17. </title>
-			<description>Aggiornamento importi spese di accertamento, procedimento e notificazione per violazioni alle norme del Codice della Strada ed altri illeciti Amministrativi - prop.190/17. </description>
 			<a10:updated>2017-06-20T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
