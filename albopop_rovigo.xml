@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 23 Jun 2017 13:31:36 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 23 Jun 2017 14:32:12 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Fri, 23 Jun 2017 13:31:36 +0200</pubDate>
+		<pubDate>Fri, 23 Jun 2017 14:32:12 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2830347</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2830347</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 23 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 08 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2830347</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DECRETI</category>
+			<title>DESIGNAZIONE DI N. 2 UNITA' PER L'ACCREDITAMENTO E L'ACCESSO ALLA BANCA DATI NAZIONALE UNICA PER LA DOCUMENTAZIONE ANTIMAFIA (BDNA) </title>
+			<description>DESIGNAZIONE DI N. 2 UNITA' PER L'ACCREDITAMENTO E L'ACCESSO ALLA BANCA DATI NAZIONALE UNICA PER LA DOCUMENTAZIONE ANTIMAFIA (BDNA) </description>
+			<a10:updated>2017-06-23T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2830287</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2830287</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>IMPEGNO DI SPESA PER LA PARTECIPAZIONE DEL DIRIGENTE ED UN DIPENDENTE DELL'UNITÀ SISTEMI INFORMATIVI AL CORSO “GLI ACQUISTI DI BENI E SERVIZI INFORMATICI DOPO IL PIANO TRIENNALE PER L’INFORMATICA NELLA P.A. 2017-2019” ORGANIZZATO DA MAGGIOLI SPA A BOLOGNA IL 04.07.2017</title>
 			<description>IMPEGNO DI SPESA PER LA PARTECIPAZIONE DEL DIRIGENTE ED UN DIPENDENTE DELL'UNITÀ SISTEMI INFORMATIVI AL CORSO “GLI ACQUISTI DI BENI E SERVIZI INFORMATICI DOPO IL PIANO TRIENNALE PER L’INFORMATICA NELLA P.A. 2017-2019” ORGANIZZATO DA MAGGIOLI SPA A BOLOGNA IL 04.07.2017</description>
-			<a10:updated>2017-06-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2829052</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2829052</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 07 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2829052</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>UTENZE TELEFONICHE - LIQUIDAZIONE FATTURE INFRACOM ITALIA SPA PER SERVIZI DATI E FONIA IN FIBRA OTTICA – CONSUMI MARZO – APRILE - MAGGIO 2017</title>
-			<description>UTENZE TELEFONICHE - LIQUIDAZIONE FATTURE INFRACOM ITALIA SPA PER SERVIZI DATI E FONIA IN FIBRA OTTICA – CONSUMI MARZO – APRILE - MAGGIO 2017</description>
 			<a10:updated>2017-06-22T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
