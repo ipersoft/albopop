@@ -5,7 +5,7 @@
 		<link>http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Baranzate</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 22 Jun 2017 18:31:17 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 23 Jun 2017 08:30:53 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Baranzate</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Milano</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Baranzate</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_baranzate</a10:id>
-		<pubDate>Thu, 22 Jun 2017 18:31:17 +0200</pubDate>
+		<pubDate>Fri, 23 Jun 2017 08:30:53 +0200</pubDate>
 		<docs>http://albopop.it/comune/baranzate/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -154,17 +154,6 @@
 			<a10:updated>2017-06-22T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3302500</guid>
-			<link>http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3302500</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 07 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 22 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3302500</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERA DELIBERA GIUNTA</category>
-			<title>APPROVAZIONE DELLO SCHEMA DI CONVENZIONE TRA IL COMUNE DI BARANZATE E LA ASSOCIAZIONE POLISPORTIVA DILETTANTISTICA BARANZATESE 1948 PER LA GESTIONE DEL CENTRO SPORTIVO COMUNALE "G.RAFFIN"</title>
-			<description>APPROVAZIONE DELLO SCHEMA DI CONVENZIONE TRA IL COMUNE DI BARANZATE E LA ASSOCIAZIONE POLISPORTIVA DILETTANTISTICA BARANZATESE 1948 PER LA GESTIONE DEL CENTRO SPORTIVO COMUNALE "G.RAFFIN"</description>
-			<a10:updated>2017-06-07T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
 			<guid isPermaLink="true">http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3305117</guid>
 			<link>http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3305117</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 08 Jun 2017 02:00:00 +0200</category>
@@ -294,6 +283,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERA DELIBERA CONSIGLIO</category>
 			<title>RISPOSTA ALLE INTERROGAZIONI AI SENSI DEGLI ARTT. 58 E 59 DEL REGOLAMENTO DEL CONSIGLIO COMUNALE</title>
 			<description>RISPOSTA ALLE INTERROGAZIONI AI SENSI DEGLI ARTT. 58 E 59 DEL REGOLAMENTO DEL CONSIGLIO COMUNALE</description>
+			<a10:updated>2017-06-22T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3346543</guid>
+			<link>http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3346543</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 07 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3346543</category>
+			<category domain="http://albopop.it/specs#item-category-type">DELIBERA DELIBERA CONSIGLIO</category>
+			<title>MOZIONE PRESENTATA DAL GRUPPO CONSILIARE PROGETTO PER BARANZATE DAI CONSIGLIERI COMUNALI RICCARDO ROSSINI, UMBERTA DONAGGIO, ILARIA DI MAIO, MARIA ASSUNTA SANSONE E ROSANNA CERVELLERA CONCERNENTE LA RIDUZIONE VOLONTARIA DELLE INDENNITA' DI CARICA SPETTANTI AL SINDACO E AGLI ASSESSORI, ASSUNTA AL PROTOCOLLO N. 7353 DEL 21.04.2017</title>
+			<description>MOZIONE PRESENTATA DAL GRUPPO CONSILIARE PROGETTO PER BARANZATE DAI CONSIGLIERI COMUNALI RICCARDO ROSSINI, UMBERTA DONAGGIO, ILARIA DI MAIO, MARIA ASSUNTA SANSONE E ROSANNA CERVELLERA CONCERNENTE LA RIDUZIONE VOLONTARIA DELLE INDENNITA' DI CARICA SPETTANTI AL SINDACO E AGLI ASSESSORI, ASSUNTA AL PROTOCOLLO N. 7353 DEL 21.04.2017</description>
 			<a10:updated>2017-06-22T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
