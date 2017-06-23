@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 23 Jun 2017 16:31:11 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 23 Jun 2017 17:31:22 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Fri, 23 Jun 2017 16:31:11 +0200</pubDate>
+		<pubDate>Fri, 23 Jun 2017 17:31:22 +0200</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2830501</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2830501</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 23 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 08 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2830501</category>
+			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
+			<title>DECRETO 884/2014 - LIQUIDAZIONE FINALE.</title>
+			<description>DECRETO 884/2014 - LIQUIDAZIONE FINALE.</description>
+			<a10:updated>2017-06-23T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2830279</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2830279</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>TRASPORTO SALME NEI GIORNI 9.04.2017 E 20.04.2017 - IMPEGNATIVA DI SPESA IN FAVORE DELLA SOC. FUNERAL CAPRI S.R.L. CIG: Z081F0485B</title>
 			<description>TRASPORTO SALME NEI GIORNI 9.04.2017 E 20.04.2017 - IMPEGNATIVA DI SPESA IN FAVORE DELLA SOC. FUNERAL CAPRI S.R.L. CIG: Z081F0485B</description>
-			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2826562</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2826562</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 06 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2826562</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>LAVORI DI ADEGUAMENTO E SISTEMAZIONE DELLE CADITOIE E DEL SISTEMA DI RACCOLTA DELLE ACQUE PLUVIALI IN UN TRATTO DI VIA TIBERIO, IN PROSSIMITA' DELLA SCUOLA ELEMENTARE ED ANTISTANTE IL RISTORANTE "LO SFIZIO". APPROVAZIONE DEL PREVENTIVO DELLA DITTA "SALVIA IGNAZIO S.R.L." DI CAPRI.</title>
-			<description>LAVORI DI ADEGUAMENTO E SISTEMAZIONE DELLE CADITOIE E DEL SISTEMA DI RACCOLTA DELLE ACQUE PLUVIALI IN UN TRATTO DI VIA TIBERIO, IN PROSSIMITA' DELLA SCUOLA ELEMENTARE ED ANTISTANTE IL RISTORANTE "LO SFIZIO". APPROVAZIONE DEL PREVENTIVO DELLA DITTA "SALVIA IGNAZIO S.R.L." DI CAPRI.</description>
 			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
