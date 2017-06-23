@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 23 Jun 2017 11:31:46 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 23 Jun 2017 12:31:42 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Fri, 23 Jun 2017 11:31:46 +0200</pubDate>
+		<pubDate>Fri, 23 Jun 2017 12:31:42 +0200</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2829941</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2829941</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 23 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2829941</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO ORDINANZA</category>
+			<title>ORDINANZA N. 10 DEL 23/06/2017 - DIVIETO ASSOLUTO NELLA FASCIA ORARIA DALLE 7.00 ALLE 22.00, DI UTILIZZO DELL’ACQUA PROVENIENTE DALL’ACQUEDOTTO COMUNALE PER SCOPI DIVERSI DALL’USO IGIENICO-SANITARI PERSONALI ED ALIMENTARE. </title>
+			<description>ORDINANZA N. 10 DEL 23/06/2017 - DIVIETO ASSOLUTO NELLA FASCIA ORARIA DALLE 7.00 ALLE 22.00, DI UTILIZZO DELL’ACQUA PROVENIENTE DALL’ACQUEDOTTO COMUNALE PER SCOPI DIVERSI DALL’USO IGIENICO-SANITARI PERSONALI ED ALIMENTARE. </description>
+			<a10:updated>2017-06-23T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2829478</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2829478</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
 			<title>PROCEDURA PER L’AFFIDAMENTO IN CONCESSIONE DELLA GESTIONE E CONDUZIONE DELL’IMPIANTO SPORTIVO DI PROPRIETA’ DEL COMUNE DI COLLECCHIO SITO IN GAIANO - VIA LIBERTA’ – DAL 01/07/2017 AL 30/06/2020-CIG : Z031EC6DA3- NOMINA COMMISSIONE DI GARA.</title>
 			<description>PROCEDURA PER L’AFFIDAMENTO IN CONCESSIONE DELLA GESTIONE E CONDUZIONE DELL’IMPIANTO SPORTIVO DI PROPRIETA’ DEL COMUNE DI COLLECCHIO SITO IN GAIANO - VIA LIBERTA’ – DAL 01/07/2017 AL 30/06/2020-CIG : Z031EC6DA3- NOMINA COMMISSIONE DI GARA.</description>
-			<a10:updated>2017-06-16T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2821855</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2821855</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 16 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 01 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2821855</category>
-			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
-			<title>AUTORIZZAZIONE AL PAGAMENTO RATEALE AVVISO DI ACCERTAMENTO TARI ANNO 2015</title>
-			<description>AUTORIZZAZIONE AL PAGAMENTO RATEALE AVVISO DI ACCERTAMENTO TARI ANNO 2015</description>
 			<a10:updated>2017-06-16T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
