@@ -5,7 +5,7 @@
 		<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Viterbo</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 23 Jun 2017 10:31:09 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 23 Jun 2017 11:31:07 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Viterbo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Viterbo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Viterbo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_viterbo</a10:id>
-		<pubDate>Fri, 23 Jun 2017 10:31:09 +0200</pubDate>
+		<pubDate>Fri, 23 Jun 2017 11:31:07 +0200</pubDate>
 		<docs>http://albopop.it/comune/viterbo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3349572</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3349572</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 23 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 21 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3349572</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI </category>
+			<title>AVVISO PUBBLICO PER IL CONFERIMENTO DI UN INCARICO A TEMPO PIENO E DETERMINATO (ANNI 1) DI RESPONSABILE DELLA POLIZIA LOCALE PRESSO IL COMUNE DI ORTE.</title>
+			<description>AVVISO PUBBLICO PER IL CONFERIMENTO DI UN INCARICO A TEMPO PIENO E DETERMINATO (ANNI 1) DI RESPONSABILE DELLA POLIZIA LOCALE PRESSO IL COMUNE DI ORTE.</description>
+			<a10:updated>2017-06-23T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3348740</guid>
 			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3348740</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONI SENZA IMPEGNO DI SPESA</category>
 			<title>CONCESSIONE RATEIZZAZIONE TARI 2014 E TARI 2015 - PASTORI MARCELLO</title>
 			<description>CONCESSIONE RATEIZZAZIONE TARI 2014 E TARI 2015 - PASTORI MARCELLO</description>
-			<a10:updated>2017-06-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3347208</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3347208</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 07 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3347208</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONI SENZA IMPEGNO DI SPESA</category>
-			<title>CORSO DI FORMAZIONE ANCI-IFEL DAL TITOLO "CONOSCERE PER COSTRUIRE, LA PROGRAMMAZIONE EUROPEA" - AUTORIZZAZIONE ALLA PARTECIPAZIONE DELLA DIPENDENTE CRISTINA NOCERA</title>
-			<description>CORSO DI FORMAZIONE ANCI-IFEL DAL TITOLO "CONOSCERE PER COSTRUIRE, LA PROGRAMMAZIONE EUROPEA" - AUTORIZZAZIONE ALLA PARTECIPAZIONE DELLA DIPENDENTE CRISTINA NOCERA</description>
 			<a10:updated>2017-06-22T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
