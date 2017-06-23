@@ -5,7 +5,7 @@
 		<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Canosa di Puglia</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 23 Jun 2017 09:31:07 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 23 Jun 2017 10:31:35 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Canosa di Puglia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Barletta-Andria-Trani</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Canosa di Puglia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_canosadipuglia</a10:id>
-		<pubDate>Fri, 23 Jun 2017 09:31:07 +0200</pubDate>
+		<pubDate>Fri, 23 Jun 2017 10:31:35 +0200</pubDate>
 		<docs>http://albopop.it/comune/canosadipuglia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3349278</guid>
+			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3349278</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 23 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 01 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3349278</category>
+			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>MANGINO - PATRUNO</title>
+			<description>MANGINO - PATRUNO</description>
+			<a10:updated>2017-06-23T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3347874</guid>
 			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3347874</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
 			<title>RATEIZZAZIONE AVVISO SOLLECITO N. 2638 TARI 2014 COD.UFF. 16935</title>
 			<description>RATEIZZAZIONE AVVISO SOLLECITO N. 2638 TARI 2014 COD.UFF. 16935</description>
-			<a10:updated>2017-06-16T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3336549</guid>
-			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3336549</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 16 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 01 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3336549</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
-			<title>INTERVENTO DI RIMOZIONE DEI RIFIUTI ABBANDONATI DA IGNOTI LUNGO ALCUNE STRADE PERIFERICHE. ASSUNZIONE DELLA SPESA. CIG: 2668772452</title>
-			<description>INTERVENTO DI RIMOZIONE DEI RIFIUTI ABBANDONATI DA IGNOTI LUNGO ALCUNE STRADE PERIFERICHE. ASSUNZIONE DELLA SPESA. CIG: 2668772452</description>
 			<a10:updated>2017-06-16T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
