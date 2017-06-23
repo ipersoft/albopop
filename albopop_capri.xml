@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 23 Jun 2017 08:31:18 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 23 Jun 2017 09:31:22 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Fri, 23 Jun 2017 08:31:18 +0200</pubDate>
+		<pubDate>Fri, 23 Jun 2017 09:31:22 +0200</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2829255</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2829255</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 23 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 08 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2829255</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO PUBBLICAZIONE AVVISO</category>
+			<title>AVISO RICHIESTA RILASCIO CDM "LO SMERALDO"</title>
+			<description>AVISO RICHIESTA RILASCIO CDM "LO SMERALDO"</description>
+			<a10:updated>2017-06-23T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2828228</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2828228</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DI GIUNTA DELIBERA DI GIUNTA</category>
 			<title>AMPLIAMENTO OGGETTO MANDATO CONFERITO ALL'AVV. UMBERTO FEDERICO A MEZZO DELIBERAZIONE GIUNTALE NR. 241/2016 - AZIONE ESECUTIVA NELLE FORME DEL PIGNORAMENTO C/O TERZI NEI CONFRONTI DELL'ASL NA 3 SUD - Sentenza n.ro 2099/2016 </title>
 			<description>AMPLIAMENTO OGGETTO MANDATO CONFERITO ALL'AVV. UMBERTO FEDERICO A MEZZO DELIBERAZIONE GIUNTALE NR. 241/2016 - AZIONE ESECUTIVA NELLE FORME DEL PIGNORAMENTO C/O TERZI NEI CONFRONTI DELL'ASL NA 3 SUD - Sentenza n.ro 2099/2016 </description>
-			<a10:updated>2017-06-20T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2825538</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2825538</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 05 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2825538</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DI GIUNTA DELIBERA DI GIUNTA</category>
-			<title>Gestione Servizi Centro Polivalente di Vico Sella Orta n. 3 – Provvedimenti ed indirizzi. </title>
-			<description>Gestione Servizi Centro Polivalente di Vico Sella Orta n. 3 – Provvedimenti ed indirizzi. </description>
 			<a10:updated>2017-06-20T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
