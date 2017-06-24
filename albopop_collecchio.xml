@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 24 Jun 2017 11:31:20 +0200</lastBuildDate>
+		<lastBuildDate>Sat, 24 Jun 2017 12:31:14 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Sat, 24 Jun 2017 11:31:20 +0200</pubDate>
+		<pubDate>Sat, 24 Jun 2017 12:31:14 +0200</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2830749</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2830749</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 24 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 02 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2830749</category>
+			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>PUBBLICAZIONI DI MATRIMONIO TANZI ANDREA E PARADISO MARIANNA</title>
+			<description>PUBBLICAZIONI DI MATRIMONIO TANZI ANDREA E PARADISO MARIANNA</description>
+			<a10:updated>2017-06-24T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2830666</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2830666</link>
@@ -284,17 +295,6 @@
 			<title>PUBBLICAZIONI DI MATRIMONIO ANGELONE PATRIZIO E RINALDI RITA</title>
 			<description>PUBBLICAZIONI DI MATRIMONIO ANGELONE PATRIZIO E RINALDI RITA</description>
 			<a10:updated>2017-06-20T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2823360</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2823360</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 19 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 04 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2823360</category>
-			<category domain="http://albopop.it/specs#item-category-type">DLC DELIBERA DI CONSIGLIO</category>
-			<title>SOSTITUZIONE COMPONENTE COMMISSIONI BILANCIO, POLITICHE SOCIALI, URBANISTICA E STATUTO E REGOLAMENTI ROBERTA DELSANTO CON GIAN LUCA BELLETTI</title>
-			<description>SOSTITUZIONE COMPONENTE COMMISSIONI BILANCIO, POLITICHE SOCIALI, URBANISTICA E STATUTO E REGOLAMENTI ROBERTA DELSANTO CON GIAN LUCA BELLETTI</description>
-			<a10:updated>2017-06-19T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
