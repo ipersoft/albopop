@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 26 Jun 2017 16:31:02 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 26 Jun 2017 17:30:57 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Mon, 26 Jun 2017 16:31:02 +0200</pubDate>
+		<pubDate>Mon, 26 Jun 2017 17:30:57 +0200</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2832227</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2832227</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 26 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 11 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2832227</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI GRADUATORIA PUBBLICHE AFFISSIONI</category>
+			<title>GRADUATORIA PUBBLICHE AFFISSIONI LUGLIO 2017</title>
+			<description>GRADUATORIA PUBBLICHE AFFISSIONI LUGLIO 2017</description>
+			<a10:updated>2017-06-26T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2832177</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2832177</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 26 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 11 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2832177</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>AFFIDAMENTO SERVIZI ESTERNI BAGNI PUBBLICI E GUARDIANIA DEL CENTRO CONGRESSI DI VICO SELLA ORTA N. 3 IN FAVORE DELLA DITTA RASCIESA SRLS DI ERCOLANO.</title>
+			<description>AFFIDAMENTO SERVIZI ESTERNI BAGNI PUBBLICI E GUARDIANIA DEL CENTRO CONGRESSI DI VICO SELLA ORTA N. 3 IN FAVORE DELLA DITTA RASCIESA SRLS DI ERCOLANO.</description>
+			<a10:updated>2017-06-26T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2832095</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2832095</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DI CONSIGLIO DELIBERE DI CONSIGLIO</category>
 			<title>REGOLAMENTO COMUNALE PER LA CONCESSIONE DEL PATROCINIO DELLA CITTA' DI CAPRI.</title>
 			<description>REGOLAMENTO COMUNALE PER LA CONCESSIONE DEL PATROCINIO DELLA CITTA' DI CAPRI.</description>
-			<a10:updated>2017-06-23T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2830274</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2830274</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 23 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 08 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2830274</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
-			<title>TRASFERTE PERSONALE DIPENDENTE - RIEPILOGO MESE DI MAGGIO 2017</title>
-			<description>TRASFERTE PERSONALE DIPENDENTE - RIEPILOGO MESE DI MAGGIO 2017</description>
-			<a10:updated>2017-06-23T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2830272</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2830272</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 23 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 08 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2830272</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
-			<title>SERVIZIO RISCOSSIONE COATTIVA - POSTE TRIBUTI S.C.P.A. - LIQUIDAZIONE FATTURE</title>
-			<description>SERVIZIO RISCOSSIONE COATTIVA - POSTE TRIBUTI S.C.P.A. - LIQUIDAZIONE FATTURE</description>
 			<a10:updated>2017-06-23T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
