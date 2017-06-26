@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 26 Jun 2017 10:30:38 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 26 Jun 2017 11:30:37 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Mon, 26 Jun 2017 10:30:38 +0200</pubDate>
+		<pubDate>Mon, 26 Jun 2017 11:30:37 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/618283</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/618283</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 26 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 11 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">618283</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>DITTA MAGGIOLI S.P.A.: EROGAZIONE SERVIZI PER SVILUPPO SOFTWARE RELATIVAMENTE ALL'AUTENTICAZIONE SPID E PIATTAFORMA GESTIONE ISTANZE ONLINE</title>
+			<description>DITTA MAGGIOLI S.P.A.: EROGAZIONE SERVIZI PER SVILUPPO SOFTWARE RELATIVAMENTE ALL'AUTENTICAZIONE SPID E PIATTAFORMA GESTIONE ISTANZE ONLINE</description>
+			<a10:updated>2017-06-26T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/618280</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/618280</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 26 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 11 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">618280</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>LAVORI DI DEMOLIZIONE DEL COMPLESO IMMOBILIARE DENOMINATO "PORTA CAPPUCCINA" - AFFIDAMENTO LAVORI</title>
+			<description>LAVORI DI DEMOLIZIONE DEL COMPLESO IMMOBILIARE DENOMINATO "PORTA CAPPUCCINA" - AFFIDAMENTO LAVORI</description>
+			<a10:updated>2017-06-26T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/618260</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/618260</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
 			<title>GASPERINI MICHELE - VIA ORAZIO FLACCO N. 23 - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI.</title>
 			<description>GASPERINI MICHELE - VIA ORAZIO FLACCO N. 23 - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI.</description>
-			<a10:updated>2017-06-23T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/618085</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/618085</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 23 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 08 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">618085</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
-			<title>DISCIPLINA ORARI DELLE ATTIVITA' ACCESSORIE AI PUBBLICI ESERCIZI DI ASCOLTO MUSICA, LOCALI DI INTRATTENIMENTI (SALE DA BALLO E DISCOTECHE), PARCHI GIOCHI, FESTE, SAGRE E GIOSTRE E ATTIVITA' RUMOROSE, COMMERCIO SU AREE PUBBLICHE E STAGIONALITA' STRUTTURE RICETTIVE E PUBBLICI ESERCIZI PER L'ANNO 2017. SOSTITUISCE L'ORDINANZA N. 2064 DEL 29/12/2016.</title>
-			<description>DISCIPLINA ORARI DELLE ATTIVITA' ACCESSORIE AI PUBBLICI ESERCIZI DI ASCOLTO MUSICA, LOCALI DI INTRATTENIMENTI (SALE DA BALLO E DISCOTECHE), PARCHI GIOCHI, FESTE, SAGRE E GIOSTRE E ATTIVITA' RUMOROSE, COMMERCIO SU AREE PUBBLICHE E STAGIONALITA' STRUTTURE RICETTIVE E PUBBLICI ESERCIZI PER L'ANNO 2017. SOSTITUISCE L'ORDINANZA N. 2064 DEL 29/12/2016.</description>
-			<a10:updated>2017-06-23T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/618078</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/618078</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 23 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 08 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">618078</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
-			<title>FIORENTINI SRL - VIA MANZONI N. 24 - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI.</title>
-			<description>FIORENTINI SRL - VIA MANZONI N. 24 - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI.</description>
 			<a10:updated>2017-06-23T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
