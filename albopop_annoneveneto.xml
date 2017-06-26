@@ -5,7 +5,7 @@
 		<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Annone Veneto</description>
 		<language>it</language>
-		<lastBuildDate>Sun, 25 Jun 2017 18:30:52 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 26 Jun 2017 08:30:42 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Annone Veneto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Annone Veneto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_annoneveneto</a10:id>
-		<pubDate>Sun, 25 Jun 2017 18:30:52 +0200</pubDate>
+		<pubDate>Mon, 26 Jun 2017 08:30:42 +0200</pubDate>
 		<docs>http://albopop.it/comune/annoneveneto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3351741</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3351741</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 26 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 10 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3351741</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI AVVISO</category>
+			<title>ISPETTORATO TERRITORIALE DEL LAVORO DI VENEZIA - ESAMI PER CONDUTTORI DI GENERATORI DI VAPORE.</title>
+			<description>ISPETTORATO TERRITORIALE DEL LAVORO DI VENEZIA - ESAMI PER CONDUTTORI DI GENERATORI DI VAPORE.</description>
+			<a10:updated>2017-06-26T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3351514</guid>
 			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3351514</link>
@@ -284,17 +295,6 @@
 			<title>ORDINANZA DEL SINDACO DI ANNONE VENETO N. 11/17 - REGOLAMENTAZIONE DELLA CIRCOLAZIONE MEDIANTE IMPIANTO SEMAFORICO ATTUATO MEDIANTE SPIRE ALL'INTERSEZIONE STRADALE TRA LA S.P. 61 E LE STRADE COMUNALI VIA VECCHIA GIAI E VIA PRACURTE.</title>
 			<description>ORDINANZA DEL SINDACO DI ANNONE VENETO N. 11/17 - REGOLAMENTAZIONE DELLA CIRCOLAZIONE MEDIANTE IMPIANTO SEMAFORICO ATTUATO MEDIANTE SPIRE ALL'INTERSEZIONE STRADALE TRA LA S.P. 61 E LE STRADE COMUNALI VIA VECCHIA GIAI E VIA PRACURTE.</description>
 			<a10:updated>2017-06-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3336715</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3336715</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 17 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 02 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3336715</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>PAGAMENTO DEL CONTRIBUTO A.N.A.C. PER L'INDIZIONE DELLA GARA PER L' "ACQUISIZIONE DI UN IMPIANTO FOTOVOLTAICO"</title>
-			<description>PAGAMENTO DEL CONTRIBUTO A.N.A.C. PER L'INDIZIONE DELLA GARA PER L' "ACQUISIZIONE DI UN IMPIANTO FOTOVOLTAICO"</description>
-			<a10:updated>2017-06-17T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Sun, 25 Jun 2017 18:31:25 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 26 Jun 2017 08:30:55 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Sun, 25 Jun 2017 18:31:25 +0200</pubDate>
+		<pubDate>Mon, 26 Jun 2017 08:30:55 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -97,6 +97,17 @@
 			<title> SVINCOLO POLIZZE FIDEJUSSORIE A SEGUITO AFFIDAMENTO DI GESTIONE SERVIZI DI TUTELA E PROMOZIONE DELLA DONNA: CENTRO ANTIVIOLENZA DEL POLESINE E CASA RIFUGIO DEL CENTRO ANTIVIOLENZA DEL POLESINE. </title>
 			<description> SVINCOLO POLIZZE FIDEJUSSORIE A SEGUITO AFFIDAMENTO DI GESTIONE SERVIZI DI TUTELA E PROMOZIONE DELLA DONNA: CENTRO ANTIVIOLENZA DEL POLESINE E CASA RIFUGIO DEL CENTRO ANTIVIOLENZA DEL POLESINE. </description>
 			<a10:updated>2017-06-23T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2829934</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2829934</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 26 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 27 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2829934</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI ATTI DIVERSI</category>
+			<title>AVVISO DI DEPOSITO ATTI NELLA CASA DEL COMUNE - ELENCO N. EL000040372 DEL 23/06/2017_N. 50 NOMINATIVI VARI</title>
+			<description>AVVISO DI DEPOSITO ATTI NELLA CASA DEL COMUNE - ELENCO N. EL000040372 DEL 23/06/2017_N. 50 NOMINATIVI VARI</description>
+			<a10:updated>2017-06-26T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2829815</guid>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE PUBBLICAZIONI MATRIMONIALI</category>
 			<title>PUBBLICAZIONE DI MATRIMONIO 99</title>
 			<description>PUBBLICAZIONE DI MATRIMONIO 99</description>
-			<a10:updated>2017-06-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2829155</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2829155</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 30 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2829155</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE PUBBLICAZIONI MATRIMONIALI</category>
-			<title>PUBBLICAZIONE DI MATRIMONIO 98</title>
-			<description>PUBBLICAZIONE DI MATRIMONIO 98</description>
 			<a10:updated>2017-06-22T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
