@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 26 Jun 2017 09:30:34 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 26 Jun 2017 10:30:34 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Mon, 26 Jun 2017 09:30:34 +0200</pubDate>
+		<pubDate>Mon, 26 Jun 2017 10:30:34 +0200</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3352122</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3352122</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 26 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 16 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3352122</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI DEPOSITO - ART. 143 C.P.C.</category>
+			<title>MESSO COMUNALE: NOTIFICA N. 437/2017 DEL 26/06/2017 - SCARICATA CONSOLE FRANCESCO</title>
+			<description>MESSO COMUNALE: NOTIFICA N. 437/2017 DEL 26/06/2017 - SCARICATA CONSOLE FRANCESCO</description>
+			<a10:updated>2017-06-26T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3351834</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3351834</link>
@@ -284,17 +295,6 @@
 			<title>ACB BANDO - COMUNE DI POLPENAZZE DEL GARDA - SCADENZA 30/06/2017</title>
 			<description>ACB BANDO - COMUNE DI POLPENAZZE DEL GARDA - SCADENZA 30/06/2017</description>
 			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3343459</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3343459</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 30 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3343459</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
-			<title>MODIFICA TEMPORANEAMENTE DELLA VIABILITÀ ALL'ALTEZZA DELLA ROTATORIA TRA VIA FALCONE, VIA MAZZINI E VIA OLIVELLI. PROROGA.</title>
-			<description>MODIFICA TEMPORANEAMENTE DELLA VIABILITÀ ALL'ALTEZZA DELLA ROTATORIA TRA VIA FALCONE, VIA MAZZINI E VIA OLIVELLI. PROROGA.</description>
-			<a10:updated>2017-06-20T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 26 Jun 2017 09:31:00 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 26 Jun 2017 10:31:09 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Mon, 26 Jun 2017 09:31:00 +0200</pubDate>
+		<pubDate>Mon, 26 Jun 2017 10:31:09 +0200</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2831276</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2831276</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 26 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 04 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2831276</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO PUBBLICAZIONE AVVISO</category>
+			<title>AVVISO DI DEPOSITO DI N.1 ATTO NELLA CASA COMUNALE</title>
+			<description>AVVISO DI DEPOSITO DI N.1 ATTO NELLA CASA COMUNALE</description>
+			<a10:updated>2017-06-26T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2831274</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2831274</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 26 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 17 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2831274</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO PUBBLICAZIONE AVVISO</category>
+			<title>PROPOSTA DI DELIBERAZIONE DEL CONSIGLIO D'AMBITO N. 03 DEL 13.06.2017 - AVVIO DELLA PROCEDURA PER LA NOMINA DEL DIRETTORE GENERALE</title>
+			<description>PROPOSTA DI DELIBERAZIONE DEL CONSIGLIO D'AMBITO N. 03 DEL 13.06.2017 - AVVIO DELLA PROCEDURA PER LA NOMINA DEL DIRETTORE GENERALE</description>
+			<a10:updated>2017-06-26T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2830501</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2830501</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>"IN...CANTO IN PIAZZETTA" - APPROVAZIONE PREVENTIVO SOC. OUVERTURE S.A.S E IMPEGNATIVA DI SPESA MESE DI GIUGNO. CIG.Z0F1EB6E07</title>
 			<description>"IN...CANTO IN PIAZZETTA" - APPROVAZIONE PREVENTIVO SOC. OUVERTURE S.A.S E IMPEGNATIVA DI SPESA MESE DI GIUGNO. CIG.Z0F1EB6E07</description>
-			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2826733</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2826733</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 06 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2826733</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>ORDINANZA INGIUNZIONE</title>
-			<description>ORDINANZA INGIUNZIONE</description>
-			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2826656</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2826656</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 06 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2826656</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>TRASPORTO SALME NEI GIORNI 9.04.2017 E 20.04.2017 - IMPEGNATIVA DI SPESA IN FAVORE DELLA SOC. FUNERAL CAPRI S.R.L. CIG: Z081F0485B</title>
-			<description>TRASPORTO SALME NEI GIORNI 9.04.2017 E 20.04.2017 - IMPEGNATIVA DI SPESA IN FAVORE DELLA SOC. FUNERAL CAPRI S.R.L. CIG: Z081F0485B</description>
 			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

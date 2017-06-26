@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 26 Jun 2017 09:30:40 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 26 Jun 2017 10:30:37 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Mon, 26 Jun 2017 09:30:40 +0200</pubDate>
+		<pubDate>Mon, 26 Jun 2017 10:30:37 +0200</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2831178</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2831178</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 26 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 11 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2831178</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI PERMESSO DI COSTRUIRE</category>
+			<title>PERMESSO DI COSTRUIRE N.99/2016, VIA FRANCESCA, 30/B</title>
+			<description>PERMESSO DI COSTRUIRE N.99/2016, VIA FRANCESCA, 30/B</description>
+			<a10:updated>2017-06-26T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2830668</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2830668</link>
@@ -284,17 +295,6 @@
 			<title>PUBBLICAZIONI ANNO 2017 N. 7 LEGRENZI LUCA TRIONI VERONICA</title>
 			<description>PUBBLICAZIONI ANNO 2017 N. 7 LEGRENZI LUCA TRIONI VERONICA</description>
 			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2824690</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2824690</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 05 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2824690</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>ACCERTAMENTO REQUISITI E ASSEGNAZIONE ALLOGGIO E.R.P. AL NUCLEO FAMILIARE DEL SIGNOR H. E. B..</title>
-			<description>ACCERTAMENTO REQUISITI E ASSEGNAZIONE ALLOGGIO E.R.P. AL NUCLEO FAMILIARE DEL SIGNOR H. E. B..</description>
-			<a10:updated>2017-06-20T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
