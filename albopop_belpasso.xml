@@ -5,7 +5,7 @@
 		<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Belpasso</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 26 Jun 2017 11:30:42 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 26 Jun 2017 12:30:46 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Belpasso</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Belpasso</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_belpasso</a10:id>
-		<pubDate>Mon, 26 Jun 2017 11:30:42 +0200</pubDate>
+		<pubDate>Mon, 26 Jun 2017 12:30:46 +0200</pubDate>
 		<docs>http://albopop.it/comune/belpasso/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3352576</guid>
+			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3352576</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 26 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 04 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3352576</category>
+			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>PUBBLICAZIONE DI MATRIMONIO - VERBALE N.63</title>
+			<description>PUBBLICAZIONE DI MATRIMONIO - VERBALE N.63</description>
+			<a10:updated>2017-06-26T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3351847</guid>
 			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3351847</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO PER IRREPERIBILITA'</category>
 			<title>AVVISO DI LIQUIDAZIONE DELL'IMPOSTA - IRROGAZIONE DI SANZIONE N.10/3/000609/000/001/2012/009 A CARICO DI BUCCHIERI CHIARA</title>
 			<description>AVVISO DI LIQUIDAZIONE DELL'IMPOSTA - IRROGAZIONE DI SANZIONE N.10/3/000609/000/001/2012/009 A CARICO DI BUCCHIERI CHIARA</description>
-			<a10:updated>2017-06-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3347122</guid>
-			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3347122</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 30 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3347122</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO PER IRREPERIBILITA'</category>
-			<title>ATTO DI ACCERTAMENO N.114016616 A CARICO DI MAUGERI ANTONINO </title>
-			<description>ATTO DI ACCERTAMENO N.114016616 A CARICO DI MAUGERI ANTONINO </description>
 			<a10:updated>2017-06-22T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
