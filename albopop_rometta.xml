@@ -5,7 +5,7 @@
 		<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rometta</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 27 Jun 2017 13:30:56 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 27 Jun 2017 14:30:59 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rometta</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Messina</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rometta</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rometta</a10:id>
-		<pubDate>Tue, 27 Jun 2017 13:30:56 +0200</pubDate>
+		<pubDate>Tue, 27 Jun 2017 14:30:59 +0200</pubDate>
 		<docs>http://albopop.it/comune/rometta/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3356071</guid>
+			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3356071</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 27 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 12 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3356071</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DECRETO</category>
+			<title>PALIO DI ERIMATA EDIZIONE 2017. NOMINA DEI COMPONENTI DELLA GIURIA</title>
+			<description>PALIO DI ERIMATA EDIZIONE 2017. NOMINA DEI COMPONENTI DELLA GIURIA</description>
+			<a10:updated>2017-06-27T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3355955</guid>
+			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3355955</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 27 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 12 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3355955</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
+			<title>DIVIETO DI TRANSITO VEICOLARE NELLA VIA PADRE DAVIDE DAL 3/07/2017 AL 28/07/2017</title>
+			<description>DIVIETO DI TRANSITO VEICOLARE NELLA VIA PADRE DAVIDE DAL 3/07/2017 AL 28/07/2017</description>
+			<a10:updated>2017-06-27T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3355953</guid>
+			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3355953</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 27 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 12 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3355953</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
+			<title>DIVIETO DI TRANSITO E SOSTA NELLA GIORNATA DEL 1 LUGLIO 2017 -- PIAZZA GARIBALDI E VIA UMBERTO I NEL TRATTO CHE VA DALL'INCROCIO CON VIA GIURBA ALL'INCROCIO CON VIA ARDIZZONE</title>
+			<description>DIVIETO DI TRANSITO E SOSTA NELLA GIORNATA DEL 1 LUGLIO 2017 -- PIAZZA GARIBALDI E VIA UMBERTO I NEL TRATTO CHE VA DALL'INCROCIO CON VIA GIURBA ALL'INCROCIO CON VIA ARDIZZONE</description>
+			<a10:updated>2017-06-27T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3354118</guid>
 			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3354118</link>
@@ -262,39 +295,6 @@
 			<title>FORNITURA MATERIALE DI CONSUMO E FERRAMENTA PER RISTRUTTURAZIONE INFISSI MUNICIPIO - DETERMINA A CONTRATTARE/IMPEGNO SPESA - CIG:ZB91F119D7</title>
 			<description>FORNITURA MATERIALE DI CONSUMO E FERRAMENTA PER RISTRUTTURAZIONE INFISSI MUNICIPIO - DETERMINA A CONTRATTARE/IMPEGNO SPESA - CIG:ZB91F119D7</description>
 			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3344427</guid>
-			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3344427</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 29 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3344427</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI DEPOSITO ATTI IRREPERIBILITA'</category>
-			<title>ELENCO IRR. N. 5 DEL 21/06/17 - AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE DI ROMETTA</title>
-			<description>ELENCO IRR. N. 5 DEL 21/06/17 - AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE DI ROMETTA</description>
-			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3344266</guid>
-			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3344266</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 26 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 11 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3344266</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO PUBBLICO</category>
-			<title>ARESS FABIOLA ONLUS - SERVIZIO CIVILE - PROGETTO "CUORI DI SICILIA".</title>
-			<description>ARESS FABIOLA ONLUS - SERVIZIO CIVILE - PROGETTO "CUORI DI SICILIA".</description>
-			<a10:updated>2017-06-26T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3342834</guid>
-			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3342834</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 05 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3342834</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>AFFIDAMENTO BIENNALE DEL SERVIZIO DI MANUTENZIONE E PRONTO INTERVENTO DELL’ASCENSORE INSTALLATO NEL PLESSO SCOLASTICO DI VIA GIURBA - LIQUIDAZIONE CANONE DAL 01/04/17 AL 30/06/2017 - DITTA THYSSENKRUPP ELEVATOR SPA.</title>
-			<description>AFFIDAMENTO BIENNALE DEL SERVIZIO DI MANUTENZIONE E PRONTO INTERVENTO DELL’ASCENSORE INSTALLATO NEL PLESSO SCOLASTICO DI VIA GIURBA - LIQUIDAZIONE CANONE DAL 01/04/17 AL 30/06/2017 - DITTA THYSSENKRUPP ELEVATOR SPA.</description>
-			<a10:updated>2017-06-20T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
