@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 26 Jun 2017 18:30:32 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 27 Jun 2017 08:30:37 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Mon, 26 Jun 2017 18:30:32 +0200</pubDate>
+		<pubDate>Tue, 27 Jun 2017 08:30:37 +0200</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -97,6 +97,17 @@
 			<title>XXIII° EDIZIONE "24 ORE DI COSTORIO"</title>
 			<description>XXIII° EDIZIONE "24 ORE DI COSTORIO"</description>
 			<a10:updated>2017-06-23T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3349089</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3349089</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 27 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 04 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3349089</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
+			<title>ISTITUZIONE TEMPORANEA RESTRINGIMENTO DI VIA MARENZIO, DAL CIV. 14 ALL'INTERSEZIONE CON VIA CAPITANIO.</title>
+			<description>ISTITUZIONE TEMPORANEA RESTRINGIMENTO DI VIA MARENZIO, DAL CIV. 14 ALL'INTERSEZIONE CON VIA CAPITANIO.</description>
+			<a10:updated>2017-06-27T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3348239</guid>
@@ -280,17 +291,6 @@
 			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Jun 2017 02:00:00 +0200</category>
 			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 21 Jul 2017 02:00:00 +0200</category>
 			<category domain="http://albopop.it/specs#item-category-uid">3343702</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI AVVISO</category>
-			<title>POSTA CERTIFICATA: ACB INVIO MULTIPLO DI BANDI </title>
-			<description>POSTA CERTIFICATA: ACB INVIO MULTIPLO DI BANDI </description>
-			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3343666</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3343666</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 06 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3343666</category>
 			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI AVVISO</category>
 			<title>POSTA CERTIFICATA: ACB INVIO MULTIPLO DI BANDI </title>
 			<description>POSTA CERTIFICATA: ACB INVIO MULTIPLO DI BANDI </description>
