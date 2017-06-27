@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 27 Jun 2017 14:30:58 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 27 Jun 2017 15:30:54 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Tue, 27 Jun 2017 14:30:58 +0200</pubDate>
+		<pubDate>Tue, 27 Jun 2017 15:30:54 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3356251</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3356251</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 27 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 12 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3356251</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>PROROGA ORDINANZA N. 1081 DEL 20/6/2017 - VIALE GIUSEPPE GIUSTI E VIA MONTEGRAPPA, FRAZIONE S.CONCORDIO IN C/A, MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE STRADALE ED ALLA SOSTA,DAL GIORNO 3/7/2017 AL GIORNO 7/7/2017 DALLE ORE 8:00 ALLE ORE 17:00.</title>
+			<description>PROROGA ORDINANZA N. 1081 DEL 20/6/2017 - VIALE GIUSEPPE GIUSTI E VIA MONTEGRAPPA, FRAZIONE S.CONCORDIO IN C/A, MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE STRADALE ED ALLA SOSTA,DAL GIORNO 3/7/2017 AL GIORNO 7/7/2017 DALLE ORE 8:00 ALLE ORE 17:00.</description>
+			<a10:updated>2017-06-27T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3356100</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3356100</link>
@@ -284,17 +295,6 @@
 			<title>PROGETTO “LE MURA PER TUTTI” - APPROVAZIONE DELLA CONVENZIONE TRA L’AMMINISTRAZIONE COMUNALE, LA FONDAZIONE BANCA DEL MONTE E GLI ENTI SITUATI LUNGO L'ANELLO DELLE MURA URBANE PER L'UTILIZZO DELLO "SMART- CANE".</title>
 			<description>PROGETTO “LE MURA PER TUTTI” - APPROVAZIONE DELLA CONVENZIONE TRA L’AMMINISTRAZIONE COMUNALE, LA FONDAZIONE BANCA DEL MONTE E GLI ENTI SITUATI LUNGO L'ANELLO DELLE MURA URBANE PER L'UTILIZZO DELLO "SMART- CANE".</description>
 			<a10:updated>2017-06-24T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3351228</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3351228</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 23 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 08 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3351228</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>TUTELA LEGALE DIPENDENTE COMUNALE NEL PROCEDIMENTO PENALE N. 615/2017 RGNR.</title>
-			<description>TUTELA LEGALE DIPENDENTE COMUNALE NEL PROCEDIMENTO PENALE N. 615/2017 RGNR.</description>
-			<a10:updated>2017-06-23T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
