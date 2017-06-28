@@ -5,7 +5,7 @@
 		<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/igrid/1210528</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Celle di Bulgheria</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 28 Jun 2017 14:30:33 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 28 Jun 2017 15:30:32 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Celle di Bulgheria</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Salerno</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Celle di Bulgheria</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_celledibulgheria</a10:id>
-		<pubDate>Wed, 28 Jun 2017 14:30:33 +0200</pubDate>
+		<pubDate>Wed, 28 Jun 2017 15:30:32 +0200</pubDate>
 		<docs>http://albopop.it/comune/celledibulgheria/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2851055</guid>
+			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2851055</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 28 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 13 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2851055</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
+			<title>LIQUIDAZIONE DI SPESA ALLA DITTA F.G. CORPORATION SRLS INTERVENTI DI REVISIONE ESTINTORI PLESSI SCOLASTICI ED INFRASTRUTTURE COMUNALI CIG ZC31DB898E</title>
+			<description>LIQUIDAZIONE DI SPESA ALLA DITTA F.G. CORPORATION SRLS INTERVENTI DI REVISIONE ESTINTORI PLESSI SCOLASTICI ED INFRASTRUTTURE COMUNALI CIG ZC31DB898E</description>
+			<a10:updated>2017-06-28T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2849665</guid>
 			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2849665</link>
@@ -229,17 +240,6 @@
 			<title>LIQUIDAZIONE DI SPESA SERVIZI ASSICURATIVI. RINNOVO POLIZZE ASSICURATIVE FIAT PUNTO EVO E ISUZU CIG. Z4B1EBC0DF </title>
 			<description>LIQUIDAZIONE DI SPESA SERVIZI ASSICURATIVI. RINNOVO POLIZZE ASSICURATIVE FIAT PUNTO EVO E ISUZU CIG. Z4B1EBC0DF </description>
 			<a10:updated>2017-06-26T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2830543</guid>
-			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2830543</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 23 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 08 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2830543</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>OGGETTO: IMPEGNO DI SPESA PER ACQUISTO MODULISTICA ON LINE. CIG ZDB1EC9E0D </title>
-			<description>OGGETTO: IMPEGNO DI SPESA PER ACQUISTO MODULISTICA ON LINE. CIG ZDB1EC9E0D </description>
-			<a10:updated>2017-06-23T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
