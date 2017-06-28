@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 28 Jun 2017 11:30:37 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 28 Jun 2017 12:30:39 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Wed, 28 Jun 2017 11:30:37 +0200</pubDate>
+		<pubDate>Wed, 28 Jun 2017 12:30:39 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630437</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630437</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 28 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 13 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">630437</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
+			<title>INTITOLAZIONE GIARDINO INTERNO DI PALAZZO RICCI A RIZ ORTOLANI.</title>
+			<description>INTITOLAZIONE GIARDINO INTERNO DI PALAZZO RICCI A RIZ ORTOLANI.</description>
+			<a10:updated>2017-06-28T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630432</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630432</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 28 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 18 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">630432</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO ATTI E AVVISI DIVERSI</category>
+			<title>A RICHIESTA DELLA POLIZIA STRADALE SEZIONE DI PESARO AVVISO DI DEPOSITO VERBALE CDS VEICOLO TARGA AS258WX</title>
+			<description>A RICHIESTA DELLA POLIZIA STRADALE SEZIONE DI PESARO AVVISO DI DEPOSITO VERBALE CDS VEICOLO TARGA AS258WX</description>
+			<a10:updated>2017-06-28T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630431</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630431</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 28 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 13 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">630431</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO ATTI E AVVISI DIVERSI</category>
+			<title>DELEGA COMPETENZE AL RESPONSABILE DELL'UNITÀ ORGANIZZATIVA "AMBIENTE"</title>
+			<description>DELEGA COMPETENZE AL RESPONSABILE DELL'UNITÀ ORGANIZZATIVA "AMBIENTE"</description>
+			<a10:updated>2017-06-28T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630427</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630427</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISI BANDI DI LAVORI</category>
 			<title>LAVORI DI REALIZZAZIONE DI DUE ROTATORIE IN VIA GOITO IN CORRISPONDENZA DI VIA SOLFERINO E VIA NANTERRE. AVVISO AI CREDITORI ART.218 DPR 207/2010</title>
 			<description>LAVORI DI REALIZZAZIONE DI DUE ROTATORIE IN VIA GOITO IN CORRISPONDENZA DI VIA SOLFERINO E VIA NANTERRE. AVVISO AI CREDITORI ART.218 DPR 207/2010</description>
-			<a10:updated>2017-06-27T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/618621</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/618621</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 27 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 12 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">618621</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>LAVORI DI SISTEMZIONE CUOLA MEDIA MANZONI - APPROVAZIONE CERTIFICATO DI REGOLARE ESECUZIONE</title>
-			<description>LAVORI DI SISTEMZIONE CUOLA MEDIA MANZONI - APPROVAZIONE CERTIFICATO DI REGOLARE ESECUZIONE</description>
-			<a10:updated>2017-06-27T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/618618</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/618618</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 27 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 12 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">618618</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>LAVORI DI MANUTENZIONE UFFICI PRESSO SPORTELLO INFORMA SERVIZI. AFFIDAMENTO ALLA DITTA. ASSUNZIONE IMPEGNO DI SPESA.</title>
-			<description>LAVORI DI MANUTENZIONE UFFICI PRESSO SPORTELLO INFORMA SERVIZI. AFFIDAMENTO ALLA DITTA. ASSUNZIONE IMPEGNO DI SPESA.</description>
-			<a10:updated>2017-06-27T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/618615</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/618615</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 27 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 12 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">618615</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>GESTIONE IMPINTI MECCANCI DI PROPRIETA' ED IN GESTIONE DEL COMUNE DI PESARO - LAVORI DI RIQUALIFICAZIONE IMPIANTISTICA - APPROVAZIONE CERTIFICATO DI REGOLARE ESECUZIONE</title>
-			<description>GESTIONE IMPINTI MECCANCI DI PROPRIETA' ED IN GESTIONE DEL COMUNE DI PESARO - LAVORI DI RIQUALIFICAZIONE IMPIANTISTICA - APPROVAZIONE CERTIFICATO DI REGOLARE ESECUZIONE</description>
 			<a10:updated>2017-06-27T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
