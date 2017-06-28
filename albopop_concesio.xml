@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 28 Jun 2017 08:30:41 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 28 Jun 2017 09:30:58 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,55 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Wed, 28 Jun 2017 08:30:41 +0200</pubDate>
+		<pubDate>Wed, 28 Jun 2017 09:30:58 +0200</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3363417</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3363417</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 28 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 14 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3363417</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI AVVISO</category>
+			<title>ACB BANDI SCADENZA 10/07/2017</title>
+			<description>ACB BANDI SCADENZA 10/07/2017</description>
+			<a10:updated>2017-06-28T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3363416</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3363416</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 28 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 10 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3363416</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI AVVISO</category>
+			<title>ACB BANDI SCADENZA 10/07/2017</title>
+			<description>ACB BANDI SCADENZA 10/07/2017</description>
+			<a10:updated>2017-06-28T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3363334</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3363334</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 28 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 28 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3363334</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DECRETO</category>
+			<title>RICHIESTA PUBBLICAZIONE RELATIVI AD ISTANZA CAMBIO COGNOME DEL MINORE PRANDINI GIULIANO </title>
+			<description>RICHIESTA PUBBLICAZIONE RELATIVI AD ISTANZA CAMBIO COGNOME DEL MINORE PRANDINI GIULIANO </description>
+			<a10:updated>2017-06-28T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3363332</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3363332</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 28 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 28 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3363332</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DECRETO</category>
+			<title>RICHIESTA PUBBLICAZIONE RELATIVI AD ISTANZA CAMBIO COGNOME DELLA MINORE OPIZZI ANNA </title>
+			<description>RICHIESTA PUBBLICAZIONE RELATIVI AD ISTANZA CAMBIO COGNOME DELLA MINORE OPIZZI ANNA </description>
+			<a10:updated>2017-06-28T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3354982</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3354982</link>
@@ -250,50 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>ASSUNZIONE IMPEGNO DI SPESA A FAVORE DELLE DITTE SPECIALIZZATE PER IL SERVIZIO DI SGOMBERO NEVE ANNO 2017 ( CIG ZC31F077D1 - Z321F077F4)</title>
 			<description>ASSUNZIONE IMPEGNO DI SPESA A FAVORE DELLE DITTE SPECIALIZZATE PER IL SERVIZIO DI SGOMBERO NEVE ANNO 2017 ( CIG ZC31F077D1 - Z321F077F4)</description>
-			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3344972</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3344972</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 06 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3344972</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>DETERMINAZIONE A CONTRATTARE MEDIANTE PROCEDURA SUL MERCATO ELETTRONICO DELLA PUBBLICA AMMINISTRAZIONE (ARCA SINTEL) PER L'AFFIDAMENTO DEL SERVIZIO DI RINNOVO DEGLI ABBONAMENTI AI QUOTIDIANI IN DOTAZIONE ALLA BIBLIOTECA COMUNALE PER L'ANNO 2017/2018. CIG[ZBE1F11C2B].</title>
-			<description>DETERMINAZIONE A CONTRATTARE MEDIANTE PROCEDURA SUL MERCATO ELETTRONICO DELLA PUBBLICA AMMINISTRAZIONE (ARCA SINTEL) PER L'AFFIDAMENTO DEL SERVIZIO DI RINNOVO DEGLI ABBONAMENTI AI QUOTIDIANI IN DOTAZIONE ALLA BIBLIOTECA COMUNALE PER L'ANNO 2017/2018. CIG[ZBE1F11C2B].</description>
-			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3344970</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3344970</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 06 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3344970</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>ASSUNZIONE IMPEGNO DI SPESA A FAVORE DELLA DITTA PAXFILM PER LA PROIEZIONE DEL FILM "OCEANIA"</title>
-			<description>ASSUNZIONE IMPEGNO DI SPESA A FAVORE DELLA DITTA PAXFILM PER LA PROIEZIONE DEL FILM "OCEANIA"</description>
-			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3343921</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3343921</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 06 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3343921</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI RILASCIO PERMESSO DI COSTRUIRE</category>
-			<title>RILASCIO PERMESSO DI COSTRUIREN. 70.2017 DI SPERANZA GIANFRANCO PER OPERE DI RISTRUTTURAZIONE EDILIZIA - RIFACIMENTO COPERTURA PORZIONE DI FABBRICATO AD USO RESIDENZIALE</title>
-			<description>RILASCIO PERMESSO DI COSTRUIREN. 70.2017 DI SPERANZA GIANFRANCO PER OPERE DI RISTRUTTURAZIONE EDILIZIA - RIFACIMENTO COPERTURA PORZIONE DI FABBRICATO AD USO RESIDENZIALE</description>
-			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3343703</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3343703</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 18 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3343703</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI AVVISO</category>
-			<title>POSTA CERTIFICATA: ACB INVIO MULTIPLO DI BANDI </title>
-			<description>POSTA CERTIFICATA: ACB INVIO MULTIPLO DI BANDI </description>
 			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
