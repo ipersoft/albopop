@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 27 Jun 2017 18:31:57 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 28 Jun 2017 08:31:21 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Tue, 27 Jun 2017 18:31:57 +0200</pubDate>
+		<pubDate>Wed, 28 Jun 2017 08:31:21 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2849561</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2849561</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 28 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 13 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2849561</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>ACCERTAMENTO IN ENTRATA E IMPEGNO DI SPESA IN PARTE CORRENTE AI FINI DELLA LIQUIDAZIONE INCENTIVI AI SENSI DELL’ART.92 C.5 DEL D.LGS.163/2006 PER ATTIVITÀ TECNICHE DI PROGETTAZIONE, DIREZIONE LAVORI, COLLAUDO E PRATICHE AMMINISTRATIVE, ESEGUITE DA PERSONALE DEL SETTORE LL.PP. - SEZIONE SUOLO E SEZ. AMMINISTRATIVA</title>
+			<description>ACCERTAMENTO IN ENTRATA E IMPEGNO DI SPESA IN PARTE CORRENTE AI FINI DELLA LIQUIDAZIONE INCENTIVI AI SENSI DELL’ART.92 C.5 DEL D.LGS.163/2006 PER ATTIVITÀ TECNICHE DI PROGETTAZIONE, DIREZIONE LAVORI, COLLAUDO E PRATICHE AMMINISTRATIVE, ESEGUITE DA PERSONALE DEL SETTORE LL.PP. - SEZIONE SUOLO E SEZ. AMMINISTRATIVA</description>
+			<a10:updated>2017-06-28T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2849479</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2849479</link>
@@ -198,6 +209,17 @@
 			<a10:updated>2017-06-27T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2849020</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2849020</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 28 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 29 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2849020</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI ATTI DIVERSI</category>
+			<title>AVVISO DI DEPOSITO ATTI NELLA CASA DEL COMUNE - ELENCO N.EL000042417 DEL 27/06/2017_ N. 50 NOMINATIVI VARI</title>
+			<description>AVVISO DI DEPOSITO ATTI NELLA CASA DEL COMUNE - ELENCO N.EL000042417 DEL 27/06/2017_ N. 50 NOMINATIVI VARI</description>
+			<a10:updated>2017-06-28T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2848954</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2848954</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 27 Jun 2017 02:00:00 +0200</category>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>LIQUIDAZIONE IN FAVORE DI AS2 S.R.L. PER NOLEGGIO AUTOVELOX. MESE DI APRILE 2017</title>
 			<description>LIQUIDAZIONE IN FAVORE DI AS2 S.R.L. PER NOLEGGIO AUTOVELOX. MESE DI APRILE 2017</description>
-			<a10:updated>2017-06-27T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2848652</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2848652</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 27 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 12 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2848652</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>IMPEGNO SPESA ED AFFIDAMENTO DEL SERVIZIO DI GESTIONE CENTRO SERVIZI MIGRANDO - CORSI DI FORMAZIONE FINALIZZATI ALL'INSERIMENTO NEL MONDO DEL LAVORO. SMART CIG: ZDD1E5CA6A.</title>
-			<description>IMPEGNO SPESA ED AFFIDAMENTO DEL SERVIZIO DI GESTIONE CENTRO SERVIZI MIGRANDO - CORSI DI FORMAZIONE FINALIZZATI ALL'INSERIMENTO NEL MONDO DEL LAVORO. SMART CIG: ZDD1E5CA6A.</description>
-			<a10:updated>2017-06-27T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2848651</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2848651</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 27 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 12 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2848651</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE PERMESSI DI COSTRUIRE</category>
-			<title>PERMESSO DI COSTRUIRE N. 54 DEL 27/06/2017 - UT 129/2017, PER COSTRUZIONE FABBRICATO UNIFAMILIARE A DESTINAZIONE RESIDENZIALE IN VIA O. MUNERATI - ROVIGO</title>
-			<description>PERMESSO DI COSTRUIRE N. 54 DEL 27/06/2017 - UT 129/2017, PER COSTRUZIONE FABBRICATO UNIFAMILIARE A DESTINAZIONE RESIDENZIALE IN VIA O. MUNERATI - ROVIGO</description>
 			<a10:updated>2017-06-27T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
