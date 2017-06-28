@@ -5,7 +5,7 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 28 Jun 2017 09:32:15 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 28 Jun 2017 10:30:58 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Isernia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>Wed, 28 Jun 2017 09:32:15 +0200</pubDate>
+		<pubDate>Wed, 28 Jun 2017 10:30:58 +0200</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3363733</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3363733</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 28 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 13 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3363733</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
+			<title>Liquidazione della seconda rata della fornitura del manufatto “graticcio” sul palcoscenico dell’Auditorium Unità d’Italia alla Ditta Technoservice, di Via Abate Aligerno n. 83 – 03043 Cassino (FR) , P. IVA 02832780601.</title>
+			<description>Liquidazione della seconda rata della fornitura del manufatto “graticcio” sul palcoscenico dell’Auditorium Unità d’Italia alla Ditta Technoservice, di Via Abate Aligerno n. 83 – 03043 Cassino (FR) , P. IVA 02832780601.</description>
+			<a10:updated>2017-06-28T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3363432</guid>
 			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3363432</link>
@@ -284,17 +295,6 @@
 			<title>RICHIESTA PUBBLICAZIONE ORDINANZA N.72 DEL 22.06.2017</title>
 			<description>RICHIESTA PUBBLICAZIONE ORDINANZA N.72 DEL 22.06.2017</description>
 			<a10:updated>2017-06-23T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3348825</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3348825</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 07 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3348825</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZE</category>
-			<title>MISURE DI SICUREZZA E PREVENZIONE -DIVIETO TEMPORANEO VENDITA BIBITE IN CONTENITORI DI VETRO O LATTA DURANTE LA FIERA DELLE CIPOLLE 2017.</title>
-			<description>MISURE DI SICUREZZA E PREVENZIONE -DIVIETO TEMPORANEO VENDITA BIBITE IN CONTENITORI DI VETRO O LATTA DURANTE LA FIERA DELLE CIPOLLE 2017.</description>
-			<a10:updated>2017-06-22T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>

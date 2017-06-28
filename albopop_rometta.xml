@@ -5,7 +5,7 @@
 		<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rometta</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 28 Jun 2017 09:31:32 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 28 Jun 2017 10:30:56 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rometta</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Messina</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rometta</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rometta</a10:id>
-		<pubDate>Wed, 28 Jun 2017 09:31:32 +0200</pubDate>
+		<pubDate>Wed, 28 Jun 2017 10:30:56 +0200</pubDate>
 		<docs>http://albopop.it/comune/rometta/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3363538</guid>
+			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3363538</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 28 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 13 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3363538</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
+			<title>PROROGA TECNICA SERVIZIO DI TESORERIA COMUNALE - BANCA UNICREDIT S.P.A. -DAL 01/07/2017 AL 31/12/2017 - </title>
+			<description>PROROGA TECNICA SERVIZIO DI TESORERIA COMUNALE - BANCA UNICREDIT S.P.A. -DAL 01/07/2017 AL 31/12/2017 - </description>
+			<a10:updated>2017-06-28T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3356071</guid>
 			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3356071</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO PUBBLICO</category>
 			<title>LAVORI DI RISTRUTTURAZIONE DELLA VILLA COMUNALE IN ROMETTA MAREA - AVVISO CREDITORI</title>
 			<description>LAVORI DI RISTRUTTURAZIONE DELLA VILLA COMUNALE IN ROMETTA MAREA - AVVISO CREDITORI</description>
-			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3345055</guid>
-			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3345055</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 06 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3345055</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>FORNITURA MATERIALE DI CONSUMO E FERRAMENTA PER RISTRUTTURAZIONE INFISSI MUNICIPIO - DETERMINA A CONTRATTARE/IMPEGNO SPESA - CIG:ZB91F119D7</title>
-			<description>FORNITURA MATERIALE DI CONSUMO E FERRAMENTA PER RISTRUTTURAZIONE INFISSI MUNICIPIO - DETERMINA A CONTRATTARE/IMPEGNO SPESA - CIG:ZB91F119D7</description>
 			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
