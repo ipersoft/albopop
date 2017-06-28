@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 28 Jun 2017 16:30:40 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 28 Jun 2017 17:30:37 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Wed, 28 Jun 2017 16:30:40 +0200</pubDate>
+		<pubDate>Wed, 28 Jun 2017 17:30:37 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630553</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630553</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 28 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 28 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">630553</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO SELEZIONI CONCORSI - ALBO</category>
+			<title>VERBALE N. 2 -SELEZIONE PUBBLICA PER ASSUNZIONE A TEMPO INDETERMINATO DI N. 2 GEOMETRI</title>
+			<description>VERBALE N. 2 -SELEZIONE PUBBLICA PER ASSUNZIONE A TEMPO INDETERMINATO DI N. 2 GEOMETRI</description>
+			<a10:updated>2017-06-28T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630551</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630551</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 28 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 28 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">630551</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO SELEZIONI CONCORSI - ALBO</category>
+			<title>VERBALE N. 1 -SELEZIONE PUBBLICA PER ASSUNZIONE A TEMPO INDETERMINATO E PIENO DI N. 2 GEOMETRI</title>
+			<description>VERBALE N. 1 -SELEZIONE PUBBLICA PER ASSUNZIONE A TEMPO INDETERMINATO E PIENO DI N. 2 GEOMETRI</description>
+			<a10:updated>2017-06-28T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630549</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630549</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 28 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 18 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">630549</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISI BANDI DI LAVORI</category>
+			<title>TORNATA DI GARE DI PROCEDURA APERTA. MANUTENZIONE STRAORDINARIA STRADE 2017.</title>
+			<description>TORNATA DI GARE DI PROCEDURA APERTA. MANUTENZIONE STRAORDINARIA STRADE 2017.</description>
+			<a10:updated>2017-06-28T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630502</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630502</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>D.G.R. N. 293/2016 - TIROCINI FINALIZZATI ALL’INCLUSIONE SOCIALE A FAVORE DI PERSONE CON DISABILITA’ IN CARICO AI SERVIZI SPECIALISTICI ASUR AREA VASTA 1- AFFIDAMENTO DEL SERVIZIO PER LO SVOLGIMENTO DELLE AZIONI IN CAPO AL SOGGETTO PROMOTORE- MEDIANTE PROCEDURA NEGOZIATA AI SENSI DEGLI ART. 36, COMMA 2, LETTERA “A” DEL D.LGS. N.50/2016 , CIG. Z261EAC4B9- AGGIUDICAZIONE DEFINITIVA.</title>
 			<description>D.G.R. N. 293/2016 - TIROCINI FINALIZZATI ALL’INCLUSIONE SOCIALE A FAVORE DI PERSONE CON DISABILITA’ IN CARICO AI SERVIZI SPECIALISTICI ASUR AREA VASTA 1- AFFIDAMENTO DEL SERVIZIO PER LO SVOLGIMENTO DELLE AZIONI IN CAPO AL SOGGETTO PROMOTORE- MEDIANTE PROCEDURA NEGOZIATA AI SENSI DEGLI ART. 36, COMMA 2, LETTERA “A” DEL D.LGS. N.50/2016 , CIG. Z261EAC4B9- AGGIUDICAZIONE DEFINITIVA.</description>
-			<a10:updated>2017-06-28T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630368</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630368</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 28 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 13 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">630368</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>REALIZZAZIONE DI UN NUOVO PERCORSO PEDONALE ALL'INTERNO DELL'AREA VERDE SITA A BORGO SANTA MARIA IN STRADA DEL FOGLIA. AFFIDAMENTO LAVORI ED ASSUNZIONE IMPEGNO DI SPESA</title>
-			<description>REALIZZAZIONE DI UN NUOVO PERCORSO PEDONALE ALL'INTERNO DELL'AREA VERDE SITA A BORGO SANTA MARIA IN STRADA DEL FOGLIA. AFFIDAMENTO LAVORI ED ASSUNZIONE IMPEGNO DI SPESA</description>
-			<a10:updated>2017-06-28T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630359</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630359</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 28 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 13 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">630359</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>ASPES SPA - GESTIONE DEL SERVIZIO DI RISCOSSIONE COATTIVA DELLE ENTRATE PATRIMONIALI E TRIBUTARIE. ASSUNZIONE IMPEGNO DI SPESA ANNO 2017</title>
-			<description>ASPES SPA - GESTIONE DEL SERVIZIO DI RISCOSSIONE COATTIVA DELLE ENTRATE PATRIMONIALI E TRIBUTARIE. ASSUNZIONE IMPEGNO DI SPESA ANNO 2017</description>
-			<a10:updated>2017-06-28T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630357</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630357</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 28 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 29 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">630357</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALBO PUBBLICAZIONI RICHIESTE DA SOGGETTI ESTERNI</category>
-			<title>AVVISO DI DEPOSITO - ART. 26 DPR 602/73, ART. 60 DPR 600/73, ART. 140 CPC - IRREPERIBILI - ELENCHI N. 96, 97, 98, 99, 100, 101</title>
-			<description>AVVISO DI DEPOSITO - ART. 26 DPR 602/73, ART. 60 DPR 600/73, ART. 140 CPC - IRREPERIBILI - ELENCHI N. 96, 97, 98, 99, 100, 101</description>
 			<a10:updated>2017-06-28T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
