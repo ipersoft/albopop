@@ -5,7 +5,7 @@
 		<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bernareggio</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 29 Jun 2017 09:30:49 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 29 Jun 2017 10:30:47 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bernareggio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bernareggio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bernareggio</a10:id>
-		<pubDate>Thu, 29 Jun 2017 09:30:49 +0200</pubDate>
+		<pubDate>Thu, 29 Jun 2017 10:30:47 +0200</pubDate>
 		<docs>http://albopop.it/comune/bernareggio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3365870</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3365870</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 29 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 31 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3365870</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI BANDO DI CONCORSO</category>
+			<title>POSTA CERTIFICATA: AVVISO DI MOBILITÀ VOLONTARIA AI SENSI DELL'ART. 30 DEL D.LGS. N. 165/2001 PER LA COPERTURA DI N. 1 POSTO ISTRUTTORE DIRETTIVO TECNICO CAT D SETTORE SERVIZI ALLE PERSONE</title>
+			<description>POSTA CERTIFICATA: AVVISO DI MOBILITÀ VOLONTARIA AI SENSI DELL'ART. 30 DEL D.LGS. N. 165/2001 PER LA COPERTURA DI N. 1 POSTO ISTRUTTORE DIRETTIVO TECNICO CAT D SETTORE SERVIZI ALLE PERSONE</description>
+			<a10:updated>2017-06-29T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3365208</guid>
 			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3365208</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>DETERMINAZIONE DEL CORRISPETTIVO ECONOMICO DI TRASFORMAZIONE DEL DIRITTO DI SUPERFICIE IN DIRITTO DI PROPRIETA’ RELATIVO ALL’IMMOBILE SITO IN BERNAREGGIO VIA XX SETTEMBRE 22, IDENTIFICATO CATASTALMENTE AL FG.18 MAPP. 630 SUB 5 (ALLOGGIO E CANTINA) SUB 24 (BOX/POSTO AUTO) </title>
 			<description>DETERMINAZIONE DEL CORRISPETTIVO ECONOMICO DI TRASFORMAZIONE DEL DIRITTO DI SUPERFICIE IN DIRITTO DI PROPRIETA’ RELATIVO ALL’IMMOBILE SITO IN BERNAREGGIO VIA XX SETTEMBRE 22, IDENTIFICATO CATASTALMENTE AL FG.18 MAPP. 630 SUB 5 (ALLOGGIO E CANTINA) SUB 24 (BOX/POSTO AUTO) </description>
-			<a10:updated>2017-06-26T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3352336</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3352336</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 26 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 11 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3352336</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>CIG: ZC61EFF152 - FORNITURA FIREWALL FORTIGATE-60B USATO MEDIANTE AFFIDAMENTO DIRETTO</title>
-			<description>CIG: ZC61EFF152 - FORNITURA FIREWALL FORTIGATE-60B USATO MEDIANTE AFFIDAMENTO DIRETTO</description>
 			<a10:updated>2017-06-26T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

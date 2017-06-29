@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 29 Jun 2017 09:31:02 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 29 Jun 2017 10:30:59 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Thu, 29 Jun 2017 09:31:02 +0200</pubDate>
+		<pubDate>Thu, 29 Jun 2017 10:30:59 +0200</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2851583</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2851583</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 29 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 29 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2851583</category>
+			<category domain="http://albopop.it/specs#item-category-type">DECRETO</category>
+			<title>ATTRIBUZIONE DELLE FUNZIONI DI CUI ALL'ART. 107 DEL T.U.E.L.-PROROGA AL 31.12.2017</title>
+			<description>ATTRIBUZIONE DELLE FUNZIONI DI CUI ALL'ART. 107 DEL T.U.E.L.-PROROGA AL 31.12.2017</description>
+			<a10:updated>2017-06-29T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2850845</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2850845</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>AFFIDAMENTO SERVIZI ESTERNI BAGNI PUBBLICI E GUARDIANIA DEL CENTRO CONGRESSI DI VICO SELLA ORTA N. 3 IN FAVORE DELLA DITTA RASCIESA SRLS DI ERCOLANO.</title>
 			<description>AFFIDAMENTO SERVIZI ESTERNI BAGNI PUBBLICI E GUARDIANIA DEL CENTRO CONGRESSI DI VICO SELLA ORTA N. 3 IN FAVORE DELLA DITTA RASCIESA SRLS DI ERCOLANO.</description>
-			<a10:updated>2017-06-26T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2832095</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2832095</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 26 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 11 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2832095</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
-			<title>RICORSO AL TAR CAMPANIA PROMOSSO DAL SIGG.RI STRINA - RUOCCO C/COMUNE DI CAPRI – LIQUIDAZIONE SALDO ALL'AVV. LUIGI STABILE </title>
-			<description>RICORSO AL TAR CAMPANIA PROMOSSO DAL SIGG.RI STRINA - RUOCCO C/COMUNE DI CAPRI – LIQUIDAZIONE SALDO ALL'AVV. LUIGI STABILE </description>
 			<a10:updated>2017-06-26T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
