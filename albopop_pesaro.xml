@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 29 Jun 2017 11:30:43 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 29 Jun 2017 12:30:40 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Thu, 29 Jun 2017 11:30:43 +0200</pubDate>
+		<pubDate>Thu, 29 Jun 2017 12:30:40 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630612</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630612</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 29 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 14 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">630612</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>APPROVAZIONE SCHEMA CONVENZIONE DISCIPLINARE DI SERVIZIO TRA COMUNE DI PESARO E MARCHE MULTISERVIZI SPA PER LA GESTIONE TARI - TASSA SUI RIFIUTI - PERIODO DAL 01.01.2017 AL 31.12.2018</title>
+			<description>APPROVAZIONE SCHEMA CONVENZIONE DISCIPLINARE DI SERVIZIO TRA COMUNE DI PESARO E MARCHE MULTISERVIZI SPA PER LA GESTIONE TARI - TASSA SUI RIFIUTI - PERIODO DAL 01.01.2017 AL 31.12.2018</description>
+			<a10:updated>2017-06-29T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630597</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630597</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALBO PUBBLICAZIONI RICHIESTE DA SOGGETTI ESTERNI</category>
 			<title>MODALITA' DI COMUNICAZIONE AL REGISTRO DELLE IMPRESE RELATIVA AD AVVIO E MODIFICAZIONE DI ATTIVITA' SOGGETTE A SCIA - ART. 5, COMMA 2, DPR 160/2010</title>
 			<description>MODALITA' DI COMUNICAZIONE AL REGISTRO DELLE IMPRESE RELATIVA AD AVVIO E MODIFICAZIONE DI ATTIVITA' SOGGETTE A SCIA - ART. 5, COMMA 2, DPR 160/2010</description>
-			<a10:updated>2017-06-28T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630392</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630392</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 28 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 29 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">630392</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALBO PUBBLICAZIONI RICHIESTE DA SOGGETTI ESTERNI</category>
-			<title>AVVISO DI DEPOSITO - ART. 26 DPR 602/73, ART. 60 DPR 600/73, ART. 140 CPC - IRREPERIBILI - ELENCO N. 102</title>
-			<description>AVVISO DI DEPOSITO - ART. 26 DPR 602/73, ART. 60 DPR 600/73, ART. 140 CPC - IRREPERIBILI - ELENCO N. 102</description>
 			<a10:updated>2017-06-28T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
