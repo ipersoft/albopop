@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 29 Jun 2017 13:30:35 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 29 Jun 2017 14:30:35 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Thu, 29 Jun 2017 13:30:35 +0200</pubDate>
+		<pubDate>Thu, 29 Jun 2017 14:30:35 +0200</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3366889</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3366889</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 29 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 14 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3366889</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>PROROGA TECNICA IN CAPO ALLA DITTA MAZAL GLOBAL SOLUTION SRL DELLA CONCESSIONE DI GESTIONE, ACCERTAMENTO E RISCOSSIONE DELL’IMPOSTA COMUNALE SULLA PUBBLICITÀ E DEL DIRITTO SULLE PUBBLICHE AFFISSIONI ANNI 2013-2017 (CODICE C.I.G. 5135028727) FINO AL 31/12/2017.</title>
+			<description>PROROGA TECNICA IN CAPO ALLA DITTA MAZAL GLOBAL SOLUTION SRL DELLA CONCESSIONE DI GESTIONE, ACCERTAMENTO E RISCOSSIONE DELL’IMPOSTA COMUNALE SULLA PUBBLICITÀ E DEL DIRITTO SULLE PUBBLICHE AFFISSIONI ANNI 2013-2017 (CODICE C.I.G. 5135028727) FINO AL 31/12/2017.</description>
+			<a10:updated>2017-06-29T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3366267</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3366267</link>
@@ -284,17 +295,6 @@
 			<title>AUTORIZZAZIONE AL SINDACO PRO-TEMPORE A RICORRERE IN APPELLO AVANTI AL CONSIGLIO DI STATO AVVERSO LA SENTENZA PRONUNCIATA DAL TRIBUNALE AMMINISTRATIVO REGIONALE PER LA LOMBARDIA SEZIONE STACCATA DI BRESCIA N. 567/2017. </title>
 			<description>AUTORIZZAZIONE AL SINDACO PRO-TEMPORE A RICORRERE IN APPELLO AVANTI AL CONSIGLIO DI STATO AVVERSO LA SENTENZA PRONUNCIATA DAL TRIBUNALE AMMINISTRATIVO REGIONALE PER LA LOMBARDIA SEZIONE STACCATA DI BRESCIA N. 567/2017. </description>
 			<a10:updated>2017-06-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3346192</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3346192</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 30 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3346192</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI AVVISO</category>
-			<title>CONCORSO PER LA REALIZZAZIONE DI UN'OPERA ARTISTICA CHE FUNGA DA ELEMENTO IDENTIFICATIVO PER LA NUOVA STRUTTURA MUSEALE CASA CONTADINA DI LODRINO</title>
-			<description>CONCORSO PER LA REALIZZAZIONE DI UN'OPERA ARTISTICA CHE FUNGA DA ELEMENTO IDENTIFICATIVO PER LA NUOVA STRUTTURA MUSEALE CASA CONTADINA DI LODRINO</description>
-			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
