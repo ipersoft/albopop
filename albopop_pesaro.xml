@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 29 Jun 2017 08:30:37 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 29 Jun 2017 09:30:41 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Thu, 29 Jun 2017 08:30:37 +0200</pubDate>
+		<pubDate>Thu, 29 Jun 2017 09:30:41 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630573</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630573</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 29 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 14 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">630573</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PUBBLICAZIONI RICHIESTE DA SOGGETTI ESTERNI</category>
+			<title>AUTORIZZAZIONE N. 1774/2017 - ABBATTIMENTO PIANTE TUTELATE PRIVATE IN VIA SAN BARTOLO</title>
+			<description>AUTORIZZAZIONE N. 1774/2017 - ABBATTIMENTO PIANTE TUTELATE PRIVATE IN VIA SAN BARTOLO</description>
+			<a10:updated>2017-06-29T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630572</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630572</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 29 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 14 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">630572</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PUBBLICAZIONI RICHIESTE DA SOGGETTI ESTERNI</category>
+			<title>AUTORIZZAZIONE N. 1771/2017 - TRANSITO E SOSTA IN AREA VERDE DI CAMPO DI MARTE IN BAIA FLAMINIA PER IL PERIODO ESTIVO PER ACCOMPAGNARE N. 2 FIGLI DISABILI PRESSO STABILIMENTO BALNEARE - STAGIONE ESTIVA 2017</title>
+			<description>AUTORIZZAZIONE N. 1771/2017 - TRANSITO E SOSTA IN AREA VERDE DI CAMPO DI MARTE IN BAIA FLAMINIA PER IL PERIODO ESTIVO PER ACCOMPAGNARE N. 2 FIGLI DISABILI PRESSO STABILIMENTO BALNEARE - STAGIONE ESTIVA 2017</description>
+			<a10:updated>2017-06-29T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630571</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630571</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 29 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 14 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">630571</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PUBBLICAZIONI RICHIESTE DA SOGGETTI ESTERNI</category>
+			<title>AUTORIZZAZIONE N. 1770/2017 - ACCESSO E SOSTA IN AREA VERDE PUBBLICA DI VIA CAMPO DI MARTE - BAIA FLAMINIA PER LA STAGIONE ESTIVA 2017</title>
+			<description>AUTORIZZAZIONE N. 1770/2017 - ACCESSO E SOSTA IN AREA VERDE PUBBLICA DI VIA CAMPO DI MARTE - BAIA FLAMINIA PER LA STAGIONE ESTIVA 2017</description>
+			<a10:updated>2017-06-29T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630553</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630553</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>EROGAZIONE CONTRIBUTI AI COMUNI DELL'AMBITO TERRITORIALE SOCIALE A FAVORE DEI NIDI D'INFANZIA E DEI CENTRI PER L'INFANZIA CON PASTO E SONNO - ANNUALITA' 2015</title>
 			<description>EROGAZIONE CONTRIBUTI AI COMUNI DELL'AMBITO TERRITORIALE SOCIALE A FAVORE DEI NIDI D'INFANZIA E DEI CENTRI PER L'INFANZIA CON PASTO E SONNO - ANNUALITA' 2015</description>
-			<a10:updated>2017-06-28T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630377</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630377</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 28 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 13 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">630377</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>CONVENZIONE RELATIVA AL PIANO PARTICOLAREGGIATO DI INIZIATIVA PUBBLICA (P.P.E.) DELL’AREA DI RISTRUTTURAZIONE URBANISTICA N. 5 COMPARTI A-E (U.M.I. 8.6.1-8.6.5) COMPARTI B-C (U.M.I. 8.6.2-8.6.3) COMPRESI TRA VIA IESI - LARGO ASCOLI PICENO E FIUME FOGLIA - PROGETTO NORMA 8.6 - LARGO ASCOLI PICENO - RILASCIO CERTIFICATI AGIBILITA’ DEI FABBRICATI ALL’INTERNO DEI COMPARTI B-C (U.M.I. 8.6.2-8.6.3). </title>
-			<description>CONVENZIONE RELATIVA AL PIANO PARTICOLAREGGIATO DI INIZIATIVA PUBBLICA (P.P.E.) DELL’AREA DI RISTRUTTURAZIONE URBANISTICA N. 5 COMPARTI A-E (U.M.I. 8.6.1-8.6.5) COMPARTI B-C (U.M.I. 8.6.2-8.6.3) COMPRESI TRA VIA IESI - LARGO ASCOLI PICENO E FIUME FOGLIA - PROGETTO NORMA 8.6 - LARGO ASCOLI PICENO - RILASCIO CERTIFICATI AGIBILITA’ DEI FABBRICATI ALL’INTERNO DEI COMPARTI B-C (U.M.I. 8.6.2-8.6.3). </description>
-			<a10:updated>2017-06-28T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630374</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630374</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 28 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 13 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">630374</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>CONCESSIONE IN USO TEMPORANEO DEI LOCALI DI VIA BRANCA 7 DENOMINATI "EX FARMACIA ZONGO" ALLA SOC. COOP. LA GINESTRA PER IL PERIODO DAL 30 GIUGNO AL 14 LUGLIO 2017</title>
-			<description>CONCESSIONE IN USO TEMPORANEO DEI LOCALI DI VIA BRANCA 7 DENOMINATI "EX FARMACIA ZONGO" ALLA SOC. COOP. LA GINESTRA PER IL PERIODO DAL 30 GIUGNO AL 14 LUGLIO 2017</description>
-			<a10:updated>2017-06-28T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630372</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630372</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 28 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 13 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">630372</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>D.G.R. N. 293/2016 - TIROCINI FINALIZZATI ALL’INCLUSIONE SOCIALE A FAVORE DI PERSONE CON DISABILITA’ IN CARICO AI SERVIZI SPECIALISTICI ASUR AREA VASTA 1- AFFIDAMENTO DEL SERVIZIO PER LO SVOLGIMENTO DELLE AZIONI IN CAPO AL SOGGETTO PROMOTORE- MEDIANTE PROCEDURA NEGOZIATA AI SENSI DEGLI ART. 36, COMMA 2, LETTERA “A” DEL D.LGS. N.50/2016 , CIG. Z261EAC4B9- AGGIUDICAZIONE DEFINITIVA.</title>
-			<description>D.G.R. N. 293/2016 - TIROCINI FINALIZZATI ALL’INCLUSIONE SOCIALE A FAVORE DI PERSONE CON DISABILITA’ IN CARICO AI SERVIZI SPECIALISTICI ASUR AREA VASTA 1- AFFIDAMENTO DEL SERVIZIO PER LO SVOLGIMENTO DELLE AZIONI IN CAPO AL SOGGETTO PROMOTORE- MEDIANTE PROCEDURA NEGOZIATA AI SENSI DEGLI ART. 36, COMMA 2, LETTERA “A” DEL D.LGS. N.50/2016 , CIG. Z261EAC4B9- AGGIUDICAZIONE DEFINITIVA.</description>
 			<a10:updated>2017-06-28T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
