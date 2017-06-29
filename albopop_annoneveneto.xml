@@ -5,7 +5,7 @@
 		<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Annone Veneto</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 29 Jun 2017 16:30:48 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 29 Jun 2017 17:30:40 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Annone Veneto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Annone Veneto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_annoneveneto</a10:id>
-		<pubDate>Thu, 29 Jun 2017 16:30:48 +0200</pubDate>
+		<pubDate>Thu, 29 Jun 2017 17:30:40 +0200</pubDate>
 		<docs>http://albopop.it/comune/annoneveneto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3367761</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3367761</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 29 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 14 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3367761</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>INCENTIVO STATALE PER L'IMPIANTO FOTOVOLTAICO REALIZZATO PRESSO IL CENTRO CIVICO DA GLOBAL ENERGY S.R.L. – IMPEGNO DI SPESA</title>
+			<description>INCENTIVO STATALE PER L'IMPIANTO FOTOVOLTAICO REALIZZATO PRESSO IL CENTRO CIVICO DA GLOBAL ENERGY S.R.L. – IMPEGNO DI SPESA</description>
+			<a10:updated>2017-06-29T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3367708</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3367708</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 29 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 31 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3367708</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI AVVISO</category>
+			<title>CORSI PROFESSIONALI PER OPERATORI SOCIO SANITARI (O.S.S.) PRESSO I COMUNI DI JESOLO E TORRE DI MOSTO.</title>
+			<description>CORSI PROFESSIONALI PER OPERATORI SOCIO SANITARI (O.S.S.) PRESSO I COMUNI DI JESOLO E TORRE DI MOSTO.</description>
+			<a10:updated>2017-06-29T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3363196</guid>
 			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3363196</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>SERVIZIO DI MANUTENZIONE TAGLIAERBA FERRIS "F800X" - IMPEGNO DI SPESA</title>
 			<description>SERVIZIO DI MANUTENZIONE TAGLIAERBA FERRIS "F800X" - IMPEGNO DI SPESA</description>
-			<a10:updated>2017-06-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3348161</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3348161</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 07 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3348161</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>SOSTITUZIONE LAMPADE DI EMERGENZA PALAZZETTO DELLO SPORT - IMPEGNO DI SPESA</title>
-			<description>SOSTITUZIONE LAMPADE DI EMERGENZA PALAZZETTO DELLO SPORT - IMPEGNO DI SPESA</description>
-			<a10:updated>2017-06-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3348158</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3348158</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 07 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3348158</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>SERVIZIO DI MANUTENZIONE SPAZZATRICE MECCANICA - IMPEGNO DI SPESA</title>
-			<description>SERVIZIO DI MANUTENZIONE SPAZZATRICE MECCANICA - IMPEGNO DI SPESA</description>
 			<a10:updated>2017-06-22T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
