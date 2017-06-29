@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 28 Jun 2017 18:30:54 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 29 Jun 2017 08:30:35 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,55 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Wed, 28 Jun 2017 18:30:54 +0200</pubDate>
+		<pubDate>Thu, 29 Jun 2017 08:30:35 +0200</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3365617</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3365617</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 29 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 30 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3365617</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO GENERICO</category>
+			<title>AVVISO DI DEPOSITO ATTI NELLA CASA COMUNALE - N.11920160012808782000</title>
+			<description>AVVISO DI DEPOSITO ATTI NELLA CASA COMUNALE - N.11920160012808782000</description>
+			<a10:updated>2017-06-29T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3365616</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3365616</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 29 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 30 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3365616</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO GENERICO</category>
+			<title>AVVISO DI DEPOSITO ATTI NELLA CASA COMUNALE - N.11920150009442712000</title>
+			<description>AVVISO DI DEPOSITO ATTI NELLA CASA COMUNALE - N.11920150009442712000</description>
+			<a10:updated>2017-06-29T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3365615</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3365615</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 29 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 30 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3365615</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO GENERICO</category>
+			<title>AVVISO DI DEPOSITO ATTI NELLA CASA COMUNALE - N.11920170004534391000</title>
+			<description>AVVISO DI DEPOSITO ATTI NELLA CASA COMUNALE - N.11920170004534391000</description>
+			<a10:updated>2017-06-29T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3365608</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3365608</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 29 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 30 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3365608</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO GENERICO</category>
+			<title>AVVISO DI DEPOSITO ATTI NELLA CASA COMUNALE - N.11920160013901132000 E N. 11920170003584478000</title>
+			<description>AVVISO DI DEPOSITO ATTI NELLA CASA COMUNALE - N.11920160013901132000 E N. 11920170003584478000</description>
+			<a10:updated>2017-06-29T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3364783</guid>
 			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3364783</link>
@@ -250,50 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI PUBBLICAZIONE DI MATRIMONIO</category>
 			<title>PUBBLICAZIONE DI MATRIMONIO CALANDRO EMANUELE-VYDASH MARIYA</title>
 			<description>PUBBLICAZIONE DI MATRIMONIO CALANDRO EMANUELE-VYDASH MARIYA</description>
-			<a10:updated>2017-06-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3347040</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3347040</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 30 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3347040</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISO GENERICO</category>
-			<title>ATTO AMMINISTRATIVO CRON. 199/2017 N. T6U032700468 (D505), HOTEA VASILE</title>
-			<description>ATTO AMMINISTRATIVO CRON. 199/2017 N. T6U032700468 (D505), HOTEA VASILE</description>
-			<a10:updated>2017-06-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3346981</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3346981</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 24 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3346981</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISO GENERICO</category>
-			<title>VARIANTE AL P.R.G. VIGENTE AI SENSI DELL’ART. 7 DELLA L.R. 4/2015 “VARIANTE VERDI PER LA RICLASSIFICAZIONE DI AREE EDIFICABILI AFFINCHÈ SIANO PRIVATE DELLA POTENZIALITÀ EDIFICATORIA LORO RICONOSCIUTA DALLO STRUMENTO URBANISTICO VIGENTE E SIANO RESE INEDIFICABILI” – ADOZIONE.</title>
-			<description>VARIANTE AL P.R.G. VIGENTE AI SENSI DELL’ART. 7 DELLA L.R. 4/2015 “VARIANTE VERDI PER LA RICLASSIFICAZIONE DI AREE EDIFICABILI AFFINCHÈ SIANO PRIVATE DELLA POTENZIALITÀ EDIFICATORIA LORO RICONOSCIUTA DALLO STRUMENTO URBANISTICO VIGENTE E SIANO RESE INEDIFICABILI” – ADOZIONE.</description>
-			<a10:updated>2017-06-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3346854</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3346854</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 07 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3346854</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>APPROVAZIONE AVVISO DI MOBILITÀ VOLONTARIA EX ART. 30 DEL D.LGS. N.165/2001 PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO ED INDETERMINATO DI ISTRUTTORE AMMINISTRATIVO CAT. C PER SETTORE AFFARI GENERALI</title>
-			<description>APPROVAZIONE AVVISO DI MOBILITÀ VOLONTARIA EX ART. 30 DEL D.LGS. N.165/2001 PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO ED INDETERMINATO DI ISTRUTTORE AMMINISTRATIVO CAT. C PER SETTORE AFFARI GENERALI</description>
-			<a10:updated>2017-06-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3346850</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3346850</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 07 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3346850</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>ASSUNZIONE A TEMPO DETERMINATO PER TRE MESI DI UN COLLABORATORE PROFESSIONALE CAT. B3 PER IL SETTORE AFFARI GENERALI.</title>
-			<description>ASSUNZIONE A TEMPO DETERMINATO PER TRE MESI DI UN COLLABORATORE PROFESSIONALE CAT. B3 PER IL SETTORE AFFARI GENERALI.</description>
 			<a10:updated>2017-06-22T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

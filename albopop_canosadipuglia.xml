@@ -5,7 +5,7 @@
 		<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Canosa di Puglia</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 28 Jun 2017 18:31:08 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 29 Jun 2017 08:30:45 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Canosa di Puglia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Barletta-Andria-Trani</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Canosa di Puglia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_canosadipuglia</a10:id>
-		<pubDate>Wed, 28 Jun 2017 18:31:08 +0200</pubDate>
+		<pubDate>Thu, 29 Jun 2017 08:30:45 +0200</pubDate>
 		<docs>http://albopop.it/comune/canosadipuglia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -264,17 +264,6 @@
 			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3343571</guid>
-			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3343571</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 28 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3343571</category>
-			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO</category>
-			<title>TANGO MORRA</title>
-			<description>TANGO MORRA</description>
-			<a10:updated>2017-06-20T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
 			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3342503</guid>
 			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3342503</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Jun 2017 02:00:00 +0200</category>
@@ -295,6 +284,17 @@
 			<title>POSTA CERTIFICATA: PROCEDURA APERTA PER L'APPALTO DEI SERVIZI DI ARCHITETTURA E INGEGNERIA PER I LAVORI DI REALIZZAZIONE DEL CENTRO RISVEGLI DEL P.O. DI CANOSA DI P.</title>
 			<description>POSTA CERTIFICATA: PROCEDURA APERTA PER L'APPALTO DEI SERVIZI DI ARCHITETTURA E INGEGNERIA PER I LAVORI DI REALIZZAZIONE DEL CENTRO RISVEGLI DEL P.O. DI CANOSA DI P.</description>
 			<a10:updated>2017-06-17T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3336583</guid>
+			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3336583</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 16 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 01 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3336583</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
+			<title>Convenzione disciplinante i rapporti intercorrenti tra il Comune di Canosa di Puglia e le locali Scuole dell'infanzia paritarie - Impegno di spesa periodo Gennaio-Giugno 2017.</title>
+			<description>Convenzione disciplinante i rapporti intercorrenti tra il Comune di Canosa di Puglia e le locali Scuole dell'infanzia paritarie - Impegno di spesa periodo Gennaio-Giugno 2017.</description>
+			<a10:updated>2017-06-16T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
