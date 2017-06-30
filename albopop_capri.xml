@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 30 Jun 2017 11:31:56 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 30 Jun 2017 12:31:20 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Fri, 30 Jun 2017 11:31:56 +0200</pubDate>
+		<pubDate>Fri, 30 Jun 2017 12:31:20 +0200</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2853593</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2853593</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 30 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 15 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2853593</category>
+			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
+			<title>NOLEGGIO BUS CON CONDUCENTE IN OCCASIONE DELLE MANIFESTAZIONI SPORTIVE "SPORT IN...COMUNE" E "GOLDEN GALA DI ATLETICA LEGGERA 2017" - LIQUIDAZIONE FATTURA ALLA DITTA CARAMICO GAETANO - CIG: Z441EC493B</title>
+			<description>NOLEGGIO BUS CON CONDUCENTE IN OCCASIONE DELLE MANIFESTAZIONI SPORTIVE "SPORT IN...COMUNE" E "GOLDEN GALA DI ATLETICA LEGGERA 2017" - LIQUIDAZIONE FATTURA ALLA DITTA CARAMICO GAETANO - CIG: Z441EC493B</description>
+			<a10:updated>2017-06-30T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2853047</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2853047</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DI GIUNTA DELIBERA DI GIUNTA</category>
 			<title>PROGRAMMA OPERATIVO COMPLEMENTARE CAMPANIA 2014/2020 LINEA D'AZIONE RIGENERAZIONE URBANA. AZIONE OPERATIVA FONDO DI ROTAZIONE PER LA PROGETTAZIONE DEGLI ENTI LOCALI. "SISTEMAZIONE ED ADEGUAMENTO DEL PORTO COMMERCIALE DI MARINA GRANDE.- APPOVAZIONE SCHEMA DI CONVENZIONE CON LA REGIONE CAMPANIA-.</title>
 			<description>PROGRAMMA OPERATIVO COMPLEMENTARE CAMPANIA 2014/2020 LINEA D'AZIONE RIGENERAZIONE URBANA. AZIONE OPERATIVA FONDO DI ROTAZIONE PER LA PROGETTAZIONE DEGLI ENTI LOCALI. "SISTEMAZIONE ED ADEGUAMENTO DEL PORTO COMMERCIALE DI MARINA GRANDE.- APPOVAZIONE SCHEMA DI CONVENZIONE CON LA REGIONE CAMPANIA-.</description>
-			<a10:updated>2017-06-26T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2832227</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2832227</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 26 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 11 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2832227</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI GRADUATORIA PUBBLICHE AFFISSIONI</category>
-			<title>GRADUATORIA PUBBLICHE AFFISSIONI LUGLIO 2017</title>
-			<description>GRADUATORIA PUBBLICHE AFFISSIONI LUGLIO 2017</description>
 			<a10:updated>2017-06-26T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

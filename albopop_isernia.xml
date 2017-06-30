@@ -5,7 +5,7 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 30 Jun 2017 11:31:53 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 30 Jun 2017 12:31:18 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Isernia</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>Fri, 30 Jun 2017 11:31:53 +0200</pubDate>
+		<pubDate>Fri, 30 Jun 2017 12:31:18 +0200</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3369497</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3369497</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 30 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 15 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3369497</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA GIUNTA COMUNALE</category>
+			<title>ASCOM - Evento "Notte Rosa" del 1° luglio p.v.- Concessione patrocinio </title>
+			<description>ASCOM - Evento "Notte Rosa" del 1° luglio p.v.- Concessione patrocinio </description>
+			<a10:updated>2017-06-30T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3369495</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3369495</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 30 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 15 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3369495</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA GIUNTA COMUNALE</category>
+			<title>Moto raduno Harley Davidson - 30 giugno p.v.- Concessione patrocinio </title>
+			<description>Moto raduno Harley Davidson - 30 giugno p.v.- Concessione patrocinio </description>
+			<a10:updated>2017-06-30T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3368695</guid>
 			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3368695</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
 			<title>Assegno a nucleo familiare con almeno tre figli minori. caf CGIL</title>
 			<description>Assegno a nucleo familiare con almeno tre figli minori. caf CGIL</description>
-			<a10:updated>2017-06-28T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3364355</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3364355</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 28 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 13 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3364355</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
-			<title>Acquisto materiale di cancelleria per il Servizio Lavori Pubblici – Ambiente. Liquidazione Ditta: ECO LASER INFORMATICA S.R.L. – CIG ZB51DE3321</title>
-			<description>Acquisto materiale di cancelleria per il Servizio Lavori Pubblici – Ambiente. Liquidazione Ditta: ECO LASER INFORMATICA S.R.L. – CIG ZB51DE3321</description>
-			<a10:updated>2017-06-28T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3363733</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3363733</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 28 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 13 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3363733</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
-			<title>Liquidazione della seconda rata della fornitura del manufatto “graticcio” sul palcoscenico dell’Auditorium Unità d’Italia alla Ditta Technoservice, di Via Abate Aligerno n. 83 – 03043 Cassino (FR) , P. IVA 02832780601.</title>
-			<description>Liquidazione della seconda rata della fornitura del manufatto “graticcio” sul palcoscenico dell’Auditorium Unità d’Italia alla Ditta Technoservice, di Via Abate Aligerno n. 83 – 03043 Cassino (FR) , P. IVA 02832780601.</description>
 			<a10:updated>2017-06-28T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
