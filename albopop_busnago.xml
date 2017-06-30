@@ -5,7 +5,7 @@
 		<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Busnago</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 30 Jun 2017 16:30:50 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 30 Jun 2017 17:30:50 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Busnago</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Busnago</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_busnago</a10:id>
-		<pubDate>Fri, 30 Jun 2017 16:30:50 +0200</pubDate>
+		<pubDate>Fri, 30 Jun 2017 17:30:50 +0200</pubDate>
 		<docs>http://albopop.it/comune/busnago/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3370347</guid>
+			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3370347</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 30 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 15 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3370347</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO AVVISO RELATIVO AD APPALTO AGGIUDICATO</category>
+			<title>AVVISO RELATIVO AD APPALTO AGGIUDICATO - SERVIZI DI PROGETTAZIONE DEFINITIVA/ESECUTIVA - D.L. ED ATTIVITÀ CONNESSE - ADEMPIMENTI DI CUI AL D.LGS. 81/2008 E SMI - EMISSIONE DEL C.R.E. LAVORI DI REALIZZAZIONE NUOVI LOCULI, OSSARIO E CINERARIO COMUNE ALL'INTERNO DI FABBRICATO ESISTENTE - LATO SUD/OVEST - DEL CIMITERO COMUNALE</title>
+			<description>AVVISO RELATIVO AD APPALTO AGGIUDICATO - SERVIZI DI PROGETTAZIONE DEFINITIVA/ESECUTIVA - D.L. ED ATTIVITÀ CONNESSE - ADEMPIMENTI DI CUI AL D.LGS. 81/2008 E SMI - EMISSIONE DEL C.R.E. LAVORI DI REALIZZAZIONE NUOVI LOCULI, OSSARIO E CINERARIO COMUNE ALL'INTERNO DI FABBRICATO ESISTENTE - LATO SUD/OVEST - DEL CIMITERO COMUNALE</description>
+			<a10:updated>2017-06-30T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3368373</guid>
 			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3368373</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DETERMINAZIONE DEI RESPONSABILI</category>
 			<title>IMPEGNO DI SPESA PER PAGAMENTO RINNOVO TASSA DI PROPRIETA' VEICOLO IN DOTAZIONE ALL'OPERATORE ECOLOGICO COMUNALE - VEICOLO PORTER PIAGGIO TARGATO EC118HB</title>
 			<description>IMPEGNO DI SPESA PER PAGAMENTO RINNOVO TASSA DI PROPRIETA' VEICOLO IN DOTAZIONE ALL'OPERATORE ECOLOGICO COMUNALE - VEICOLO PORTER PIAGGIO TARGATO EC118HB</description>
-			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3344258</guid>
-			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3344258</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 06 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3344258</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DETERMINAZIONE DEI RESPONSABILI</category>
-			<title>IMPEGNO DI SPESA E CONTESTUALE LIQUIDAZIONE TASSA DI REGISTRO IN RELAZIONE ALLE SENTENZE CIVILI N. 000000392/2015 E N. 000000815/2015 EMESSE DALLA CORTE D'APPELLO DI MILANO</title>
-			<description>IMPEGNO DI SPESA E CONTESTUALE LIQUIDAZIONE TASSA DI REGISTRO IN RELAZIONE ALLE SENTENZE CIVILI N. 000000392/2015 E N. 000000815/2015 EMESSE DALLA CORTE D'APPELLO DI MILANO</description>
 			<a10:updated>2017-06-21T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
