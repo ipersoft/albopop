@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 30 Jun 2017 15:30:41 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 30 Jun 2017 16:30:40 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Fri, 30 Jun 2017 15:30:41 +0200</pubDate>
+		<pubDate>Fri, 30 Jun 2017 16:30:40 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/631059</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/631059</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 30 Jun 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 15 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">631059</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO ATTI E AVVISI DIVERSI</category>
+			<title>LORIS PASCUCCI - CONFERIMENTO INCARICO DI RESPONSABILE DI UNITÀ ORGANIZZATIVA “FABBRICATI”.</title>
+			<description>LORIS PASCUCCI - CONFERIMENTO INCARICO DI RESPONSABILE DI UNITÀ ORGANIZZATIVA “FABBRICATI”.</description>
+			<a10:updated>2017-06-30T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/631033</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/631033</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>RIMBORSO ALLA SOCIETA ENEL DELL’ ADDIZIONALE COMUNALE SULL’ACCISA - ANNUALITÀ 2014</title>
 			<description>RIMBORSO ALLA SOCIETA ENEL DELL’ ADDIZIONALE COMUNALE SULL’ACCISA - ANNUALITÀ 2014</description>
-			<a10:updated>2017-06-30T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630894</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/630894</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 30 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 15 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">630894</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>PROROGA TECNICA CONTRATTUALE NELLE MORE DELLA CONCLUSIONE DELL’ESPLETAMENTO DELLA PROCEDURA DI GARA AI SENSI DELL’ART.36 C.2 B) DEL D.LGS 50/2016 E S.M.I. PER L’AFFIDAMENTO DELLA GESTIONE DEL SERVIZIO HOME CARE PREMIUM - AMBITO TERRITORIALE SOCIALE N.1 CIG: 6480799C82</title>
-			<description>PROROGA TECNICA CONTRATTUALE NELLE MORE DELLA CONCLUSIONE DELL’ESPLETAMENTO DELLA PROCEDURA DI GARA AI SENSI DELL’ART.36 C.2 B) DEL D.LGS 50/2016 E S.M.I. PER L’AFFIDAMENTO DELLA GESTIONE DEL SERVIZIO HOME CARE PREMIUM - AMBITO TERRITORIALE SOCIALE N.1 CIG: 6480799C82</description>
 			<a10:updated>2017-06-30T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
