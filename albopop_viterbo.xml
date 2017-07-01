@@ -5,7 +5,7 @@
 		<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Viterbo</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 30 Jun 2017 18:30:49 +0200</lastBuildDate>
+		<lastBuildDate>Sat, 01 Jul 2017 08:30:49 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Viterbo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Viterbo</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Viterbo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_viterbo</a10:id>
-		<pubDate>Fri, 30 Jun 2017 18:30:49 +0200</pubDate>
+		<pubDate>Sat, 01 Jul 2017 08:30:49 +0200</pubDate>
 		<docs>http://albopop.it/comune/viterbo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3370224</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3370224</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 01 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 09 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3370224</category>
+			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO </category>
+			<title>PUBBLICAZIONE DI AMTRIMONIO N. 181/2017: BUZZI - TAMANTINI</title>
+			<description>PUBBLICAZIONE DI AMTRIMONIO N. 181/2017: BUZZI - TAMANTINI</description>
+			<a10:updated>2017-07-01T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3370222</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3370222</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 01 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 09 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3370222</category>
+			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO </category>
+			<title>PUBBLICAZIONE DI MATRIMONIO N. 180/2017: CARLETTI - DI VENTURA</title>
+			<description>PUBBLICAZIONE DI MATRIMONIO N. 180/2017: CARLETTI - DI VENTURA</description>
+			<a10:updated>2017-07-01T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3369918</guid>
 			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3369918</link>
@@ -209,17 +231,6 @@
 			<a10:updated>2017-06-29T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3364824</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3364824</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 28 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 30 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3364824</category>
-			<category domain="http://albopop.it/specs#item-category-type">CONVOCAZIONE CONSIGLIO </category>
-			<title>CONVOCAZIONE CONSIGLIO COMUNALE -O.D.G. AGGIUNTIVO PROT. N 3892/2017</title>
-			<description>CONVOCAZIONE CONSIGLIO COMUNALE -O.D.G. AGGIUNTIVO PROT. N 3892/2017</description>
-			<a10:updated>2017-06-28T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3364438</guid>
 			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3364438</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 28 Jun 2017 02:00:00 +0200</category>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
 			<title>ACQUISIZIONE TRAMITE MEPA SERVIZIO DI SUPPORTO ANNUALE ON SITE E DA REMOTO SOFTWARE STRATEGIC PA - DETERMINA A CONTRARRE - CIG ZC21EF37EA</title>
 			<description>ACQUISIZIONE TRAMITE MEPA SERVIZIO DI SUPPORTO ANNUALE ON SITE E DA REMOTO SOFTWARE STRATEGIC PA - DETERMINA A CONTRARRE - CIG ZC21EF37EA</description>
-			<a10:updated>2017-06-28T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3364151</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3364151</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 28 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 13 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3364151</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
-			<title>RISARCIMENTO DANNI PER SINISTRO DEL 02/02/2017. DANNEGGIAMENTO PATRIMONIO COMUNALE IN VITERBO STRADA MAMMAGIALLA. NS. RIF. RCAR N. 13/2017. INCASSO ASSEGNO A TOTALE TACITAZIONE.</title>
-			<description>RISARCIMENTO DANNI PER SINISTRO DEL 02/02/2017. DANNEGGIAMENTO PATRIMONIO COMUNALE IN VITERBO STRADA MAMMAGIALLA. NS. RIF. RCAR N. 13/2017. INCASSO ASSEGNO A TOTALE TACITAZIONE.</description>
 			<a10:updated>2017-06-28T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
