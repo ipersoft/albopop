@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 04 Jul 2017 13:31:07 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 04 Jul 2017 14:31:01 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Tue, 04 Jul 2017 13:31:07 +0200</pubDate>
+		<pubDate>Tue, 04 Jul 2017 14:31:01 +0200</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2857527</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2857527</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 04 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 12 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2857527</category>
+			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>RICHIESTA PUBBLICAZIONE DI MATRIMONIO RELATIVO A BANU IONEL CATALIN - MOCANU IRINA-SIMONA</title>
+			<description>RICHIESTA PUBBLICAZIONE DI MATRIMONIO RELATIVO A BANU IONEL CATALIN - MOCANU IRINA-SIMONA</description>
+			<a10:updated>2017-07-04T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2857101</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2857101</link>
@@ -284,17 +295,6 @@
 			<title>MODIFICHE TEMPORANEE ALLA VIABILITÀ IN ALCUNE STRADE IN OCCASIONE DELLA “13^ FESTA DELLA BIRRA” </title>
 			<description>MODIFICHE TEMPORANEE ALLA VIABILITÀ IN ALCUNE STRADE IN OCCASIONE DELLA “13^ FESTA DELLA BIRRA” </description>
 			<a10:updated>2017-06-26T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2830250</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2830250</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 23 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 08 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2830250</category>
-			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
-			<title>LAVORI DI “REALIZZAZIONE DI NUOVO SPOGLIATOIO A SERVIZIO DELL’IMPIANTO SPORTIVO DEL BASEBALL DI COLLECCHIO – ESECUZIONE DI SERVIZIO DI MANUTENZIONE DI CABINA ELETTRICA MEDIANTE LA FORNITURA E IL MONTAGGIO DI QUADRI ELETTRICI - 2° STRALCIO – IMPEGNO DI SPESA E AFFIDAMENTO DIRETTO TRAMITE MEPA DI CONSIP ALLA DITTA MELLI LUCIANO &amp; C. DI COLLECCHIO – C. FISCALE/P. IVA 01806380349 - CIG: Z211F1C98E – CODICE CUP: G97B16000200004</title>
-			<description>LAVORI DI “REALIZZAZIONE DI NUOVO SPOGLIATOIO A SERVIZIO DELL’IMPIANTO SPORTIVO DEL BASEBALL DI COLLECCHIO – ESECUZIONE DI SERVIZIO DI MANUTENZIONE DI CABINA ELETTRICA MEDIANTE LA FORNITURA E IL MONTAGGIO DI QUADRI ELETTRICI - 2° STRALCIO – IMPEGNO DI SPESA E AFFIDAMENTO DIRETTO TRAMITE MEPA DI CONSIP ALLA DITTA MELLI LUCIANO &amp; C. DI COLLECCHIO – C. FISCALE/P. IVA 01806380349 - CIG: Z211F1C98E – CODICE CUP: G97B16000200004</description>
-			<a10:updated>2017-06-23T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
