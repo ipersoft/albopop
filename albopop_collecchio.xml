@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 04 Jul 2017 14:31:01 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 04 Jul 2017 15:30:54 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Tue, 04 Jul 2017 14:31:01 +0200</pubDate>
+		<pubDate>Tue, 04 Jul 2017 15:30:54 +0200</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2857653</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2857653</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 04 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 18 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2857653</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO ON LINE BANDI DI CONCORSO</category>
+			<title>BANDO DI CONCORSO PUBBLICO PER TITOLI ED ESAMI PER LA COPERTURA DI UN POSTO A TEMPO PIENO DI ISTRUTTORE DIRETTIVO TECNICO (CAT. GIUR. D1) PER IL SETTORE EDUCATIVO</title>
+			<description>BANDO DI CONCORSO PUBBLICO PER TITOLI ED ESAMI PER LA COPERTURA DI UN POSTO A TEMPO PIENO DI ISTRUTTORE DIRETTIVO TECNICO (CAT. GIUR. D1) PER IL SETTORE EDUCATIVO</description>
+			<a10:updated>2017-07-04T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2857527</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2857527</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
 			<title>LAVORI DI MANUTENZIONE STRAORDINARIA VIA DELLE ROSE E VIALE PERTINI – ANNO 2017 CODICE CUP G97H1600017004 CODICE CIG ZC01DB7FEC</title>
 			<description>LAVORI DI MANUTENZIONE STRAORDINARIA VIA DELLE ROSE E VIALE PERTINI – ANNO 2017 CODICE CUP G97H1600017004 CODICE CIG ZC01DB7FEC</description>
-			<a10:updated>2017-06-26T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2831611</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2831611</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 26 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 11 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2831611</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO ON LINE ORDINANZE E AVVISI</category>
-			<title>MODIFICHE TEMPORANEE ALLA VIABILITÀ IN ALCUNE STRADE IN OCCASIONE DELLA “13^ FESTA DELLA BIRRA” </title>
-			<description>MODIFICHE TEMPORANEE ALLA VIABILITÀ IN ALCUNE STRADE IN OCCASIONE DELLA “13^ FESTA DELLA BIRRA” </description>
 			<a10:updated>2017-06-26T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
