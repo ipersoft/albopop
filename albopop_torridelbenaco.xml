@@ -5,7 +5,7 @@
 		<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Torri del Benaco</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 04 Jul 2017 09:31:04 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 04 Jul 2017 10:31:04 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Torri del Benaco</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Verona</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Torri del Benaco</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_torridelbenaco</a10:id>
-		<pubDate>Tue, 04 Jul 2017 09:31:04 +0200</pubDate>
+		<pubDate>Tue, 04 Jul 2017 10:31:04 +0200</pubDate>
 		<docs>http://albopop.it/comune/torridelbenaco/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3373692</guid>
+			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3373692</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 04 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 19 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3373692</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISO</category>
+			<title>CONVOCAZIONE CONSIGLIO COMUNALE DEL 10/07/2017</title>
+			<description>CONVOCAZIONE CONSIGLIO COMUNALE DEL 10/07/2017</description>
+			<a10:updated>2017-07-04T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3373607</guid>
+			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3373607</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 04 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 19 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3373607</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI CONSIGLIO</category>
+			<title>APPROVAZIONE MODIFICA E RIDUZIONE DELLE FASCE DI RISPETTO CIMITERIALE</title>
+			<description>APPROVAZIONE MODIFICA E RIDUZIONE DELLE FASCE DI RISPETTO CIMITERIALE</description>
+			<a10:updated>2017-07-04T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3373558</guid>
 			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3373558</link>
@@ -271,28 +293,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>ORGANIZZAZIONE FINALE REGATA PALIO BISSE BANDIERA DEL LAGO 12 E 13 AGOSTO 2017. AFFIDAMENTO INCARICO ALL'ASSOCIAZIONE LEGA BISSE DEL GARDA DI GARDONE RIVIERA. </title>
 			<description>ORGANIZZAZIONE FINALE REGATA PALIO BISSE BANDIERA DEL LAGO 12 E 13 AGOSTO 2017. AFFIDAMENTO INCARICO ALL'ASSOCIAZIONE LEGA BISSE DEL GARDA DI GARDONE RIVIERA. </description>
-			<a10:updated>2017-06-26T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3354054</guid>
-			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3354054</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 26 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 11 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3354054</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>PROMOZIONE GIORNALISTICA EVENTI E MANIFESTAZIONI ESTIVI. AFFIDAMENTO INCARICO ALLA DITTA PUBLIADIGE SRL DI VERONA.</title>
-			<description>PROMOZIONE GIORNALISTICA EVENTI E MANIFESTAZIONI ESTIVI. AFFIDAMENTO INCARICO ALLA DITTA PUBLIADIGE SRL DI VERONA.</description>
-			<a10:updated>2017-06-26T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3354051</guid>
-			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3354051</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 26 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 11 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3354051</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>RIMBORSO SPESA LIBRI DI TESTO SCUOLA PRIMARIA AL COMUNE DI CAPRINO VERONESE</title>
-			<description>RIMBORSO SPESA LIBRI DI TESTO SCUOLA PRIMARIA AL COMUNE DI CAPRINO VERONESE</description>
 			<a10:updated>2017-06-26T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

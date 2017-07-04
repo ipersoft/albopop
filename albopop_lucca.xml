@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 04 Jul 2017 09:30:52 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 04 Jul 2017 10:30:54 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Tue, 04 Jul 2017 09:30:52 +0200</pubDate>
+		<pubDate>Tue, 04 Jul 2017 10:30:54 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3373791</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3373791</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 04 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 19 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3373791</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>VIA ARTURO MARCHI,FRAZIONE DI S.MARCO,MODIFICHE TEMPORANEE AL TRANSITO VEICOLARE E PEDONALE ED ALLA SOSTA,DAL 10 LUGLIO 2017 AL 13 LUGLIO 2017.</title>
+			<description>VIA ARTURO MARCHI,FRAZIONE DI S.MARCO,MODIFICHE TEMPORANEE AL TRANSITO VEICOLARE E PEDONALE ED ALLA SOSTA,DAL 10 LUGLIO 2017 AL 13 LUGLIO 2017.</description>
+			<a10:updated>2017-07-04T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3373789</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3373789</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 04 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 19 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3373789</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>VIA S.LUCIA,CENTRO STORICO,MODIFICHE TEMPORANEE ALLA SOSTA ED ALLA CIRCOLAZIONE STRADALE, PER IL GIORNO 10 LUGLIO 2017 DALLE ORE 8,00 ALLE ORE 14,00. </title>
+			<description>VIA S.LUCIA,CENTRO STORICO,MODIFICHE TEMPORANEE ALLA SOSTA ED ALLA CIRCOLAZIONE STRADALE, PER IL GIORNO 10 LUGLIO 2017 DALLE ORE 8,00 ALLE ORE 14,00. </description>
+			<a10:updated>2017-07-04T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3372602</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3372602</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>AMMINISTRATORI COMUNALI: LIQUIDAZIONE SPESE SOSTENUTE PER MISSIONE ANNO 2017</title>
 			<description>AMMINISTRATORI COMUNALI: LIQUIDAZIONE SPESE SOSTENUTE PER MISSIONE ANNO 2017</description>
-			<a10:updated>2017-06-30T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3369719</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3369719</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 30 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 15 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3369719</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>IMPEGNO E CONTESTUALE LIQUIDAZIONE DELLE SPESE DI LITE DISPOSTE CON SENTENZA DEL GIUDICE DI PACE DI LUCCA A SEGUITO DI OPPOSIZIONE A SANZIONE AMMINISTRATIVA (CONTENUTO DELL'ATTO: RIMBORSI - FAMIGLIA 11 "ALTRO").</title>
-			<description>IMPEGNO E CONTESTUALE LIQUIDAZIONE DELLE SPESE DI LITE DISPOSTE CON SENTENZA DEL GIUDICE DI PACE DI LUCCA A SEGUITO DI OPPOSIZIONE A SANZIONE AMMINISTRATIVA (CONTENUTO DELL'ATTO: RIMBORSI - FAMIGLIA 11 "ALTRO").</description>
-			<a10:updated>2017-06-30T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3369716</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3369716</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 30 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 15 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3369716</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>IMPEGNO E CONTESTUALE LIQUIDAZIONE DELLE SPESE DI LITE DISPOSTE CON SENTENZA DEL GIUDICE DI PACE DI LUCCA A SEGUITO DI OPPOSIZIONE A SANZIONE AMMINISTRATIVA (CONTENUTO DELL'ATTO: RIMBORSI - FAMIGLIA 11 "ALTRO")</title>
-			<description>IMPEGNO E CONTESTUALE LIQUIDAZIONE DELLE SPESE DI LITE DISPOSTE CON SENTENZA DEL GIUDICE DI PACE DI LUCCA A SEGUITO DI OPPOSIZIONE A SANZIONE AMMINISTRATIVA (CONTENUTO DELL'ATTO: RIMBORSI - FAMIGLIA 11 "ALTRO")</description>
 			<a10:updated>2017-06-30T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

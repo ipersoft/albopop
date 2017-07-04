@@ -5,7 +5,7 @@
 		<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mazzano</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 04 Jul 2017 09:31:02 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 04 Jul 2017 10:31:02 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mazzano</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mazzano</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mazzano</a10:id>
-		<pubDate>Tue, 04 Jul 2017 09:31:02 +0200</pubDate>
+		<pubDate>Tue, 04 Jul 2017 10:31:02 +0200</pubDate>
 		<docs>http://albopop.it/comune/mazzano/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3373804</guid>
+			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3373804</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 04 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 12 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3373804</category>
+			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>PUBBLICAZIONE DI MATRIMONIO N. 24/2017</title>
+			<description>PUBBLICAZIONE DI MATRIMONIO N. 24/2017</description>
+			<a10:updated>2017-07-04T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3373125</guid>
 			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3373125</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
 			<title>POLIZZA RESPONSABILITA' CIVILE DELL'ENTE (RCTO) REGOLAZIONE PREMIO DAL 30.03.2016 AL 30.03.2017 - IMPEGNO DI SPESA E LIQUIDAZIONE PREMIO.</title>
 			<description>POLIZZA RESPONSABILITA' CIVILE DELL'ENTE (RCTO) REGOLAZIONE PREMIO DAL 30.03.2016 AL 30.03.2017 - IMPEGNO DI SPESA E LIQUIDAZIONE PREMIO.</description>
-			<a10:updated>2017-07-03T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3373063</guid>
-			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3373063</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 03 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 18 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3373063</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
-			<title>RIMBORSO SPESE DOCUMENTATE ATTINENTI LA PARTECIPAZIONE ALL’ESAME PRESSO IL COMANDO PROVINCIALE VIGILI DEL FUOCO DI BRESCIA A CONCLUSIONE DEL CORSO ANTI INCENDIO.</title>
-			<description>RIMBORSO SPESE DOCUMENTATE ATTINENTI LA PARTECIPAZIONE ALL’ESAME PRESSO IL COMANDO PROVINCIALE VIGILI DEL FUOCO DI BRESCIA A CONCLUSIONE DEL CORSO ANTI INCENDIO.</description>
 			<a10:updated>2017-07-03T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
