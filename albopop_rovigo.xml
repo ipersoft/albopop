@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 03 Jul 2017 18:30:51 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 04 Jul 2017 08:30:59 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Mon, 03 Jul 2017 18:30:51 +0200</pubDate>
+		<pubDate>Tue, 04 Jul 2017 08:30:59 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -64,6 +64,17 @@
 			<title>PERMESSO DI COSTRUIRE N 56 DEL 03/07/2017 - UT 156/2017 PER VARIANTE ESSENZIALE AL P DI C N. 178/2014 TIF. UT 145/2014 IN VIA MARTIRI DI BELFIORE</title>
 			<description>PERMESSO DI COSTRUIRE N 56 DEL 03/07/2017 - UT 156/2017 PER VARIANTE ESSENZIALE AL P DI C N. 178/2014 TIF. UT 145/2014 IN VIA MARTIRI DI BELFIORE</description>
 			<a10:updated>2017-07-03T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2855366</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2855366</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 04 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 05 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2855366</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI ATTI DIVERSI</category>
+			<title>AVVISO DI DEPOSITO ATTI NELLA CASA DEL COMUNE - ELENCO N.EL000044960 DEL 03/07/2017_N. 51 NOMINATIVI VARI</title>
+			<description>AVVISO DI DEPOSITO ATTI NELLA CASA DEL COMUNE - ELENCO N.EL000044960 DEL 03/07/2017_N. 51 NOMINATIVI VARI</description>
+			<a10:updated>2017-07-04T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2855256</guid>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERE DI GIUNTA</category>
 			<title>PROGRAMMI INNOVATIVI IN AMBITO URBANO, CONTRATTI DI QUARTIERE II - RISTRUTTURAZIONE EX ASILO DI VIA ALFIERI - INDIVIDUAZIONE LOCALI DA ASSEGNARE ALLE ASSOCIAZIONI</title>
 			<description>PROGRAMMI INNOVATIVI IN AMBITO URBANO, CONTRATTI DI QUARTIERE II - RISTRUTTURAZIONE EX ASILO DI VIA ALFIERI - INDIVIDUAZIONE LOCALI DA ASSEGNARE ALLE ASSOCIAZIONI</description>
-			<a10:updated>2017-06-30T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2853624</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2853624</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 30 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 15 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2853624</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERE DI GIUNTA</category>
-			<title>VARIAZIONE URGENTE AL BILANCIO DI PREVISIONE 2017/2019</title>
-			<description>VARIAZIONE URGENTE AL BILANCIO DI PREVISIONE 2017/2019</description>
 			<a10:updated>2017-06-30T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
