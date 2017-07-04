@@ -5,7 +5,7 @@
 		<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mascalucia</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 04 Jul 2017 10:31:00 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 04 Jul 2017 11:31:03 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mascalucia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mascalucia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mascalucia</a10:id>
-		<pubDate>Tue, 04 Jul 2017 10:31:00 +0200</pubDate>
+		<pubDate>Tue, 04 Jul 2017 11:31:03 +0200</pubDate>
 		<docs>http://albopop.it/comune/mascalucia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2857004</guid>
+			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2857004</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 04 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 19 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2857004</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
+			<title>OPPOSIZIONE RICORSO TAR CON SOSPENSIVA PROPOSTO DA ZAPPALA' CLAUDIO - INCARICO LEGALE </title>
+			<description>OPPOSIZIONE RICORSO TAR CON SOSPENSIVA PROPOSTO DA ZAPPALA' CLAUDIO - INCARICO LEGALE </description>
+			<a10:updated>2017-07-04T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2855901</guid>
 			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2855901</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI CONSIGLIO</category>
 			<title>NOTA PROT. N. 9849 DEL 31/03/2017 A FIRMA DEL CONSIGLIERE MONTESANTO AVENTE AD OGGETTO "PROPOSTA DI ORDINE DEL GIORNO DA TRATTARE IN CONSIGLIO SULLO STATO DEI LAVORI IN PROJECT FINANCING DELLA CONCESSIONE PER LA COSTRUZIONE E GESTIONE AMPLIAMENTO CIMITERO CENTRO, ALLA SOCIETA' ATI -DIMA.FLO.RU."</title>
 			<description>NOTA PROT. N. 9849 DEL 31/03/2017 A FIRMA DEL CONSIGLIERE MONTESANTO AVENTE AD OGGETTO "PROPOSTA DI ORDINE DEL GIORNO DA TRATTARE IN CONSIGLIO SULLO STATO DEI LAVORI IN PROJECT FINANCING DELLA CONCESSIONE PER LA COSTRUZIONE E GESTIONE AMPLIAMENTO CIMITERO CENTRO, ALLA SOCIETA' ATI -DIMA.FLO.RU."</description>
-			<a10:updated>2017-06-29T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2852777</guid>
-			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2852777</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 29 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 07 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2852777</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DI STATO CIVILE (STC) PUBBLICAZIONI DI MATRIMONIO</category>
-			<title>PUBBLICAZIONE DI MATRIMONIO CATANIA DAVIDE/ OCCHIPINTI EMILY NAIKE</title>
-			<description>PUBBLICAZIONE DI MATRIMONIO CATANIA DAVIDE/ OCCHIPINTI EMILY NAIKE</description>
 			<a10:updated>2017-06-29T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
