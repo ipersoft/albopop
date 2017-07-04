@@ -5,7 +5,7 @@
 		<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Belpasso</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 04 Jul 2017 12:30:45 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 04 Jul 2017 13:30:53 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Belpasso</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Belpasso</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_belpasso</a10:id>
-		<pubDate>Tue, 04 Jul 2017 12:30:45 +0200</pubDate>
+		<pubDate>Tue, 04 Jul 2017 13:30:53 +0200</pubDate>
 		<docs>http://albopop.it/comune/belpasso/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3374727</guid>
+			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3374727</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 04 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 19 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3374727</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONCESSIONI CONCESSIONE EDILIZIA</category>
+			<title>CONCESSIONE EDILIZIA (PERMESSO DI COSTRUIRE) N. 57 DEL 04.07.2017 DITTA BUSH BONNI BELLE,PRAT. 11026.</title>
+			<description>CONCESSIONE EDILIZIA (PERMESSO DI COSTRUIRE) N. 57 DEL 04.07.2017 DITTA BUSH BONNI BELLE,PRAT. 11026.</description>
+			<a10:updated>2017-07-04T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3374388</guid>
 			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3374388</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>LIQUIDAZIONE SALDO ONORARIO– PER L'AFFIDAMENTO ALLA CONSULTING COMPANY S.A.S. - CATANIA, DEL SERVIZIO DI ASSISTENZA, PREDISPOSIZIONE ATTI E SVOLGIMENTO ATTIVITÀ TECNICO-ECONOMICA RELATIVE AL BANDO PER PRESENTAZIONE DI PROPOSTE PER LA PREDISPOSIZIONE DEL “PIANO NAZIONALE PER LA RIQUALIFICAZIONE SOCIALE E CULTURALE DELLE AREE URBANE DEGRADATE” . COD CIG : Z3C1714F2A. </title>
 			<description>LIQUIDAZIONE SALDO ONORARIO– PER L'AFFIDAMENTO ALLA CONSULTING COMPANY S.A.S. - CATANIA, DEL SERVIZIO DI ASSISTENZA, PREDISPOSIZIONE ATTI E SVOLGIMENTO ATTIVITÀ TECNICO-ECONOMICA RELATIVE AL BANDO PER PRESENTAZIONE DI PROPOSTE PER LA PREDISPOSIZIONE DEL “PIANO NAZIONALE PER LA RIQUALIFICAZIONE SOCIALE E CULTURALE DELLE AREE URBANE DEGRADATE” . COD CIG : Z3C1714F2A. </description>
-			<a10:updated>2017-07-03T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3371839</guid>
-			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3371839</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 03 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 18 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3371839</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>LIQUIDAZIONE FATTURA IMP. RUSSO MARIO - LAVORI PER LA SISTEMAZIONE DELLO SLARGO COMPRESO TRA LE VIE DEL PETTIROSSO, DEL FALCO E DEL PAVONE CODICE CIG: 62920278EE CODICE CUP:B71E15000220004 N. GARA: 6073378 LIQUIDAZIONE 2° S.A.L. E 2° C.P. </title>
-			<description>LIQUIDAZIONE FATTURA IMP. RUSSO MARIO - LAVORI PER LA SISTEMAZIONE DELLO SLARGO COMPRESO TRA LE VIE DEL PETTIROSSO, DEL FALCO E DEL PAVONE CODICE CIG: 62920278EE CODICE CUP:B71E15000220004 N. GARA: 6073378 LIQUIDAZIONE 2° S.A.L. E 2° C.P. </description>
 			<a10:updated>2017-07-03T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
