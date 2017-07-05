@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 05 Jul 2017 13:30:41 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 05 Jul 2017 14:30:41 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Wed, 05 Jul 2017 13:30:41 +0200</pubDate>
+		<pubDate>Wed, 05 Jul 2017 14:30:41 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/631859</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/631859</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 05 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 20 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">631859</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>RISCOSSIONE COATTIVA TRAMITE INGIUNZIONI DI PAGAMENTO. ACCERTAMENTO ENTRATA E APPROVAZIONE LISTA DI CARICO N. 2017/000004</title>
+			<description>RISCOSSIONE COATTIVA TRAMITE INGIUNZIONI DI PAGAMENTO. ACCERTAMENTO ENTRATA E APPROVAZIONE LISTA DI CARICO N. 2017/000004</description>
+			<a10:updated>2017-07-05T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/631856</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/631856</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 05 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 20 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">631856</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>COMUNE DI PESARO - ASSOCIAZIONE PESARO CAMPER CLUB CONTRATTO REP. N. 33303 DEL 10/09/2009, INERENTE LA CONCESSIONE IN USO DI IMMOBILE SITO IN PESARO, STRADA COM.LE CASE BRUCIATE - ACCERTAMENTO ENTRATA AFFERENTE RIMBORSO UTENZE.</title>
+			<description>COMUNE DI PESARO - ASSOCIAZIONE PESARO CAMPER CLUB CONTRATTO REP. N. 33303 DEL 10/09/2009, INERENTE LA CONCESSIONE IN USO DI IMMOBILE SITO IN PESARO, STRADA COM.LE CASE BRUCIATE - ACCERTAMENTO ENTRATA AFFERENTE RIMBORSO UTENZE.</description>
+			<a10:updated>2017-07-05T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/631854</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/631854</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 05 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 14 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">631854</category>
+			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO RICHIESTA PUBBLICAZIONE MATRIMONIO ALBO</category>
+			<title>PUBBLICAZIONI DI MATRIMONIO DI ZANDRI MATTEO E GRAGNOLI PAOLA </title>
+			<description>PUBBLICAZIONI DI MATRIMONIO DI ZANDRI MATTEO E GRAGNOLI PAOLA </description>
+			<a10:updated>2017-07-05T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/631791</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/631791</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>LAVORI DI MANUTENZIONE STRAORDINARIA STRADE ESTERNE 2017, LAVORI DI MANUTENZIONE STRAORDINARIA STRADE E MARCIAPIEDI 2017 E LAVORI DI MANUTENZIONE STRAORDINARIA STRADE CENTRO 2017. IMPEGNO DI SPESA PER PUBBLICAZIONE BNADO DI GARA APERTA.</title>
 			<description>LAVORI DI MANUTENZIONE STRAORDINARIA STRADE ESTERNE 2017, LAVORI DI MANUTENZIONE STRAORDINARIA STRADE E MARCIAPIEDI 2017 E LAVORI DI MANUTENZIONE STRAORDINARIA STRADE CENTRO 2017. IMPEGNO DI SPESA PER PUBBLICAZIONE BNADO DI GARA APERTA.</description>
-			<a10:updated>2017-07-04T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/631668</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/631668</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 04 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 19 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">631668</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>DGR. N. 1578/2016 FONDO NAZIONALE PER LE NON AUTOSUFFICIENZE (FNA 2016) - INTERVENTI A FAVORE DI PERSONE IN CONDIZIONE DI DISABILITÀ GRAVISSIME DI CUI ALL’ART. 3 DEL D.M. 26/09/2016 – ACQUISIZIONE ELENCO RICHIESTE DI CONTRIBUTO </title>
-			<description>DGR. N. 1578/2016 FONDO NAZIONALE PER LE NON AUTOSUFFICIENZE (FNA 2016) - INTERVENTI A FAVORE DI PERSONE IN CONDIZIONE DI DISABILITÀ GRAVISSIME DI CUI ALL’ART. 3 DEL D.M. 26/09/2016 – ACQUISIZIONE ELENCO RICHIESTE DI CONTRIBUTO </description>
-			<a10:updated>2017-07-04T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/631665</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/631665</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 04 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 19 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">631665</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>PROGETTO EUROPEO WOW: AVVIO DELLA PROCEDURA DI GARA PER LA FORNITURA DI SERVIZI TIPOGRAFICI TRAMITE RICHIESTA DI OFFERTA (RDO) NELL'AMBITO DEL BANDO "CANCELLERIA 104" DEL MERCATO ELETTRONICO DEL SISTEMA DI E-PROCUREMENT DELLA PUBBLICA AMMINISTRAZIONE (MEPA)</title>
-			<description>PROGETTO EUROPEO WOW: AVVIO DELLA PROCEDURA DI GARA PER LA FORNITURA DI SERVIZI TIPOGRAFICI TRAMITE RICHIESTA DI OFFERTA (RDO) NELL'AMBITO DEL BANDO "CANCELLERIA 104" DEL MERCATO ELETTRONICO DEL SISTEMA DI E-PROCUREMENT DELLA PUBBLICA AMMINISTRAZIONE (MEPA)</description>
-			<a10:updated>2017-07-04T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/631659</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/631659</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 04 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 19 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">631659</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>UFFICIO SPORT - AFFIDAMENTO IN GESTIONE DEL CAMPO SPORTIVO SITO IN VIA GAGARIN ALL'ASSOCIAZIONE SPORTIVA DITTENTISTICA "AMERICAN FOOTBALL TEAM ANGELS"</title>
-			<description>UFFICIO SPORT - AFFIDAMENTO IN GESTIONE DEL CAMPO SPORTIVO SITO IN VIA GAGARIN ALL'ASSOCIAZIONE SPORTIVA DITTENTISTICA "AMERICAN FOOTBALL TEAM ANGELS"</description>
 			<a10:updated>2017-07-04T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
