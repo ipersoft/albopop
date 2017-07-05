@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 05 Jul 2017 10:31:15 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 05 Jul 2017 11:31:20 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Wed, 05 Jul 2017 10:31:15 +0200</pubDate>
+		<pubDate>Wed, 05 Jul 2017 11:31:20 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3376599</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3376599</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 05 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 13 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3376599</category>
+			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>PUBBLICAZIONI ANNO 2017 N. 228 RASPINI FRANCESCO MARINO MARIA AYELEN</title>
+			<description>PUBBLICAZIONI ANNO 2017 N. 228 RASPINI FRANCESCO MARINO MARIA AYELEN</description>
+			<a10:updated>2017-07-05T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3376597</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3376597</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 05 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 20 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3376597</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>STADIO PORTA ELISA STAGIONE CALCISTICA 2017/2018. ESERCIZI PUBBLICI UBICATI ALL'INTERNO E IN PROSSIMITÀ DELLO STADIO- ORDINANZA </title>
+			<description>STADIO PORTA ELISA STAGIONE CALCISTICA 2017/2018. ESERCIZI PUBBLICI UBICATI ALL'INTERNO E IN PROSSIMITÀ DELLO STADIO- ORDINANZA </description>
+			<a10:updated>2017-07-05T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3376226</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3376226</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
 			<title> DIPENDENTI COMUNALI - LIQUIDAZIONE RIMBORSO SPESE PER MISSIONI MAGGIO 2017 E PRECEDENTI</title>
 			<description> DIPENDENTI COMUNALI - LIQUIDAZIONE RIMBORSO SPESE PER MISSIONI MAGGIO 2017 E PRECEDENTI</description>
-			<a10:updated>2017-07-04T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3374579</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3374579</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 04 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 19 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3374579</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>LAVORI DI MANUTENZIONE ORDINARIA DA ATTUARSI SULLE VIABILITA' COMUNALI E VICINALI DI USO PUBBLICO DELLE CIRCOSCRIZIONE 3, 7-9, ANNUALITA' 2017/2018. AFFIDAMENTO DEL SERVIZIO DI DIREZIONE DEI LAVORI. CIG: Z211F27232</title>
-			<description>LAVORI DI MANUTENZIONE ORDINARIA DA ATTUARSI SULLE VIABILITA' COMUNALI E VICINALI DI USO PUBBLICO DELLE CIRCOSCRIZIONE 3, 7-9, ANNUALITA' 2017/2018. AFFIDAMENTO DEL SERVIZIO DI DIREZIONE DEI LAVORI. CIG: Z211F27232</description>
-			<a10:updated>2017-07-04T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3374576</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3374576</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 04 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 19 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3374576</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>LAVORI DI MANUTENZIONE ORDINARIA DELLE VIABILITA' DELLA EX CIRCOSCRIZIONE N° 8 - PERIODO 2017 - 2018. APPROVAZIONE RISULTANZE DI GARA ED AFFIDAMENTO DEI LAVORI - CIG: 7098192D54</title>
-			<description>LAVORI DI MANUTENZIONE ORDINARIA DELLE VIABILITA' DELLA EX CIRCOSCRIZIONE N° 8 - PERIODO 2017 - 2018. APPROVAZIONE RISULTANZE DI GARA ED AFFIDAMENTO DEI LAVORI - CIG: 7098192D54</description>
 			<a10:updated>2017-07-04T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
