@@ -5,7 +5,7 @@
 		<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Felino</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 05 Jul 2017 08:30:39 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 05 Jul 2017 09:30:37 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Felino</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Felino</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_felino</a10:id>
-		<pubDate>Wed, 05 Jul 2017 08:30:39 +0200</pubDate>
+		<pubDate>Wed, 05 Jul 2017 09:30:37 +0200</pubDate>
 		<docs>http://albopop.it/comune/felino/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2858168</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2858168</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 05 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 18 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2858168</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
+			<title>BANDO DI CONCORSO</title>
+			<description>BANDO DI CONCORSO</description>
+			<a10:updated>2017-07-05T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2858024</guid>
 			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2858024</link>
@@ -284,17 +295,6 @@
 			<title>SOSPENSIONE DEI PRELIEVI DAI CORSI D ACQUA NEL TERRITORIO DI COMPETENZA DELLA STRUTTURA AUTORIZZAZIONI E CONCESSIONI DI PARMA - 2017 - TRASMISSIONE ATTO</title>
 			<description>SOSPENSIONE DEI PRELIEVI DAI CORSI D ACQUA NEL TERRITORIO DI COMPETENZA DELLA STRUTTURA AUTORIZZAZIONI E CONCESSIONI DI PARMA - 2017 - TRASMISSIONE ATTO</description>
 			<a10:updated>2017-06-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2818290</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2818290</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 14 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2818290</category>
-			<category domain="http://albopop.it/specs#item-category-type">A005 ORDINANZE E AVVISI</category>
-			<title>PROVVEDIMENTO DI LIMITAZIONE DELL'UTILIZZO DI ACQUA DERIVATA DALL' ACQUEDOTTO COMUNALE</title>
-			<description>PROVVEDIMENTO DI LIMITAZIONE DELL'UTILIZZO DI ACQUA DERIVATA DALL' ACQUEDOTTO COMUNALE</description>
-			<a10:updated>2017-06-14T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
