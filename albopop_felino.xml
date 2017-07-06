@@ -5,7 +5,7 @@
 		<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Felino</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 06 Jul 2017 11:30:40 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 06 Jul 2017 12:30:44 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Felino</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Felino</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_felino</a10:id>
-		<pubDate>Thu, 06 Jul 2017 11:30:40 +0200</pubDate>
+		<pubDate>Thu, 06 Jul 2017 12:30:44 +0200</pubDate>
 		<docs>http://albopop.it/comune/felino/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2860831</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2860831</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 06 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 14 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2860831</category>
+			<category domain="http://albopop.it/specs#item-category-type">A001 PUBBLICAZIONI MATRIMONIO</category>
+			<title>ATTO DI PUBBLICAZIONE DI MATRIMONIO DI PAULIS VINCENZO CON UNGREDDA SONIA.</title>
+			<description>ATTO DI PUBBLICAZIONE DI MATRIMONIO DI PAULIS VINCENZO CON UNGREDDA SONIA.</description>
+			<a10:updated>2017-07-06T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2859403</guid>
 			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2859403</link>
@@ -284,17 +295,6 @@
 			<title>DIVIETO DI SOMMINISTRAZIONE BEVANDE E/O ALIMENTI IN BICCHIERI DI VETRO E DIVIETO DI VENDITA PER ASPORTO DI BEVANDE IN BOTTIGLIE DI VETRO E/O LATTINE DURANTE LO SVOLGIMENTO DI PUBBLICI INTRATTENIMENTI - ANNO 2017</title>
 			<description>DIVIETO DI SOMMINISTRAZIONE BEVANDE E/O ALIMENTI IN BICCHIERI DI VETRO E DIVIETO DI VENDITA PER ASPORTO DI BEVANDE IN BOTTIGLIE DI VETRO E/O LATTINE DURANTE LO SVOLGIMENTO DI PUBBLICI INTRATTENIMENTI - ANNO 2017</description>
 			<a10:updated>2017-06-23T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2827293</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2827293</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2827293</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
-			<title>SOSPENSIONE DEI PRELIEVI DAI CORSI D ACQUA NEL TERRITORIO DI COMPETENZA DELLA STRUTTURA AUTORIZZAZIONI E CONCESSIONI DI PARMA - 2017 - TRASMISSIONE ATTO</title>
-			<description>SOSPENSIONE DEI PRELIEVI DAI CORSI D ACQUA NEL TERRITORIO DI COMPETENZA DELLA STRUTTURA AUTORIZZAZIONI E CONCESSIONI DI PARMA - 2017 - TRASMISSIONE ATTO</description>
-			<a10:updated>2017-06-22T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Annone Veneto</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 06 Jul 2017 11:30:53 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 06 Jul 2017 12:30:51 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Annone Veneto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Annone Veneto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_annoneveneto</a10:id>
-		<pubDate>Thu, 06 Jul 2017 11:30:53 +0200</pubDate>
+		<pubDate>Thu, 06 Jul 2017 12:30:51 +0200</pubDate>
 		<docs>http://albopop.it/comune/annoneveneto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3379033</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3379033</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 06 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 21 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3379033</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>SERVIZIO ASPORTO E SMALTIMENTI RIFIUTI SOLIDI URBANI - LIQUIDAZIONE FATTURE</title>
+			<description>SERVIZIO ASPORTO E SMALTIMENTI RIFIUTI SOLIDI URBANI - LIQUIDAZIONE FATTURE</description>
+			<a10:updated>2017-07-06T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3378921</guid>
 			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3378921</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>OPERE COMPLEMENTARI AI LAVORI DI "RIQUALIFICAZIONE ENERGETICA E ADEGUAMENTO DEL MAGAZZINO COMUNALE PER L'INSTALLAZIONE DI UN IMPIANTO FOTOVOLTAICO" - LIQUIDAZIONE</title>
 			<description>OPERE COMPLEMENTARI AI LAVORI DI "RIQUALIFICAZIONE ENERGETICA E ADEGUAMENTO DEL MAGAZZINO COMUNALE PER L'INSTALLAZIONE DI UN IMPIANTO FOTOVOLTAICO" - LIQUIDAZIONE</description>
-			<a10:updated>2017-07-05T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3375852</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3375852</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 05 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 20 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3375852</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
-			<title>COMUNE DI ANNONE VENETO - ORDINANZA DEL SINDACO N. 12/17 - SOSPENSIONE TEMPORANEA DELLA CIRCOLAZIONE DEI VEICOLI IN PIAZZA VITTORIO VENETO, VIA 4 NOVEMBRE (TRATTO INTERPOSTO TRA PIAZZA VITTORIO VENETO E VIA G. MARCONI) VIA LIBERTA', VIALE VENEZIA E VIA ROMA (TRATTO INTERPOSTO TRA PIAZZA VITTORIO VENETO E VIA DANTE ALIGHIERI) IN OCCASIONE DELLA MANIFESTAZIONE DENOMINATA "CINEMA IN PIAZZA" PREVISTA NELLE SERATE DEL 07 E 14 LUGLIO 2017.</title>
-			<description>COMUNE DI ANNONE VENETO - ORDINANZA DEL SINDACO N. 12/17 - SOSPENSIONE TEMPORANEA DELLA CIRCOLAZIONE DEI VEICOLI IN PIAZZA VITTORIO VENETO, VIA 4 NOVEMBRE (TRATTO INTERPOSTO TRA PIAZZA VITTORIO VENETO E VIA G. MARCONI) VIA LIBERTA', VIALE VENEZIA E VIA ROMA (TRATTO INTERPOSTO TRA PIAZZA VITTORIO VENETO E VIA DANTE ALIGHIERI) IN OCCASIONE DELLA MANIFESTAZIONE DENOMINATA "CINEMA IN PIAZZA" PREVISTA NELLE SERATE DEL 07 E 14 LUGLIO 2017.</description>
 			<a10:updated>2017-07-05T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
