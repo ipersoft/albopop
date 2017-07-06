@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 05 Jul 2017 18:30:57 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 06 Jul 2017 08:30:58 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Wed, 05 Jul 2017 18:30:57 +0200</pubDate>
+		<pubDate>Thu, 06 Jul 2017 08:30:58 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3378282</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3378282</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 06 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 07 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3378282</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBI</category>
+			<title>AFFISSIONE ALBO AGENZIA ENTRATE RISCOSSIONE ART. 60/E DAL GIORNO 06/07/2017 AL GIORNO 07/07/2017</title>
+			<description>AFFISSIONE ALBO AGENZIA ENTRATE RISCOSSIONE ART. 60/E DAL GIORNO 06/07/2017 AL GIORNO 07/07/2017</description>
+			<a10:updated>2017-07-06T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3377839</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3377839</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>U.O. 8.2 – LAVORI DI MANUTENZIONE ORDINARIA ALLA SEGNALETICA ORIZZONTALE E VERTICALE POSTA LUNGO LA VIABILITA' COMUNALE. (CONTENUTO DELL'ATTO: LL.SS.FF - AGGIUDICAZIONE DEFINITIVA – FAMIGLIA 2) . CIG :Z141ECAFFD.</title>
 			<description>U.O. 8.2 – LAVORI DI MANUTENZIONE ORDINARIA ALLA SEGNALETICA ORIZZONTALE E VERTICALE POSTA LUNGO LA VIABILITA' COMUNALE. (CONTENUTO DELL'ATTO: LL.SS.FF - AGGIUDICAZIONE DEFINITIVA – FAMIGLIA 2) . CIG :Z141ECAFFD.</description>
-			<a10:updated>2017-07-04T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3374791</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3374791</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 04 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 19 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3374791</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>U.O 5.1) MERCATO DEL CARMINE,PROCEDURA NEGOZIATA AI SENSI DELL’ART. 36 C. 2 LETT. C DEL DLGS. N° 50/2016 PER L'AFFIDAMENTO DEI LAVORI DI MIGLIORAMENTO SISMICO DELLA CHIESA E DEL CHIOSTRO ,LATO EST - AFFIDAMENTO PER LA PUBBLICAZIONE RISULTANZE DI GARA( ALL 03) CIG ZD21E98D36 - CIG: Z191E98D5A -CIG: ZC11E98D88 - CUP J62C16000010007</title>
-			<description>U.O 5.1) MERCATO DEL CARMINE,PROCEDURA NEGOZIATA AI SENSI DELL’ART. 36 C. 2 LETT. C DEL DLGS. N° 50/2016 PER L'AFFIDAMENTO DEI LAVORI DI MIGLIORAMENTO SISMICO DELLA CHIESA E DEL CHIOSTRO ,LATO EST - AFFIDAMENTO PER LA PUBBLICAZIONE RISULTANZE DI GARA( ALL 03) CIG ZD21E98D36 - CIG: Z191E98D5A -CIG: ZC11E98D88 - CUP J62C16000010007</description>
 			<a10:updated>2017-07-04T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
