@@ -5,7 +5,7 @@
 		<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Annone Veneto</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 06 Jul 2017 10:30:52 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 06 Jul 2017 11:30:53 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Annone Veneto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,55 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Annone Veneto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_annoneveneto</a10:id>
-		<pubDate>Thu, 06 Jul 2017 10:30:52 +0200</pubDate>
+		<pubDate>Thu, 06 Jul 2017 11:30:53 +0200</pubDate>
 		<docs>http://albopop.it/comune/annoneveneto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3378921</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3378921</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 06 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 21 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3378921</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>TARI ANNO 2017 EDIFICI COMUNALI</title>
+			<description>TARI ANNO 2017 EDIFICI COMUNALI</description>
+			<a10:updated>2017-07-06T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3378856</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3378856</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 06 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 21 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3378856</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>LIQUIDAZIONE ASSISTENZA ON SITE DITTA SAIES SRL</title>
+			<description>LIQUIDAZIONE ASSISTENZA ON SITE DITTA SAIES SRL</description>
+			<a10:updated>2017-07-06T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3378790</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3378790</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 06 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 21 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3378790</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>LIQUIDAZIONE FATTURE TELECOM ITALIA SPA MUNICIPIO PERIODO 4 BIM. 2017</title>
+			<description>LIQUIDAZIONE FATTURE TELECOM ITALIA SPA MUNICIPIO PERIODO 4 BIM. 2017</description>
+			<a10:updated>2017-07-06T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3378786</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3378786</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 06 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 21 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3378786</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>LIQUIDAZIONE CANONI VARI SOFTWARE DITTA SAIES SRL</title>
+			<description>LIQUIDAZIONE CANONI VARI SOFTWARE DITTA SAIES SRL</description>
+			<a10:updated>2017-07-06T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3378708</guid>
 			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3378708</link>
@@ -251,50 +295,6 @@
 			<title>COMUNE DI ANNONE VENETO - ORDINANZA DEL SINDACO N. 12/17 - SOSPENSIONE TEMPORANEA DELLA CIRCOLAZIONE DEI VEICOLI IN PIAZZA VITTORIO VENETO, VIA 4 NOVEMBRE (TRATTO INTERPOSTO TRA PIAZZA VITTORIO VENETO E VIA G. MARCONI) VIA LIBERTA', VIALE VENEZIA E VIA ROMA (TRATTO INTERPOSTO TRA PIAZZA VITTORIO VENETO E VIA DANTE ALIGHIERI) IN OCCASIONE DELLA MANIFESTAZIONE DENOMINATA "CINEMA IN PIAZZA" PREVISTA NELLE SERATE DEL 07 E 14 LUGLIO 2017.</title>
 			<description>COMUNE DI ANNONE VENETO - ORDINANZA DEL SINDACO N. 12/17 - SOSPENSIONE TEMPORANEA DELLA CIRCOLAZIONE DEI VEICOLI IN PIAZZA VITTORIO VENETO, VIA 4 NOVEMBRE (TRATTO INTERPOSTO TRA PIAZZA VITTORIO VENETO E VIA G. MARCONI) VIA LIBERTA', VIALE VENEZIA E VIA ROMA (TRATTO INTERPOSTO TRA PIAZZA VITTORIO VENETO E VIA DANTE ALIGHIERI) IN OCCASIONE DELLA MANIFESTAZIONE DENOMINATA "CINEMA IN PIAZZA" PREVISTA NELLE SERATE DEL 07 E 14 LUGLIO 2017.</description>
 			<a10:updated>2017-07-05T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3371545</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3371545</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 03 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 18 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3371545</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>APPALTO DI SERVIZIO DI REFEZIONE SCOLASTICA MAGGIO 2017 - LIQUIDAZIONE</title>
-			<description>APPALTO DI SERVIZIO DI REFEZIONE SCOLASTICA MAGGIO 2017 - LIQUIDAZIONE</description>
-			<a10:updated>2017-07-03T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3371542</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3371542</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 03 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 18 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3371542</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>APPALTO DI SERVIZIO DI PULIZIA REFETTORIO MAGGIO 2017 - LIQUIDAZIONE</title>
-			<description>APPALTO DI SERVIZIO DI PULIZIA REFETTORIO MAGGIO 2017 - LIQUIDAZIONE</description>
-			<a10:updated>2017-07-03T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3371539</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3371539</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 03 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 18 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3371539</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>FORNITURA MATERIALE DI FERRAMENTA PER MANUTENZIONI PATRIMONIO COMUNALE - LIQUIDAZIONE</title>
-			<description>FORNITURA MATERIALE DI FERRAMENTA PER MANUTENZIONI PATRIMONIO COMUNALE - LIQUIDAZIONE</description>
-			<a10:updated>2017-07-03T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3371536</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3371536</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 03 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 18 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3371536</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>LAVORI EDILI PER EDIFICI ALL'INTERNO DEL TERRITORIO COMUNALE - IMPEGNO DI SPESA</title>
-			<description>LAVORI EDILI PER EDIFICI ALL'INTERNO DEL TERRITORIO COMUNALE - IMPEGNO DI SPESA</description>
-			<a10:updated>2017-07-03T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
