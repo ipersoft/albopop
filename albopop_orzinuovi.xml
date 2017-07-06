@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 06 Jul 2017 13:30:39 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 06 Jul 2017 14:30:39 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Thu, 06 Jul 2017 13:30:39 +0200</pubDate>
+		<pubDate>Thu, 06 Jul 2017 14:30:39 +0200</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2861282</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2861282</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 06 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 04 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2861282</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI BANDO</category>
+			<title>BANDO DI MOBILITA' ESTERNA CAT.D SETTORE AMMINISTRATIVO</title>
+			<description>BANDO DI MOBILITA' ESTERNA CAT.D SETTORE AMMINISTRATIVO</description>
+			<a10:updated>2017-07-06T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2861054</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2861054</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>ACQUISTO KIT ARUBA KEY TRAMITE MERCATO ELETTRONICO (MEPA) PER RESPONSABILE AREA SERVIZI FINANZIARI DOTT.SSA CUCCHI CLAUDIA CIG ZE21F24912 </title>
 			<description>ACQUISTO KIT ARUBA KEY TRAMITE MERCATO ELETTRONICO (MEPA) PER RESPONSABILE AREA SERVIZI FINANZIARI DOTT.SSA CUCCHI CLAUDIA CIG ZE21F24912 </description>
-			<a10:updated>2017-06-27T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2848606</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2848606</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 27 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 12 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2848606</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>AUTORIZZAZIONE AI SENSI DELLA LEGGE DI STABILITÀ 2016, LEGGE N. 208/2015, ART. 1 COMMA 516 – PER ACQUISTO KIT DI FIRMA DIGITALE PER RESPONSABILE AREA SERVIZI FINANZIARI DEL COMUNE DI ORZINUOVI</title>
-			<description>AUTORIZZAZIONE AI SENSI DELLA LEGGE DI STABILITÀ 2016, LEGGE N. 208/2015, ART. 1 COMMA 516 – PER ACQUISTO KIT DI FIRMA DIGITALE PER RESPONSABILE AREA SERVIZI FINANZIARI DEL COMUNE DI ORZINUOVI</description>
 			<a10:updated>2017-06-27T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

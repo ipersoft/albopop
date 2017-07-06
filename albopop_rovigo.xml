@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 06 Jul 2017 13:31:07 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 06 Jul 2017 14:30:58 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Thu, 06 Jul 2017 13:31:07 +0200</pubDate>
+		<pubDate>Thu, 06 Jul 2017 14:30:58 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2861193</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2861193</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 06 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 21 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2861193</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>VARIAZIONE COMPENSATIVA AI SENSI DELL'ART. 175 COMMA 5 QUATER LETT. A) DEL D.LGS 267/2000</title>
+			<description>VARIAZIONE COMPENSATIVA AI SENSI DELL'ART. 175 COMMA 5 QUATER LETT. A) DEL D.LGS 267/2000</description>
+			<a10:updated>2017-07-06T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2860958</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2860958</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DECRETI</category>
 			<title>INCARICO DI SUPPLENZA. NOMINA DELLA DOTT.SSA NICOLETTA CITTADIN, QUALE VICE SEGRETARIO DEL COMUNE DI ROVIGO IN SOSTITUZIONE DELLA DOTT.SSA MARIA CRISTINA CAVALLARI, QUALE SEGRETARIO TITOLARE, ASSENTE DAL 7 LUGLIO 2017 AL 14 LUGLIO 2017.</title>
 			<description>INCARICO DI SUPPLENZA. NOMINA DELLA DOTT.SSA NICOLETTA CITTADIN, QUALE VICE SEGRETARIO DEL COMUNE DI ROVIGO IN SOSTITUZIONE DELLA DOTT.SSA MARIA CRISTINA CAVALLARI, QUALE SEGRETARIO TITOLARE, ASSENTE DAL 7 LUGLIO 2017 AL 14 LUGLIO 2017.</description>
-			<a10:updated>2017-07-05T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2858299</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2858299</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 05 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 20 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2858299</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>ADESIONE ALLA CONVENZIONE CONSIP DENOMINATA “ENERGIA ELETTRICA 14” LOTTO 4 – PER LA FORNITURA DI ENERGIA ELETTRICA PER GLI IMMOBILI COMUNALI ED ALTRI USI - PERIODO 1/9/2017 - 31/8/2018. APPROVAZIONE SPESA – CIG DERIVATO 7126221799</title>
-			<description>ADESIONE ALLA CONVENZIONE CONSIP DENOMINATA “ENERGIA ELETTRICA 14” LOTTO 4 – PER LA FORNITURA DI ENERGIA ELETTRICA PER GLI IMMOBILI COMUNALI ED ALTRI USI - PERIODO 1/9/2017 - 31/8/2018. APPROVAZIONE SPESA – CIG DERIVATO 7126221799</description>
 			<a10:updated>2017-07-05T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
