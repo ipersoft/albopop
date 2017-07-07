@@ -5,7 +5,7 @@
 		<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Belpasso</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 07 Jul 2017 08:30:44 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 07 Jul 2017 09:30:45 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Belpasso</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Belpasso</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_belpasso</a10:id>
-		<pubDate>Fri, 07 Jul 2017 08:30:44 +0200</pubDate>
+		<pubDate>Fri, 07 Jul 2017 09:30:45 +0200</pubDate>
 		<docs>http://albopop.it/comune/belpasso/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3380745</guid>
+			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3380745</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 07 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 15 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3380745</category>
+			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>PUBBLICAZIONE DI MATRIMONIO VERBALE N. 71</title>
+			<description>PUBBLICAZIONE DI MATRIMONIO VERBALE N. 71</description>
+			<a10:updated>2017-07-07T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3380583</guid>
 			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3380583</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title> LIQUIDAZIONE IN FAVORE DELLA DITTA PUNTOGRAFICA S.R.L .S. RELATIVA ALLA FORNITURA DI MATERIALE TIPOGRAFICO ,IN OCCASIONE DELL'EVENTO ARTISTICO -FORMATIVO “CANCELLIAMO IL GRIDO DELLA TERRA “ CIG:Z501492675</title>
 			<description> LIQUIDAZIONE IN FAVORE DELLA DITTA PUNTOGRAFICA S.R.L .S. RELATIVA ALLA FORNITURA DI MATERIALE TIPOGRAFICO ,IN OCCASIONE DELL'EVENTO ARTISTICO -FORMATIVO “CANCELLIAMO IL GRIDO DELLA TERRA “ CIG:Z501492675</description>
-			<a10:updated>2017-07-03T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3372455</guid>
-			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3372455</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 03 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 18 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3372455</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>LIQUIDAZIONE IN FAVORE DELLA DITTA PUNTOGRAFICA S.R.L .S. RELATIVA ALLA FORNITURA DI MATERIALE TIPOGRAFICO IN OCCASIONE DELLA VI EDIZIONE A CURA DELL'ARCHEOCLUB D'ITALIA “BELPASSO STA PERDENDO LA MEMORIA”. CIG:Z151479A22</title>
-			<description>LIQUIDAZIONE IN FAVORE DELLA DITTA PUNTOGRAFICA S.R.L .S. RELATIVA ALLA FORNITURA DI MATERIALE TIPOGRAFICO IN OCCASIONE DELLA VI EDIZIONE A CURA DELL'ARCHEOCLUB D'ITALIA “BELPASSO STA PERDENDO LA MEMORIA”. CIG:Z151479A22</description>
 			<a10:updated>2017-07-03T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
