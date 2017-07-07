@@ -5,7 +5,7 @@
 		<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Canosa di Puglia</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 07 Jul 2017 12:31:11 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 07 Jul 2017 13:30:47 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Canosa di Puglia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Barletta-Andria-Trani</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Canosa di Puglia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_canosadipuglia</a10:id>
-		<pubDate>Fri, 07 Jul 2017 12:31:11 +0200</pubDate>
+		<pubDate>Fri, 07 Jul 2017 13:30:47 +0200</pubDate>
 		<docs>http://albopop.it/comune/canosadipuglia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3382481</guid>
+			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3382481</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 07 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 22 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3382481</category>
+			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DI CONSIGLIO</category>
+			<title>POSTA CERTIFICATA: RICHIESTA PUBBLICAZIONE</title>
+			<description>POSTA CERTIFICATA: RICHIESTA PUBBLICAZIONE</description>
+			<a10:updated>2017-07-07T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3380640</guid>
 			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3380640</link>
@@ -284,17 +295,6 @@
 			<title>Elezioni Amministrative – Servizio di allestimento sedi di seggio.- Rimodulazione quadro economico di spesa a seguito del servizio relativo al ballottaggio del 25/06/2017. CIG Z411E64225</title>
 			<description>Elezioni Amministrative – Servizio di allestimento sedi di seggio.- Rimodulazione quadro economico di spesa a seguito del servizio relativo al ballottaggio del 25/06/2017. CIG Z411E64225</description>
 			<a10:updated>2017-07-05T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3377262</guid>
-			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3377262</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 24 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 09 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3377262</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
-			<title>AQP Rafforzato "Beni e Attività Culturali" - Delibera CIPE 92/2012 FSC Fondo di Sviluppo e Coesione 2007-2013 - SCHEDA 43 - Intervento di "Recupero e valorizzazione dell'Area Archeologica di San Leucio" 2° lotto funzionale riguardante la fornitura di apparati multimediali. Gara di appalto mediante procedura RdO (Richiesta di Offerta) sul MEPA, con criterio di aggiudicazione dell'offerta economicamente più vantaggiosa. COMMISSIONE GIUDICATRICE.SOSTITUZIONE COMPONENTE. </title>
-			<description>AQP Rafforzato "Beni e Attività Culturali" - Delibera CIPE 92/2012 FSC Fondo di Sviluppo e Coesione 2007-2013 - SCHEDA 43 - Intervento di "Recupero e valorizzazione dell'Area Archeologica di San Leucio" 2° lotto funzionale riguardante la fornitura di apparati multimediali. Gara di appalto mediante procedura RdO (Richiesta di Offerta) sul MEPA, con criterio di aggiudicazione dell'offerta economicamente più vantaggiosa. COMMISSIONE GIUDICATRICE.SOSTITUZIONE COMPONENTE. </description>
-			<a10:updated>2017-06-24T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Belpasso</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 07 Jul 2017 12:31:06 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 07 Jul 2017 13:30:43 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Belpasso</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Belpasso</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_belpasso</a10:id>
-		<pubDate>Fri, 07 Jul 2017 12:31:06 +0200</pubDate>
+		<pubDate>Fri, 07 Jul 2017 13:30:43 +0200</pubDate>
 		<docs>http://albopop.it/comune/belpasso/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3382365</guid>
+			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3382365</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 07 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 22 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3382365</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>APPALTO DEI LAVORI DI REALIZZAZIONE DI UN PARCHEGGIO A PIANO TAVOLA COMPRESO TRA IL VIALE DELLA RESISTENZA E VIA E. SETTI CARRAIO. CODICE CIG :5503031CD4 / NUMERO GARA : 5363166 / COD. C.U.P. ( B71H13001350004 ) IMPRESA: R.I.C.O. S.R.L APPROVAZIONE ATTI FINALI, CERTIFICATO REGOLARE ESECUZIONE E VERSAMENTO INDENNITA TECNICHE</title>
+			<description>APPALTO DEI LAVORI DI REALIZZAZIONE DI UN PARCHEGGIO A PIANO TAVOLA COMPRESO TRA IL VIALE DELLA RESISTENZA E VIA E. SETTI CARRAIO. CODICE CIG :5503031CD4 / NUMERO GARA : 5363166 / COD. C.U.P. ( B71H13001350004 ) IMPRESA: R.I.C.O. S.R.L APPROVAZIONE ATTI FINALI, CERTIFICATO REGOLARE ESECUZIONE E VERSAMENTO INDENNITA TECNICHE</description>
+			<a10:updated>2017-07-07T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3380745</guid>
 			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3380745</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERA DI CONSIGLIO</category>
 			<title>APPROVAZIONE RENDICONTO DELL’ESERCIZIO FINANZIARIO 2016.</title>
 			<description>APPROVAZIONE RENDICONTO DELL’ESERCIZIO FINANZIARIO 2016.</description>
-			<a10:updated>2017-07-03T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3372457</guid>
-			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3372457</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 03 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 18 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3372457</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title> LIQUIDAZIONE IN FAVORE DELLA DITTA PUNTOGRAFICA S.R.L .S. RELATIVA ALLA FORNITURA DI MATERIALE TIPOGRAFICO ,IN OCCASIONE DELL'EVENTO ARTISTICO -FORMATIVO “CANCELLIAMO IL GRIDO DELLA TERRA “ CIG:Z501492675</title>
-			<description> LIQUIDAZIONE IN FAVORE DELLA DITTA PUNTOGRAFICA S.R.L .S. RELATIVA ALLA FORNITURA DI MATERIALE TIPOGRAFICO ,IN OCCASIONE DELL'EVENTO ARTISTICO -FORMATIVO “CANCELLIAMO IL GRIDO DELLA TERRA “ CIG:Z501492675</description>
 			<a10:updated>2017-07-03T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
