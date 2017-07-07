@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 06 Jul 2017 18:30:54 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 07 Jul 2017 08:31:08 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Thu, 06 Jul 2017 18:30:54 +0200</pubDate>
+		<pubDate>Fri, 07 Jul 2017 08:31:08 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2861749</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2861749</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 07 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 14 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2861749</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE PUBBLICAZIONI MATRIMONIALI</category>
+			<title>PUBBLICAZIONI DI MATRIMONIO DAL SANTO ANDREA - GHITULESCU ILONA</title>
+			<description>PUBBLICAZIONI DI MATRIMONIO DAL SANTO ANDREA - GHITULESCU ILONA</description>
+			<a10:updated>2017-07-07T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2861694</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2861694</link>
@@ -284,17 +295,6 @@
 			<title>AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE DEL 05/07/2017_ ELENCO N. 46018_N. 30 NOMINATIVI VARI</title>
 			<description>AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE DEL 05/07/2017_ ELENCO N. 46018_N. 30 NOMINATIVI VARI</description>
 			<a10:updated>2017-07-06T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2858541</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2858541</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 05 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 20 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2858541</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>NOMINA DELLA COMMISSIONE DI GARA PER AFFIDAMENTO IN APPALTO SERVIZIO DI ASSISTENZA DOMICILIARE ED ASSISTENZA DOMICILIARE EDUCATIVA.</title>
-			<description>NOMINA DELLA COMMISSIONE DI GARA PER AFFIDAMENTO IN APPALTO SERVIZIO DI ASSISTENZA DOMICILIARE ED ASSISTENZA DOMICILIARE EDUCATIVA.</description>
-			<a10:updated>2017-07-05T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
