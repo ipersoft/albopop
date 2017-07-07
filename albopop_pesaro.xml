@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 07 Jul 2017 14:30:38 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 07 Jul 2017 15:30:39 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Fri, 07 Jul 2017 14:30:38 +0200</pubDate>
+		<pubDate>Fri, 07 Jul 2017 15:30:39 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/659853</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/659853</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 07 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 22 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">659853</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>DITTA DEMOLIZIONI - SCAVI MONTAGNA F. SRL - DETERMINAZIONE N. 6 DEL 11/1/2016 PER L’AUTORIZZAZIONE ALL'ESERCIZIO DELL'ATTIVITÀ ESTRATTIVA DI MATERIALE SABBIOSO IN LOCALITÀ CÀ PAGLIARANI. PROROGA.</title>
+			<description>DITTA DEMOLIZIONI - SCAVI MONTAGNA F. SRL - DETERMINAZIONE N. 6 DEL 11/1/2016 PER L’AUTORIZZAZIONE ALL'ESERCIZIO DELL'ATTIVITÀ ESTRATTIVA DI MATERIALE SABBIOSO IN LOCALITÀ CÀ PAGLIARANI. PROROGA.</description>
+			<a10:updated>2017-07-07T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/659824</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/659824</link>
@@ -284,17 +295,6 @@
 			<title> AVVISO DI DEPOSITO DISPOSIZIONE DI CONFISCA DEL VEICOLO TARGA AL497RW</title>
 			<description> AVVISO DI DEPOSITO DISPOSIZIONE DI CONFISCA DEL VEICOLO TARGA AL497RW</description>
 			<a10:updated>2017-07-07T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/637459</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/637459</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 06 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 21 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">637459</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA DEL SINDACO</category>
-			<title>OGGETTO: DIVIETO DETENZIONE E DI VENDITA E SOMMINISTRAZIONE DI BEVANDE CONTENUTE IN LATTINE E BOTTIGLIE/BICCHIERI DI VETRO IN OCCASIONE DELLA MANIFESTAZIONE “LA LIBERTA’ DI SCELTA” CHE SI TERRA’ AL PARCO MIRALFIORE SABATO 8 LUGLIO 2017 </title>
-			<description>OGGETTO: DIVIETO DETENZIONE E DI VENDITA E SOMMINISTRAZIONE DI BEVANDE CONTENUTE IN LATTINE E BOTTIGLIE/BICCHIERI DI VETRO IN OCCASIONE DELLA MANIFESTAZIONE “LA LIBERTA’ DI SCELTA” CHE SI TERRA’ AL PARCO MIRALFIORE SABATO 8 LUGLIO 2017 </description>
-			<a10:updated>2017-07-06T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
