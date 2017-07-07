@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 07 Jul 2017 11:31:23 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 07 Jul 2017 12:31:22 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Fri, 07 Jul 2017 11:31:23 +0200</pubDate>
+		<pubDate>Fri, 07 Jul 2017 12:31:22 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2862395</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2862395</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 07 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 13 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2862395</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE</category>
+			<title>CONVOCAZIONE CONSIGLIO COMUNALE DELL'11 E 13 LUGLIO 2017 </title>
+			<description>CONVOCAZIONE CONSIGLIO COMUNALE DELL'11 E 13 LUGLIO 2017 </description>
+			<a10:updated>2017-07-07T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2862063</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2862063</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>LIQUIDAZIONE FATTURA N. 06 DEL 21/12/2015 DITTA TECNOVERDE S.R.L. CON SEDE IN VIA ZONA INDUSTRIALE, 110/A VILLADOSE (RO) PER LAVORI DI PULIZIA CORTILE PIAZZA ANNONARIA – SEDE EX VIGILI URBANI. SMARTCIG N. Z0D1785667</title>
 			<description>LIQUIDAZIONE FATTURA N. 06 DEL 21/12/2015 DITTA TECNOVERDE S.R.L. CON SEDE IN VIA ZONA INDUSTRIALE, 110/A VILLADOSE (RO) PER LAVORI DI PULIZIA CORTILE PIAZZA ANNONARIA – SEDE EX VIGILI URBANI. SMARTCIG N. Z0D1785667</description>
-			<a10:updated>2017-07-05T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2859182</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2859182</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 05 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 20 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2859182</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>LAVORI DI REALIZZAZIONE DI UNA PALESTRA IN FRAZIONE BORSEA. LIQUIDAZIONE COMPETENZE E SPESE ALL’ARCH. GIAMPRIMO BONATO PER: D.L.-CONTABILITÀ-ASSISTENZA COLLAUDO 1° STRALCIO (SALDO), COORDINAMENTO SICUREZZA IN FASE DI ESECUZIONE 1° STRALCIO (SALDO). REVOCA D.T.D. 855/2017</title>
-			<description>LAVORI DI REALIZZAZIONE DI UNA PALESTRA IN FRAZIONE BORSEA. LIQUIDAZIONE COMPETENZE E SPESE ALL’ARCH. GIAMPRIMO BONATO PER: D.L.-CONTABILITÀ-ASSISTENZA COLLAUDO 1° STRALCIO (SALDO), COORDINAMENTO SICUREZZA IN FASE DI ESECUZIONE 1° STRALCIO (SALDO). REVOCA D.T.D. 855/2017</description>
 			<a10:updated>2017-07-05T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

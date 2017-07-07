@@ -5,7 +5,7 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 07 Jul 2017 11:31:22 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 07 Jul 2017 12:31:21 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Isernia</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>Fri, 07 Jul 2017 11:31:22 +0200</pubDate>
+		<pubDate>Fri, 07 Jul 2017 12:31:21 +0200</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3382002</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3382002</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 07 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 22 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3382002</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
+			<title>atto di liquidazione di spesa per pagamento utenza energia elettrica - ditta Hera Comm s.r.l. </title>
+			<description>atto di liquidazione di spesa per pagamento utenza energia elettrica - ditta Hera Comm s.r.l. </description>
+			<a10:updated>2017-07-07T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3381845</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3381845</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 07 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 22 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3381845</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZE</category>
+			<title>DISPOSIZIONI PER L'ESECUZIONE DI ATTIVITÀ DI TAGLIO ERBA, PROFILATURA DI SIEPI E RAMI DI ALBERI, PULITURA DELLE AREE PRIVATE CONFINANTI CON STRADE COMUNALI E VICINALI.</title>
+			<description>DISPOSIZIONI PER L'ESECUZIONE DI ATTIVITÀ DI TAGLIO ERBA, PROFILATURA DI SIEPI E RAMI DI ALBERI, PULITURA DELLE AREE PRIVATE CONFINANTI CON STRADE COMUNALI E VICINALI.</description>
+			<a10:updated>2017-07-07T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3381447</guid>
 			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3381447</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
 			<title>Servizio di custodia , mantenimento e cura cani vaganti - liquidazione fattura marzo 2017 ditta SIAC Srl</title>
 			<description>Servizio di custodia , mantenimento e cura cani vaganti - liquidazione fattura marzo 2017 ditta SIAC Srl</description>
-			<a10:updated>2017-06-30T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3368653</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3368653</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 30 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 15 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3368653</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
-			<title>Programma straordinario stralcio di interventi urgenti sul patrimonio scolastico finalizzati alla messa in sicurezza ed alla prevenzione e riduzione del rischio connesso alla vulnerabilità degli elementi, anche non strutturali, degli edifici scolastici. (Delibera CIPE n. 6/2012 pubbl. su GURI del 14.04.2012 n. 88) -2° stralcio Scuola Media Statale G.XXIII°.C.so Garibaldi 86170 Isernia importo finanziamento €. 89.830,00. Approvazione contabilità finale, stato finale, relazione tecnica sul conto</title>
-			<description>Programma straordinario stralcio di interventi urgenti sul patrimonio scolastico finalizzati alla messa in sicurezza ed alla prevenzione e riduzione del rischio connesso alla vulnerabilità degli elementi, anche non strutturali, degli edifici scolastici. (Delibera CIPE n. 6/2012 pubbl. su GURI del 14.04.2012 n. 88) -2° stralcio Scuola Media Statale G.XXIII°.C.so Garibaldi 86170 Isernia importo finanziamento €. 89.830,00. Approvazione contabilità finale, stato finale, relazione tecnica sul conto</description>
-			<a10:updated>2017-06-30T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3368651</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3368651</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 30 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 15 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3368651</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
-			<title>LIQUIDAZIONE DI SPESA REVISIONE FIAT PANDA TARGA BN 020CC UTILIZZATA DAL LETTURISTA INSTALLATORE CONTATORI IDRICI. FATT. ELETTR. N. 1 DEL 17/05/2017 CENTRO REVISIONI AUTO e MOTO M. R. di MARIANO GIUSEPPE. &amp; C. S.N.C..-</title>
-			<description>LIQUIDAZIONE DI SPESA REVISIONE FIAT PANDA TARGA BN 020CC UTILIZZATA DAL LETTURISTA INSTALLATORE CONTATORI IDRICI. FATT. ELETTR. N. 1 DEL 17/05/2017 CENTRO REVISIONI AUTO e MOTO M. R. di MARIANO GIUSEPPE. &amp; C. S.N.C..-</description>
 			<a10:updated>2017-06-30T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
