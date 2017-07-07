@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 07 Jul 2017 13:30:33 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 07 Jul 2017 14:30:34 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Fri, 07 Jul 2017 13:30:33 +0200</pubDate>
+		<pubDate>Fri, 07 Jul 2017 14:30:34 +0200</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3382723</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3382723</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 07 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 04 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3382723</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI AVVISO</category>
+			<title>RICHIESTA PUBBLICAZIONE N. 1 BANDO DI MOBILITA' ESTERNA ART. 30 D.LGS. 165/2001 - CAT.D SETTORE AMMINISTRATIVO.</title>
+			<description>RICHIESTA PUBBLICAZIONE N. 1 BANDO DI MOBILITA' ESTERNA ART. 30 D.LGS. 165/2001 - CAT.D SETTORE AMMINISTRATIVO.</description>
+			<a10:updated>2017-07-07T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3381500</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3381500</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>ASSUNZIONE IMPEGNO DI SPESA PER L'EROGAZIONE DI CONTRIBUTI PER IL PAGAMENTO DELLA TASSA RIFIUTI IGIENE AMBIENTALE.</title>
 			<description>ASSUNZIONE IMPEGNO DI SPESA PER L'EROGAZIONE DI CONTRIBUTI PER IL PAGAMENTO DELLA TASSA RIFIUTI IGIENE AMBIENTALE.</description>
-			<a10:updated>2017-07-04T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3373631</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3373631</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 04 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 19 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3373631</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>CONCESSIONE ASSEGNO NUCLEI FAMILARI (ART 65 L. 448/98 E SUCCESSIVE MODIFICHE E INTEGRAZIONI).</title>
-			<description>CONCESSIONE ASSEGNO NUCLEI FAMILARI (ART 65 L. 448/98 E SUCCESSIVE MODIFICHE E INTEGRAZIONI).</description>
 			<a10:updated>2017-07-04T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
