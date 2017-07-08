@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 08 Jul 2017 12:31:02 +0200</lastBuildDate>
+		<lastBuildDate>Sat, 08 Jul 2017 13:30:57 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Sat, 08 Jul 2017 12:31:02 +0200</pubDate>
+		<pubDate>Sat, 08 Jul 2017 13:30:57 +0200</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2863426</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2863426</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 08 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 24 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2863426</category>
+			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERA DI CONSIGLIO</category>
+			<title>DEL. C.C. N° 32/17 - APPRIOVAZIONE DELLA NOTA DI AGGIORNAMENTO AL DOCUMENTO UNICO DI PROGRAMMAZIONE 2017 / 2019 E DEL BILANCIO DI PREVISIONE 2017 /2019. (PROPOSTA DI DELIBERAZIONE DI G.M. N° 266 DEL 21.06.2017).</title>
+			<description>DEL. C.C. N° 32/17 - APPRIOVAZIONE DELLA NOTA DI AGGIORNAMENTO AL DOCUMENTO UNICO DI PROGRAMMAZIONE 2017 / 2019 E DEL BILANCIO DI PREVISIONE 2017 /2019. (PROPOSTA DI DELIBERAZIONE DI G.M. N° 266 DEL 21.06.2017).</description>
+			<a10:updated>2017-07-08T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2863322</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2863322</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">AVVISO CARTELLA ESATTORIALE ART. 60 D.P.R. 600/73</category>
 			<title>PUBBLICAZIONE ART. 60 SGARIOTO SALVATORE ED ALTRI</title>
 			<description>PUBBLICAZIONE ART. 60 SGARIOTO SALVATORE ED ALTRI</description>
-			<a10:updated>2017-07-07T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2862328</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2862328</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 07 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 08 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2862328</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISO CARTELLE ESATTORIALI ART. 140</category>
-			<title>PUBBLICAZIONE ART. 140 A CARICO DI CLUB ARETUSA RALLY C/O MAURIZIO LEGALE RAPPRESENTANTE</title>
-			<description>PUBBLICAZIONE ART. 140 A CARICO DI CLUB ARETUSA RALLY C/O MAURIZIO LEGALE RAPPRESENTANTE</description>
 			<a10:updated>2017-07-07T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
