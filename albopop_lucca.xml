@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 07 Jul 2017 18:30:55 +0200</lastBuildDate>
+		<lastBuildDate>Sat, 08 Jul 2017 08:30:54 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Fri, 07 Jul 2017 18:30:55 +0200</pubDate>
+		<pubDate>Sat, 08 Jul 2017 08:30:54 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3382906</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3382906</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 07 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 22 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3382906</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>LEGGE REGIONALE 21/03/2000 N.39 APPROVAZIONE ELENCO DEFINITIVO E PERIMETRAZIONE DEI TERRENI DA INSERIRE NEL CATASTO DEI BOSCHI E DEI PASCOLI PERCORSI DAL FUOCO - AGGIORNAMENTO ANNO 2016 – (FAMIGLIA N.11)</title>
+			<description>LEGGE REGIONALE 21/03/2000 N.39 APPROVAZIONE ELENCO DEFINITIVO E PERIMETRAZIONE DEI TERRENI DA INSERIRE NEL CATASTO DEI BOSCHI E DEI PASCOLI PERCORSI DAL FUOCO - AGGIORNAMENTO ANNO 2016 – (FAMIGLIA N.11)</description>
+			<a10:updated>2017-07-07T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3382422</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3382422</link>
@@ -284,17 +295,6 @@
 			<title>PUBBLICAZIONE BANDO DI MOBILITÀ VOLONTARIA DAL 07.07.2017:RICHIESTA</title>
 			<description>PUBBLICAZIONE BANDO DI MOBILITÀ VOLONTARIA DAL 07.07.2017:RICHIESTA</description>
 			<a10:updated>2017-07-07T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3379601</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3379601</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 06 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 21 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3379601</category>
-			<category domain="http://albopop.it/specs#item-category-type">CONVOCAZIONI</category>
-			<title>CONVOCAZIONE PRIMA SEDUTA DEL CONSIGLIO COMUNALE PER GIOVEDÌ 13 LUGLIO 2017 ORE 15.00</title>
-			<description>CONVOCAZIONE PRIMA SEDUTA DEL CONSIGLIO COMUNALE PER GIOVEDÌ 13 LUGLIO 2017 ORE 15.00</description>
-			<a10:updated>2017-07-06T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
