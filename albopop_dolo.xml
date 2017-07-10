@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 10 Jul 2017 09:30:36 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 10 Jul 2017 10:30:33 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Mon, 10 Jul 2017 09:30:36 +0200</pubDate>
+		<pubDate>Mon, 10 Jul 2017 10:30:33 +0200</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3383872</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3383872</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 10 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 25 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3383872</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>DELIBERAZIONE DI GIUNTA REGIONALE VENETO N. 1858/2015. DETERMINAZIONE DEL CONTRIBUTO REGIONALE AMMESSO PER LA REALIZZAZIONE DI INTERVENTI DI RIPRISTINO DEI DANNI AI BENI MOBILI REGISTRATI A SEGUITO DEGLI EVENTI ATMOSFERICI ECCEZIONALI DEL 08/07/2015 CHE HANNO COLPITO IL TERRITORIO DELLA RIVIERA DEL BRENTA – IMPEGNO E LIQUIDAZIONE; ROBERTO POSTORINO – ID: MOB51 (DOMANDA DI CONTRIBUTO PROT. 1863 DEL 23/01/2017). </title>
+			<description>DELIBERAZIONE DI GIUNTA REGIONALE VENETO N. 1858/2015. DETERMINAZIONE DEL CONTRIBUTO REGIONALE AMMESSO PER LA REALIZZAZIONE DI INTERVENTI DI RIPRISTINO DEI DANNI AI BENI MOBILI REGISTRATI A SEGUITO DEGLI EVENTI ATMOSFERICI ECCEZIONALI DEL 08/07/2015 CHE HANNO COLPITO IL TERRITORIO DELLA RIVIERA DEL BRENTA – IMPEGNO E LIQUIDAZIONE; ROBERTO POSTORINO – ID: MOB51 (DOMANDA DI CONTRIBUTO PROT. 1863 DEL 23/01/2017). </description>
+			<a10:updated>2017-07-10T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3381241</guid>
 			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3381241</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>IMPEGNO E LIQUIDAZIONE CONTRIBUTO ECONOMICO PER PARTECIPAZIONE MINORE CENTRI ESTIVI 2017. LUGLIO 2017</title>
 			<description>IMPEGNO E LIQUIDAZIONE CONTRIBUTO ECONOMICO PER PARTECIPAZIONE MINORE CENTRI ESTIVI 2017. LUGLIO 2017</description>
-			<a10:updated>2017-07-04T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3374451</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3374451</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 04 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 19 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3374451</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>IMPEGNO CONTRIBUTO ECONOMICO PER AFFIDO FAMILIARE MINORE J PERIODO LUGLIO – SETTEMBRE 2017. LIQUIDAZIONE MESE DI LUGLIO 2017</title>
-			<description>IMPEGNO CONTRIBUTO ECONOMICO PER AFFIDO FAMILIARE MINORE J PERIODO LUGLIO – SETTEMBRE 2017. LIQUIDAZIONE MESE DI LUGLIO 2017</description>
 			<a10:updated>2017-07-04T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
