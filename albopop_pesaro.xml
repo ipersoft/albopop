@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 10 Jul 2017 14:30:36 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 10 Jul 2017 15:30:39 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Mon, 10 Jul 2017 14:30:36 +0200</pubDate>
+		<pubDate>Mon, 10 Jul 2017 15:30:39 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/660190</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/660190</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 10 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 25 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">660190</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
+			<title>U.O. ATTIVITÀ ECONOMICHE - FESTA DELLA CONTRADA DI MONTEGRANARO - VIA TORRICELLI - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI.</title>
+			<description>U.O. ATTIVITÀ ECONOMICHE - FESTA DELLA CONTRADA DI MONTEGRANARO - VIA TORRICELLI - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI.</description>
+			<a10:updated>2017-07-10T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/660189</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/660189</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 10 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 20 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">660189</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO CONVOCAZIONI CONSIGLIO COMMISSIONI ETC</category>
+			<title>ANNULLAMENTO CONFERENZA DI SERVIZI INDETTA PER IL GIORNO 20 LUGLIO 2017.</title>
+			<description>ANNULLAMENTO CONFERENZA DI SERVIZI INDETTA PER IL GIORNO 20 LUGLIO 2017.</description>
+			<a10:updated>2017-07-10T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/660187</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/660187</link>
@@ -273,28 +295,6 @@
 			<title>PUBBLICAZIONI DI MATRIMONIO DI SCAVOLINI LUCA E CESTARI VERONICA</title>
 			<description>PUBBLICAZIONI DI MATRIMONIO DI SCAVOLINI LUCA E CESTARI VERONICA</description>
 			<a10:updated>2017-07-08T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/659871</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/659871</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 07 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 05 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">659871</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALBO SELEZIONI CONCORSI - ALBO</category>
-			<title>VERBALE N. 3 - SELEZIONE PUBBLICA PER ASSUNZIONE A TEMPO INDETERMINATO DI N. 2 GEOMETRI CATEGORIA C</title>
-			<description>VERBALE N. 3 - SELEZIONE PUBBLICA PER ASSUNZIONE A TEMPO INDETERMINATO DI N. 2 GEOMETRI CATEGORIA C</description>
-			<a10:updated>2017-07-07T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/659853</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/659853</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 07 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 22 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">659853</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>DITTA DEMOLIZIONI - SCAVI MONTAGNA F. SRL - DETERMINAZIONE N. 6 DEL 11/1/2016 PER L’AUTORIZZAZIONE ALL'ESERCIZIO DELL'ATTIVITÀ ESTRATTIVA DI MATERIALE SABBIOSO IN LOCALITÀ CÀ PAGLIARANI. PROROGA.</title>
-			<description>DITTA DEMOLIZIONI - SCAVI MONTAGNA F. SRL - DETERMINAZIONE N. 6 DEL 11/1/2016 PER L’AUTORIZZAZIONE ALL'ESERCIZIO DELL'ATTIVITÀ ESTRATTIVA DI MATERIALE SABBIOSO IN LOCALITÀ CÀ PAGLIARANI. PROROGA.</description>
-			<a10:updated>2017-07-07T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
