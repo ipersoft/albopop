@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 10 Jul 2017 10:30:51 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 10 Jul 2017 11:30:50 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Mon, 10 Jul 2017 10:30:51 +0200</pubDate>
+		<pubDate>Mon, 10 Jul 2017 11:30:50 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3383926</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3383926</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 10 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 18 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3383926</category>
+			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>PUBBLICAZIONI ANNO 2017 N. 237 FIASCHI RICCARDO MARTINI FEDERICA</title>
+			<description>PUBBLICAZIONI ANNO 2017 N. 237 FIASCHI RICCARDO MARTINI FEDERICA</description>
+			<a10:updated>2017-07-10T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3383753</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3383753</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
 			<title>PROROGA ORDINANZA PROT 73882 DEL 23/06/2017 VIA TEODORICO BORGOGNONI, FRAZIONE DI S.MARCO, MODIFICHE TEMPORANEE AL TRANSITO PEDONALE ED ALLA SOSTA, FINO AL GIORNO 12/07/2017.</title>
 			<description>PROROGA ORDINANZA PROT 73882 DEL 23/06/2017 VIA TEODORICO BORGOGNONI, FRAZIONE DI S.MARCO, MODIFICHE TEMPORANEE AL TRANSITO PEDONALE ED ALLA SOSTA, FINO AL GIORNO 12/07/2017.</description>
-			<a10:updated>2017-07-07T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3381069</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3381069</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 07 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 22 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3381069</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>VIALE CORSICA, FRAZIONE DI S.VITO, MODIFICHE TEMPORANEE AL TRANSITO VEICOLARE ED ALLA SOSTA, DALLE ORE 16,00 DEL 08/07/2017 ALLE ORE 1,00 DEL 09/07/2017.</title>
-			<description>VIALE CORSICA, FRAZIONE DI S.VITO, MODIFICHE TEMPORANEE AL TRANSITO VEICOLARE ED ALLA SOSTA, DALLE ORE 16,00 DEL 08/07/2017 ALLE ORE 1,00 DEL 09/07/2017.</description>
 			<a10:updated>2017-07-07T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
