@@ -5,7 +5,7 @@
 		<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bernareggio</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 11 Jul 2017 13:30:47 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 11 Jul 2017 14:32:09 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bernareggio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bernareggio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bernareggio</a10:id>
-		<pubDate>Tue, 11 Jul 2017 13:30:47 +0200</pubDate>
+		<pubDate>Tue, 11 Jul 2017 14:32:09 +0200</pubDate>
 		<docs>http://albopop.it/comune/bernareggio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3387378</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3387378</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 11 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 16 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3387378</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI BANDO DI CONCORSO</category>
+			<title>POSTA CERTIFICATA: SI TRASMETTE AVVISO DI MOBILITA' ASSISTENTE SERVIZI AMINISTRATIVI - ISTRUTTORE CAT.C </title>
+			<description>POSTA CERTIFICATA: SI TRASMETTE AVVISO DI MOBILITA' ASSISTENTE SERVIZI AMINISTRATIVI - ISTRUTTORE CAT.C </description>
+			<a10:updated>2017-07-11T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3384934</guid>
 			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3384934</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>VERSAMENTO CONTRIBUTI DI GARA A FAVORE DELL'AUTORITA' NAZIONALE ANTICORRUZIONE - ANAC </title>
 			<description>VERSAMENTO CONTRIBUTI DI GARA A FAVORE DELL'AUTORITA' NAZIONALE ANTICORRUZIONE - ANAC </description>
-			<a10:updated>2017-06-29T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3366314</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3366314</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 29 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 14 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3366314</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>CIG Z2B1F27EB2 - AFFIDAMENTO LAVORI URGENTI DI MANUTENZIONE STRAORDINARIA DELL’IMPIANTO DI CONDIZIONAMENTO DEL CENTRO ADELAIDE VERONELLI IN VIA CAVOUR </title>
-			<description>CIG Z2B1F27EB2 - AFFIDAMENTO LAVORI URGENTI DI MANUTENZIONE STRAORDINARIA DELL’IMPIANTO DI CONDIZIONAMENTO DEL CENTRO ADELAIDE VERONELLI IN VIA CAVOUR </description>
 			<a10:updated>2017-06-29T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

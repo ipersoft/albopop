@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 11 Jul 2017 13:31:00 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 11 Jul 2017 14:32:26 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Tue, 11 Jul 2017 13:31:00 +0200</pubDate>
+		<pubDate>Tue, 11 Jul 2017 14:32:26 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2866197</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2866197</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 11 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 26 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2866197</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>LIQUIDAZIONE E PAGAMENTO SPESE DI COPRODUZIONE PER REALIZZAZIONE OPERA LIRICA DENOMINATA "MANON LESCAUT".</title>
+			<description>LIQUIDAZIONE E PAGAMENTO SPESE DI COPRODUZIONE PER REALIZZAZIONE OPERA LIRICA DENOMINATA "MANON LESCAUT".</description>
+			<a10:updated>2017-07-11T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2866101</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2866101</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 11 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 26 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2866101</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>LIQUIDAZIONE I RATA TARI UFFICI COMUNALI ANNO 2017.</title>
+			<description>LIQUIDAZIONE I RATA TARI UFFICI COMUNALI ANNO 2017.</description>
+			<a10:updated>2017-07-11T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2865577</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2865577</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZE</category>
 			<title>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE – PROROGA DELL'ORDINANZA N. 238/2017 FINO AL 20/07/2017</title>
 			<description>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE – PROROGA DELL'ORDINANZA N. 238/2017 FINO AL 20/07/2017</description>
-			<a10:updated>2017-07-07T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2863236</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2863236</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 07 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 22 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2863236</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DECRETI</category>
-			<title>NOMINA RESPONSABILE DEI PROCEDIMENTI DI COMPETENZA DELLA SEZIONE POLITICHE SOCIALI - BELLINI VERONICA -</title>
-			<description>NOMINA RESPONSABILE DEI PROCEDIMENTI DI COMPETENZA DELLA SEZIONE POLITICHE SOCIALI - BELLINI VERONICA -</description>
-			<a10:updated>2017-07-07T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2863233</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2863233</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 07 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 22 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2863233</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DECRETI</category>
-			<title>NOMINA RESPONSABILE DEI PROCEDIMENTI DI COMPETENZA DELLA SEZIONE POLITICHE SOCIALI - RIZZATI ANNA -</title>
-			<description>NOMINA RESPONSABILE DEI PROCEDIMENTI DI COMPETENZA DELLA SEZIONE POLITICHE SOCIALI - RIZZATI ANNA -</description>
 			<a10:updated>2017-07-07T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
