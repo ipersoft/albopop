@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 11 Jul 2017 11:31:17 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 11 Jul 2017 12:31:15 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Tue, 11 Jul 2017 11:31:17 +0200</pubDate>
+		<pubDate>Tue, 11 Jul 2017 12:31:15 +0200</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2865699</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2865699</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 11 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 26 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2865699</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>IMPEGNATIVA DI SPESA IN FAVORE DELLA DITTA "ALLIANZ SPA" PER IL PAGAMENTO DEL PREMIO ANNUALE DELLA POLIZZA ASSICURATIVA N.713352710</title>
+			<description>IMPEGNATIVA DI SPESA IN FAVORE DELLA DITTA "ALLIANZ SPA" PER IL PAGAMENTO DEL PREMIO ANNUALE DELLA POLIZZA ASSICURATIVA N.713352710</description>
+			<a10:updated>2017-07-11T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2865637</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2865637</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">AUTORIZZAZIONI PAESAGGISTICHE AUTORIZZAZIONI PAESAGGISTICHE</category>
 			<title>ELENCO AUTORIZZAZIONI PAESISTICHE MESE GIUGNO 2017</title>
 			<description>ELENCO AUTORIZZAZIONI PAESISTICHE MESE GIUGNO 2017</description>
-			<a10:updated>2017-07-07T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2862229</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2862229</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 07 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 22 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2862229</category>
-			<category domain="http://albopop.it/specs#item-category-type">CENTRALE UNICA DI COMMITTENZA</category>
-			<title>PROJECT FINANCING AFFIDAMENTO CONCESSIONE REALIZZAZIONE E GESTIONE 25 ANNI SERVIZIO ASILO NIDO COMUNALE S.COSTANZO</title>
-			<description>PROJECT FINANCING AFFIDAMENTO CONCESSIONE REALIZZAZIONE E GESTIONE 25 ANNI SERVIZIO ASILO NIDO COMUNALE S.COSTANZO</description>
 			<a10:updated>2017-07-07T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

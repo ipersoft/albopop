@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 11 Jul 2017 11:30:41 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 11 Jul 2017 12:30:46 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Tue, 11 Jul 2017 11:30:41 +0200</pubDate>
+		<pubDate>Tue, 11 Jul 2017 12:30:46 +0200</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2865827</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2865827</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 11 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 11 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2865827</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI BANDO</category>
+			<title>BANDO PER LA COPERTURA DI N. 1 POSTO DI “ISTRUTTORE AMMINISTRATIVO” CATEGORIA ”C” A TEMPO PIENO ED INDETERMINATO INDETTO DA QUESTO COMUNE – SETTORE UFFICIO ECONOMICO/FINANZIARIO/TRIBUTI</title>
+			<description>BANDO PER LA COPERTURA DI N. 1 POSTO DI “ISTRUTTORE AMMINISTRATIVO” CATEGORIA ”C” A TEMPO PIENO ED INDETERMINATO INDETTO DA QUESTO COMUNE – SETTORE UFFICIO ECONOMICO/FINANZIARIO/TRIBUTI</description>
+			<a10:updated>2017-07-11T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2865425</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2865425</link>
@@ -284,17 +295,6 @@
 			<title>RICHIESTA PUBBLICAZIONE AVVISO DATE CONVOCAZIONE ELEZIONI CONSIGLIO DI AMMINISTRAZIONE CONSORZIALE</title>
 			<description>RICHIESTA PUBBLICAZIONE AVVISO DATE CONVOCAZIONE ELEZIONI CONSIGLIO DI AMMINISTRAZIONE CONSORZIALE</description>
 			<a10:updated>2017-07-05T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2857452</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2857452</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 04 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 19 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2857452</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>DETERMINAZIONE A CONTRATTARE PER VERIFICA QUINQUENNALE SPI IMPIANTI FOTOVOLTAICI DI PROPRIETÀ COMUNALE SUPERIORI A 11,08 KW - CIG: Z8B1F30E3A</title>
-			<description>DETERMINAZIONE A CONTRATTARE PER VERIFICA QUINQUENNALE SPI IMPIANTI FOTOVOLTAICI DI PROPRIETÀ COMUNALE SUPERIORI A 11,08 KW - CIG: Z8B1F30E3A</description>
-			<a10:updated>2017-07-04T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
