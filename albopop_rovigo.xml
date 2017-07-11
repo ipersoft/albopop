@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 11 Jul 2017 16:30:59 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 11 Jul 2017 17:30:57 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Tue, 11 Jul 2017 16:30:59 +0200</pubDate>
+		<pubDate>Tue, 11 Jul 2017 17:30:57 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2866500</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2866500</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 11 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 26 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2866500</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>ANNULLAMENTO DETERMINAZIONE DIRIGENZIALE N.1429 DEL 28/6/2017 AD OGGETTO “LIQUIDAZIONE E PAGAMENTO PER IL CONSUMO DI GAS PARTE DI EDIFICI PUBBLICI PERIODO APRILE-MAGGIO 2017” E CONTESTUALE LIQUIDAZIONE FATTURE ALLA SOCIETA' ASM-SET S.R.L.</title>
+			<description>ANNULLAMENTO DETERMINAZIONE DIRIGENZIALE N.1429 DEL 28/6/2017 AD OGGETTO “LIQUIDAZIONE E PAGAMENTO PER IL CONSUMO DI GAS PARTE DI EDIFICI PUBBLICI PERIODO APRILE-MAGGIO 2017” E CONTESTUALE LIQUIDAZIONE FATTURE ALLA SOCIETA' ASM-SET S.R.L.</description>
+			<a10:updated>2017-07-11T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2866475</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2866475</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DECRETI</category>
 			<title>NOMINA RESPONSABILE DEI PROCEDIMENTI DI COMPETENZA DELLA SEZIONE POLITICHE SOCIALI - BERTINI GIOVANNI -</title>
 			<description>NOMINA RESPONSABILE DEI PROCEDIMENTI DI COMPETENZA DELLA SEZIONE POLITICHE SOCIALI - BERTINI GIOVANNI -</description>
-			<a10:updated>2017-07-07T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2863245</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2863245</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 07 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 22 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2863245</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DECRETI</category>
-			<title>NOMINA RESPONSABILE DEI PROCEDIMENTI DI COMPETENZA DELLA SEZIONE POLITICHE SOCIALI - BENETTI SILVIA -</title>
-			<description>NOMINA RESPONSABILE DEI PROCEDIMENTI DI COMPETENZA DELLA SEZIONE POLITICHE SOCIALI - BENETTI SILVIA -</description>
 			<a10:updated>2017-07-07T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
