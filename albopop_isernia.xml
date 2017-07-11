@@ -5,7 +5,7 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 11 Jul 2017 17:30:57 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 11 Jul 2017 18:30:56 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Isernia</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>Tue, 11 Jul 2017 17:30:57 +0200</pubDate>
+		<pubDate>Tue, 11 Jul 2017 18:30:56 +0200</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3387938</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3387938</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 11 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 26 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3387938</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
+			<title>Settore III Tecnico - Piazza Michelangelo - Impegno di spesa per la fornitura di gas metano - ditta ESTRA ENERGIE SpA - C.I.G. 697978197C.</title>
+			<description>Settore III Tecnico - Piazza Michelangelo - Impegno di spesa per la fornitura di gas metano - ditta ESTRA ENERGIE SpA - C.I.G. 697978197C.</description>
+			<a10:updated>2017-07-11T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3387936</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3387936</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 11 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 26 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3387936</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
+			<title>Servizio di custodia, mantenimento e cura cani vaganti - liquidazione fattura aprile 2017 - ditta SIAC Srl</title>
+			<description>Servizio di custodia, mantenimento e cura cani vaganti - liquidazione fattura aprile 2017 - ditta SIAC Srl</description>
+			<a10:updated>2017-07-11T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3387934</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3387934</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 11 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 26 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3387934</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
+			<title>Bilancio 2017 - LIQUIDAZIONE SPESA - CIG: 697978197C - Liquidazione utenza gas Estra energie periodo aprile - prop.n.1103/17. . </title>
+			<description>Bilancio 2017 - LIQUIDAZIONE SPESA - CIG: 697978197C - Liquidazione utenza gas Estra energie periodo aprile - prop.n.1103/17. . </description>
+			<a10:updated>2017-07-11T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3387805</guid>
 			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3387805</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
 			<title>ATTO DI LIQUIDAZIONE DI SPESA Per pagamento utenza Telecom scuole Materne 2°Bim. 2017 CIG: : ZE71CFEF9D </title>
 			<description>ATTO DI LIQUIDAZIONE DI SPESA Per pagamento utenza Telecom scuole Materne 2°Bim. 2017 CIG: : ZE71CFEF9D </description>
-			<a10:updated>2017-07-06T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3380271</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3380271</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 06 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 21 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3380271</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
-			<title>IMPEGNO DI SPESA PER UTENZA ENERGIA ELETTRICA DEL PALAFRARACCIO. DITTA: ENEL ENERGIA</title>
-			<description>IMPEGNO DI SPESA PER UTENZA ENERGIA ELETTRICA DEL PALAFRARACCIO. DITTA: ENEL ENERGIA</description>
-			<a10:updated>2017-07-06T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3380269</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3380269</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 06 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 21 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3380269</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
-			<title>Liquidazione di spesa per acquisto colla per l'Ufficio Affissione e Pubblicità - ditta Lombardi Nicola</title>
-			<description>Liquidazione di spesa per acquisto colla per l'Ufficio Affissione e Pubblicità - ditta Lombardi Nicola</description>
-			<a10:updated>2017-07-06T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3379645</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3379645</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 06 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 21 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3379645</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
-			<title>ATTO DI LIQUIDAZIONE di spesa per Pagamento utenza ENERGIA ELETTRICA scuole elementari. PERIODO maggio 2017 DITTA ENEL ENERGIA CIG: Z91D4C5EB </title>
-			<description>ATTO DI LIQUIDAZIONE di spesa per Pagamento utenza ENERGIA ELETTRICA scuole elementari. PERIODO maggio 2017 DITTA ENEL ENERGIA CIG: Z91D4C5EB </description>
 			<a10:updated>2017-07-06T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
