@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 11 Jul 2017 15:30:51 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 11 Jul 2017 16:30:36 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Tue, 11 Jul 2017 15:30:51 +0200</pubDate>
+		<pubDate>Tue, 11 Jul 2017 16:30:36 +0200</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3387647</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3387647</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 11 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 18 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3387647</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO DI CONVOCAZIONE CONSIGLI COMUNALI</category>
+			<title>CONVOCAZIONE CONSIGLIO DELL'UNIONE DEI COMUNI "CITTA' DELLA RIVIERA DEL BRENTA" IL GIORNO 17.07.2017 ALLE ORE 18:00 PRESSO LA SALA CONSILIARE DEL COMUNE DI FOSSO'</title>
+			<description>CONVOCAZIONE CONSIGLIO DELL'UNIONE DEI COMUNI "CITTA' DELLA RIVIERA DEL BRENTA" IL GIORNO 17.07.2017 ALLE ORE 18:00 PRESSO LA SALA CONSILIARE DEL COMUNE DI FOSSO'</description>
+			<a10:updated>2017-07-11T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3386754</guid>
 			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3386754</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>LIQUIDAZIONE FATTURA N. 8717185870 DEL 23.06.2017 DITTA POSTE ITALIANE S.P.A. DI ROMA (RM)</title>
 			<description>LIQUIDAZIONE FATTURA N. 8717185870 DEL 23.06.2017 DITTA POSTE ITALIANE S.P.A. DI ROMA (RM)</description>
-			<a10:updated>2017-07-04T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3375204</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3375204</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 04 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 19 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3375204</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>INTERVENTO DI RISTRUTTURAZIONE CAPANNONE MAGAZZINO COMUNALE IN VIA F.LLI BANDIERA DANNEGGIATO DAL TORNADO - DETERMINA A CONTRARRE</title>
-			<description>INTERVENTO DI RISTRUTTURAZIONE CAPANNONE MAGAZZINO COMUNALE IN VIA F.LLI BANDIERA DANNEGGIATO DAL TORNADO - DETERMINA A CONTRARRE</description>
 			<a10:updated>2017-07-04T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
