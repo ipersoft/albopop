@@ -5,7 +5,7 @@
 		<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/igrid/1210528</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Celle di Bulgheria</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 12 Jul 2017 14:30:31 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 12 Jul 2017 15:30:32 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Celle di Bulgheria</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Salerno</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Celle di Bulgheria</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_celledibulgheria</a10:id>
-		<pubDate>Wed, 12 Jul 2017 14:30:31 +0200</pubDate>
+		<pubDate>Wed, 12 Jul 2017 15:30:32 +0200</pubDate>
 		<docs>http://albopop.it/comune/celledibulgheria/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2868063</guid>
+			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2868063</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 12 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 27 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2868063</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZE E DECRETI SINDACALI</category>
+			<title>ORDINANZA DIVIETO TEMPORANEO DI ACCESSO, TRANSITO, SOSTA E FERMATA SU PIAZZA UMBERTO PRIMO DEL CAPOLUOGO </title>
+			<description>ORDINANZA DIVIETO TEMPORANEO DI ACCESSO, TRANSITO, SOSTA E FERMATA SU PIAZZA UMBERTO PRIMO DEL CAPOLUOGO </description>
+			<a10:updated>2017-07-12T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2867702</guid>
 			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2867702</link>
@@ -228,17 +239,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>LIQUIDAZIONE DI SPESA ACCONTO SERVIZI “SORVEGLIANZA SANITARIA E CONSULENZA SUGLI ADEMPIMENTI RELATIVI ALLA SICUREZZA E SALUTE SUL LAVORO PREVISTI DAL D.LGS 81/2008 E SS.MM.II.” CIG. ZBF1B51E60;</title>
 			<description>LIQUIDAZIONE DI SPESA ACCONTO SERVIZI “SORVEGLIANZA SANITARIA E CONSULENZA SUGLI ADEMPIMENTI RELATIVI ALLA SICUREZZA E SALUTE SUL LAVORO PREVISTI DAL D.LGS 81/2008 E SS.MM.II.” CIG. ZBF1B51E60;</description>
-			<a10:updated>2017-07-07T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2862261</guid>
-			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2862261</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 07 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 22 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2862261</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZE E DECRETI SINDACALI</category>
-			<title>ORDINANZA DI ISTITUZIONE DIVIETO DI SOSTA PER IL GIORNO 08/07/2017 DALLE ORE 12.00 ALLE ORE 13.30 SU VIA V. EMANUELE ALLA FRAZIONE PODERIA E VIA CANONICO DE LUCA DEL CAPOLUOGO.</title>
-			<description>ORDINANZA DI ISTITUZIONE DIVIETO DI SOSTA PER IL GIORNO 08/07/2017 DALLE ORE 12.00 ALLE ORE 13.30 SU VIA V. EMANUELE ALLA FRAZIONE PODERIA E VIA CANONICO DE LUCA DEL CAPOLUOGO.</description>
 			<a10:updated>2017-07-07T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
