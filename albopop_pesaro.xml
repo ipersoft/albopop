@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 12 Jul 2017 10:30:41 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 12 Jul 2017 11:30:46 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Wed, 12 Jul 2017 10:30:41 +0200</pubDate>
+		<pubDate>Wed, 12 Jul 2017 11:30:46 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/660688</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/660688</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 12 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 27 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">660688</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>PROCEDURA DI MOBILITÀ FRA ENTI, AI SENSI DELL’ART.30 DEL D.LGS. 165/01 PROFILO DI AGENTE POLIZIA MUNICIPALE – CAT C- APPROVAZIONE AVVISO</title>
+			<description>PROCEDURA DI MOBILITÀ FRA ENTI, AI SENSI DELL’ART.30 DEL D.LGS. 165/01 PROFILO DI AGENTE POLIZIA MUNICIPALE – CAT C- APPROVAZIONE AVVISO</description>
+			<a10:updated>2017-07-12T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/660682</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/660682</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 12 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 18 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">660682</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISI BANDI DI LAVORI</category>
+			<title>LAVORI DI RIQUALIFICAZIONE E VALORIZZAZIONE DEL CENTRO STORICO DI PESARO 5° STRALCIO FASC. N. 2015/VI.05/41. COMUNICAZIONE DI ULTERIORE SORTEGGIO </title>
+			<description>LAVORI DI RIQUALIFICAZIONE E VALORIZZAZIONE DEL CENTRO STORICO DI PESARO 5° STRALCIO FASC. N. 2015/VI.05/41. COMUNICAZIONE DI ULTERIORE SORTEGGIO </description>
+			<a10:updated>2017-07-12T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/660679</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/660679</link>
@@ -273,28 +295,6 @@
 			<title>PUBBLICAZIONE AUTORIZZAZIONI PAESAGGISTICHE DAL N° 37 AL N° 38 - ANNO 2017</title>
 			<description>PUBBLICAZIONE AUTORIZZAZIONI PAESAGGISTICHE DAL N° 37 AL N° 38 - ANNO 2017</description>
 			<a10:updated>2017-07-12T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/660479</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/660479</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 12 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 27 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">660479</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALBO ATTI E AVVISI DIVERSI</category>
-			<title>PUBBLICAZIONE PERMESSI DI COSTRUIRE DAL N° 164 AL N° 200 - ANNO 2017</title>
-			<description>PUBBLICAZIONE PERMESSI DI COSTRUIRE DAL N° 164 AL N° 200 - ANNO 2017</description>
-			<a10:updated>2017-07-12T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/660456</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/660456</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 11 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 26 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">660456</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>FONDAZIONE “OPERE DI DON GAUDIANO” : CONCESSIONE IN COMODATO GRATUITO DEI LOCALI UBICATI A PESARO PIAZZALE GARIBALDI, N. 16 E AUSILIO ECONOMICO </title>
-			<description>FONDAZIONE “OPERE DI DON GAUDIANO” : CONCESSIONE IN COMODATO GRATUITO DEI LOCALI UBICATI A PESARO PIAZZALE GARIBALDI, N. 16 E AUSILIO ECONOMICO </description>
-			<a10:updated>2017-07-11T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
