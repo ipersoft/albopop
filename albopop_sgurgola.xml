@@ -5,7 +5,7 @@
 		<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Sgurgola</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 12 Jul 2017 13:30:40 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 12 Jul 2017 14:30:38 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Sgurgola</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Frosinone</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Sgurgola</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_sgurgola</a10:id>
-		<pubDate>Wed, 12 Jul 2017 13:30:40 +0200</pubDate>
+		<pubDate>Wed, 12 Jul 2017 14:30:38 +0200</pubDate>
 		<docs>http://albopop.it/comune/sgurgola/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2867897</guid>
+			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2867897</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 12 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 27 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2867897</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DELIBERE DI GIUNTA</category>
+			<title>VERBALE N. 35 DEL 22-06-2017 - QUANTIFICAZIONE SOMME NON SOGGETTE AD ESECUZIONE FORZATA</title>
+			<description>VERBALE N. 35 DEL 22-06-2017 - QUANTIFICAZIONE SOMME NON SOGGETTE AD ESECUZIONE FORZATA</description>
+			<a10:updated>2017-07-12T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2867030</guid>
 			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2867030</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINA</category>
 			<title>VERBALE N. 218 DEL 22.06.2017 IMPEGNO DI SPESA GESTIONE UFFICIO COMMERCIO</title>
 			<description>VERBALE N. 218 DEL 22.06.2017 IMPEGNO DI SPESA GESTIONE UFFICIO COMMERCIO</description>
-			<a10:updated>2017-06-27T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2848991</guid>
-			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2848991</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 27 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 12 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2848991</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINA</category>
-			<title>VERBALE N. 217 DEL 22.06.2017 IMPEGNO DI SPESA GESTIONE AUTOMEZZO.</title>
-			<description>VERBALE N. 217 DEL 22.06.2017 IMPEGNO DI SPESA GESTIONE AUTOMEZZO.</description>
 			<a10:updated>2017-06-27T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

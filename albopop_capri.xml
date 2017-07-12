@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 12 Jul 2017 13:31:10 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 12 Jul 2017 14:31:21 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Wed, 12 Jul 2017 13:31:10 +0200</pubDate>
+		<pubDate>Wed, 12 Jul 2017 14:31:21 +0200</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2868009</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2868009</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 12 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 27 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2868009</category>
+			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
+			<title>ACQUISTO TONER E TAMBURO PER STAMPANTE OKI B431DN IN DOTAZIONE ALL'UFFICIO SEGRETERIA ED AFFARI GENERALI – LIQUIDAZIONE FATTURA DITTA ADVISER S.I. SRL. CIG: Z921F27D0B</title>
+			<description>ACQUISTO TONER E TAMBURO PER STAMPANTE OKI B431DN IN DOTAZIONE ALL'UFFICIO SEGRETERIA ED AFFARI GENERALI – LIQUIDAZIONE FATTURA DITTA ADVISER S.I. SRL. CIG: Z921F27D0B</description>
+			<a10:updated>2017-07-12T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2867889</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2867889</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>ACQUISTO SUL MEPA DI VESTIARIO ESTIVO PER GLI OPERAI COMUNALI</title>
 			<description>ACQUISTO SUL MEPA DI VESTIARIO ESTIVO PER GLI OPERAI COMUNALI</description>
-			<a10:updated>2017-07-10T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2864949</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2864949</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 10 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 25 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2864949</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>RIFACIMENTO DI ALCU NI TRATTI DI STRADA DISSESTATI NEI PRESSI DELLA PIAZZETTA DI MATERMANIA. APPROVAZIONE DEL PREVENTIVO DELLA DITTA "EDIL CAPRI S.R.L." DI CAPRI.</title>
-			<description>RIFACIMENTO DI ALCU NI TRATTI DI STRADA DISSESTATI NEI PRESSI DELLA PIAZZETTA DI MATERMANIA. APPROVAZIONE DEL PREVENTIVO DELLA DITTA "EDIL CAPRI S.R.L." DI CAPRI.</description>
 			<a10:updated>2017-07-10T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
