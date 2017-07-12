@@ -5,7 +5,7 @@
 		<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Belpasso</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 12 Jul 2017 08:30:50 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 12 Jul 2017 09:30:46 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Belpasso</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Belpasso</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_belpasso</a10:id>
-		<pubDate>Wed, 12 Jul 2017 08:30:50 +0200</pubDate>
+		<pubDate>Wed, 12 Jul 2017 09:30:46 +0200</pubDate>
 		<docs>http://albopop.it/comune/belpasso/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3388341</guid>
+			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3388341</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 12 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 27 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3388341</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONCESSIONI CONCESSIONE EDILIZIA</category>
+			<title>CONCESSIONE EDILIZIA (PERMESSO DI COSTRUIRE) N. 60 DEL 11.07.2017 DITTA MARTINO ROSA E MARTINO ANTONINO SALVATORE PRATICA 11056.</title>
+			<description>CONCESSIONE EDILIZIA (PERMESSO DI COSTRUIRE) N. 60 DEL 11.07.2017 DITTA MARTINO ROSA E MARTINO ANTONINO SALVATORE PRATICA 11056.</description>
+			<a10:updated>2017-07-12T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3386624</guid>
 			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3386624</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI PUBBLICAZIONI DI MATRIMONIO</category>
 			<title>PUBBLICAZIONE DI MATRIMONIO VERBALE N. 69</title>
 			<description>PUBBLICAZIONE DI MATRIMONIO VERBALE N. 69</description>
-			<a10:updated>2017-07-05T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3376146</guid>
-			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3376146</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 05 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 13 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3376146</category>
-			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI PUBBLICAZIONI DI MATRIMONIO</category>
-			<title>RICHIESTA PUBBLICAZIONE DI MATRIMONIO R.C.VERBALE N. 31</title>
-			<description>RICHIESTA PUBBLICAZIONE DI MATRIMONIO R.C.VERBALE N. 31</description>
 			<a10:updated>2017-07-05T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
