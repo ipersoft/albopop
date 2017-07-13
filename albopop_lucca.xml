@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 13 Jul 2017 08:30:57 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 13 Jul 2017 09:30:57 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Thu, 13 Jul 2017 08:30:57 +0200</pubDate>
+		<pubDate>Thu, 13 Jul 2017 09:30:57 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3390695</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3390695</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 13 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 28 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3390695</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>MERCATO ANTIQUARIO: PARZIALE MODIFICA E INTEGRAZIONE DELL’ORDINANZA N. 662/2017 - MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE ED ALLA SOSTA IN PIAZZA BERNARDINI, DALLE ORE 22:00 DEL GIORNO 14 LUGLIO 2017 ALLE ORE 08:00 DEL GIORNO 17 LUGLIO 2017.</title>
+			<description>MERCATO ANTIQUARIO: PARZIALE MODIFICA E INTEGRAZIONE DELL’ORDINANZA N. 662/2017 - MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE ED ALLA SOSTA IN PIAZZA BERNARDINI, DALLE ORE 22:00 DEL GIORNO 14 LUGLIO 2017 ALLE ORE 08:00 DEL GIORNO 17 LUGLIO 2017.</description>
+			<a10:updated>2017-07-13T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3389925</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3389925</link>
@@ -284,17 +295,6 @@
 			<title>MODIFICA DELLA DETERMINAZIONE N° 1274 DEL 10/07/2017 INERENTE LA NOMINA DELLA COMMISSIONE VALUTATRICE DEI PROGETTI INERENTI LE PROCEDURE DI EVIDENZA PUBBLICA PER L'AFFIDAMENTO IN CONCESSIONE DEGLI IMPIANTI SPORTIVI PER IL GIUOCO DEL CALCIO, PRIVI DI RILEVANZA ECONOMICA.</title>
 			<description>MODIFICA DELLA DETERMINAZIONE N° 1274 DEL 10/07/2017 INERENTE LA NOMINA DELLA COMMISSIONE VALUTATRICE DEI PROGETTI INERENTI LE PROCEDURE DI EVIDENZA PUBBLICA PER L'AFFIDAMENTO IN CONCESSIONE DEGLI IMPIANTI SPORTIVI PER IL GIUOCO DEL CALCIO, PRIVI DI RILEVANZA ECONOMICA.</description>
 			<a10:updated>2017-07-11T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3385577</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3385577</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 10 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 25 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3385577</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>U.O. 2.3 - ASSEGNAZIONE ORDINARIA DI ALLOGGIO DI ERP POSTO NEL COMUNE DI LUCCA (CONTENUTO:ASSEGNAZIONE DA GRADUATORIA DEFINITIVA BANDO 2016 - POSIZIONE N. 19 - FAMIGLIA 11 "ALTRO")</title>
-			<description>U.O. 2.3 - ASSEGNAZIONE ORDINARIA DI ALLOGGIO DI ERP POSTO NEL COMUNE DI LUCCA (CONTENUTO:ASSEGNAZIONE DA GRADUATORIA DEFINITIVA BANDO 2016 - POSIZIONE N. 19 - FAMIGLIA 11 "ALTRO")</description>
-			<a10:updated>2017-07-10T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
