@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 13 Jul 2017 09:31:05 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 13 Jul 2017 10:31:20 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Thu, 13 Jul 2017 09:31:05 +0200</pubDate>
+		<pubDate>Thu, 13 Jul 2017 10:31:20 +0200</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2868611</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2868611</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 13 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 28 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2868611</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>LAVORI PER IL RIFACIMENTO DEI SOTTOSERVIZI PRESSO LA SPIAGGIA PUBBLICA DI M.GRANDE C/O PIAZZA MARINAI D'ITALIA - APPROVAZIONE PREVENTIVO/OFFERTA, IMPEGNO DI SPESA E AFFIDAMENTO INTERVENTO. </title>
+			<description>LAVORI PER IL RIFACIMENTO DEI SOTTOSERVIZI PRESSO LA SPIAGGIA PUBBLICA DI M.GRANDE C/O PIAZZA MARINAI D'ITALIA - APPROVAZIONE PREVENTIVO/OFFERTA, IMPEGNO DI SPESA E AFFIDAMENTO INTERVENTO. </description>
+			<a10:updated>2017-07-13T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2868608</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2868608</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 13 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 28 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2868608</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>LAVORI DI RIPARAZIONE DEL MONTASCALE INSTALLATO NEL CIMITERO CATTOLICO DI CAPRI. APPROVAZIONE DEL PREVENTIVO DELLA DITTA "ROANO IMPIANTI S.R.L." DI AFRAGOLA.</title>
+			<description>LAVORI DI RIPARAZIONE DEL MONTASCALE INSTALLATO NEL CIMITERO CATTOLICO DI CAPRI. APPROVAZIONE DEL PREVENTIVO DELLA DITTA "ROANO IMPIANTI S.R.L." DI AFRAGOLA.</description>
+			<a10:updated>2017-07-13T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2868605</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2868605</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 13 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 21 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2868605</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO PUBBLICAZIONE AVVISO</category>
+			<title>AVVISO DI DEPOSITO DI N.2 ATTI NELLA CASA COMUNALE </title>
+			<description>AVVISO DI DEPOSITO DI N.2 ATTI NELLA CASA COMUNALE </description>
+			<a10:updated>2017-07-13T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2868009</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2868009</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
 			<title>SERVIZIO DI TRASPORTO SCOLASTICO - LIQUIDAZIONE FATTURA MAGGIO 2017 A FAVORE DELLA DITTA CARAMICO GAETANO - CIG: 6753096F19</title>
 			<description>SERVIZIO DI TRASPORTO SCOLASTICO - LIQUIDAZIONE FATTURA MAGGIO 2017 A FAVORE DELLA DITTA CARAMICO GAETANO - CIG: 6753096F19</description>
-			<a10:updated>2017-07-10T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2864957</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2864957</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 10 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 25 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2864957</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
-			<title>TRASFERTE PERSONALE DIPENDENTE - RIEPILOGO MESE DI GIUGNO 2017</title>
-			<description>TRASFERTE PERSONALE DIPENDENTE - RIEPILOGO MESE DI GIUGNO 2017</description>
-			<a10:updated>2017-07-10T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2864955</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2864955</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 10 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 25 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2864955</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>Rinuncia all'incarico dell'A.P.M. LUONGO Fabio con decorrenza 15.07.2017</title>
-			<description>Rinuncia all'incarico dell'A.P.M. LUONGO Fabio con decorrenza 15.07.2017</description>
-			<a10:updated>2017-07-10T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2864952</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2864952</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 10 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 25 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2864952</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>ACQUISTO SUL MEPA DI VESTIARIO ESTIVO PER GLI OPERAI COMUNALI</title>
-			<description>ACQUISTO SUL MEPA DI VESTIARIO ESTIVO PER GLI OPERAI COMUNALI</description>
 			<a10:updated>2017-07-10T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

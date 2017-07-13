@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 13 Jul 2017 09:31:05 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 13 Jul 2017 10:31:20 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Thu, 13 Jul 2017 09:31:05 +0200</pubDate>
+		<pubDate>Thu, 13 Jul 2017 10:31:20 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2868575</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2868575</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 13 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 28 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2868575</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>LIQUIDAZIONE III TRIMESTRE 2017 CANONE DI LOCAZIONE IMMOBILE SITO IN ROVIGO, VIALE DEL LAVORO N. 24/A, DI PROPRIETÀ DELLA DITTA RIMI SAS DI CECCHETTO CELESTINO DESTINATO A MAGAZZINO COMUNALE.</title>
+			<description>LIQUIDAZIONE III TRIMESTRE 2017 CANONE DI LOCAZIONE IMMOBILE SITO IN ROVIGO, VIALE DEL LAVORO N. 24/A, DI PROPRIETÀ DELLA DITTA RIMI SAS DI CECCHETTO CELESTINO DESTINATO A MAGAZZINO COMUNALE.</description>
+			<a10:updated>2017-07-13T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2868506</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2868506</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>STADIO M. BATTAGLINI: RISTRUTTURAZIONE TRIBUNA LANZONI, SPOGLIATOIO FORMAZIONI GIOVANILI E NUOVO IMPIANTO DI IRRIGAZIONE. - APPROVAZIONE PROGETTO ESECUTIVO. - CUP: G11E14000650005 </title>
 			<description>STADIO M. BATTAGLINI: RISTRUTTURAZIONE TRIBUNA LANZONI, SPOGLIATOIO FORMAZIONI GIOVANILI E NUOVO IMPIANTO DI IRRIGAZIONE. - APPROVAZIONE PROGETTO ESECUTIVO. - CUP: G11E14000650005 </description>
-			<a10:updated>2017-07-11T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2865523</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2865523</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 11 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 26 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2865523</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>NOMINA DELLA COMMISSIONE DI GARA PER AFFIDAMENTO SERVIZIO BROKERAGGIO.ASSUNZIONE IMPEGNO DI SPESA PER APPLICAZIONE I.R.A.P. COMPENSI COMPONENTI ESTERNI.</title>
-			<description>NOMINA DELLA COMMISSIONE DI GARA PER AFFIDAMENTO SERVIZIO BROKERAGGIO.ASSUNZIONE IMPEGNO DI SPESA PER APPLICAZIONE I.R.A.P. COMPENSI COMPONENTI ESTERNI.</description>
 			<a10:updated>2017-07-11T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
