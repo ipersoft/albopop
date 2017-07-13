@@ -5,7 +5,7 @@
 		<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Belpasso</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 13 Jul 2017 16:31:03 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 13 Jul 2017 17:30:47 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Belpasso</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Belpasso</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_belpasso</a10:id>
-		<pubDate>Thu, 13 Jul 2017 16:31:03 +0200</pubDate>
+		<pubDate>Thu, 13 Jul 2017 17:30:47 +0200</pubDate>
 		<docs>http://albopop.it/comune/belpasso/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3392460</guid>
+			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3392460</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 13 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 31 Jan 2018 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3392460</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO ELETTORALE</category>
+			<title> ASSEGNO NUCLEO FAMILIARI CON ALMENO TRE FIGLI MINORI.</title>
+			<description> ASSEGNO NUCLEO FAMILIARI CON ALMENO TRE FIGLI MINORI.</description>
+			<a10:updated>2017-07-13T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3392256</guid>
 			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3392256</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>INTERVENTO DI SOMMA URGENZA PER L'ELIMINAZIONE DELL'INFESTAZIONE DA PROCESSIONARIA DEL PINO NEGLI SPAZI PUBBLICI COMUNALI. LIQUIDAZIONE DI SPESA. CIG. Z3F18E8602</title>
 			<description>INTERVENTO DI SOMMA URGENZA PER L'ELIMINAZIONE DELL'INFESTAZIONE DA PROCESSIONARIA DEL PINO NEGLI SPAZI PUBBLICI COMUNALI. LIQUIDAZIONE DI SPESA. CIG. Z3F18E8602</description>
-			<a10:updated>2017-07-12T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3390128</guid>
-			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3390128</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 12 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 27 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3390128</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>INTERVENTO URGENTE PER TAGLIO E POTATURA PALME PERICOLANTI NEL TERRITORIO COMUNALE, PER LA MESSA IN SICUREZZA DEGLI SPAZI PUBBLICI. LIQUIDAZIONE SPESA. CIG. Z921B6A14C</title>
-			<description>INTERVENTO URGENTE PER TAGLIO E POTATURA PALME PERICOLANTI NEL TERRITORIO COMUNALE, PER LA MESSA IN SICUREZZA DEGLI SPAZI PUBBLICI. LIQUIDAZIONE SPESA. CIG. Z921B6A14C</description>
 			<a10:updated>2017-07-12T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
