@@ -5,7 +5,7 @@
 		<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Sgurgola</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 13 Jul 2017 12:30:58 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 13 Jul 2017 13:30:40 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Sgurgola</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Frosinone</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Sgurgola</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_sgurgola</a10:id>
-		<pubDate>Thu, 13 Jul 2017 12:30:58 +0200</pubDate>
+		<pubDate>Thu, 13 Jul 2017 13:30:40 +0200</pubDate>
 		<docs>http://albopop.it/comune/sgurgola/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2869377</guid>
+			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2869377</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 13 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 28 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2869377</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINA</category>
+			<title>VERBALE N. 243 DEL 10.07.2017 - LIQUIDAZIONE FATTURA DITTA E.ON ENERGIA S.P.A. E ENI S.P.A.</title>
+			<description>VERBALE N. 243 DEL 10.07.2017 - LIQUIDAZIONE FATTURA DITTA E.ON ENERGIA S.P.A. E ENI S.P.A.</description>
+			<a10:updated>2017-07-13T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2869375</guid>
+			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2869375</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 13 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 28 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2869375</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINA</category>
+			<title>VERBALE N. 242 DEL 10.07.2017 - LIQUIDAZIONE FATTURA TAC ECOLOGICA SRL</title>
+			<description>VERBALE N. 242 DEL 10.07.2017 - LIQUIDAZIONE FATTURA TAC ECOLOGICA SRL</description>
+			<a10:updated>2017-07-13T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2869215</guid>
+			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2869215</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 13 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 28 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2869215</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINA</category>
+			<title>VERBALE N.241 DEL10.07.2017 LIQUIDAZIONE FATTURE PER SMALTIMENTO RR.SS.UU.</title>
+			<description>VERBALE N.241 DEL10.07.2017 LIQUIDAZIONE FATTURE PER SMALTIMENTO RR.SS.UU.</description>
+			<a10:updated>2017-07-13T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2869177</guid>
 			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2869177</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINA</category>
 			<title>VERBALE N. 224 DEL 22.06.2017 SERVIZIO SOCIALE DELL'ENTE. IMPEGNO DI SPESA.</title>
 			<description>VERBALE N. 224 DEL 22.06.2017 SERVIZIO SOCIALE DELL'ENTE. IMPEGNO DI SPESA.</description>
-			<a10:updated>2017-06-28T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2850586</guid>
-			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2850586</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 28 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 13 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2850586</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINA</category>
-			<title>VERBALE N. 223 DEL 22.06.2017 CONFERMA IMPEGNO DI SPESA PER PATROCINIO E ASSISTENZA LEGALE.</title>
-			<description>VERBALE N. 223 DEL 22.06.2017 CONFERMA IMPEGNO DI SPESA PER PATROCINIO E ASSISTENZA LEGALE.</description>
-			<a10:updated>2017-06-28T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2850529</guid>
-			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2850529</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 28 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 13 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2850529</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINA</category>
-			<title>VERBALE N. 222 DEL 22.06.2017 LIQUIDAZIONE CONTRIBUTO PROTEZIONE CIVILE</title>
-			<description>VERBALE N. 222 DEL 22.06.2017 LIQUIDAZIONE CONTRIBUTO PROTEZIONE CIVILE</description>
-			<a10:updated>2017-06-28T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2850453</guid>
-			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2850453</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 28 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 13 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2850453</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINA</category>
-			<title>VERBALE N. 221 DEL 22.06.2017 IMPEGNO DI SPESA GESTIONE UFFICIO P.L.</title>
-			<description>VERBALE N. 221 DEL 22.06.2017 IMPEGNO DI SPESA GESTIONE UFFICIO P.L.</description>
 			<a10:updated>2017-06-28T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
