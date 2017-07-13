@@ -5,7 +5,7 @@
 		<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bernareggio</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 13 Jul 2017 14:31:08 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 13 Jul 2017 15:31:06 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bernareggio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bernareggio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bernareggio</a10:id>
-		<pubDate>Thu, 13 Jul 2017 14:31:08 +0200</pubDate>
+		<pubDate>Thu, 13 Jul 2017 15:31:06 +0200</pubDate>
 		<docs>http://albopop.it/comune/bernareggio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3392069</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3392069</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 13 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 28 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3392069</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZE</category>
+			<title>ISTITUZIONE DIVIETO DI CIRCOLAZIONE E SOSTA IN VIA DIAZ INTERSEZINE CON VIA PRINETTI IL GIORNO 17/07/2017 DALLE ORE 08.00 FINO AL TERMINE DEI LAVORI</title>
+			<description>ISTITUZIONE DIVIETO DI CIRCOLAZIONE E SOSTA IN VIA DIAZ INTERSEZINE CON VIA PRINETTI IL GIORNO 17/07/2017 DALLE ORE 08.00 FINO AL TERMINE DEI LAVORI</description>
+			<a10:updated>2017-07-13T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3389912</guid>
 			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3389912</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZE</category>
 			<title>ISTITUZIONE DIVIETO DI CIRCOLAZIONE E SOSTA CON RIMOZIONE FORZATA IN VIA KENNEDY VIA CAVOUR VIA LEONI PIAZZA DELLA REPUBBLICA PARCHEGGI IN VIA BUONARROTI DI LATO GOLOSA FRANCO SHOPPING BAR PIAZZETTA DALLE ORE 16.00 DEL 08/07/2017 ALLE ORE 02.00 DEL 09/07/2017</title>
 			<description>ISTITUZIONE DIVIETO DI CIRCOLAZIONE E SOSTA CON RIMOZIONE FORZATA IN VIA KENNEDY VIA CAVOUR VIA LEONI PIAZZA DELLA REPUBBLICA PARCHEGGI IN VIA BUONARROTI DI LATO GOLOSA FRANCO SHOPPING BAR PIAZZETTA DALLE ORE 16.00 DEL 08/07/2017 ALLE ORE 02.00 DEL 09/07/2017</description>
-			<a10:updated>2017-06-30T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3369643</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3369643</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 30 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 31 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3369643</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI BANDO DI CONCORSO</category>
-			<title>POSTA CERTIFICATA:SI TRASMETTE BANDO DI MOBILITA' PER N. 1 POSTO DI ISTRUTTORE AMMINISTRATIVO ( TEMPO PIENO E INDETERMINATO ) – SERV. DEMOGRAFICI CAT. C PER LA  PUBBLICAZIONE ALL'ALBO PRETORIO. </title>
-			<description>POSTA CERTIFICATA:SI TRASMETTE BANDO DI MOBILITA' PER N. 1 POSTO DI ISTRUTTORE AMMINISTRATIVO ( TEMPO PIENO E INDETERMINATO ) – SERV. DEMOGRAFICI CAT. C PER LA  PUBBLICAZIONE ALL'ALBO PRETORIO. </description>
 			<a10:updated>2017-06-30T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
