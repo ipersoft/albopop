@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 14 Jul 2017 10:31:24 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 14 Jul 2017 12:31:25 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,16 +16,27 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Fri, 14 Jul 2017 10:31:24 +0200</pubDate>
+		<pubDate>Fri, 14 Jul 2017 12:31:25 +0200</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
 		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2870502</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2870502</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 14 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 29 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2870502</category>
+			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
+			<title>ASSUNZIONE A TEMPO PIENO ED A TEMPO DETERMINATO FINO AL 30/09/2017 DELLA DOTT.SSA LA SALA MARIA GIOVANNA CON PROFILO DI FUNZIONARIO FARMACISTA CAT. GIURIDICA ED ECONOMICA D3 - CCNL PERSONALE NON DIRIGENTE REGIONI ED AUTONOMIE LOCALI DA ASSEGNARE ALL’UOC SERVIZI FARMACEUTICI </title>
+			<description>ASSUNZIONE A TEMPO PIENO ED A TEMPO DETERMINATO FINO AL 30/09/2017 DELLA DOTT.SSA LA SALA MARIA GIOVANNA CON PROFILO DI FUNZIONARIO FARMACISTA CAT. GIURIDICA ED ECONOMICA D3 - CCNL PERSONALE NON DIRIGENTE REGIONI ED AUTONOMIE LOCALI DA ASSEGNARE ALL’UOC SERVIZI FARMACEUTICI </description>
+			<a10:updated>2017-07-14T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2870113</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2870113</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 14 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 23 Jan 2018 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 29 Jul 2017 02:00:00 +0200</category>
 			<category domain="http://albopop.it/specs#item-category-uid">2870113</category>
 			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO ON LINE ORDINANZE E AVVISI</category>
 			<title>MODIFICHE TEMPORANEE ALLA VIABILITA’ IN VIA DI VITTORIO A LEMIGNANO PER LAVORI DI POSA CAVIDOTTI ENERGIA ELETTRICA. </title>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
 			<title>PARCO NEVICATI – IMPEGNO DI SPESA PER LA REALIZZAZIONE DI LAVORI IDRAULICI E AFFIDAMENTO DIRETTO ALLA DITTA “ROMANINI &amp; ROSATI S.N.C..”, CON SEDE AL N° 81 DI VIA 8 MARZO A COLLECCHIO – C. FISCALE/P. IVA 01930280340 - CIG: Z8B1F159EB</title>
 			<description>PARCO NEVICATI – IMPEGNO DI SPESA PER LA REALIZZAZIONE DI LAVORI IDRAULICI E AFFIDAMENTO DIRETTO ALLA DITTA “ROMANINI &amp; ROSATI S.N.C..”, CON SEDE AL N° 81 DI VIA 8 MARZO A COLLECCHIO – C. FISCALE/P. IVA 01930280340 - CIG: Z8B1F159EB</description>
-			<a10:updated>2017-07-07T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2863078</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2863078</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 07 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 22 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2863078</category>
-			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
-			<title>COMPARTECIPAZIONE ALLA SPESA PER LA REALIZZAZIONE DI ATTIVITA’ SPORTIVE E RICREATIVE - ANNO 2017</title>
-			<description>COMPARTECIPAZIONE ALLA SPESA PER LA REALIZZAZIONE DI ATTIVITA’ SPORTIVE E RICREATIVE - ANNO 2017</description>
 			<a10:updated>2017-07-07T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
