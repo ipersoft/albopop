@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 14 Jul 2017 12:31:23 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 14 Jul 2017 13:31:10 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Fri, 14 Jul 2017 12:31:23 +0200</pubDate>
+		<pubDate>Fri, 14 Jul 2017 13:31:10 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2871060</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2871060</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 14 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 29 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2871060</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI ATTI DIVERSI</category>
+			<title>GRADUATORIA MOBILE PER ASSEGNAZIONE ALLOGGI PARCHEGGIO (3/2017) - AVVISO </title>
+			<description>GRADUATORIA MOBILE PER ASSEGNAZIONE ALLOGGI PARCHEGGIO (3/2017) - AVVISO </description>
+			<a10:updated>2017-07-14T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2870929</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2870929</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 14 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 29 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2870929</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZE</category>
+			<title>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE NEI SEGUENTE SITI: CORSO DEL POPOLO , VIA MIANI, VIALE TRIESTE.</title>
+			<description>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE NEI SEGUENTE SITI: CORSO DEL POPOLO , VIA MIANI, VIALE TRIESTE.</description>
+			<a10:updated>2017-07-14T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2870928</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2870928</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 14 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 29 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2870928</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE ELENCO OGGETTI SMARRITI</category>
+			<title>OGGETTI RITROVATI-PUBBLICAZIONE VERBALE N.02897 DEL 13.07.2017</title>
+			<description>OGGETTI RITROVATI-PUBBLICAZIONE VERBALE N.02897 DEL 13.07.2017</description>
+			<a10:updated>2017-07-14T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2870861</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2870861</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>LIQUIDAZIONE FATTURE ELETTRONICHE N. 2078 DEL 28.02.2017 (PERIODO FEBBRAIO 2017) E N. 7139 DEL 31.05.2017 (PERIODO MAGGIO 2017) (SOMMINISTRAZIONE LAVORO TEMPORANEO EDUCATORI ASILO NIDO SUPPLENTI) – A FAVORE DELL’AGENZIA TEMPOR SPA . </title>
 			<description>LIQUIDAZIONE FATTURE ELETTRONICHE N. 2078 DEL 28.02.2017 (PERIODO FEBBRAIO 2017) E N. 7139 DEL 31.05.2017 (PERIODO MAGGIO 2017) (SOMMINISTRAZIONE LAVORO TEMPORANEO EDUCATORI ASILO NIDO SUPPLENTI) – A FAVORE DELL’AGENZIA TEMPOR SPA . </description>
-			<a10:updated>2017-07-13T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2868901</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2868901</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 13 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 28 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2868901</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>LIQUIDAZIONE FATTURA ELETTRONICA N. V0-44643 DEL 03.05.2017 BUONI PASTO. COD. CIG DERIVATO: 7055779506</title>
-			<description>LIQUIDAZIONE FATTURA ELETTRONICA N. V0-44643 DEL 03.05.2017 BUONI PASTO. COD. CIG DERIVATO: 7055779506</description>
-			<a10:updated>2017-07-13T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2868575</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2868575</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 13 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 28 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2868575</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>LIQUIDAZIONE III TRIMESTRE 2017 CANONE DI LOCAZIONE IMMOBILE SITO IN ROVIGO, VIALE DEL LAVORO N. 24/A, DI PROPRIETÀ DELLA DITTA RIMI SAS DI CECCHETTO CELESTINO DESTINATO A MAGAZZINO COMUNALE.</title>
-			<description>LIQUIDAZIONE III TRIMESTRE 2017 CANONE DI LOCAZIONE IMMOBILE SITO IN ROVIGO, VIALE DEL LAVORO N. 24/A, DI PROPRIETÀ DELLA DITTA RIMI SAS DI CECCHETTO CELESTINO DESTINATO A MAGAZZINO COMUNALE.</description>
-			<a10:updated>2017-07-13T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2868506</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2868506</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 13 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 28 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2868506</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>LIQUIDAZIONE III TRIMESTRE 2017 CANONE DI LOCAZIONE RELATIVO ALL’IMMOBILE SITO IN VIALE TRIESTE N. 16-18 DESTINATO A SEDE DI UFFICI COMUNALI - DITTA GIOLU S.R.L.</title>
-			<description>LIQUIDAZIONE III TRIMESTRE 2017 CANONE DI LOCAZIONE RELATIVO ALL’IMMOBILE SITO IN VIALE TRIESTE N. 16-18 DESTINATO A SEDE DI UFFICI COMUNALI - DITTA GIOLU S.R.L.</description>
 			<a10:updated>2017-07-13T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

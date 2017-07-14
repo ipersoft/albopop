@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 14 Jul 2017 12:31:24 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 14 Jul 2017 13:31:10 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Fri, 14 Jul 2017 12:31:24 +0200</pubDate>
+		<pubDate>Fri, 14 Jul 2017 13:31:10 +0200</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2870971</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2870971</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 14 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 21 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2870971</category>
+			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>AVVISO PUBBLICAZIONE MATRIMONIO DI MARTINO-FIGUEROA</title>
+			<description>AVVISO PUBBLICAZIONE MATRIMONIO DI MARTINO-FIGUEROA</description>
+			<a10:updated>2017-07-14T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2870969</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2870969</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 14 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 29 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2870969</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>IMPEGNATIVA DI SPESA PER IL PAGAMENTO DI TRIBUTI SPECIALI CATASTALI, ONERI E SANZIONI IN FAVORE DELL'AGENZIA DELLE ENTRATE- UFFICIO PROVINCIALE DI NAPOLI. ATTO DI CONTESTAZIONE N.22317/2017</title>
+			<description>IMPEGNATIVA DI SPESA PER IL PAGAMENTO DI TRIBUTI SPECIALI CATASTALI, ONERI E SANZIONI IN FAVORE DELL'AGENZIA DELLE ENTRATE- UFFICIO PROVINCIALE DI NAPOLI. ATTO DI CONTESTAZIONE N.22317/2017</description>
+			<a10:updated>2017-07-14T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2870966</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2870966</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 14 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 29 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2870966</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>LAVORI DI RIFINITURA DELLA PAVIMENTAZIONE NELLA PIAZZETTA DI MATERMANIA. APPROVAZIONE DEL PREVENTIVO DELLA DITTA "IPM ITALIA S.R.L." DI SULBIATE (MB).</title>
+			<description>LAVORI DI RIFINITURA DELLA PAVIMENTAZIONE NELLA PIAZZETTA DI MATERMANIA. APPROVAZIONE DEL PREVENTIVO DELLA DITTA "IPM ITALIA S.R.L." DI SULBIATE (MB).</description>
+			<a10:updated>2017-07-14T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2870739</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2870739</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DI GIUNTA DELIBERA DI GIUNTA</category>
 			<title>APPELLO CAUTELARE INNANZI AL CONSIGLIO DI STATO PER ANNULLAMENTO ORDINANZA DEL TAR CAMPANIA – NAPOLI N. 927/2017 CARUSO GENOVEFFA VS CAPRI SERVIZI S.R.L. UNIPERSONALE E COMUNE DI CAPRI - INCARICO LEGALE CONGIUNTO</title>
 			<description>APPELLO CAUTELARE INNANZI AL CONSIGLIO DI STATO PER ANNULLAMENTO ORDINANZA DEL TAR CAMPANIA – NAPOLI N. 927/2017 CARUSO GENOVEFFA VS CAPRI SERVIZI S.R.L. UNIPERSONALE E COMUNE DI CAPRI - INCARICO LEGALE CONGIUNTO</description>
-			<a10:updated>2017-07-11T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2866646</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2866646</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 11 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 26 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2866646</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DI GIUNTA DELIBERA DI GIUNTA</category>
-			<title>CONCESSIONE PATROCINI MORALI MOSTRA PERSONALE ARTISTA MICHELE SANTONASTASO GIARDINI DELLA FLORA CAPRENSE - XXIII EDIZIONE PREMIO FARAGLIONI 2017 A CURA DELLA PRO.LOCO.ARTE CAPRI - CONCERTI LUGLIO-AGOSTO CENTRO CAPRENSE I. CERIO - "CAROVANA DEL CUORE 2017" A CURA DELLA FONDAZIONE PAOLETTI LUGLIO/SETTEMBRE 2017 - PRESENTAZIONE DEL LIBRO "COME IN CIELO COSI' IN TERRA" DI ANNA AMURA - SALA CONSILIARE 16.07.2017 “IESC LUNA" DEL CONSOLATO DEL PRINCIPATO DI MONACO A NAPOLI, G. DI AUGUSTO 15.07.2017</title>
-			<description>CONCESSIONE PATROCINI MORALI MOSTRA PERSONALE ARTISTA MICHELE SANTONASTASO GIARDINI DELLA FLORA CAPRENSE - XXIII EDIZIONE PREMIO FARAGLIONI 2017 A CURA DELLA PRO.LOCO.ARTE CAPRI - CONCERTI LUGLIO-AGOSTO CENTRO CAPRENSE I. CERIO - "CAROVANA DEL CUORE 2017" A CURA DELLA FONDAZIONE PAOLETTI LUGLIO/SETTEMBRE 2017 - PRESENTAZIONE DEL LIBRO "COME IN CIELO COSI' IN TERRA" DI ANNA AMURA - SALA CONSILIARE 16.07.2017 “IESC LUNA" DEL CONSOLATO DEL PRINCIPATO DI MONACO A NAPOLI, G. DI AUGUSTO 15.07.2017</description>
-			<a10:updated>2017-07-11T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2866137</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2866137</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 11 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 26 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2866137</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
-			<title>PROGRAMMA DI EVENTI CULTURALI "L'ISOLA CHE C'E' " LIQUIDAZIONE ONERI SIAE MESE DI GIUGNO 2017.</title>
-			<description>PROGRAMMA DI EVENTI CULTURALI "L'ISOLA CHE C'E' " LIQUIDAZIONE ONERI SIAE MESE DI GIUGNO 2017.</description>
-			<a10:updated>2017-07-11T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2866068</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2866068</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 11 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 26 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2866068</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
-			<title>"TEATRO E MUSICA, INSIEME - ITINERARI ARTISTICI CAPRESI" - LIQUIDAZIONE I ACCONTO. SOC. OUVERTURE DI MARIA TERESA RUZZA &amp; C. CIG. Z421E2F540 </title>
-			<description>"TEATRO E MUSICA, INSIEME - ITINERARI ARTISTICI CAPRESI" - LIQUIDAZIONE I ACCONTO. SOC. OUVERTURE DI MARIA TERESA RUZZA &amp; C. CIG. Z421E2F540 </description>
 			<a10:updated>2017-07-11T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
