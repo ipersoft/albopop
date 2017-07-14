@@ -5,7 +5,7 @@
 		<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mazzano</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 13 Jul 2017 18:31:17 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 14 Jul 2017 08:31:03 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mazzano</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mazzano</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mazzano</a10:id>
-		<pubDate>Thu, 13 Jul 2017 18:31:17 +0200</pubDate>
+		<pubDate>Fri, 14 Jul 2017 08:31:03 +0200</pubDate>
 		<docs>http://albopop.it/comune/mazzano/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -141,17 +141,6 @@
 			<title>PRESA D'ATTO DELL’APPROVAZIONE DEL PROGETTO DEFINITIVO/ESECUTIVO DEI LAVORI DI ASFALTATURA STRADE E PIAZZE PER I COMUNI DI NUVOLERA E NUVOLENTO – ANNO 2017. ATTESTAZIONE DELLA COPERTURA FINANZIARIA DELL'OPERA NEL BILANCIO DI PREVISIONE 2017 DEL COMUNE DI MAZZANO E DEL RIMBORSO DEI RELATIVI IMPORTI DA PARTE DEI COMUNI DI NUVOLERA E NUVOLENTO</title>
 			<description>PRESA D'ATTO DELL’APPROVAZIONE DEL PROGETTO DEFINITIVO/ESECUTIVO DEI LAVORI DI ASFALTATURA STRADE E PIAZZE PER I COMUNI DI NUVOLERA E NUVOLENTO – ANNO 2017. ATTESTAZIONE DELLA COPERTURA FINANZIARIA DELL'OPERA NEL BILANCIO DI PREVISIONE 2017 DEL COMUNE DI MAZZANO E DEL RIMBORSO DEI RELATIVI IMPORTI DA PARTE DEI COMUNI DI NUVOLERA E NUVOLENTO</description>
 			<a10:updated>2017-07-07T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3377741</guid>
-			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3377741</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 05 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 13 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3377741</category>
-			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO</category>
-			<title>PUBBLICAZIONE DI MATRIMONIO N. 5/2017 A.C.</title>
-			<description>PUBBLICAZIONE DI MATRIMONIO N. 5/2017 A.C.</description>
-			<a10:updated>2017-07-05T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3376778</guid>
@@ -294,6 +283,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
 			<title>AFFIDAMENTO DIRETTO DELLA FORNITURA DI MATERIALE HARDWARE PER IMPIANTI MULTIMEDIALI DI PROIEZIONE PER I COMUNI DELL'AGGREGAZIONE.</title>
 			<description>AFFIDAMENTO DIRETTO DELLA FORNITURA DI MATERIALE HARDWARE PER IMPIANTI MULTIMEDIALI DI PROIEZIONE PER I COMUNI DELL'AGGREGAZIONE.</description>
+			<a10:updated>2017-07-03T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3373099</guid>
+			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3373099</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 03 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 18 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3373099</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
+			<title>IMPEGNO DI SPESA A FAVORE DELLA COMUNITA' MONTANA DI VALLE SABBIA PER IL SERVIZIO INFORMATICO "ATTIVITA' DI SERVIZI SISTEMICI PER IL COMUNE DI MAZZANO" - ANNO 2017</title>
+			<description>IMPEGNO DI SPESA A FAVORE DELLA COMUNITA' MONTANA DI VALLE SABBIA PER IL SERVIZIO INFORMATICO "ATTIVITA' DI SERVIZI SISTEMICI PER IL COMUNE DI MAZZANO" - ANNO 2017</description>
 			<a10:updated>2017-07-03T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
