@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 14 Jul 2017 18:31:32 +0200</lastBuildDate>
+		<lastBuildDate>Sat, 15 Jul 2017 08:31:12 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Fri, 14 Jul 2017 18:31:32 +0200</pubDate>
+		<pubDate>Sat, 15 Jul 2017 08:31:12 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2871564</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2871564</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 14 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 29 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2871564</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERE DI GIUNTA</category>
+			<title>APPROVAZIONE PROGETTO DI SERVIZIO CIVILE REGIONALE PER L’ANNO 2017/2018 DENOMINATO “TI AIUTO.RO”</title>
+			<description>APPROVAZIONE PROGETTO DI SERVIZIO CIVILE REGIONALE PER L’ANNO 2017/2018 DENOMINATO “TI AIUTO.RO”</description>
+			<a10:updated>2017-07-14T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2871392</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2871392</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>LAVORI DI “RINNOVO CENTRALE TERMICA SEDE MUNICIPALE”. SOMME IN AMMINISTRAZIONE DIRETTA. AFFIDAMENTO DIRETTO DITTA KLIMATERM SRL DI ROSOLINA (RO) EX ART. 36 C. 2 LETT. A) D.LGS. 50/2016 PER MANUTENZIONE STRAORDINARIA E SOSTITUZIONE CLIMATIZZATORI SEDE MUNICIPALE. CIG: Z671F41BF5</title>
 			<description>LAVORI DI “RINNOVO CENTRALE TERMICA SEDE MUNICIPALE”. SOMME IN AMMINISTRAZIONE DIRETTA. AFFIDAMENTO DIRETTO DITTA KLIMATERM SRL DI ROSOLINA (RO) EX ART. 36 C. 2 LETT. A) D.LGS. 50/2016 PER MANUTENZIONE STRAORDINARIA E SOSTITUZIONE CLIMATIZZATORI SEDE MUNICIPALE. CIG: Z671F41BF5</description>
-			<a10:updated>2017-07-13T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2869620</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2869620</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 13 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 28 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2869620</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>REVOCA DETERMINA N.1482/2017 E CONTESTUALE ADOZIONE DETERMINA DI ASSISTENZA ECONOMICA STRAORDINARIA LUGLIO 2017 (1) – ACCERTAMENTO IN ENTRATA ED IMPEGNO E CONTESTUALE LIQUIDAZIONE DI CONTRIBUTI ECONOMICI A PERSONE VARIE</title>
-			<description>REVOCA DETERMINA N.1482/2017 E CONTESTUALE ADOZIONE DETERMINA DI ASSISTENZA ECONOMICA STRAORDINARIA LUGLIO 2017 (1) – ACCERTAMENTO IN ENTRATA ED IMPEGNO E CONTESTUALE LIQUIDAZIONE DI CONTRIBUTI ECONOMICI A PERSONE VARIE</description>
 			<a10:updated>2017-07-13T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
