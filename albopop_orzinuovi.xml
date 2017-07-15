@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 15 Jul 2017 12:30:39 +0200</lastBuildDate>
+		<lastBuildDate>Sat, 15 Jul 2017 14:30:40 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Sat, 15 Jul 2017 12:30:39 +0200</pubDate>
+		<pubDate>Sat, 15 Jul 2017 14:30:40 +0200</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2871767</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2871767</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 15 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 23 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2871767</category>
+			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>PUBBLICAZIONI DI MATRIMONIO PAGLIARI - BOCCHI</title>
+			<description>PUBBLICAZIONI DI MATRIMONIO PAGLIARI - BOCCHI</description>
+			<a10:updated>2017-07-15T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2869740</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2869740</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>FINANZIAMENTO CON LE RISORSE DEL 5 PER MILLE DELL’IRPEF A SOSTEGNO DELLE ATTIVITA’ SOCIALI DESTINATE AI CITTADINI ORCEANI ATTRIBUITE NELL’ANNO 2016 E RIFERITE ALL’ANNO FINANZIARIO 2014. IMPEGNO DI SPESA</title>
 			<description>FINANZIAMENTO CON LE RISORSE DEL 5 PER MILLE DELL’IRPEF A SOSTEGNO DELLE ATTIVITA’ SOCIALI DESTINATE AI CITTADINI ORCEANI ATTRIBUITE NELL’ANNO 2016 E RIFERITE ALL’ANNO FINANZIARIO 2014. IMPEGNO DI SPESA</description>
-			<a10:updated>2017-07-10T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2863812</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2863812</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 10 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 25 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2863812</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI AUTORIZZAZIONI</category>
-			<title>AUTORIZZAZIONE PER RINNOVO AUTORIZZAZIONE N° 11512 DI PROT. DEL 7 LUGLIO 2014 PER MEZZI PUBBLICITARI IN VIA ADUA N° 27</title>
-			<description>AUTORIZZAZIONE PER RINNOVO AUTORIZZAZIONE N° 11512 DI PROT. DEL 7 LUGLIO 2014 PER MEZZI PUBBLICITARI IN VIA ADUA N° 27</description>
 			<a10:updated>2017-07-10T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
