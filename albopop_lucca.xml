@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 17 Jul 2017 08:30:52 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 17 Jul 2017 09:30:47 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Mon, 17 Jul 2017 08:30:52 +0200</pubDate>
+		<pubDate>Mon, 17 Jul 2017 09:30:47 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3395086</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3395086</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 17 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 01 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3395086</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>ALESA DI ALEO GIUSEPPE &amp; C./COMUNE DI LUCCA – . PAGAMENTO IMPOSTA DI REGISTRO SENTENZA N. 2134/2014 – IMPEGNO DI SPESA E LIQUIDAZIONE. CONTENUTO: PAGAMENTO IMPOSTA-(FAMIGLIA 11 “ALTRO”)</title>
+			<description>ALESA DI ALEO GIUSEPPE &amp; C./COMUNE DI LUCCA – . PAGAMENTO IMPOSTA DI REGISTRO SENTENZA N. 2134/2014 – IMPEGNO DI SPESA E LIQUIDAZIONE. CONTENUTO: PAGAMENTO IMPOSTA-(FAMIGLIA 11 “ALTRO”)</description>
+			<a10:updated>2017-07-17T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3393853</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3393853</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>ELEZIONI COMUNALI 2017 – LIQUIDAZIONE DEGLI ONORARI AI COMPONENTI DEI SEGGI ELETTORALI </title>
 			<description>ELEZIONI COMUNALI 2017 – LIQUIDAZIONE DEGLI ONORARI AI COMPONENTI DEI SEGGI ELETTORALI </description>
-			<a10:updated>2017-07-13T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3391252</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3391252</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 13 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 28 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3391252</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>IL CANTO DEGLI ALBERI" PRESSO L'ORTO BOTANICO EDIZIONE 2017. APPROVAZIONE DEL PROGETTO PRESENTATO DALLA FLAM (FEDERAZIONE LUCCHESE DELLE ASSOCIAZIONI MUSICALI) E DELLA RELATIVA CONVENZIONE. FAMIGLIA 07. CIG Z0C1F15EE8 </title>
-			<description>IL CANTO DEGLI ALBERI" PRESSO L'ORTO BOTANICO EDIZIONE 2017. APPROVAZIONE DEL PROGETTO PRESENTATO DALLA FLAM (FEDERAZIONE LUCCHESE DELLE ASSOCIAZIONI MUSICALI) E DELLA RELATIVA CONVENZIONE. FAMIGLIA 07. CIG Z0C1F15EE8 </description>
 			<a10:updated>2017-07-13T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

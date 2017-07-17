@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 17 Jul 2017 08:30:56 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 17 Jul 2017 09:30:51 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Mon, 17 Jul 2017 08:30:56 +0200</pubDate>
+		<pubDate>Mon, 17 Jul 2017 09:30:51 +0200</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2872127</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2872127</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 17 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 01 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2872127</category>
+			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
+			<title>LIQUIDAZIONE SALARIO ACCESSORIO 3° SETTORE - SERVIZI DEMOGRAFICI E SOCIALI - MESE DI GIUGNO 2017.</title>
+			<description>LIQUIDAZIONE SALARIO ACCESSORIO 3° SETTORE - SERVIZI DEMOGRAFICI E SOCIALI - MESE DI GIUGNO 2017.</description>
+			<a10:updated>2017-07-17T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2872000</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2872000</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 17 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 24 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2872000</category>
+			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>AVVISO PUBBLICAZIONE MATRIMONIO BUTI/MANTEGAZZA</title>
+			<description>AVVISO PUBBLICAZIONE MATRIMONIO BUTI/MANTEGAZZA</description>
+			<a10:updated>2017-07-17T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2870971</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2870971</link>
@@ -273,28 +295,6 @@
 			<title>VARIAZIONE DEL P.E.G. ASSEGNATO AL SETTORE IV - LAVORI PUBBLICI.</title>
 			<description>VARIAZIONE DEL P.E.G. ASSEGNATO AL SETTORE IV - LAVORI PUBBLICI.</description>
 			<a10:updated>2017-07-12T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2866652</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2866652</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 11 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 26 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2866652</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DI GIUNTA DELIBERA DI GIUNTA</category>
-			<title>Porto Commerciale di Capri – Problematica congestionamento e sovraffollamento aree di Marina Grande – Atto di indirizzo.</title>
-			<description>Porto Commerciale di Capri – Problematica congestionamento e sovraffollamento aree di Marina Grande – Atto di indirizzo.</description>
-			<a10:updated>2017-07-11T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2866649</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2866649</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 11 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 26 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2866649</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DI GIUNTA DELIBERA DI GIUNTA</category>
-			<title>APPELLO CAUTELARE INNANZI AL CONSIGLIO DI STATO PER ANNULLAMENTO ORDINANZA DEL TAR CAMPANIA – NAPOLI N. 927/2017 CARUSO GENOVEFFA VS CAPRI SERVIZI S.R.L. UNIPERSONALE E COMUNE DI CAPRI - INCARICO LEGALE CONGIUNTO</title>
-			<description>APPELLO CAUTELARE INNANZI AL CONSIGLIO DI STATO PER ANNULLAMENTO ORDINANZA DEL TAR CAMPANIA – NAPOLI N. 927/2017 CARUSO GENOVEFFA VS CAPRI SERVIZI S.R.L. UNIPERSONALE E COMUNE DI CAPRI - INCARICO LEGALE CONGIUNTO</description>
-			<a10:updated>2017-07-11T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
