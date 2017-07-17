@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Sun, 16 Jul 2017 18:30:38 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 17 Jul 2017 08:30:38 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Sun, 16 Jul 2017 18:30:38 +0200</pubDate>
+		<pubDate>Mon, 17 Jul 2017 08:30:38 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/661620</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/661620</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 17 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 01 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">661620</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
+			<title>SERVIZIO MANUTENZIONI PER TONUCCI SIMONETTA - VIALE ZANELLA N. 29 - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI.</title>
+			<description>SERVIZIO MANUTENZIONI PER TONUCCI SIMONETTA - VIALE ZANELLA N. 29 - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI.</description>
+			<a10:updated>2017-07-17T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/661617</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/661617</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 17 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 01 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">661617</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
+			<title>SERVIZIO MANUTENZIONI PER GIORGINI LUCA - VIA DELLA CONCORDIA - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI.</title>
+			<description>SERVIZIO MANUTENZIONI PER GIORGINI LUCA - VIA DELLA CONCORDIA - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI.</description>
+			<a10:updated>2017-07-17T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/661614</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/661614</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 17 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 01 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">661614</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
+			<title>VICHI ERCOLE - VIA DELLA TORRE - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI.</title>
+			<description>VICHI ERCOLE - VIA DELLA TORRE - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI.</description>
+			<a10:updated>2017-07-17T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/661583</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/661583</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO RICHIESTA PUBBLICAZIONE MATRIMONIO ALBO</category>
 			<title>PUBBLICAZIONI DI MATRIMONIO DI GIARDINA GIOVANNI E BAMUNDO VERONICA</title>
 			<description>PUBBLICAZIONI DI MATRIMONIO DI GIARDINA GIOVANNI E BAMUNDO VERONICA</description>
-			<a10:updated>2017-07-14T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/661297</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/661297</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 14 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 29 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">661297</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>LAVORI DI REALIZZAZIONE DI DUE ROTATORIE IN VIA GOITO IN CORRISPONDENZA DI VIA SOLFERINO E VIA NANTERRE – VIA MILAZZO FINALIZZATE AL MIGLIORAMENTO DELLA SICUREZZA STRADALE. INCARICO PROFESSIONALE PER LO SVOLGIMENTO DELL’ATTIVITÀ DI COORDINATORE PER LA SICUREZZA IN FASE DI ESECUZIONE: AGGIORNAMENTO IMPORTO DELL’INCARICO PER EFFETTO DELL'AUMENTO DELL'IVA. ASSUNZIONE IMPEGNO DI SPESA </title>
-			<description>LAVORI DI REALIZZAZIONE DI DUE ROTATORIE IN VIA GOITO IN CORRISPONDENZA DI VIA SOLFERINO E VIA NANTERRE – VIA MILAZZO FINALIZZATE AL MIGLIORAMENTO DELLA SICUREZZA STRADALE. INCARICO PROFESSIONALE PER LO SVOLGIMENTO DELL’ATTIVITÀ DI COORDINATORE PER LA SICUREZZA IN FASE DI ESECUZIONE: AGGIORNAMENTO IMPORTO DELL’INCARICO PER EFFETTO DELL'AUMENTO DELL'IVA. ASSUNZIONE IMPEGNO DI SPESA </description>
-			<a10:updated>2017-07-14T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/661294</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/661294</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 14 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 29 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">661294</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>SUBINGRESSO CON LA DITTA DOLCINI S.A.S. DI DOLCINI VANESSA &amp; C. NELLA CONCESSIONE IN USO DI UN’AREA SITA A PESARO IN VIALE TRIESTE (SPIAGGIA DI PONENTE), PER IL MANTENIMENTO DI UN CHIOSCO-BAR. </title>
-			<description>SUBINGRESSO CON LA DITTA DOLCINI S.A.S. DI DOLCINI VANESSA &amp; C. NELLA CONCESSIONE IN USO DI UN’AREA SITA A PESARO IN VIALE TRIESTE (SPIAGGIA DI PONENTE), PER IL MANTENIMENTO DI UN CHIOSCO-BAR. </description>
-			<a10:updated>2017-07-14T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/661291</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/661291</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 14 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 29 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">661291</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>PROMOZIONE EVENTIN DI ACCOGLIENZA TURISTICA 2017- IMPEGNI DI SPESA</title>
-			<description>PROMOZIONE EVENTIN DI ACCOGLIENZA TURISTICA 2017- IMPEGNI DI SPESA</description>
 			<a10:updated>2017-07-14T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
