@@ -5,7 +5,7 @@
 		<link>http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Baranzate</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 18 Jul 2017 17:30:43 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 18 Jul 2017 18:30:44 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Baranzate</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Milano</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Baranzate</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_baranzate</a10:id>
-		<pubDate>Tue, 18 Jul 2017 17:30:43 +0200</pubDate>
+		<pubDate>Tue, 18 Jul 2017 18:30:44 +0200</pubDate>
 		<docs>http://albopop.it/comune/baranzate/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -75,6 +75,17 @@
 			<title>SERVIZIO DI CONTROLLO E MANUTENZIONE SEMESTRALE DI SISTEMI, ATTREZZATURE ED IMPIANTI ANTINCENDIO DEGLI EDIFICI COMUNALI - CIG:Z121EE3E80 - APPROVAZIONE INTERVENTO, IMPEGNO DI SPESA E AFFIDAMENTO</title>
 			<description>SERVIZIO DI CONTROLLO E MANUTENZIONE SEMESTRALE DI SISTEMI, ATTREZZATURE ED IMPIANTI ANTINCENDIO DEGLI EDIFICI COMUNALI - CIG:Z121EE3E80 - APPROVAZIONE INTERVENTO, IMPEGNO DI SPESA E AFFIDAMENTO</description>
 			<a10:updated>2017-07-05T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3399018</guid>
+			<link>http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3399018</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 18 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 02 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3399018</category>
+			<category domain="http://albopop.it/specs#item-category-type">DELIBERA DELIBERA GIUNTA</category>
+			<title>CONVENZIONE TRA IL COMUNE DI BARANZATE E CCIAA DI MILANO RELATIVA ALL'UTILIZZO DELLA SOLUZIONE INFORMATICA REALIZZATA DALL'ENTE CAMERALE PER LA GESTIONE TELEMATICA DELLE PRATICHE SUAP TRAMITE IL PORTALE IMPRESAINUNGIORNO</title>
+			<description>CONVENZIONE TRA IL COMUNE DI BARANZATE E CCIAA DI MILANO RELATIVA ALL'UTILIZZO DELLA SOLUZIONE INFORMATICA REALIZZATA DALL'ENTE CAMERALE PER LA GESTIONE TELEMATICA DELLE PRATICHE SUAP TRAMITE IL PORTALE IMPRESAINUNGIORNO</description>
+			<a10:updated>2017-07-18T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3376025</guid>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERA DELIBERA GIUNTA</category>
 			<title>ART. 166 D. LGS. 18 AGOSTO 2000 - PRELIEVO DAL FONDO DI RISERVA E DAL FONDO DI RISERVA DI CASSA.</title>
 			<description>ART. 166 D. LGS. 18 AGOSTO 2000 - PRELIEVO DAL FONDO DI RISERVA E DAL FONDO DI RISERVA DI CASSA.</description>
-			<a10:updated>2017-07-05T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3375943</guid>
-			<link>http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3375943</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 05 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 20 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3375943</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINA P.O. DETERMINA</category>
-			<title>IMPEGNO DI SPESA PER MANIFESTI CONSIGLIO COMUNALE</title>
-			<description>IMPEGNO DI SPESA PER MANIFESTI CONSIGLIO COMUNALE</description>
 			<a10:updated>2017-07-05T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
