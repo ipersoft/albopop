@@ -5,7 +5,7 @@
 		<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mazzano</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 18 Jul 2017 12:31:18 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 18 Jul 2017 13:31:08 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mazzano</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mazzano</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mazzano</a10:id>
-		<pubDate>Tue, 18 Jul 2017 12:31:18 +0200</pubDate>
+		<pubDate>Tue, 18 Jul 2017 13:31:08 +0200</pubDate>
 		<docs>http://albopop.it/comune/mazzano/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3398068</guid>
+			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3398068</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 18 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 30 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3398068</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONCORSI PUBBLICI</category>
+			<title>BANDO DI CONCORSO PUBBLICO DI N.1 POSTO, A TEMPO PARZIALE DI 18 ORE SETTIMANALI, DI FARMACISTA - CAT. D3, SUBORDINATO ALL’ESITO NEGATIVO DELLA PROCEDURA DI MOBILITA’DI CUI ALL’ART. 30 COMMI 1 E 2 BIS DEL D. LGS. N. 165/2001E S.M.I.</title>
+			<description>BANDO DI CONCORSO PUBBLICO DI N.1 POSTO, A TEMPO PARZIALE DI 18 ORE SETTIMANALI, DI FARMACISTA - CAT. D3, SUBORDINATO ALL’ESITO NEGATIVO DELLA PROCEDURA DI MOBILITA’DI CUI ALL’ART. 30 COMMI 1 E 2 BIS DEL D. LGS. N. 165/2001E S.M.I.</description>
+			<a10:updated>2017-07-18T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3397778</guid>
 			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3397778</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
 			<title>RICONOSCIMENTO REQUISITI PER CONCESSIONE ASSEGNO DI MATERNITA' - MATRICOLA 405197817</title>
 			<description>RICONOSCIMENTO REQUISITI PER CONCESSIONE ASSEGNO DI MATERNITA' - MATRICOLA 405197817</description>
-			<a10:updated>2017-07-03T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3373121</guid>
-			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3373121</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 03 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 18 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3373121</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
-			<title>RICONOSCIMENTO REQUISITI PER CONCESSIONE ASSEGNO DI MATERNITA' - MATRICOLA 404198217</title>
-			<description>RICONOSCIMENTO REQUISITI PER CONCESSIONE ASSEGNO DI MATERNITA' - MATRICOLA 404198217</description>
 			<a10:updated>2017-07-03T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

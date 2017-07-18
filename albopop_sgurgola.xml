@@ -5,7 +5,7 @@
 		<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Sgurgola</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 18 Jul 2017 12:30:55 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 18 Jul 2017 13:30:38 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Sgurgola</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Frosinone</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Sgurgola</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_sgurgola</a10:id>
-		<pubDate>Tue, 18 Jul 2017 12:30:55 +0200</pubDate>
+		<pubDate>Tue, 18 Jul 2017 13:30:38 +0200</pubDate>
 		<docs>http://albopop.it/comune/sgurgola/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2874780</guid>
+			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2874780</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 18 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 02 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2874780</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINA</category>
+			<title>VERBALE N. 254 DEL 13,07.2017 IMPEGNO SPESA E LIQUIDAZIONE ECONOMO COMUNALE</title>
+			<description>VERBALE N. 254 DEL 13,07.2017 IMPEGNO SPESA E LIQUIDAZIONE ECONOMO COMUNALE</description>
+			<a10:updated>2017-07-18T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2874656</guid>
 			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2874656</link>
@@ -284,17 +295,6 @@
 			<title>VERBALE N. 28 DEL 18.05.2017 ADESIONE ALL'ASSOCIAZIONE NAZIONALE UFFICIALI DI STATO CIVILE E D'ANAGRAFE (A.N.U.S.C.A CON SEDE IN CASTEL S. PIETRO TERME (BO)</title>
 			<description>VERBALE N. 28 DEL 18.05.2017 ADESIONE ALL'ASSOCIAZIONE NAZIONALE UFFICIALI DI STATO CIVILE E D'ANAGRAFE (A.N.U.S.C.A CON SEDE IN CASTEL S. PIETRO TERME (BO)</description>
 			<a10:updated>2017-07-06T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2858852</guid>
-			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2858852</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 05 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 20 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2858852</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DELIBERE DI GIUNTA</category>
-			<title>VERBALE N. 36 DEL 22/06/2017 RICHIESTA DI CONTRIBUTO AVVISO DA REGOLAMENTO N,. 6/2017 DI CUI ALLA DETERMINAZIONE N. G08016 DEL 7/6/2017 - PERIODO 1 AGOSTO - 25 SETTEMBRE 2017</title>
-			<description>VERBALE N. 36 DEL 22/06/2017 RICHIESTA DI CONTRIBUTO AVVISO DA REGOLAMENTO N,. 6/2017 DI CUI ALLA DETERMINAZIONE N. G08016 DEL 7/6/2017 - PERIODO 1 AGOSTO - 25 SETTEMBRE 2017</description>
-			<a10:updated>2017-07-05T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
