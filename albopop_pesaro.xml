@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 18 Jul 2017 16:30:38 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 18 Jul 2017 17:30:38 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Tue, 18 Jul 2017 16:30:38 +0200</pubDate>
+		<pubDate>Tue, 18 Jul 2017 17:30:38 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/662062</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/662062</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 18 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 02 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">662062</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO ESITI DI GARA</category>
+			<title>ESITO DI PROCEDURA NEGOZIATA AI SENSI DELL’ART. 36 COMMA 2 LETT. C) DEL D.LGS. 50/2016 PER L’APPALTO DEI LAVORI DI RIQUALIFICAZIONE E VALORIZZAZIONE DEL CENTRO STORICO DI PESARO - 4° STRALCIO CORSO XI SETTEMBRE – TRATTO MENGARONI – PESCHERIA, A SEGUITO DI SORTEGGIO PUBBLICO DEL 03/08/2016. C.I.G. N. 69787842BE – CUP D76G15000620004</title>
+			<description>ESITO DI PROCEDURA NEGOZIATA AI SENSI DELL’ART. 36 COMMA 2 LETT. C) DEL D.LGS. 50/2016 PER L’APPALTO DEI LAVORI DI RIQUALIFICAZIONE E VALORIZZAZIONE DEL CENTRO STORICO DI PESARO - 4° STRALCIO CORSO XI SETTEMBRE – TRATTO MENGARONI – PESCHERIA, A SEGUITO DI SORTEGGIO PUBBLICO DEL 03/08/2016. C.I.G. N. 69787842BE – CUP D76G15000620004</description>
+			<a10:updated>2017-07-18T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/662010</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/662010</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>FORNITURA DI NEW JERSEY MEDIANTE ACQUISTO SUL MERCATO ELETTRONICO (MEPA). DITTA SISAS SPA.</title>
 			<description>FORNITURA DI NEW JERSEY MEDIANTE ACQUISTO SUL MERCATO ELETTRONICO (MEPA). DITTA SISAS SPA.</description>
-			<a10:updated>2017-07-18T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/661768</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/661768</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 18 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 02 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">661768</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>FORNITURA DI CONGLOMERATO BITUMINOSO A CALDO MEDIANTE ACQUISTO SUL MERCATO ELETTRONICO (MEPA-TRATTATIVA DIRETTA) PER LAVORI DA ESEGUIRE IN AMMINISTRAZIONE DIRETTA. DITTA S.TRADE S.R.L.</title>
-			<description>FORNITURA DI CONGLOMERATO BITUMINOSO A CALDO MEDIANTE ACQUISTO SUL MERCATO ELETTRONICO (MEPA-TRATTATIVA DIRETTA) PER LAVORI DA ESEGUIRE IN AMMINISTRAZIONE DIRETTA. DITTA S.TRADE S.R.L.</description>
 			<a10:updated>2017-07-18T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
