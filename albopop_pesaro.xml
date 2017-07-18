@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 18 Jul 2017 13:30:37 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 18 Jul 2017 14:30:38 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Tue, 18 Jul 2017 13:30:37 +0200</pubDate>
+		<pubDate>Tue, 18 Jul 2017 14:30:38 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/662010</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/662010</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 18 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 02 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">662010</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
+			<title>MMS LAVORI RETI SOTTO-SERVIZI VIA DELLA GINEVRA - PROVVEDIMENTI VARI DI MODIFICA DELLA VIABILITÀ ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E SOSTA DI VEICOLI</title>
+			<description>MMS LAVORI RETI SOTTO-SERVIZI VIA DELLA GINEVRA - PROVVEDIMENTI VARI DI MODIFICA DELLA VIABILITÀ ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E SOSTA DI VEICOLI</description>
+			<a10:updated>2017-07-18T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/661996</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/661996</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>FORNITURA DI CONGLOMERATO BITUMINOSO A CALDO MEDIANTE ACQUISTO SUL MERCATO ELETTRONICO (MEPA-TRATTATIVA DIRETTA) PER LAVORI DA ESEGUIRE IN AMMINISTRAZIONE DIRETTA. DITTA S.TRADE S.R.L.</title>
 			<description>FORNITURA DI CONGLOMERATO BITUMINOSO A CALDO MEDIANTE ACQUISTO SUL MERCATO ELETTRONICO (MEPA-TRATTATIVA DIRETTA) PER LAVORI DA ESEGUIRE IN AMMINISTRAZIONE DIRETTA. DITTA S.TRADE S.R.L.</description>
-			<a10:updated>2017-07-18T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/661758</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/661758</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 18 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 02 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">661758</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>AVVIO DELLA PROCEDURA DI GARA PER L'AFFIDAMENTO DELLA FORNITURA DI WORKSTATION GRAFICHE PER PROGETTAZIONE DA DESTINARE IN PARTE ALL'U.O. NUOVE OPERE ED IN PARTE AGLI UFFICI COMUNALI, CON PROCEDURA DI ACQUISTO TRAMITE RDO (RICHIESTA DI OFFERTA) DEL MERCATO ELETTRONICO DEL SISTEMA DI E-PROCUREMENT DELLA PUBBLICA AMMINISTRAZIONE</title>
-			<description>AVVIO DELLA PROCEDURA DI GARA PER L'AFFIDAMENTO DELLA FORNITURA DI WORKSTATION GRAFICHE PER PROGETTAZIONE DA DESTINARE IN PARTE ALL'U.O. NUOVE OPERE ED IN PARTE AGLI UFFICI COMUNALI, CON PROCEDURA DI ACQUISTO TRAMITE RDO (RICHIESTA DI OFFERTA) DEL MERCATO ELETTRONICO DEL SISTEMA DI E-PROCUREMENT DELLA PUBBLICA AMMINISTRAZIONE</description>
 			<a10:updated>2017-07-18T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
