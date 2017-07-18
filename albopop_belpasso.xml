@@ -5,7 +5,7 @@
 		<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Belpasso</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 17 Jul 2017 18:30:47 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 18 Jul 2017 08:30:48 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Belpasso</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Belpasso</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_belpasso</a10:id>
-		<pubDate>Mon, 17 Jul 2017 18:30:47 +0200</pubDate>
+		<pubDate>Tue, 18 Jul 2017 08:30:48 +0200</pubDate>
 		<docs>http://albopop.it/comune/belpasso/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -75,6 +75,17 @@
 			<title>APPROVAZIONE PIANO ESECUTIVO DI GESTIONE 2017/2019. </title>
 			<description>APPROVAZIONE PIANO ESECUTIVO DI GESTIONE 2017/2019. </description>
 			<a10:updated>2017-07-17T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3395894</guid>
+			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3395894</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 18 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 26 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3395894</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO PER IRREPERIBILITA'</category>
+			<title>AVVISO DI DEPOSITO ATTI: BAHRINI AZAIEZ + 12</title>
+			<description>AVVISO DI DEPOSITO ATTI: BAHRINI AZAIEZ + 12</description>
+			<a10:updated>2017-07-18T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3395220</guid>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>ANNO SCOLASTICO 2016/2017. TRASPORTO ALUNNI DELLA SCUOLA PRIMARIA E SECONDARIA DI I GRADO. LIQUIDAZIONE SPESE ALLA DITTA A.T.I. NORMANLINE SNC E SAM 221 PER IL SERVIZIO RESO NEL MESE DI FEBBRAIO 2017. CIG: 6512853052</title>
 			<description>ANNO SCOLASTICO 2016/2017. TRASPORTO ALUNNI DELLA SCUOLA PRIMARIA E SECONDARIA DI I GRADO. LIQUIDAZIONE SPESE ALLA DITTA A.T.I. NORMANLINE SNC E SAM 221 PER IL SERVIZIO RESO NEL MESE DI FEBBRAIO 2017. CIG: 6512853052</description>
-			<a10:updated>2017-07-13T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3391718</guid>
-			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3391718</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 13 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 28 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3391718</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA DEL SINDACO</category>
-			<title>OGGETTO: ORDINANZA CONTINGIBILE ED URGENTE AI SENSI ART. 54, COMMA 2 DLGS. 18 AGOSTO 2000 N. 267. IMMOBILE VIA I RETTA PONENTE N. 51. </title>
-			<description>OGGETTO: ORDINANZA CONTINGIBILE ED URGENTE AI SENSI ART. 54, COMMA 2 DLGS. 18 AGOSTO 2000 N. 267. IMMOBILE VIA I RETTA PONENTE N. 51. </description>
 			<a10:updated>2017-07-13T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

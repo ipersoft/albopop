@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 17 Jul 2017 18:30:39 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 18 Jul 2017 08:30:41 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Mon, 17 Jul 2017 18:30:39 +0200</pubDate>
+		<pubDate>Tue, 18 Jul 2017 08:30:41 +0200</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2873982</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2873982</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 17 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 16 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2873982</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI BANDO</category>
+			<title>BANDI MOBILITA' PER COPERTURA DI: 2 POSTI DI ISTRUTTORE TECNICO, CATEGORIA C, TEMPO PIENO; 1 POSTO DA OPERAIO SPECIALIZZATO, CATEGORIA B,TEMPO PIENO</title>
+			<description>BANDI MOBILITA' PER COPERTURA DI: 2 POSTI DI ISTRUTTORE TECNICO, CATEGORIA C, TEMPO PIENO; 1 POSTO DA OPERAIO SPECIALIZZATO, CATEGORIA B,TEMPO PIENO</description>
+			<a10:updated>2017-07-17T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2873729</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2873729</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI AUTORIZZAZIONI</category>
 			<title>AUTORIZZAZIONE PER MEZZI PUBBICITARI IN PIAZZA VITTORIO EMANUELE II N° 36</title>
 			<description>AUTORIZZAZIONE PER MEZZI PUBBICITARI IN PIAZZA VITTORIO EMANUELE II N° 36</description>
-			<a10:updated>2017-07-11T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2865320</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2865320</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 11 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 26 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2865320</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI AUTORIZZAZIONI</category>
-			<title>AUTORIZZAZIONE DI RINNOVO PROVVEDIMENTO N° 13054 DI PROT. DEL 30 LUGLIO 2014 PER MEZZO PUBBLICITARIO IN VIA MILANO "RISTORANTE WOK SUSHI"</title>
-			<description>AUTORIZZAZIONE DI RINNOVO PROVVEDIMENTO N° 13054 DI PROT. DEL 30 LUGLIO 2014 PER MEZZO PUBBLICITARIO IN VIA MILANO "RISTORANTE WOK SUSHI"</description>
 			<a10:updated>2017-07-11T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
