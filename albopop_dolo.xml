@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 18 Jul 2017 11:30:38 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 18 Jul 2017 12:30:49 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Tue, 18 Jul 2017 11:30:38 +0200</pubDate>
+		<pubDate>Tue, 18 Jul 2017 12:30:49 +0200</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -31,6 +31,39 @@
 			<title>VALORIZZAZIONE STORIA PADOVANA E REGIONALE: I PREMI BRUNACCI - MONSELICE</title>
 			<description>VALORIZZAZIONE STORIA PADOVANA E REGIONALE: I PREMI BRUNACCI - MONSELICE</description>
 			<a10:updated>2017-07-17T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3397927</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3397927</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 18 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 02 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3397927</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>LIQUIDAZIONE FATTURA N. 6400027493 DEL 30.06.2017 DITTA SODEXO ITALIA S.P.A. DI CINISELLO BALSAMO (MI)</title>
+			<description>LIQUIDAZIONE FATTURA N. 6400027493 DEL 30.06.2017 DITTA SODEXO ITALIA S.P.A. DI CINISELLO BALSAMO (MI)</description>
+			<a10:updated>2017-07-18T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3397923</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3397923</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 18 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 02 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3397923</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>LIQUIDAZIONE FATTURA N. 17/2017/PA DEL 30.06.2017 DITTA PAGANIN MAURIZIO &amp; C. S.N.C. DI CAMPONOGARA (VE)</title>
+			<description>LIQUIDAZIONE FATTURA N. 17/2017/PA DEL 30.06.2017 DITTA PAGANIN MAURIZIO &amp; C. S.N.C. DI CAMPONOGARA (VE)</description>
+			<a10:updated>2017-07-18T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3397833</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3397833</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 18 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 02 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3397833</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>LIQUIDAZIONE FATTURA N. 8017123969 DEL 07.07.2017 DITTA POSTE ITALIANE S.P.A. DI ROMA (RM)</title>
+			<description>LIQUIDAZIONE FATTURA N. 8017123969 DEL 07.07.2017 DITTA POSTE ITALIANE S.P.A. DI ROMA (RM)</description>
+			<a10:updated>2017-07-18T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3397613</guid>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>AFFIDAMENTO LAVORI INTERVENTO DI REALIZZAZIONE NUOVO BLOCCO OSSARI NEL CIMITERO DI ARINO</title>
 			<description>AFFIDAMENTO LAVORI INTERVENTO DI REALIZZAZIONE NUOVO BLOCCO OSSARI NEL CIMITERO DI ARINO</description>
-			<a10:updated>2017-07-13T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3391937</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3391937</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 13 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 28 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3391937</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
-			<title>ORDINANZA PER MESSA IN SICUREZZA DEL FABBRICATO (COMPLESSO IMMOBILIARE VINCOLATO POSTO SUL LATO EST DI VILLA MOCENIGO SPIGA) SITO IN VIA MATTEOTTI NN. 79 E 83 A DOLO (VE) E IDENTIFICATO CATASTALMENTE NEL COMUNE DI DOLO AL FOGLIO 10 MAPPALI NN. 128, 129, 23, 110 E 379.</title>
-			<description>ORDINANZA PER MESSA IN SICUREZZA DEL FABBRICATO (COMPLESSO IMMOBILIARE VINCOLATO POSTO SUL LATO EST DI VILLA MOCENIGO SPIGA) SITO IN VIA MATTEOTTI NN. 79 E 83 A DOLO (VE) E IDENTIFICATO CATASTALMENTE NEL COMUNE DI DOLO AL FOGLIO 10 MAPPALI NN. 128, 129, 23, 110 E 379.</description>
-			<a10:updated>2017-07-13T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3391863</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3391863</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 13 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 28 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3391863</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>LIQUIDAZIONE PRIMA RATA SEMESTRALE DITTA MARZARO IMPIANTI PER SERVIZIO MANUTENZIONE E GESTIONE IMPIANTI ILLUMINAZIONE VOTIVA NEI CIMITERI COMUNALI</title>
-			<description>LIQUIDAZIONE PRIMA RATA SEMESTRALE DITTA MARZARO IMPIANTI PER SERVIZIO MANUTENZIONE E GESTIONE IMPIANTI ILLUMINAZIONE VOTIVA NEI CIMITERI COMUNALI</description>
-			<a10:updated>2017-07-13T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3391859</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3391859</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 13 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 28 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3391859</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>FORNITURA DELLE ATTREZZATURE NECESSARIE PER LA MANUTENZIONE DEL VERDE PUBBLICO E DELLA VIABILITÀ DI COMPETENZA COMUNALE. AFFIDAMENTO ALLA DITTA ARTUSI GARDEN S.N.C. DI DOLO (VE).</title>
-			<description>FORNITURA DELLE ATTREZZATURE NECESSARIE PER LA MANUTENZIONE DEL VERDE PUBBLICO E DELLA VIABILITÀ DI COMPETENZA COMUNALE. AFFIDAMENTO ALLA DITTA ARTUSI GARDEN S.N.C. DI DOLO (VE).</description>
 			<a10:updated>2017-07-13T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
