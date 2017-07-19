@@ -5,7 +5,7 @@
 		<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Sgurgola</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 19 Jul 2017 09:30:42 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 19 Jul 2017 10:30:45 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Sgurgola</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Frosinone</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Sgurgola</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_sgurgola</a10:id>
-		<pubDate>Wed, 19 Jul 2017 09:30:42 +0200</pubDate>
+		<pubDate>Wed, 19 Jul 2017 10:30:45 +0200</pubDate>
 		<docs>http://albopop.it/comune/sgurgola/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2876017</guid>
+			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2876017</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 19 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 03 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2876017</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINA</category>
+			<title>VERBALE N. 255 DE113.07.2017 IMPEGNO SPESA E LIQUIDAZIONE POSTE ITALIANE</title>
+			<description>VERBALE N. 255 DE113.07.2017 IMPEGNO SPESA E LIQUIDAZIONE POSTE ITALIANE</description>
+			<a10:updated>2017-07-19T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2874780</guid>
 			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2874780</link>
@@ -284,17 +295,6 @@
 			<title>VERBALE N. 234 DEL 29.06.2017 REVOCA DETERMINA N. 216 DEL 22.06.2017. IMPEGNO DI SPESA MANTENIMENTO E RICOVERO CANI IN CANILE</title>
 			<description>VERBALE N. 234 DEL 29.06.2017 REVOCA DETERMINA N. 216 DEL 22.06.2017. IMPEGNO DI SPESA MANTENIMENTO E RICOVERO CANI IN CANILE</description>
 			<a10:updated>2017-07-11T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2860425</guid>
-			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2860425</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 06 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 21 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2860425</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DELIBERE DI GIUNTA</category>
-			<title>VERBALE N. 28 DEL 18.05.2017 ADESIONE ALL'ASSOCIAZIONE NAZIONALE UFFICIALI DI STATO CIVILE E D'ANAGRAFE (A.N.U.S.C.A CON SEDE IN CASTEL S. PIETRO TERME (BO)</title>
-			<description>VERBALE N. 28 DEL 18.05.2017 ADESIONE ALL'ASSOCIAZIONE NAZIONALE UFFICIALI DI STATO CIVILE E D'ANAGRAFE (A.N.U.S.C.A CON SEDE IN CASTEL S. PIETRO TERME (BO)</description>
-			<a10:updated>2017-07-06T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>

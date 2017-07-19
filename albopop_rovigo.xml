@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 19 Jul 2017 09:31:04 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 19 Jul 2017 10:31:08 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Wed, 19 Jul 2017 09:31:04 +0200</pubDate>
+		<pubDate>Wed, 19 Jul 2017 10:31:08 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2876228</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2876228</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 19 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 03 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2876228</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI ATTI DIVERSI</category>
+			<title>AVVIO DEL PROCEDIMENTO AI SENSI DELL'ART. 8 DELLA L. 241/90 DA PARTE DELLA PROVINCIA DI ROVIGO, PROT. N. 26505 DEL 14/07/2017 - PRATICA SUAP 3173 ID 00145020244-03072017-1432 - DITTA: LORO F.LLI S.P.A. </title>
+			<description>AVVIO DEL PROCEDIMENTO AI SENSI DELL'ART. 8 DELLA L. 241/90 DA PARTE DELLA PROVINCIA DI ROVIGO, PROT. N. 26505 DEL 14/07/2017 - PRATICA SUAP 3173 ID 00145020244-03072017-1432 - DITTA: LORO F.LLI S.P.A. </description>
+			<a10:updated>2017-07-19T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2876139</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2876139</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 19 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 03 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2876139</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI ATTI DIVERSI</category>
+			<title>AVVIO DEL PROCEDIMENTO AI SENSI DELL'ART. 8 DELLA L. 241/90 DA PARTE DELLA PROVINCIA DI ROVIGO, PROT. N. 26503 DEL 14/07/2017 - PRATICA SUAP 3173 ID 00145020244-16062017-1702 - DITTA: LORO F.LLI S.P.A. </title>
+			<description>AVVIO DEL PROCEDIMENTO AI SENSI DELL'ART. 8 DELLA L. 241/90 DA PARTE DELLA PROVINCIA DI ROVIGO, PROT. N. 26503 DEL 14/07/2017 - PRATICA SUAP 3173 ID 00145020244-16062017-1702 - DITTA: LORO F.LLI S.P.A. </description>
+			<a10:updated>2017-07-19T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2874912</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2874912</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>PROCEDURA APERTA PER AFFIDAMENTO IN APPALTO SERVIZIO ESTIVO NIDI, SERVIZIO AUSILIARIO DI TUTTI I NIDI COMUNALI ED EDUCATIVO NIDO COMUNALE VIA BRAMANTE E NIDO INTEGRATO SANT'ANTONIO E BUSO – ANNO EDUCATIVO 2017/2019. AGGIUDICAZIONE DEFINITIVA CON VALORE DI EFFICACIA.</title>
 			<description>PROCEDURA APERTA PER AFFIDAMENTO IN APPALTO SERVIZIO ESTIVO NIDI, SERVIZIO AUSILIARIO DI TUTTI I NIDI COMUNALI ED EDUCATIVO NIDO COMUNALE VIA BRAMANTE E NIDO INTEGRATO SANT'ANTONIO E BUSO – ANNO EDUCATIVO 2017/2019. AGGIUDICAZIONE DEFINITIVA CON VALORE DI EFFICACIA.</description>
-			<a10:updated>2017-07-17T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2873158</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2873158</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 17 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 01 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2873158</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>ADDEBITI DELLE COMMISSIONI POS DEL SERVIZIO BIGLIETTERIA DEL TEATRO SOCIALE. PERIODO ANNO 2017. IMPEGNO DI SPESA.</title>
-			<description>ADDEBITI DELLE COMMISSIONI POS DEL SERVIZIO BIGLIETTERIA DEL TEATRO SOCIALE. PERIODO ANNO 2017. IMPEGNO DI SPESA.</description>
-			<a10:updated>2017-07-17T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2873083</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2873083</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 17 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 01 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2873083</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>IMPEGNO DI SPESA SALARIO ACCESSORIO MESE DI LUGLIO 2017</title>
-			<description>IMPEGNO DI SPESA SALARIO ACCESSORIO MESE DI LUGLIO 2017</description>
 			<a10:updated>2017-07-17T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
