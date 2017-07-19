@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 19 Jul 2017 16:31:04 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 19 Jul 2017 17:31:06 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Wed, 19 Jul 2017 16:31:04 +0200</pubDate>
+		<pubDate>Wed, 19 Jul 2017 17:31:06 +0200</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2877252</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2877252</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 19 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 03 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2877252</category>
+			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
+			<title>L'ISOLA CHE C'E' - LIQUIDAZIONE FATTURA CONCERTO 4 LUGLIO. ASS. MUSICOLOGY CIG. ZC91F37C15 </title>
+			<description>L'ISOLA CHE C'E' - LIQUIDAZIONE FATTURA CONCERTO 4 LUGLIO. ASS. MUSICOLOGY CIG. ZC91F37C15 </description>
+			<a10:updated>2017-07-19T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2876967</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2876967</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>ACQUISTO SUL MEPA DI NUOVA CARTOGRAFIA IN SCALA 1:1.000 DEL TERRITORIO COMUNALE - DITTA NUOVA AVIORIPRESE SRL DI NAPOLI - ORDINE 3769108</title>
 			<description>ACQUISTO SUL MEPA DI NUOVA CARTOGRAFIA IN SCALA 1:1.000 DEL TERRITORIO COMUNALE - DITTA NUOVA AVIORIPRESE SRL DI NAPOLI - ORDINE 3769108</description>
-			<a10:updated>2017-07-14T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2870728</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2870728</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 14 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 29 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2870728</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>RIFACIMENTO DELLA PAVIMENTAZIONE STRADALE DISSESTATA NEI PRESSI DELLA PIAZZETTA DI MATERMANIA. APPROVAZIONE DEL PREVENTIVO DELLA DITTA "EDILRICCI S.R.L." DI CAPRI.</title>
-			<description>RIFACIMENTO DELLA PAVIMENTAZIONE STRADALE DISSESTATA NEI PRESSI DELLA PIAZZETTA DI MATERMANIA. APPROVAZIONE DEL PREVENTIVO DELLA DITTA "EDILRICCI S.R.L." DI CAPRI.</description>
 			<a10:updated>2017-07-14T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
