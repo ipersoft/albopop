@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 18 Jul 2017 18:30:35 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 19 Jul 2017 08:30:40 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Tue, 18 Jul 2017 18:30:35 +0200</pubDate>
+		<pubDate>Wed, 19 Jul 2017 08:30:40 +0200</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -74,17 +74,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
 			<title>PROGETTO ITINERANTE "IL CARROZZONE"</title>
 			<description>PROGETTO ITINERANTE "IL CARROZZONE"</description>
-			<a10:updated>2017-07-17T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3396175</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3396175</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 17 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 18 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3396175</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
-			<title>ISTITUZIONE DEL DIVIETO DI SOSTA DA VIA BONOMINI/VIA CASELLO FINO A VIA BONOMINI/VIA CARICATORE</title>
-			<description>ISTITUZIONE DEL DIVIETO DI SOSTA DA VIA BONOMINI/VIA CASELLO FINO A VIA BONOMINI/VIA CARICATORE</description>
 			<a10:updated>2017-07-17T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
@@ -294,6 +283,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>AFFIDAMENTO MEDIANTE PIATTAFORMA SINTEL DEI SERVIZI NECESSARI ALLA REALIZZAZIONE DI MANIFESTAZIONI DI PROMOZIONE TURISTICA E DI SOSTEGNO ALLE ATTIVITA' COMMERCIALI LOCALI ANNO 2017.</title>
 			<description>AFFIDAMENTO MEDIANTE PIATTAFORMA SINTEL DEI SERVIZI NECESSARI ALLA REALIZZAZIONE DI MANIFESTAZIONI DI PROMOZIONE TURISTICA E DI SOSTEGNO ALLE ATTIVITA' COMMERCIALI LOCALI ANNO 2017.</description>
+			<a10:updated>2017-07-11T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3386351</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3386351</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 11 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 26 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3386351</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>ASSUNZIONE IMPEGNO DI SPESA PER ORGANIZZAZIONE FESTA D'ESTATE 2016 PRESSO IL PARCO DI SAN VIGILIO NEI GIORNI 28/29/30 LUGLIO 2017.</title>
+			<description>ASSUNZIONE IMPEGNO DI SPESA PER ORGANIZZAZIONE FESTA D'ESTATE 2016 PRESSO IL PARCO DI SAN VIGILIO NEI GIORNI 28/29/30 LUGLIO 2017.</description>
 			<a10:updated>2017-07-11T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

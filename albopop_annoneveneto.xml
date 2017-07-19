@@ -5,7 +5,7 @@
 		<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Annone Veneto</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 18 Jul 2017 18:30:43 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 19 Jul 2017 08:30:52 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Annone Veneto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Annone Veneto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_annoneveneto</a10:id>
-		<pubDate>Tue, 18 Jul 2017 18:30:43 +0200</pubDate>
+		<pubDate>Wed, 19 Jul 2017 08:30:52 +0200</pubDate>
 		<docs>http://albopop.it/comune/annoneveneto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3399282</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3399282</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 19 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 03 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3399282</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
+			<title>ISTITUZIONE PERMANENTE DEL SENSO UNICO DI MARCIA NEL TRATTO DI VIA SPADACENTA COMPRESO TRA VIA GIAI (S.P. 61) E VIA BERTON. ORDINANZA.</title>
+			<description>ISTITUZIONE PERMANENTE DEL SENSO UNICO DI MARCIA NEL TRATTO DI VIA SPADACENTA COMPRESO TRA VIA GIAI (S.P. 61) E VIA BERTON. ORDINANZA.</description>
+			<a10:updated>2017-07-19T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3398610</guid>
 			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3398610</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>IMPEGNO E LIQUIDAZIONE DI SPESA RELATIVA ALLA CONSULTAZIONE BANCA DATI DEL P.R.A. TRAMITE L'ACI DI ROMA, PER VISURA PROPRIETARI AUTOVEICOLI.</title>
 			<description>IMPEGNO E LIQUIDAZIONE DI SPESA RELATIVA ALLA CONSULTAZIONE BANCA DATI DEL P.R.A. TRAMITE L'ACI DI ROMA, PER VISURA PROPRIETARI AUTOVEICOLI.</description>
-			<a10:updated>2017-07-07T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3381999</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3381999</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 07 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 22 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3381999</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>LIQUIDAZIONE SPESE DEL GESTORE DEI SERVIZI ENERGETICI - GSE SPA</title>
-			<description>LIQUIDAZIONE SPESE DEL GESTORE DEI SERVIZI ENERGETICI - GSE SPA</description>
 			<a10:updated>2017-07-07T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

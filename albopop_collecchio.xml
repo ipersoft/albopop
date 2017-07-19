@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 18 Jul 2017 18:31:19 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 19 Jul 2017 08:31:13 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Tue, 18 Jul 2017 18:31:19 +0200</pubDate>
+		<pubDate>Wed, 19 Jul 2017 08:31:13 +0200</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2875711</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2875711</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 19 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 28 Jan 2018 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2875711</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO ON LINE ORDINANZE E AVVISI</category>
+			<title>MODIFICHE TEMPORANEE ALLA VIABILITA’ IN STRADELLO BRAIA A COLLECCHIO PER LAVORI PRIVATI</title>
+			<description>MODIFICHE TEMPORANEE ALLA VIABILITA’ IN STRADELLO BRAIA A COLLECCHIO PER LAVORI PRIVATI</description>
+			<a10:updated>2017-07-19T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2875609</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2875609</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DLG DELIBERA DI GIUNTA</category>
 			<title>PRELEVAMENTO DAL FONDO DI RISERVA NR. 2 – ANNO 2017 </title>
 			<description>PRELEVAMENTO DAL FONDO DI RISERVA NR. 2 – ANNO 2017 </description>
-			<a10:updated>2017-07-13T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2868632</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2868632</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 13 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 28 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2868632</category>
-			<category domain="http://albopop.it/specs#item-category-type">DLG DELIBERA DI GIUNTA</category>
-			<title>PROGETTO “DIFESA ATTIVA DELL'APPENNINO” NELL'AMBITO DELLA CONVENZIONE CON IL CONSORZIO DELLA BONIFICA PARMENSE - APPROVAZIONE ELENCO SOGGETTI BENEFICIARI PER L'ATTRIBUZIONE DEI CONTRIBUTI PER L'ANNO 2017</title>
-			<description>PROGETTO “DIFESA ATTIVA DELL'APPENNINO” NELL'AMBITO DELLA CONVENZIONE CON IL CONSORZIO DELLA BONIFICA PARMENSE - APPROVAZIONE ELENCO SOGGETTI BENEFICIARI PER L'ATTRIBUZIONE DEI CONTRIBUTI PER L'ANNO 2017</description>
 			<a10:updated>2017-07-13T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
