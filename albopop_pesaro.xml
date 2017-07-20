@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 20 Jul 2017 15:30:41 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 20 Jul 2017 16:30:42 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Thu, 20 Jul 2017 15:30:41 +0200</pubDate>
+		<pubDate>Thu, 20 Jul 2017 16:30:42 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/662614</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/662614</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 20 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 24 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">662614</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO CONVOCAZIONI CONSIGLIO COMMISSIONI ETC</category>
+			<title>CONVOCAZIONE CONSIGLIO COMUNALE LUNEDI' 24 LUGLIO 2017.</title>
+			<description>CONVOCAZIONE CONSIGLIO COMUNALE LUNEDI' 24 LUGLIO 2017.</description>
+			<a10:updated>2017-07-20T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/662567</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/662567</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>LAVORI DI MANUTENZIONE ORDINARIA CONSISTENTI IN PULIZIA DELL’ALVEO IN CEMENTO DEL TORRENTE GENICA E DEL FOSSO BADIA. AFFIDAMENTO DEI LAVORI ALLA DITTA GALEAZZI S.R.L.S. DI MONTELABBATE (PU) ED ASSUNZIONE DEL RELATIVO IMPEGNO DI SPESA PER L’IMPORTO TOTALE DI € 16.568,49 IVA INCLUSA.</title>
 			<description>LAVORI DI MANUTENZIONE ORDINARIA CONSISTENTI IN PULIZIA DELL’ALVEO IN CEMENTO DEL TORRENTE GENICA E DEL FOSSO BADIA. AFFIDAMENTO DEI LAVORI ALLA DITTA GALEAZZI S.R.L.S. DI MONTELABBATE (PU) ED ASSUNZIONE DEL RELATIVO IMPEGNO DI SPESA PER L’IMPORTO TOTALE DI € 16.568,49 IVA INCLUSA.</description>
-			<a10:updated>2017-07-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/662151</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/662151</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 19 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 03 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">662151</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>MANUTENZIONE ORDINARIA LOCALI NON ADIBITI – OPERE DI SPURGO FOGNATURE. </title>
-			<description>MANUTENZIONE ORDINARIA LOCALI NON ADIBITI – OPERE DI SPURGO FOGNATURE. </description>
 			<a10:updated>2017-07-19T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
