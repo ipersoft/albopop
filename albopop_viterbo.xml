@@ -5,7 +5,7 @@
 		<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Viterbo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 20 Jul 2017 08:30:47 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 20 Jul 2017 09:31:04 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Viterbo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Viterbo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Viterbo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_viterbo</a10:id>
-		<pubDate>Thu, 20 Jul 2017 08:30:47 +0200</pubDate>
+		<pubDate>Thu, 20 Jul 2017 09:31:04 +0200</pubDate>
 		<docs>http://albopop.it/comune/viterbo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3401931</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3401931</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 20 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 04 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3401931</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE ORDINANZA DIRIGENZIALE</category>
+			<title>ORDINANZA SOSPENZIONE ATTIVITA' DI PUBBLICO ESERCIZIO A NOME DELLA SOC. "LA PADELLACCIA SRL S" SITO IN VIA VALLE CUPA 68.</title>
+			<description>ORDINANZA SOSPENZIONE ATTIVITA' DI PUBBLICO ESERCIZIO A NOME DELLA SOC. "LA PADELLACCIA SRL S" SITO IN VIA VALLE CUPA 68.</description>
+			<a10:updated>2017-07-20T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3400924</guid>
 			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3400924</link>
@@ -284,17 +295,6 @@
 			<title>CONVOCAZIONE II° COMMISSIONE CONSILIARE 25/07/2017.</title>
 			<description>CONVOCAZIONE II° COMMISSIONE CONSILIARE 25/07/2017.</description>
 			<a10:updated>2017-07-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3398804</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3398804</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 18 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 02 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3398804</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONI SENZA IMPEGNO DI SPESA</category>
-			<title>SSEGNAZIONE ALLOGGIO DI E.R.P. DI RISULTA,VIA G. DI VITTORIO, 75/A, PIANO 2, INT. 3, DI MQ. 80,39 VITERBO ( EX OCCUPANTE P. F.), SIG. P. R. C. A.</title>
-			<description>SSEGNAZIONE ALLOGGIO DI E.R.P. DI RISULTA,VIA G. DI VITTORIO, 75/A, PIANO 2, INT. 3, DI MQ. 80,39 VITERBO ( EX OCCUPANTE P. F.), SIG. P. R. C. A.</description>
-			<a10:updated>2017-07-18T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
