@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 20 Jul 2017 14:31:26 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 20 Jul 2017 15:31:05 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Thu, 20 Jul 2017 14:31:26 +0200</pubDate>
+		<pubDate>Thu, 20 Jul 2017 15:31:05 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2878881</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2878881</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 20 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 04 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2878881</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>LIQUIDAZIONE FATTURA ALLA SOCIETÀ COOPERATIVA ATHENA PER SERVIZIO DI REDAZIONE DEL VERBALE DELLA SEDUTA DI CONSIGLIO COMUNALE DEL GIORNO 11 MAGGIO 2017. </title>
+			<description>LIQUIDAZIONE FATTURA ALLA SOCIETÀ COOPERATIVA ATHENA PER SERVIZIO DI REDAZIONE DEL VERBALE DELLA SEDUTA DI CONSIGLIO COMUNALE DEL GIORNO 11 MAGGIO 2017. </description>
+			<a10:updated>2017-07-20T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2878519</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2878519</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>PROGETTO HOME CARE PREMIUM 2014 – LIQUIDAZIONE SPESA A FAVORE DELLA DITTA UMANA SPA DI VENEZIA PER PRESTAZIONI INTEGRATIVE. -GENNAIO-FEBBRAIO-MARZO 2017- </title>
 			<description>PROGETTO HOME CARE PREMIUM 2014 – LIQUIDAZIONE SPESA A FAVORE DELLA DITTA UMANA SPA DI VENEZIA PER PRESTAZIONI INTEGRATIVE. -GENNAIO-FEBBRAIO-MARZO 2017- </description>
-			<a10:updated>2017-07-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2876877</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2876877</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 19 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 03 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2876877</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>LIQUIDAZIONE FATTURA ELETTRONICA N.IT00117SPL00270 DEL 31.05.2017, EMESSA DALLA DITTA COPMA DI FERRARA, PER INTERVENTI DI PULIZIA STRAORDINARIA PRESSO I SERVIZI IGIENICI MESSI A DISPOSIZIONE DAL CENSER DI ROVIGO IN OCCASIONE DEL LUNA PARK DI PRIMAVERA. EDIZIONE 2017.</title>
-			<description>LIQUIDAZIONE FATTURA ELETTRONICA N.IT00117SPL00270 DEL 31.05.2017, EMESSA DALLA DITTA COPMA DI FERRARA, PER INTERVENTI DI PULIZIA STRAORDINARIA PRESSO I SERVIZI IGIENICI MESSI A DISPOSIZIONE DAL CENSER DI ROVIGO IN OCCASIONE DEL LUNA PARK DI PRIMAVERA. EDIZIONE 2017.</description>
 			<a10:updated>2017-07-19T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
