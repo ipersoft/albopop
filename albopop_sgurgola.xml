@@ -5,7 +5,7 @@
 		<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Sgurgola</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 20 Jul 2017 10:30:51 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 20 Jul 2017 11:30:59 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Sgurgola</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Frosinone</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Sgurgola</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_sgurgola</a10:id>
-		<pubDate>Thu, 20 Jul 2017 10:30:51 +0200</pubDate>
+		<pubDate>Thu, 20 Jul 2017 11:30:59 +0200</pubDate>
 		<docs>http://albopop.it/comune/sgurgola/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2878026</guid>
+			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2878026</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 20 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 04 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2878026</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE  ORDINANZA DEL RESPONSABILE DEL SERVIZIO</category>
+			<title>ORDINANZA N. 17 DEL 19 LUGLIO 2017 - MESSA IN SICUREZZA E RIPRISTINO TOMBA GENTILIZIA " MAGNO ROMANO" - SETTORE 1 BLOCCO 11 - PER MOTIVI DI SICUREZZA ALLA PUBBLICA E PRIVATA INCOLUMITÀ</title>
+			<description>ORDINANZA N. 17 DEL 19 LUGLIO 2017 - MESSA IN SICUREZZA E RIPRISTINO TOMBA GENTILIZIA " MAGNO ROMANO" - SETTORE 1 BLOCCO 11 - PER MOTIVI DI SICUREZZA ALLA PUBBLICA E PRIVATA INCOLUMITÀ</description>
+			<a10:updated>2017-07-20T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2877942</guid>
 			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2877942</link>
@@ -284,17 +295,6 @@
 			<title>VERBALE N. 237 DEL 05/07/2017 LIQUIDAZIONE DIRITTI DI ROGITO 1° SEMESTRE 2017</title>
 			<description>VERBALE N. 237 DEL 05/07/2017 LIQUIDAZIONE DIRITTI DI ROGITO 1° SEMESTRE 2017</description>
 			<a10:updated>2017-07-12T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2865811</guid>
-			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2865811</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 11 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 26 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2865811</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINA</category>
-			<title>VERBALE N. 236 DEL 22.06.2017 REVOCA DET. 218 DEL 22.06.2017 IMPEGNO DI SPESA GESTIONE UFFICIO COMMERCIO</title>
-			<description>VERBALE N. 236 DEL 22.06.2017 REVOCA DET. 218 DEL 22.06.2017 IMPEGNO DI SPESA GESTIONE UFFICIO COMMERCIO</description>
-			<a10:updated>2017-07-11T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
