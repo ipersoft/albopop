@@ -5,7 +5,7 @@
 		<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rometta</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 19 Jul 2017 18:30:58 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 20 Jul 2017 08:31:06 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rometta</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Messina</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rometta</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rometta</a10:id>
-		<pubDate>Wed, 19 Jul 2017 18:30:58 +0200</pubDate>
+		<pubDate>Thu, 20 Jul 2017 08:31:06 +0200</pubDate>
 		<docs>http://albopop.it/comune/rometta/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -209,17 +209,6 @@
 			<a10:updated>2017-07-18T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3398004</guid>
-			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3398004</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 18 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 19 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3398004</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI DEPOSITO ATTI ASSENZA</category>
-			<title>AVVISO DI DEPOSITO ATTI NELLA CASA DEL COMUNE - ELENCO ASS. N. 10 DEL 13 LUGLIO 2017</title>
-			<description>AVVISO DI DEPOSITO ATTI NELLA CASA DEL COMUNE - ELENCO ASS. N. 10 DEL 13 LUGLIO 2017</description>
-			<a10:updated>2017-07-18T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
 			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3398002</guid>
 			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3398002</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 18 Jul 2017 02:00:00 +0200</category>
@@ -294,6 +283,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title> FORNITURA CARTELLINI CARTA D’IDENTITA’ - AFFIDAMENTO TRAMITE MEPA – LIQUIDAZIONE FATTURA.</title>
 			<description> FORNITURA CARTELLINI CARTA D’IDENTITA’ - AFFIDAMENTO TRAMITE MEPA – LIQUIDAZIONE FATTURA.</description>
+			<a10:updated>2017-07-18T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3397880</guid>
+			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3397880</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 18 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 02 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3397880</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
+			<title>AFFIDAMENTO BIENNALE DEL SERVIZIO DI ASSISTENZA TECNICA E MANUTENZIONE HARDWARE, SOFTWARE E DELLA RETE INFORMATICA COMUNALE - IMPEGNO SPESA E AGGIUDICAZIONE DEFINITIVA.</title>
+			<description>AFFIDAMENTO BIENNALE DEL SERVIZIO DI ASSISTENZA TECNICA E MANUTENZIONE HARDWARE, SOFTWARE E DELLA RETE INFORMATICA COMUNALE - IMPEGNO SPESA E AGGIUDICAZIONE DEFINITIVA.</description>
 			<a10:updated>2017-07-18T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

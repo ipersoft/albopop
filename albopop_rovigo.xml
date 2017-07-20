@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 19 Jul 2017 18:31:03 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 20 Jul 2017 08:31:12 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Wed, 19 Jul 2017 18:31:03 +0200</pubDate>
+		<pubDate>Thu, 20 Jul 2017 08:31:12 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -176,6 +176,17 @@
 			<a10:updated>2017-07-19T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2876631</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2876631</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 20 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 21 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2876631</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI ATTI DIVERSI</category>
+			<title>AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE DEL 19/07/2017_ELENCO N. 51253_RONDINA MICHELE - CIANU FRANCESCO</title>
+			<description>AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE DEL 19/07/2017_ELENCO N. 51253_RONDINA MICHELE - CIANU FRANCESCO</description>
+			<a10:updated>2017-07-20T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2876561</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2876561</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 19 Jul 2017 02:00:00 +0200</category>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>LIQUIDAZIONE E PAGAMENTO ALLA DITTA SERENISSIMA RISTORAZIONE SPA PER IL SERVIZIO DI MENSA SVOLTO PRESSO LE SCUOLE DELL'INFANZIA - MESE DI APRILE 2017 – CIG 6767046703 -</title>
 			<description>LIQUIDAZIONE E PAGAMENTO ALLA DITTA SERENISSIMA RISTORAZIONE SPA PER IL SERVIZIO DI MENSA SVOLTO PRESSO LE SCUOLE DELL'INFANZIA - MESE DI APRILE 2017 – CIG 6767046703 -</description>
-			<a10:updated>2017-07-18T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2874834</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2874834</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 18 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 02 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2874834</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>LIQUIDAZIONE E PAGAMENTO ALLA DITTA SERENISSIMA RISTORAZIONE SPA PER IL SERVIZIO DI MENSA SVOLTO PRESSO LE SCUOLE PRIMARIE - MESE DI APRILE 2017 – CIG 6767046703 -</title>
-			<description>LIQUIDAZIONE E PAGAMENTO ALLA DITTA SERENISSIMA RISTORAZIONE SPA PER IL SERVIZIO DI MENSA SVOLTO PRESSO LE SCUOLE PRIMARIE - MESE DI APRILE 2017 – CIG 6767046703 -</description>
 			<a10:updated>2017-07-18T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
