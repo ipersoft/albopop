@@ -5,7 +5,7 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 20 Jul 2017 12:31:17 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 20 Jul 2017 13:31:10 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Isernia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>Thu, 20 Jul 2017 12:31:17 +0200</pubDate>
+		<pubDate>Thu, 20 Jul 2017 13:31:10 +0200</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3403254</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3403254</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 20 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 04 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3403254</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
+			<title>Avv. pubbl. per la selezione degli interventi da finanziare con le risorse del patto per lo sviluppo della Regione Molise . FSC 2014/2020-Delibera del CIPE 10 Agosto 2016 n.26.Area Tematica Turismo e Cultura –Linea di intervento programma integrato per lo sviluppo del turismo sportivo e del benessere-Azione impiantistica sportiva . Incarico esterno per progettazione esecutiva manutenzione palazzetto dello sport. di via Giovanni XXIII di Isernia.</title>
+			<description>Avv. pubbl. per la selezione degli interventi da finanziare con le risorse del patto per lo sviluppo della Regione Molise . FSC 2014/2020-Delibera del CIPE 10 Agosto 2016 n.26.Area Tematica Turismo e Cultura –Linea di intervento programma integrato per lo sviluppo del turismo sportivo e del benessere-Azione impiantistica sportiva . Incarico esterno per progettazione esecutiva manutenzione palazzetto dello sport. di via Giovanni XXIII di Isernia.</description>
+			<a10:updated>2017-07-20T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3402600</guid>
 			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3402600</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO AVVISO</category>
 			<title>POSTA CERTIFICATA: COMUNE DI SALERNO - AVVISI DI MOBILITÀ EX ART.30 D.LGS. N.165/01 - COMUNICAZIONE URGENTE</title>
 			<description>POSTA CERTIFICATA: COMUNE DI SALERNO - AVVISI DI MOBILITÀ EX ART.30 D.LGS. N.165/01 - COMUNICAZIONE URGENTE</description>
-			<a10:updated>2017-07-17T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3396337</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3396337</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 17 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 01 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3396337</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
-			<title>Impegno di spesa per manutenzione ordinaria e straordinaria automezzi del Settore Area Tecnica e Assetto del territorio. Ditta Apollonio Michele C.da Acquaro Zona Commerciale e Artigianale -86080 Miranda.</title>
-			<description>Impegno di spesa per manutenzione ordinaria e straordinaria automezzi del Settore Area Tecnica e Assetto del territorio. Ditta Apollonio Michele C.da Acquaro Zona Commerciale e Artigianale -86080 Miranda.</description>
 			<a10:updated>2017-07-17T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
