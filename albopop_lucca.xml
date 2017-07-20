@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 20 Jul 2017 09:31:34 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 20 Jul 2017 10:31:14 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Thu, 20 Jul 2017 09:31:34 +0200</pubDate>
+		<pubDate>Thu, 20 Jul 2017 10:31:14 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3402344</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3402344</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 20 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 04 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3402344</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>VIA DEI POVERI VECCHI - FRAZIONE DI MONTE SAN QUIRICO: CHIUSURA AL TRANSITO VEICOLARE ALL'INTERSEZIONE CON LA S.P. 24 DI S. ALESSIO PER LAVORI DI ESTENSIONE DELLA RETE FOGNARIA. PERIODO 20 - 22 LUGLIO 2017.</title>
+			<description>VIA DEI POVERI VECCHI - FRAZIONE DI MONTE SAN QUIRICO: CHIUSURA AL TRANSITO VEICOLARE ALL'INTERSEZIONE CON LA S.P. 24 DI S. ALESSIO PER LAVORI DI ESTENSIONE DELLA RETE FOGNARIA. PERIODO 20 - 22 LUGLIO 2017.</description>
+			<a10:updated>2017-07-20T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3401500</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3401500</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>FORNITURA E POSA IN OPERA DI ELEMENTI DI ARREDO URBANO. DETERMINAZIONE DIRIGENZIALE N. 1870/2016. (CONTENUTO DELL’ATTO: AFFIDAMENTO DEI LAVORI. – FAMIGLIA 03).</title>
 			<description>FORNITURA E POSA IN OPERA DI ELEMENTI DI ARREDO URBANO. DETERMINAZIONE DIRIGENZIALE N. 1870/2016. (CONTENUTO DELL’ATTO: AFFIDAMENTO DEI LAVORI. – FAMIGLIA 03).</description>
-			<a10:updated>2017-07-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3399219</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3399219</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 19 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 03 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3399219</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>CENTRO UNICO ACQUISTI – DD UNICA PER L'AFFIDAMENTO DIRETTO DELLE PRESTAZIONI DI SERVIZIO INERENTI LA REALIZZAZIONE DEI PROGETTI EDUCATIVI ZONALI (P.E.Z.) A.S. 2016/2017 ETÀ SCOLARE- “AZIONI DISABILITA', INTERCULTURA, DISAGIO” (FAMIGLIA 03). CIG: Z501F051F5</title>
-			<description>CENTRO UNICO ACQUISTI – DD UNICA PER L'AFFIDAMENTO DIRETTO DELLE PRESTAZIONI DI SERVIZIO INERENTI LA REALIZZAZIONE DEI PROGETTI EDUCATIVI ZONALI (P.E.Z.) A.S. 2016/2017 ETÀ SCOLARE- “AZIONI DISABILITA', INTERCULTURA, DISAGIO” (FAMIGLIA 03). CIG: Z501F051F5</description>
 			<a10:updated>2017-07-19T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
