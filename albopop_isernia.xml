@@ -5,7 +5,7 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 21 Jul 2017 08:31:15 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 21 Jul 2017 09:31:33 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Isernia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>Fri, 21 Jul 2017 08:31:15 +0200</pubDate>
+		<pubDate>Fri, 21 Jul 2017 09:31:33 +0200</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3404726</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3404726</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 21 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 05 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3404726</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA GIUNTA COMUNALE</category>
+			<title>ADESIONE ALL'ACCORDO QUADRO PER L'AFFIDAMENTO DEL SERVIZIO DI GESTIONE E RISCOSSIONE DELLE ENTRATE TRIBUTARIE. DEFINIZIONE LINEE OPERATIVE DI ATTUAZIONE.-</title>
+			<description>ADESIONE ALL'ACCORDO QUADRO PER L'AFFIDAMENTO DEL SERVIZIO DI GESTIONE E RISCOSSIONE DELLE ENTRATE TRIBUTARIE. DEFINIZIONE LINEE OPERATIVE DI ATTUAZIONE.-</description>
+			<a10:updated>2017-07-21T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3403770</guid>
 			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3403770</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
 			<title>Impegno e liquidazione spesa per adesione definizione agevolata Equitalia in relazione all'ambito provinciale di Isernia </title>
 			<description>Impegno e liquidazione spesa per adesione definizione agevolata Equitalia in relazione all'ambito provinciale di Isernia </description>
-			<a10:updated>2017-07-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3399919</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3399919</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 19 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 03 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3399919</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZE</category>
-			<title>MANIFESTAZIONI SPORTIVE NEL CENTRO STORICO - SPOSTAMENTO TEMPORANEO DEI MERCATI SETTIMANALI DEL GIOVEDI E DEL SABATO - .</title>
-			<description>MANIFESTAZIONI SPORTIVE NEL CENTRO STORICO - SPOSTAMENTO TEMPORANEO DEI MERCATI SETTIMANALI DEL GIOVEDI E DEL SABATO - .</description>
 			<a10:updated>2017-07-19T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
