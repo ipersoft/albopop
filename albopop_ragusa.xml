@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 21 Jul 2017 11:31:29 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 21 Jul 2017 12:31:29 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Fri, 21 Jul 2017 11:31:29 +0200</pubDate>
+		<pubDate>Fri, 21 Jul 2017 12:31:29 +0200</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2879981</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2879981</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 21 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 05 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2879981</category>
+			<category domain="http://albopop.it/specs#item-category-type">PROVVEDIMENTO SUAP PROVVEDIMENTO AUTORIZZATIVO UNICO</category>
+			<title>PROVVEDIMENTOSUAP N.46 - LE MASSERIE REAL ESTATE SRL</title>
+			<description>PROVVEDIMENTOSUAP N.46 - LE MASSERIE REAL ESTATE SRL</description>
+			<a10:updated>2017-07-21T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2879631</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2879631</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
 			<title>MISSIONE A ROMA DELL'ARCH. MARCELLO DI MARTINO IN DATA 10 LUGLIO 2017 PRESSO IL MINISTERO DELLE INFRASTRUTTURE E DEI TRASPORTI</title>
 			<description>MISSIONE A ROMA DELL'ARCH. MARCELLO DI MARTINO IN DATA 10 LUGLIO 2017 PRESSO IL MINISTERO DELLE INFRASTRUTTURE E DEI TRASPORTI</description>
-			<a10:updated>2017-07-20T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2877612</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2877612</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 20 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 27 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2877612</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
-			<title>CONCESSIONE DI N. 2 SUOLI PER TOMBE NEL CIMITERO DI RAGUSA IBLA. I AMPLIAMENTO</title>
-			<description>CONCESSIONE DI N. 2 SUOLI PER TOMBE NEL CIMITERO DI RAGUSA IBLA. I AMPLIAMENTO</description>
 			<a10:updated>2017-07-20T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
