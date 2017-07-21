@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 21 Jul 2017 09:31:34 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 21 Jul 2017 10:31:17 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Fri, 21 Jul 2017 09:31:34 +0200</pubDate>
+		<pubDate>Fri, 21 Jul 2017 10:31:17 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2879506</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2879506</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 21 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 05 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2879506</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>LIQUIDAZIONE ACCONTO SPESA PER SERVIZIO DI DISINFESTAZIONE ZANZARE GIUGNO 2017 NEL TERRITORIO COMUNALE – ACQUISTO MEDIANTE ORDINE DIRETTO SUL MERCATO ELETTRONICO DELLA PUBBLICA AMMINISTRAZIONE (MEPA) – CIG. ZF61EBF3DD.</title>
+			<description>LIQUIDAZIONE ACCONTO SPESA PER SERVIZIO DI DISINFESTAZIONE ZANZARE GIUGNO 2017 NEL TERRITORIO COMUNALE – ACQUISTO MEDIANTE ORDINE DIRETTO SUL MERCATO ELETTRONICO DELLA PUBBLICA AMMINISTRAZIONE (MEPA) – CIG. ZF61EBF3DD.</description>
+			<a10:updated>2017-07-21T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2879231</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2879231</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERE DI GIUNTA</category>
 			<title>AUTORIZZAZIONE ALLO SVOLGIMENTO DELLA MANIFESTAZIONE “FESTA FINALE DEI GREST”, PREVISTA IN PIAZZA VITTORIO EMANUELE II IL 20-07-2017 . ORGANIZZAZIONE VICARIATO URBANO DIOCESI DI ADRIA-ROVIGO</title>
 			<description>AUTORIZZAZIONE ALLO SVOLGIMENTO DELLA MANIFESTAZIONE “FESTA FINALE DEI GREST”, PREVISTA IN PIAZZA VITTORIO EMANUELE II IL 20-07-2017 . ORGANIZZAZIONE VICARIATO URBANO DIOCESI DI ADRIA-ROVIGO</description>
-			<a10:updated>2017-07-20T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2878341</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2878341</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 20 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 04 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2878341</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>REVOCA ASSEGNAZIONE DELL’ALLOGGIO DI EDILIZIA RESIDENZIALE PUBBLICA EX ART 9 DELLA LEGGE REGIONALE 10/1996 BANDO ANNO 2014, SITO A ROVIGO IN VIALE OROBONI N. 5</title>
-			<description>REVOCA ASSEGNAZIONE DELL’ALLOGGIO DI EDILIZIA RESIDENZIALE PUBBLICA EX ART 9 DELLA LEGGE REGIONALE 10/1996 BANDO ANNO 2014, SITO A ROVIGO IN VIALE OROBONI N. 5</description>
 			<a10:updated>2017-07-20T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
