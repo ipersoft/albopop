@@ -5,7 +5,7 @@
 		<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bernareggio</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 21 Jul 2017 10:30:58 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 21 Jul 2017 11:31:03 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bernareggio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bernareggio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bernareggio</a10:id>
-		<pubDate>Fri, 21 Jul 2017 10:30:58 +0200</pubDate>
+		<pubDate>Fri, 21 Jul 2017 11:31:03 +0200</pubDate>
 		<docs>http://albopop.it/comune/bernareggio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3405176</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3405176</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 21 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 04 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3405176</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI BANDO DI CONCORSO</category>
+			<title>ISCRIZIONE NELL' ELENCO PREFETTIZIO PREVISTO DALL' ART. 8 DEL D.P.R. 29 LUGLIO 1982 N. 571 - PUBBLICAZIONE AVVISO PUBBLICO</title>
+			<description>ISCRIZIONE NELL' ELENCO PREFETTIZIO PREVISTO DALL' ART. 8 DEL D.P.R. 29 LUGLIO 1982 N. 571 - PUBBLICAZIONE AVVISO PUBBLICO</description>
+			<a10:updated>2017-07-21T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3403689</guid>
 			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3403689</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZE</category>
 			<title>ISTITUZIONE DIVIETO DI SOSTA CON RIMOZIONE FORZATA IN DATA 11/07/2017 DALLE ORE 08.00 FINE AL TERMINE DEI LAVORI IN VIA MOTTA 12 </title>
 			<description>ISTITUZIONE DIVIETO DI SOSTA CON RIMOZIONE FORZATA IN DATA 11/07/2017 DALLE ORE 08.00 FINE AL TERMINE DEI LAVORI IN VIA MOTTA 12 </description>
-			<a10:updated>2017-07-10T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3384114</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3384114</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 10 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 25 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3384114</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>PROROGA PROGETTO DI AFFIDO PROFESSIONALE A FAVORE DI MINORE CIG: Z1B1F44E11</title>
-			<description>PROROGA PROGETTO DI AFFIDO PROFESSIONALE A FAVORE DI MINORE CIG: Z1B1F44E11</description>
 			<a10:updated>2017-07-10T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
