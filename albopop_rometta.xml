@@ -5,7 +5,7 @@
 		<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rometta</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 21 Jul 2017 13:31:09 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 21 Jul 2017 14:31:12 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rometta</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Messina</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rometta</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rometta</a10:id>
-		<pubDate>Fri, 21 Jul 2017 13:31:09 +0200</pubDate>
+		<pubDate>Fri, 21 Jul 2017 14:31:12 +0200</pubDate>
 		<docs>http://albopop.it/comune/rometta/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3406131</guid>
+			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3406131</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 21 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 05 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3406131</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
+			<title>MODIFICA STRUTTURA ORGANIZZATIVA - DOTAZIONE ORGANICA E PIANO PLURIENNALE DEL FABBISOGNO 2017 - 2019</title>
+			<description>MODIFICA STRUTTURA ORGANIZZATIVA - DOTAZIONE ORGANICA E PIANO PLURIENNALE DEL FABBISOGNO 2017 - 2019</description>
+			<a10:updated>2017-07-21T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3406079</guid>
+			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3406079</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 21 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 05 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3406079</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
+			<title>CONTRATTO DI LOCAZIONE DI IMMOBILE AD USO COMMERCIALE DI NATURA TRANSITORIA IN LOCALITÀ CASTELLO </title>
+			<description>CONTRATTO DI LOCAZIONE DI IMMOBILE AD USO COMMERCIALE DI NATURA TRANSITORIA IN LOCALITÀ CASTELLO </description>
+			<a10:updated>2017-07-21T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3405818</guid>
 			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3405818</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>ABBANDONO DELLO SCHEDARIO ANAGRAFICO CARTACEO</title>
 			<description>ABBANDONO DELLO SCHEDARIO ANAGRAFICO CARTACEO</description>
-			<a10:updated>2017-07-18T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3397886</guid>
-			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3397886</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 18 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 02 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3397886</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>LIQUIDAZIONE FATTURA PER SERVIZIO DI ASSISTENZA E MANUTENZIONE SOFTWARE IN DOTAZIONE AGLI UFFICI E SERVIZI COMUNALI ANNO 2017 DITTA MAGGIOLI S.P.A.. (CIG ZD7129723F).</title>
-			<description>LIQUIDAZIONE FATTURA PER SERVIZIO DI ASSISTENZA E MANUTENZIONE SOFTWARE IN DOTAZIONE AGLI UFFICI E SERVIZI COMUNALI ANNO 2017 DITTA MAGGIOLI S.P.A.. (CIG ZD7129723F).</description>
-			<a10:updated>2017-07-18T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3397884</guid>
-			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3397884</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 18 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 02 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3397884</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>ACQUISTO CONTATORI PER IL SERVIZIO IDRICO INTEGRATO - FORNITURA SU ME.PA - AGGIUDICAZIONE DEFINITIVA E IMPEGNO SPESA.</title>
-			<description>ACQUISTO CONTATORI PER IL SERVIZIO IDRICO INTEGRATO - FORNITURA SU ME.PA - AGGIUDICAZIONE DEFINITIVA E IMPEGNO SPESA.</description>
 			<a10:updated>2017-07-18T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
