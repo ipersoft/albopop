@@ -5,7 +5,7 @@
 		<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Canosa di Puglia</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 21 Jul 2017 18:30:53 +0200</lastBuildDate>
+		<lastBuildDate>Sat, 22 Jul 2017 08:30:54 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Canosa di Puglia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Barletta-Andria-Trani</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Canosa di Puglia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_canosadipuglia</a10:id>
-		<pubDate>Fri, 21 Jul 2017 18:30:53 +0200</pubDate>
+		<pubDate>Sat, 22 Jul 2017 08:30:54 +0200</pubDate>
 		<docs>http://albopop.it/comune/canosadipuglia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -130,17 +130,6 @@
 			<title>Atto di indirizzo per l'assunzione di n. 2 dirigenti a tempo determinato ex art.110, comma 1, del D.Lgs. n.267/2000 e ss.mm.ii. e ai sensi dell'art.69 del vigente Regolamento generale sull'ordinamento degli uffici e dei servizi.</title>
 			<description>Atto di indirizzo per l'assunzione di n. 2 dirigenti a tempo determinato ex art.110, comma 1, del D.Lgs. n.267/2000 e ss.mm.ii. e ai sensi dell'art.69 del vigente Regolamento generale sull'ordinamento degli uffici e dei servizi.</description>
 			<a10:updated>2017-07-14T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3392657</guid>
-			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3392657</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 13 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 21 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3392657</category>
-			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO</category>
-			<title>DI TOMMASO - PASCULLI</title>
-			<description>DI TOMMASO - PASCULLI</description>
-			<a10:updated>2017-07-13T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3391881</guid>
@@ -294,6 +283,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
 			<title>CONTRASTO ALLA POVERTA'. INTERVENTI SOCIO-ASSISTENZIALI IN FAVORE DI CITTADINI IN STATO DI DISAGIO - EROGAZIONE CONTRIBUTI</title>
 			<description>CONTRASTO ALLA POVERTA'. INTERVENTI SOCIO-ASSISTENZIALI IN FAVORE DI CITTADINI IN STATO DI DISAGIO - EROGAZIONE CONTRIBUTI</description>
+			<a10:updated>2017-07-13T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3390918</guid>
+			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3390918</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 13 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 28 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3390918</category>
+			<category domain="http://albopop.it/specs#item-category-type">DECRETI E ORDINANZE ORDINANZA DIRIGENZIALE</category>
+			<title>ORDINANZA REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE PER FESTIVITA' RELIGIOSA IN ONORE DELLA "BEATA VERGINE DEL CARMELO" DEL 16.07.2017.</title>
+			<description>ORDINANZA REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE PER FESTIVITA' RELIGIOSA IN ONORE DELLA "BEATA VERGINE DEL CARMELO" DEL 16.07.2017.</description>
 			<a10:updated>2017-07-13T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
