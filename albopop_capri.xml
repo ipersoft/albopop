@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 24 Jul 2017 10:31:08 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 24 Jul 2017 11:31:02 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Mon, 24 Jul 2017 10:31:08 +0200</pubDate>
+		<pubDate>Mon, 24 Jul 2017 11:31:02 +0200</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2881597</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2881597</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 24 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 08 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2881597</category>
+			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
+			<title>SOMMINISTRAZIONE DI LAVORO TEMPORANEO ESPLETATO DA UN OPERAIO DI CATEGORIA B, POSIZIONE ECONOMICA 1. LIQUIDAZIONE DELLA FATTURA DELLA DITTA "RANDSTAD ITALIA S.P.A. UNIPERSONALE" DI MILANO PER LE PRESTAZIONI LAVORATIVE SVOLTE DAL 1.6.2017 AL 30.6.2017.</title>
+			<description>SOMMINISTRAZIONE DI LAVORO TEMPORANEO ESPLETATO DA UN OPERAIO DI CATEGORIA B, POSIZIONE ECONOMICA 1. LIQUIDAZIONE DELLA FATTURA DELLA DITTA "RANDSTAD ITALIA S.P.A. UNIPERSONALE" DI MILANO PER LE PRESTAZIONI LAVORATIVE SVOLTE DAL 1.6.2017 AL 30.6.2017.</description>
+			<a10:updated>2017-07-24T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2880041</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2880041</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>APPELLO CAUTELARE INNANZI AL CONSIGLIO DI STATO PER ANNULLAMENTO ORDINANZA DEL TAR CAMPANIA – NAPOLI N. 927/2017 CARUSO GENOVEFFA VS CAPRI SERVIZI S.R.L. UNIPERSONALE E COMUNE DI CAPRI - INCARICO LEGALE CONGIUNTO - CONVENZIONE CON L’ASSOCIAZIONE LIMATOLA AVVOCATI</title>
 			<description>APPELLO CAUTELARE INNANZI AL CONSIGLIO DI STATO PER ANNULLAMENTO ORDINANZA DEL TAR CAMPANIA – NAPOLI N. 927/2017 CARUSO GENOVEFFA VS CAPRI SERVIZI S.R.L. UNIPERSONALE E COMUNE DI CAPRI - INCARICO LEGALE CONGIUNTO - CONVENZIONE CON L’ASSOCIAZIONE LIMATOLA AVVOCATI</description>
-			<a10:updated>2017-07-20T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2878080</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2878080</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 20 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 04 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2878080</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>L'ISOLA CHE C'E' - EVENTI 2017 - APPROVAZIONE PREVENTIVO ED IMPEGNATIVA DI SPESA ALLESTIMENTI EVENTI 24-31 LUGLIO 2017. DITTA ALMANI S.R.L. CIG. ZZ511F611E9</title>
-			<description>L'ISOLA CHE C'E' - EVENTI 2017 - APPROVAZIONE PREVENTIVO ED IMPEGNATIVA DI SPESA ALLESTIMENTI EVENTI 24-31 LUGLIO 2017. DITTA ALMANI S.R.L. CIG. ZZ511F611E9</description>
 			<a10:updated>2017-07-20T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
