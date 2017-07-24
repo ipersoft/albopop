@@ -5,7 +5,7 @@
 		<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rometta</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 24 Jul 2017 09:30:52 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 24 Jul 2017 10:31:05 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rometta</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Messina</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rometta</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rometta</a10:id>
-		<pubDate>Mon, 24 Jul 2017 09:30:52 +0200</pubDate>
+		<pubDate>Mon, 24 Jul 2017 10:31:05 +0200</pubDate>
 		<docs>http://albopop.it/comune/rometta/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3407418</guid>
+			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3407418</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 24 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 08 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3407418</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
+			<title>ORDINANZA N 19 DEL 24 LUGLIO 2017 - DIVIETO DI TRANSITO NELLE GIORNATE DEL 28, 29 E 30 LUGLIO NELLA PIAZZA DEI CAPPUCCINI IN OCCASIONE DEI FESTEGGIAMENTI IN ONORE DELLA MADONNA.</title>
+			<description>ORDINANZA N 19 DEL 24 LUGLIO 2017 - DIVIETO DI TRANSITO NELLE GIORNATE DEL 28, 29 E 30 LUGLIO NELLA PIAZZA DEI CAPPUCCINI IN OCCASIONE DEI FESTEGGIAMENTI IN ONORE DELLA MADONNA.</description>
+			<a10:updated>2017-07-24T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3407281</guid>
 			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3407281</link>
@@ -28,8 +39,8 @@
 			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 08 Aug 2017 02:00:00 +0200</category>
 			<category domain="http://albopop.it/specs#item-category-uid">3407281</category>
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
-			<title>REGOLAMENTAZIONE ORARIO APERTURA E CHIUSURA VILLA COMUNALE "MARTINA"</title>
-			<description>REGOLAMENTAZIONE ORARIO APERTURA E CHIUSURA VILLA COMUNALE "MARTINA"</description>
+			<title>ORDINANZA SINDACALE N. 16 DEL 24 LUGLIO 2017 - REGOLAMENTAZIONE ORARIO APERTURA E CHIUSURA VILLA COMUNALE "MARTINA"</title>
+			<description>ORDINANZA SINDACALE N. 16 DEL 24 LUGLIO 2017 - REGOLAMENTAZIONE ORARIO APERTURA E CHIUSURA VILLA COMUNALE "MARTINA"</description>
 			<a10:updated>2017-07-24T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
 			<title>PALIO ERIMATA EDIZIONE 2017. ATTO DI INDIRIZZO </title>
 			<description>PALIO ERIMATA EDIZIONE 2017. ATTO DI INDIRIZZO </description>
-			<a10:updated>2017-07-18T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3397998</guid>
-			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3397998</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 18 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 02 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3397998</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>CONCESSIONE PATROCINIO ONEROSO SPETTACOLI VILLA COMUNALE ESTATE 2017. PROVVEDIMENTI.</title>
-			<description>CONCESSIONE PATROCINIO ONEROSO SPETTACOLI VILLA COMUNALE ESTATE 2017. PROVVEDIMENTI.</description>
 			<a10:updated>2017-07-18T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

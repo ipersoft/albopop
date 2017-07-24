@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 24 Jul 2017 09:30:35 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 24 Jul 2017 10:30:46 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Mon, 24 Jul 2017 09:30:35 +0200</pubDate>
+		<pubDate>Mon, 24 Jul 2017 10:30:46 +0200</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -31,6 +31,17 @@
 			<title>VALORIZZAZIONE STORIA PADOVANA E REGIONALE: I PREMI BRUNACCI - MONSELICE</title>
 			<description>VALORIZZAZIONE STORIA PADOVANA E REGIONALE: I PREMI BRUNACCI - MONSELICE</description>
 			<a10:updated>2017-07-17T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3407499</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3407499</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 24 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 08 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3407499</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>LIQUIDAZIONE FATTURA AL DOTT. ENRICO BRESSAN PER INCARICO DI TUTELA LEGALE NEL CONTENZIOSO INNANZI LA COMMISSIONE TRIBUTARIA PROVINCIALE DI VENEZIA PROMOSSO CON RICORSO PROT 1675 DEL 19/01/2017</title>
+			<description>LIQUIDAZIONE FATTURA AL DOTT. ENRICO BRESSAN PER INCARICO DI TUTELA LEGALE NEL CONTENZIOSO INNANZI LA COMMISSIONE TRIBUTARIA PROVINCIALE DI VENEZIA PROMOSSO CON RICORSO PROT 1675 DEL 19/01/2017</description>
+			<a10:updated>2017-07-24T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3405364</guid>
@@ -284,17 +295,6 @@
 			<title>SERVIZIO DI SUPPORTO TECNICO ALLE ATTIVITÀ DI COMPETENZA COMUNALE IN MATERIA DI ACUSTICA AMBIENTALE – LIQUIDAZIONE CANONE I° SEMESTRE 2017 ALL’ING. BACCAN VINCENZO. - CODICE CIG Z9D1C10E28.</title>
 			<description>SERVIZIO DI SUPPORTO TECNICO ALLE ATTIVITÀ DI COMPETENZA COMUNALE IN MATERIA DI ACUSTICA AMBIENTALE – LIQUIDAZIONE CANONE I° SEMESTRE 2017 ALL’ING. BACCAN VINCENZO. - CODICE CIG Z9D1C10E28.</description>
 			<a10:updated>2017-07-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3399106</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3399106</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 18 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 02 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3399106</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>LIQUIDAZIONE FATTURA N. 79/PA DEL 30/06/2017. DITTA LAVORO IN SICUREZZA S.R.L. DI MESTRE VENEZIA.</title>
-			<description>LIQUIDAZIONE FATTURA N. 79/PA DEL 30/06/2017. DITTA LAVORO IN SICUREZZA S.R.L. DI MESTRE VENEZIA.</description>
-			<a10:updated>2017-07-18T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
