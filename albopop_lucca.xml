@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 24 Jul 2017 11:30:57 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 24 Jul 2017 12:31:06 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Mon, 24 Jul 2017 11:30:57 +0200</pubDate>
+		<pubDate>Mon, 24 Jul 2017 12:31:06 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3407753</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3407753</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 24 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 08 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3407753</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>U.O. 2.2.- PROTOCOLLO DI INTESA TRA IL COMUNE DI LUCCA E LA G.E.A.L. S.P.A. E BANDO PER L'ASSEGNAZIONE DI RIMBORSI ECONOMICI DELLA TARIFFA DEL SERVIZIO IDRICO INTEGRATO E SERVIZIO FOGNATURA E DEPURAZIONE (FAMIGLIA 09: BENEFICI ECONOMICI).</title>
+			<description>U.O. 2.2.- PROTOCOLLO DI INTESA TRA IL COMUNE DI LUCCA E LA G.E.A.L. S.P.A. E BANDO PER L'ASSEGNAZIONE DI RIMBORSI ECONOMICI DELLA TARIFFA DEL SERVIZIO IDRICO INTEGRATO E SERVIZIO FOGNATURA E DEPURAZIONE (FAMIGLIA 09: BENEFICI ECONOMICI).</description>
+			<a10:updated>2017-07-24T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3407524</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3407524</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
 			<title>VIA PELLERIA,CENTRO STORICO, MODIFICHE TEMPORANEE ALLA SOSTA DAL GIORNO 24 LUGLIO 2017 AL GIORNO 18 AGOSTO 2017. </title>
 			<description>VIA PELLERIA,CENTRO STORICO, MODIFICHE TEMPORANEE ALLA SOSTA DAL GIORNO 24 LUGLIO 2017 AL GIORNO 18 AGOSTO 2017. </description>
-			<a10:updated>2017-07-20T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3403174</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3403174</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 20 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 04 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3403174</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>VIA MICHELE ROSI, CENTRO STORICO, MODIFICHE TEMPORANEE ALLA SOSTA DAL 24/07/2017 AL 15/09/2017. </title>
-			<description>VIA MICHELE ROSI, CENTRO STORICO, MODIFICHE TEMPORANEE ALLA SOSTA DAL 24/07/2017 AL 15/09/2017. </description>
 			<a10:updated>2017-07-20T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
