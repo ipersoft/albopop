@@ -5,7 +5,7 @@
 		<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/igrid/1210528</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Celle di Bulgheria</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 24 Jul 2017 12:30:44 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 24 Jul 2017 13:30:31 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Celle di Bulgheria</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Salerno</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Celle di Bulgheria</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_celledibulgheria</a10:id>
-		<pubDate>Mon, 24 Jul 2017 12:30:44 +0200</pubDate>
+		<pubDate>Mon, 24 Jul 2017 13:30:31 +0200</pubDate>
 		<docs>http://albopop.it/comune/celledibulgheria/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2882157</guid>
+			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2882157</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 24 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 08 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2882157</category>
+			<category domain="http://albopop.it/specs#item-category-type">BANDI E AVVISI AVVISO</category>
+			<title>COMUNICAZIONE DI AVVIO PROCEDIMENTO CANCELLAZIONE D’UFFICIO PEC ISCRITTE NEL REGISTRO DELLE IMPRESE- STATO REVOCATE</title>
+			<description>COMUNICAZIONE DI AVVIO PROCEDIMENTO CANCELLAZIONE D’UFFICIO PEC ISCRITTE NEL REGISTRO DELLE IMPRESE- STATO REVOCATE</description>
+			<a10:updated>2017-07-24T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2881950</guid>
 			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2881950</link>
@@ -228,17 +239,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>LIQUIDAZIONE DI SPESA PER FORNITURA ENERGIA ELETTRICA PERIODO GIUGNO 2017 – CIG Z021D49ADA</title>
 			<description>LIQUIDAZIONE DI SPESA PER FORNITURA ENERGIA ELETTRICA PERIODO GIUGNO 2017 – CIG Z021D49ADA</description>
-			<a10:updated>2017-07-14T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2871030</guid>
-			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2871030</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 14 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 29 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2871030</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>OGGETTO: LIQUIDAZIONE DI SPESA PER FORNITURA ENERGIA ELETTRICA PERIODO GIUGNO 2017 – CIG ZA91D499C8</title>
-			<description>OGGETTO: LIQUIDAZIONE DI SPESA PER FORNITURA ENERGIA ELETTRICA PERIODO GIUGNO 2017 – CIG ZA91D499C8</description>
 			<a10:updated>2017-07-14T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 24 Jul 2017 12:31:11 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 24 Jul 2017 13:31:10 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Mon, 24 Jul 2017 12:31:11 +0200</pubDate>
+		<pubDate>Mon, 24 Jul 2017 13:31:10 +0200</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2882001</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2882001</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 24 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 29 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2882001</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO ON LINE BANDI DI CONCORSO</category>
+			<title>AVVISO DI CONCORSO PER L&amp;APOS;ASSEGNAZIONE DI RIV.7 IN COLLECCHIO</title>
+			<description>AVVISO DI CONCORSO PER L&amp;APOS;ASSEGNAZIONE DI RIV.7 IN COLLECCHIO</description>
+			<a10:updated>2017-07-24T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2880551</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2880551</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
 			<title>RIMBORSO DI SOMME VERSATE E NON DOVUTE A TITOLO DI TARI</title>
 			<description>RIMBORSO DI SOMME VERSATE E NON DOVUTE A TITOLO DI TARI</description>
-			<a10:updated>2017-07-17T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2873702</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2873702</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 17 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 01 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2873702</category>
-			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
-			<title>RETTIFICA DETERMINAZIONE A CONTRARRE PER ATTIVAZIONE DI PROCEDURA APERTA EX ART.60 D.LGS 50/16 PER AFFIDAMENTO DEI LAVORI DI REALIZZAZIONE DI UN NUOVO CAMPO DA CALCIO IN ERBA SINTETICA PRESSO IL CENTRO SPORTIVO “B. MAINARDI” NEL COMUNE DI COLLECCHIO. E INCARICO ALLA CENTRALE UNICA DI COMMITTENZA. CODICE CUP G97B17000000004. RETTIFICA CRITERI DI AGGIUDICAZIONE </title>
-			<description>RETTIFICA DETERMINAZIONE A CONTRARRE PER ATTIVAZIONE DI PROCEDURA APERTA EX ART.60 D.LGS 50/16 PER AFFIDAMENTO DEI LAVORI DI REALIZZAZIONE DI UN NUOVO CAMPO DA CALCIO IN ERBA SINTETICA PRESSO IL CENTRO SPORTIVO “B. MAINARDI” NEL COMUNE DI COLLECCHIO. E INCARICO ALLA CENTRALE UNICA DI COMMITTENZA. CODICE CUP G97B17000000004. RETTIFICA CRITERI DI AGGIUDICAZIONE </description>
 			<a10:updated>2017-07-17T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
