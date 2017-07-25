@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 25 Jul 2017 10:30:36 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 25 Jul 2017 11:30:35 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Tue, 25 Jul 2017 10:30:36 +0200</pubDate>
+		<pubDate>Tue, 25 Jul 2017 11:30:35 +0200</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -31,6 +31,17 @@
 			<title>VALORIZZAZIONE STORIA PADOVANA E REGIONALE: I PREMI BRUNACCI - MONSELICE</title>
 			<description>VALORIZZAZIONE STORIA PADOVANA E REGIONALE: I PREMI BRUNACCI - MONSELICE</description>
 			<a10:updated>2017-07-17T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3409728</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3409728</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 25 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 02 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3409728</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO GENERICO</category>
+			<title>AVVISO DI DEPOSITO ALLA CASA COMUNALE</title>
+			<description>AVVISO DI DEPOSITO ALLA CASA COMUNALE</description>
+			<a10:updated>2017-07-25T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3409064</guid>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>LIQUIDAZIONE DI SPESA FATTURA PROT. N. 12015/2017 PARROCCHIA SAN ROCCO DI DOLO PER SERVIZIO ‘UTILIZZO CINEMA ITALIA DI DOLO PERIODO DAL 2.03.2017 AL 27.04.2017’ (C.I.G. Z1C1739D9B) – DT. INCARICO E IMPEGNO N. 1219/2015</title>
 			<description>LIQUIDAZIONE DI SPESA FATTURA PROT. N. 12015/2017 PARROCCHIA SAN ROCCO DI DOLO PER SERVIZIO ‘UTILIZZO CINEMA ITALIA DI DOLO PERIODO DAL 2.03.2017 AL 27.04.2017’ (C.I.G. Z1C1739D9B) – DT. INCARICO E IMPEGNO N. 1219/2015</description>
-			<a10:updated>2017-07-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3400365</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3400365</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 19 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 03 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3400365</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>LIQUIDAZIONE CARTOLIBRERIA EDICOLA VEGO SCOCCO DI VEGO SCOCCO VINICIO - FATTURA N. 4/PA DEL 3.07.2017 (PROT. N. 17555/2017) PER FORNITURA QUOTIDIANI ‘EMEROTECA’ C/O BIBLIOTECA COMUNALE PERIODO APRILE – GIUGNO 2017 - DT. INCARICO / IMP. 1509/2016 (CIG ZAD1C97841)</title>
-			<description>LIQUIDAZIONE CARTOLIBRERIA EDICOLA VEGO SCOCCO DI VEGO SCOCCO VINICIO - FATTURA N. 4/PA DEL 3.07.2017 (PROT. N. 17555/2017) PER FORNITURA QUOTIDIANI ‘EMEROTECA’ C/O BIBLIOTECA COMUNALE PERIODO APRILE – GIUGNO 2017 - DT. INCARICO / IMP. 1509/2016 (CIG ZAD1C97841)</description>
 			<a10:updated>2017-07-19T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
