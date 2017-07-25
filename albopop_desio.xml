@@ -5,7 +5,7 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/igrid/1233682</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Desio</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 25 Jul 2017 09:30:35 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 25 Jul 2017 10:30:35 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Desio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Desio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_desio</a10:id>
-		<pubDate>Tue, 25 Jul 2017 09:30:35 +0200</pubDate>
+		<pubDate>Tue, 25 Jul 2017 10:30:35 +0200</pubDate>
 		<docs>http://albopop.it/comune/desio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3409415</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3409415</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 25 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 09 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3409415</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>ASSEGNAZIONE BOX IN VIA BOVISIO 9 ALLA SIG.RA R.P.</title>
+			<description>ASSEGNAZIONE BOX IN VIA BOVISIO 9 ALLA SIG.RA R.P.</description>
+			<a10:updated>2017-07-25T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3409413</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3409413</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 25 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 09 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3409413</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>ASSEGNAZIONE INCARICO DI POSIZIONE ORGANIZZATIVA DI RESPONSABILE SETTORE GESTIONE SERVIZI COMPLESSI LIMITATAMENTE ALLE FUNZIONI DEI SERVIZI DEMOGRAFICI E SEC . PERIODO 1 AGOSTO 2017 - 31 DICEMBRE 2018</title>
+			<description>ASSEGNAZIONE INCARICO DI POSIZIONE ORGANIZZATIVA DI RESPONSABILE SETTORE GESTIONE SERVIZI COMPLESSI LIMITATAMENTE ALLE FUNZIONI DEI SERVIZI DEMOGRAFICI E SEC . PERIODO 1 AGOSTO 2017 - 31 DICEMBRE 2018</description>
+			<a10:updated>2017-07-25T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3409411</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3409411</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 25 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 09 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3409411</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>NOMINA COMMISSIONE DI GARA PER L'AFFIDAMENTO DEL SERVIZIO DI PRE-POST SCUOLE INFANZIA E PRIMARIE - A.S. 2017/18</title>
+			<description>NOMINA COMMISSIONE DI GARA PER L'AFFIDAMENTO DEL SERVIZIO DI PRE-POST SCUOLE INFANZIA E PRIMARIE - A.S. 2017/18</description>
+			<a10:updated>2017-07-25T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3407646</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3407646</link>
@@ -206,39 +239,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>“MANUTENZIONE STRAORDINARIA DELLE ATTREZZATURE LUDICHE E DELLE SUPERFICI ANTITRAUMA PRESSO I PARCHI PUBBLICI E PERTINENZE SCOLASTICHE (F/177)”. APPROVAZIONE DELLO STATO FINALE, RELAZIONE DEL D.L. SULLO STATO FINALE E CERTIFICATO DI REGOLARE ESECUZIONE.</title>
 			<description>“MANUTENZIONE STRAORDINARIA DELLE ATTREZZATURE LUDICHE E DELLE SUPERFICI ANTITRAUMA PRESSO I PARCHI PUBBLICI E PERTINENZE SCOLASTICHE (F/177)”. APPROVAZIONE DELLO STATO FINALE, RELAZIONE DEL D.L. SULLO STATO FINALE E CERTIFICATO DI REGOLARE ESECUZIONE.</description>
-			<a10:updated>2017-07-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3400901</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3400901</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 19 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 03 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3400901</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>VERSAMENTO SOMMA DOVUTA A TITO DI SANZIONE AMMINISTRATIVA IN RELAZIONE ALLA VIOLAZIONE DI NORME CATASTALI (AGENZIA DELLE ENTRATE UFFICIO PROVINCIALE DI MILANO - TERRITORIO). ASSUNZIONE IMPEGNO DI SPESA € 632,89.</title>
-			<description>VERSAMENTO SOMMA DOVUTA A TITO DI SANZIONE AMMINISTRATIVA IN RELAZIONE ALLA VIOLAZIONE DI NORME CATASTALI (AGENZIA DELLE ENTRATE UFFICIO PROVINCIALE DI MILANO - TERRITORIO). ASSUNZIONE IMPEGNO DI SPESA € 632,89.</description>
-			<a10:updated>2017-07-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3400899</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3400899</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 19 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 03 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3400899</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>APPROVAZIONE DELLA GRADUATORIA DEFINITIVA PER L'ASSEGNAZIONE DEGLI ALLOGGI DI EDILIZIA RESIDENZIALE PUBBLICA/ SERVIZI ABITATIVI PUBBLICI - BANDO N. 13 - ANNO 2017</title>
-			<description>APPROVAZIONE DELLA GRADUATORIA DEFINITIVA PER L'ASSEGNAZIONE DEGLI ALLOGGI DI EDILIZIA RESIDENZIALE PUBBLICA/ SERVIZI ABITATIVI PUBBLICI - BANDO N. 13 - ANNO 2017</description>
-			<a10:updated>2017-07-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3400897</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3400897</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 19 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 03 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3400897</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>CONTRATTO INTEGRATIVO DECENTRATO RELATIVO AL FONDO PER LE POLITICHE DI SVILUPPO DELLE RISORSE UMANE E PER LA PRODUTTIVITA’- ANNO 2016 – LIQUIDAZIONE POSTE CORRELATE AL SISTEMA PERMANENTE DI VALUTAZIONE DELLE PRESTAZIONI DEL PERSONALE DIPENDENTE - €112.800,25.</title>
-			<description>CONTRATTO INTEGRATIVO DECENTRATO RELATIVO AL FONDO PER LE POLITICHE DI SVILUPPO DELLE RISORSE UMANE E PER LA PRODUTTIVITA’- ANNO 2016 – LIQUIDAZIONE POSTE CORRELATE AL SISTEMA PERMANENTE DI VALUTAZIONE DELLE PRESTAZIONI DEL PERSONALE DIPENDENTE - €112.800,25.</description>
 			<a10:updated>2017-07-19T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

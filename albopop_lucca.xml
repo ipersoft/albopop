@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 25 Jul 2017 09:31:03 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 25 Jul 2017 10:31:23 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Tue, 25 Jul 2017 09:31:03 +0200</pubDate>
+		<pubDate>Tue, 25 Jul 2017 10:31:23 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3409517</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3409517</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 25 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 02 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3409517</category>
+			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>PUBBLICAZIONI ANNO 2017 N. 47 GIANGRANDI NICOLA CANIGIANI SERENA</title>
+			<description>PUBBLICAZIONI ANNO 2017 N. 47 GIANGRANDI NICOLA CANIGIANI SERENA</description>
+			<a10:updated>2017-07-25T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3409054</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3409054</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
 			<title> CENTRO UNICO ACQUISTI – DD UNICA PER L'AFFIDAMENTO DIRETTO DELLE PRESTAZIONI DI SERVIZIO INERENTI LA REALIZZAZIONE DEI PROGETTI EDUCATIVI ZONALI (P.E.Z.) A.S. 2016/2017 ETÀ SCOLARE- “AZIONI DISABLITA', INTERCULTURA, DISAGIO” (FAMIGLIA 03). CIG: Z011F0523C</title>
 			<description> CENTRO UNICO ACQUISTI – DD UNICA PER L'AFFIDAMENTO DIRETTO DELLE PRESTAZIONI DI SERVIZIO INERENTI LA REALIZZAZIONE DEI PROGETTI EDUCATIVI ZONALI (P.E.Z.) A.S. 2016/2017 ETÀ SCOLARE- “AZIONI DISABLITA', INTERCULTURA, DISAGIO” (FAMIGLIA 03). CIG: Z011F0523C</description>
-			<a10:updated>2017-07-20T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3404401</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3404401</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 20 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 04 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3404401</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>ASSEGNAZIONE DI UN LOCALE ALL’ASSOCIAZIONE UNIDEL - UNIVERSITÀ DELL'ETÀ LIBERA - APPROVAZIONE SCHEMA DI CONVENZIONE E ACCERTAMENTO INTROITO (CODICE FAMIGLIA 07)</title>
-			<description>ASSEGNAZIONE DI UN LOCALE ALL’ASSOCIAZIONE UNIDEL - UNIVERSITÀ DELL'ETÀ LIBERA - APPROVAZIONE SCHEMA DI CONVENZIONE E ACCERTAMENTO INTROITO (CODICE FAMIGLIA 07)</description>
 			<a10:updated>2017-07-20T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
