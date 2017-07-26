@@ -5,7 +5,7 @@
 		<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Torri del Benaco</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 26 Jul 2017 15:31:32 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 26 Jul 2017 16:31:21 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Torri del Benaco</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Verona</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Torri del Benaco</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_torridelbenaco</a10:id>
-		<pubDate>Wed, 26 Jul 2017 15:31:32 +0200</pubDate>
+		<pubDate>Wed, 26 Jul 2017 16:31:21 +0200</pubDate>
 		<docs>http://albopop.it/comune/torridelbenaco/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3413433</guid>
+			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3413433</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 26 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 10 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3413433</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
+			<title>ACQUISTO SOFTWARE DI SUPPORTO AL PIANO ANTICORRUZIONE - CIG N. Z7D1F7CE28. </title>
+			<description>ACQUISTO SOFTWARE DI SUPPORTO AL PIANO ANTICORRUZIONE - CIG N. Z7D1F7CE28. </description>
+			<a10:updated>2017-07-26T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3413276</guid>
 			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3413276</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>ABBONAMENTO PER L'ANNO 2017 AL BOLLETTINO INTERAZIONE - AFFIDAMENTO DIRETTO </title>
 			<description>ABBONAMENTO PER L'ANNO 2017 AL BOLLETTINO INTERAZIONE - AFFIDAMENTO DIRETTO </description>
-			<a10:updated>2017-07-25T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3409127</guid>
-			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3409127</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 25 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 09 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3409127</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>FORNITURA TARGHE PER PREMIAZIONI EVENTI E MANIFESTAZIONI. AFFIDAMENTO INCARICO ALLA DITTA VERONA PREMINA DI MAZZOLA RINO DI VERONA</title>
-			<description>FORNITURA TARGHE PER PREMIAZIONI EVENTI E MANIFESTAZIONI. AFFIDAMENTO INCARICO ALLA DITTA VERONA PREMINA DI MAZZOLA RINO DI VERONA</description>
 			<a10:updated>2017-07-25T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
