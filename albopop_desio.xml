@@ -5,7 +5,7 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/igrid/1233682</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Desio</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 26 Jul 2017 12:30:37 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 26 Jul 2017 13:30:45 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Desio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Desio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_desio</a10:id>
-		<pubDate>Wed, 26 Jul 2017 12:30:37 +0200</pubDate>
+		<pubDate>Wed, 26 Jul 2017 13:30:45 +0200</pubDate>
 		<docs>http://albopop.it/comune/desio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3412925</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3412925</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 26 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 10 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3412925</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>ASSEGNAZIONE POSTO AUTO IN VIA FIUME 3 ALLA SIG.RA V.M.</title>
+			<description>ASSEGNAZIONE POSTO AUTO IN VIA FIUME 3 ALLA SIG.RA V.M.</description>
+			<a10:updated>2017-07-26T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3412117</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3412117</link>
@@ -228,17 +239,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI GIUNTA</category>
 			<title>ACCETTAZIONE DONAZIONE STAMPE DEL SIG. DONZELLI FRANCO AL COMUNE DI DESIO/SERVIZIO TRIBUTI.</title>
 			<description>ACCETTAZIONE DONAZIONE STAMPE DEL SIG. DONZELLI FRANCO AL COMUNE DI DESIO/SERVIZIO TRIBUTI.</description>
-			<a10:updated>2017-07-24T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3407644</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3407644</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 24 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 08 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3407644</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI GIUNTA</category>
-			<title>ASSOCIAZIONE “REGALA UN SORRISO” – RICHIESTA PATROCINIO COMUNALE PER LA MANIFESTAZIONE “PENTOLA DELLA SOLIDARIETA’ – TRIPPA IN PIAZZA 2017” IN PROGRAMMA DAL 15 SETTEMBRE AL 16 SETTEMBRE 2017 IN PIAZZA CONCILIAZIONE </title>
-			<description>ASSOCIAZIONE “REGALA UN SORRISO” – RICHIESTA PATROCINIO COMUNALE PER LA MANIFESTAZIONE “PENTOLA DELLA SOLIDARIETA’ – TRIPPA IN PIAZZA 2017” IN PROGRAMMA DAL 15 SETTEMBRE AL 16 SETTEMBRE 2017 IN PIAZZA CONCILIAZIONE </description>
 			<a10:updated>2017-07-24T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
