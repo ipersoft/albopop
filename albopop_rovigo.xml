@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 26 Jul 2017 11:31:22 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 26 Jul 2017 12:31:07 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Wed, 26 Jul 2017 11:31:22 +0200</pubDate>
+		<pubDate>Wed, 26 Jul 2017 12:31:07 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2891573</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2891573</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 26 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 10 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2891573</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>REVOCA DETERMINAZIONE DIRIGENZIALE N.1461 DEL 3.7.2017 AD OGGETTO “ADESIONE ALLA CONVENZIONE CONSIP PER LA FORNITURA DI ENERGIA ELETTRICA PER GLI IMMOBILI COMUNALI ED ALTRI USI PER IL PERIODO 1.9.2017–31.8.2018. APPROVAZIONE SPESA – CIG DERIVATO 7126221799”. </title>
+			<description>REVOCA DETERMINAZIONE DIRIGENZIALE N.1461 DEL 3.7.2017 AD OGGETTO “ADESIONE ALLA CONVENZIONE CONSIP PER LA FORNITURA DI ENERGIA ELETTRICA PER GLI IMMOBILI COMUNALI ED ALTRI USI PER IL PERIODO 1.9.2017–31.8.2018. APPROVAZIONE SPESA – CIG DERIVATO 7126221799”. </description>
+			<a10:updated>2017-07-26T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2890933</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2890933</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>LIQUIDAZIONE FATTURA PER ACQUISTO DI VERNICE IGNIFUGA UTILIZZATA PER LA REALIZZAZIONE DELLE SCENE DI ARLECCHINO FURIOSO PRESSO IL LABORATORIO DEL TEATRO SOCIALE DI ROVIGO.</title>
 			<description>LIQUIDAZIONE FATTURA PER ACQUISTO DI VERNICE IGNIFUGA UTILIZZATA PER LA REALIZZAZIONE DELLE SCENE DI ARLECCHINO FURIOSO PRESSO IL LABORATORIO DEL TEATRO SOCIALE DI ROVIGO.</description>
-			<a10:updated>2017-07-25T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2889197</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2889197</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 25 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 09 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2889197</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZE</category>
-			<title>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE PER LAVORI IN VIA DANTE ALIGHIERI ED IN VIALE DELLA PACE PER LAVORI DI MANUTENZIONE DELLA RETE GAS METANO FINOAL 24/08/2017</title>
-			<description>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE PER LAVORI IN VIA DANTE ALIGHIERI ED IN VIALE DELLA PACE PER LAVORI DI MANUTENZIONE DELLA RETE GAS METANO FINOAL 24/08/2017</description>
 			<a10:updated>2017-07-25T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
