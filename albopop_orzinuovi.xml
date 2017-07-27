@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 27 Jul 2017 11:30:40 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 27 Jul 2017 12:30:42 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Thu, 27 Jul 2017 11:30:40 +0200</pubDate>
+		<pubDate>Thu, 27 Jul 2017 12:30:42 +0200</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2893272</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2893272</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 27 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 11 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2893272</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>CIG Z661F7EF2D - CUP J59D17000600004 IMPEGNO DI SPESA PER ACQUISTO ARREDI E GIOCHI NUOVA SEZIONE SCUOLA INFANZIA ISTITUTO COMPRENSIVO ORZINUOVI</title>
+			<description>CIG Z661F7EF2D - CUP J59D17000600004 IMPEGNO DI SPESA PER ACQUISTO ARREDI E GIOCHI NUOVA SEZIONE SCUOLA INFANZIA ISTITUTO COMPRENSIVO ORZINUOVI</description>
+			<a10:updated>2017-07-27T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2893130</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2893130</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI CONSIGLIO</category>
 			<title>PRESENTAZIONE RELAZIONE SULLE ATTIVITA' E SERVIZI DI UNIONE DEI COMUNI BASSA BRESCIANA OCCIDENTALE</title>
 			<description>PRESENTAZIONE RELAZIONE SULLE ATTIVITA' E SERVIZI DI UNIONE DEI COMUNI BASSA BRESCIANA OCCIDENTALE</description>
-			<a10:updated>2017-07-21T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2879730</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2879730</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 21 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 04 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2879730</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI CONSIGLIO</category>
-			<title>COMUNICAZIONE DELL’APPROVAZIONE DELL'AGGIORNAMENTO AL PIANO TRIENNALE DI PREVENZIONE DELLA CORRUZIONE E PER LA TRASPARENZA (PTPCT) ANNI 2017 – 2019</title>
-			<description>COMUNICAZIONE DELL’APPROVAZIONE DELL'AGGIORNAMENTO AL PIANO TRIENNALE DI PREVENZIONE DELLA CORRUZIONE E PER LA TRASPARENZA (PTPCT) ANNI 2017 – 2019</description>
 			<a10:updated>2017-07-21T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
