@@ -5,7 +5,7 @@
 		<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mascalucia</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 27 Jul 2017 15:31:02 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 27 Jul 2017 16:31:27 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mascalucia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mascalucia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mascalucia</a10:id>
-		<pubDate>Thu, 27 Jul 2017 15:31:02 +0200</pubDate>
+		<pubDate>Thu, 27 Jul 2017 16:31:27 +0200</pubDate>
 		<docs>http://albopop.it/comune/mascalucia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2894019</guid>
+			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2894019</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 27 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 11 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2894019</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRE PUBBLICAZIONI CONCESSIONE EDILIZIA</category>
+			<title>AUTORIZZAZIONE ALLO SCARICO N. 75/17 DEL 27/07/17 A NOME DELLA DITTA MUSUMECI CLAUDIO</title>
+			<description>AUTORIZZAZIONE ALLO SCARICO N. 75/17 DEL 27/07/17 A NOME DELLA DITTA MUSUMECI CLAUDIO</description>
+			<a10:updated>2017-07-27T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2893702</guid>
 			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2893702</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
 			<title>ATTIVAZIONE AZIONE LEGA PER IL RECUPERO DELLE SPESE LIQUIDATE IN SENTENZA N. 1473/2013 CORTE DIAPPELLO DI CATANIA NELLA VERTENZA PROPOSTA DALLA SIGG.RA LA CHINA M.M. C/COMUNE DI MASCALUCIA CONFERITO CON DELIBERA DI G.M. N. 202/2016 - CIG: Z051CD0269 - LIQUIDAZIONE SALDO SPESE LEGALI BENEFICIARIO: AVV. SALVATORE VITTORIO - CATANIA - </title>
 			<description>ATTIVAZIONE AZIONE LEGA PER IL RECUPERO DELLE SPESE LIQUIDATE IN SENTENZA N. 1473/2013 CORTE DIAPPELLO DI CATANIA NELLA VERTENZA PROPOSTA DALLA SIGG.RA LA CHINA M.M. C/COMUNE DI MASCALUCIA CONFERITO CON DELIBERA DI G.M. N. 202/2016 - CIG: Z051CD0269 - LIQUIDAZIONE SALDO SPESE LEGALI BENEFICIARIO: AVV. SALVATORE VITTORIO - CATANIA - </description>
-			<a10:updated>2017-07-26T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2891107</guid>
-			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2891107</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 26 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 10 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2891107</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
-			<title>OPPOSIZIONE RICORSO INNANZI AL TAR CATANIA PROPOSTO DA ACOSET S.P.A CONFERITO CON DELIBERA DI G.M. N. 189/2015 - C.I.G. ZEF17E9B8E - LIQUIDAZIONE SALDO SPESE LEGALI BENEFICIARIO: AVV. SALVATORE VITTORIO - CATANIA - </title>
-			<description>OPPOSIZIONE RICORSO INNANZI AL TAR CATANIA PROPOSTO DA ACOSET S.P.A CONFERITO CON DELIBERA DI G.M. N. 189/2015 - C.I.G. ZEF17E9B8E - LIQUIDAZIONE SALDO SPESE LEGALI BENEFICIARIO: AVV. SALVATORE VITTORIO - CATANIA - </description>
 			<a10:updated>2017-07-26T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
