@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 27 Jul 2017 10:30:41 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 27 Jul 2017 11:30:40 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Thu, 27 Jul 2017 10:30:41 +0200</pubDate>
+		<pubDate>Thu, 27 Jul 2017 11:30:40 +0200</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2893130</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2893130</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 27 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 01 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2893130</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI AVVISO</category>
+			<title>AVVISO PUBBLICO RELATIVO A MANIFESTAZIONE DI INTERESSE PER AFFIDAMENTO DI INCARICO LEGALE PER RICORSO STRAORDINARIO AVANTI AL CAPO DELLO STATO (EX ART. 8 D.P.R. 24/11/1971, N. 1199). CIG Z4A1F7C069</title>
+			<description>AVVISO PUBBLICO RELATIVO A MANIFESTAZIONE DI INTERESSE PER AFFIDAMENTO DI INCARICO LEGALE PER RICORSO STRAORDINARIO AVANTI AL CAPO DELLO STATO (EX ART. 8 D.P.R. 24/11/1971, N. 1199). CIG Z4A1F7C069</description>
+			<a10:updated>2017-07-27T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2892825</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2892825</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI CONSIGLIO</category>
 			<title>COMUNICAZIONE DELL’APPROVAZIONE DELL'AGGIORNAMENTO AL PIANO TRIENNALE DI PREVENZIONE DELLA CORRUZIONE E PER LA TRASPARENZA (PTPCT) ANNI 2017 – 2019</title>
 			<description>COMUNICAZIONE DELL’APPROVAZIONE DELL'AGGIORNAMENTO AL PIANO TRIENNALE DI PREVENZIONE DELLA CORRUZIONE E PER LA TRASPARENZA (PTPCT) ANNI 2017 – 2019</description>
-			<a10:updated>2017-07-21T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2879727</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2879727</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 21 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 04 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2879727</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI CONSIGLIO</category>
-			<title>COMUNICAZIONE PRELIEVO DAL FONDO DI RISERVA DISPOSTO CON DELIBERA DI GIUNTA COMUNALE N. 104 DEL 22.5.2017 (ART. 166 D.LGS. 267 DEL 18 AGOSTO 2000)</title>
-			<description>COMUNICAZIONE PRELIEVO DAL FONDO DI RISERVA DISPOSTO CON DELIBERA DI GIUNTA COMUNALE N. 104 DEL 22.5.2017 (ART. 166 D.LGS. 267 DEL 18 AGOSTO 2000)</description>
 			<a10:updated>2017-07-21T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
