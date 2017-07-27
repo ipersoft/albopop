@@ -5,7 +5,7 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/igrid/1233682</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Desio</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 27 Jul 2017 13:30:36 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 27 Jul 2017 15:30:34 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Desio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Desio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_desio</a10:id>
-		<pubDate>Thu, 27 Jul 2017 13:30:36 +0200</pubDate>
+		<pubDate>Thu, 27 Jul 2017 15:30:34 +0200</pubDate>
 		<docs>http://albopop.it/comune/desio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3415689</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3415689</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 27 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 11 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3415689</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>ASSEGNAZIONE BOX IN VIA VOLTA 37/A ALLA SIG.RA R.T.</title>
+			<description>ASSEGNAZIONE BOX IN VIA VOLTA 37/A ALLA SIG.RA R.T.</description>
+			<a10:updated>2017-07-27T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3415687</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3415687</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 27 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 11 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3415687</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>IMPEGNO DI SPESA PER IMPOSTA DI REGISTRO SENTENZA CIVILE TRIBUNALE DI MONZA N. 2645/2015 - € 217,50</title>
+			<description>IMPEGNO DI SPESA PER IMPOSTA DI REGISTRO SENTENZA CIVILE TRIBUNALE DI MONZA N. 2645/2015 - € 217,50</description>
+			<a10:updated>2017-07-27T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3415685</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3415685</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 27 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 11 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3415685</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>INTERVENTO DI BONIFICA COPERTURA CEMENTO AMIANTO E ADEGUAMENTO ALLE NORME DI SICUREZZA PRESSO LA SCUOLA PRIMARIA E DELL’INFANZIA VIA DOLOMITI (B/1568) E RELATIVI LAVORI COMPLEMENTARI. APPROVAZIONE DEL COLLAUDO TECNICO AMMINISTRATIVO. CUP G49D15000680004 - CIG 6503382898 </title>
+			<description>INTERVENTO DI BONIFICA COPERTURA CEMENTO AMIANTO E ADEGUAMENTO ALLE NORME DI SICUREZZA PRESSO LA SCUOLA PRIMARIA E DELL’INFANZIA VIA DOLOMITI (B/1568) E RELATIVI LAVORI COMPLEMENTARI. APPROVAZIONE DEL COLLAUDO TECNICO AMMINISTRATIVO. CUP G49D15000680004 - CIG 6503382898 </description>
+			<a10:updated>2017-07-27T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3413047</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3413047</link>
@@ -206,39 +239,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>CONTRIBUTO ASSOCIATIVO PIM ANNO 2017. IMPEGNO DI SPESA E LIQUIDAZIONE</title>
 			<description>CONTRIBUTO ASSOCIATIVO PIM ANNO 2017. IMPEGNO DI SPESA E LIQUIDAZIONE</description>
-			<a10:updated>2017-07-25T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3409415</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3409415</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 25 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 09 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3409415</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>ASSEGNAZIONE BOX IN VIA BOVISIO 9 ALLA SIG.RA R.P.</title>
-			<description>ASSEGNAZIONE BOX IN VIA BOVISIO 9 ALLA SIG.RA R.P.</description>
-			<a10:updated>2017-07-25T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3409413</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3409413</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 25 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 09 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3409413</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>ASSEGNAZIONE INCARICO DI POSIZIONE ORGANIZZATIVA DI RESPONSABILE SETTORE GESTIONE SERVIZI COMPLESSI LIMITATAMENTE ALLE FUNZIONI DEI SERVIZI DEMOGRAFICI E SEC . PERIODO 1 AGOSTO 2017 - 31 DICEMBRE 2018</title>
-			<description>ASSEGNAZIONE INCARICO DI POSIZIONE ORGANIZZATIVA DI RESPONSABILE SETTORE GESTIONE SERVIZI COMPLESSI LIMITATAMENTE ALLE FUNZIONI DEI SERVIZI DEMOGRAFICI E SEC . PERIODO 1 AGOSTO 2017 - 31 DICEMBRE 2018</description>
-			<a10:updated>2017-07-25T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3409411</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3409411</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 25 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 09 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3409411</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>NOMINA COMMISSIONE DI GARA PER L'AFFIDAMENTO DEL SERVIZIO DI PRE-POST SCUOLE INFANZIA E PRIMARIE - A.S. 2017/18</title>
-			<description>NOMINA COMMISSIONE DI GARA PER L'AFFIDAMENTO DEL SERVIZIO DI PRE-POST SCUOLE INFANZIA E PRIMARIE - A.S. 2017/18</description>
 			<a10:updated>2017-07-25T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
