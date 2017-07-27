@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 27 Jul 2017 12:30:42 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 27 Jul 2017 13:30:40 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Thu, 27 Jul 2017 12:30:42 +0200</pubDate>
+		<pubDate>Thu, 27 Jul 2017 13:30:40 +0200</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2893591</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2893591</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 27 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 11 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2893591</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>AGGIUDICAZIONE DELLA ROCEDURA NEGOZIATA PER L’AFFIDAMENTO DEL SERVIZIO DI “GESTIONE GLOBALE DELLA BIBLIOTECA COMUNALE DI ORZINUOVI E ATTIVITÀ CONNESSE – CIG 7127120D78”.</title>
+			<description>AGGIUDICAZIONE DELLA ROCEDURA NEGOZIATA PER L’AFFIDAMENTO DEL SERVIZIO DI “GESTIONE GLOBALE DELLA BIBLIOTECA COMUNALE DI ORZINUOVI E ATTIVITÀ CONNESSE – CIG 7127120D78”.</description>
+			<a10:updated>2017-07-27T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2893272</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2893272</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI CONSIGLIO</category>
 			<title>VARIAZIONE AL BILANCIO DI PREVISIONE 2017/2019. 4° PROVVEDIMENTO</title>
 			<description>VARIAZIONE AL BILANCIO DI PREVISIONE 2017/2019. 4° PROVVEDIMENTO</description>
-			<a10:updated>2017-07-21T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2879733</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2879733</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 21 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 04 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2879733</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI CONSIGLIO</category>
-			<title>PRESENTAZIONE RELAZIONE SULLE ATTIVITA' E SERVIZI DI UNIONE DEI COMUNI BASSA BRESCIANA OCCIDENTALE</title>
-			<description>PRESENTAZIONE RELAZIONE SULLE ATTIVITA' E SERVIZI DI UNIONE DEI COMUNI BASSA BRESCIANA OCCIDENTALE</description>
 			<a10:updated>2017-07-21T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
