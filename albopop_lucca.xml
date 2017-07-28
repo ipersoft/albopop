@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 27 Jul 2017 18:31:37 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 28 Jul 2017 08:31:07 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Thu, 27 Jul 2017 18:31:37 +0200</pubDate>
+		<pubDate>Fri, 28 Jul 2017 08:31:07 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -31,6 +31,17 @@
 			<title>LOCALIZZAZIONE E CALENDARIO FIERA S.MICHELE DI SETTEMBRE ANNO 2017. APPROVAZIONE.</title>
 			<description>LOCALIZZAZIONE E CALENDARIO FIERA S.MICHELE DI SETTEMBRE ANNO 2017. APPROVAZIONE.</description>
 			<a10:updated>2017-07-27T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3415385</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3415385</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 28 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 27 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3415385</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI ALTRI ENTI ATTI ALTRI ENTI </category>
+			<title>OPERA DELLE MURA DI LUCCA - DELIBERA 18 E 19 DEL 22 GIUGNO 2017</title>
+			<description>OPERA DELLE MURA DI LUCCA - DELIBERA 18 E 19 DEL 22 GIUGNO 2017</description>
+			<a10:updated>2017-07-28T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3415276</guid>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO</category>
 			<title>PUBBLICAZIONI ANNO 2017 N. 240 RUSSO BRUNO NARDI ALESSANDRA</title>
 			<description>PUBBLICAZIONI ANNO 2017 N. 240 RUSSO BRUNO NARDI ALESSANDRA</description>
-			<a10:updated>2017-07-25T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3410791</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3410791</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 25 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 09 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3410791</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>MODIFICA ORDINANZA N. 1266 DEL 24/07/2017 - VIA DELLE TAGLIATE DI SAN DONATO, FRAZ. SAN DONATO, MODIFICHE TEMPORANEE ALLA SOSTA E ALLA CIRCOLAZIONE DAL GIORNO 31 LUGLIO 2017 AL GIORNO 1 AGOSTO 2017.</title>
-			<description>MODIFICA ORDINANZA N. 1266 DEL 24/07/2017 - VIA DELLE TAGLIATE DI SAN DONATO, FRAZ. SAN DONATO, MODIFICHE TEMPORANEE ALLA SOSTA E ALLA CIRCOLAZIONE DAL GIORNO 31 LUGLIO 2017 AL GIORNO 1 AGOSTO 2017.</description>
 			<a10:updated>2017-07-25T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
