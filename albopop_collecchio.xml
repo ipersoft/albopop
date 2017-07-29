@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 29 Jul 2017 08:32:12 +0200</lastBuildDate>
+		<lastBuildDate>Sat, 29 Jul 2017 09:31:54 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Sat, 29 Jul 2017 08:32:12 +0200</pubDate>
+		<pubDate>Sat, 29 Jul 2017 09:31:54 +0200</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2896100</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2896100</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 29 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 13 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2896100</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO ON LINE ORDINANZE E AVVISI</category>
+			<title>MODIFICHE TEMPORANEE ALLA VIABILITA’ IN VIA GALAVERNA A COLLECCHIO PER LAVORI PRIVATI</title>
+			<description>MODIFICHE TEMPORANEE ALLA VIABILITA’ IN VIA GALAVERNA A COLLECCHIO PER LAVORI PRIVATI</description>
+			<a10:updated>2017-07-29T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2895771</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2895771</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
 			<title>BANDO PER LA COPERTURA DI N. 1 POSTO DI “ISTRUTTORE EDUCATORE” O PROFILO EQUIVALENTE - CAT C A TEMPO</title>
 			<description>BANDO PER LA COPERTURA DI N. 1 POSTO DI “ISTRUTTORE EDUCATORE” O PROFILO EQUIVALENTE - CAT C A TEMPO</description>
-			<a10:updated>2017-07-25T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2888509</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2888509</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 25 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 23 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2888509</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
-			<title>AVVISO DI SELEZIONE PUBBLICA, PER SOLI ESAMI, PER L'ASSUNZIONE A TEMPO PIENO E DETERMINATO DI N. 2 “ AUSILIARI DEL TRAFFICO"(CAT. B3 – POSIZIONE ECONOMICA DI PRIMO INQUADRAMENTO B3 - CCNL COMPARTO REGIONI AUTONOMIE LOCALI)</title>
-			<description>AVVISO DI SELEZIONE PUBBLICA, PER SOLI ESAMI, PER L'ASSUNZIONE A TEMPO PIENO E DETERMINATO DI N. 2 “ AUSILIARI DEL TRAFFICO"(CAT. B3 – POSIZIONE ECONOMICA DI PRIMO INQUADRAMENTO B3 - CCNL COMPARTO REGIONI AUTONOMIE LOCALI)</description>
 			<a10:updated>2017-07-25T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
