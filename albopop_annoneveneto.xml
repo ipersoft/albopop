@@ -5,7 +5,7 @@
 		<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Annone Veneto</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 29 Jul 2017 10:30:53 +0200</lastBuildDate>
+		<lastBuildDate>Sat, 29 Jul 2017 12:31:07 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Annone Veneto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Annone Veneto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_annoneveneto</a10:id>
-		<pubDate>Sat, 29 Jul 2017 10:30:53 +0200</pubDate>
+		<pubDate>Sat, 29 Jul 2017 12:31:07 +0200</pubDate>
 		<docs>http://albopop.it/comune/annoneveneto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3419383</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3419383</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 29 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 06 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3419383</category>
+			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI PUBBLICAZIONE DI MATRIMONIO</category>
+			<title>PUBBLICAZIONE DI MATRIMONIO DI BERALDO MASSIMO E RUZZENE GIOVANNA</title>
+			<description>PUBBLICAZIONE DI MATRIMONIO DI BERALDO MASSIMO E RUZZENE GIOVANNA</description>
+			<a10:updated>2017-07-29T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3419365</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3419365</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 29 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 25 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3419365</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI AVVISO</category>
+			<title>COMUNE DI CONCORDIA SAGITTARIA - AVVISO DI MOBILITA' ESTERNA PER IL PROFILO DI ISTRUTTORE DIRETTIVO TECNICO, CAT. D. A TEMPO PIENO ED INDETERMINATO SETTORE TECNICO.</title>
+			<description>COMUNE DI CONCORDIA SAGITTARIA - AVVISO DI MOBILITA' ESTERNA PER IL PROFILO DI ISTRUTTORE DIRETTIVO TECNICO, CAT. D. A TEMPO PIENO ED INDETERMINATO SETTORE TECNICO.</description>
+			<a10:updated>2017-07-29T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3419340</guid>
 			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3419340</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>INTEGRAZIONE DELL'INCARICO PROFESSIONALE PER L'ESECUZIONE DI INDAGINI GEOGNOSTICHE AFFIDATO AL DOTT. A. VIDALI</title>
 			<description>INTEGRAZIONE DELL'INCARICO PROFESSIONALE PER L'ESECUZIONE DI INDAGINI GEOGNOSTICHE AFFIDATO AL DOTT. A. VIDALI</description>
-			<a10:updated>2017-07-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3399464</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3399464</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 19 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 03 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3399464</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>AFFIDAMENTO DELL'INCARICO PROFESSIONALE PER L'ESECUZIONE DI INDAGINI GEOGNOSTICHE AL DOTT. A. VIDALI.</title>
-			<description>AFFIDAMENTO DELL'INCARICO PROFESSIONALE PER L'ESECUZIONE DI INDAGINI GEOGNOSTICHE AL DOTT. A. VIDALI.</description>
-			<a10:updated>2017-07-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3399461</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3399461</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 19 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 03 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3399461</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>INCARICO PROFESSIONALE PER L'ESECUZIONE DI INDAGINI GEOGNOSTICHE - DETERMINA A CONTRATTARE</title>
-			<description>INCARICO PROFESSIONALE PER L'ESECUZIONE DI INDAGINI GEOGNOSTICHE - DETERMINA A CONTRATTARE</description>
 			<a10:updated>2017-07-19T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
