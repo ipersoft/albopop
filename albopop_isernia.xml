@@ -5,7 +5,7 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 28 Jul 2017 18:31:08 +0200</lastBuildDate>
+		<lastBuildDate>Sat, 29 Jul 2017 08:32:08 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Isernia</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>Fri, 28 Jul 2017 18:31:08 +0200</pubDate>
+		<pubDate>Sat, 29 Jul 2017 08:32:08 +0200</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -286,14 +286,14 @@
 			<a10:updated>2017-07-20T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3403769</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3403769</link>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3403767</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3403767</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 20 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 28 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3403769</category>
-			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO PUBBLICAZIONE DI MATRIMONIO</category>
-			<title>RICHIESTA DI PUBBLICAZIONE DI MATRIMONIO CONIUGI OLIVIERI PANZERA E SIMONE ALESSANDRA</title>
-			<description>RICHIESTA DI PUBBLICAZIONE DI MATRIMONIO CONIUGI OLIVIERI PANZERA E SIMONE ALESSANDRA</description>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 04 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3403767</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
+			<title>Servizio custodia, mantenimento e cura cani vaganti - liquidazione fattura maggio 2017 ditta SIAC Srl</title>
+			<description>Servizio custodia, mantenimento e cura cani vaganti - liquidazione fattura maggio 2017 ditta SIAC Srl</description>
 			<a10:updated>2017-07-20T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
