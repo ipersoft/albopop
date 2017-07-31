@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 31 Jul 2017 12:31:47 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 31 Jul 2017 13:31:01 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Mon, 31 Jul 2017 12:31:47 +0200</pubDate>
+		<pubDate>Mon, 31 Jul 2017 13:31:01 +0200</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2897260</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2897260</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 31 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 04 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2897260</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO ON LINE BANDI GENERICI</category>
+			<title>POSTA CERTIFICATA: RICHIESTA PUBBLICAZIONE ALBO ON-LINE AVVISO DI SELEZIONE PUBBLICA PER LA COPERTURA MEDIANTE PROCEDURA DI MOBILITÀ VOLONTARIA FRA ENTI DI UN POSTO DI ISTRUTTORE AMM.VO CONTABILE CAT.C A TEMPO PIENO ED INDETERMINATO</title>
+			<description>POSTA CERTIFICATA: RICHIESTA PUBBLICAZIONE ALBO ON-LINE AVVISO DI SELEZIONE PUBBLICA PER LA COPERTURA MEDIANTE PROCEDURA DI MOBILITÀ VOLONTARIA FRA ENTI DI UN POSTO DI ISTRUTTORE AMM.VO CONTABILE CAT.C A TEMPO PIENO ED INDETERMINATO</description>
+			<a10:updated>2017-07-31T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2896100</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2896100</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
 			<title>AVVISO DI SELEZIONE PUBBLICA, PER SOLI ESAMI, PER L'ASSUNZIONE A TEMPO PIENO E DETERMINATO DI N. 2 “ AUSILIARI DEL TRAFFICO"(CAT. B3 – POSIZIONE ECONOMICA DI PRIMO INQUADRAMENTO B3 - CCNL COMPARTO REGIONI AUTONOMIE LOCALI)</title>
 			<description>AVVISO DI SELEZIONE PUBBLICA, PER SOLI ESAMI, PER L'ASSUNZIONE A TEMPO PIENO E DETERMINATO DI N. 2 “ AUSILIARI DEL TRAFFICO"(CAT. B3 – POSIZIONE ECONOMICA DI PRIMO INQUADRAMENTO B3 - CCNL COMPARTO REGIONI AUTONOMIE LOCALI)</description>
-			<a10:updated>2017-07-25T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2888505</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2888505</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 25 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 31 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2888505</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
-			<title>AGGIORNAMENTO DEGLI ALBI DEI GIUDICI POPOLARI</title>
-			<description>AGGIORNAMENTO DEGLI ALBI DEI GIUDICI POPOLARI</description>
 			<a10:updated>2017-07-25T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
