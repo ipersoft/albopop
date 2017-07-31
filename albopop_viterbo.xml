@@ -5,7 +5,7 @@
 		<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Viterbo</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 31 Jul 2017 13:30:43 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 31 Jul 2017 14:30:59 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Viterbo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Viterbo</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Viterbo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_viterbo</a10:id>
-		<pubDate>Mon, 31 Jul 2017 13:30:43 +0200</pubDate>
+		<pubDate>Mon, 31 Jul 2017 14:30:59 +0200</pubDate>
 		<docs>http://albopop.it/comune/viterbo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3421257</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3421257</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 31 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 15 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3421257</category>
+			<category domain="http://albopop.it/specs#item-category-type">DELIBERA DELIBERA CONSIGLIO</category>
+			<title>SEDUTA DESERTA IN PRIMA CONVOCAZIONE</title>
+			<description>SEDUTA DESERTA IN PRIMA CONVOCAZIONE</description>
+			<a10:updated>2017-07-31T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3421255</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3421255</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 31 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 15 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3421255</category>
+			<category domain="http://albopop.it/specs#item-category-type">DELIBERA DELIBERA CONSIGLIO</category>
+			<title>CONSIGLIO COMUNALE APERTO ALLE REALTA' TEATRALI DELLA CITTA' PER IL MODELLO DI GESTIONE ED UTILIZZO DEL RINNOVATO TEATRO UNIONE DI VITERBO, ED INIZIATIVE REGOLAMENTARI CONNESSE.</title>
+			<description>CONSIGLIO COMUNALE APERTO ALLE REALTA' TEATRALI DELLA CITTA' PER IL MODELLO DI GESTIONE ED UTILIZZO DEL RINNOVATO TEATRO UNIONE DI VITERBO, ED INIZIATIVE REGOLAMENTARI CONNESSE.</description>
+			<a10:updated>2017-07-31T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3421160</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3421160</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 31 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 15 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3421160</category>
+			<category domain="http://albopop.it/specs#item-category-type">DELIBERA DELIBERA CONSIGLIO</category>
+			<title>05-CONCESSIONE RICONOSCIMENTO CITTADINO BENEMERITO AI PARTECIPANTI AL TRASPORTO MACCHINA DI S. ROSA 2016</title>
+			<description>05-CONCESSIONE RICONOSCIMENTO CITTADINO BENEMERITO AI PARTECIPANTI AL TRASPORTO MACCHINA DI S. ROSA 2016</description>
+			<a10:updated>2017-07-31T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3420915</guid>
 			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3420915</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONI SENZA IMPEGNO DI SPESA</category>
 			<title>AUTORIZZAZIONE PUBBLICITA' PERMANENTE CIBRA PUBBLICITA'S.R.L.- RINNOVO</title>
 			<description>AUTORIZZAZIONE PUBBLICITA' PERMANENTE CIBRA PUBBLICITA'S.R.L.- RINNOVO</description>
-			<a10:updated>2017-07-31T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3420866</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3420866</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 31 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 15 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3420866</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONI SENZA IMPEGNO DI SPESA</category>
-			<title>AUTORIZZAZIONE PUBBLICITA' PERMANENTE SOCIETA' F.L.R. S.R.L.S. - VOLTURA</title>
-			<description>AUTORIZZAZIONE PUBBLICITA' PERMANENTE SOCIETA' F.L.R. S.R.L.S. - VOLTURA</description>
-			<a10:updated>2017-07-31T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3420864</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3420864</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 31 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 15 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3420864</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONI SENZA IMPEGNO DI SPESA</category>
-			<title>AUTORIZZAZIONE PUBBLICITA' PERMANENTE SHOWER DOG DI AMANDA PARIS</title>
-			<description>AUTORIZZAZIONE PUBBLICITA' PERMANENTE SHOWER DOG DI AMANDA PARIS</description>
-			<a10:updated>2017-07-31T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3420862</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3420862</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 31 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 15 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3420862</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONI SENZA IMPEGNO DI SPESA</category>
-			<title>SIG. DELLE MONACHE S.R.L. - RATEIZZAZZIONE AVVISI DI ACCERTAMENTO IMU ANNI 2012, 2014 E 2015</title>
-			<description>SIG. DELLE MONACHE S.R.L. - RATEIZZAZZIONE AVVISI DI ACCERTAMENTO IMU ANNI 2012, 2014 E 2015</description>
 			<a10:updated>2017-07-31T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
