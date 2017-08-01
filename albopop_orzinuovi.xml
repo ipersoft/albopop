@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 01 Aug 2017 13:30:40 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 01 Aug 2017 14:30:55 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Tue, 01 Aug 2017 13:30:40 +0200</pubDate>
+		<pubDate>Tue, 01 Aug 2017 14:30:55 +0200</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2903744</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2903744</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 01 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 16 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2903744</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI PERMESSO DI COSTRUIRE</category>
+			<title>PERMESSO DI COSTRUIRE N.95/2017 PER NUOVA COSTRUZIONE DI N.2 VASCHE LIQUAMI</title>
+			<description>PERMESSO DI COSTRUIRE N.95/2017 PER NUOVA COSTRUZIONE DI N.2 VASCHE LIQUAMI</description>
+			<a10:updated>2017-08-01T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2902644</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2902644</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>CIG ZDE1F7A797 - CUP J59D1700059004 IMPEGNO DI SPESA PER ACQUISTO E MONTAGGIO N. 2 LAVAGNE LIM PER ISTITUTO COMPRENSIVO DI ORZINUOVI</title>
 			<description>CIG ZDE1F7A797 - CUP J59D1700059004 IMPEGNO DI SPESA PER ACQUISTO E MONTAGGIO N. 2 LAVAGNE LIM PER ISTITUTO COMPRENSIVO DI ORZINUOVI</description>
-			<a10:updated>2017-07-26T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2890687</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2890687</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 26 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 10 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2890687</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>RETTIFICA AFFIDAMENTO DIRETTO RINNOVO ANNUALE DI MANUTENZIONE SOFTWARE PER BACKUP AMBIENTI VIRTUALI CIG ZB11ED0186</title>
-			<description>RETTIFICA AFFIDAMENTO DIRETTO RINNOVO ANNUALE DI MANUTENZIONE SOFTWARE PER BACKUP AMBIENTI VIRTUALI CIG ZB11ED0186</description>
 			<a10:updated>2017-07-26T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
