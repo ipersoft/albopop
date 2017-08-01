@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 01 Aug 2017 08:30:54 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 01 Aug 2017 09:30:54 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Tue, 01 Aug 2017 08:30:54 +0200</pubDate>
+		<pubDate>Tue, 01 Aug 2017 09:30:54 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/665399</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/665399</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 01 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 10 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">665399</category>
+			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO RICHIESTA PUBBLICAZIONE MATRIMONIO ALBO</category>
+			<title>PUBBLICAZIONE DI MATRIMONIO DI MENATTI STEFANO E GORINI LAURA</title>
+			<description>PUBBLICAZIONE DI MATRIMONIO DI MENATTI STEFANO E GORINI LAURA</description>
+			<a10:updated>2017-08-01T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/665394</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/665394</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 01 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 16 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">665394</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>2° QUARTIERE "PANTANO SANTA VENERANDA" – ASSUNZIONE IMPEGNO DI SPESA PER INTEGRAZIONE E POTENZIAMENTO DEL PROGRAMMA DI EVENTI, INZIATIVE CULTURALI E SPETTACOLI PER LA STAGIONE 2017 </title>
+			<description>2° QUARTIERE "PANTANO SANTA VENERANDA" – ASSUNZIONE IMPEGNO DI SPESA PER INTEGRAZIONE E POTENZIAMENTO DEL PROGRAMMA DI EVENTI, INZIATIVE CULTURALI E SPETTACOLI PER LA STAGIONE 2017 </description>
+			<a10:updated>2017-08-01T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/665392</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/665392</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 01 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 16 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">665392</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>TASI - ATTIVITA' DI CONTROLLO E VERIFICA GIUGNO 2017 - APPROVAZIONE 29° STATO AVANZAMENTO LAVORI RELATIVO ALLA TASSA SUI SERVIZI INDIVISIBILI</title>
+			<description>TASI - ATTIVITA' DI CONTROLLO E VERIFICA GIUGNO 2017 - APPROVAZIONE 29° STATO AVANZAMENTO LAVORI RELATIVO ALLA TASSA SUI SERVIZI INDIVISIBILI</description>
+			<a10:updated>2017-08-01T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/665379</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/665379</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>ASPES SPA - GESTIONE IMU E IMPOSTA DI SOGGIORNO - IMPEGNO DI SPESA ANNO 2017</title>
 			<description>ASPES SPA - GESTIONE IMU E IMPOSTA DI SOGGIORNO - IMPEGNO DI SPESA ANNO 2017</description>
-			<a10:updated>2017-07-31T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/665073</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/665073</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 31 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 15 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">665073</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>ASPES SPA - GESTIONE TASI – TARI – TARES - IMPEGNO DI SPESA 2017</title>
-			<description>ASPES SPA - GESTIONE TASI – TARI – TARES - IMPEGNO DI SPESA 2017</description>
-			<a10:updated>2017-07-31T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/665070</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/665070</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 31 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 15 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">665070</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>ASPES S.P.A. - GESTIONE ICI - IMPEGNO DI SPESA ANNO 2017</title>
-			<description>ASPES S.P.A. - GESTIONE ICI - IMPEGNO DI SPESA ANNO 2017</description>
-			<a10:updated>2017-07-31T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/665067</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/665067</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 31 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 15 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">665067</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>AFFIDAMENTO DEL SERVIZIO DI ORGANIZZAZIONE E GESTIONE DI AZIONI VOLTE ALL’INCLUSIONE SOCIALE A FAVORE DI PERSONE AFFETTE DA DISAGIO PSICHICO, ALL’INTERNO DEL SISTEMA INTEGRATO DI SOLLIEVO DELL’AMBITO TERRITORIALE SOCIALE N. 1 - PESARO. PERIODO - 01.08.2017 AL 31.12.2018 – AGGIUDICAZIONE DEFINITIVA E APPROVAZIONE ESECUZIONE ANTICIPATA NELLE MORE DELLA STIPULA CONTRATTUALE - CIG N 7117184608</title>
-			<description>AFFIDAMENTO DEL SERVIZIO DI ORGANIZZAZIONE E GESTIONE DI AZIONI VOLTE ALL’INCLUSIONE SOCIALE A FAVORE DI PERSONE AFFETTE DA DISAGIO PSICHICO, ALL’INTERNO DEL SISTEMA INTEGRATO DI SOLLIEVO DELL’AMBITO TERRITORIALE SOCIALE N. 1 - PESARO. PERIODO - 01.08.2017 AL 31.12.2018 – AGGIUDICAZIONE DEFINITIVA E APPROVAZIONE ESECUZIONE ANTICIPATA NELLE MORE DELLA STIPULA CONTRATTUALE - CIG N 7117184608</description>
 			<a10:updated>2017-07-31T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
