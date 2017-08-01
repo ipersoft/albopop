@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 31 Jul 2017 17:31:08 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 01 Aug 2017 08:30:54 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Mon, 31 Jul 2017 17:31:08 +0200</pubDate>
+		<pubDate>Tue, 01 Aug 2017 08:30:54 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/665379</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/665379</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 01 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 16 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">665379</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>IMU - ATTIVITA' DI CONTROLLO E VERIFICA GIUGNO 2017 - APPROVAZIONE 49° STATO AVANZAMENTO LAVORI RELATIVO ALL'IMPOSTA MUNICIPALE PROPRIA</title>
+			<description>IMU - ATTIVITA' DI CONTROLLO E VERIFICA GIUGNO 2017 - APPROVAZIONE 49° STATO AVANZAMENTO LAVORI RELATIVO ALL'IMPOSTA MUNICIPALE PROPRIA</description>
+			<a10:updated>2017-08-01T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/665376</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/665376</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 01 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 16 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">665376</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>APPELLO AVANTI ALLA CORTE D'APPELLO DI ANCONA PROMOSSO DALLA SOCIETA' EDILSOLE S.R.L. SIG.LEARDO PAOLETTI (PROT. N. 30335/17). COSTITUZIONE IN GIUDIZIO E NOMINA AVVOCATI DIFENSORI.</title>
+			<description>APPELLO AVANTI ALLA CORTE D'APPELLO DI ANCONA PROMOSSO DALLA SOCIETA' EDILSOLE S.R.L. SIG.LEARDO PAOLETTI (PROT. N. 30335/17). COSTITUZIONE IN GIUDIZIO E NOMINA AVVOCATI DIFENSORI.</description>
+			<a10:updated>2017-08-01T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/665372</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/665372</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 31 Jul 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 15 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">665372</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI CONSIGLIO</category>
+			<title>PROGRAMMAZIONE RETE SCOLASTICA A.S. 2018/2019.</title>
+			<description>PROGRAMMAZIONE RETE SCOLASTICA A.S. 2018/2019.</description>
+			<a10:updated>2017-07-31T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/665351</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/665351</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>AFFIDAMENTO DEL SERVIZIO DI ORGANIZZAZIONE E GESTIONE DI AZIONI VOLTE ALL’INCLUSIONE SOCIALE A FAVORE DI PERSONE AFFETTE DA DISAGIO PSICHICO, ALL’INTERNO DEL SISTEMA INTEGRATO DI SOLLIEVO DELL’AMBITO TERRITORIALE SOCIALE N. 1 - PESARO. PERIODO - 01.08.2017 AL 31.12.2018 – AGGIUDICAZIONE DEFINITIVA E APPROVAZIONE ESECUZIONE ANTICIPATA NELLE MORE DELLA STIPULA CONTRATTUALE - CIG N 7117184608</title>
 			<description>AFFIDAMENTO DEL SERVIZIO DI ORGANIZZAZIONE E GESTIONE DI AZIONI VOLTE ALL’INCLUSIONE SOCIALE A FAVORE DI PERSONE AFFETTE DA DISAGIO PSICHICO, ALL’INTERNO DEL SISTEMA INTEGRATO DI SOLLIEVO DELL’AMBITO TERRITORIALE SOCIALE N. 1 - PESARO. PERIODO - 01.08.2017 AL 31.12.2018 – AGGIUDICAZIONE DEFINITIVA E APPROVAZIONE ESECUZIONE ANTICIPATA NELLE MORE DELLA STIPULA CONTRATTUALE - CIG N 7117184608</description>
-			<a10:updated>2017-07-31T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/665064</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/665064</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 31 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 15 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">665064</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>PROGETTO EUROPEO LIFE SEC ADAPT (CUP D79J15001080001): PROCEDURA COMPARATIVA PER IL CONFERIMENTO DI INCARICO PROFESSIONALE DI COLLABORAZIONE AUTONOMA PER UN “FINANCIAL EXPERT” PRESSO IL SERVIZIO SICUREZZA E AMBIENTE/U.O AMBIENTE; APPROVAZIONE ESITI E CONFERIMENTO INCARICO ALLA PROFESSIONISTA VANESSA CONIGLI. </title>
-			<description>PROGETTO EUROPEO LIFE SEC ADAPT (CUP D79J15001080001): PROCEDURA COMPARATIVA PER IL CONFERIMENTO DI INCARICO PROFESSIONALE DI COLLABORAZIONE AUTONOMA PER UN “FINANCIAL EXPERT” PRESSO IL SERVIZIO SICUREZZA E AMBIENTE/U.O AMBIENTE; APPROVAZIONE ESITI E CONFERIMENTO INCARICO ALLA PROFESSIONISTA VANESSA CONIGLI. </description>
-			<a10:updated>2017-07-31T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/665054</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/665054</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 31 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 15 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">665054</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>CIARONI CRISTINA – FERRETTI FRANCESCA. PROCEDURA DI MOBILITÀ D'INTERSCAMBIO TRA ENTI AI SENSI DELL’ART. 30 DEL D.LGS. 165/2001.</title>
-			<description>CIARONI CRISTINA – FERRETTI FRANCESCA. PROCEDURA DI MOBILITÀ D'INTERSCAMBIO TRA ENTI AI SENSI DELL’ART. 30 DEL D.LGS. 165/2001.</description>
-			<a10:updated>2017-07-31T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/665051</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/665051</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 31 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 15 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">665051</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>RETTIFICA RAGIONE SOCIALE FORNITORE DI CUI DETERMINAZIONE N. 1530 DEL 19/06/17 - ASSUNZIONE DI NUOVO IMPEGNO DI SPESA PER LA PARTECIPAZIONE DI UNA DIPENDENTE DELL'U.O. SVILUPPO E OPPORTUNITÀ A CORSO DI AGGIORNAMENTO PROFESSIONALE ANNO 2017.</title>
-			<description>RETTIFICA RAGIONE SOCIALE FORNITORE DI CUI DETERMINAZIONE N. 1530 DEL 19/06/17 - ASSUNZIONE DI NUOVO IMPEGNO DI SPESA PER LA PARTECIPAZIONE DI UNA DIPENDENTE DELL'U.O. SVILUPPO E OPPORTUNITÀ A CORSO DI AGGIORNAMENTO PROFESSIONALE ANNO 2017.</description>
 			<a10:updated>2017-07-31T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
