@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 02 Aug 2017 13:32:08 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 02 Aug 2017 14:32:51 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Wed, 02 Aug 2017 13:32:08 +0200</pubDate>
+		<pubDate>Wed, 02 Aug 2017 14:32:51 +0200</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2905235</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2905235</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 02 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 17 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2905235</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>RIMBORSO IMU - LIQUIDAZIONE</title>
+			<description>RIMBORSO IMU - LIQUIDAZIONE</description>
+			<a10:updated>2017-08-02T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2905166</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2905166</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
 			<title>RIFACIMENTO DI ALCUNI TRATTI DI STRADA DISSESTATI NEI PRESSI DELLA PIAZZETTA DI MATERMANIA. LIQUIDAZIONE DELLA FATTURA DELLA DITTA "EDIL CAPRI S.R.L." DI CAPRI.</title>
 			<description>RIFACIMENTO DI ALCUNI TRATTI DI STRADA DISSESTATI NEI PRESSI DELLA PIAZZETTA DI MATERMANIA. LIQUIDAZIONE DELLA FATTURA DELLA DITTA "EDIL CAPRI S.R.L." DI CAPRI.</description>
-			<a10:updated>2017-07-31T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2897807</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2897807</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 31 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 15 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2897807</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
-			<title>LIQUIDAZIONE SPESE DI REGISTRAZIONE IN FAVORE DELL’AGENZIA DELLE ENTRATE - SENTENZA CIVILE N. 000000637 DEL 15/01/2015 – COMUNE DI CAPRI, SIPPIC SPA E SOC ALEROB SNC</title>
-			<description>LIQUIDAZIONE SPESE DI REGISTRAZIONE IN FAVORE DELL’AGENZIA DELLE ENTRATE - SENTENZA CIVILE N. 000000637 DEL 15/01/2015 – COMUNE DI CAPRI, SIPPIC SPA E SOC ALEROB SNC</description>
 			<a10:updated>2017-07-31T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 02 Aug 2017 13:32:36 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 02 Aug 2017 14:32:57 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Wed, 02 Aug 2017 13:32:36 +0200</pubDate>
+		<pubDate>Wed, 02 Aug 2017 14:32:57 +0200</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2905229</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2905229</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 02 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 07 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2905229</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONVOCAZIONI CONVOCAZIONE 4^ COMMISSIONE CONSILIARE</category>
+			<title>CONVOCAZIONE 4^ COMMISSIONE RISORSE GIORNO 03 AGOSTO 2017 ALLE ORE 15,30</title>
+			<description>CONVOCAZIONE 4^ COMMISSIONE RISORSE GIORNO 03 AGOSTO 2017 ALLE ORE 15,30</description>
+			<a10:updated>2017-08-02T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2905150</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2905150</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
 			<title>ESTATE IBLEA CONTRIBUTO ALLA A.S.D. IBLEA TURISMO EQUESTRE PER L’ORGANIZZAZIONE DELLA SFILATA DI CAVALLI E CARROZZE CHE SI SVOLGERÀ IL 29 LUGLIO 2017 A MARINA DI RAGUSA.</title>
 			<description>ESTATE IBLEA CONTRIBUTO ALLA A.S.D. IBLEA TURISMO EQUESTRE PER L’ORGANIZZAZIONE DELLA SFILATA DI CAVALLI E CARROZZE CHE SI SVOLGERÀ IL 29 LUGLIO 2017 A MARINA DI RAGUSA.</description>
-			<a10:updated>2017-08-02T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2904466</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2904466</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 02 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 09 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2904466</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
-			<title>OGGETTO: ESTATE IBLEA 2017 ORGANIZZAZIONE IN COLLABORAZIONE CON L' ASSOCIAZIONE CULTURALE SANTA ROSALIA AI FESTEGGIAMENTI IN ONORE A SANTA ROSALIA” 2 –3 SETTEMBRE 2017</title>
-			<description>OGGETTO: ESTATE IBLEA 2017 ORGANIZZAZIONE IN COLLABORAZIONE CON L' ASSOCIAZIONE CULTURALE SANTA ROSALIA AI FESTEGGIAMENTI IN ONORE A SANTA ROSALIA” 2 –3 SETTEMBRE 2017</description>
 			<a10:updated>2017-08-02T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
