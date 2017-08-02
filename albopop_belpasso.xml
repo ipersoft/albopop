@@ -5,7 +5,7 @@
 		<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Belpasso</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 02 Aug 2017 12:31:40 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 02 Aug 2017 13:31:37 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Belpasso</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Belpasso</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_belpasso</a10:id>
-		<pubDate>Wed, 02 Aug 2017 12:31:40 +0200</pubDate>
+		<pubDate>Wed, 02 Aug 2017 13:31:37 +0200</pubDate>
 		<docs>http://albopop.it/comune/belpasso/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3432956</guid>
+			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3432956</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 02 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 10 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3432956</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO PER IRREPERIBILITA'</category>
+			<title>AVVISO DI LIQUIDAZIONE N.7436 A CARICO DELLA TEC.NOL. ALLESTIMENTI S.R.L.</title>
+			<description>AVVISO DI LIQUIDAZIONE N.7436 A CARICO DELLA TEC.NOL. ALLESTIMENTI S.R.L.</description>
+			<a10:updated>2017-08-02T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3432784</guid>
 			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3432784</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>A RETTIFICA DELLA PRECEDENTE NOTA PROT. 24841 CON LA QUALE SONO STATI TRAMESSI PER MERO ERRORE I BANDI SBAGLIATI SI CHIEDE DI PUBBLICARE ALL'ALBO PRETORIO ON-LINE , IN AMMINISTARZIONE TRASPARENTE E NELLA HOME PAGE I BADI ALLEGATI . </title>
 			<description>A RETTIFICA DELLA PRECEDENTE NOTA PROT. 24841 CON LA QUALE SONO STATI TRAMESSI PER MERO ERRORE I BANDI SBAGLIATI SI CHIEDE DI PUBBLICARE ALL'ALBO PRETORIO ON-LINE , IN AMMINISTARZIONE TRASPARENTE E NELLA HOME PAGE I BADI ALLEGATI . </description>
-			<a10:updated>2017-08-01T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3430350</guid>
-			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3430350</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 01 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 04 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3430350</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISO AVVISO PUBBLICO</category>
-			<title>LAVORI DI LAVORI DI MANUTENZIONE ORDINARIA E STRAORDINARIA DEGLI “ IMPIANTI SPORTIVI PLESSO BORRELLO” - S.P. 120 BELPASSO – ETNA – VIA F. COPPI. - AVVISO DATA SORTEGGIO PUBBLICO </title>
-			<description>LAVORI DI LAVORI DI MANUTENZIONE ORDINARIA E STRAORDINARIA DEGLI “ IMPIANTI SPORTIVI PLESSO BORRELLO” - S.P. 120 BELPASSO – ETNA – VIA F. COPPI. - AVVISO DATA SORTEGGIO PUBBLICO </description>
 			<a10:updated>2017-08-01T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
