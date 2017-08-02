@@ -5,7 +5,7 @@
 		<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Busnago</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 02 Aug 2017 09:32:37 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 02 Aug 2017 10:31:26 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Busnago</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Busnago</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_busnago</a10:id>
-		<pubDate>Wed, 02 Aug 2017 09:32:37 +0200</pubDate>
+		<pubDate>Wed, 02 Aug 2017 10:31:26 +0200</pubDate>
 		<docs>http://albopop.it/comune/busnago/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3432093</guid>
+			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3432093</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 02 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 30 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3432093</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI PUBBLICI AVVISO BANDO DI MOBILITÀ ESTERNA</category>
+			<title>COMUNE DI ROVELLO PORRO: AVVISO DI MOBILITA' VOLONTARIA PER LA COPERTURA DI N.1 POSTO A TEMPO INDETERMINATO TEMPO PIENO - ISTRUTTORE AMMINISTRATIVO- CATEGORIA C1</title>
+			<description>COMUNE DI ROVELLO PORRO: AVVISO DI MOBILITA' VOLONTARIA PER LA COPERTURA DI N.1 POSTO A TEMPO INDETERMINATO TEMPO PIENO - ISTRUTTORE AMMINISTRATIVO- CATEGORIA C1</description>
+			<a10:updated>2017-08-02T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3420227</guid>
 			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3420227</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI PUBBLICI AVVISO BANDO DI MOBILITÀ ESTERNA</category>
 			<title>COMUNE DI TREZZO SULL'ADDA. RICHIESTA DI PUBBLICAZIONE AVVISO DI MOBILITÀ VOLONTARIA DI ISTRUTTORE AMMINISTRATIVO E CONTABILE CAT C.</title>
 			<description>COMUNE DI TREZZO SULL'ADDA. RICHIESTA DI PUBBLICAZIONE AVVISO DI MOBILITÀ VOLONTARIA DI ISTRUTTORE AMMINISTRATIVO E CONTABILE CAT C.</description>
-			<a10:updated>2017-07-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3400696</guid>
-			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3400696</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 19 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 03 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3400696</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DETERMINAZIONE DEI RESPONSABILI</category>
-			<title>SERVIZIO BIENNALE DI MANUTENZIONE IMPIANTI ELETTRICI EDIFICI COMUNALI: APPROVAZIONE DELLA PROPOSTA DI AGGIUDICAZIONE DELLA PROCEDURA TELEMATICA SINTEL N. 87470502 - CIG ZE91F40235</title>
-			<description>SERVIZIO BIENNALE DI MANUTENZIONE IMPIANTI ELETTRICI EDIFICI COMUNALI: APPROVAZIONE DELLA PROPOSTA DI AGGIUDICAZIONE DELLA PROCEDURA TELEMATICA SINTEL N. 87470502 - CIG ZE91F40235</description>
 			<a10:updated>2017-07-19T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
