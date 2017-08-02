@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 02 Aug 2017 15:32:11 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 02 Aug 2017 16:34:10 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Wed, 02 Aug 2017 15:32:11 +0200</pubDate>
+		<pubDate>Wed, 02 Aug 2017 16:34:10 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2905621</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2905621</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 02 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 17 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2905621</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZE</category>
+			<title>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE IN PIAZZA UMBERTO I° DELLA FRAZIONE DI GRIGNANO POLESINE PER LA MANIFESTAZIONE DENOMINATA "169° AGOSTO GRIGNANESE FINO AL 28/08/2017"</title>
+			<description>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE IN PIAZZA UMBERTO I° DELLA FRAZIONE DI GRIGNANO POLESINE PER LA MANIFESTAZIONE DENOMINATA "169° AGOSTO GRIGNANESE FINO AL 28/08/2017"</description>
+			<a10:updated>2017-08-02T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2905242</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2905242</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE PERMESSI DI COSTRUIRE</category>
 			<title>PERMESSO DI COSTRUIRE N. 59 DEL 01/08/2017 - RIF. UT 673/2017 - PER RISTRUTTURAZIONE FABBRICATO UNIFAMILIARE IN VIA G. OLIVA 24 - CENSUARIO DI ROVIGO F. 27 MAPP. 390. </title>
 			<description>PERMESSO DI COSTRUIRE N. 59 DEL 01/08/2017 - RIF. UT 673/2017 - PER RISTRUTTURAZIONE FABBRICATO UNIFAMILIARE IN VIA G. OLIVA 24 - CENSUARIO DI ROVIGO F. 27 MAPP. 390. </description>
-			<a10:updated>2017-08-01T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2902969</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2902969</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 01 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 09 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2902969</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE PUBBLICAZIONI MATRIMONIALI</category>
-			<title>PUBBLICAZIONE DI MATRIMONIO MERCURIATI E MAZZUCATO</title>
-			<description>PUBBLICAZIONE DI MATRIMONIO MERCURIATI E MAZZUCATO</description>
 			<a10:updated>2017-08-01T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
