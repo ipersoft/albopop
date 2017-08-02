@@ -5,7 +5,7 @@
 		<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mascalucia</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 02 Aug 2017 11:32:40 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 02 Aug 2017 12:33:08 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mascalucia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mascalucia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mascalucia</a10:id>
-		<pubDate>Wed, 02 Aug 2017 11:32:40 +0200</pubDate>
+		<pubDate>Wed, 02 Aug 2017 12:33:08 +0200</pubDate>
 		<docs>http://albopop.it/comune/mascalucia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2904979</guid>
+			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2904979</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 02 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 17 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2904979</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
+			<title>CONTROLLO STRATEGICO ANNO 2016</title>
+			<description>CONTROLLO STRATEGICO ANNO 2016</description>
+			<a10:updated>2017-08-02T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2904915</guid>
+			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2904915</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 02 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 22 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2904915</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONSIGLIO COMUNALE CONVOCAZIONE DI CONSIGLIO</category>
+			<title>CONVOCAZIONE SEDUTA CONSIGLIO COMUNALE IN SESSIONE ORDINARIA GIORNO 22 AGOSTO 2017 ALLE ORE 18,00.</title>
+			<description>CONVOCAZIONE SEDUTA CONSIGLIO COMUNALE IN SESSIONE ORDINARIA GIORNO 22 AGOSTO 2017 ALLE ORE 18,00.</description>
+			<a10:updated>2017-08-02T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2904490</guid>
 			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2904490</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
 			<title>LIQUIDAZIONE BUONI-LIBRO ORDINARI- A.S. 2016-17. DITTE: LIBRERIA “IL SOFÀ DELLE MUSE” CON SEDE IN VIA UMBERTO 39, S.A. LI BATTIATI.; PALUMBO GIUSEPPA CON SEDE IN VIA GRAMSCI 78, GRAVINA DI CATANIA.</title>
 			<description>LIQUIDAZIONE BUONI-LIBRO ORDINARI- A.S. 2016-17. DITTE: LIBRERIA “IL SOFÀ DELLE MUSE” CON SEDE IN VIA UMBERTO 39, S.A. LI BATTIATI.; PALUMBO GIUSEPPA CON SEDE IN VIA GRAMSCI 78, GRAVINA DI CATANIA.</description>
-			<a10:updated>2017-07-31T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2897212</guid>
-			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2897212</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 31 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 15 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2897212</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
-			<title>LIQUIDAZIONE CORSO DI FORMAZIONE DEL 26/6/2017 </title>
-			<description>LIQUIDAZIONE CORSO DI FORMAZIONE DEL 26/6/2017 </description>
-			<a10:updated>2017-07-31T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2897210</guid>
-			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2897210</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 31 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 15 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2897210</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
-			<title> LIQUIDAZIONE BUONI-LIBRO ORDINARI- A.S. 2016-17. DITTA: VILLANI CONCETTA CON SEDE IN CORSO S. VITO 59, MASCALUCIA; </title>
-			<description> LIQUIDAZIONE BUONI-LIBRO ORDINARI- A.S. 2016-17. DITTA: VILLANI CONCETTA CON SEDE IN CORSO S. VITO 59, MASCALUCIA; </description>
 			<a10:updated>2017-07-31T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
