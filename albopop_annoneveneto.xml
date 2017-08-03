@@ -5,7 +5,7 @@
 		<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Annone Veneto</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 03 Aug 2017 14:31:11 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 03 Aug 2017 15:31:13 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Annone Veneto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Annone Veneto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_annoneveneto</a10:id>
-		<pubDate>Thu, 03 Aug 2017 14:31:11 +0200</pubDate>
+		<pubDate>Thu, 03 Aug 2017 15:31:13 +0200</pubDate>
 		<docs>http://albopop.it/comune/annoneveneto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3436202</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3436202</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 03 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 23 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3436202</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO</category>
+			<title>AVVISO ESPLORATIVO PER MANIFESTAZIONE DI INTERESSE FINALIZZATA ALL'ESPLETAMENTO DI PROCEDURA NEGOZIATA AI SENSI DELL'ART. 36, COMMA 2 LETTERA C), DEL D.LGS. 50/2016, DELL'APPALTO DEI LAVORI DI RISTRUTTURAZIONE DI UN EDIFICIO POLIVALENTE FUNZIONALE ALLA CUCINA SCOLASTICA DI ANNONE VENETO. </title>
+			<description>AVVISO ESPLORATIVO PER MANIFESTAZIONE DI INTERESSE FINALIZZATA ALL'ESPLETAMENTO DI PROCEDURA NEGOZIATA AI SENSI DELL'ART. 36, COMMA 2 LETTERA C), DEL D.LGS. 50/2016, DELL'APPALTO DEI LAVORI DI RISTRUTTURAZIONE DI UN EDIFICIO POLIVALENTE FUNZIONALE ALLA CUCINA SCOLASTICA DI ANNONE VENETO. </description>
+			<a10:updated>2017-08-03T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3434899</guid>
 			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3434899</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI AVVISO</category>
 			<title>ATER VENEZIA - RICERCA A TEMPO DETERMINATO PER LA DURATA DI 6 MESI EVENTUALMENTE PROROGABILI PER ALTRI 6 MESI DI UN ADDETTO AMMINISTRATIVO 4° LIVELLO PARAMETRO "B" RIF. 01/2017/4B.</title>
 			<description>ATER VENEZIA - RICERCA A TEMPO DETERMINATO PER LA DURATA DI 6 MESI EVENTUALMENTE PROROGABILI PER ALTRI 6 MESI DI UN ADDETTO AMMINISTRATIVO 4° LIVELLO PARAMETRO "B" RIF. 01/2017/4B.</description>
-			<a10:updated>2017-07-24T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3407855</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3407855</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 24 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 31 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3407855</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI AVVISO</category>
-			<title>CITTA' DI SPINEA - AVVISO DI MOBILITA' ESTERNA VOLONTARIA PER LA COPERTURA DI N. 1 POSTO DI ISTRUTTORE DIRETTIVO AMMINISTRATIVO CONTABILE CAT. D. A TEMPO PIENO ED INDETERMINATO DA ASSEGNARE AI SERVIZI DEMOGRAFICI.</title>
-			<description>CITTA' DI SPINEA - AVVISO DI MOBILITA' ESTERNA VOLONTARIA PER LA COPERTURA DI N. 1 POSTO DI ISTRUTTORE DIRETTIVO AMMINISTRATIVO CONTABILE CAT. D. A TEMPO PIENO ED INDETERMINATO DA ASSEGNARE AI SERVIZI DEMOGRAFICI.</description>
 			<a10:updated>2017-07-24T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

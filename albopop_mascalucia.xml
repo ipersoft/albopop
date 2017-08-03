@@ -5,7 +5,7 @@
 		<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mascalucia</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 03 Aug 2017 14:31:50 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 03 Aug 2017 15:32:24 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mascalucia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mascalucia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mascalucia</a10:id>
-		<pubDate>Thu, 03 Aug 2017 14:31:50 +0200</pubDate>
+		<pubDate>Thu, 03 Aug 2017 15:32:24 +0200</pubDate>
 		<docs>http://albopop.it/comune/mascalucia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2907751</guid>
+			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2907751</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 03 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 18 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2907751</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
+			<title>ACQUISTO ARREDI SCOLASTICI </title>
+			<description>ACQUISTO ARREDI SCOLASTICI </description>
+			<a10:updated>2017-08-03T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2907728</guid>
+			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2907728</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 03 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 18 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2907728</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
+			<title>REALIZZAZIONE ATTIVITÀ CULTURALE-MUSICALE IN OCCASIONE DELLA FESTA DI SAN VITO - ATTO DI INDIRIZZO</title>
+			<description>REALIZZAZIONE ATTIVITÀ CULTURALE-MUSICALE IN OCCASIONE DELLA FESTA DI SAN VITO - ATTO DI INDIRIZZO</description>
+			<a10:updated>2017-08-03T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2906724</guid>
 			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2906724</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
 			<title>LIQUIDAZIONE COMPENSO COMPONENTE ORGANISMO UNICO DI CONTROLLO CON FUNZIONI DI VALUTAZIONE DEL PERSONALE, DI CONTROLLO DI REGOLARITÀ AMMINISTRATIVA E CONTABILE AVV. EMANUELE BIANCAROSA APRILE - GIUGNO 2017</title>
 			<description>LIQUIDAZIONE COMPENSO COMPONENTE ORGANISMO UNICO DI CONTROLLO CON FUNZIONI DI VALUTAZIONE DEL PERSONALE, DI CONTROLLO DI REGOLARITÀ AMMINISTRATIVA E CONTABILE AVV. EMANUELE BIANCAROSA APRILE - GIUGNO 2017</description>
-			<a10:updated>2017-08-01T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2904432</guid>
-			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2904432</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 01 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 16 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2904432</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
-			<title>LIQUIDAZIONE COMPENSO MAGGIO E GIUGNO COMPONENTE OIV GALLI</title>
-			<description>LIQUIDAZIONE COMPENSO MAGGIO E GIUGNO COMPONENTE OIV GALLI</description>
-			<a10:updated>2017-08-01T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2904430</guid>
-			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2904430</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 01 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 16 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2904430</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
-			<title>IMPIANTO SPORTIVO TURI GUGLIELMINO – CONFERIMENTO INCARICO LEGALE CON DELIBERA DI G.M. N. 119/2015 - C.I.G. Z7B1680BB9 - LIQUIDAZIONE ACCONTO SPESE LEGALI BENEFICIARIO: AVV. GRAZIA TOMARCHIO – CATANIA</title>
-			<description>IMPIANTO SPORTIVO TURI GUGLIELMINO – CONFERIMENTO INCARICO LEGALE CON DELIBERA DI G.M. N. 119/2015 - C.I.G. Z7B1680BB9 - LIQUIDAZIONE ACCONTO SPESE LEGALI BENEFICIARIO: AVV. GRAZIA TOMARCHIO – CATANIA</description>
 			<a10:updated>2017-08-01T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
