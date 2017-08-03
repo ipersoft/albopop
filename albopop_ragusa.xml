@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 03 Aug 2017 08:32:10 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 03 Aug 2017 09:35:47 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Thu, 03 Aug 2017 08:32:10 +0200</pubDate>
+		<pubDate>Thu, 03 Aug 2017 09:35:47 +0200</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2906438</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2906438</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 03 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 10 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2906438</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
+			<title>MODIFICA IMPUTAZIONE IMPEGNI SPESA ASSUNTI IN ESERCIZIO PROVVISORIO BILANCIO 2017</title>
+			<description>MODIFICA IMPUTAZIONE IMPEGNI SPESA ASSUNTI IN ESERCIZIO PROVVISORIO BILANCIO 2017</description>
+			<a10:updated>2017-08-03T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2905229</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2905229</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
 			<title>CONTRIBUTO ALLA P.G.S. OR.SA PER L’ORGANIZZAZIONE DELLA XXV EDIZIONE MINIMONDIALE 2017 IL RITORNO TORNEO DI CALCIO GIOVANILE CHE SI SVOLGERÀ PRESSO L’ORATORIO SALESIANO DI RAGUSA DAL 04 AL 16 SETTEMBRE 2017 A RAGUSA .</title>
 			<description>CONTRIBUTO ALLA P.G.S. OR.SA PER L’ORGANIZZAZIONE DELLA XXV EDIZIONE MINIMONDIALE 2017 IL RITORNO TORNEO DI CALCIO GIOVANILE CHE SI SVOLGERÀ PRESSO L’ORATORIO SALESIANO DI RAGUSA DAL 04 AL 16 SETTEMBRE 2017 A RAGUSA .</description>
-			<a10:updated>2017-08-02T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2904468</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2904468</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 02 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 09 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2904468</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
-			<title>ESTATE IBLEA CONTRIBUTO ALLA A.S.D. IBLEA TURISMO EQUESTRE PER L’ORGANIZZAZIONE DELLA SFILATA DI CAVALLI E CARROZZE CHE SI SVOLGERÀ IL 29 LUGLIO 2017 A MARINA DI RAGUSA.</title>
-			<description>ESTATE IBLEA CONTRIBUTO ALLA A.S.D. IBLEA TURISMO EQUESTRE PER L’ORGANIZZAZIONE DELLA SFILATA DI CAVALLI E CARROZZE CHE SI SVOLGERÀ IL 29 LUGLIO 2017 A MARINA DI RAGUSA.</description>
 			<a10:updated>2017-08-02T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
