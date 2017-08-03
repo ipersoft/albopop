@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 03 Aug 2017 12:30:43 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 03 Aug 2017 13:30:44 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Thu, 03 Aug 2017 12:30:43 +0200</pubDate>
+		<pubDate>Thu, 03 Aug 2017 13:30:44 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/677058</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/677058</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 03 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 02 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">677058</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO ATTI E AVVISI DIVERSI</category>
+			<title>AVVISO AI CREDITORI - LAVORI DI COMPLETAMENTO DI VIA R. ROSSELLINI E DI REALIZZAZIONE PARCHEGGI. PIANO PARTICOLAREGGIATO CELLETTA DI S. VENERANDA – COMPARTO A – 3° LOTTO COMMITTENTE: COMUNE DI PESARO. IMPRESA: “CMTT CONSORZIO MOVIMENTO TERRA TRASPORTI SOC. COOP. A R.L.”, CON SEDE IN VIA DIVISIONE CARPAZI N. 26 - 61032 FANO (PU)</title>
+			<description>AVVISO AI CREDITORI - LAVORI DI COMPLETAMENTO DI VIA R. ROSSELLINI E DI REALIZZAZIONE PARCHEGGI. PIANO PARTICOLAREGGIATO CELLETTA DI S. VENERANDA – COMPARTO A – 3° LOTTO COMMITTENTE: COMUNE DI PESARO. IMPRESA: “CMTT CONSORZIO MOVIMENTO TERRA TRASPORTI SOC. COOP. A R.L.”, CON SEDE IN VIA DIVISIONE CARPAZI N. 26 - 61032 FANO (PU)</description>
+			<a10:updated>2017-08-03T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/677004</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/677004</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>ACQUISTO MATERIALE IGIENICO-SANITARIO PER ESIGENZE DI FUNZIONAMENTO DEGLI UFFICI COMUNALI. LUGLIO 2017.</title>
 			<description>ACQUISTO MATERIALE IGIENICO-SANITARIO PER ESIGENZE DI FUNZIONAMENTO DEGLI UFFICI COMUNALI. LUGLIO 2017.</description>
-			<a10:updated>2017-08-02T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/667549</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/667549</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 02 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 17 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">667549</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>SERVIZIO CULTURA - PROGETTO ARADIA - ACCERTAMENTO ENTRATA</title>
-			<description>SERVIZIO CULTURA - PROGETTO ARADIA - ACCERTAMENTO ENTRATA</description>
 			<a10:updated>2017-08-02T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

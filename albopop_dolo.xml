@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 03 Aug 2017 12:30:38 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 03 Aug 2017 13:30:40 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Thu, 03 Aug 2017 12:30:38 +0200</pubDate>
+		<pubDate>Thu, 03 Aug 2017 13:30:40 +0200</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -31,6 +31,17 @@
 			<title>VALORIZZAZIONE STORIA PADOVANA E REGIONALE: I PREMI BRUNACCI - MONSELICE</title>
 			<description>VALORIZZAZIONE STORIA PADOVANA E REGIONALE: I PREMI BRUNACCI - MONSELICE</description>
 			<a10:updated>2017-07-17T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3435691</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3435691</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 03 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 02 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3435691</category>
+			<category domain="http://albopop.it/specs#item-category-type">ELENCO ABUSI ABUSI</category>
+			<title>ELENCO DEI RAPPORTI COMUNICATI DAGLI ORGANI DI POLIZIA GIUDIZIARIA RIGUARDANTI OPERE O LOTTIZZAZIONI ABUSIVE E DELLE RELATIVE ORDINANZE DI SOSPENSIONE DEI LAVORI MESE DI LUGLIO 2017 - NEGATIVO</title>
+			<description>ELENCO DEI RAPPORTI COMUNICATI DAGLI ORGANI DI POLIZIA GIUDIZIARIA RIGUARDANTI OPERE O LOTTIZZAZIONI ABUSIVE E DELLE RELATIVE ORDINANZE DI SOSPENSIONE DEI LAVORI MESE DI LUGLIO 2017 - NEGATIVO</description>
+			<a10:updated>2017-08-03T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3435544</guid>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>SOSTITUZIONE APPARECCHIATURE IMPIANTO TERMICO BARCHESSA VILLA CONCINA DI VIA COMUNETTO. LIQUIDAZIONE FATTURA ALLA DITTA CRISTOFORETTI SERVIZI ENERGIA S.P.A.</title>
 			<description>SOSTITUZIONE APPARECCHIATURE IMPIANTO TERMICO BARCHESSA VILLA CONCINA DI VIA COMUNETTO. LIQUIDAZIONE FATTURA ALLA DITTA CRISTOFORETTI SERVIZI ENERGIA S.P.A.</description>
-			<a10:updated>2017-07-31T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3420646</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3420646</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 31 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 15 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3420646</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>LIQUIDAZIONE FATTURA N. 678/PA DEL 30.06.2017 DITTA ARTCO SERVIZI COOP. PER SERVIZI CIMITERIALI MESI MAGGIO E GIUGNO 2017</title>
-			<description>LIQUIDAZIONE FATTURA N. 678/PA DEL 30.06.2017 DITTA ARTCO SERVIZI COOP. PER SERVIZI CIMITERIALI MESI MAGGIO E GIUGNO 2017</description>
 			<a10:updated>2017-07-31T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
