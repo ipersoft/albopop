@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 04 Aug 2017 14:31:20 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 04 Aug 2017 15:31:37 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Fri, 04 Aug 2017 14:31:20 +0200</pubDate>
+		<pubDate>Fri, 04 Aug 2017 15:31:37 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2909889</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2909889</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 04 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 19 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2909889</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZE</category>
+			<title>DIFFIDA ALLA CESSAZIONE DELL'ATTIVITÀ PRODUTTIVA ESERCITA IN VIA ACHILLE GRANDI N.32, AI SENSI DEGLI ARTT. 216 E 217 DEL R.D.1265/1934</title>
+			<description>DIFFIDA ALLA CESSAZIONE DELL'ATTIVITÀ PRODUTTIVA ESERCITA IN VIA ACHILLE GRANDI N.32, AI SENSI DEGLI ARTT. 216 E 217 DEL R.D.1265/1934</description>
+			<a10:updated>2017-08-04T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2909860</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2909860</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>LIQUIDAZIONE FATTURA PER ACQUISTO DI VERNICE IGNIFUGA PER LA REALIZZAZIONE DELLA SCENOGRAFIA “LE BARUFFE CHIOZZOTTE” PRESSO IL LABORATORIO TEATRALE DEL COMUNE DI ROVIGO.</title>
 			<description>LIQUIDAZIONE FATTURA PER ACQUISTO DI VERNICE IGNIFUGA PER LA REALIZZAZIONE DELLA SCENOGRAFIA “LE BARUFFE CHIOZZOTTE” PRESSO IL LABORATORIO TEATRALE DEL COMUNE DI ROVIGO.</description>
-			<a10:updated>2017-08-03T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2907337</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2907337</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 03 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 18 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2907337</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>RETTIFICA DTD/2017/1357 DEL 21/06/2017 RELATIVA AD: “APPROVAZIONE ED AFFIDAMENTO AD AS2 S.R.L. DEL SERVIZIO DI CONNESSIONE DELLA RETE DI VIDEOSORVEGLIANZA COMUNALE ALLA QUESTURA”, PER MODIFICA IMPUTAZIONE CONTABILE.</title>
-			<description>RETTIFICA DTD/2017/1357 DEL 21/06/2017 RELATIVA AD: “APPROVAZIONE ED AFFIDAMENTO AD AS2 S.R.L. DEL SERVIZIO DI CONNESSIONE DELLA RETE DI VIDEOSORVEGLIANZA COMUNALE ALLA QUESTURA”, PER MODIFICA IMPUTAZIONE CONTABILE.</description>
 			<a10:updated>2017-08-03T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

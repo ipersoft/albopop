@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 04 Aug 2017 14:30:50 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 04 Aug 2017 15:30:38 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Fri, 04 Aug 2017 14:30:50 +0200</pubDate>
+		<pubDate>Fri, 04 Aug 2017 15:30:38 +0200</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3439266</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3439266</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 04 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 19 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3439266</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA SINDACALE</category>
+			<title>DISCIPLINA DEGLI ORARI DI APERTURA DEI PARCHI URBANI E DEI GIARDINI PUBBLICI</title>
+			<description>DISCIPLINA DEGLI ORARI DI APERTURA DEI PARCHI URBANI E DEI GIARDINI PUBBLICI</description>
+			<a10:updated>2017-08-04T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3439066</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3439066</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERA DI CONSIGLIO</category>
 			<title>RINNOVO CONVENZIONE E DELEGA ALLA COMUNITÀ MONTANA DI VALLE TROMPIA PER LA GESTIONE IN FORMA ASSOCIATA DEL SERVIZIO SUAP - SPORTELLO UNICO ATTIVITA' PRODUTTIVE </title>
 			<description>RINNOVO CONVENZIONE E DELEGA ALLA COMUNITÀ MONTANA DI VALLE TROMPIA PER LA GESTIONE IN FORMA ASSOCIATA DEL SERVIZIO SUAP - SPORTELLO UNICO ATTIVITA' PRODUTTIVE </description>
-			<a10:updated>2017-08-02T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3433931</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3433931</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 02 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 17 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3433931</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERA DI CONSIGLIO</category>
-			<title>APPROVAZIONE DELLA CONVENZIONE CON LA COMUNITA' MONTANA DI VALLE TROMPIA PER IL SISTEMA TURISTICO </title>
-			<description>APPROVAZIONE DELLA CONVENZIONE CON LA COMUNITA' MONTANA DI VALLE TROMPIA PER IL SISTEMA TURISTICO </description>
 			<a10:updated>2017-08-02T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
