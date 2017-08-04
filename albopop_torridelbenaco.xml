@@ -5,7 +5,7 @@
 		<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Torri del Benaco</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 04 Aug 2017 10:31:30 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 04 Aug 2017 12:31:37 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Torri del Benaco</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Verona</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Torri del Benaco</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_torridelbenaco</a10:id>
-		<pubDate>Fri, 04 Aug 2017 10:31:30 +0200</pubDate>
+		<pubDate>Fri, 04 Aug 2017 12:31:37 +0200</pubDate>
 		<docs>http://albopop.it/comune/torridelbenaco/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3437920</guid>
+			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3437920</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 04 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 19 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3437920</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
+			<title>ORDINANZA DI RIDUZIONE IN PRISTINO (ART.31, COMMA 2, D.P.R. N. 380/2001 E S.M.I.).</title>
+			<description>ORDINANZA DI RIDUZIONE IN PRISTINO (ART.31, COMMA 2, D.P.R. N. 380/2001 E S.M.I.).</description>
+			<a10:updated>2017-08-04T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3436037</guid>
 			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3436037</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISO</category>
 			<title>INTERDIZIONE E CAUTA NAVIGAZIONE NELLE ACQUE DEL LAGO DI GARDA, PER SVOLGIMENTO PALO DELLA CUCCAGNA - CIAPAR LA CUCAGNA COMUNE DI GARDA - DOMENICA 6 AGOSTO 2017 - TRASMISSIONE ORDINANZA N. 263 DEL 27 LUGLIO 2017</title>
 			<description>INTERDIZIONE E CAUTA NAVIGAZIONE NELLE ACQUE DEL LAGO DI GARDA, PER SVOLGIMENTO PALO DELLA CUCCAGNA - CIAPAR LA CUCAGNA COMUNE DI GARDA - DOMENICA 6 AGOSTO 2017 - TRASMISSIONE ORDINANZA N. 263 DEL 27 LUGLIO 2017</description>
-			<a10:updated>2017-07-28T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3418012</guid>
-			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3418012</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 28 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 12 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3418012</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>APPROVAZIONE DOCUMENTO UNICO DI PROGRAMMAZIONE (DUP) 2018-2020 </title>
-			<description>APPROVAZIONE DOCUMENTO UNICO DI PROGRAMMAZIONE (DUP) 2018-2020 </description>
 			<a10:updated>2017-07-28T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
