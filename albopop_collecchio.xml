@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 04 Aug 2017 18:31:50 +0200</lastBuildDate>
+		<lastBuildDate>Sat, 05 Aug 2017 08:32:43 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Fri, 04 Aug 2017 18:31:50 +0200</pubDate>
+		<pubDate>Sat, 05 Aug 2017 08:32:43 +0200</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2910060</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2910060</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 05 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 14 Feb 2018 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2910060</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO ON LINE ORDINANZE E AVVISI</category>
+			<title>MODIFICHE TEMPORANEE ALLA VIABILITA’ IN VIA SETTE FRATELLI CERVI A COLLECCHIO PER TRASLOCO</title>
+			<description>MODIFICHE TEMPORANEE ALLA VIABILITA’ IN VIA SETTE FRATELLI CERVI A COLLECCHIO PER TRASLOCO</description>
+			<a10:updated>2017-08-05T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2909419</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2909419</link>
@@ -284,17 +295,6 @@
 			<title>REVISIONE DINAMICA LISTE ELETTORALI</title>
 			<description>REVISIONE DINAMICA LISTE ELETTORALI</description>
 			<a10:updated>2017-08-01T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2897260</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2897260</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 31 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 04 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2897260</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO ON LINE BANDI GENERICI</category>
-			<title>POSTA CERTIFICATA: RICHIESTA PUBBLICAZIONE ALBO ON-LINE AVVISO DI SELEZIONE PUBBLICA PER LA COPERTURA MEDIANTE PROCEDURA DI MOBILITÀ VOLONTARIA FRA ENTI DI UN POSTO DI ISTRUTTORE AMM.VO CONTABILE CAT.C A TEMPO PIENO ED INDETERMINATO</title>
-			<description>POSTA CERTIFICATA: RICHIESTA PUBBLICAZIONE ALBO ON-LINE AVVISO DI SELEZIONE PUBBLICA PER LA COPERTURA MEDIANTE PROCEDURA DI MOBILITÀ VOLONTARIA FRA ENTI DI UN POSTO DI ISTRUTTORE AMM.VO CONTABILE CAT.C A TEMPO PIENO ED INDETERMINATO</description>
-			<a10:updated>2017-07-31T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
