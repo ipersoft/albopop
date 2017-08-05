@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 05 Aug 2017 10:30:53 +0200</lastBuildDate>
+		<lastBuildDate>Sat, 05 Aug 2017 11:30:54 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Sat, 05 Aug 2017 10:30:53 +0200</pubDate>
+		<pubDate>Sat, 05 Aug 2017 11:30:54 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/677847</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/677847</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 05 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 14 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">677847</category>
+			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO RICHIESTA PUBBLICAZIONE MATRIMONIO ALBO</category>
+			<title>PUBBLICAZIONE DI MATRIMONIO DI MAGI FABRIZIO E WAZINSKI CHIARA</title>
+			<description>PUBBLICAZIONE DI MATRIMONIO DI MAGI FABRIZIO E WAZINSKI CHIARA</description>
+			<a10:updated>2017-08-05T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/677804</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/677804</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>LAVORI DI ORDINARIA MANUTENZIONE CONSISTENTI NELLA PULIZIA DELL’ALVEO IN CEMENTO DEL TORRENTE GENICA E DEL FOSSO BADIA. RIMOZIONE MATERIALI DI RISULTA. AFFIDAMENTO DEI LAVORI ALLA DITTA P.E. S.R.L. DI PESARO (PU) ED ASSUNZIONE DEL RELATIVO IMPEGNO DI SPESA PER L’IMPORTO TOTALE DI € 3.904,00 IVA INCLUSA.</title>
 			<description>LAVORI DI ORDINARIA MANUTENZIONE CONSISTENTI NELLA PULIZIA DELL’ALVEO IN CEMENTO DEL TORRENTE GENICA E DEL FOSSO BADIA. RIMOZIONE MATERIALI DI RISULTA. AFFIDAMENTO DEI LAVORI ALLA DITTA P.E. S.R.L. DI PESARO (PU) ED ASSUNZIONE DEL RELATIVO IMPEGNO DI SPESA PER L’IMPORTO TOTALE DI € 3.904,00 IVA INCLUSA.</description>
-			<a10:updated>2017-08-04T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/677598</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/677598</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 04 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 19 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">677598</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>TARI - IMPEGNO DI SPESA PER RIMBORSI 2016 – 1° E 2° CONGUAGLIO</title>
-			<description>TARI - IMPEGNO DI SPESA PER RIMBORSI 2016 – 1° E 2° CONGUAGLIO</description>
 			<a10:updated>2017-08-04T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
