@@ -5,7 +5,7 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/igrid/1233682</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Desio</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 07 Aug 2017 10:30:34 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 07 Aug 2017 11:30:35 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Desio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Desio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_desio</a10:id>
-		<pubDate>Mon, 07 Aug 2017 10:30:34 +0200</pubDate>
+		<pubDate>Mon, 07 Aug 2017 11:30:35 +0200</pubDate>
 		<docs>http://albopop.it/comune/desio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3440413</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3440413</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 07 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 22 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3440413</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>APPROVAZIONE LISTE DI CARICO PER LA RISCOSSIONE COATTIVA DEGLI AVVISI DI ACCERTAMENTO ICI – IMU E TASSA RIFIUTI.</title>
+			<description>APPROVAZIONE LISTE DI CARICO PER LA RISCOSSIONE COATTIVA DEGLI AVVISI DI ACCERTAMENTO ICI – IMU E TASSA RIFIUTI.</description>
+			<a10:updated>2017-08-07T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3439229</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3439229</link>
@@ -229,17 +240,6 @@
 			<title>VARIAZIONE DI CASSA AL BILANCIO DI PREVISIONE 2017-2019 E VARIAZIONE DEL PIANO ESECUTIVO DI GESTIONE 2017-2019 A SEGUITO ASSESTAMENTO GENERALE DI BILANCIO</title>
 			<description>VARIAZIONE DI CASSA AL BILANCIO DI PREVISIONE 2017-2019 E VARIAZIONE DEL PIANO ESECUTIVO DI GESTIONE 2017-2019 A SEGUITO ASSESTAMENTO GENERALE DI BILANCIO</description>
 			<a10:updated>2017-08-04T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3436729</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3436729</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 03 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 18 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3436729</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>APPROVAZIONE CONVENZIONE CON L'UNIVERSITA' CATTOLICA DEL SACRO CUORE DI MILANO PER LO SVOLGIMENTO DEI TIROCINI PROFESSIONALIZZANTI POST LAUREAM PER L'AMMISSIONE ALL'ESAME DI STATO DELLA SEZIONE A E B DEL'ALBO DEGLI PSICOLOGI</title>
-			<description>APPROVAZIONE CONVENZIONE CON L'UNIVERSITA' CATTOLICA DEL SACRO CUORE DI MILANO PER LO SVOLGIMENTO DEI TIROCINI PROFESSIONALIZZANTI POST LAUREAM PER L'AMMISSIONE ALL'ESAME DI STATO DELLA SEZIONE A E B DEL'ALBO DEGLI PSICOLOGI</description>
-			<a10:updated>2017-08-03T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
