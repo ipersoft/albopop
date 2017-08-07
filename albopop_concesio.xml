@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 07 Aug 2017 12:30:36 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 07 Aug 2017 13:30:35 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Mon, 07 Aug 2017 12:30:36 +0200</pubDate>
+		<pubDate>Mon, 07 Aug 2017 13:30:35 +0200</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3441241</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3441241</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 07 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 22 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3441241</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>CONTRATTO DI SERVIZIO RSA PER L'ANNO 2017 - ASSUNZIONE IMPEGNO DI SPESA A FAVORE DELL'AZIENDA SPECIALE CONCESIO</title>
+			<description>CONTRATTO DI SERVIZIO RSA PER L'ANNO 2017 - ASSUNZIONE IMPEGNO DI SPESA A FAVORE DELL'AZIENDA SPECIALE CONCESIO</description>
+			<a10:updated>2017-08-07T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3441239</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3441239</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 07 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 22 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3441239</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>CONTRATTO DI SERVIZIO SAD PER L'ANNO 2017 - ASSUNZIONE IMPEGNO DI SPESA A FAVORE DELL'AZIENDA SPECIALE CONCESIO</title>
+			<description>CONTRATTO DI SERVIZIO SAD PER L'ANNO 2017 - ASSUNZIONE IMPEGNO DI SPESA A FAVORE DELL'AZIENDA SPECIALE CONCESIO</description>
+			<a10:updated>2017-08-07T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3441126</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3441126</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 07 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 27 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3441126</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI DEPOSITO - ART. 143 C.P.C.</category>
+			<title>MESSO COMUNALE: NOTIFICA N. 492/2017 DEL 07/08/2017 - SCARICATA</title>
+			<description>MESSO COMUNALE: NOTIFICA N. 492/2017 DEL 07/08/2017 - SCARICATA</description>
+			<a10:updated>2017-08-07T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3440913</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3440913</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI AVVISO</category>
 			<title>ACB BANDI - COMUNE DI SAN ZENO NAVIGLIO, SCADENZA BANDO IL 05/09/2017</title>
 			<description>ACB BANDI - COMUNE DI SAN ZENO NAVIGLIO, SCADENZA BANDO IL 05/09/2017</description>
-			<a10:updated>2017-08-02T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3433947</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3433947</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 02 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 17 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3433947</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERA DI CONSIGLIO</category>
-			<title>PRESENTAZIONE , AI SENSI DELL'ART. 170 DEL D. LGS. 267/2000 E S.M.I., ED APPROVAZIONE DEL DOCUMENTO UNICO DI PROGRAMMAZIONE (D.U.P.) PARTE STRATEGICA E PARTE OPERATIVA 2018/2020.</title>
-			<description>PRESENTAZIONE , AI SENSI DELL'ART. 170 DEL D. LGS. 267/2000 E S.M.I., ED APPROVAZIONE DEL DOCUMENTO UNICO DI PROGRAMMAZIONE (D.U.P.) PARTE STRATEGICA E PARTE OPERATIVA 2018/2020.</description>
-			<a10:updated>2017-08-02T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3433945</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3433945</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 02 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 17 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3433945</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERA DI CONSIGLIO</category>
-			<title>VARIAZIONI DI ASSESTAMENTO GENERALE DEL BILANCIO DI PREVISIONE 2017-2019.</title>
-			<description>VARIAZIONI DI ASSESTAMENTO GENERALE DEL BILANCIO DI PREVISIONE 2017-2019.</description>
-			<a10:updated>2017-08-02T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3433943</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3433943</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 02 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 17 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3433943</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERA DI CONSIGLIO</category>
-			<title>VERIFICA DEGLI EQUILIBRI DEL BILANCIO DI PREVISIONE 2017-2019, AI SENSI DELL'ART. 193 DEL D. LGS. 267/2000 E S.M.I. E RICOGNIZIONE SULLO STATO DI ATTUAZIONE DEI PROGRAMMI.</title>
-			<description>VERIFICA DEGLI EQUILIBRI DEL BILANCIO DI PREVISIONE 2017-2019, AI SENSI DELL'ART. 193 DEL D. LGS. 267/2000 E S.M.I. E RICOGNIZIONE SULLO STATO DI ATTUAZIONE DEI PROGRAMMI.</description>
 			<a10:updated>2017-08-02T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
