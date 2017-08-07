@@ -5,7 +5,7 @@
 		<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Felino</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 07 Aug 2017 08:30:39 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 07 Aug 2017 09:30:37 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Felino</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Felino</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_felino</a10:id>
-		<pubDate>Mon, 07 Aug 2017 08:30:39 +0200</pubDate>
+		<pubDate>Mon, 07 Aug 2017 09:30:37 +0200</pubDate>
 		<docs>http://albopop.it/comune/felino/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2910458</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2910458</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 07 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 04 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2910458</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
+			<title>AVVISO DI CONCORSO PUBBLICO PER SOLI ESAMI PER LA COPERTURA DI UN POSTO A TEMPO PIENO ED INDETERMINATO DI ISTRUTTORE TECNICO (GEOMETRA) CATEGORIA C, POSIZIONE ECONOMICA C1 PER PUBBLICAZIONE ALL'ALBO PRETORIO</title>
+			<description>AVVISO DI CONCORSO PUBBLICO PER SOLI ESAMI PER LA COPERTURA DI UN POSTO A TEMPO PIENO ED INDETERMINATO DI ISTRUTTORE TECNICO (GEOMETRA) CATEGORIA C, POSIZIONE ECONOMICA C1 PER PUBBLICAZIONE ALL'ALBO PRETORIO</description>
+			<a10:updated>2017-08-07T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2910143</guid>
 			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2910143</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
 			<title>POSTA CERTIFICATA: PROT.N.0026022/2017 - BANDO PER LA COPERTURA DI N. 1 POSTO DI “ISTRUTTORE EDUCATORE” O PROFILO EQUIVALENTE - CAT C A TEMPO</title>
 			<description>POSTA CERTIFICATA: PROT.N.0026022/2017 - BANDO PER LA COPERTURA DI N. 1 POSTO DI “ISTRUTTORE EDUCATORE” O PROFILO EQUIVALENTE - CAT C A TEMPO</description>
-			<a10:updated>2017-07-25T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2882777</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2882777</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 25 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 23 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2882777</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
-			<title>AVVISO DI SELEZIONE PUBBLICA, PER SOLI ESAMI, PER L'ASSUNZIONE A TEMPO PIENO E DETERMINATO DI N. 2 “ AUSILIARI DEL TRAFFICO"(CAT. B3 – POSIZIONE ECONOMICA DI PRIMO INQUADRAMENTO B3 - CCNL COMPARTO REGIONI AUTONOMIE LOCALI)</title>
-			<description>AVVISO DI SELEZIONE PUBBLICA, PER SOLI ESAMI, PER L'ASSUNZIONE A TEMPO PIENO E DETERMINATO DI N. 2 “ AUSILIARI DEL TRAFFICO"(CAT. B3 – POSIZIONE ECONOMICA DI PRIMO INQUADRAMENTO B3 - CCNL COMPARTO REGIONI AUTONOMIE LOCALI)</description>
 			<a10:updated>2017-07-25T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
