@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 07 Aug 2017 13:31:22 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 07 Aug 2017 14:31:39 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Mon, 07 Aug 2017 13:31:22 +0200</pubDate>
+		<pubDate>Mon, 07 Aug 2017 14:31:39 +0200</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2911587</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2911587</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 07 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 22 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2911587</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>INGIUNZIONE ALLA DEMOLIZIONE DI OPERE EDILI ABUSIVE IN VIA DON GIOBBE RUOCCO S.N.C. LOCALITA GASTO PROPRIETA SIGG.RI CIRO E CATELLO ALFANO</title>
+			<description>INGIUNZIONE ALLA DEMOLIZIONE DI OPERE EDILI ABUSIVE IN VIA DON GIOBBE RUOCCO S.N.C. LOCALITA GASTO PROPRIETA SIGG.RI CIRO E CATELLO ALFANO</description>
+			<a10:updated>2017-08-07T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2911158</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2911158</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
 			<title>RIFACIMENTO DELLA PAVIMENTAZIONE STRADALE DISSESTATA NEI PRESSI DELLA PIAZZETTA DI MATERMANIA. LIQUIDAZIONE DELLA FATTURA DELLA DITTA "EDILRICCI S.R.L." DI CAPRI.</title>
 			<description>RIFACIMENTO DELLA PAVIMENTAZIONE STRADALE DISSESTATA NEI PRESSI DELLA PIAZZETTA DI MATERMANIA. LIQUIDAZIONE DELLA FATTURA DELLA DITTA "EDILRICCI S.R.L." DI CAPRI.</description>
-			<a10:updated>2017-08-01T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2904129</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2904129</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 01 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 16 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2904129</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
-			<title>ACCORDO DI VALORIZZAZIONE DEI SITI “VILLA JOVIS” E “CERTOSA DI SAN GIACOMO” IN CAPRI - ULTERIORE LIQUIDAZIONE COMPENSI PERSONALE CERTOSA EVENTI 2, 25 GIUGNO E 13 LUGLIO. BRAMBILLA ANTONIO </title>
-			<description>ACCORDO DI VALORIZZAZIONE DEI SITI “VILLA JOVIS” E “CERTOSA DI SAN GIACOMO” IN CAPRI - ULTERIORE LIQUIDAZIONE COMPENSI PERSONALE CERTOSA EVENTI 2, 25 GIUGNO E 13 LUGLIO. BRAMBILLA ANTONIO </description>
 			<a10:updated>2017-08-01T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
