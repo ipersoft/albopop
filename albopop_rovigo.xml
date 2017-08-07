@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 07 Aug 2017 09:30:55 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 07 Aug 2017 10:31:04 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Mon, 07 Aug 2017 09:30:55 +0200</pubDate>
+		<pubDate>Mon, 07 Aug 2017 10:31:04 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2910743</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2910743</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 07 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 22 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2910743</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERE DI GIUNTA</category>
+			<title>CONCESSIONE DEL TEATRO SOCIALE A TITOLO GRATUITO COME CONTRIBUTO ALLA REALIZZAZIONE DELL'EVENTO TEDXROVIGO DEL 23 SETTEMBRE 2017 ORGANIZZATO DALL' ASSOCIAZIONE CULTURALE QUOKKA.</title>
+			<description>CONCESSIONE DEL TEATRO SOCIALE A TITOLO GRATUITO COME CONTRIBUTO ALLA REALIZZAZIONE DELL'EVENTO TEDXROVIGO DEL 23 SETTEMBRE 2017 ORGANIZZATO DALL' ASSOCIAZIONE CULTURALE QUOKKA.</description>
+			<a10:updated>2017-08-07T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2910678</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2910678</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 07 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 22 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2910678</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERE DI GIUNTA</category>
+			<title>APPROVAZIONE PIANO FORMATIVO TRIENNALE 2017/2019</title>
+			<description>APPROVAZIONE PIANO FORMATIVO TRIENNALE 2017/2019</description>
+			<a10:updated>2017-08-07T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2910642</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2910642</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 07 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 22 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2910642</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>LIQUIDAZIONE GETTONI DI PRESENZA PER SEDUTE DEI CONSIGLI COMUNALI E DELLE COMMISSIONI CONSILIARI. PERIODO DAL 01.05.2017 AL 30.06.2017. </title>
+			<description>LIQUIDAZIONE GETTONI DI PRESENZA PER SEDUTE DEI CONSIGLI COMUNALI E DELLE COMMISSIONI CONSILIARI. PERIODO DAL 01.05.2017 AL 30.06.2017. </description>
+			<a10:updated>2017-08-07T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2909958</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2909958</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZE</category>
 			<title>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE PER LAVORI POLESINE ACQUE S.P.A. (DIVISIONE FOGNATURA) DA ESEGUIRSI IN VIA BENEDETTO MARCELLO, 7 DAL 07/08/2017 AL 01/09/2017</title>
 			<description>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE PER LAVORI POLESINE ACQUE S.P.A. (DIVISIONE FOGNATURA) DA ESEGUIRSI IN VIA BENEDETTO MARCELLO, 7 DAL 07/08/2017 AL 01/09/2017</description>
-			<a10:updated>2017-08-03T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2908088</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2908088</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 03 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 18 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2908088</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZE</category>
-			<title> ORDINANZA DIRIGENZIALE DI SOSPENSIONE ATTIVITA’ DI FUNZIONAMENTO DEGLI APPARECCHI DI INTRATTENIMENTO E SVAGO CON VINCITA IN DENARO COLLOCATI NEL PUBBLICO ESERCIZIO SITO IN VIA ANGELI N. 24 - A CARICO DELLA DITTA “GAO LU” </title>
-			<description> ORDINANZA DIRIGENZIALE DI SOSPENSIONE ATTIVITA’ DI FUNZIONAMENTO DEGLI APPARECCHI DI INTRATTENIMENTO E SVAGO CON VINCITA IN DENARO COLLOCATI NEL PUBBLICO ESERCIZIO SITO IN VIA ANGELI N. 24 - A CARICO DELLA DITTA “GAO LU” </description>
-			<a10:updated>2017-08-03T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2908085</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2908085</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 03 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 18 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2908085</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZE</category>
-			<title>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE PER L’ESECUZIONE DI LAVORI DI MANUTENZIONE DELLA RETE GAS METANO DA EFFETTUARSI IN VIA AMENDOLA IN PROSSIMITA' DEL SOTTOPASSO “MARABIN” DAL 21/08/2017 FINO AL 31/08/2017</title>
-			<description>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE PER L’ESECUZIONE DI LAVORI DI MANUTENZIONE DELLA RETE GAS METANO DA EFFETTUARSI IN VIA AMENDOLA IN PROSSIMITA' DEL SOTTOPASSO “MARABIN” DAL 21/08/2017 FINO AL 31/08/2017</description>
-			<a10:updated>2017-08-03T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2908082</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2908082</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 03 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 18 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2908082</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZE</category>
-			<title>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE IN VIA VERDI, 9 PER LAVORI EDILI DALLE ORE 8.00 ALLE ORE 18.00 DEL 11/08/2017</title>
-			<description>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE IN VIA VERDI, 9 PER LAVORI EDILI DALLE ORE 8.00 ALLE ORE 18.00 DEL 11/08/2017</description>
 			<a10:updated>2017-08-03T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
