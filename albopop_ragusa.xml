@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 07 Aug 2017 14:31:43 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 07 Aug 2017 15:31:17 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Mon, 07 Aug 2017 14:31:43 +0200</pubDate>
+		<pubDate>Mon, 07 Aug 2017 15:31:17 +0200</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2911681</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2911681</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 07 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 16 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2911681</category>
+			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERA</category>
+			<title>OPERA PIA "SAC. ROSANO RIZZA" - DELIBERA N.1 DEL 31/07/2017 - APPROVAZIONE CONTO ECONOMICO ANNO 2016 - DELIBERA N. 2 DEL 31/07/2017 - "DESTINAZIONE RENDITA PER L'ANNO 2016</title>
+			<description>OPERA PIA "SAC. ROSANO RIZZA" - DELIBERA N.1 DEL 31/07/2017 - APPROVAZIONE CONTO ECONOMICO ANNO 2016 - DELIBERA N. 2 DEL 31/07/2017 - "DESTINAZIONE RENDITA PER L'ANNO 2016</description>
+			<a10:updated>2017-08-07T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2911628</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2911628</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI GIUNTA</category>
 			<title>DELIBERAZIONE DI GIUNTA MUNICIPALE N.340 - RICORSO AL TRIBUNALE AMMINISTRATIVO PER LA SICILIA PER L'ANNULLAMENTO PREVIA SOSPENSIONE DEL DECRETO DEL DIRIGENTE GENERALE DIPARTIMENTO REG.LE URBANISTICA N.40/17 DELL'ASS.TO REG.LE DEL TERRITORIO ED AMBIENTE N.21/17 DELLA DELIBERAZIONE DEL C.C. DI RAGUSA N-.77/15 COOPERATIVA EDILIZIA GLI ULIVI 2005 CONTRO IL COMUNE DI RAGUSA E L'ASSESSORATO REGIONALE TERRITORIO ED AMBIENTE DELLA REGIONE SICILIANA. AUTORIZZAZIONE A STARE IN GIUDIZIO.</title>
 			<description>DELIBERAZIONE DI GIUNTA MUNICIPALE N.340 - RICORSO AL TRIBUNALE AMMINISTRATIVO PER LA SICILIA PER L'ANNULLAMENTO PREVIA SOSPENSIONE DEL DECRETO DEL DIRIGENTE GENERALE DIPARTIMENTO REG.LE URBANISTICA N.40/17 DELL'ASS.TO REG.LE DEL TERRITORIO ED AMBIENTE N.21/17 DELLA DELIBERAZIONE DEL C.C. DI RAGUSA N-.77/15 COOPERATIVA EDILIZIA GLI ULIVI 2005 CONTRO IL COMUNE DI RAGUSA E L'ASSESSORATO REGIONALE TERRITORIO ED AMBIENTE DELLA REGIONE SICILIANA. AUTORIZZAZIONE A STARE IN GIUDIZIO.</description>
-			<a10:updated>2017-08-04T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2908469</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2908469</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 04 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 24 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2908469</category>
-			<category domain="http://albopop.it/specs#item-category-type">VERBALI VERBALE </category>
-			<title>PUBBLICAZIONE ART. 143 C.P.C. A CARICO DI TON ATEF</title>
-			<description>PUBBLICAZIONE ART. 143 C.P.C. A CARICO DI TON ATEF</description>
 			<a10:updated>2017-08-04T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
