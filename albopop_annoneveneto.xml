@@ -5,7 +5,7 @@
 		<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Annone Veneto</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 07 Aug 2017 11:30:42 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 07 Aug 2017 12:30:42 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Annone Veneto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,55 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Annone Veneto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_annoneveneto</a10:id>
-		<pubDate>Mon, 07 Aug 2017 11:30:42 +0200</pubDate>
+		<pubDate>Mon, 07 Aug 2017 12:30:42 +0200</pubDate>
 		<docs>http://albopop.it/comune/annoneveneto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3440915</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3440915</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 07 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 22 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3440915</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>NOLEGGIO FOTOCOPIATORE A COLORI</title>
+			<description>NOLEGGIO FOTOCOPIATORE A COLORI</description>
+			<a10:updated>2017-08-07T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3440774</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3440774</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 07 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 22 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3440774</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>LIQUIDAZIONE RETTA RICOVERO IN CASA DI RIPOSO SIG. P. R. – LUGLIO 2017</title>
+			<description>LIQUIDAZIONE RETTA RICOVERO IN CASA DI RIPOSO SIG. P. R. – LUGLIO 2017</description>
+			<a10:updated>2017-08-07T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3440771</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3440771</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 07 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 22 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3440771</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>CONTRIBUTO ALLA COMUNALE AVIS PER GESTIONE DEL PUNTO PRELIEVI – ACCONTO ANNO 2017</title>
+			<description>CONTRIBUTO ALLA COMUNALE AVIS PER GESTIONE DEL PUNTO PRELIEVI – ACCONTO ANNO 2017</description>
+			<a10:updated>2017-08-07T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3440714</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3440714</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 07 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 22 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3440714</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>CONTRIBUTO STRAORDINARIO IN FAVORE DELLA FAMIGLIA. X. Y.</title>
+			<description>CONTRIBUTO STRAORDINARIO IN FAVORE DELLA FAMIGLIA. X. Y.</description>
+			<a10:updated>2017-08-07T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3440562</guid>
 			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3440562</link>
@@ -250,50 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">AVVISO</category>
 			<title>AVVISO ESPLORATIVO PER MANIFESTAZIONE DI INTERESSE FINALIZZATA ALL'ESPLETAMENTO DI PROCEDURA NEGOZIATA AI SENSI DELL'ART. 36, COMMA 2 LETTERA C), DEL D.LGS. 50/2016, DELL'APPALTO DEI LAVORI DI RISTRUTTURAZIONE DI UN EDIFICIO POLIVALENTE FUNZIONALE ALLA CUCINA SCOLASTICA DI ANNONE VENETO. </title>
 			<description>AVVISO ESPLORATIVO PER MANIFESTAZIONE DI INTERESSE FINALIZZATA ALL'ESPLETAMENTO DI PROCEDURA NEGOZIATA AI SENSI DELL'ART. 36, COMMA 2 LETTERA C), DEL D.LGS. 50/2016, DELL'APPALTO DEI LAVORI DI RISTRUTTURAZIONE DI UN EDIFICIO POLIVALENTE FUNZIONALE ALLA CUCINA SCOLASTICA DI ANNONE VENETO. </description>
-			<a10:updated>2017-08-03T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3434899</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3434899</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 03 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 18 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3434899</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>SERVIZIO DI TRASPORTO SCOLASTICO NEL COMUNE DI ANNONE VENETO - LIQUIDAZIONE</title>
-			<description>SERVIZIO DI TRASPORTO SCOLASTICO NEL COMUNE DI ANNONE VENETO - LIQUIDAZIONE</description>
-			<a10:updated>2017-08-03T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3434895</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3434895</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 03 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 18 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3434895</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>FORNITURA MATERIALE DI FERRAMENTA PER MANUTENZIONI PATRIMONIO COMUNALE - LIQUIDAZIONE</title>
-			<description>FORNITURA MATERIALE DI FERRAMENTA PER MANUTENZIONI PATRIMONIO COMUNALE - LIQUIDAZIONE</description>
-			<a10:updated>2017-08-03T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3434891</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3434891</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 03 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 18 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3434891</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>LAVORI EDILI PER EDIFICI ALL'INTERNO DEL TERRITORIO COMUNALE - LIQUIDAZIONE</title>
-			<description>LAVORI EDILI PER EDIFICI ALL'INTERNO DEL TERRITORIO COMUNALE - LIQUIDAZIONE</description>
-			<a10:updated>2017-08-03T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3434886</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3434886</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 03 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 18 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3434886</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>SERVIZIO DI RIPARAZIONE ATTREZZATURA CUCINA SCUOLA PRIMARIA E SECONDARIA - LIQUIDAZIONE</title>
-			<description>SERVIZIO DI RIPARAZIONE ATTREZZATURA CUCINA SCUOLA PRIMARIA E SECONDARIA - LIQUIDAZIONE</description>
 			<a10:updated>2017-08-03T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
