@@ -5,7 +5,7 @@
 		<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Felino</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 09 Aug 2017 08:30:38 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 09 Aug 2017 09:30:40 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Felino</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Felino</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_felino</a10:id>
-		<pubDate>Wed, 09 Aug 2017 08:30:38 +0200</pubDate>
+		<pubDate>Wed, 09 Aug 2017 09:30:40 +0200</pubDate>
 		<docs>http://albopop.it/comune/felino/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2914056</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2914056</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 09 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 23 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2914056</category>
+			<category domain="http://albopop.it/specs#item-category-type">A005 ORDINANZE E AVVISI</category>
+			<title> RIAPERTURA TERMINI PER PRESENTAZIONE CANDIDATURE PER LA NOMINA A COMPONENTI DELLE CONSULTE DI PARTECIPAZIONE. </title>
+			<description> RIAPERTURA TERMINI PER PRESENTAZIONE CANDIDATURE PER LA NOMINA A COMPONENTI DELLE CONSULTE DI PARTECIPAZIONE. </description>
+			<a10:updated>2017-08-09T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2914054</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2914054</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 09 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 08 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2914054</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
+			<title>POSTA CERTIFICATA: PROT.N.0006316/2017 - AVVISO DI MOBILITA? VOLONTARIA ESTERNA PER LA COPERTURA DI N. 1 POSTO DI ISTRUTTORE AMMINISTRATIVO</title>
+			<description>POSTA CERTIFICATA: PROT.N.0006316/2017 - AVVISO DI MOBILITA? VOLONTARIA ESTERNA PER LA COPERTURA DI N. 1 POSTO DI ISTRUTTORE AMMINISTRATIVO</description>
+			<a10:updated>2017-08-09T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2910458</guid>
 			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2910458</link>
@@ -273,28 +295,6 @@
 			<title>CONCESSIONE PATROCINIO PER FESTA ANNUALE DELL'AVIS PRESSO IL CENTRO SPORTIVO BONFANTI IN DATA 10 GIUGNO 2017.</title>
 			<description>CONCESSIONE PATROCINIO PER FESTA ANNUALE DELL'AVIS PRESSO IL CENTRO SPORTIVO BONFANTI IN DATA 10 GIUGNO 2017.</description>
 			<a10:updated>2017-08-04T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2905154</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2905154</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 02 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 31 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2905154</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
-			<title>BANDO DI MOBILITÀ FRA ENTI PER IL COMUNE DI NEVIANO DEGLI ARDUINI</title>
-			<description>BANDO DI MOBILITÀ FRA ENTI PER IL COMUNE DI NEVIANO DEGLI ARDUINI</description>
-			<a10:updated>2017-08-02T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2882802</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2882802</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 25 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 23 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2882802</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
-			<title>POSTA CERTIFICATA: PROT.N.0026022/2017 - BANDO PER LA COPERTURA DI N. 1 POSTO DI “ISTRUTTORE EDUCATORE” O PROFILO EQUIVALENTE - CAT C A TEMPO</title>
-			<description>POSTA CERTIFICATA: PROT.N.0026022/2017 - BANDO PER LA COPERTURA DI N. 1 POSTO DI “ISTRUTTORE EDUCATORE” O PROFILO EQUIVALENTE - CAT C A TEMPO</description>
-			<a10:updated>2017-07-25T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
