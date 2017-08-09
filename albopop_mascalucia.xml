@@ -5,7 +5,7 @@
 		<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mascalucia</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 09 Aug 2017 12:31:10 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 09 Aug 2017 13:31:59 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mascalucia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mascalucia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mascalucia</a10:id>
-		<pubDate>Wed, 09 Aug 2017 12:31:10 +0200</pubDate>
+		<pubDate>Wed, 09 Aug 2017 13:31:59 +0200</pubDate>
 		<docs>http://albopop.it/comune/mascalucia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2914746</guid>
+			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2914746</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 09 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 24 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2914746</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRE PUBBLICAZIONI ALTRE TIPOLOGIE DI PUBBLICAZIONE</category>
+			<title>RICHIESTA DI NOTIFICA NEI CONFRONTI DI: RAPISARDA ANTONIA </title>
+			<description>RICHIESTA DI NOTIFICA NEI CONFRONTI DI: RAPISARDA ANTONIA </description>
+			<a10:updated>2017-08-09T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2914642</guid>
 			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2914642</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
 			<title>LIQUIDAZIONE PER SERVIZIO INTEGRATIVO DI TRASPORTO SCOLASTICO, SUPPORTO AMMINISTRATIVO-CONTABILE, MANUTENZIONE E RIPARAZIONE BENI IMMOBILI, MANUTENZIONE IMPIANTI ELETTRICI E VERDE PUBBLICO RELATIVA AL PERIODO GIUGNO 2017 - LEGGE 8 NOVEMBRE 1991-N. 381. DITTA: SOCIETA' COOPERATIVA SOCIALE A.R.L. ONLUS "AZIONE SOCIALE" CON SEDE IN CACCAMO (PA) VIA S. VITO S.N. - P.I. 03501840825 CODICE CIG. 67590722AA</title>
 			<description>LIQUIDAZIONE PER SERVIZIO INTEGRATIVO DI TRASPORTO SCOLASTICO, SUPPORTO AMMINISTRATIVO-CONTABILE, MANUTENZIONE E RIPARAZIONE BENI IMMOBILI, MANUTENZIONE IMPIANTI ELETTRICI E VERDE PUBBLICO RELATIVA AL PERIODO GIUGNO 2017 - LEGGE 8 NOVEMBRE 1991-N. 381. DITTA: SOCIETA' COOPERATIVA SOCIALE A.R.L. ONLUS "AZIONE SOCIALE" CON SEDE IN CACCAMO (PA) VIA S. VITO S.N. - P.I. 03501840825 CODICE CIG. 67590722AA</description>
-			<a10:updated>2017-08-03T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2908174</guid>
-			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2908174</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 03 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 18 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2908174</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
-			<title>ASSISTENZA ECONOMICA SPESE SANITARIE</title>
-			<description>ASSISTENZA ECONOMICA SPESE SANITARIE</description>
 			<a10:updated>2017-08-03T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
