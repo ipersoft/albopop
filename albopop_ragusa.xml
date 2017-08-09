@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 08 Aug 2017 18:31:58 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 09 Aug 2017 08:31:11 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Tue, 08 Aug 2017 18:31:58 +0200</pubDate>
+		<pubDate>Wed, 09 Aug 2017 08:31:11 +0200</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -86,6 +86,17 @@
 			<title>PROVVEDIMENTO SUAP N.51 DELL'8/08/2017 - AZ. AGR. TUMINO GIOVANNI E MARCO S.S.</title>
 			<description>PROVVEDIMENTO SUAP N.51 DELL'8/08/2017 - AZ. AGR. TUMINO GIOVANNI E MARCO S.S.</description>
 			<a10:updated>2017-08-08T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2913561</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2913561</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 09 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 24 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2913561</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE DIRIGENZIALE</category>
+			<title>DETERMINA N42 DEL 08/08/2017 - ASSAP OO.PP. RIUNUITE - CASA OSPITALITA' IBLEA E CASA DEI FANCIULLI S.TERESA</title>
+			<description>DETERMINA N42 DEL 08/08/2017 - ASSAP OO.PP. RIUNUITE - CASA OSPITALITA' IBLEA E CASA DEI FANCIULLI S.TERESA</description>
+			<a10:updated>2017-08-09T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2913560</guid>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
 			<title>MANUTENZIONE STRAORDINARIA IMPIANTI DI PUBBLICA ILLUMINAZIONE DI RAGUSA E DELLE CONTRADE . IMPORTO COMPLESSIVO €. 400.000,00 AFFIDAMENTO INCARICHI DI RUP, VERIFICATORE, PROGETTISTA, DIRETTORE DEI LAVORI E COLLABORATORI </title>
 			<description>MANUTENZIONE STRAORDINARIA IMPIANTI DI PUBBLICA ILLUMINAZIONE DI RAGUSA E DELLE CONTRADE . IMPORTO COMPLESSIVO €. 400.000,00 AFFIDAMENTO INCARICHI DI RUP, VERIFICATORE, PROGETTISTA, DIRETTORE DEI LAVORI E COLLABORATORI </description>
-			<a10:updated>2017-08-07T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2910501</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2910501</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 07 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 14 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2910501</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
-			<title>COMMISSIONE GIUDICATRICE PER L'AFFIDAMENTO IN CONCESSIONE DEL SERVIZIO DI SOSTA A PAGAMENTO NEL COMUNE DI RAGUSA. IMPEGNO SPESA. </title>
-			<description>COMMISSIONE GIUDICATRICE PER L'AFFIDAMENTO IN CONCESSIONE DEL SERVIZIO DI SOSTA A PAGAMENTO NEL COMUNE DI RAGUSA. IMPEGNO SPESA. </description>
 			<a10:updated>2017-08-07T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
