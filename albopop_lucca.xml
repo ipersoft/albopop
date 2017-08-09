@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 09 Aug 2017 09:31:11 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 09 Aug 2017 10:31:26 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Wed, 09 Aug 2017 09:31:11 +0200</pubDate>
+		<pubDate>Wed, 09 Aug 2017 10:31:26 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3445386</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3445386</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 09 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 24 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3445386</category>
+			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI GIUNTA</category>
+			<title>ART. 90 D.LGS. 267/2000 - UFFICIO DI SUPPORTO AL SINDACO (UFFICIO DI GABINETTO) - ASSETTO E COMPOSIZIONE - INDIVIDUAZIONE DEI COLLABORATORI ESTERNI E DEFINIZIONE DEGLI ELEMENTI RETRIBUTIVI.</title>
+			<description>ART. 90 D.LGS. 267/2000 - UFFICIO DI SUPPORTO AL SINDACO (UFFICIO DI GABINETTO) - ASSETTO E COMPOSIZIONE - INDIVIDUAZIONE DEI COLLABORATORI ESTERNI E DEFINIZIONE DEGLI ELEMENTI RETRIBUTIVI.</description>
+			<a10:updated>2017-08-09T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3444511</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3444511</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
 			<title>PIAZZALE DON BARONI E VIA DELLE TAGLIATE II, FRAZ. SAN MARCO E S. ANNA - MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE E ALLA SOSTA PER LO SVOLGIMENTO DEL LUNA PARK IN OCCASIONE DEL SETTEMBRE LUCCHESE 2017. PERIODO : 16 AGOSTO 2017 - 4 OTTOBRE 2017.</title>
 			<description>PIAZZALE DON BARONI E VIA DELLE TAGLIATE II, FRAZ. SAN MARCO E S. ANNA - MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE E ALLA SOSTA PER LO SVOLGIMENTO DEL LUNA PARK IN OCCASIONE DEL SETTEMBRE LUCCHESE 2017. PERIODO : 16 AGOSTO 2017 - 4 OTTOBRE 2017.</description>
-			<a10:updated>2017-08-04T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3437706</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3437706</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 04 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 19 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3437706</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>VIABILITÀ COMUNALI: MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE ED ALLA SOSTA PER L'ESECUZIONE DI LAVORI DI MANUTENZIONE ORDINARIA ALLA SEGNALETICA ORIZZONTALE E VERTICALE. PERIODO 7 AGOSTO 2017 - 30 SETTEMBRE 2017.</title>
-			<description>VIABILITÀ COMUNALI: MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE ED ALLA SOSTA PER L'ESECUZIONE DI LAVORI DI MANUTENZIONE ORDINARIA ALLA SEGNALETICA ORIZZONTALE E VERTICALE. PERIODO 7 AGOSTO 2017 - 30 SETTEMBRE 2017.</description>
 			<a10:updated>2017-08-04T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
