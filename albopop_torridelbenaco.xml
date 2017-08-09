@@ -5,7 +5,7 @@
 		<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Torri del Benaco</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 09 Aug 2017 11:31:28 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 09 Aug 2017 12:31:14 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Torri del Benaco</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Verona</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Torri del Benaco</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_torridelbenaco</a10:id>
-		<pubDate>Wed, 09 Aug 2017 11:31:28 +0200</pubDate>
+		<pubDate>Wed, 09 Aug 2017 12:31:14 +0200</pubDate>
 		<docs>http://albopop.it/comune/torridelbenaco/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3445777</guid>
+			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3445777</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 09 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 24 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3445777</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
+			<title>CHIUSURA TEMPORANEA AREA DENOMINATA "PARCO DI VILLA MELISA"</title>
+			<description>CHIUSURA TEMPORANEA AREA DENOMINATA "PARCO DI VILLA MELISA"</description>
+			<a10:updated>2017-08-09T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3445775</guid>
+			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3445775</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 09 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 24 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3445775</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
+			<title>RIAPERTURA TEMPORANEA DI TRATTO DI VIA MAZZINI (EX ORD.N.30/17 ROTU)</title>
+			<description>RIAPERTURA TEMPORANEA DI TRATTO DI VIA MAZZINI (EX ORD.N.30/17 ROTU)</description>
+			<a10:updated>2017-08-09T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3444817</guid>
 			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3444817</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI CONSIGLIO</category>
 			<title>ARTICOLO 194 DEL DECRETO LEGISLATIVO 18.08.2000 N. 267. RICONOSCIMENTO DEBITI FUORI BILANCIO. QUINTA VARIAZIONE DI BILANCIO.</title>
 			<description>ARTICOLO 194 DEL DECRETO LEGISLATIVO 18.08.2000 N. 267. RICONOSCIMENTO DEBITI FUORI BILANCIO. QUINTA VARIAZIONE DI BILANCIO.</description>
-			<a10:updated>2017-08-01T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3429880</guid>
-			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3429880</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 01 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 16 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3429880</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI CONSIGLIO</category>
-			<title>RATIFICA DELIBERA DI GIUNTA COMUNALE N.174 DEL 19.07.2017 AVENTE AD OGGETTO: "BILANCIO DI PREVISIONE 2017-2019. VARIAZIONE N. 4"</title>
-			<description>RATIFICA DELIBERA DI GIUNTA COMUNALE N.174 DEL 19.07.2017 AVENTE AD OGGETTO: "BILANCIO DI PREVISIONE 2017-2019. VARIAZIONE N. 4"</description>
-			<a10:updated>2017-08-01T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3429875</guid>
-			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3429875</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 01 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 16 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3429875</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI CONSIGLIO</category>
-			<title>APPROVAZIONE VERBALI SEDUTA DEL 10.07.2017</title>
-			<description>APPROVAZIONE VERBALI SEDUTA DEL 10.07.2017</description>
 			<a10:updated>2017-08-01T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

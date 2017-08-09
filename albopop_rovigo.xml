@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 09 Aug 2017 11:31:21 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 09 Aug 2017 12:31:01 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Wed, 09 Aug 2017 11:31:21 +0200</pubDate>
+		<pubDate>Wed, 09 Aug 2017 12:31:01 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2914624</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2914624</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 09 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 24 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2914624</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>LIQUIDAZIONE FATTURE ALLA SOCIETÀ COOPERATIVA ATHENA PER SERVIZIO DI REDAZIONE DEI VERBALI DELLE SEDUTE DI CONSIGLIO COMUNALE DEL 31 MAGGIO 2017, 20 E 29 GIUGNO 2017.</title>
+			<description>LIQUIDAZIONE FATTURE ALLA SOCIETÀ COOPERATIVA ATHENA PER SERVIZIO DI REDAZIONE DEI VERBALI DELLE SEDUTE DI CONSIGLIO COMUNALE DEL 31 MAGGIO 2017, 20 E 29 GIUGNO 2017.</description>
+			<a10:updated>2017-08-09T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2914621</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2914621</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 09 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 24 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2914621</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>DETERMINAZIONE FONDO CONTRATTAZIONE DECENTRATA ANNO 2017</title>
+			<description>DETERMINAZIONE FONDO CONTRATTAZIONE DECENTRATA ANNO 2017</description>
+			<a10:updated>2017-08-09T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2914618</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2914618</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 09 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 24 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2914618</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>LIQUIDAZIONE FATTURA PER EFFETTUAZIONE SERVIZIO DI PREPARAZIONE E CONSEGNA PASTI A DOMICILIO A PERSONE IN CONDIZIONI DI DISAGIO SOCIALE – MESE DI MAGGIO 2017</title>
+			<description>LIQUIDAZIONE FATTURA PER EFFETTUAZIONE SERVIZIO DI PREPARAZIONE E CONSEGNA PASTI A DOMICILIO A PERSONE IN CONDIZIONI DI DISAGIO SOCIALE – MESE DI MAGGIO 2017</description>
+			<a10:updated>2017-08-09T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2914337</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2914337</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI ATTI DIVERSI</category>
 			<title> CONCORSO N. 1 POSTO DI OPERATORE SOCIO ASSISTENZIALEA TEMPO PIENO E INDETERMINATO - CENTRO SERVIZI ASSISTENZIALI S. ANTONIO - CHIAMPO E ALTA VALLE</title>
 			<description> CONCORSO N. 1 POSTO DI OPERATORE SOCIO ASSISTENZIALEA TEMPO PIENO E INDETERMINATO - CENTRO SERVIZI ASSISTENZIALI S. ANTONIO - CHIAMPO E ALTA VALLE</description>
-			<a10:updated>2017-08-07T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2911301</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2911301</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 07 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 22 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2911301</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERE DI CONSIGLIO</category>
-			<title>RATIFICA DELIBERAZIONE DI GIUNTA COMUNALE N. 165 DEL 26/6/2017 AD OGGETTO: "VARIAZIONE URGENTE AL BILANCIO DI PREVISIONE 2017/2019 - DESTINAZIONE QUOTA PARTE AVANZO VINCOLATO"</title>
-			<description>RATIFICA DELIBERAZIONE DI GIUNTA COMUNALE N. 165 DEL 26/6/2017 AD OGGETTO: "VARIAZIONE URGENTE AL BILANCIO DI PREVISIONE 2017/2019 - DESTINAZIONE QUOTA PARTE AVANZO VINCOLATO"</description>
-			<a10:updated>2017-08-07T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2911078</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2911078</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 07 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 05 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2911078</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI ATTI DIVERSI</category>
-			<title> MOBILITA' VOLONTARIA TRA ENTI PER N. 1 POSTO A TEMPO PIENO ED INDETERMINATO DI ISTRUTTORE VIGILE URBANO AREA AMMINISTRATIVA CATEGORIA C 1 - </title>
-			<description> MOBILITA' VOLONTARIA TRA ENTI PER N. 1 POSTO A TEMPO PIENO ED INDETERMINATO DI ISTRUTTORE VIGILE URBANO AREA AMMINISTRATIVA CATEGORIA C 1 - </description>
-			<a10:updated>2017-08-07T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2911031</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2911031</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 07 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 22 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2911031</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERE DI GIUNTA</category>
-			<title>APPROVAZIONE DEL DOCUMENTO UNICO DI PROGRAMMAZIONE (DUP) 2018-2020</title>
-			<description>APPROVAZIONE DEL DOCUMENTO UNICO DI PROGRAMMAZIONE (DUP) 2018-2020</description>
 			<a10:updated>2017-08-07T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
