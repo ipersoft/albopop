@@ -5,7 +5,7 @@
 		<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mazzano</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 10 Aug 2017 11:32:40 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 10 Aug 2017 12:31:25 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mazzano</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mazzano</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mazzano</a10:id>
-		<pubDate>Thu, 10 Aug 2017 11:32:40 +0200</pubDate>
+		<pubDate>Thu, 10 Aug 2017 12:31:25 +0200</pubDate>
 		<docs>http://albopop.it/comune/mazzano/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3448735</guid>
+			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3448735</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 10 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 11 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3448735</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI DI DEPOSITO ATTI NELLA CASA COMUNALE</category>
+			<title>AVVISO DEPOSITO ATTI </title>
+			<description>AVVISO DEPOSITO ATTI </description>
+			<a10:updated>2017-08-10T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3447160</guid>
 			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3447160</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
 			<title>APPROVAZIONE GRADUATORIA DEFINITIVA PER L' ASSEGNAZIONE IN LOCAZIONE DI ALLOGGI DI EDILIZIA RESIDENZIALE PUBBLICA - BANDO PERIODO 26/04/2017 - 31/05/2017.</title>
 			<description>APPROVAZIONE GRADUATORIA DEFINITIVA PER L' ASSEGNAZIONE IN LOCAZIONE DI ALLOGGI DI EDILIZIA RESIDENZIALE PUBBLICA - BANDO PERIODO 26/04/2017 - 31/05/2017.</description>
-			<a10:updated>2017-08-07T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3441218</guid>
-			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3441218</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 07 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 22 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3441218</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
-			<title>RICONOSCIMENTO REQUISITI PER CONCESSIONE ASSEGNO PER MATERNITA' - MATRICOLA 408198517 </title>
-			<description>RICONOSCIMENTO REQUISITI PER CONCESSIONE ASSEGNO PER MATERNITA' - MATRICOLA 408198517 </description>
 			<a10:updated>2017-08-07T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
