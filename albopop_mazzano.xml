@@ -5,7 +5,7 @@
 		<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mazzano</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 10 Aug 2017 12:31:25 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 10 Aug 2017 13:32:11 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mazzano</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mazzano</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mazzano</a10:id>
-		<pubDate>Thu, 10 Aug 2017 12:31:25 +0200</pubDate>
+		<pubDate>Thu, 10 Aug 2017 13:32:11 +0200</pubDate>
 		<docs>http://albopop.it/comune/mazzano/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3449105</guid>
+			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3449105</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 10 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 25 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3449105</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERE DI GIUNTA COMUNALE</category>
+			<title>ADESIONE AL PROGETTO PER LO SVOLGIMENTO DELLA PROCEDURA DI GARA AGGREGATA RELATIVA ALLA FORNITURA DI ENERGIA ELETTRICA E SERVIZI CONNESSI</title>
+			<description>ADESIONE AL PROGETTO PER LO SVOLGIMENTO DELLA PROCEDURA DI GARA AGGREGATA RELATIVA ALLA FORNITURA DI ENERGIA ELETTRICA E SERVIZI CONNESSI</description>
+			<a10:updated>2017-08-10T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3448735</guid>
 			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3448735</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
 			<title>ISTITUZIONE PERMANENTE DI LIMITE DI VELOCITA' DI 30 KM/H IN VIALE CONTI EMILI - COMUNE DI MAZZANO</title>
 			<description>ISTITUZIONE PERMANENTE DI LIMITE DI VELOCITA' DI 30 KM/H IN VIALE CONTI EMILI - COMUNE DI MAZZANO</description>
-			<a10:updated>2017-08-07T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3441220</guid>
-			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3441220</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 07 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 22 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3441220</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
-			<title>APPROVAZIONE GRADUATORIA DEFINITIVA PER L' ASSEGNAZIONE IN LOCAZIONE DI ALLOGGI DI EDILIZIA RESIDENZIALE PUBBLICA - BANDO PERIODO 26/04/2017 - 31/05/2017.</title>
-			<description>APPROVAZIONE GRADUATORIA DEFINITIVA PER L' ASSEGNAZIONE IN LOCAZIONE DI ALLOGGI DI EDILIZIA RESIDENZIALE PUBBLICA - BANDO PERIODO 26/04/2017 - 31/05/2017.</description>
 			<a10:updated>2017-08-07T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
