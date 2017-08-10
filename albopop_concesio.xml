@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 09 Aug 2017 18:30:35 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 10 Aug 2017 08:30:43 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Wed, 09 Aug 2017 18:30:35 +0200</pubDate>
+		<pubDate>Thu, 10 Aug 2017 08:30:43 +0200</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3447504</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3447504</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 09 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 24 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3447504</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>IMPEGNO DI SPESA A FAOVRE DELLA DITTA MARMI E GRANITI PER LA FORNITURA DI MARMI AL CIMITERO DI S.VIGILIO E DELLA PIEVE CIG Z6C1F9B2D4 </title>
+			<description>IMPEGNO DI SPESA A FAOVRE DELLA DITTA MARMI E GRANITI PER LA FORNITURA DI MARMI AL CIMITERO DI S.VIGILIO E DELLA PIEVE CIG Z6C1F9B2D4 </description>
+			<a10:updated>2017-08-09T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3447494</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3447494</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERA DI GIUNTA</category>
 			<title>ESAME ED APPROVAZIONE DEL DOCUMENTO " TAVOLO TECNICO DELLE POLITICHE AMBIENTALI"</title>
 			<description>ESAME ED APPROVAZIONE DEL DOCUMENTO " TAVOLO TECNICO DELLE POLITICHE AMBIENTALI"</description>
-			<a10:updated>2017-08-03T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3436194</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3436194</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 03 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 18 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3436194</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERA DI GIUNTA</category>
-			<title>APPROVAZIONE PROGETTO ESECUTIVO PER LAVORI DI RIQUALIFICAZIONE URBANISTICA - ABBATTIMENTO E SUPERAMENTO BARRIERE ARCHITETTONICHE - RIFACIMENTO E MODIFICA PLANO - ALTIMETRICA DEL MANTO STRADALE ED ELIMINAZIONE DELLE BARRIERE ARCHITETTONICHE DI PERCORSI CICLO - PEDONALI ( CUP D47H17000480004 - CIG 716467C03).</title>
-			<description>APPROVAZIONE PROGETTO ESECUTIVO PER LAVORI DI RIQUALIFICAZIONE URBANISTICA - ABBATTIMENTO E SUPERAMENTO BARRIERE ARCHITETTONICHE - RIFACIMENTO E MODIFICA PLANO - ALTIMETRICA DEL MANTO STRADALE ED ELIMINAZIONE DELLE BARRIERE ARCHITETTONICHE DI PERCORSI CICLO - PEDONALI ( CUP D47H17000480004 - CIG 716467C03).</description>
 			<a10:updated>2017-08-03T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
