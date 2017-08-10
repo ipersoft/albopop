@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 10 Aug 2017 16:31:57 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 10 Aug 2017 17:32:04 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Thu, 10 Aug 2017 16:31:57 +0200</pubDate>
+		<pubDate>Thu, 10 Aug 2017 17:32:04 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2917180</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2917180</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 10 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 18 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2917180</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE PUBBLICAZIONI MATRIMONIALI</category>
+			<title>PUBBLICAZIONE DI MATRIMONIO ZERLOTIN E MERLO</title>
+			<description>PUBBLICAZIONE DI MATRIMONIO ZERLOTIN E MERLO</description>
+			<a10:updated>2017-08-10T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2917017</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2917017</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>LIQUIDAZIONE FATTURA NR.32/PA DEL 26/5/2017 DITTA RE.T.I.C.E S.R.L. BADIA POLESINE (RO) C.F. E P.I. 00252160296 PER LAVORI EDILI DI MANUTENZIONE STRAORDINARIA PRESSO IL TEATRO SOCIALE. SMARTCIG N. Z741E5B10E.</title>
 			<description>LIQUIDAZIONE FATTURA NR.32/PA DEL 26/5/2017 DITTA RE.T.I.C.E S.R.L. BADIA POLESINE (RO) C.F. E P.I. 00252160296 PER LAVORI EDILI DI MANUTENZIONE STRAORDINARIA PRESSO IL TEATRO SOCIALE. SMARTCIG N. Z741E5B10E.</description>
-			<a10:updated>2017-08-09T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2914732</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2914732</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 09 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 24 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2914732</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>LIQUIDAZIONE E PAGAMENTO IMPRESA COM METODI SPA - MILANO PER SERVIZI RELATIVI ALLA GESTIONE INTEGRATA DELLA SALUTE E SICUREZZA SUI LUOGHI DI LAVORO, AI SENSI DELL'ART.26, L.488/1999 E DELL'ART.58, L.388/2000. LOTTO 2. PERIODO DI RIFERIMENTO 2017-2019 – PERIODO 10.01.2017-31.03.2017 </title>
-			<description>LIQUIDAZIONE E PAGAMENTO IMPRESA COM METODI SPA - MILANO PER SERVIZI RELATIVI ALLA GESTIONE INTEGRATA DELLA SALUTE E SICUREZZA SUI LUOGHI DI LAVORO, AI SENSI DELL'ART.26, L.488/1999 E DELL'ART.58, L.388/2000. LOTTO 2. PERIODO DI RIFERIMENTO 2017-2019 – PERIODO 10.01.2017-31.03.2017 </description>
 			<a10:updated>2017-08-09T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
