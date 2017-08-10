@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 10 Aug 2017 15:30:50 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 10 Aug 2017 16:31:10 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Thu, 10 Aug 2017 15:30:50 +0200</pubDate>
+		<pubDate>Thu, 10 Aug 2017 16:31:10 +0200</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -31,6 +31,17 @@
 			<title>VALORIZZAZIONE STORIA PADOVANA E REGIONALE: I PREMI BRUNACCI - MONSELICE</title>
 			<description>VALORIZZAZIONE STORIA PADOVANA E REGIONALE: I PREMI BRUNACCI - MONSELICE</description>
 			<a10:updated>2017-07-17T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3449939</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3449939</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 10 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 25 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3449939</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>CANONE DI SERVIZIO DI IGIENE URBANA, SPAZZAMENTO, DERATTIZZAZIONE, DISINFESTAZIONE, TRATTAMENTO-SMALTIMENTO RSU - VERITAS SPA – LIQUIDAZIONE RATA CONTRATTUALE IV° BIMESTRE 2017. </title>
+			<description>CANONE DI SERVIZIO DI IGIENE URBANA, SPAZZAMENTO, DERATTIZZAZIONE, DISINFESTAZIONE, TRATTAMENTO-SMALTIMENTO RSU - VERITAS SPA – LIQUIDAZIONE RATA CONTRATTUALE IV° BIMESTRE 2017. </description>
+			<a10:updated>2017-08-10T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3449371</guid>
@@ -284,17 +295,6 @@
 			<title>IMPEGNO E LIQUIDAZIONE CONTRIBUTI STATALI PER AUTONOMA SISTEMAZIONE A SOGGETTI COLPITI DAL TORNADO DELL’08.07.2015 – II° SEMESTRE 2016.</title>
 			<description>IMPEGNO E LIQUIDAZIONE CONTRIBUTI STATALI PER AUTONOMA SISTEMAZIONE A SOGGETTI COLPITI DAL TORNADO DELL’08.07.2015 – II° SEMESTRE 2016.</description>
 			<a10:updated>2017-08-09T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3444537</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3444537</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 08 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 23 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3444537</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>ACCERTAMENTO ENTRATE DERIVANTE DA CONVENZIONE CON COMUNE DI FIESSO D’ARTICO PER IL SERVIZIO IN FORMA ASSOCIATA DELLA SEGRETERIA COMUNALE PERIODO 01.7.2017 – 09.7.2017</title>
-			<description>ACCERTAMENTO ENTRATE DERIVANTE DA CONVENZIONE CON COMUNE DI FIESSO D’ARTICO PER IL SERVIZIO IN FORMA ASSOCIATA DELLA SEGRETERIA COMUNALE PERIODO 01.7.2017 – 09.7.2017</description>
-			<a10:updated>2017-08-08T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
