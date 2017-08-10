@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 10 Aug 2017 14:31:25 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 10 Aug 2017 15:30:55 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Thu, 10 Aug 2017 14:31:25 +0200</pubDate>
+		<pubDate>Thu, 10 Aug 2017 15:30:55 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/679059</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/679059</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 10 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 25 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">679059</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>CONVENZIONE PER LA GESTIONE DI PALESTRA SITA IN VIA LONDRA. RIMBORSO UTENZE ALLA SOCIETA’ SPORTIVA U.S. VICTORIA LIBERTAS PALLACANESTRO PESARO.</title>
+			<description>CONVENZIONE PER LA GESTIONE DI PALESTRA SITA IN VIA LONDRA. RIMBORSO UTENZE ALLA SOCIETA’ SPORTIVA U.S. VICTORIA LIBERTAS PALLACANESTRO PESARO.</description>
+			<a10:updated>2017-08-10T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/679055</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/679055</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
 			<title>VIA MONTEGRAPPA - SOSTA A PAGAMENTO DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI </title>
 			<description>VIA MONTEGRAPPA - SOSTA A PAGAMENTO DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI </description>
-			<a10:updated>2017-08-09T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/678626</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/678626</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 09 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 24 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">678626</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALBO PUBBLICAZIONI RICHIESTE DA SOGGETTI ESTERNI</category>
-			<title>ORDINANZA N. 39/2017 - ABROGAZIONE ORDINANZA N. 38/2017 E DIVIETO DI NAVIGAZIONE UNITA' DA DIPORTO, BALNEAZIONE, IMMERSIONE, PESCA AL FINE DI SALVAGUARDARE LA SICUREZZA NEL TRATTO DI MARE COMPRESO TRA LA SPIAGGIA DI FIORENZUOLA DI FOCARA E LA PROIEZIONE A MARE DEL RISTORANTE FALCO DI VALLUGOLA</title>
-			<description>ORDINANZA N. 39/2017 - ABROGAZIONE ORDINANZA N. 38/2017 E DIVIETO DI NAVIGAZIONE UNITA' DA DIPORTO, BALNEAZIONE, IMMERSIONE, PESCA AL FINE DI SALVAGUARDARE LA SICUREZZA NEL TRATTO DI MARE COMPRESO TRA LA SPIAGGIA DI FIORENZUOLA DI FOCARA E LA PROIEZIONE A MARE DEL RISTORANTE FALCO DI VALLUGOLA</description>
 			<a10:updated>2017-08-09T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
