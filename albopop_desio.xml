@@ -5,7 +5,7 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/igrid/1233682</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Desio</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 11 Aug 2017 12:30:47 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 11 Aug 2017 13:30:57 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Desio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Desio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_desio</a10:id>
-		<pubDate>Fri, 11 Aug 2017 12:30:47 +0200</pubDate>
+		<pubDate>Fri, 11 Aug 2017 13:30:57 +0200</pubDate>
 		<docs>http://albopop.it/comune/desio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3452070</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3452070</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 11 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 26 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3452070</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>APPROVAZIONE DI AVVISO DI RICEVIMENTO DI UNA PROPOSTA DI SPONSORIZZAZIONE TECNICA DELLA VILLA CUSANI TRAVERSI TITTONI E DEL SUO PARCO</title>
+			<description>APPROVAZIONE DI AVVISO DI RICEVIMENTO DI UNA PROPOSTA DI SPONSORIZZAZIONE TECNICA DELLA VILLA CUSANI TRAVERSI TITTONI E DEL SUO PARCO</description>
+			<a10:updated>2017-08-11T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3451773</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3451773</link>
@@ -228,17 +239,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>CONVENZIONE CON LE SCUOLE PER L'INFANZIA PARITARIE - IMPEGNO DI SPESA PER L'INCLUSIONE SCOLASTICA DEGLI ALUNNI DIVERSAMENTE ABILI - A.S. 2017/2018 - € 100.860,00</title>
 			<description>CONVENZIONE CON LE SCUOLE PER L'INFANZIA PARITARIE - IMPEGNO DI SPESA PER L'INCLUSIONE SCOLASTICA DEGLI ALUNNI DIVERSAMENTE ABILI - A.S. 2017/2018 - € 100.860,00</description>
-			<a10:updated>2017-08-04T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3439157</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3439157</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 04 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 19 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3439157</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>INTEGRAZIONE IMPEGNO DI SPESA DI EURO 60.000,00 PER LA CONCESSIONE DI VOUCHER SOCIALE PER L'EROGAZIONE DEL SERVIZIO DI ASSISTENZA DOMICILIARE PER ANZIANI E DISABILI MEDIANTE ACCREDITAMENTO DI SOGGETTI PROFIT E NON PROFIT - PERIODO 1 GENNAIO 2017-31 DICEMBRE 2017</title>
-			<description>INTEGRAZIONE IMPEGNO DI SPESA DI EURO 60.000,00 PER LA CONCESSIONE DI VOUCHER SOCIALE PER L'EROGAZIONE DEL SERVIZIO DI ASSISTENZA DOMICILIARE PER ANZIANI E DISABILI MEDIANTE ACCREDITAMENTO DI SOGGETTI PROFIT E NON PROFIT - PERIODO 1 GENNAIO 2017-31 DICEMBRE 2017</description>
 			<a10:updated>2017-08-04T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
