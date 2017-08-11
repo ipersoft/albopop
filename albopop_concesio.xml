@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 11 Aug 2017 08:30:39 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 11 Aug 2017 09:30:47 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Fri, 11 Aug 2017 08:30:39 +0200</pubDate>
+		<pubDate>Fri, 11 Aug 2017 09:30:47 +0200</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3450487</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3450487</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 11 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 26 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3450487</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DECRETO</category>
+			<title>CONCESSIONE DEL PATROCINIO GRATUITO ALLA SOCIETA' SPORTIVA GSO ORATORIO PAOLO VI PER LA PROMOZIONE DELL'ATTIVITA' SPORTIVA DI PALLAVOLO SUL TERRITORIO COMUNALE PER L'ANNO 2017/2018. </title>
+			<description>CONCESSIONE DEL PATROCINIO GRATUITO ALLA SOCIETA' SPORTIVA GSO ORATORIO PAOLO VI PER LA PROMOZIONE DELL'ATTIVITA' SPORTIVA DI PALLAVOLO SUL TERRITORIO COMUNALE PER L'ANNO 2017/2018. </description>
+			<a10:updated>2017-08-11T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3448618</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3448618</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERA DI GIUNTA</category>
 			<title>VARIAZIONE DI CASSA AL BILANCIO DI PREVISIONE 2017-2019.</title>
 			<description>VARIAZIONE DI CASSA AL BILANCIO DI PREVISIONE 2017-2019.</description>
-			<a10:updated>2017-08-03T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3436198</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3436198</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 03 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 18 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3436198</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERA DI GIUNTA</category>
-			<title>MODIFICA PARZIALE ALLO SCHEMA DI ACCORDO DI COLLABORAZIONE TRA IL COMUNE DI CONCESIO E LA PROVINCIA DI BRESCIA PER LA MANUTENZIONE DELLA STRADA SPBS345 DELLE TRE VALLI, DALLA PROGRESSIVA CHILOMETRICA 1+368 ALLA PROGRESSIVA 5+747 LATO SINISTRO E 5+763 LATO DESTRO GIA' APPROVATO CON DELIBERAZIONE DI GIUNTA COMUNALE N.91 DEL 06/07/2017</title>
-			<description>MODIFICA PARZIALE ALLO SCHEMA DI ACCORDO DI COLLABORAZIONE TRA IL COMUNE DI CONCESIO E LA PROVINCIA DI BRESCIA PER LA MANUTENZIONE DELLA STRADA SPBS345 DELLE TRE VALLI, DALLA PROGRESSIVA CHILOMETRICA 1+368 ALLA PROGRESSIVA 5+747 LATO SINISTRO E 5+763 LATO DESTRO GIA' APPROVATO CON DELIBERAZIONE DI GIUNTA COMUNALE N.91 DEL 06/07/2017</description>
 			<a10:updated>2017-08-03T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

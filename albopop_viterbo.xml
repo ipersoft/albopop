@@ -5,7 +5,7 @@
 		<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Viterbo</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 11 Aug 2017 08:30:51 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 11 Aug 2017 09:31:06 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Viterbo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Viterbo</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Viterbo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_viterbo</a10:id>
-		<pubDate>Fri, 11 Aug 2017 08:30:51 +0200</pubDate>
+		<pubDate>Fri, 11 Aug 2017 09:31:06 +0200</pubDate>
 		<docs>http://albopop.it/comune/viterbo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3450655</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3450655</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 11 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 12 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3450655</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI </category>
+			<title>AVVISO DI DEPOSITO ATTI - SOGET</title>
+			<description>AVVISO DI DEPOSITO ATTI - SOGET</description>
+			<a10:updated>2017-08-11T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3450653</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3450653</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 11 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 12 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3450653</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI </category>
+			<title>AVVISO DI DEPOSITO ATTI - SOGET</title>
+			<description>AVVISO DI DEPOSITO ATTI - SOGET</description>
+			<a10:updated>2017-08-11T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3450109</guid>
 			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3450109</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
 			<title>LAVORI DI PRONTO INTERVENTO PER I LAVORI DI SPICCONATURA DEI MANUFATTI IN C.A. CHE SOVRASTANO LA TANGENZIALE G. ALMIRANTE - AFFIDAMENTO DITTA EDILNOLO SOC. COOP. VIA MARIA S.S. LIBERATRICE N. 2 - 01100 VITERBO (VT) - CIG Z671F6D02B</title>
 			<description>LAVORI DI PRONTO INTERVENTO PER I LAVORI DI SPICCONATURA DEI MANUFATTI IN C.A. CHE SOVRASTANO LA TANGENZIALE G. ALMIRANTE - AFFIDAMENTO DITTA EDILNOLO SOC. COOP. VIA MARIA S.S. LIBERATRICE N. 2 - 01100 VITERBO (VT) - CIG Z671F6D02B</description>
-			<a10:updated>2017-08-10T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3448525</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3448525</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 10 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 25 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3448525</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONI SENZA IMPEGNO DI SPESA</category>
-			<title>CONGEDO STRAORDINARIO AI SENSI DELL'ART. 42 COMMA 5 DEL D.LGS. 151/2001</title>
-			<description>CONGEDO STRAORDINARIO AI SENSI DELL'ART. 42 COMMA 5 DEL D.LGS. 151/2001</description>
-			<a10:updated>2017-08-10T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3448523</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3448523</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 10 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 25 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3448523</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONI SENZA IMPEGNO DI SPESA</category>
-			<title>SOC. MARVIT SRL -RATEIZZAZIONE AVVISO IMU ANNO 2012</title>
-			<description>SOC. MARVIT SRL -RATEIZZAZIONE AVVISO IMU ANNO 2012</description>
 			<a10:updated>2017-08-10T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
