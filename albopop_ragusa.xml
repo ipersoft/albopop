@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 11 Aug 2017 10:32:17 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 11 Aug 2017 11:32:01 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Fri, 11 Aug 2017 10:32:17 +0200</pubDate>
+		<pubDate>Fri, 11 Aug 2017 11:32:01 +0200</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2918131</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2918131</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 11 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 26 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2918131</category>
+			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI GIUNTA</category>
+			<title>DELIBERA DI GIUNTA MUNICIPALE N.358 - ACCETTAZIONE CESSIONE IN COMODATO D'USO GRATUITO VENTENNALE PER LA REALIZZAZIONE DI UN SERVIZIO IGIENICO AUTOPULENTE DA INSTALLARE NELL'AREA DI MQ 50 RICADENTE NEI PRESSI DEL CASTELLO DI DONNAFUGATA DA STACCARSI SULLA MAGGIORE ESTENSIONE DELLA PARTICELLA N.285 DEL FOGLIO DI MAPPA N.108</title>
+			<description>DELIBERA DI GIUNTA MUNICIPALE N.358 - ACCETTAZIONE CESSIONE IN COMODATO D'USO GRATUITO VENTENNALE PER LA REALIZZAZIONE DI UN SERVIZIO IGIENICO AUTOPULENTE DA INSTALLARE NELL'AREA DI MQ 50 RICADENTE NEI PRESSI DEL CASTELLO DI DONNAFUGATA DA STACCARSI SULLA MAGGIORE ESTENSIONE DELLA PARTICELLA N.285 DEL FOGLIO DI MAPPA N.108</description>
+			<a10:updated>2017-08-11T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2917821</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2917821</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
 			<title>LAVORI DI "AMPLIAMENTO DEL CAMPO SPORTIVO GADDIMELI A MARINA DI RAGUSA” - APPROVAZIONE QUADRO ECONOMICO AL NETTO DEL RIBASSO D’ASTA ED IMPEGNO SPESA. - CIG 6916032A25. </title>
 			<description>LAVORI DI "AMPLIAMENTO DEL CAMPO SPORTIVO GADDIMELI A MARINA DI RAGUSA” - APPROVAZIONE QUADRO ECONOMICO AL NETTO DEL RIBASSO D’ASTA ED IMPEGNO SPESA. - CIG 6916032A25. </description>
-			<a10:updated>2017-08-10T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2917187</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2917187</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 10 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 17 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2917187</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
-			<title>ISTITUZIONE FONDO DI € 3.050,00 PER SPESE VARIE E MINUTE PER IL CASTELLO DI DONNAFUGATA. CIG. ZD51F8E1DB </title>
-			<description>ISTITUZIONE FONDO DI € 3.050,00 PER SPESE VARIE E MINUTE PER IL CASTELLO DI DONNAFUGATA. CIG. ZD51F8E1DB </description>
 			<a10:updated>2017-08-10T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
