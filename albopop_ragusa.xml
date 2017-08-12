@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 11 Aug 2017 18:31:44 +0200</lastBuildDate>
+		<lastBuildDate>Sat, 12 Aug 2017 08:31:38 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Fri, 11 Aug 2017 18:31:44 +0200</pubDate>
+		<pubDate>Sat, 12 Aug 2017 08:31:38 +0200</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -63,17 +63,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">AVVISO AVVISO PUBBLICO</category>
 			<title>AVVISO PUBBLICO - MANIFESTAZIONE DI INTERESSE PER LA NOMINA DEL COLLEGIO DEI REVISORI DEI CONTI DEL LIBERO CONSORZIO COMUNALE PER IL TRIENNIO 2017/2020</title>
 			<description>AVVISO PUBBLICO - MANIFESTAZIONE DI INTERESSE PER LA NOMINA DEL COLLEGIO DEI REVISORI DEI CONTI DEL LIBERO CONSORZIO COMUNALE PER IL TRIENNIO 2017/2020</description>
-			<a10:updated>2017-08-11T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2918468</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2918468</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 11 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 11 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2918468</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI GIUNTA</category>
-			<title>[annullato] DELIBVERAZIONE DI GIUNTA MUNICIPALE N.358 - ACCETTAZIONE CESSIONE AREA IN COMODATO D'USO GRATUITO VENTENNALE PER LA REALIZZAZIONE DI UN SERVIZIO IGIENICO AUTOPULENTE DA INSTALLARE NELL'AREA DI MQ 50 RICADENTE NEI PRESSI DELCASTELLO DI DONNAFUGATA DA STACCARSI SULLA MAGGIORE ESTENSIONE DELLA PARTICELLA N.285 DEL FOGLIO DI MAPPA N.108</title>
-			<description>[annullato] DELIBVERAZIONE DI GIUNTA MUNICIPALE N.358 - ACCETTAZIONE CESSIONE AREA IN COMODATO D'USO GRATUITO VENTENNALE PER LA REALIZZAZIONE DI UN SERVIZIO IGIENICO AUTOPULENTE DA INSTALLARE NELL'AREA DI MQ 50 RICADENTE NEI PRESSI DELCASTELLO DI DONNAFUGATA DA STACCARSI SULLA MAGGIORE ESTENSIONE DELLA PARTICELLA N.285 DEL FOGLIO DI MAPPA N.108</description>
 			<a10:updated>2017-08-11T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
@@ -294,6 +283,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
 			<title>AFFIDAMENTO ALLA DITTA GALFO ANTONINO PER RIPARAZIONI DEI MEZZI OPERATIVI DELLA PROTEZIONE CIVILE COMUNALE.</title>
 			<description>AFFIDAMENTO ALLA DITTA GALFO ANTONINO PER RIPARAZIONI DEI MEZZI OPERATIVI DELLA PROTEZIONE CIVILE COMUNALE.</description>
+			<a10:updated>2017-08-10T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2917228</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2917228</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 10 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 17 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2917228</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
+			<title>FORNITURA PASTI PER IL PERSONALE DEI VV.F. AFFIDAMENTO DITTA RISTORANTE L'ABBUFFATA C7DA GADDIMELI - RAGUSA CIG, ZC51F99EB2</title>
+			<description>FORNITURA PASTI PER IL PERSONALE DEI VV.F. AFFIDAMENTO DITTA RISTORANTE L'ABBUFFATA C7DA GADDIMELI - RAGUSA CIG, ZC51F99EB2</description>
 			<a10:updated>2017-08-10T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
