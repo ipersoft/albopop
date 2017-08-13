@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 12 Aug 2017 18:31:56 +0200</lastBuildDate>
+		<lastBuildDate>Sun, 13 Aug 2017 08:31:26 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Sat, 12 Aug 2017 18:31:56 +0200</pubDate>
+		<pubDate>Sun, 13 Aug 2017 08:31:26 +0200</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -74,17 +74,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">PROVVEDIMENTO SUAP PROVVEDIMENTO AUTORIZZATIVO UNICO</category>
 			<title>PROVVEDIMENTO SUAP N.53 BRACCHITTA G. &amp; C. SNC</title>
 			<description>PROVVEDIMENTO SUAP N.53 BRACCHITTA G. &amp; C. SNC</description>
-			<a10:updated>2017-08-11T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2918365</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2918365</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 11 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 12 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2918365</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISO CARTELLE ESATTORIALI ART. 140</category>
-			<title>PUBBLICAZIONE ART. 140 A CARICO DI IBLEA S.O.S. ASS. VOLONTARI PER IL SOCCORSO/GULINO GIUSEPPE</title>
-			<description>PUBBLICAZIONE ART. 140 A CARICO DI IBLEA S.O.S. ASS. VOLONTARI PER IL SOCCORSO/GULINO GIUSEPPE</description>
 			<a10:updated>2017-08-11T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
@@ -294,6 +283,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
 			<title>FORNITURA PASTI PER IL PERSONALE DEI VV.F. AFFIDAMENTO DITTA RISTORANTE L'ABBUFFATA C7DA GADDIMELI - RAGUSA CIG, ZC51F99EB2</title>
 			<description>FORNITURA PASTI PER IL PERSONALE DEI VV.F. AFFIDAMENTO DITTA RISTORANTE L'ABBUFFATA C7DA GADDIMELI - RAGUSA CIG, ZC51F99EB2</description>
+			<a10:updated>2017-08-10T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2917199</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2917199</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 10 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 17 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2917199</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
+			<title>IMPEGNO SPESA PER ACQUISTO CARBURANTE PER I MEZZI DI PROTEZIONE CIVILE</title>
+			<description>IMPEGNO SPESA PER ACQUISTO CARBURANTE PER I MEZZI DI PROTEZIONE CIVILE</description>
 			<a10:updated>2017-08-10T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
