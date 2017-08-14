@@ -5,7 +5,7 @@
 		<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rometta</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 14 Aug 2017 09:30:46 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 14 Aug 2017 10:31:04 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rometta</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Messina</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rometta</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rometta</a10:id>
-		<pubDate>Mon, 14 Aug 2017 09:30:46 +0200</pubDate>
+		<pubDate>Mon, 14 Aug 2017 10:31:04 +0200</pubDate>
 		<docs>http://albopop.it/comune/rometta/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3453131</guid>
+			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3453131</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 14 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 29 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3453131</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
+			<title>AUTORIZZAZIONE ALL’UTILIZZAZIONE PER ULTERIORI MESI DUE DEL RAG. GIUSEPPE PINO DA PARTE DEL COMUNE DI VENETICO (ME) AI SENSI DELL’ART. 1 COMMA 557 LEGGE 311/2004 </title>
+			<description>AUTORIZZAZIONE ALL’UTILIZZAZIONE PER ULTERIORI MESI DUE DEL RAG. GIUSEPPE PINO DA PARTE DEL COMUNE DI VENETICO (ME) AI SENSI DELL’ART. 1 COMMA 557 LEGGE 311/2004 </description>
+			<a10:updated>2017-08-14T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3451785</guid>
 			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3451785</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>REVOCA AFFIDAMENTO SERVIZIO CON DETERMINA N. 500 DEL 11.07.2017 - NUOVO AFFIDAMENTO SERVIZIO PER PERSONALIZZAZIONE AUTOMEZZI COMUNALI DACIA DOKKER VAN E FIAT PANDA - </title>
 			<description>REVOCA AFFIDAMENTO SERVIZIO CON DETERMINA N. 500 DEL 11.07.2017 - NUOVO AFFIDAMENTO SERVIZIO PER PERSONALIZZAZIONE AUTOMEZZI COMUNALI DACIA DOKKER VAN E FIAT PANDA - </description>
-			<a10:updated>2017-08-09T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3446581</guid>
-			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3446581</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 09 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 24 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3446581</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>SERVIZIO DI DEBLATTIZZAZIONE, DERATTIZZAZIONE E DISINFESTAZIONE DEL TERRITORIO COMUNALE -TRATTATIVA DIRETTA SU MEPA DI CONSIP - IMPEGNO SPESA E AGGIUDICAZIONE DEFINITIVA - CIG: ZE31F876D6</title>
-			<description>SERVIZIO DI DEBLATTIZZAZIONE, DERATTIZZAZIONE E DISINFESTAZIONE DEL TERRITORIO COMUNALE -TRATTATIVA DIRETTA SU MEPA DI CONSIP - IMPEGNO SPESA E AGGIUDICAZIONE DEFINITIVA - CIG: ZE31F876D6</description>
 			<a10:updated>2017-08-09T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

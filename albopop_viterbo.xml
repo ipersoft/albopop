@@ -5,7 +5,7 @@
 		<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Viterbo</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 14 Aug 2017 09:30:37 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 14 Aug 2017 10:30:55 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Viterbo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Viterbo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Viterbo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_viterbo</a10:id>
-		<pubDate>Mon, 14 Aug 2017 09:30:37 +0200</pubDate>
+		<pubDate>Mon, 14 Aug 2017 10:30:55 +0200</pubDate>
 		<docs>http://albopop.it/comune/viterbo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3453148</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3453148</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 14 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 29 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3453148</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE ORDINANZA DIRIGENZIALE</category>
+			<title>MATRIMONIO- CHIESA DI S. ANDREA</title>
+			<description>MATRIMONIO- CHIESA DI S. ANDREA</description>
+			<a10:updated>2017-08-14T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3452396</guid>
 			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3452396</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
 			<title>CONTRIBUTO IFEL - ART. 10, COMMA 5, D.LGS. N. 504/92 - IMPEGNO DI SPESA</title>
 			<description>CONTRIBUTO IFEL - ART. 10, COMMA 5, D.LGS. N. 504/92 - IMPEGNO DI SPESA</description>
-			<a10:updated>2017-08-11T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3450760</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3450760</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 11 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 26 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3450760</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
-			<title>AFFIDAMENTO INCARICO DITTA ECONET SRL PER RIFIUTI SPECIALI CIG Z3E1F8EA2E</title>
-			<description>AFFIDAMENTO INCARICO DITTA ECONET SRL PER RIFIUTI SPECIALI CIG Z3E1F8EA2E</description>
 			<a10:updated>2017-08-11T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
