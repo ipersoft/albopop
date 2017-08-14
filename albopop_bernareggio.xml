@@ -5,7 +5,7 @@
 		<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bernareggio</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 14 Aug 2017 13:30:41 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 14 Aug 2017 14:30:40 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bernareggio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bernareggio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bernareggio</a10:id>
-		<pubDate>Mon, 14 Aug 2017 13:30:41 +0200</pubDate>
+		<pubDate>Mon, 14 Aug 2017 14:30:40 +0200</pubDate>
 		<docs>http://albopop.it/comune/bernareggio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3453357</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3453357</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 14 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 29 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3453357</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO</category>
+			<title> DELIBERE ASSEMBLEA GENERALE - RICHIESTA PUBBLICAZIONE</title>
+			<description> DELIBERE ASSEMBLEA GENERALE - RICHIESTA PUBBLICAZIONE</description>
+			<a10:updated>2017-08-14T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3452380</guid>
 			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3452380</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>CIG Z1C1F8948A - CUP F67B16000280004 - AFFIDAMENTO LAVORI DI MIGLIORIA PER REALIZZAZIONE NUOVO AUDITORIUM II° LOTTO, VIA PERTINI 46 </title>
 			<description>CIG Z1C1F8948A - CUP F67B16000280004 - AFFIDAMENTO LAVORI DI MIGLIORIA PER REALIZZAZIONE NUOVO AUDITORIUM II° LOTTO, VIA PERTINI 46 </description>
-			<a10:updated>2017-08-04T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3437731</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3437731</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 04 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 19 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3437731</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>VERSAMENTO CONTRIBUTI ALLA PROVINCIA DI MONZA E BRIANZA PER ISTRUTTORIA PRATICA DI AUTORIZZAZIONE ALL’ESCAVAZIONE E CONCESSIONE RELATIVA AD UN POZZO AD USO INNAFFIAMENTO AREE VERDI E SPORTIVE PRESSO IL C.T.L.3 A BERNAREGGIO.</title>
-			<description>VERSAMENTO CONTRIBUTI ALLA PROVINCIA DI MONZA E BRIANZA PER ISTRUTTORIA PRATICA DI AUTORIZZAZIONE ALL’ESCAVAZIONE E CONCESSIONE RELATIVA AD UN POZZO AD USO INNAFFIAMENTO AREE VERDI E SPORTIVE PRESSO IL C.T.L.3 A BERNAREGGIO.</description>
 			<a10:updated>2017-08-04T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
