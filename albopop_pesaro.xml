@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 16 Aug 2017 09:30:44 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 16 Aug 2017 10:30:53 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Wed, 16 Aug 2017 09:30:44 +0200</pubDate>
+		<pubDate>Wed, 16 Aug 2017 10:30:53 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/679776</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/679776</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 16 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 31 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">679776</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>ACQUISTO DI LIBRI PER IL COMANDO DI POLIZIA MUNICIPALE</title>
+			<description>ACQUISTO DI LIBRI PER IL COMANDO DI POLIZIA MUNICIPALE</description>
+			<a10:updated>2017-08-16T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/679764</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/679764</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO RICHIESTA PUBBLICAZIONE MATRIMONIO ALBO</category>
 			<title>PUBBLICAZIONE DI MATRIMONIO DI CASTELLUCCI MARCO E DAMIANI ROBERTA</title>
 			<description>PUBBLICAZIONE DI MATRIMONIO DI CASTELLUCCI MARCO E DAMIANI ROBERTA</description>
-			<a10:updated>2017-08-11T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/679393</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/679393</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 11 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 26 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">679393</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>LAVORI DI STRAORDINARIA MANUTENZIONE SEDE DEL CAMPO DA CALCIO IN SINTETICO DI MURAGLIA E RELATIVA ILLUMINAZIONE. AFFIDAMENTO LAVORI ALLE DITTE OLIMPIA COSTRUZIONI S.R.L. DI FORLI’ E ZOLFANELLI IMPIANTI S.R.L. DI PESARO. </title>
-			<description>LAVORI DI STRAORDINARIA MANUTENZIONE SEDE DEL CAMPO DA CALCIO IN SINTETICO DI MURAGLIA E RELATIVA ILLUMINAZIONE. AFFIDAMENTO LAVORI ALLE DITTE OLIMPIA COSTRUZIONI S.R.L. DI FORLI’ E ZOLFANELLI IMPIANTI S.R.L. DI PESARO. </description>
 			<a10:updated>2017-08-11T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
