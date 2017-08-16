@@ -5,7 +5,7 @@
 		<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Sgurgola</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 16 Aug 2017 08:30:44 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 16 Aug 2017 09:30:48 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Sgurgola</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Frosinone</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Sgurgola</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_sgurgola</a10:id>
-		<pubDate>Wed, 16 Aug 2017 08:30:44 +0200</pubDate>
+		<pubDate>Wed, 16 Aug 2017 09:30:48 +0200</pubDate>
 		<docs>http://albopop.it/comune/sgurgola/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2919730</guid>
+			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2919730</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 16 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 31 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2919730</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DELIBERE DI GIUNTA</category>
+			<title>VERBALE N. 42 DEL 27.06.2017 SERVIZIO DI ASSISTENZA SPECIALISTICA SCUOLA INFANZIA, SCUOLA PRIMARIA E SCUOLA SECONDARIA 1° GRADO. DIRETTIVE AL RESPONSABILE DEL SERVIZIO.</title>
+			<description>VERBALE N. 42 DEL 27.06.2017 SERVIZIO DI ASSISTENZA SPECIALISTICA SCUOLA INFANZIA, SCUOLA PRIMARIA E SCUOLA SECONDARIA 1° GRADO. DIRETTIVE AL RESPONSABILE DEL SERVIZIO.</description>
+			<a10:updated>2017-08-16T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2919609</guid>
 			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2919609</link>
@@ -284,17 +295,6 @@
 			<title>VERBALE N. 27 DEL 18-05-2017 - APPROVAZIONE PIANO ESECUTIVO DI GESTIONE, PIANO DEGLI OBIETTIVI E DEI CORRELATI INDICATORI E DELLA PERFORMANCE 2017/2019</title>
 			<description>VERBALE N. 27 DEL 18-05-2017 - APPROVAZIONE PIANO ESECUTIVO DI GESTIONE, PIANO DEGLI OBIETTIVI E DEI CORRELATI INDICATORI E DELLA PERFORMANCE 2017/2019</description>
 			<a10:updated>2017-08-04T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2907395</guid>
-			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2907395</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 03 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 18 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2907395</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI PUBBLICI AVVISO PUBBLICO</category>
-			<title>AVVISO ATTIVAZIONE INTERVENTI SOCIO-ASSISTENZIALI IN FAVORE DI PERSONE CON DISABILITÀ GRAVISSIME</title>
-			<description>AVVISO ATTIVAZIONE INTERVENTI SOCIO-ASSISTENZIALI IN FAVORE DI PERSONE CON DISABILITÀ GRAVISSIME</description>
-			<a10:updated>2017-08-03T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
