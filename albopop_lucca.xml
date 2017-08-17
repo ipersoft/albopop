@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 17 Aug 2017 14:31:15 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 17 Aug 2017 15:31:21 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Thu, 17 Aug 2017 14:31:15 +0200</pubDate>
+		<pubDate>Thu, 17 Aug 2017 15:31:21 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3455655</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3455655</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 17 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 08 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3455655</category>
+			<category domain="http://albopop.it/specs#item-category-type">OGGETTI SMARRITI</category>
+			<title>DENUNCIA DI SMARRIMENTO DI BICICLETTA - PRATICA N. 2343 DEL 17/08/2017.</title>
+			<description>DENUNCIA DI SMARRIMENTO DI BICICLETTA - PRATICA N. 2343 DEL 17/08/2017.</description>
+			<a10:updated>2017-08-17T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3455654</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3455654</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 17 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 08 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3455654</category>
+			<category domain="http://albopop.it/specs#item-category-type">OGGETTI SMARRITI</category>
+			<title>DENUNCIA DI SMARRIMENTO DI BICICLETTA - PRATICA N. 2342 DEL 17/08/2017.</title>
+			<description>DENUNCIA DI SMARRIMENTO DI BICICLETTA - PRATICA N. 2342 DEL 17/08/2017.</description>
+			<a10:updated>2017-08-17T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3455653</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3455653</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 17 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 08 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3455653</category>
+			<category domain="http://albopop.it/specs#item-category-type">OGGETTI SMARRITI</category>
+			<title>DENUNCIA DI SMARRIMENTO DI BICICLETTA - PRATICA N. 2341 DEL 17/08/2017.</title>
+			<description>DENUNCIA DI SMARRIMENTO DI BICICLETTA - PRATICA N. 2341 DEL 17/08/2017.</description>
+			<a10:updated>2017-08-17T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3455592</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3455592</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
 			<title>PIAZZA CADUTI NEI LAGER E VIA AMENDOLA, FRAZIONE S.ANNA, MODIFICHE TEMPORANEE ALLA SOSTA ED ALLA CIRCOLAZIONE STRADALE DAL GIORNO 28/08/2017 AL GIORNO 9 SETTEMBRE 2017.</title>
 			<description>PIAZZA CADUTI NEI LAGER E VIA AMENDOLA, FRAZIONE S.ANNA, MODIFICHE TEMPORANEE ALLA SOSTA ED ALLA CIRCOLAZIONE STRADALE DAL GIORNO 28/08/2017 AL GIORNO 9 SETTEMBRE 2017.</description>
-			<a10:updated>2017-08-14T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3453127</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3453127</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 14 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 29 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3453127</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>PROROGA ORDINANZA N. 1310 DEL 31/07/2017 VIA DEL PARCO, FRAZIONE DI S.PANCRAZIO, MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE STRADALE E PEDONALE, FINO AL 25/08/2017 DALLE ORE 8,00 ALLE ORE 18,00.</title>
-			<description>PROROGA ORDINANZA N. 1310 DEL 31/07/2017 VIA DEL PARCO, FRAZIONE DI S.PANCRAZIO, MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE STRADALE E PEDONALE, FINO AL 25/08/2017 DALLE ORE 8,00 ALLE ORE 18,00.</description>
-			<a10:updated>2017-08-14T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3453125</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3453125</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 14 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 29 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3453125</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>VIA BORGO GIANNOTTI, PIAZZA DELLA CROCE, VIABILITA' A MARGINE DI PIAZZALE DON BARONI, PARCHEGGIO VIA GALILEO GALILEI E VIABILITÀ LIMITROFE - MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE E ALLA SOSTA PER LE OPERAZIONI DI SEGNATURA A TERRA DEGLI SPAZI PER LA FIERA DEL SETTEMBRE LUCCHESE 2017 - PERIODO 20 E 21 AGOSTO 2017.</title>
-			<description>VIA BORGO GIANNOTTI, PIAZZA DELLA CROCE, VIABILITA' A MARGINE DI PIAZZALE DON BARONI, PARCHEGGIO VIA GALILEO GALILEI E VIABILITÀ LIMITROFE - MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE E ALLA SOSTA PER LE OPERAZIONI DI SEGNATURA A TERRA DEGLI SPAZI PER LA FIERA DEL SETTEMBRE LUCCHESE 2017 - PERIODO 20 E 21 AGOSTO 2017.</description>
-			<a10:updated>2017-08-14T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3453123</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3453123</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 14 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 29 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3453123</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>VIA OBERDAN, FRAZIONE S.CONCORDIO IN C/A, MODIFICHE TEMPOTRANEE ALLA CIRCOLAZIONE STRADALE, PER IL 14/08/2017 DALLE ORE 10,00 ALLE ORE 12,00.</title>
-			<description>VIA OBERDAN, FRAZIONE S.CONCORDIO IN C/A, MODIFICHE TEMPOTRANEE ALLA CIRCOLAZIONE STRADALE, PER IL 14/08/2017 DALLE ORE 10,00 ALLE ORE 12,00.</description>
 			<a10:updated>2017-08-14T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
