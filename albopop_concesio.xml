@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 17 Aug 2017 12:30:39 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 17 Aug 2017 13:30:38 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Thu, 17 Aug 2017 12:30:39 +0200</pubDate>
+		<pubDate>Thu, 17 Aug 2017 13:30:38 +0200</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3455426</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3455426</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 17 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 01 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3455426</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>AUTORIZZAZIONE AL PERSONALE DIPENDENTE AD ESPLETARE LAVORO STRAORDINARIO PER IL REFERENDUM DEL 22.10.2017</title>
+			<description>AUTORIZZAZIONE AL PERSONALE DIPENDENTE AD ESPLETARE LAVORO STRAORDINARIO PER IL REFERENDUM DEL 22.10.2017</description>
+			<a10:updated>2017-08-17T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3455265</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3455265</link>
@@ -284,17 +295,6 @@
 			<title>ISTITUZIONE TEMPORANEA SENSO UNICO ALTERNATO IN VIA MAZZINI DALL'INTERSEZIONE CON VIA BERLINGUER AL PONTE SUL FIUME MELLA. PROROGA</title>
 			<description>ISTITUZIONE TEMPORANEA SENSO UNICO ALTERNATO IN VIA MAZZINI DALL'INTERSEZIONE CON VIA BERLINGUER AL PONTE SUL FIUME MELLA. PROROGA</description>
 			<a10:updated>2017-08-07T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3439266</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3439266</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 04 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 19 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3439266</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA SINDACALE</category>
-			<title>DISCIPLINA DEGLI ORARI DI APERTURA DEI PARCHI URBANI E DEI GIARDINI PUBBLICI</title>
-			<description>DISCIPLINA DEGLI ORARI DI APERTURA DEI PARCHI URBANI E DEI GIARDINI PUBBLICI</description>
-			<a10:updated>2017-08-04T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>

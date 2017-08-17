@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 17 Aug 2017 12:31:18 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 17 Aug 2017 13:30:44 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Thu, 17 Aug 2017 12:31:18 +0200</pubDate>
+		<pubDate>Thu, 17 Aug 2017 13:30:44 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/680091</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/680091</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 17 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 01 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">680091</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>FORMAT DENOMINATO "CANDELE SOTTO LE STELLE"- IMPEGNI DI SPESA</title>
+			<description>FORMAT DENOMINATO "CANDELE SOTTO LE STELLE"- IMPEGNI DI SPESA</description>
+			<a10:updated>2017-08-17T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/680083</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/680083</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 17 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 01 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">680083</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>4^ EDIZIONE DELLA MANIFESTAZIONE "COME ON ON '50/'60- FESTIVAL DEL VINTAGE. IMPEGNO DI SPESA</title>
+			<description>4^ EDIZIONE DELLA MANIFESTAZIONE "COME ON ON '50/'60- FESTIVAL DEL VINTAGE. IMPEGNO DI SPESA</description>
+			<a10:updated>2017-08-17T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/680031</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/680031</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>RETTIFICA DETERMINAZIONE DI SPESA N. 1421 DEL 9.6.2017: DITTA GEOSERVICE S.R.L. - FORNITURA ENTERPRISE LICENSE AGREEMENT DENOMINATA "SMALL ELA"</title>
 			<description>RETTIFICA DETERMINAZIONE DI SPESA N. 1421 DEL 9.6.2017: DITTA GEOSERVICE S.R.L. - FORNITURA ENTERPRISE LICENSE AGREEMENT DENOMINATA "SMALL ELA"</description>
-			<a10:updated>2017-08-14T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/679691</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/679691</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 14 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 29 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">679691</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>RETTIFICA DETERMINAZIONE N. 1962 DEL 28/07/2017. ACQUISTO LICENZA SOFTWARE PER LA REDAZIONE DEL BILANCIO CONSOLIDATO DEL COMUNE DI PESARO E DI ASPES SPA PER L’ESERCIZIO 2016</title>
-			<description>RETTIFICA DETERMINAZIONE N. 1962 DEL 28/07/2017. ACQUISTO LICENZA SOFTWARE PER LA REDAZIONE DEL BILANCIO CONSOLIDATO DEL COMUNE DI PESARO E DI ASPES SPA PER L’ESERCIZIO 2016</description>
-			<a10:updated>2017-08-14T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/679686</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/679686</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 14 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 29 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">679686</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>DITTA SORMANI S.R.L.: ASSUNZIONE IMPEGNO DI SPESA PER LA FORNITURA DI LICENZE SOFTWARE DA DESTINARE ALLE ESIGENZE DELL'U.O. SISTEMI INFORMATIVI - MERCATO CONSIP S.P.A.</title>
-			<description>DITTA SORMANI S.R.L.: ASSUNZIONE IMPEGNO DI SPESA PER LA FORNITURA DI LICENZE SOFTWARE DA DESTINARE ALLE ESIGENZE DELL'U.O. SISTEMI INFORMATIVI - MERCATO CONSIP S.P.A.</description>
 			<a10:updated>2017-08-14T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
