@@ -5,7 +5,7 @@
 		<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rometta</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 17 Aug 2017 13:31:17 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 17 Aug 2017 14:31:17 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rometta</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Messina</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rometta</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rometta</a10:id>
-		<pubDate>Thu, 17 Aug 2017 13:31:17 +0200</pubDate>
+		<pubDate>Thu, 17 Aug 2017 14:31:17 +0200</pubDate>
 		<docs>http://albopop.it/comune/rometta/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3455543</guid>
+			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3455543</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 17 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 01 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3455543</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
+			<title>LAVORI DI MANUTENZIONE STRAORDINARIA DELLA STRADA COMUNALE CIRASÀ - SAN LEONE DEL COMUNE DI ROMETTA - (CIG: 634979616D) – (CUP: C57H09000880001) – RIMODULAZIONE QUADRO ECONOMICO</title>
+			<description>LAVORI DI MANUTENZIONE STRAORDINARIA DELLA STRADA COMUNALE CIRASÀ - SAN LEONE DEL COMUNE DI ROMETTA - (CIG: 634979616D) – (CUP: C57H09000880001) – RIMODULAZIONE QUADRO ECONOMICO</description>
+			<a10:updated>2017-08-17T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3454945</guid>
 			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3454945</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>LAVORI DI “RISTRUTTURAZIONE DELLA VILLA COMUNALE IN ROMETTA MAREA” – CIG 69346931B3 - APPROVAZIONE STATO FINALE, CERTIFICATO REGOLARE ESECUZIONE E LIQUIDAZIONE FINALE</title>
 			<description>LAVORI DI “RISTRUTTURAZIONE DELLA VILLA COMUNALE IN ROMETTA MAREA” – CIG 69346931B3 - APPROVAZIONE STATO FINALE, CERTIFICATO REGOLARE ESECUZIONE E LIQUIDAZIONE FINALE</description>
-			<a10:updated>2017-08-10T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3449580</guid>
-			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3449580</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 10 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 25 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3449580</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>AFFIDAMENTO DIRETTO, ART. 36 COMMA 2 LETTERA A D.LEG.VO 50/2016 FORNITURA DI TRE LANTERNE ARTISTICHE E VETRI PER LANTERNE ESISTENTI VANDALIZZATE- CIG: Z401F8AFE4 - LIQUIDAZIONE FATTURA N. 7/2017</title>
-			<description>AFFIDAMENTO DIRETTO, ART. 36 COMMA 2 LETTERA A D.LEG.VO 50/2016 FORNITURA DI TRE LANTERNE ARTISTICHE E VETRI PER LANTERNE ESISTENTI VANDALIZZATE- CIG: Z401F8AFE4 - LIQUIDAZIONE FATTURA N. 7/2017</description>
 			<a10:updated>2017-08-10T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
