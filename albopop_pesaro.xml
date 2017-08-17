@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 17 Aug 2017 10:31:22 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 17 Aug 2017 11:31:10 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Thu, 17 Aug 2017 10:31:22 +0200</pubDate>
+		<pubDate>Thu, 17 Aug 2017 11:31:10 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/679948</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/679948</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 17 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 01 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">679948</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>PROGRAMMAZIONE ESTIVA 2017- IMPEGNI DI SPESA PER EVENTI DI ACCOGLIENZA</title>
+			<description>PROGRAMMAZIONE ESTIVA 2017- IMPEGNI DI SPESA PER EVENTI DI ACCOGLIENZA</description>
+			<a10:updated>2017-08-17T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/679851</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/679851</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>DITTA GEOSERVICE - AFFIDAMENTO SERVIZIO RILIEVO E RESTITUZIONE DATI CARTOGRAFICI AREA PERCORSA DA INCENDIO BOSCHIVO </title>
 			<description>DITTA GEOSERVICE - AFFIDAMENTO SERVIZIO RILIEVO E RESTITUZIONE DATI CARTOGRAFICI AREA PERCORSA DA INCENDIO BOSCHIVO </description>
-			<a10:updated>2017-08-14T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/679677</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/679677</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 14 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 29 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">679677</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA DEL SINDACO</category>
-			<title>ORDINANZA CONTINGIBILE E URGENTE EX ART. 54 C. 4 DEL D. LGS. 267/2000 IN MATERIA DI PUBBLICA INCOLUMITÀ. PROROGA ORDINANZA N. 1247 DEL 7 AGOSTO 2017</title>
-			<description>ORDINANZA CONTINGIBILE E URGENTE EX ART. 54 C. 4 DEL D. LGS. 267/2000 IN MATERIA DI PUBBLICA INCOLUMITÀ. PROROGA ORDINANZA N. 1247 DEL 7 AGOSTO 2017</description>
 			<a10:updated>2017-08-14T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
