@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 18 Aug 2017 11:31:06 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 18 Aug 2017 12:31:02 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Fri, 18 Aug 2017 11:31:06 +0200</pubDate>
+		<pubDate>Fri, 18 Aug 2017 12:31:02 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3456686</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3456686</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 18 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 26 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3456686</category>
+			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>PUBBLICAZIONI ANNO 2017 N. 277 IANNACE GIOACCHINO FUSARO CATERINA</title>
+			<description>PUBBLICAZIONI ANNO 2017 N. 277 IANNACE GIOACCHINO FUSARO CATERINA</description>
+			<a10:updated>2017-08-18T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3456290</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3456290</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>IMPEGNO E CONTESTUALE LIQUIDAZIONE DELLE SPESE DI LITE DISPOSTE CON SENTENZA DEL GIUDICE DI PACE DI LUCCA A SEGUITO DI OPPOSIZIONE A SANZIONE AMMINISTRATIVA. (CONTENUTO DELL'ATTO: RIMBORSI - FAMIGLIA 11 "ALTRO").</title>
 			<description>IMPEGNO E CONTESTUALE LIQUIDAZIONE DELLE SPESE DI LITE DISPOSTE CON SENTENZA DEL GIUDICE DI PACE DI LUCCA A SEGUITO DI OPPOSIZIONE A SANZIONE AMMINISTRATIVA. (CONTENUTO DELL'ATTO: RIMBORSI - FAMIGLIA 11 "ALTRO").</description>
-			<a10:updated>2017-08-17T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3455585</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3455585</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 17 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 01 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3455585</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>ELEZIONI COMUNALE 2017 – LAVORO STRAORDINARIO LIQUIDAZIONE DEI CORRISPETTIVI </title>
-			<description>ELEZIONI COMUNALE 2017 – LAVORO STRAORDINARIO LIQUIDAZIONE DEI CORRISPETTIVI </description>
 			<a10:updated>2017-08-17T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

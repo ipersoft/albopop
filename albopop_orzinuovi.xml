@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 18 Aug 2017 11:30:48 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 18 Aug 2017 12:30:43 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Fri, 18 Aug 2017 11:30:48 +0200</pubDate>
+		<pubDate>Fri, 18 Aug 2017 12:30:43 +0200</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2922919</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2922919</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 18 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 02 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2922919</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>LAVORI DI RIQUALIFICAZIONE DELLA SEGNALETICA E REALIZZAZIONE DI NUOVA VIABILITA’ ESTERNA AL CENTRO STORICO. APPROVAZIONE REPORT DI GARA E AFFIDAMENTO LAVORI. CIG: Z211FA840B </title>
+			<description>LAVORI DI RIQUALIFICAZIONE DELLA SEGNALETICA E REALIZZAZIONE DI NUOVA VIABILITA’ ESTERNA AL CENTRO STORICO. APPROVAZIONE REPORT DI GARA E AFFIDAMENTO LAVORI. CIG: Z211FA840B </description>
+			<a10:updated>2017-08-18T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2922808</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2922808</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>CIG Z901FA6A13 IMPEGNO DI SPESA PER ACQUISTO NASTRI PER STAMPANTI SIMI UFFICIO ANAGRAFE</title>
 			<description>CIG Z901FA6A13 IMPEGNO DI SPESA PER ACQUISTO NASTRI PER STAMPANTI SIMI UFFICIO ANAGRAFE</description>
-			<a10:updated>2017-08-16T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2920042</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2920042</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 16 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 30 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2920042</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>APPROVAZIONE DEL PROGETTO ESECUTIVO AVENTE AD OGGETTO: “COMPLETAMENTO ILLUMINAZIONE CAMPO DA CALCIO” PER LAVORI DI ILLUMINAZIONE CON TORRI FARO DEL NUOVO CAMPO DI CALCIO.</title>
-			<description>APPROVAZIONE DEL PROGETTO ESECUTIVO AVENTE AD OGGETTO: “COMPLETAMENTO ILLUMINAZIONE CAMPO DA CALCIO” PER LAVORI DI ILLUMINAZIONE CON TORRI FARO DEL NUOVO CAMPO DI CALCIO.</description>
 			<a10:updated>2017-08-16T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
