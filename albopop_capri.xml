@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 18 Aug 2017 10:31:48 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 18 Aug 2017 11:31:12 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Fri, 18 Aug 2017 10:31:48 +0200</pubDate>
+		<pubDate>Fri, 18 Aug 2017 11:31:12 +0200</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2922793</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2922793</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 18 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 02 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2922793</category>
+			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
+			<title>LIQUIDAZIONE FATTURA ALLA DITTA ADVISER S.I. PER FORNITURA, INSTALLAZIONE E CONFIGURAZIONE SISTEMA FIREWALL - SICUREZZA INFORMATICA. CIG ZC01FA3552</title>
+			<description>LIQUIDAZIONE FATTURA ALLA DITTA ADVISER S.I. PER FORNITURA, INSTALLAZIONE E CONFIGURAZIONE SISTEMA FIREWALL - SICUREZZA INFORMATICA. CIG ZC01FA3552</description>
+			<a10:updated>2017-08-18T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2922424</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2922424</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>IMPEGNATIVA DI SPESA IN FAVORE DELL'AGENZIA DELLE ENTRATE PER IL PAGAMENTO DELLE SPESE DI REGISTRAZIONE CONCERNENTI L'ATTO PUBBLICO REP.N.266/2017</title>
 			<description>IMPEGNATIVA DI SPESA IN FAVORE DELL'AGENZIA DELLE ENTRATE PER IL PAGAMENTO DELLE SPESE DI REGISTRAZIONE CONCERNENTI L'ATTO PUBBLICO REP.N.266/2017</description>
-			<a10:updated>2017-08-11T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2918596</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2918596</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 11 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 26 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2918596</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>Ordinanza urgente e contingibile per il divieto di introduzione di contenitori e materiali vetrosi e simili e di prodotti alcolici e superalcolici sulla spiaggia di Marina Grande in occasione dell’evento “le Note del Mare” del 15.08.2017</title>
-			<description>Ordinanza urgente e contingibile per il divieto di introduzione di contenitori e materiali vetrosi e simili e di prodotti alcolici e superalcolici sulla spiaggia di Marina Grande in occasione dell’evento “le Note del Mare” del 15.08.2017</description>
 			<a10:updated>2017-08-11T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
