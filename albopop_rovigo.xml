@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 17 Aug 2017 18:31:53 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 18 Aug 2017 08:31:04 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Thu, 17 Aug 2017 18:31:53 +0200</pubDate>
+		<pubDate>Fri, 18 Aug 2017 08:31:04 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2922291</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2922291</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 18 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 02 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2922291</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>VARIAZIONE COMPENSATIVA AI SENSI DELL'ART. 175 COMMA 5 QUATER LETT. A) DEL D.LGS. 267/2000</title>
+			<description>VARIAZIONE COMPENSATIVA AI SENSI DELL'ART. 175 COMMA 5 QUATER LETT. A) DEL D.LGS. 267/2000</description>
+			<a10:updated>2017-08-18T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2921979</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2921979</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>SVINCOLO POLIZZA DI INDENNITÀ DI ESPROPRIO NELL'AMBITO DEI LAVORI DI "REALIZZAZIONE NUOVA VIABILITA' CICLOPEDONALE DI VIALE FUA' FUSINATO", IN FAVORE DELLA DITTA AMBROSO PAOLO, ED INTROITO DELLA SOMMA ECCEDENTE.</title>
 			<description>SVINCOLO POLIZZA DI INDENNITÀ DI ESPROPRIO NELL'AMBITO DEI LAVORI DI "REALIZZAZIONE NUOVA VIABILITA' CICLOPEDONALE DI VIALE FUA' FUSINATO", IN FAVORE DELLA DITTA AMBROSO PAOLO, ED INTROITO DELLA SOMMA ECCEDENTE.</description>
-			<a10:updated>2017-08-11T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2918330</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2918330</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 11 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 26 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2918330</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>SVINCOLO POLIZZA DI INDENNITA' DI ESPROPRIO NELL'AMBITO DEI LAVORI DI "REALIZZAZIONE NUOVA VIABILITA' CICLOPEDONALE DI VIALE FUA' FUSINATO", IN FAVORE DELLA DITTA MORETTO RENZA.</title>
-			<description>SVINCOLO POLIZZA DI INDENNITA' DI ESPROPRIO NELL'AMBITO DEI LAVORI DI "REALIZZAZIONE NUOVA VIABILITA' CICLOPEDONALE DI VIALE FUA' FUSINATO", IN FAVORE DELLA DITTA MORETTO RENZA.</description>
 			<a10:updated>2017-08-11T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
