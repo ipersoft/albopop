@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 21 Aug 2017 16:31:05 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 21 Aug 2017 17:31:17 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Mon, 21 Aug 2017 16:31:05 +0200</pubDate>
+		<pubDate>Mon, 21 Aug 2017 17:31:17 +0200</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2924678</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2924678</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 21 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 05 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2924678</category>
+			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
+			<title>AVVISO DI MOBILITA' INTERNA PER LA COPERTURA DI UN POSTODI MAGAZZINIERE DI FARMACIA CATEGORIA GIURIDICA B1 A TEMPO INDETERMINATO E A TEMPO PIENO - APPROVAZIONE</title>
+			<description>AVVISO DI MOBILITA' INTERNA PER LA COPERTURA DI UN POSTODI MAGAZZINIERE DI FARMACIA CATEGORIA GIURIDICA B1 A TEMPO INDETERMINATO E A TEMPO PIENO - APPROVAZIONE</description>
+			<a10:updated>2017-08-21T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2922109</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2922109</link>
@@ -284,17 +295,6 @@
 			<title>SOSPENSIONE DEI PRELIEVI DAI CORSI D ACQUA NEL TERRITORIO DI COMPETENZA DELLA STRUTTURA AUTORIZZAZIONI E CONCESSIONI DI PARMA - 2017 - TRASMISSIONE ATTO</title>
 			<description>SOSPENSIONE DEI PRELIEVI DAI CORSI D ACQUA NEL TERRITORIO DI COMPETENZA DELLA STRUTTURA AUTORIZZAZIONI E CONCESSIONI DI PARMA - 2017 - TRASMISSIONE ATTO</description>
 			<a10:updated>2017-06-23T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2760068</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2760068</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 02 May 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 31 Oct 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2760068</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO ORDINANZA</category>
-			<title>ORDINANZA 4/2017: PROVVEDIMENTI PER LA PREVENZIONE E IL CONTROLLO DELLE MALATTIE TRASMESSE DA INSETTI VETTORI ED IN PARTICOLARE DALLA ZANZARA TIGRE (AEDES ALBOPICTUS) – ANNO 2017</title>
-			<description>ORDINANZA 4/2017: PROVVEDIMENTI PER LA PREVENZIONE E IL CONTROLLO DELLE MALATTIE TRASMESSE DA INSETTI VETTORI ED IN PARTICOLARE DALLA ZANZARA TIGRE (AEDES ALBOPICTUS) – ANNO 2017</description>
-			<a10:updated>2017-05-02T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
