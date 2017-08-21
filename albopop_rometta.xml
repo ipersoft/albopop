@@ -5,7 +5,7 @@
 		<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rometta</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 21 Aug 2017 09:30:58 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 21 Aug 2017 10:33:40 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rometta</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Messina</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rometta</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rometta</a10:id>
-		<pubDate>Mon, 21 Aug 2017 09:30:58 +0200</pubDate>
+		<pubDate>Mon, 21 Aug 2017 10:33:40 +0200</pubDate>
 		<docs>http://albopop.it/comune/rometta/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3457786</guid>
+			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3457786</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 21 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 05 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3457786</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
+			<title>AUTORIZZAZIONE AL DOTT. OLIVA ANTONINO A SVOLGERE PRESTAZIONI DI NATURA OCCASIONALE PRESSO LA SOCIETA' NOVAMED S.R.L.</title>
+			<description>AUTORIZZAZIONE AL DOTT. OLIVA ANTONINO A SVOLGERE PRESTAZIONI DI NATURA OCCASIONALE PRESSO LA SOCIETA' NOVAMED S.R.L.</description>
+			<a10:updated>2017-08-21T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3457535</guid>
 			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3457535</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
 			<title>SOSPENSIONE EROGAZIONE IDRICA GIORNALIERA PER IL PERIODO ESTIVO IN ROMETTA CENTRO E FRAZIONI COLLEGATE</title>
 			<description>SOSPENSIONE EROGAZIONE IDRICA GIORNALIERA PER IL PERIODO ESTIVO IN ROMETTA CENTRO E FRAZIONI COLLEGATE</description>
-			<a10:updated>2017-08-10T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3449641</guid>
-			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3449641</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 10 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 25 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3449641</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>ACQUISTO MATERIALE DI CANCELLERIA TRAMITE MERCATO ELETTRONICO DELLE PUBBLICHE AMMINISTRAZIONI – AGGIUDICAZIONE DEFINITIVA E IMPEGNO SPESA A SEGUITO DI RDO SUL MEPA. </title>
-			<description>ACQUISTO MATERIALE DI CANCELLERIA TRAMITE MERCATO ELETTRONICO DELLE PUBBLICHE AMMINISTRAZIONI – AGGIUDICAZIONE DEFINITIVA E IMPEGNO SPESA A SEGUITO DI RDO SUL MEPA. </description>
 			<a10:updated>2017-08-10T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
