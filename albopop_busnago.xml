@@ -5,7 +5,7 @@
 		<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Busnago</description>
 		<language>it</language>
-		<lastBuildDate>Sun, 20 Aug 2017 18:30:56 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 21 Aug 2017 08:30:54 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Busnago</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Busnago</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_busnago</a10:id>
-		<pubDate>Sun, 20 Aug 2017 18:30:56 +0200</pubDate>
+		<pubDate>Mon, 21 Aug 2017 08:30:54 +0200</pubDate>
 		<docs>http://albopop.it/comune/busnago/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -75,17 +75,6 @@
 			<title>COMUNE DI CAVENAGO DI BRIANZA: BANDO DI MOBILITA' VOLONTARIA ESTERNA PER LA COPERTURA DI N.1 POSTO A TEMPO PIENO E INDETERMINATO DI AGENTE POLIZIA LOCALE</title>
 			<description>COMUNE DI CAVENAGO DI BRIANZA: BANDO DI MOBILITA' VOLONTARIA ESTERNA PER LA COPERTURA DI N.1 POSTO A TEMPO PIENO E INDETERMINATO DI AGENTE POLIZIA LOCALE</description>
 			<a10:updated>2017-08-16T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3452801</guid>
-			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3452801</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 12 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 20 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3452801</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO PUBBLICAZIONE DI MATRIMONIO</category>
-			<title>PUBBLICAZIONI DI MATRIMONIO MANGIARDI CESARE STRAFELLA BARBARA</title>
-			<description>PUBBLICAZIONI DI MATRIMONIO MANGIARDI CESARE STRAFELLA BARBARA</description>
-			<a10:updated>2017-08-12T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3452800</guid>
@@ -295,6 +284,17 @@
 			<title>COMUNE DI RONCO BRIANTINO: AVVISI DI SELEZIONE PER MOBILITA' N. 2 C1 SETTORE AFFARI GENERALI E N. 1 D1 SETTORE URBANISTICA ED EDILIZIA PRIVATE E LL.PP. E MANUTENZIONI - PROROGA TERMINI DI SCADENZA</title>
 			<description>COMUNE DI RONCO BRIANTINO: AVVISI DI SELEZIONE PER MOBILITA' N. 2 C1 SETTORE AFFARI GENERALI E N. 1 D1 SETTORE URBANISTICA ED EDILIZIA PRIVATE E LL.PP. E MANUTENZIONI - PROROGA TERMINI DI SCADENZA</description>
 			<a10:updated>2017-08-03T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3432093</guid>
+			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3432093</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 02 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 30 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3432093</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI PUBBLICI AVVISO BANDO DI MOBILITÀ ESTERNA</category>
+			<title>COMUNE DI ROVELLO PORRO: AVVISO DI MOBILITA' VOLONTARIA PER LA COPERTURA DI N.1 POSTO A TEMPO INDETERMINATO TEMPO PIENO - ISTRUTTORE AMMINISTRATIVO- CATEGORIA C1</title>
+			<description>COMUNE DI ROVELLO PORRO: AVVISO DI MOBILITA' VOLONTARIA PER LA COPERTURA DI N.1 POSTO A TEMPO INDETERMINATO TEMPO PIENO - ISTRUTTORE AMMINISTRATIVO- CATEGORIA C1</description>
+			<a10:updated>2017-08-02T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
