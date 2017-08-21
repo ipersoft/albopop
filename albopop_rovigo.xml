@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 21 Aug 2017 13:30:57 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 21 Aug 2017 14:31:09 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Mon, 21 Aug 2017 13:30:57 +0200</pubDate>
+		<pubDate>Mon, 21 Aug 2017 14:31:09 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2924464</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2924464</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 21 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 28 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2924464</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE GARE E APPALTI</category>
+			<title>AVVISO PUBBLICO DI MANIFESTAZIONE DI INTERESSE PER L'INDIVIDUAZIONE DEGLI OPERATORI ECONOMICI DA INVITARE ALLA GARA TRAMITE PROCEDURA RDO MEDIANTE MEPA PER L'AFFIDAMENTO DEL SERVIZIO DI APPRONTAMENTO TABELLONI PER PROPAGANDA ELETTORALE NONCHE' ALLESTIMENTO SEGGI RELATIVAMENTE ALLE CONSULTAZIONI REFENDARIE DEL 22 OTTOBRE 2017.</title>
+			<description>AVVISO PUBBLICO DI MANIFESTAZIONE DI INTERESSE PER L'INDIVIDUAZIONE DEGLI OPERATORI ECONOMICI DA INVITARE ALLA GARA TRAMITE PROCEDURA RDO MEDIANTE MEPA PER L'AFFIDAMENTO DEL SERVIZIO DI APPRONTAMENTO TABELLONI PER PROPAGANDA ELETTORALE NONCHE' ALLESTIMENTO SEGGI RELATIVAMENTE ALLE CONSULTAZIONI REFENDARIE DEL 22 OTTOBRE 2017.</description>
+			<a10:updated>2017-08-21T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2924373</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2924373</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERE DI GIUNTA</category>
 			<title>MODIFICA ALLA DELIBERAZIONE DI GIUNTA N.229 DEL 10/8/2017 DI AUTORIZZAZIONE ALLO SVOLGIMENTO DELLA MANIFESTAZIONE “173^ SAGRA DI SAN BORTOLO” PREVISTO DAL 17 AL 27 AGOSTO 2017.</title>
 			<description>MODIFICA ALLA DELIBERAZIONE DI GIUNTA N.229 DEL 10/8/2017 DI AUTORIZZAZIONE ALLO SVOLGIMENTO DELLA MANIFESTAZIONE “173^ SAGRA DI SAN BORTOLO” PREVISTO DAL 17 AL 27 AGOSTO 2017.</description>
-			<a10:updated>2017-08-18T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2922396</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2922396</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 18 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 02 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2922396</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERE DI GIUNTA</category>
-			<title>PARERE IN ORDINE ALLA PROPOSTA DI VALUTAZIONE DELLA PERFORMANCE DIRIGENTI ANNO 2015</title>
-			<description>PARERE IN ORDINE ALLA PROPOSTA DI VALUTAZIONE DELLA PERFORMANCE DIRIGENTI ANNO 2015</description>
 			<a10:updated>2017-08-18T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

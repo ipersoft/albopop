@@ -5,7 +5,7 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 21 Aug 2017 13:30:56 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 21 Aug 2017 14:31:08 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Isernia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>Mon, 21 Aug 2017 13:30:56 +0200</pubDate>
+		<pubDate>Mon, 21 Aug 2017 14:31:08 +0200</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3458463</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3458463</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 21 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 05 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3458463</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
+			<title>Servizio di raccolta, trasporto e smaltimento deiezioni canine. Definizione termini e modalità prosieguo del servizio.</title>
+			<description>Servizio di raccolta, trasporto e smaltimento deiezioni canine. Definizione termini e modalità prosieguo del servizio.</description>
+			<a10:updated>2017-08-21T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3458356</guid>
 			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3458356</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
 			<title>Legge Regionale Agosto n.1984. Acconto contributi chilometrici per i mesi di Febbraio-Marzo-Aprile-Maggio-Giugno 2017. Liquidazione a favore della Società "Aesernia srl"-CIG:21440373AD</title>
 			<description>Legge Regionale Agosto n.1984. Acconto contributi chilometrici per i mesi di Febbraio-Marzo-Aprile-Maggio-Giugno 2017. Liquidazione a favore della Società "Aesernia srl"-CIG:21440373AD</description>
-			<a10:updated>2017-08-17T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3455927</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3455927</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 17 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 01 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3455927</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
-			<title>Servizio di raccolta e smaltimento nettezza urbana, rifiuti ingombranti e conferimento RIFIUTI IN DISCARICA . Liquidazione fattura giugno 2017 - Smaltimenti sud</title>
-			<description>Servizio di raccolta e smaltimento nettezza urbana, rifiuti ingombranti e conferimento RIFIUTI IN DISCARICA . Liquidazione fattura giugno 2017 - Smaltimenti sud</description>
 			<a10:updated>2017-08-17T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
