@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 22 Aug 2017 09:31:23 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 22 Aug 2017 10:31:14 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Tue, 22 Aug 2017 09:31:23 +0200</pubDate>
+		<pubDate>Tue, 22 Aug 2017 10:31:14 +0200</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2925013</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2925013</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 22 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 30 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2925013</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO PUBBLICAZIONE AVVISO</category>
+			<title>AVVISO DI DEPOSITO DI N.2 ATTI NELLA CASA COMUNALE</title>
+			<description>AVVISO DI DEPOSITO DI N.2 ATTI NELLA CASA COMUNALE</description>
+			<a10:updated>2017-08-22T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2924915</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2924915</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 22 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 06 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2924915</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>ORDINANZA PER SERVIZI CIMITERIALI COMUNE DI GRAGNANO</title>
+			<description>ORDINANZA PER SERVIZI CIMITERIALI COMUNE DI GRAGNANO</description>
+			<a10:updated>2017-08-22T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2924733</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2924733</link>
@@ -273,28 +295,6 @@
 			<title>AVVISO DI DEPOSITO DI N.2 ATTI NELLA CASA COMUNALE</title>
 			<description>AVVISO DI DEPOSITO DI N.2 ATTI NELLA CASA COMUNALE</description>
 			<a10:updated>2017-08-16T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2919712</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2919712</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 16 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 31 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2919712</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISO PUBBLICAZIONE AVVISO</category>
-			<title>RICHIESTA AFFISSIONE VERBALE P.M. N. 129560/V</title>
-			<description>RICHIESTA AFFISSIONE VERBALE P.M. N. 129560/V</description>
-			<a10:updated>2017-08-16T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2919651</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2919651</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 14 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 29 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2919651</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
-			<title>ACQUISTO SUL MEPA DI NUOVA CARTOGRAFIA IN SCALA 11:1.000 DEL TERRITORIO COMUNALE - LIQUIDAZIONE FATTURA DITTA NUOVA AVIORIPRESE S.R.L. DI NAPOLI</title>
-			<description>ACQUISTO SUL MEPA DI NUOVA CARTOGRAFIA IN SCALA 11:1.000 DEL TERRITORIO COMUNALE - LIQUIDAZIONE FATTURA DITTA NUOVA AVIORIPRESE S.R.L. DI NAPOLI</description>
-			<a10:updated>2017-08-14T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
