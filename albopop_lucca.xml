@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 22 Aug 2017 08:31:01 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 22 Aug 2017 09:31:16 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Tue, 22 Aug 2017 08:31:01 +0200</pubDate>
+		<pubDate>Tue, 22 Aug 2017 09:31:16 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3459025</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3459025</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 22 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 30 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3459025</category>
+			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>PUBBLICAZIONI ANNO 2017 N. 281 RUGANI MARCO ALBERIGI FEDERICA</title>
+			<description>PUBBLICAZIONI ANNO 2017 N. 281 RUGANI MARCO ALBERIGI FEDERICA</description>
+			<a10:updated>2017-08-22T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3458948</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3458948</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 22 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 13 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3458948</category>
+			<category domain="http://albopop.it/specs#item-category-type">OGGETTI SMARRITI</category>
+			<title>DENUNCIA DI SMARRIMENTO DI BICICLETTA - PRATICA N. 2345 DEL 21/08/2017.</title>
+			<description>DENUNCIA DI SMARRIMENTO DI BICICLETTA - PRATICA N. 2345 DEL 21/08/2017.</description>
+			<a10:updated>2017-08-22T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3458305</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3458305</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
 			<title> BIANCHI ROBERTA/COMUNE DI LUCCA - LIQUIDAZIONE SPESE DI GIUDIZIO DISPOSTE CON SENTENZA DEL TAR TOSCANA N. 748/2017. (FAMIGLIA 11 "ALTRO")</title>
 			<description> BIANCHI ROBERTA/COMUNE DI LUCCA - LIQUIDAZIONE SPESE DI GIUDIZIO DISPOSTE CON SENTENZA DEL TAR TOSCANA N. 748/2017. (FAMIGLIA 11 "ALTRO")</description>
-			<a10:updated>2017-08-17T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3455990</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3455990</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 17 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 01 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3455990</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>POLIZZA RCT/O - COMPAGNIA AIG EUROPE LIMITED - RICHIESTA RISARCIMENTO DANNI - IN FAVORE DI FERRARI MARISA - SINISTRO N. 73/15 (CONTENUTO DELL'ATTO: FAMIGLIA 11 "ALTRO"</title>
-			<description>POLIZZA RCT/O - COMPAGNIA AIG EUROPE LIMITED - RICHIESTA RISARCIMENTO DANNI - IN FAVORE DI FERRARI MARISA - SINISTRO N. 73/15 (CONTENUTO DELL'ATTO: FAMIGLIA 11 "ALTRO"</description>
-			<a10:updated>2017-08-17T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3455987</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3455987</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 17 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 01 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3455987</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>POLIZZA RCT/O - COMPAGNIA AIG EUROPE LIMITED - RICHIESTA RISARCIMENTO DANNI - IN FAVORE DI FINI DIVA - SINISTRO N. 117/15 (CONTENUTO DELL'ATTO: FAMIGLIA 11 "ALTRO"</title>
-			<description>POLIZZA RCT/O - COMPAGNIA AIG EUROPE LIMITED - RICHIESTA RISARCIMENTO DANNI - IN FAVORE DI FINI DIVA - SINISTRO N. 117/15 (CONTENUTO DELL'ATTO: FAMIGLIA 11 "ALTRO"</description>
 			<a10:updated>2017-08-17T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

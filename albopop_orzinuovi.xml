@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 22 Aug 2017 08:30:43 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 22 Aug 2017 09:30:47 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Tue, 22 Aug 2017 08:30:43 +0200</pubDate>
+		<pubDate>Tue, 22 Aug 2017 09:30:47 +0200</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2924850</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2924850</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 22 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 06 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2924850</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>IMPEGNO DI SPESA PER QUOTA ANNUA DI GESTIONE E MANTENIMENTO DELLO SPORTELLO UNICO ATTIVITA’ PRODUTTIVE (SUAP) TELEMATICO ANNO 2017</title>
+			<description>IMPEGNO DI SPESA PER QUOTA ANNUA DI GESTIONE E MANTENIMENTO DELLO SPORTELLO UNICO ATTIVITA’ PRODUTTIVE (SUAP) TELEMATICO ANNO 2017</description>
+			<a10:updated>2017-08-22T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2924328</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2924328</link>
@@ -284,17 +295,6 @@
 			<title>PRESA D’ATTO DELLO STUDIO DI FATTIBILITÀ RELATIVO ALLA NUOVA VIABILITÀ ESTERNA AL CENTRO STORICO.</title>
 			<description>PRESA D’ATTO DELLO STUDIO DI FATTIBILITÀ RELATIVO ALLA NUOVA VIABILITÀ ESTERNA AL CENTRO STORICO.</description>
 			<a10:updated>2017-08-17T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2920875</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2920875</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 16 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 30 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2920875</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>PRESA D'ATTO DEI LAVORI DI RIFACIMENTO DEL COLLETTORE DELLE ACQUE MISTE IN VIA CASTELBARCO, VIA ISONZO, VIA VITTORIO VENETO E VIALE MONTENERO.</title>
-			<description>PRESA D'ATTO DEI LAVORI DI RIFACIMENTO DEL COLLETTORE DELLE ACQUE MISTE IN VIA CASTELBARCO, VIA ISONZO, VIA VITTORIO VENETO E VIALE MONTENERO.</description>
-			<a10:updated>2017-08-16T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
