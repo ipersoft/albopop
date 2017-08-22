@@ -5,7 +5,7 @@
 		<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Torri del Benaco</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 22 Aug 2017 17:31:24 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 22 Aug 2017 18:31:15 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Torri del Benaco</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Verona</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Torri del Benaco</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_torridelbenaco</a10:id>
-		<pubDate>Tue, 22 Aug 2017 17:31:24 +0200</pubDate>
+		<pubDate>Tue, 22 Aug 2017 18:31:15 +0200</pubDate>
 		<docs>http://albopop.it/comune/torridelbenaco/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3460428</guid>
+			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3460428</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 22 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 06 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3460428</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
+			<title>DIVIETO DI SOSTA PER IL MERCATO IN PIAZZA AD ALBISANO</title>
+			<description>DIVIETO DI SOSTA PER IL MERCATO IN PIAZZA AD ALBISANO</description>
+			<a10:updated>2017-08-22T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3459424</guid>
 			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3459424</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISO </category>
 			<title>INTERDIZIONE E CAUTA NAVIGAZIONE NELLE ACQUE DEL LAGO DI GARDA TRA CASTELLETTO E BRENZONE PER LO SVOLGIMENTO DEL CAMPIONATO NAZIONALE ED EUROPEO ASSO 99 DA GIOVEDÌ 31 AGOSTO 2017 A SABATO 2 SETTEMBRE 2017 ORGANIZZATORE CIRCOLO NAUTICO BRENZONE ASD - TRASMISSIONE ORDINANZA N. 301 DEL 14 AGOSTO 2017</title>
 			<description>INTERDIZIONE E CAUTA NAVIGAZIONE NELLE ACQUE DEL LAGO DI GARDA TRA CASTELLETTO E BRENZONE PER LO SVOLGIMENTO DEL CAMPIONATO NAZIONALE ED EUROPEO ASSO 99 DA GIOVEDÌ 31 AGOSTO 2017 A SABATO 2 SETTEMBRE 2017 ORGANIZZATORE CIRCOLO NAUTICO BRENZONE ASD - TRASMISSIONE ORDINANZA N. 301 DEL 14 AGOSTO 2017</description>
-			<a10:updated>2017-08-14T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3453312</guid>
-			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3453312</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 14 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 03 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3453312</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISO </category>
-			<title>INTERDIZIONE E CAUTA NAVIGAZIONE NELLE ACQUE DEL LAGO DI GARDA AREA DI REGATA PROSPICIENTE LA SEDE DELLA POLISPORTIVA FIOR D'OLIVO ACQUAFRESCA AD ACQUAFRESCA - BRENZONE SUL GARDA PER LO SVOLGIMENTO DELLA MANIFESTAZIONE NAUTICA CAMPIONATO NAZIONALE STAR DA GIOVEDÌ 31 AGOSTO 2017 A SABATO 2 SETTEMBRE 2017 - TRASMISSIONE ORDINANZA N. 300 DEL 14 AGOSTO 2017</title>
-			<description>INTERDIZIONE E CAUTA NAVIGAZIONE NELLE ACQUE DEL LAGO DI GARDA AREA DI REGATA PROSPICIENTE LA SEDE DELLA POLISPORTIVA FIOR D'OLIVO ACQUAFRESCA AD ACQUAFRESCA - BRENZONE SUL GARDA PER LO SVOLGIMENTO DELLA MANIFESTAZIONE NAUTICA CAMPIONATO NAZIONALE STAR DA GIOVEDÌ 31 AGOSTO 2017 A SABATO 2 SETTEMBRE 2017 - TRASMISSIONE ORDINANZA N. 300 DEL 14 AGOSTO 2017</description>
 			<a10:updated>2017-08-14T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
