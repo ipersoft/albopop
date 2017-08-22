@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 22 Aug 2017 14:30:41 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 22 Aug 2017 15:30:43 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Tue, 22 Aug 2017 14:30:41 +0200</pubDate>
+		<pubDate>Tue, 22 Aug 2017 15:30:43 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/680961</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/680961</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 22 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 02 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">680961</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PUBBLICAZIONI RICHIESTE DA SOGGETTI ESTERNI</category>
+			<title>AVVISO - ALIENAZIONE MEDIANTE TRATTATIVA PRIVATA A CORPO, NELLO STATO DI FATTO E DI DIRITTO IN CUI ATTUALMENTE SI TROVANO, DI BENI IMMOBILI DI PROPRIETA' DELLO STATO</title>
+			<description>AVVISO - ALIENAZIONE MEDIANTE TRATTATIVA PRIVATA A CORPO, NELLO STATO DI FATTO E DI DIRITTO IN CUI ATTUALMENTE SI TROVANO, DI BENI IMMOBILI DI PROPRIETA' DELLO STATO</description>
+			<a10:updated>2017-08-22T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/680907</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/680907</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALBO RISPOSTE A QUESITI GARE</category>
 			<title>GESTIONE DEI SERVIZI ALBERGHIERI E SOCIO-ASSISTENZIALI SANITARI DA EROGARSI PRESSO LA RESIDENZA PROTETTA E CENTRO DIURNO CASA AURA DEL COMUNE DI PESARO PER IL PERIODO DAL 01.11.2017 E FINO AL 31.10.2020. CIG N. 7123957B48-RISPOSTA QUESITO N. 12</title>
 			<description>GESTIONE DEI SERVIZI ALBERGHIERI E SOCIO-ASSISTENZIALI SANITARI DA EROGARSI PRESSO LA RESIDENZA PROTETTA E CENTRO DIURNO CASA AURA DEL COMUNE DI PESARO PER IL PERIODO DAL 01.11.2017 E FINO AL 31.10.2020. CIG N. 7123957B48-RISPOSTA QUESITO N. 12</description>
-			<a10:updated>2017-08-21T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/680575</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/680575</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 21 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 01 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">680575</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALBO RISPOSTE A QUESITI GARE</category>
-			<title>GESTIONE DEI SERVIZI ALBERGHIERI E SOCIO-ASSISTENZIALI SANITARI DA EROGARSI PRESSO LA RESIDENZA PROTETTA E CENTRO DIURNO CASA AURA DEL COMUNE DI PESARO PER IL PERIODO DAL 01.11.2017 E FINO AL 31.10.2020. CIG. N. 7123957B48-RISPOSTA QUESITO N. 11</title>
-			<description>GESTIONE DEI SERVIZI ALBERGHIERI E SOCIO-ASSISTENZIALI SANITARI DA EROGARSI PRESSO LA RESIDENZA PROTETTA E CENTRO DIURNO CASA AURA DEL COMUNE DI PESARO PER IL PERIODO DAL 01.11.2017 E FINO AL 31.10.2020. CIG. N. 7123957B48-RISPOSTA QUESITO N. 11</description>
 			<a10:updated>2017-08-21T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
