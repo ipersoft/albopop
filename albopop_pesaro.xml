@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 22 Aug 2017 11:30:41 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 22 Aug 2017 12:30:42 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Tue, 22 Aug 2017 11:30:41 +0200</pubDate>
+		<pubDate>Tue, 22 Aug 2017 12:30:42 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/680869</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/680869</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 22 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 06 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">680869</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>COMUNE DI ROMA - RECUPERO SPESE DI NOTIFICA PER ACCERTAMENTI IMU </title>
+			<description>COMUNE DI ROMA - RECUPERO SPESE DI NOTIFICA PER ACCERTAMENTI IMU </description>
+			<a10:updated>2017-08-22T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/680866</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/680866</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 22 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 06 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">680866</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>DITTA MEMOGRAPH DI PANERO GIOVANNA: AFFIDAMENTO DELLA FORNITURA DI MATERIALE HARDWARE - PERSONAL COMPUTER DELL DA DESTINARE AGLI UFFICI COMUNALI, TRAMITE RDO SU MEPA</title>
+			<description>DITTA MEMOGRAPH DI PANERO GIOVANNA: AFFIDAMENTO DELLA FORNITURA DI MATERIALE HARDWARE - PERSONAL COMPUTER DELL DA DESTINARE AGLI UFFICI COMUNALI, TRAMITE RDO SU MEPA</description>
+			<a10:updated>2017-08-22T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/680846</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/680846</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO RICHIESTA PUBBLICAZIONE MATRIMONIO ALBO</category>
 			<title>PUBBLICAZIONI DI MATRIMONIO DI DE MASE VINCENZO E BALOGOVA' ANNA</title>
 			<description>PUBBLICAZIONI DI MATRIMONIO DI DE MASE VINCENZO E BALOGOVA' ANNA</description>
-			<a10:updated>2017-08-21T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/680548</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/680548</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 21 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 05 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">680548</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALBO PUBBLICAZIONI RICHIESTE DA SOGGETTI ESTERNI</category>
-			<title>AUTORIZZAZIONE N. 2140/2017 - ABBATTIMENTO DI PIANTE TUTELATE PUBBLICHE LUNGO LA STRADA PROVINCIALE 32 PESARO - MOMBAROCCIO</title>
-			<description>AUTORIZZAZIONE N. 2140/2017 - ABBATTIMENTO DI PIANTE TUTELATE PUBBLICHE LUNGO LA STRADA PROVINCIALE 32 PESARO - MOMBAROCCIO</description>
-			<a10:updated>2017-08-21T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/680543</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/680543</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 21 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 05 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">680543</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALBO PUBBLICAZIONI RICHIESTE DA SOGGETTI ESTERNI</category>
-			<title>AUTORIZZAZIONE N. 2139/2017 - ABBATTIMENTO DI PIANTE TUTELATE PRIVATE IN VIA FRATINI</title>
-			<description>AUTORIZZAZIONE N. 2139/2017 - ABBATTIMENTO DI PIANTE TUTELATE PRIVATE IN VIA FRATINI</description>
 			<a10:updated>2017-08-21T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

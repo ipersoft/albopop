@@ -5,7 +5,7 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 22 Aug 2017 11:31:11 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 22 Aug 2017 12:31:42 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Isernia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>Tue, 22 Aug 2017 11:31:11 +0200</pubDate>
+		<pubDate>Tue, 22 Aug 2017 12:31:42 +0200</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3459522</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3459522</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 22 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 06 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3459522</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
+			<title>CONCESSIONE ASPETTATIVA AI SENSI DELL'ART. 11 DEL CCNL 14/09/2000 ENTI LOCALI</title>
+			<description>CONCESSIONE ASPETTATIVA AI SENSI DELL'ART. 11 DEL CCNL 14/09/2000 ENTI LOCALI</description>
+			<a10:updated>2017-08-22T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3458946</guid>
 			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3458946</link>
@@ -182,8 +193,8 @@
 			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 05 Sep 2017 02:00:00 +0200</category>
 			<category domain="http://albopop.it/specs#item-category-uid">3458354</category>
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA CONSIGLIO COMUNALE</category>
-			<title>Modifica al Piano Triennale delle Opere Pubbliche triennio 2017-2019 e piano annuale.</title>
-			<description>Modifica al Piano Triennale delle Opere Pubbliche triennio 2017-2019 e piano annuale.</description>
+			<title>MODIFICA AL PIANO TRIENNALE DELLE OPERE PUBBLICHE TRIENNIO 2017-2019 E PIANO ANNUALE.</title>
+			<description>MODIFICA AL PIANO TRIENNALE DELLE OPERE PUBBLICHE TRIENNIO 2017-2019 E PIANO ANNUALE.</description>
 			<a10:updated>2017-08-21T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA GIUNTA COMUNALE</category>
 			<title>POLO SCAOLASTICO DI S. LEUCIO-SCUOLA SICURA- 2° LOTTO DI COMPLETAMENTO €. 3.200.000,00. APPROVAZIONE PERIZIA DI VARIANTE .</title>
 			<description>POLO SCAOLASTICO DI S. LEUCIO-SCUOLA SICURA- 2° LOTTO DI COMPLETAMENTO €. 3.200.000,00. APPROVAZIONE PERIZIA DI VARIANTE .</description>
-			<a10:updated>2017-08-21T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3457860</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3457860</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 21 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 05 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3457860</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA GIUNTA COMUNALE</category>
-			<title>Contratto di gestione, esercizio, manutenzione ordinaria-straordinaria e programmata-preventiva dell’impianto di pubblica illuminazione del territorio comunale. Approvazione della variante di assestamento e suppletiva.</title>
-			<description>Contratto di gestione, esercizio, manutenzione ordinaria-straordinaria e programmata-preventiva dell’impianto di pubblica illuminazione del territorio comunale. Approvazione della variante di assestamento e suppletiva.</description>
 			<a10:updated>2017-08-21T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
