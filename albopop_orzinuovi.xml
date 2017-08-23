@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 23 Aug 2017 15:33:00 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 23 Aug 2017 16:30:43 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Wed, 23 Aug 2017 15:33:00 +0200</pubDate>
+		<pubDate>Wed, 23 Aug 2017 16:30:43 +0200</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2927414</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2927414</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 23 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 07 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2927414</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DECRETO</category>
+			<title>DELEGA PER LA FIRMA CARTE DI IDENTITA’ - AUTENTICAZIONE DI SOTTOSCRIZIONI - AUTENTICAZIONE DI COPIE CONFORMI ALL’ORIGINALE - LEGALIZZAZIONE DI FOTOGRAFIE </title>
+			<description>DELEGA PER LA FIRMA CARTE DI IDENTITA’ - AUTENTICAZIONE DI SOTTOSCRIZIONI - AUTENTICAZIONE DI COPIE CONFORMI ALL’ORIGINALE - LEGALIZZAZIONE DI FOTOGRAFIE </description>
+			<a10:updated>2017-08-23T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2927412</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2927412</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 23 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 07 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2927412</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DECRETO</category>
+			<title>DELEGA PER FUNZIONI UFFICIALE DELLO STATO CIVILE </title>
+			<description>DELEGA PER FUNZIONI UFFICIALE DELLO STATO CIVILE </description>
+			<a10:updated>2017-08-23T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2927410</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2927410</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 23 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 07 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2927410</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DECRETO</category>
+			<title>DELEGA PER FUNZIONI UFFICIALE D’ANAGRAFE</title>
+			<description>DELEGA PER FUNZIONI UFFICIALE D’ANAGRAFE</description>
+			<a10:updated>2017-08-23T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2927169</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2927169</link>
@@ -262,39 +295,6 @@
 			<title>AFFIDAMENTO INCARICO TECNICO PER REDAZIONE DELLA VARIANTE GENERALE AGLI ATTI DI PGT E COORDINAMENTO CON LE DIVERSE PROFESSIONALITA’ INCARICATE. CIG: Z011FA7298</title>
 			<description>AFFIDAMENTO INCARICO TECNICO PER REDAZIONE DELLA VARIANTE GENERALE AGLI ATTI DI PGT E COORDINAMENTO CON LE DIVERSE PROFESSIONALITA’ INCARICATE. CIG: Z011FA7298</description>
 			<a10:updated>2017-08-18T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2922643</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2922643</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 18 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 02 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2922643</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>CONFERIMENTO INCARICO PER SERVIZI LEGALI DI ASSISTENZA GIURIDICO – AMMINISTRATIVA E SUPPORTO ALLA REDAZIONE DELLA VARIANTE GENERALE AL PIANO DI GOVERNO DEL TERRITORIO. CIG: Z081FA7285</title>
-			<description>CONFERIMENTO INCARICO PER SERVIZI LEGALI DI ASSISTENZA GIURIDICO – AMMINISTRATIVA E SUPPORTO ALLA REDAZIONE DELLA VARIANTE GENERALE AL PIANO DI GOVERNO DEL TERRITORIO. CIG: Z081FA7285</description>
-			<a10:updated>2017-08-18T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2922640</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2922640</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 18 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 02 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2922640</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>INTERVENTI MANUTENTIVI STRADE COMUNALI - CIG: Z9F1D47D98</title>
-			<description>INTERVENTI MANUTENTIVI STRADE COMUNALI - CIG: Z9F1D47D98</description>
-			<a10:updated>2017-08-18T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2922215</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2922215</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 17 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 01 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2922215</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>APPROVAZIONE VERBALE “ALIENAZIONE AREE DI PROPRIETA’ COMUNALE.</title>
-			<description>APPROVAZIONE VERBALE “ALIENAZIONE AREE DI PROPRIETA’ COMUNALE.</description>
-			<a10:updated>2017-08-17T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
