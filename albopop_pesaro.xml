@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 23 Aug 2017 08:30:46 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 23 Aug 2017 09:30:39 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Wed, 23 Aug 2017 08:30:46 +0200</pubDate>
+		<pubDate>Wed, 23 Aug 2017 09:30:39 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/681012</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/681012</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 23 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 01 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">681012</category>
+			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO RICHIESTA PUBBLICAZIONE MATRIMONIO ALBO</category>
+			<title>PUBBLICAZIONE DI MATRIMONIO CANALELLA MANOA E RILLI DALILA</title>
+			<description>PUBBLICAZIONE DI MATRIMONIO CANALELLA MANOA E RILLI DALILA</description>
+			<a10:updated>2017-08-23T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/681006</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/681006</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>PESARO COMICS &amp; GAMES 2017 DEL 25-27 AGOSTO 2017- IMPEGNO DI SPESA</title>
 			<description>PESARO COMICS &amp; GAMES 2017 DEL 25-27 AGOSTO 2017- IMPEGNO DI SPESA</description>
-			<a10:updated>2017-08-21T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/680666</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/680666</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 21 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 05 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">680666</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>ABBATTIMENTO D'URGENZA DI ALBERI DANNEGGIATI DALL'INCENDIO LUNGO LE SCARPATE DI STRADA DELLA MARINA A FIORENZUOLA DI FOCARA ALL'INTERNO DEL PARCO NATURALE REGIONALE SAN BARTOLO. AFFIDAMENTO LAVORI ALL'IMPRESA TECNO PRATICA DI GALEAZZI DOTT.DAVIDE DI PESARO E DIREZIONE LAVORI ALL'AGRONOMO FORESTALE DOTT.FRANCESCO TANFERNA. ASSUNZIONE IMPEGNI DI SPESA. </title>
-			<description>ABBATTIMENTO D'URGENZA DI ALBERI DANNEGGIATI DALL'INCENDIO LUNGO LE SCARPATE DI STRADA DELLA MARINA A FIORENZUOLA DI FOCARA ALL'INTERNO DEL PARCO NATURALE REGIONALE SAN BARTOLO. AFFIDAMENTO LAVORI ALL'IMPRESA TECNO PRATICA DI GALEAZZI DOTT.DAVIDE DI PESARO E DIREZIONE LAVORI ALL'AGRONOMO FORESTALE DOTT.FRANCESCO TANFERNA. ASSUNZIONE IMPEGNI DI SPESA. </description>
 			<a10:updated>2017-08-21T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
