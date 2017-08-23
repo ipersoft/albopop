@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 23 Aug 2017 14:37:13 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 23 Aug 2017 15:37:20 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Wed, 23 Aug 2017 14:37:13 +0200</pubDate>
+		<pubDate>Wed, 23 Aug 2017 15:37:20 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2927395</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2927395</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 23 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 07 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2927395</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>PROGETTO HOME CARE PREMIUM 2014 – LIQUIDAZIONE SPESA A FAVORE DELLA COOPERATIVA SOCIALE PETER PAN DI ROVIGO PER PRESTAZIONI INTEGRATIVE -PERIODO MARZO 2017</title>
+			<description>PROGETTO HOME CARE PREMIUM 2014 – LIQUIDAZIONE SPESA A FAVORE DELLA COOPERATIVA SOCIALE PETER PAN DI ROVIGO PER PRESTAZIONI INTEGRATIVE -PERIODO MARZO 2017</description>
+			<a10:updated>2017-08-23T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2927284</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2927284</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERE DI CONSIGLIO</category>
 			<title>PRESA D'ATTO IN MERITO AI PRELEVAMENTI DAL FONDO DI RISERVA 2° TRIMESTRE ANNO 2017</title>
 			<description>PRESA D'ATTO IN MERITO AI PRELEVAMENTI DAL FONDO DI RISERVA 2° TRIMESTRE ANNO 2017</description>
-			<a10:updated>2017-08-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2925513</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2925513</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 22 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 06 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2925513</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERE DI CONSIGLIO</category>
-			<title>APPROVAZIONE REGOLAMENTO COMUNALE PER LA DISCIPLINA DEL RILASCIO DELL'AUTORIZZAZIONE ALL'OCCUPAZIONE TEMPORANEA DI SUOLO PUBBLICO IN P.ZZA VITTORIO EMANUELE II AD ASSOCIAZIONI ONLUS</title>
-			<description>APPROVAZIONE REGOLAMENTO COMUNALE PER LA DISCIPLINA DEL RILASCIO DELL'AUTORIZZAZIONE ALL'OCCUPAZIONE TEMPORANEA DI SUOLO PUBBLICO IN P.ZZA VITTORIO EMANUELE II AD ASSOCIAZIONI ONLUS</description>
 			<a10:updated>2017-08-22T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
