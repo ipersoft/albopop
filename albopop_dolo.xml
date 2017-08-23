@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 22 Aug 2017 18:30:39 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 23 Aug 2017 08:30:38 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Tue, 22 Aug 2017 18:30:39 +0200</pubDate>
+		<pubDate>Wed, 23 Aug 2017 08:30:38 +0200</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -31,6 +31,17 @@
 			<title>VALORIZZAZIONE STORIA PADOVANA E REGIONALE: I PREMI BRUNACCI - MONSELICE</title>
 			<description>VALORIZZAZIONE STORIA PADOVANA E REGIONALE: I PREMI BRUNACCI - MONSELICE</description>
 			<a10:updated>2017-07-17T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3460508</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3460508</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 23 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 07 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3460508</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>ACCERTAMENTO, IMPEGNO E LIQUIDAZIONE PROVVIDENZE RELATIVE ALL’IMPEGNATIVA DI CURA DOMICILIARE (EX ASSEGNO DI CURA)– II TRIMESTRE 2017 ICDM E I SEMESTRE 2017.</title>
+			<description>ACCERTAMENTO, IMPEGNO E LIQUIDAZIONE PROVVIDENZE RELATIVE ALL’IMPEGNATIVA DI CURA DOMICILIARE (EX ASSEGNO DI CURA)– II TRIMESTRE 2017 ICDM E I SEMESTRE 2017.</description>
+			<a10:updated>2017-08-23T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3460269</guid>
@@ -284,17 +295,6 @@
 			<title>LIQUIDAZIONE FATTURA A VEGA CARBURANTI S.P.A. PER LA FORNITURA DI CARBURANTE PER AUTOTRAZIONE – PERIODO LUGLIO 2017.</title>
 			<description>LIQUIDAZIONE FATTURA A VEGA CARBURANTI S.P.A. PER LA FORNITURA DI CARBURANTE PER AUTOTRAZIONE – PERIODO LUGLIO 2017.</description>
 			<a10:updated>2017-08-21T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3455775</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3455775</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 17 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 01 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3455775</category>
-			<category domain="http://albopop.it/specs#item-category-type">PERMESSI DI COSTRUIRE PERMESSO DI COSTRUIRE</category>
-			<title>AVVISO DI RILASCIO DI PERMESSO DI COSTRUIRE.</title>
-			<description>AVVISO DI RILASCIO DI PERMESSO DI COSTRUIRE.</description>
-			<a10:updated>2017-08-17T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
