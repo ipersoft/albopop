@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 23 Aug 2017 10:30:59 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 23 Aug 2017 11:31:00 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Wed, 23 Aug 2017 10:30:59 +0200</pubDate>
+		<pubDate>Wed, 23 Aug 2017 11:31:00 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2926632</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2926632</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 23 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 07 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2926632</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>LAVORI DI RECUPERO DI PALAZZO ANGELI II STRALCIO. APPROVAZIONE ACCORDO TRANSATTIVO A FAVORE R.T.I. COSTITUITO DA IMPRESE: SACAIM S.P.A., CAPOGRUPPO MANDATARIA; GUERRATO S.P.A., MANDANTE; C.M.E. CONSORZIO IMPRESE EDILI SOC. COOP., COOPTATA. LIQUIDAZIONE.</title>
+			<description>LAVORI DI RECUPERO DI PALAZZO ANGELI II STRALCIO. APPROVAZIONE ACCORDO TRANSATTIVO A FAVORE R.T.I. COSTITUITO DA IMPRESE: SACAIM S.P.A., CAPOGRUPPO MANDATARIA; GUERRATO S.P.A., MANDANTE; C.M.E. CONSORZIO IMPRESE EDILI SOC. COOP., COOPTATA. LIQUIDAZIONE.</description>
+			<a10:updated>2017-08-23T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2926430</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2926430</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE ELENCO OGGETTI SMARRITI</category>
 			<title>OGGETTI RINVENUTI- PUBBLICAZIONE VERBALE N.02900</title>
 			<description>OGGETTI RINVENUTI- PUBBLICAZIONE VERBALE N.02900</description>
-			<a10:updated>2017-08-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2925409</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2925409</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 22 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 06 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2925409</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE ELENCO OGGETTI SMARRITI</category>
-			<title>OGGETTI RINVENUTI - PUBBLICAZIONE VERBALE N.02899</title>
-			<description>OGGETTI RINVENUTI - PUBBLICAZIONE VERBALE N.02899</description>
 			<a10:updated>2017-08-22T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
