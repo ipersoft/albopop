@@ -5,7 +5,7 @@
 		<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/igrid/1210528</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Celle di Bulgheria</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 23 Aug 2017 12:30:42 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 23 Aug 2017 13:30:35 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Celle di Bulgheria</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Salerno</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Celle di Bulgheria</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_celledibulgheria</a10:id>
-		<pubDate>Wed, 23 Aug 2017 12:30:42 +0200</pubDate>
+		<pubDate>Wed, 23 Aug 2017 13:30:35 +0200</pubDate>
 		<docs>http://albopop.it/comune/celledibulgheria/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2927213</guid>
+			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2927213</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 23 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 07 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2927213</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
+			<title>ASSUNZIONE DI N.1 UNITÀ DI PERSONALE, CAT. C, PROFILO PROFESSIONALE ISTRUTTORE DI VIGILANZA. APPROVAZIONE DELLO SCHEMA DI CONTRATTO INDIVIDUALE DI LAVORO A TEMPO PARZIALE ED INDETERMINATO. </title>
+			<description>ASSUNZIONE DI N.1 UNITÀ DI PERSONALE, CAT. C, PROFILO PROFESSIONALE ISTRUTTORE DI VIGILANZA. APPROVAZIONE DELLO SCHEMA DI CONTRATTO INDIVIDUALE DI LAVORO A TEMPO PARZIALE ED INDETERMINATO. </description>
+			<a10:updated>2017-08-23T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2926946</guid>
 			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2926946</link>
@@ -228,17 +239,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">BANDI E AVVISI AUTORIZZAZIONI</category>
 			<title>AUTORIZZAZIONE ALL'OCCUIPAZIONE DEL SUOLO PUBBLICO DI PIAZZA UMBERTO 1° PER I GIORNI 10 E 11 AGOSTO 2017 PER MANIFESTAZIONE DENOMINATA "FESTA </title>
 			<description>AUTORIZZAZIONE ALL'OCCUIPAZIONE DEL SUOLO PUBBLICO DI PIAZZA UMBERTO 1° PER I GIORNI 10 E 11 AGOSTO 2017 PER MANIFESTAZIONE DENOMINATA "FESTA </description>
-			<a10:updated>2017-08-09T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2914655</guid>
-			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2914655</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 09 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 24 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2914655</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>CONTROLLO E TARATURA TACHIGRAFO CAMION ISUZU. - AFFIDAMENTO FORNITURA ED ASSUNZIONE IMPEGNO DI SPESA. - CIG. N. Z851F52EBB </title>
-			<description>CONTROLLO E TARATURA TACHIGRAFO CAMION ISUZU. - AFFIDAMENTO FORNITURA ED ASSUNZIONE IMPEGNO DI SPESA. - CIG. N. Z851F52EBB </description>
 			<a10:updated>2017-08-09T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
