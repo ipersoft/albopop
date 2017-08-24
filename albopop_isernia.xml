@@ -5,7 +5,7 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 24 Aug 2017 12:31:16 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 24 Aug 2017 13:31:15 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Isernia</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>Thu, 24 Aug 2017 12:31:16 +0200</pubDate>
+		<pubDate>Thu, 24 Aug 2017 13:31:15 +0200</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3463098</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3463098</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 24 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 25 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3463098</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO DEPOSITO ATTI</category>
+			<title>PUBBLICAZIONE ATTI AMBROSIO CLARA + 22</title>
+			<description>PUBBLICAZIONE ATTI AMBROSIO CLARA + 22</description>
+			<a10:updated>2017-08-24T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3463097</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3463097</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 24 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 25 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3463097</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO DEPOSITO ATTI</category>
+			<title>PUBBLICAZIONE ATTI ALLOCCA IMMACOLATA + 9</title>
+			<description>PUBBLICAZIONE ATTI ALLOCCA IMMACOLATA + 9</description>
+			<a10:updated>2017-08-24T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3462858</guid>
 			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3462858</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA GIUNTA COMUNALE</category>
 			<title>Programma Europa per i Cittadini - Strand 2 Sottomisura "Networks of Towns". Bando EACEA 36/2014. Adesione al progetto «For an inclusive Europe. A transnational debate to foster cultural inclusion of minority groups» proposto dall’Opera Nomadi nazionale. Approvazione schema di Accordo di partenariato</title>
 			<description>Programma Europa per i Cittadini - Strand 2 Sottomisura "Networks of Towns". Bando EACEA 36/2014. Adesione al progetto «For an inclusive Europe. A transnational debate to foster cultural inclusion of minority groups» proposto dall’Opera Nomadi nazionale. Approvazione schema di Accordo di partenariato</description>
-			<a10:updated>2017-08-21T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3457872</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3457872</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 21 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 05 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3457872</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA GIUNTA COMUNALE</category>
-			<title>Lavori di completamento del settore V, da adibire ad aule scolastiche. Presa d’atto ed approvazione del PROGETTO DEFINITIVO. </title>
-			<description>Lavori di completamento del settore V, da adibire ad aule scolastiche. Presa d’atto ed approvazione del PROGETTO DEFINITIVO. </description>
-			<a10:updated>2017-08-21T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3457870</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3457870</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 21 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 05 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3457870</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA GIUNTA COMUNALE</category>
-			<title>Autorizzazione all’insediamento del Centro Provinciale per l’Istruzione degli Adulti - C.P.I.A., sede di Isernia, presso l’immobile di proprietà comunale Scuola San Giovanni Bosco, sito al Corso Garibaldi 43.</title>
-			<description>Autorizzazione all’insediamento del Centro Provinciale per l’Istruzione degli Adulti - C.P.I.A., sede di Isernia, presso l’immobile di proprietà comunale Scuola San Giovanni Bosco, sito al Corso Garibaldi 43.</description>
 			<a10:updated>2017-08-21T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
