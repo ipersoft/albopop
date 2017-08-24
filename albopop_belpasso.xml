@@ -5,7 +5,7 @@
 		<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Belpasso</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 24 Aug 2017 17:30:48 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 24 Aug 2017 18:31:01 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Belpasso</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Belpasso</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_belpasso</a10:id>
-		<pubDate>Thu, 24 Aug 2017 17:30:48 +0200</pubDate>
+		<pubDate>Thu, 24 Aug 2017 18:31:01 +0200</pubDate>
 		<docs>http://albopop.it/comune/belpasso/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3463661</guid>
+			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3463661</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 24 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 01 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3463661</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO PER IRREPERIBILITA'</category>
+			<title>AVVISO DI DEPOSITO ATTI -GELOSO ROSARIO +11</title>
+			<description>AVVISO DI DEPOSITO ATTI -GELOSO ROSARIO +11</description>
+			<a10:updated>2017-08-24T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3463604</guid>
 			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3463604</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>ZAPPALÀ CARMELO C/ COMUNE DI BELPASSO . ATTO DI CITAZIONE INNANZI AL TRIBUNALE CIVILE DI CATANIA. COSTITUZIONE IN GIUDIZIO. CONFERIMENTO INCARICO LEGALE. IMPEGNO DI SPESA. CIG: ZAD1EB8CD9 (FASCICOLO N. 1385/2017 ).</title>
 			<description>ZAPPALÀ CARMELO C/ COMUNE DI BELPASSO . ATTO DI CITAZIONE INNANZI AL TRIBUNALE CIVILE DI CATANIA. COSTITUZIONE IN GIUDIZIO. CONFERIMENTO INCARICO LEGALE. IMPEGNO DI SPESA. CIG: ZAD1EB8CD9 (FASCICOLO N. 1385/2017 ).</description>
-			<a10:updated>2017-08-09T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3445206</guid>
-			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3445206</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 09 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 24 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3445206</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>SENTENZA N° 1451/2017 DEL TRIBUNALE DI CATANIA, TERZA SEZIONE CIVILE. PROPOSIZIONE APPELLO. CONFERIMENTO INCARICO LEGALE. IMPEGNO DI SPESA. CIG: Z861EED467 (FASC. N.1383/2017).</title>
-			<description>SENTENZA N° 1451/2017 DEL TRIBUNALE DI CATANIA, TERZA SEZIONE CIVILE. PROPOSIZIONE APPELLO. CONFERIMENTO INCARICO LEGALE. IMPEGNO DI SPESA. CIG: Z861EED467 (FASC. N.1383/2017).</description>
 			<a10:updated>2017-08-09T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
