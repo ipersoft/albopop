@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 23 Aug 2017 18:31:06 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 24 Aug 2017 08:31:02 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Wed, 23 Aug 2017 18:31:06 +0200</pubDate>
+		<pubDate>Thu, 24 Aug 2017 08:31:02 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2927575</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2927575</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 24 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 08 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2927575</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>ATTO DI CITAZIONE IN APPELLO AVANTI IL TRIBUNALE DI ROVIGO AVVERSO LA SENTENZA DEL GIUDICE DI PACE DI ROVIGO N. 203/2017 PROMOSSO DA B. A. </title>
+			<description>ATTO DI CITAZIONE IN APPELLO AVANTI IL TRIBUNALE DI ROVIGO AVVERSO LA SENTENZA DEL GIUDICE DI PACE DI ROVIGO N. 203/2017 PROMOSSO DA B. A. </description>
+			<a10:updated>2017-08-24T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2927395</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2927395</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERE DI CONSIGLIO</category>
 			<title>SOCIETA' IN CONTROLLO DEL COMUNE DI ROVIGO- OBIETTIVI DI CONTENIMENTO DELLE SPESE DI FUNZIONAMENTO AI SENSI DELL'ART.19 COMMA 5 DEL D.LGS. N. 175/2016. ANNUALITA' 2017-2018.</title>
 			<description>SOCIETA' IN CONTROLLO DEL COMUNE DI ROVIGO- OBIETTIVI DI CONTENIMENTO DELLE SPESE DI FUNZIONAMENTO AI SENSI DELL'ART.19 COMMA 5 DEL D.LGS. N. 175/2016. ANNUALITA' 2017-2018.</description>
-			<a10:updated>2017-08-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2925516</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2925516</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 22 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 06 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2925516</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERE DI CONSIGLIO</category>
-			<title>PRESA D'ATTO IN MERITO AI PRELEVAMENTI DAL FONDO DI RISERVA 2° TRIMESTRE ANNO 2017</title>
-			<description>PRESA D'ATTO IN MERITO AI PRELEVAMENTI DAL FONDO DI RISERVA 2° TRIMESTRE ANNO 2017</description>
 			<a10:updated>2017-08-22T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
