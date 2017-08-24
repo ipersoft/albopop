@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 24 Aug 2017 15:31:21 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 24 Aug 2017 16:31:08 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Thu, 24 Aug 2017 15:31:21 +0200</pubDate>
+		<pubDate>Thu, 24 Aug 2017 16:31:08 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2928688</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2928688</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 24 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 08 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2928688</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZE</category>
+			<title>DIVIETO DI VENDITA E SOMMINISTRAZIONE DI BEVANDE IN RECIPIENTI DI VETRO NELLE AREE INTERESSATE DALLO SVOLGIMENTO DELLE PUBBLICHE MANIFESTAZIONI DA CHIUNQUE ORGANIZZATE </title>
+			<description>DIVIETO DI VENDITA E SOMMINISTRAZIONE DI BEVANDE IN RECIPIENTI DI VETRO NELLE AREE INTERESSATE DALLO SVOLGIMENTO DELLE PUBBLICHE MANIFESTAZIONI DA CHIUNQUE ORGANIZZATE </description>
+			<a10:updated>2017-08-24T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2928354</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2928354</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZE</category>
 			<title>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE IN PIAZZA VITTORIO EMANUELE II PER CONCORSO MUSICALE DALLE ORE 18.00 ALLE ORE 24.00 NEI GIORNI 25 E 26 AGOSTO 2017</title>
 			<description>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE IN PIAZZA VITTORIO EMANUELE II PER CONCORSO MUSICALE DALLE ORE 18.00 ALLE ORE 24.00 NEI GIORNI 25 E 26 AGOSTO 2017</description>
-			<a10:updated>2017-08-23T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2926118</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2926118</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 23 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 07 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2926118</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>IMMOBILE SITO IN VIA L. MASIN N. 50 - ROVIGO: RETTIFICA DELLA SITUAZIONE RELATIVA AL LATO NORD E OVEST DELL'UNITÀ IMMOBILIARE, SITA IN VIA MASIN N.50, ERRONEAMENTE RAPPRESENTATA NELL'ELABORATO GRAFICO ALLEGATO ALLA LICENZA EDILIZIA N. 824/20.10.1969, PROT. 13392/29.08.1969.</title>
-			<description>IMMOBILE SITO IN VIA L. MASIN N. 50 - ROVIGO: RETTIFICA DELLA SITUAZIONE RELATIVA AL LATO NORD E OVEST DELL'UNITÀ IMMOBILIARE, SITA IN VIA MASIN N.50, ERRONEAMENTE RAPPRESENTATA NELL'ELABORATO GRAFICO ALLEGATO ALLA LICENZA EDILIZIA N. 824/20.10.1969, PROT. 13392/29.08.1969.</description>
 			<a10:updated>2017-08-23T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

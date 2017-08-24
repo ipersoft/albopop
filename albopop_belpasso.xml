@@ -5,7 +5,7 @@
 		<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Belpasso</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 24 Aug 2017 15:31:08 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 24 Aug 2017 16:30:52 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Belpasso</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Belpasso</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_belpasso</a10:id>
-		<pubDate>Thu, 24 Aug 2017 15:31:08 +0200</pubDate>
+		<pubDate>Thu, 24 Aug 2017 16:30:52 +0200</pubDate>
 		<docs>http://albopop.it/comune/belpasso/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3463561</guid>
+			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3463561</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 24 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 23 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3463561</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO</category>
+			<title>AVVISO PUBBLICO - PRESENTAZIONE DI ISTANZA PER SOSTEGNO IN FAVORE DI SOGGETTI AFFETTE DA SCLEROSI LATERALE AMIOTROFICA (SLA)</title>
+			<description>AVVISO PUBBLICO - PRESENTAZIONE DI ISTANZA PER SOSTEGNO IN FAVORE DI SOGGETTI AFFETTE DA SCLEROSI LATERALE AMIOTROFICA (SLA)</description>
+			<a10:updated>2017-08-24T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3462771</guid>
 			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3462771</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>LO CASTRO LUCIA ED ALTRI C/ COMUNE DI BELPASSO. CORTE D'APPELLO DI CATANIA. COSTITUZIONE IN GIUDIZIO. CONFERIMENTO INCARICO LEGALE. IMPEGNO DI SPESA. CIG: ZE11EEFBA3 (FASC. N.1387/2017).</title>
 			<description>LO CASTRO LUCIA ED ALTRI C/ COMUNE DI BELPASSO. CORTE D'APPELLO DI CATANIA. COSTITUZIONE IN GIUDIZIO. CONFERIMENTO INCARICO LEGALE. IMPEGNO DI SPESA. CIG: ZE11EEFBA3 (FASC. N.1387/2017).</description>
-			<a10:updated>2017-08-09T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3445202</guid>
-			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3445202</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 09 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 24 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3445202</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>LONGO FRANCESCO E KROCZEK ZANETA C/ COMUNE DI BELPASSO. GIUDICE DI PACE DI BELPASSO. COSTITUZIONE IN GIUDIZIO. CONFERIMENTO INCARICO LEGALE. IMPEGNO DI SPESA. CIG: ZDF1EEC431. (FASC. N. 1388/2017 ) .</title>
-			<description>LONGO FRANCESCO E KROCZEK ZANETA C/ COMUNE DI BELPASSO. GIUDICE DI PACE DI BELPASSO. COSTITUZIONE IN GIUDIZIO. CONFERIMENTO INCARICO LEGALE. IMPEGNO DI SPESA. CIG: ZDF1EEC431. (FASC. N. 1388/2017 ) .</description>
 			<a10:updated>2017-08-09T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
