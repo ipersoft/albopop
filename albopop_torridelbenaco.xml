@@ -5,7 +5,7 @@
 		<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Torri del Benaco</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 25 Aug 2017 08:31:35 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 25 Aug 2017 09:31:56 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Torri del Benaco</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Verona</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Torri del Benaco</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_torridelbenaco</a10:id>
-		<pubDate>Fri, 25 Aug 2017 08:31:35 +0200</pubDate>
+		<pubDate>Fri, 25 Aug 2017 09:31:56 +0200</pubDate>
 		<docs>http://albopop.it/comune/torridelbenaco/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3463873</guid>
+			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3463873</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 25 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 09 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3463873</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
+			<title>LEGGE REGIONALE 6 GIUGNO 2017, N. 14 "DISPOSIZIONI PER IL CONTENIMENTO DEL CONSUMO DI SUOLO E MODIFICHE ALLA LEGGE REGIONALE 23 APRILE 2004, N. 11 "NORME PER IL GOVERNO DEL TERRITORIO E IN MATERIA DI PAESAGGIO". INDIVIDUAZIONE DEGLI AMBITI DI URBANIZZAZIONE CONSOLIDATA.</title>
+			<description>LEGGE REGIONALE 6 GIUGNO 2017, N. 14 "DISPOSIZIONI PER IL CONTENIMENTO DEL CONSUMO DI SUOLO E MODIFICHE ALLA LEGGE REGIONALE 23 APRILE 2004, N. 11 "NORME PER IL GOVERNO DEL TERRITORIO E IN MATERIA DI PAESAGGIO". INDIVIDUAZIONE DEGLI AMBITI DI URBANIZZAZIONE CONSOLIDATA.</description>
+			<a10:updated>2017-08-25T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3462763</guid>
 			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3462763</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>REDAZIONE E PRESENTAZIONE DENUNCIA QUERELA. AFFIDAMENTO INCARICO ALL'AVVOCATO FILIPPO VICENTINI DI VERONA.</title>
 			<description>REDAZIONE E PRESENTAZIONE DENUNCIA QUERELA. AFFIDAMENTO INCARICO ALL'AVVOCATO FILIPPO VICENTINI DI VERONA.</description>
-			<a10:updated>2017-08-16T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3453661</guid>
-			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3453661</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 16 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 31 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3453661</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>REALIZZAZIONE IMPIANTI ELETTRICI PROVVISORI PER MANIFESTAZIONI ED EVENTI ESTIVI. AFFIDAMENTO INCARICO ALLA DITTA FR-AL SNC DI CAVAION VERONESE.</title>
-			<description>REALIZZAZIONE IMPIANTI ELETTRICI PROVVISORI PER MANIFESTAZIONI ED EVENTI ESTIVI. AFFIDAMENTO INCARICO ALLA DITTA FR-AL SNC DI CAVAION VERONESE.</description>
 			<a10:updated>2017-08-16T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
