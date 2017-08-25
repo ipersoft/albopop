@@ -5,7 +5,7 @@
 		<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Torri del Benaco</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 25 Aug 2017 11:31:43 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 25 Aug 2017 12:31:38 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Torri del Benaco</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Verona</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Torri del Benaco</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_torridelbenaco</a10:id>
-		<pubDate>Fri, 25 Aug 2017 11:31:43 +0200</pubDate>
+		<pubDate>Fri, 25 Aug 2017 12:31:38 +0200</pubDate>
 		<docs>http://albopop.it/comune/torridelbenaco/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3464460</guid>
+			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3464460</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 25 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 09 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3464460</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISO</category>
+			<title>INTERDIZIONE E CAUTA NAVIGAZIONE NELLE ACQUE DEL LAGO DI GARDA SABATO 2 SETTEMBRE E DOMENICA 3 SETTEMBRE 2017 PER SVOLGIMENTO MANIFESTAZIONI NAUTICHE SUPER G - 51° TROFEO GORLA - 50 MIGLIA - ORGANIZZATORE CIRCOLO VELA GARGNANO TRASMISSIONE ORDINANZA N. 319 DEL 24 AGOSTO 2017</title>
+			<description>INTERDIZIONE E CAUTA NAVIGAZIONE NELLE ACQUE DEL LAGO DI GARDA SABATO 2 SETTEMBRE E DOMENICA 3 SETTEMBRE 2017 PER SVOLGIMENTO MANIFESTAZIONI NAUTICHE SUPER G - 51° TROFEO GORLA - 50 MIGLIA - ORGANIZZATORE CIRCOLO VELA GARGNANO TRASMISSIONE ORDINANZA N. 319 DEL 24 AGOSTO 2017</description>
+			<a10:updated>2017-08-25T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3464343</guid>
 			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3464343</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>DITTA BENACUS SNC DI TORRI DEL BENACO. SERVIZIO DI SGOMBERO NEVE PER IL TRIENNIO 2016/18. LIQUIDAZIONE FATTURE INTERVENTI ANNI 2016 E 2017.</title>
 			<description>DITTA BENACUS SNC DI TORRI DEL BENACO. SERVIZIO DI SGOMBERO NEVE PER IL TRIENNIO 2016/18. LIQUIDAZIONE FATTURE INTERVENTI ANNI 2016 E 2017.</description>
-			<a10:updated>2017-08-18T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3456097</guid>
-			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3456097</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 18 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 02 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3456097</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>DITTA BENACUS SNC DI TORRI DEL BENACO. SERVIZIO DI MANUTENZIONE SPIAGGE E RIPRISTINO PENNELLI FRANGIONDE PER IL TRIENNIO 2016/18. APPROVAZIONE 1° STATO D'AVANZAMENTO E LIQUIDAZIONE CERTIFICATO DI PAGAMENTO N.01.</title>
-			<description>DITTA BENACUS SNC DI TORRI DEL BENACO. SERVIZIO DI MANUTENZIONE SPIAGGE E RIPRISTINO PENNELLI FRANGIONDE PER IL TRIENNIO 2016/18. APPROVAZIONE 1° STATO D'AVANZAMENTO E LIQUIDAZIONE CERTIFICATO DI PAGAMENTO N.01.</description>
 			<a10:updated>2017-08-18T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
