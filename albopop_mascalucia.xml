@@ -5,7 +5,7 @@
 		<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mascalucia</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 25 Aug 2017 09:31:51 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 25 Aug 2017 10:31:28 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mascalucia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mascalucia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mascalucia</a10:id>
-		<pubDate>Fri, 25 Aug 2017 09:31:51 +0200</pubDate>
+		<pubDate>Fri, 25 Aug 2017 10:31:28 +0200</pubDate>
 		<docs>http://albopop.it/comune/mascalucia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -31,6 +31,17 @@
 			<title>PERMESSO DI COSTRUIRE N. 021/2017 PASTORELLO VITTORIO PRATICA EDILIZIA N. 24/2016</title>
 			<description>PERMESSO DI COSTRUIRE N. 021/2017 PASTORELLO VITTORIO PRATICA EDILIZIA N. 24/2016</description>
 			<a10:updated>2017-08-11T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2929090</guid>
+			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2929090</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 25 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 01 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2929090</category>
+			<category domain="http://albopop.it/specs#item-category-type">COMMISSIONI CONSILIARI CONVOCAZIONE I COMMISSIONE CONSILIARE</category>
+			<title>CONVOCAZIONE SEDUTE PRIMA COMMISSIONE DAL 28 AL 1 SETTEMBRE 2017</title>
+			<description>CONVOCAZIONE SEDUTE PRIMA COMMISSIONE DAL 28 AL 1 SETTEMBRE 2017</description>
+			<a10:updated>2017-08-25T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2928989</guid>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
 			<title>FORNITURA AGGIORNAMENTO N. 120 LICENZE D'USO SOFTWARE ANTIVIRUS/ANTISPYWARE DI RETE</title>
 			<description>FORNITURA AGGIORNAMENTO N. 120 LICENZE D'USO SOFTWARE ANTIVIRUS/ANTISPYWARE DI RETE</description>
-			<a10:updated>2017-08-24T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2928016</guid>
-			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2928016</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 24 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 08 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2928016</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
-			<title>RICOVERO DISABILE R. G. E C.T. LIQUIDAZIONE MESE DI LUGLIO 2017. BENEFICIARIO: SOC. COOP. SOCIALE PUNTO &amp; ACCAPO. </title>
-			<description>RICOVERO DISABILE R. G. E C.T. LIQUIDAZIONE MESE DI LUGLIO 2017. BENEFICIARIO: SOC. COOP. SOCIALE PUNTO &amp; ACCAPO. </description>
 			<a10:updated>2017-08-24T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
