@@ -5,7 +5,7 @@
 		<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Torri del Benaco</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 25 Aug 2017 13:31:42 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 25 Aug 2017 14:31:41 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Torri del Benaco</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Verona</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Torri del Benaco</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_torridelbenaco</a10:id>
-		<pubDate>Fri, 25 Aug 2017 13:31:42 +0200</pubDate>
+		<pubDate>Fri, 25 Aug 2017 14:31:41 +0200</pubDate>
 		<docs>http://albopop.it/comune/torridelbenaco/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3464886</guid>
+			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3464886</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 25 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 09 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3464886</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISO</category>
+			<title>MANIFESTAZIONE SPORTIVA KUOTA TRIO PESCHIERA TRIATHLON OLIMPICO E SPRINT SABATO 16 SETTEMBRE E DOMENICA 17 SETTEMBRE 2017 - COMUNE DI PESCHIERA DEL GARDA. INTERDIZIONE E CAUTA NAVIGAZIONE NELLE ACQUE DEL LAGO DI GARDA TRASMISSIONE ORDINANZA N. 321 DEL 24 AGOSTO 2017</title>
+			<description>MANIFESTAZIONE SPORTIVA KUOTA TRIO PESCHIERA TRIATHLON OLIMPICO E SPRINT SABATO 16 SETTEMBRE E DOMENICA 17 SETTEMBRE 2017 - COMUNE DI PESCHIERA DEL GARDA. INTERDIZIONE E CAUTA NAVIGAZIONE NELLE ACQUE DEL LAGO DI GARDA TRASMISSIONE ORDINANZA N. 321 DEL 24 AGOSTO 2017</description>
+			<a10:updated>2017-08-25T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3464460</guid>
 			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3464460</link>
@@ -284,17 +295,6 @@
 			<title>INTERDIZIONE E CAUTA NAVIGAZIONE NEL GOLFO DI GARDA, PER LO SVOLGIMENTO DELLA MANIFESTAZIONE VELICA V TROFEO PER UNICEF DOMENICA 17 SETTEMBRE 2017 - TRASMISSIONE ORDINANZA N. 306 DEL 14 AGOSTO 2017</title>
 			<description>INTERDIZIONE E CAUTA NAVIGAZIONE NEL GOLFO DI GARDA, PER LO SVOLGIMENTO DELLA MANIFESTAZIONE VELICA V TROFEO PER UNICEF DOMENICA 17 SETTEMBRE 2017 - TRASMISSIONE ORDINANZA N. 306 DEL 14 AGOSTO 2017</description>
 			<a10:updated>2017-08-21T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3456100</guid>
-			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3456100</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 18 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 02 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3456100</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>DITTA BENACUS SNC DI TORRI DEL BENACO. SERVIZIO DI SGOMBERO NEVE PER IL TRIENNIO 2016/18. LIQUIDAZIONE FATTURE INTERVENTI ANNI 2016 E 2017.</title>
-			<description>DITTA BENACUS SNC DI TORRI DEL BENACO. SERVIZIO DI SGOMBERO NEVE PER IL TRIENNIO 2016/18. LIQUIDAZIONE FATTURE INTERVENTI ANNI 2016 E 2017.</description>
-			<a10:updated>2017-08-18T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
