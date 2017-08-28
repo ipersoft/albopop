@@ -5,7 +5,7 @@
 		<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Torri del Benaco</description>
 		<language>it</language>
-		<lastBuildDate>Sun, 27 Aug 2017 18:31:17 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 28 Aug 2017 09:31:14 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Torri del Benaco</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Verona</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Torri del Benaco</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_torridelbenaco</a10:id>
-		<pubDate>Sun, 27 Aug 2017 18:31:17 +0200</pubDate>
+		<pubDate>Mon, 28 Aug 2017 09:31:14 +0200</pubDate>
 		<docs>http://albopop.it/comune/torridelbenaco/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3465523</guid>
+			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3465523</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 28 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 12 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3465523</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
+			<title>ACQUISTO BIGLIETTI PER IL PARCHEGGIO DEL CASTELLO (2^ACQUISTO MESE DI LUGLIO). CIG: Z9B1F7B5E3</title>
+			<description>ACQUISTO BIGLIETTI PER IL PARCHEGGIO DEL CASTELLO (2^ACQUISTO MESE DI LUGLIO). CIG: Z9B1F7B5E3</description>
+			<a10:updated>2017-08-28T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3464886</guid>
 			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3464886</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISO</category>
 			<title>INTERDIZIONE E CAUTA NAVIGAZIONENELLO SPECCHIO ACQUEO ANTISTANTE IL CAMPING INTERNAZIONALE LA QUERCIA IN LOC. BOTTONA A LAZISE OER ESCUZIONE SPETTACOLO PIROMUSICALE SABATO 16 SETTEMBRE 2017 - TRASMISSIONE ORDINANZA N. 304 DEL 14 AGOSTO 2017</title>
 			<description>INTERDIZIONE E CAUTA NAVIGAZIONENELLO SPECCHIO ACQUEO ANTISTANTE IL CAMPING INTERNAZIONALE LA QUERCIA IN LOC. BOTTONA A LAZISE OER ESCUZIONE SPETTACOLO PIROMUSICALE SABATO 16 SETTEMBRE 2017 - TRASMISSIONE ORDINANZA N. 304 DEL 14 AGOSTO 2017</description>
-			<a10:updated>2017-08-21T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3457474</guid>
-			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3457474</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 21 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 05 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3457474</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISO</category>
-			<title>INTERDIZIONE E CAUTA NAVIGAZIONE NEL GOLFO DI GARDA, PER LO SVOLGIMENTO DELLA MANIFESTAZIONE VELICA V TROFEO PER UNICEF DOMENICA 17 SETTEMBRE 2017 - TRASMISSIONE ORDINANZA N. 306 DEL 14 AGOSTO 2017</title>
-			<description>INTERDIZIONE E CAUTA NAVIGAZIONE NEL GOLFO DI GARDA, PER LO SVOLGIMENTO DELLA MANIFESTAZIONE VELICA V TROFEO PER UNICEF DOMENICA 17 SETTEMBRE 2017 - TRASMISSIONE ORDINANZA N. 306 DEL 14 AGOSTO 2017</description>
 			<a10:updated>2017-08-21T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

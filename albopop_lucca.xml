@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Sun, 27 Aug 2017 18:31:05 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 28 Aug 2017 09:30:56 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Sun, 27 Aug 2017 18:31:05 +0200</pubDate>
+		<pubDate>Mon, 28 Aug 2017 09:30:56 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3465453</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3465453</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 28 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 13 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3465453</category>
+			<category domain="http://albopop.it/specs#item-category-type">BANDO DI CONCORSO/SELEZIONI PUBBLICHE BANDI DI CONCORSO/SELEZIONI PUBBLICHE</category>
+			<title>COMUNE DI FORTE DEI MARMI: PUBBLICAZIONE AVVISO RECLUTAMENTO TRAMITE MOBILITÀ VOLONTARIA TRA ENTI - RIAPERTURA DEI TERMINI, 1 POSTO DI ISTRUTTORE TECNICO DIRETTIVO CAT. D1</title>
+			<description>COMUNE DI FORTE DEI MARMI: PUBBLICAZIONE AVVISO RECLUTAMENTO TRAMITE MOBILITÀ VOLONTARIA TRA ENTI - RIAPERTURA DEI TERMINI, 1 POSTO DI ISTRUTTORE TECNICO DIRETTIVO CAT. D1</description>
+			<a10:updated>2017-08-28T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3464964</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3464964</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>RIMBORSO AI DATORI DI LAVORO - PERMESSI RETRIBUITI AD AMMINISTRATORI COMUNALI PER PARTECIPAZIONE A SEDUTE DEGLI ORGANI COLLEGIALI E COMMISSIONI CONSILIARI </title>
 			<description>RIMBORSO AI DATORI DI LAVORO - PERMESSI RETRIBUITI AD AMMINISTRATORI COMUNALI PER PARTECIPAZIONE A SEDUTE DEGLI ORGANI COLLEGIALI E COMMISSIONI CONSILIARI </description>
-			<a10:updated>2017-08-24T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3463702</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3463702</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 24 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 08 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3463702</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>U.O. 2.2. - RESTITUZIONE SOMME VERSATE PER COMPARTECIPAZIONE RETTE DI RICOVERO: IMPEGNO DI SPESA E LIQUIDAZIONE (FAMIGLIA 11: ALTRO)</title>
-			<description>U.O. 2.2. - RESTITUZIONE SOMME VERSATE PER COMPARTECIPAZIONE RETTE DI RICOVERO: IMPEGNO DI SPESA E LIQUIDAZIONE (FAMIGLIA 11: ALTRO)</description>
 			<a10:updated>2017-08-24T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
