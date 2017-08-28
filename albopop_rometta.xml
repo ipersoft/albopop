@@ -5,7 +5,7 @@
 		<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rometta</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 28 Aug 2017 13:31:09 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 28 Aug 2017 14:31:01 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rometta</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Messina</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rometta</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rometta</a10:id>
-		<pubDate>Mon, 28 Aug 2017 13:31:09 +0200</pubDate>
+		<pubDate>Mon, 28 Aug 2017 14:31:01 +0200</pubDate>
 		<docs>http://albopop.it/comune/rometta/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3466796</guid>
+			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3466796</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 28 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 12 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3466796</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI CONCESSIONE EDILIZIA</category>
+			<title>PROROG AVALIDITÀ CONCESSIONE ESILIZIA N. 15/12 -- DITTA DAMIRI SEBASTIANO</title>
+			<description>PROROG AVALIDITÀ CONCESSIONE ESILIZIA N. 15/12 -- DITTA DAMIRI SEBASTIANO</description>
+			<a10:updated>2017-08-28T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3466792</guid>
+			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3466792</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 28 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 12 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3466792</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI CONCESSIONE EDILIZIA</category>
+			<title>PERMESSO DI COSTRUIRE N. 10/17 -- DITTA CARUSO SALVATORE</title>
+			<description>PERMESSO DI COSTRUIRE N. 10/17 -- DITTA CARUSO SALVATORE</description>
+			<a10:updated>2017-08-28T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3463215</guid>
 			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3463215</link>
@@ -273,28 +295,6 @@
 			<title>DELIBERA DI G.M. 20 DEL 10.02.2016 – RECUPERO SOMME CONDOMINI MOROSI DECRETI INGIUNTIVI EMESSI NELL’INTERESSE DEL COMUNE. LIQUIDAZIONE SOMME IN FAVORE DELL’AVV. GIUSEPPINA SORRENTI. </title>
 			<description>DELIBERA DI G.M. 20 DEL 10.02.2016 – RECUPERO SOMME CONDOMINI MOROSI DECRETI INGIUNTIVI EMESSI NELL’INTERESSE DEL COMUNE. LIQUIDAZIONE SOMME IN FAVORE DELL’AVV. GIUSEPPINA SORRENTI. </description>
 			<a10:updated>2017-08-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3458660</guid>
-			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3458660</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 21 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 05 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3458660</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>“ESTATE 2017” LIQUIDAZIONE FATTURA VISITA MEDICA PER I PARTECIPANTI AL PALIO ERIMATA – DOTT. GIANLUIGI VACCARINO (CIG. Z931F66D3C)</title>
-			<description>“ESTATE 2017” LIQUIDAZIONE FATTURA VISITA MEDICA PER I PARTECIPANTI AL PALIO ERIMATA – DOTT. GIANLUIGI VACCARINO (CIG. Z931F66D3C)</description>
-			<a10:updated>2017-08-21T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3458658</guid>
-			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3458658</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 21 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 05 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3458658</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>“ESTATE 2017” LIQUIDAZIONE FATTURA DITTA FORMAR S.A.S., PER FORNITURA FUNE PER GARE PALIO DI ERIMATA 2017 (CIG. Z331F8CEB4)</title>
-			<description>“ESTATE 2017” LIQUIDAZIONE FATTURA DITTA FORMAR S.A.S., PER FORNITURA FUNE PER GARE PALIO DI ERIMATA 2017 (CIG. Z331F8CEB4)</description>
-			<a10:updated>2017-08-21T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
