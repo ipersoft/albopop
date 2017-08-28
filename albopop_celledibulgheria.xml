@@ -5,7 +5,7 @@
 		<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/igrid/1210528</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Celle di Bulgheria</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 28 Aug 2017 09:30:34 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 28 Aug 2017 10:30:38 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Celle di Bulgheria</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Salerno</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Celle di Bulgheria</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_celledibulgheria</a10:id>
-		<pubDate>Mon, 28 Aug 2017 09:30:34 +0200</pubDate>
+		<pubDate>Mon, 28 Aug 2017 10:30:38 +0200</pubDate>
 		<docs>http://albopop.it/comune/celledibulgheria/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2930276</guid>
+			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2930276</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 28 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 12 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2930276</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ABUSI EDILIZI</category>
+			<title>PUBBLICAZIONE ESTRATTO DELL’ ORDINANZA N° 01/2017 DEL 28/08/2017 PROT. N°4466 DEL 28/08/2017 RIPRISTINO DELLO STATO DEI LUOGHI MEDIANTE LA DEMOLIZIONE DI OPERE EDILI ABUSIVE SU FONDO IN CATASTO FOGLIO N° 08 PARTICELLA N° 650 DEL COMUNE DI CELLE DI BULGHERIA </title>
+			<description>PUBBLICAZIONE ESTRATTO DELL’ ORDINANZA N° 01/2017 DEL 28/08/2017 PROT. N°4466 DEL 28/08/2017 RIPRISTINO DELLO STATO DEI LUOGHI MEDIANTE LA DEMOLIZIONE DI OPERE EDILI ABUSIVE SU FONDO IN CATASTO FOGLIO N° 08 PARTICELLA N° 650 DEL COMUNE DI CELLE DI BULGHERIA </description>
+			<a10:updated>2017-08-28T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2930127</guid>
 			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2930127</link>
@@ -229,17 +240,6 @@
 			<title>AVVISO PRELIMINARE DEL PUIC</title>
 			<description>AVVISO PRELIMINARE DEL PUIC</description>
 			<a10:updated>2017-07-05T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2832139</guid>
-			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2832139</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 26 Jun 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 31 Dec 2018 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2832139</category>
-			<category domain="http://albopop.it/specs#item-category-type">BANDI E AVVISI AVVISO</category>
-			<title>SI PUBBLICANO I MODELLI UNICI NAZIONALI SEMPLIFICATI PER L'EDILIZIA GIA' PUBBLICATI SUL BOLLETTINO UFFICIALE DELLA REGIONE CAMPANIA NUMERO 49 DEL 19/06/2017</title>
-			<description>SI PUBBLICANO I MODELLI UNICI NAZIONALI SEMPLIFICATI PER L'EDILIZIA GIA' PUBBLICATI SUL BOLLETTINO UFFICIALE DELLA REGIONE CAMPANIA NUMERO 49 DEL 19/06/2017</description>
-			<a10:updated>2017-06-26T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
