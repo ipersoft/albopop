@@ -5,7 +5,7 @@
 		<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Annone Veneto</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 28 Aug 2017 18:30:47 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 29 Aug 2017 08:31:03 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Annone Veneto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Annone Veneto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_annoneveneto</a10:id>
-		<pubDate>Mon, 28 Aug 2017 18:30:47 +0200</pubDate>
+		<pubDate>Tue, 29 Aug 2017 08:31:03 +0200</pubDate>
 		<docs>http://albopop.it/comune/annoneveneto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3467294</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3467294</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 29 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 13 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3467294</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>INTERVENTO PER SMONTAGGIO E RIMONTAGGIO ARMADIO METALLICO UFFICIO POLIZIA LOCALE - IMPEGNO DI SPESA</title>
+			<description>INTERVENTO PER SMONTAGGIO E RIMONTAGGIO ARMADIO METALLICO UFFICIO POLIZIA LOCALE - IMPEGNO DI SPESA</description>
+			<a10:updated>2017-08-29T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3467291</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3467291</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 29 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 13 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3467291</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>LAVORI DI MANUTENZIONE AI LOCULI DEL CIMITERO DEL CAPOLUOGO - IMPEGNO DI SPESA</title>
+			<description>LAVORI DI MANUTENZIONE AI LOCULI DEL CIMITERO DEL CAPOLUOGO - IMPEGNO DI SPESA</description>
+			<a10:updated>2017-08-29T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3467288</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3467288</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 29 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 13 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3467288</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>FORNITURA PIASTRE IN MARMO PER LOCULI CIMITERIALI - LIQUIDAZIONE</title>
+			<description>FORNITURA PIASTRE IN MARMO PER LOCULI CIMITERIALI - LIQUIDAZIONE</description>
+			<a10:updated>2017-08-29T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3467241</guid>
 			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3467241</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
 			<title>APPROVAZIONE IN LINEA TECNICA DEL PROGETTO ESECUTIVO PER LA "RISTRUTTURAZIONE DI UN EDIFICIO POLIVALENTE FUNZIONALE ALLA CUCINA SCOLASTICA DI ANNONE VENETO"</title>
 			<description>APPROVAZIONE IN LINEA TECNICA DEL PROGETTO ESECUTIVO PER LA "RISTRUTTURAZIONE DI UN EDIFICIO POLIVALENTE FUNZIONALE ALLA CUCINA SCOLASTICA DI ANNONE VENETO"</description>
-			<a10:updated>2017-08-23T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3461339</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3461339</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 23 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 07 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3461339</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>APPROVAZIONE IN LINEA TECNICA DEL PROGETTO DEFINITIVO/ESECUTIVO DEI LAVORI DI "AMPLIAMENTO DELLA SCUOLA DELL'INFANZIA DI LONCON ALICE GUARDA IL MONDO"</title>
-			<description>APPROVAZIONE IN LINEA TECNICA DEL PROGETTO DEFINITIVO/ESECUTIVO DEI LAVORI DI "AMPLIAMENTO DELLA SCUOLA DELL'INFANZIA DI LONCON ALICE GUARDA IL MONDO"</description>
-			<a10:updated>2017-08-23T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3461336</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3461336</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 23 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 07 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3461336</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>APPROVAZIONE DEL PROGETTO PRELIMINARE DEI LAVORI DI "REALIZZAZIONE DI UN'AREA A PARCHEGGIO A SERVIZIO DEL CIMITERO DI LONCON - 1° STRALCIO"</title>
-			<description>APPROVAZIONE DEL PROGETTO PRELIMINARE DEI LAVORI DI "REALIZZAZIONE DI UN'AREA A PARCHEGGIO A SERVIZIO DEL CIMITERO DI LONCON - 1° STRALCIO"</description>
-			<a10:updated>2017-08-23T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3461333</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3461333</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 23 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 07 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3461333</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>ASSEGNAZIONE CONTRIBUTI ALL'ISTITUTO COMPRENSIVO SCOLASTICO "I. NIEVO" DI CINTO CAOMAGGIORE PER L'A.S. 2016/2017</title>
-			<description>ASSEGNAZIONE CONTRIBUTI ALL'ISTITUTO COMPRENSIVO SCOLASTICO "I. NIEVO" DI CINTO CAOMAGGIORE PER L'A.S. 2016/2017</description>
 			<a10:updated>2017-08-23T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
