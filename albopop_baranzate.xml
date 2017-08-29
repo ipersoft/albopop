@@ -5,7 +5,7 @@
 		<link>http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Baranzate</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 29 Aug 2017 15:30:51 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 29 Aug 2017 16:31:11 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Baranzate</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Milano</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Baranzate</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_baranzate</a10:id>
-		<pubDate>Tue, 29 Aug 2017 15:30:51 +0200</pubDate>
+		<pubDate>Tue, 29 Aug 2017 16:31:11 +0200</pubDate>
 		<docs>http://albopop.it/comune/baranzate/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -187,6 +187,17 @@
 			<a10:updated>2017-08-29T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
+			<guid isPermaLink="true">http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3468971</guid>
+			<link>http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3468971</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 29 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 13 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3468971</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINA P.O. DETERMINA</category>
+			<title>CONGEDO STRAORDINARIO D.LGS. 165/2001 ART. 42</title>
+			<description>CONGEDO STRAORDINARIO D.LGS. 165/2001 ART. 42</description>
+			<a10:updated>2017-08-29T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
 			<guid isPermaLink="true">http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3468673</guid>
 			<link>http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3468673</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 29 Aug 2017 02:00:00 +0200</category>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINA P.O. DETERMINA</category>
 			<title>COMMISSIONE CONTRIBUTI ECONOMICI MESE DI GIUGNO 2017</title>
 			<description>COMMISSIONE CONTRIBUTI ECONOMICI MESE DI GIUGNO 2017</description>
-			<a10:updated>2017-08-29T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3468737</guid>
-			<link>http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3468737</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 29 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 13 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3468737</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINA P.O. DETERMINA</category>
-			<title>IMPEGNO DI SPESA IN RSA SEMESTRE 2017 S.RA M.F.</title>
-			<description>IMPEGNO DI SPESA IN RSA SEMESTRE 2017 S.RA M.F.</description>
 			<a10:updated>2017-08-29T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
