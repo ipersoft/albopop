@@ -5,7 +5,7 @@
 		<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/igrid/1210528</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Celle di Bulgheria</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 29 Aug 2017 11:30:36 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 29 Aug 2017 12:30:36 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Celle di Bulgheria</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Salerno</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Celle di Bulgheria</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_celledibulgheria</a10:id>
-		<pubDate>Tue, 29 Aug 2017 11:30:36 +0200</pubDate>
+		<pubDate>Tue, 29 Aug 2017 12:30:36 +0200</pubDate>
 		<docs>http://albopop.it/comune/celledibulgheria/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2931555</guid>
+			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2931555</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 29 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 13 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2931555</category>
+			<category domain="http://albopop.it/specs#item-category-type">BANDI E AVVISI AUTORIZZAZIONI</category>
+			<title>AUTORIZZAZIONE CIRCO CASTELLUCCI AGOSTO 29-30-31- 2017 IN LOCALITÀ PODERIA EX CAMPO SPORTIVO</title>
+			<description>AUTORIZZAZIONE CIRCO CASTELLUCCI AGOSTO 29-30-31- 2017 IN LOCALITÀ PODERIA EX CAMPO SPORTIVO</description>
+			<a10:updated>2017-08-29T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2931447</guid>
 			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2931447</link>
@@ -229,17 +240,6 @@
 			<title>AUTORIZZAZIONE SIG. MAROTTA DAVIDE PRESIDENTE DELL' ASSOCIAZIONE ' ASSCER CELLARUM' PER LA MANIFESTAZIONE DENOMINATA ' A CILLISI' AD EFFETTUARSI NEI GIORNI 16/17/18 E 19 AGOSTO 2017 NEL CENTRO STORICO DEL CAPOLUOGO (PIAZZETTA CROCEVIA, VIA ROMA E PIAZZA UMBERTO</title>
 			<description>AUTORIZZAZIONE SIG. MAROTTA DAVIDE PRESIDENTE DELL' ASSOCIAZIONE ' ASSCER CELLARUM' PER LA MANIFESTAZIONE DENOMINATA ' A CILLISI' AD EFFETTUARSI NEI GIORNI 16/17/18 E 19 AGOSTO 2017 NEL CENTRO STORICO DEL CAPOLUOGO (PIAZZETTA CROCEVIA, VIA ROMA E PIAZZA UMBERTO</description>
 			<a10:updated>2017-08-16T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2896137</guid>
-			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2896137</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 29 Jul 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 01 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2896137</category>
-			<category domain="http://albopop.it/specs#item-category-type">BANDI E AVVISI AUTORIZZAZIONI</category>
-			<title>PUBBLICAZIONE ELENCO AUTORIZZAZIONI PAESAGGISTICHE RILASCIATE DAL COMUNE DI CELLE DI BULGHERIA A TUTTO IL 2° TRIMESTRE 2017. </title>
-			<description>PUBBLICAZIONE ELENCO AUTORIZZAZIONI PAESAGGISTICHE RILASCIATE DAL COMUNE DI CELLE DI BULGHERIA A TUTTO IL 2° TRIMESTRE 2017. </description>
-			<a10:updated>2017-07-29T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>

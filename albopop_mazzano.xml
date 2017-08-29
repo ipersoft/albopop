@@ -5,7 +5,7 @@
 		<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mazzano</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 29 Aug 2017 11:31:55 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 29 Aug 2017 12:31:47 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mazzano</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mazzano</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mazzano</a10:id>
-		<pubDate>Tue, 29 Aug 2017 11:31:55 +0200</pubDate>
+		<pubDate>Tue, 29 Aug 2017 12:31:47 +0200</pubDate>
 		<docs>http://albopop.it/comune/mazzano/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3468184</guid>
+			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3468184</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 29 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 13 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3468184</category>
+			<category domain="http://albopop.it/specs#item-category-type">DECRETI SINDACALI</category>
+			<title>DECRETO N. 4 IN DATA 25.08.2017: NOMINA DEL FUNZIONARIO RESPONSABILE DEL PROCEDIMENTO DI RISCOSSIONE IN RELAZIONE ALLA DECISIONE DI CONDANNA N. 117/2017 DEL 17.07.2017 NEI CONFRONTI DI AIPA</title>
+			<description>DECRETO N. 4 IN DATA 25.08.2017: NOMINA DEL FUNZIONARIO RESPONSABILE DEL PROCEDIMENTO DI RISCOSSIONE IN RELAZIONE ALLA DECISIONE DI CONDANNA N. 117/2017 DEL 17.07.2017 NEI CONFRONTI DI AIPA</description>
+			<a10:updated>2017-08-29T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3468130</guid>
+			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3468130</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 29 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 28 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3468130</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO AVVISO</category>
+			<title>DECRETO CAMBIO COGNOME DA SINGH TARNJEET A MULTANI TARNJEET</title>
+			<description>DECRETO CAMBIO COGNOME DA SINGH TARNJEET A MULTANI TARNJEET</description>
+			<a10:updated>2017-08-29T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3467266</guid>
 			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3467266</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
 			<title>ACQUISTO BUONI CARBURANTE PER VEICOLI DI SERVIZIO COMANDO INTERCOMUNALE POLIZIA LOCALE – ANNO 2017 -</title>
 			<description>ACQUISTO BUONI CARBURANTE PER VEICOLI DI SERVIZIO COMANDO INTERCOMUNALE POLIZIA LOCALE – ANNO 2017 -</description>
-			<a10:updated>2017-08-16T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3453526</guid>
-			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3453526</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 16 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 31 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3453526</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
-			<title>POLIZZA RAMO INCENDIO REGOLAZIONE PREMIO CON DECORRENZA 15/06/2017 – IMPEGNO DI SPESA E LIQUIDAZIONE PREMIO</title>
-			<description>POLIZZA RAMO INCENDIO REGOLAZIONE PREMIO CON DECORRENZA 15/06/2017 – IMPEGNO DI SPESA E LIQUIDAZIONE PREMIO</description>
-			<a10:updated>2017-08-16T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3453524</guid>
-			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3453524</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 16 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 31 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3453524</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
-			<title>SERVIZIO ITL MENSA SCOLASTICA - IMPEGNO DI SPESA IN FAVORE DI POSTE ITALIANE SPA PER L’ANNO 2017</title>
-			<description>SERVIZIO ITL MENSA SCOLASTICA - IMPEGNO DI SPESA IN FAVORE DI POSTE ITALIANE SPA PER L’ANNO 2017</description>
 			<a10:updated>2017-08-16T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
