@@ -5,7 +5,7 @@
 		<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rometta</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 30 Aug 2017 13:31:01 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 30 Aug 2017 14:31:20 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rometta</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Messina</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rometta</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rometta</a10:id>
-		<pubDate>Wed, 30 Aug 2017 13:31:01 +0200</pubDate>
+		<pubDate>Wed, 30 Aug 2017 14:31:20 +0200</pubDate>
 		<docs>http://albopop.it/comune/rometta/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3470933</guid>
+			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3470933</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 30 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 18 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3470933</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO PUBBLICO</category>
+			<title>SERVIZIO DI REFEZIONE SCOLASTICA ANNO SCOLASTICO 2017-2018. AVVISO. </title>
+			<description>SERVIZIO DI REFEZIONE SCOLASTICA ANNO SCOLASTICO 2017-2018. AVVISO. </description>
+			<a10:updated>2017-08-30T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3470388</guid>
 			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3470388</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>LAVORI DI “REALIZZAZIONE DI UNA STRUTTURA POLIFUNZIONALE A ROMETTA MAREA” – LIQUIDAZIONE ONERI D’ISTRUTTORIA VERIFICA DI ASSOGGETTABILITÀ A VAS</title>
 			<description>LAVORI DI “REALIZZAZIONE DI UNA STRUTTURA POLIFUNZIONALE A ROMETTA MAREA” – LIQUIDAZIONE ONERI D’ISTRUTTORIA VERIFICA DI ASSOGGETTABILITÀ A VAS</description>
-			<a10:updated>2017-08-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3460165</guid>
-			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3460165</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 22 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 06 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3460165</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>NOLEGGIO AUTOMEZZO IVECO DAILY PER GIORNI 10 (DIECI) - LIQUIDAZIONE FATTURA N. 7/E DEL 08.08.2017</title>
-			<description>NOLEGGIO AUTOMEZZO IVECO DAILY PER GIORNI 10 (DIECI) - LIQUIDAZIONE FATTURA N. 7/E DEL 08.08.2017</description>
 			<a10:updated>2017-08-22T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
