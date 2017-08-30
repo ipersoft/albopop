@@ -5,7 +5,7 @@
 		<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Belpasso</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 30 Aug 2017 12:30:53 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 30 Aug 2017 13:30:50 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Belpasso</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Belpasso</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_belpasso</a10:id>
-		<pubDate>Wed, 30 Aug 2017 12:30:53 +0200</pubDate>
+		<pubDate>Wed, 30 Aug 2017 13:30:50 +0200</pubDate>
 		<docs>http://albopop.it/comune/belpasso/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3470771</guid>
+			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3470771</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 30 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 07 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3470771</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO PER IRREPERIBILITA'</category>
+			<title>DEPOSITO ATTI -D' URSO MICHELANGELO </title>
+			<description>DEPOSITO ATTI -D' URSO MICHELANGELO </description>
+			<a10:updated>2017-08-30T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3469586</guid>
 			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3469586</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>ANNO SCOLASTICO 2016/1017. BUONI LIBRO AGLI STUDENTI DELLA SCUOLA MEDIA. LIQUIDAZIONE FATTURA ALLA DITTA “ CARTOLIBRERIA RACITI GIORGIO ”. CIG: ZB81E27929. </title>
 			<description>ANNO SCOLASTICO 2016/1017. BUONI LIBRO AGLI STUDENTI DELLA SCUOLA MEDIA. LIQUIDAZIONE FATTURA ALLA DITTA “ CARTOLIBRERIA RACITI GIORGIO ”. CIG: ZB81E27929. </description>
-			<a10:updated>2017-08-28T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3466370</guid>
-			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3466370</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 28 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 12 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3466370</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>ANNO SCOLASTICO 2016/1017. BUONI LIBRO AGLI STUDENTI DELLA SCUOLA MEDIA. LIQUIDAZIONE FATTURA ALLA DITTA “ CARTOLIBRERIA SCUOLAINSIEME DI MARIA OLIVERI ”. CIG: ZE61E7183D. </title>
-			<description>ANNO SCOLASTICO 2016/1017. BUONI LIBRO AGLI STUDENTI DELLA SCUOLA MEDIA. LIQUIDAZIONE FATTURA ALLA DITTA “ CARTOLIBRERIA SCUOLAINSIEME DI MARIA OLIVERI ”. CIG: ZE61E7183D. </description>
 			<a10:updated>2017-08-28T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
