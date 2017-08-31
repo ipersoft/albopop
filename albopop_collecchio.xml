@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 31 Aug 2017 16:31:15 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 31 Aug 2017 17:31:21 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Thu, 31 Aug 2017 16:31:15 +0200</pubDate>
+		<pubDate>Thu, 31 Aug 2017 17:31:21 +0200</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2934825</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2934825</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 31 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2934825</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO ON LINE ATTI VARI SU RICHIESTA DI ALTRI ENTI</category>
+			<title>AVVISO PUBBLICO PER LA COPERTURA DI N.2 POSTI A TEMPO PIENO DI ISTRUTTORE AMMINISTRATIVO DI SPORTELLO (CAT. GIUR. C) TRAMITE PROCEDURA DI MOBILITA’ TRA ENTI AI SENSI DELL’ART. 30 D. LGS. 165/01</title>
+			<description>AVVISO PUBBLICO PER LA COPERTURA DI N.2 POSTI A TEMPO PIENO DI ISTRUTTORE AMMINISTRATIVO DI SPORTELLO (CAT. GIUR. C) TRAMITE PROCEDURA DI MOBILITA’ TRA ENTI AI SENSI DELL’ART. 30 D. LGS. 165/01</description>
+			<a10:updated>2017-08-31T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2933008</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2933008</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
 			<title>AFFIDAMENTO A TORIAZZI SRL DI FORNITURA MATERIALE PER UFFICIO STATO CIVILE – IMPEGNO DI SPESA - CIG Z0C1F9B563</title>
 			<description>AFFIDAMENTO A TORIAZZI SRL DI FORNITURA MATERIALE PER UFFICIO STATO CIVILE – IMPEGNO DI SPESA - CIG Z0C1F9B563</description>
-			<a10:updated>2017-08-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2926067</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2926067</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 22 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 06 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2926067</category>
-			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
-			<title>PREDISPOSIZIONE DELLA CARTA DEL VERDE IN FORMATO VETTORIALE, GIÀ PREDISPOSTA PER SUCCESSIVA PUBBLICAZIONE SUL CLIENTWEB PER IMPLEMENTARE IL SIT COMUNALE – AFFIDAMENTO ARCH. PALTRINIERI DI SISSA TRECASALI – CF. PLTDNL64H63A952M CIG Z921F9AA71</title>
-			<description>PREDISPOSIZIONE DELLA CARTA DEL VERDE IN FORMATO VETTORIALE, GIÀ PREDISPOSTA PER SUCCESSIVA PUBBLICAZIONE SUL CLIENTWEB PER IMPLEMENTARE IL SIT COMUNALE – AFFIDAMENTO ARCH. PALTRINIERI DI SISSA TRECASALI – CF. PLTDNL64H63A952M CIG Z921F9AA71</description>
 			<a10:updated>2017-08-22T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
