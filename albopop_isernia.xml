@@ -5,7 +5,7 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 31 Aug 2017 15:31:25 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 31 Aug 2017 16:31:12 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Isernia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>Thu, 31 Aug 2017 15:31:25 +0200</pubDate>
+		<pubDate>Thu, 31 Aug 2017 16:31:12 +0200</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3473069</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3473069</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 31 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3473069</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
+			<title>Lavori di manutenzione e messa in sicurezza delle strade comunali del centro cittadino. Approvazione 1° SAL e liquidazione della spesa alla Ditta DI MURRO FRANCESCO SRL – CIG : 69220196C7 </title>
+			<description>Lavori di manutenzione e messa in sicurezza delle strade comunali del centro cittadino. Approvazione 1° SAL e liquidazione della spesa alla Ditta DI MURRO FRANCESCO SRL – CIG : 69220196C7 </description>
+			<a10:updated>2017-08-31T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3472649</guid>
 			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3472649</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
 			<title>ATTO DI LIQUIDAZIONE DI SPESA Per pagamento utenza Telecom Biblioteca comunale 5° Bim. 2017 CIG: ZE71CFEF9D </title>
 			<description>ATTO DI LIQUIDAZIONE DI SPESA Per pagamento utenza Telecom Biblioteca comunale 5° Bim. 2017 CIG: ZE71CFEF9D </description>
-			<a10:updated>2017-08-30T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3470280</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3470280</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 30 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 14 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3470280</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
-			<title>ATTO DI LIQUIDAZIONE DI SPESA Per pagamento utenza Telecom scuole Materne 5°Bim. 2017 CIG: : ZE71CFEF9D </title>
-			<description>ATTO DI LIQUIDAZIONE DI SPESA Per pagamento utenza Telecom scuole Materne 5°Bim. 2017 CIG: : ZE71CFEF9D </description>
 			<a10:updated>2017-08-30T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

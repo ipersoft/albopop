@@ -5,7 +5,7 @@
 		<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Annone Veneto</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 31 Aug 2017 15:30:52 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 31 Aug 2017 16:30:56 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Annone Veneto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Annone Veneto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_annoneveneto</a10:id>
-		<pubDate>Thu, 31 Aug 2017 15:30:52 +0200</pubDate>
+		<pubDate>Thu, 31 Aug 2017 16:30:56 +0200</pubDate>
 		<docs>http://albopop.it/comune/annoneveneto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3473100</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3473100</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 31 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3473100</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>FORNITURA GAS NATURALE EDIFICI COMUNALI GIUGNO-DICEMBRE 2017 - IMPEGNO DI SPESA</title>
+			<description>FORNITURA GAS NATURALE EDIFICI COMUNALI GIUGNO-DICEMBRE 2017 - IMPEGNO DI SPESA</description>
+			<a10:updated>2017-08-31T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3473097</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3473097</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 31 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3473097</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>FORNITURA ENERGIA ELETTRICA EDIFICI E STRUTTURE COMUNALI GIUGNO-DICEMBRE 2017 - IMPEGNO DI SPESA</title>
+			<description>FORNITURA ENERGIA ELETTRICA EDIFICI E STRUTTURE COMUNALI GIUGNO-DICEMBRE 2017 - IMPEGNO DI SPESA</description>
+			<a10:updated>2017-08-31T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3473095</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3473095</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 31 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3473095</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>UTENZE PER TELEFONIA FISSA EDIFICI COMUNALI 4° E 5° PERIODO 2017 - LIQUIDAZIONE</title>
+			<description>UTENZE PER TELEFONIA FISSA EDIFICI COMUNALI 4° E 5° PERIODO 2017 - LIQUIDAZIONE</description>
+			<a10:updated>2017-08-31T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3467294</guid>
 			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3467294</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
 			<title>ATTO DI INDIRIZZO ALLA DELEGAZIONE TRATTANTE DI PARTE PUBBLICA PER PROCEDERE AD UN'IPOTESI CONTRATTUALE PER IL FONDO PRODUTTIVITÀ 2016 - MODIFICA</title>
 			<description>ATTO DI INDIRIZZO ALLA DELEGAZIONE TRATTANTE DI PARTE PUBBLICA PER PROCEDERE AD UN'IPOTESI CONTRATTUALE PER IL FONDO PRODUTTIVITÀ 2016 - MODIFICA</description>
-			<a10:updated>2017-08-23T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3461348</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3461348</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 23 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 07 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3461348</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>REALIZZAZIONR CURE TERMALI - ANNO 2017</title>
-			<description>REALIZZAZIONR CURE TERMALI - ANNO 2017</description>
-			<a10:updated>2017-08-23T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3461345</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3461345</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 23 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 07 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3461345</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>APPROVAZIONE DELLO SCHEMA DI PROTOCOLLO D'INTESA PER LA REDAZIONE DELLA 2° FASE DEL PIANO REGOLATORE DELLE ACQUE DEL TERRITORIO DI ANNONE VENETO </title>
-			<description>APPROVAZIONE DELLO SCHEMA DI PROTOCOLLO D'INTESA PER LA REDAZIONE DELLA 2° FASE DEL PIANO REGOLATORE DELLE ACQUE DEL TERRITORIO DI ANNONE VENETO </description>
-			<a10:updated>2017-08-23T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3461342</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3461342</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 23 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 07 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3461342</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>APPROVAZIONE IN LINEA TECNICA DEL PROGETTO ESECUTIVO PER LA "RISTRUTTURAZIONE DI UN EDIFICIO POLIVALENTE FUNZIONALE ALLA CUCINA SCOLASTICA DI ANNONE VENETO"</title>
-			<description>APPROVAZIONE IN LINEA TECNICA DEL PROGETTO ESECUTIVO PER LA "RISTRUTTURAZIONE DI UN EDIFICIO POLIVALENTE FUNZIONALE ALLA CUCINA SCOLASTICA DI ANNONE VENETO"</description>
 			<a10:updated>2017-08-23T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
