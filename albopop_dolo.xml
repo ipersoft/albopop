@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 30 Aug 2017 18:30:41 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 31 Aug 2017 08:30:37 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Wed, 30 Aug 2017 18:30:41 +0200</pubDate>
+		<pubDate>Thu, 31 Aug 2017 08:30:37 +0200</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -31,6 +31,17 @@
 			<title>VALORIZZAZIONE STORIA PADOVANA E REGIONALE: I PREMI BRUNACCI - MONSELICE</title>
 			<description>VALORIZZAZIONE STORIA PADOVANA E REGIONALE: I PREMI BRUNACCI - MONSELICE</description>
 			<a10:updated>2017-07-17T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3471331</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3471331</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 31 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 29 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3471331</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO GENERICO</category>
+			<title>RICHIESTA PUBBLICAZIONE AVVISO MOBILITA' CAT. D ASSISTENTE SOCIALE</title>
+			<description>RICHIESTA PUBBLICAZIONE AVVISO MOBILITA' CAT. D ASSISTENTE SOCIALE</description>
+			<a10:updated>2017-08-31T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3470465</guid>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DELIBERAZIONE DI GIUNTA COMUNALE</category>
 			<title>INDIRIZZI IN ORDINE ALL’AFFIDAMENTO DELLA GESTIONE DEL PALAZZETTO DELLO SPORT COMUNALE - PROROGA CONCESSIONE PER IL PERIODO 01/09/2017-31/08/2018</title>
 			<description>INDIRIZZI IN ORDINE ALL’AFFIDAMENTO DELLA GESTIONE DEL PALAZZETTO DELLO SPORT COMUNALE - PROROGA CONCESSIONE PER IL PERIODO 01/09/2017-31/08/2018</description>
-			<a10:updated>2017-08-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3460254</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3460254</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 22 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 06 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3460254</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DELIBERAZIONE DI GIUNTA COMUNALE</category>
-			<title>INDIRIZZI IN MERITO ALLA PRESENTAZIONE DELLE DOMANDE PER L’ASSEGNAZIONE DEI CONTRIBUTI DI CUI ALLA DGR VENETO N. 1210 DEL 01/08/2017: “APPROVAZIONE DEL BANDO PER L'ASSEGNAZIONE DI CONTRIBUTI REGIONALI A FAVORE DI COMUNI CON POPOLAZIONE NON SUPERIORE AI 20.000 ABITANTI, PER LE SPESE SOSTENUTE PER L'INSERIMENTO DI MINORI IN COMUNITÀ DI ACCOGLIENZA A CARATTERE RESIDENZIALE.</title>
-			<description>INDIRIZZI IN MERITO ALLA PRESENTAZIONE DELLE DOMANDE PER L’ASSEGNAZIONE DEI CONTRIBUTI DI CUI ALLA DGR VENETO N. 1210 DEL 01/08/2017: “APPROVAZIONE DEL BANDO PER L'ASSEGNAZIONE DI CONTRIBUTI REGIONALI A FAVORE DI COMUNI CON POPOLAZIONE NON SUPERIORE AI 20.000 ABITANTI, PER LE SPESE SOSTENUTE PER L'INSERIMENTO DI MINORI IN COMUNITÀ DI ACCOGLIENZA A CARATTERE RESIDENZIALE.</description>
 			<a10:updated>2017-08-22T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
