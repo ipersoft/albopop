@@ -5,7 +5,7 @@
 		<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Viterbo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 31 Aug 2017 14:31:01 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 31 Aug 2017 15:30:50 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Viterbo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Viterbo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Viterbo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_viterbo</a10:id>
-		<pubDate>Thu, 31 Aug 2017 14:31:01 +0200</pubDate>
+		<pubDate>Thu, 31 Aug 2017 15:30:50 +0200</pubDate>
 		<docs>http://albopop.it/comune/viterbo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3472914</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3472914</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 31 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3472914</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE ORDINANZA SINDACALE</category>
+			<title>ORDINANZA DI DIVIETO DI ESPOSIZIONE DEI CONTENITORI PER LA RACCOLTA PORTA A PORTA DEI RIFIUTI URBANI NELLE VIE INTERESSATE DAL TRASPORTO DELLA MACCHINA DI SANTA ROSA E NELLE VIE LIMITROFE.</title>
+			<description>ORDINANZA DI DIVIETO DI ESPOSIZIONE DEI CONTENITORI PER LA RACCOLTA PORTA A PORTA DEI RIFIUTI URBANI NELLE VIE INTERESSATE DAL TRASPORTO DELLA MACCHINA DI SANTA ROSA E NELLE VIE LIMITROFE.</description>
+			<a10:updated>2017-08-31T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3471822</guid>
 			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3471822</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
 			<title>RIPRISTINO PROCEDURA INFORMATICA UFFICIO INFORMAZIONI P.L.</title>
 			<description>RIPRISTINO PROCEDURA INFORMATICA UFFICIO INFORMAZIONI P.L.</description>
-			<a10:updated>2017-08-31T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3471732</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3471732</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 31 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3471732</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
-			<title>AFFIDAMENTO DEL SERVIZIO RIMOZIONE. TRASPORTO, DEPOSITO E CUSTODIA DEI VEICOLI CHE ARRECANO INTRALCIO AL TRAFFICO AI SENSI DEGLI ART. 6,7,157,158 E 159 DEL CODICE DELLA STRADA. CIG:6827392 - CPV 50118400-9</title>
-			<description>AFFIDAMENTO DEL SERVIZIO RIMOZIONE. TRASPORTO, DEPOSITO E CUSTODIA DEI VEICOLI CHE ARRECANO INTRALCIO AL TRAFFICO AI SENSI DEGLI ART. 6,7,157,158 E 159 DEL CODICE DELLA STRADA. CIG:6827392 - CPV 50118400-9</description>
 			<a10:updated>2017-08-31T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
