@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 31 Aug 2017 13:31:17 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 31 Aug 2017 14:31:51 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Thu, 31 Aug 2017 13:31:17 +0200</pubDate>
+		<pubDate>Thu, 31 Aug 2017 14:31:51 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2934468</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2934468</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 31 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2934468</category>
+			<category domain="http://albopop.it/specs#item-category-type">MANIFESTAZIONE DI INTERESSE DETERMINAZIONI DIRIGENZIALI</category>
+			<title>ASSEGNAZIONE ALLOGGIO DI EDILIZIA RESIDENZIALE PUBBLICA DI VIA D.A. ALEASI N. 6 EX ART. 16 DELLA LEGGE REGIONALE 10/1996</title>
+			<description>ASSEGNAZIONE ALLOGGIO DI EDILIZIA RESIDENZIALE PUBBLICA DI VIA D.A. ALEASI N. 6 EX ART. 16 DELLA LEGGE REGIONALE 10/1996</description>
+			<a10:updated>2017-08-31T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2934417</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2934417</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">MANIFESTAZIONE DI INTERESSE ORDINANZE</category>
 			<title>ORDINANZA RELATIVA A PULIZIA E BONIFICA DI AREE VERDI IN VIA S. GREGORIO N.29 A CONCADIRAME.</title>
 			<description>ORDINANZA RELATIVA A PULIZIA E BONIFICA DI AREE VERDI IN VIA S. GREGORIO N.29 A CONCADIRAME.</description>
-			<a10:updated>2017-08-29T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2931852</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2931852</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 29 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 13 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2931852</category>
-			<category domain="http://albopop.it/specs#item-category-type">MANIFESTAZIONE DI INTERESSE ORDINANZE</category>
-			<title>PROROGA DEL TERMINE STABILITO CON ORDINANZA SINDACALE N.28 DEL 4/8/2017 PER LA PRESENTAZIONE DELLA DOCUMENTAZIONE TECNICA PER LA CLASSIFICAZIONE DELL'AZIENDA GREENFERT S.R.L. AI SENSI DEGLI ARTT.216 E 217 DEL R.D.1265/1934</title>
-			<description>PROROGA DEL TERMINE STABILITO CON ORDINANZA SINDACALE N.28 DEL 4/8/2017 PER LA PRESENTAZIONE DELLA DOCUMENTAZIONE TECNICA PER LA CLASSIFICAZIONE DELL'AZIENDA GREENFERT S.R.L. AI SENSI DEGLI ARTT.216 E 217 DEL R.D.1265/1934</description>
 			<a10:updated>2017-08-29T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
