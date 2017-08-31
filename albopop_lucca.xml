@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 31 Aug 2017 09:31:02 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 31 Aug 2017 10:31:40 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Thu, 31 Aug 2017 09:31:02 +0200</pubDate>
+		<pubDate>Thu, 31 Aug 2017 10:31:40 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3471643</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3471643</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 31 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 08 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3471643</category>
+			<category domain="http://albopop.it/specs#item-category-type">DEPOSITO ATTI CASA COMUNALE</category>
+			<title>ARTICOLO 60, COMMA E) DPR 600/1973- AMATO DARIO GIUSEPPE- RIF. REP N. 2073/2017- NOTIFICA ATTO</title>
+			<description>ARTICOLO 60, COMMA E) DPR 600/1973- AMATO DARIO GIUSEPPE- RIF. REP N. 2073/2017- NOTIFICA ATTO</description>
+			<a10:updated>2017-08-31T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3471560</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3471560</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 31 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3471560</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>CORSO GARIBALDI, CENTRO STORICO, MODIFICHE TEMPORANEE ALLA SOSTA E ALLA CIRCOLAZIONE PER IL GIORNO 7 SETTEMBRE 2017.</title>
+			<description>CORSO GARIBALDI, CENTRO STORICO, MODIFICHE TEMPORANEE ALLA SOSTA E ALLA CIRCOLAZIONE PER IL GIORNO 7 SETTEMBRE 2017.</description>
+			<a10:updated>2017-08-31T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3471559</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3471559</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 31 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 08 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3471559</category>
+			<category domain="http://albopop.it/specs#item-category-type">DEPOSITO ATTI CASA COMUNALE</category>
+			<title>ARTICOLO 60, COMMA E)DPR 600/73 FORNACIARI FEDERICA IRENE- N. REP 2178/2017 - NOTIFICA ATTO</title>
+			<description>ARTICOLO 60, COMMA E)DPR 600/73 FORNACIARI FEDERICA IRENE- N. REP 2178/2017 - NOTIFICA ATTO</description>
+			<a10:updated>2017-08-31T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3471437</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3471437</link>
@@ -262,39 +295,6 @@
 			<title>CORSO GARIBALDI, CENTRO STORICO, MODIFICHE TEMPORANEE ALLA SOSTA PER IL GIORNO 4 SETTEMBRE 2017.</title>
 			<description>CORSO GARIBALDI, CENTRO STORICO, MODIFICHE TEMPORANEE ALLA SOSTA PER IL GIORNO 4 SETTEMBRE 2017.</description>
 			<a10:updated>2017-08-30T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3469162</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3469162</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 29 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 13 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3469162</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>VIA VECCHIACCHI - SAN GEMIGNANO DI MORIANO: CHIUSURA AL TRANSITO VEICOLARE IN OCCASIONE DELLO SVOLGIMENTO DELLA 45^ SGAMBATE DEL PONTE, MARCIA PODISTICA NON COMPETITIVA. DOMENICA 3 SETTEMBRE 2017 ORARIO 06.00 - 12:00.</title>
-			<description>VIA VECCHIACCHI - SAN GEMIGNANO DI MORIANO: CHIUSURA AL TRANSITO VEICOLARE IN OCCASIONE DELLO SVOLGIMENTO DELLA 45^ SGAMBATE DEL PONTE, MARCIA PODISTICA NON COMPETITIVA. DOMENICA 3 SETTEMBRE 2017 ORARIO 06.00 - 12:00.</description>
-			<a10:updated>2017-08-29T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3469160</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3469160</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 29 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 13 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3469160</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>PORTA S. ANNA: CHIUSURA DEL FORNICE IN USCITA PER LAVORI DI RESTAURO DELL'INTERNO DELLA PORTA. PERIODO 30 AGOSTO 2017 - 8 SETTEMBRE 2017 - DALLE ORE 21:00 ALLE ORE 056:00 DI OGNI GIORNO SUCCESSIVO. </title>
-			<description>PORTA S. ANNA: CHIUSURA DEL FORNICE IN USCITA PER LAVORI DI RESTAURO DELL'INTERNO DELLA PORTA. PERIODO 30 AGOSTO 2017 - 8 SETTEMBRE 2017 - DALLE ORE 21:00 ALLE ORE 056:00 DI OGNI GIORNO SUCCESSIVO. </description>
-			<a10:updated>2017-08-29T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3469158</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3469158</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 29 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 13 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3469158</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>CONCERTO ROLLING STONES: MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE ED ALLA SOSTA IN VIALE CARDUCCI E VIA F. CARRARA PER OPERAZIONI DI ALLESTIMENTO DELL'AREA DI SPETTACOLO: PERIODO 1 - 30 SETTEMBRE 2017</title>
-			<description>CONCERTO ROLLING STONES: MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE ED ALLA SOSTA IN VIALE CARDUCCI E VIA F. CARRARA PER OPERAZIONI DI ALLESTIMENTO DELL'AREA DI SPETTACOLO: PERIODO 1 - 30 SETTEMBRE 2017</description>
-			<a10:updated>2017-08-29T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
