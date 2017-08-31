@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 31 Aug 2017 12:30:43 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 31 Aug 2017 13:30:42 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Thu, 31 Aug 2017 12:30:43 +0200</pubDate>
+		<pubDate>Thu, 31 Aug 2017 13:30:42 +0200</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -31,6 +31,17 @@
 			<title>VALORIZZAZIONE STORIA PADOVANA E REGIONALE: I PREMI BRUNACCI - MONSELICE</title>
 			<description>VALORIZZAZIONE STORIA PADOVANA E REGIONALE: I PREMI BRUNACCI - MONSELICE</description>
 			<a10:updated>2017-07-17T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3472520</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3472520</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 31 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 02 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3472520</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO GENERICO</category>
+			<title> AVVISO DI MOBILITA’ VOLONTARIA ESTERNA (AI SENSI DELL’ART. 30 DEL D.LGS. N. 165 DEL 30/03/2001) -PER UN POSTO DI ISTRUTTORE AMMINISTRATIVO, CATEGORIA C, A TEMPO PIENO ED INDETERMINATO,DA ASSEGNARE ALL’AREA AFFARI GENERALI – SEGRETERIA/PROTOCOLLO </title>
+			<description> AVVISO DI MOBILITA’ VOLONTARIA ESTERNA (AI SENSI DELL’ART. 30 DEL D.LGS. N. 165 DEL 30/03/2001) -PER UN POSTO DI ISTRUTTORE AMMINISTRATIVO, CATEGORIA C, A TEMPO PIENO ED INDETERMINATO,DA ASSEGNARE ALL’AREA AFFARI GENERALI – SEGRETERIA/PROTOCOLLO </description>
+			<a10:updated>2017-08-31T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3472105</guid>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DELIBERAZIONE DI GIUNTA COMUNALE</category>
 			<title>COMUNICAZIONE AI SENSI DELL’ART. 175, COMMA 5 QUATER - LETT. A (DETERMINAZIONI NN. 450 DEL 30/03/2017, 647 DEL 22/05/2017, 668 DEL 30/05/2017 E 685 DEL 05/06/2017).</title>
 			<description>COMUNICAZIONE AI SENSI DELL’ART. 175, COMMA 5 QUATER - LETT. A (DETERMINAZIONI NN. 450 DEL 30/03/2017, 647 DEL 22/05/2017, 668 DEL 30/05/2017 E 685 DEL 05/06/2017).</description>
-			<a10:updated>2017-08-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3460260</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3460260</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 22 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 06 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3460260</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DELIBERAZIONE DI GIUNTA COMUNALE</category>
-			<title>INDIRIZZO IN MERITO ALL’AMPLIAMENTO DELLA SCUOLA PRIMARIA GIOTTO.</title>
-			<description>INDIRIZZO IN MERITO ALL’AMPLIAMENTO DELLA SCUOLA PRIMARIA GIOTTO.</description>
 			<a10:updated>2017-08-22T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
