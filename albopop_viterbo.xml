@@ -5,7 +5,7 @@
 		<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Viterbo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 31 Aug 2017 18:31:01 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 01 Sep 2017 08:31:01 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Viterbo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Viterbo</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Viterbo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_viterbo</a10:id>
-		<pubDate>Thu, 31 Aug 2017 18:31:01 +0200</pubDate>
+		<pubDate>Fri, 01 Sep 2017 08:31:01 +0200</pubDate>
 		<docs>http://albopop.it/comune/viterbo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3473520</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3473520</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 01 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 16 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3473520</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE ORDINANZA SINDACALE</category>
+			<title>VIA G. FALCONE E P. BORSELLINO N.CIV. 41 - ISTITUZIONE DI DIVIETO D DI SOSTA CON RIMOZIONE ZONA ANTISTANTE L'INGRESSO DEL PALAZZO DI GIUSTIZIA E DIVIETO DI SOSTA A MARGINE DEI SETTORI DI PARCHEGGIO POSTI ALL'INGRESSO PRINCIPALE (DESTRA E SINISTRA); VIAPACINOTTI - ISTITUZIONE DI DIVIETO DI SOSTA CON RIMOZIONE FUORI STALLI LATO N. CIVICO 2 E DAL N. CIVICO 7 AL N. CIVICO 19;VIA PACINOTTI - ISTITUZIONE DI DIVIETO DI SOSTA CON RIMOZIONE FRONTE N. CIVICO 2 E FRONTE CIVICI CHE VANNO DAL N. 7 AL N. 19;VIA</title>
+			<description>VIA G. FALCONE E P. BORSELLINO N.CIV. 41 - ISTITUZIONE DI DIVIETO D DI SOSTA CON RIMOZIONE ZONA ANTISTANTE L'INGRESSO DEL PALAZZO DI GIUSTIZIA E DIVIETO DI SOSTA A MARGINE DEI SETTORI DI PARCHEGGIO POSTI ALL'INGRESSO PRINCIPALE (DESTRA E SINISTRA); VIAPACINOTTI - ISTITUZIONE DI DIVIETO DI SOSTA CON RIMOZIONE FUORI STALLI LATO N. CIVICO 2 E DAL N. CIVICO 7 AL N. CIVICO 19;VIA PACINOTTI - ISTITUZIONE DI DIVIETO DI SOSTA CON RIMOZIONE FRONTE N. CIVICO 2 E FRONTE CIVICI CHE VANNO DAL N. 7 AL N. 19;VIA</description>
+			<a10:updated>2017-09-01T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3473522</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3473522</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 01 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 16 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3473522</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE ORDINANZA SINDACALE</category>
+			<title>ADOZIONE DI ULTERIORI MISURE A TUTELA DELLA SICUREZZA URBANA E DELLA INCOLUMITA' PUBBLICA</title>
+			<description>ADOZIONE DI ULTERIORI MISURE A TUTELA DELLA SICUREZZA URBANA E DELLA INCOLUMITA' PUBBLICA</description>
+			<a10:updated>2017-09-01T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3473199</guid>
 			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3473199</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
 			<title>I° TAGLIANDO VEICOLO SUBARU XV 1.2 TARGATO YA166AK IN DOTAZIONE AL CORPO DI POLIZIA LOCALE. CIG:Z9E1FA6310</title>
 			<description>I° TAGLIANDO VEICOLO SUBARU XV 1.2 TARGATO YA166AK IN DOTAZIONE AL CORPO DI POLIZIA LOCALE. CIG:Z9E1FA6310</description>
-			<a10:updated>2017-08-31T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3471738</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3471738</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 31 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3471738</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
-			<title>UTILIZZAZIONE IN ASSEGNAZIONE TEMPORANEA PRESSO IL COMUNE DI VITERBO DEL SIG. VAGNOZZI PLINIO, DIPENDENTE IN ORGANICO DEL COMUNE DI ROMA - DETERMINAZIONI IN ORDINE ALL'IMPEGNO DI SPESA PER IL RIMBORSO DELLE COMPETENZE ATTRIBUITE AL DIPENDENTE.</title>
-			<description>UTILIZZAZIONE IN ASSEGNAZIONE TEMPORANEA PRESSO IL COMUNE DI VITERBO DEL SIG. VAGNOZZI PLINIO, DIPENDENTE IN ORGANICO DEL COMUNE DI ROMA - DETERMINAZIONI IN ORDINE ALL'IMPEGNO DI SPESA PER IL RIMBORSO DELLE COMPETENZE ATTRIBUITE AL DIPENDENTE.</description>
-			<a10:updated>2017-08-31T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3471736</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3471736</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 31 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3471736</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
-			<title>SIG. CAPPELLI ANGELO - RIMBORSO IMPOSTA COMUNALE SUGLI IMMOBILI VERSATA IN ECCEDENZA AL COMUNE DI VITERBO PER LE ANNUALITA' 2010 E 2011</title>
-			<description>SIG. CAPPELLI ANGELO - RIMBORSO IMPOSTA COMUNALE SUGLI IMMOBILI VERSATA IN ECCEDENZA AL COMUNE DI VITERBO PER LE ANNUALITA' 2010 E 2011</description>
 			<a10:updated>2017-08-31T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
