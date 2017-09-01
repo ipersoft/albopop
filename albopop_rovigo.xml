@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 01 Sep 2017 13:31:25 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 01 Sep 2017 14:31:53 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,18 +16,73 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Fri, 01 Sep 2017 13:31:25 +0200</pubDate>
+		<pubDate>Fri, 01 Sep 2017 14:31:53 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
 		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2935005</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2935005</link>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2936241</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2936241</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 01 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 04 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2936241</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI ATTI DIVERSI</category>
+			<title>AVVISO DI MOBILITA' ESTERNA VOLONTARIA PER LA COPERTURA DI UN POSTO DI AGENTE DI P.L. / ISTRUTTORE DI VIGILANZA CAT. "C".</title>
+			<description>AVVISO DI MOBILITA' ESTERNA VOLONTARIA PER LA COPERTURA DI UN POSTO DI AGENTE DI P.L. / ISTRUTTORE DI VIGILANZA CAT. "C".</description>
+			<a10:updated>2017-09-01T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2936147</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2936147</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 01 Sep 2017 02:00:00 +0200</category>
 			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 16 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2935005</category>
-			<category domain="http://albopop.it/specs#item-category-type">MANIFESTAZIONE DI INTERESSE DETERMINAZIONI DIRIGENZIALI</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2936147</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
+			<title>REFERENDUM CONSULTIVO REGIONALE DEL 22 OTTOBRE 2017. COSTITUZIONE UFFICIO ELETTORALE. LAVORO STRAORDINARIO – IMPEGNO DI SPESA DAL 01.09.2017 AL 27.10.2017</title>
+			<description>REFERENDUM CONSULTIVO REGIONALE DEL 22 OTTOBRE 2017. COSTITUZIONE UFFICIO ELETTORALE. LAVORO STRAORDINARIO – IMPEGNO DI SPESA DAL 01.09.2017 AL 27.10.2017</description>
+			<a10:updated>2017-09-01T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2936045</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2936045</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 01 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 16 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2936045</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
+			<title>RETTIFICA DETERMINAZIONE N 1778/24.08.2017 RELATIVAMENTE AL NUMERO DI CONTO DI UN RICHIEDENTE LA RESTITUZIONE DEPOSITO CAUZIONALE.</title>
+			<description>RETTIFICA DETERMINAZIONE N 1778/24.08.2017 RELATIVAMENTE AL NUMERO DI CONTO DI UN RICHIEDENTE LA RESTITUZIONE DEPOSITO CAUZIONALE.</description>
+			<a10:updated>2017-09-01T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2936044</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2936044</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 01 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 16 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2936044</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE ELENCO ABUSI EDILIZI</category>
+			<title>TRASMISSIONE RAPPORTI E ORDINANZE EX ART. 31, COMMA 7, D.P.R. 380/2001: “TESTO UNICO DELLE DISPOSIZIONI LEGISLATIVE E REGOLAMENTARI IN MATERIA EDILIZIA”: MESE DI AGOSTO 2017.</title>
+			<description>TRASMISSIONE RAPPORTI E ORDINANZE EX ART. 31, COMMA 7, D.P.R. 380/2001: “TESTO UNICO DELLE DISPOSIZIONI LEGISLATIVE E REGOLAMENTARI IN MATERIA EDILIZIA”: MESE DI AGOSTO 2017.</description>
+			<a10:updated>2017-09-01T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2936027</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2936027</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 01 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 16 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2936027</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
+			<title>NOMINA DELLA COMMISSIONE TECNICA PER LA PROCEDURA IN ECONOMIA, ATTRAVERSO RICHIESTA DI OFFERTA RDO PER LA “FORNITURA DI CAPI DI VESTIARIO PER DIPENDENTI AVENTI DIRITTO IN SERVIZIO PRESSO SETTORI VARI DELL'AMMINISTRAZIONE DEL COMUNE DI ROVIGO” INTEGRAZIONE DETERMINA N. 1513/2017</title>
+			<description>NOMINA DELLA COMMISSIONE TECNICA PER LA PROCEDURA IN ECONOMIA, ATTRAVERSO RICHIESTA DI OFFERTA RDO PER LA “FORNITURA DI CAPI DI VESTIARIO PER DIPENDENTI AVENTI DIRITTO IN SERVIZIO PRESSO SETTORI VARI DELL'AMMINISTRAZIONE DEL COMUNE DI ROVIGO” INTEGRAZIONE DETERMINA N. 1513/2017</description>
+			<a10:updated>2017-09-01T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2936020</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2936020</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 01 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 16 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2936020</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
 			<title>RICONOSCIMENTO DEBITI FUORI BILANCIO DERIVANTI DA SENTENZE DI CONDANNA DA PARTE DELL'AUTORITÀ GIUDIZIARIA. IMPEGNO E LIQUIDAZIONE SPESA.</title>
 			<description>RICONOSCIMENTO DEBITI FUORI BILANCIO DERIVANTI DA SENTENZE DI CONDANNA DA PARTE DELL'AUTORITÀ GIUDIZIARIA. IMPEGNO E LIQUIDAZIONE SPESA.</description>
 			<a10:updated>2017-09-01T00:00:00+02:00</a10:updated>
@@ -240,61 +295,6 @@
 			<title>PROROGA AVVISO DI MOBILITA' VOLONTARIA ESTERNA FRA ENTI PUBBLICI, AI SENSI DELL'ART. 30 DEL D. LGS. 165/2001, PER LA COPERTURA DI N. 1 POSTO DI ISTRUTTORE "AMMINISTRATIVO - CONTABILE" - CATEGORIA C A TEMPO INDETERMINATO E AD ORARIO PIENO - UFFICIO RAGIONERIA-ECONOMATO</title>
 			<description>PROROGA AVVISO DI MOBILITA' VOLONTARIA ESTERNA FRA ENTI PUBBLICI, AI SENSI DELL'ART. 30 DEL D. LGS. 165/2001, PER LA COPERTURA DI N. 1 POSTO DI ISTRUTTORE "AMMINISTRATIVO - CONTABILE" - CATEGORIA C A TEMPO INDETERMINATO E AD ORARIO PIENO - UFFICIO RAGIONERIA-ECONOMATO</description>
 			<a10:updated>2017-08-31T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2933620</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2933620</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 31 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2933620</category>
-			<category domain="http://albopop.it/specs#item-category-type">MANIFESTAZIONE DI INTERESSE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>ASSEGNAZIONE ALLOGGIO IN EMERGENZA ABITATIVA EX ART 11 L.R. 10/1996 SITO A ROVIGO IN VIA COSSETTO N. 10</title>
-			<description>ASSEGNAZIONE ALLOGGIO IN EMERGENZA ABITATIVA EX ART 11 L.R. 10/1996 SITO A ROVIGO IN VIA COSSETTO N. 10</description>
-			<a10:updated>2017-08-31T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2933574</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2933574</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 31 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2933574</category>
-			<category domain="http://albopop.it/specs#item-category-type">MANIFESTAZIONE DI INTERESSE DECRETI</category>
-			<title>CONCLUSIONE PROCESSO DI VALUTAZIONE DELLA PERFORMANCE DEI DIRIGENTI ANNO 2015</title>
-			<description>CONCLUSIONE PROCESSO DI VALUTAZIONE DELLA PERFORMANCE DEI DIRIGENTI ANNO 2015</description>
-			<a10:updated>2017-08-31T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2933571</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2933571</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 31 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2933571</category>
-			<category domain="http://albopop.it/specs#item-category-type">MANIFESTAZIONE DI INTERESSE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>ADDEBITI DELLE COMMISSIONI POS DEL SERVIZIO BIGLIETTERIA DEL TEATRO SOCIALE. PERIODO 1 SEMESTRE 2017. LIQUIDAZIONE SPESA.</title>
-			<description>ADDEBITI DELLE COMMISSIONI POS DEL SERVIZIO BIGLIETTERIA DEL TEATRO SOCIALE. PERIODO 1 SEMESTRE 2017. LIQUIDAZIONE SPESA.</description>
-			<a10:updated>2017-08-31T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2933507</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2933507</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 31 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2933507</category>
-			<category domain="http://albopop.it/specs#item-category-type">MANIFESTAZIONE DI INTERESSE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>CONSUMO ENERGIA ELETTRICA UTENZE EDIFICI PUBBLICI FORNITORE “DOLOMITI S.P.A.” PERIODO GIUGNO 2017. </title>
-			<description>CONSUMO ENERGIA ELETTRICA UTENZE EDIFICI PUBBLICI FORNITORE “DOLOMITI S.P.A.” PERIODO GIUGNO 2017. </description>
-			<a10:updated>2017-08-31T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2933387</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2933387</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 30 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 14 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2933387</category>
-			<category domain="http://albopop.it/specs#item-category-type">MANIFESTAZIONE DI INTERESSE DECRETI</category>
-			<title>DELEGA DI FIRMA DEGLI ATTI RELATIVI AGLI ACCERTAMENTI E TRATTAMENTI SANITARI OBBLIGATORI DI CUI ALLA L. 833/1978 ALL'ASSESSORE FALCONI STEFANO</title>
-			<description>DELEGA DI FIRMA DEGLI ATTI RELATIVI AGLI ACCERTAMENTI E TRATTAMENTI SANITARI OBBLIGATORI DI CUI ALLA L. 833/1978 ALL'ASSESSORE FALCONI STEFANO</description>
-			<a10:updated>2017-08-30T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
