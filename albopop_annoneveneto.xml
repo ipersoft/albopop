@@ -5,7 +5,7 @@
 		<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Annone Veneto</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 01 Sep 2017 11:30:59 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 01 Sep 2017 12:30:52 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Annone Veneto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Annone Veneto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_annoneveneto</a10:id>
-		<pubDate>Fri, 01 Sep 2017 11:30:59 +0200</pubDate>
+		<pubDate>Fri, 01 Sep 2017 12:30:52 +0200</pubDate>
 		<docs>http://albopop.it/comune/annoneveneto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3474626</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3474626</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 01 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 31 Dec 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3474626</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO</category>
+			<title>AVVISO ESPLORATIVO PER MANIFESTAZIONE DI INTERESSE FINALIZZATA ALL'ESPLETAMENTO DELLA PROCEDURA NEGOZIATA PER AFFIDAMENTO LAVORI DI RISTRUTTURAZIONE DI UN EDIFICIO POLIVALENTE FUNZIONALE ALLA CUCINA SCOLASTICA DI ANNONE VENETO. ELENCO DELLE MANIFESTAZIONI DI INTERESSE AMMESSE. </title>
+			<description>AVVISO ESPLORATIVO PER MANIFESTAZIONE DI INTERESSE FINALIZZATA ALL'ESPLETAMENTO DELLA PROCEDURA NEGOZIATA PER AFFIDAMENTO LAVORI DI RISTRUTTURAZIONE DI UN EDIFICIO POLIVALENTE FUNZIONALE ALLA CUCINA SCOLASTICA DI ANNONE VENETO. ELENCO DELLE MANIFESTAZIONI DI INTERESSE AMMESSE. </description>
+			<a10:updated>2017-09-01T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3474450</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3474450</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 01 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 16 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3474450</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>GIORNATA DI FORMAZIONE PER DEL PERSONALE APPARTENENTE ALLA P.L. SULL'UTILIZZO DEL SOFTWARE "VISUAL POLCITY"</title>
+			<description>GIORNATA DI FORMAZIONE PER DEL PERSONALE APPARTENENTE ALLA P.L. SULL'UTILIZZO DEL SOFTWARE "VISUAL POLCITY"</description>
+			<a10:updated>2017-09-01T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3474447</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3474447</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 01 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 16 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3474447</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>ACQUISTO UPS PER BIBLIOTECA COMUNALE E PC PROTOCOLLO</title>
+			<description>ACQUISTO UPS PER BIBLIOTECA COMUNALE E PC PROTOCOLLO</description>
+			<a10:updated>2017-09-01T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3473100</guid>
 			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3473100</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
 			<title>REGOLAMENTO RECANTE NORME E CRITERI PER LA RIPARTIZIONE DELL'INCENTIVO DI CUI ALL'ARTICOLO 113 DEL D.LGS. 18.04.2016 N. 50</title>
 			<description>REGOLAMENTO RECANTE NORME E CRITERI PER LA RIPARTIZIONE DELL'INCENTIVO DI CUI ALL'ARTICOLO 113 DEL D.LGS. 18.04.2016 N. 50</description>
-			<a10:updated>2017-08-23T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3461357</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3461357</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 23 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 07 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3461357</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>RICHIESTA CONTRIBUTO ECONOMICO STRAORDINARIO IN FAVORE DELLA FAMIGLIA X. Y.</title>
-			<description>RICHIESTA CONTRIBUTO ECONOMICO STRAORDINARIO IN FAVORE DELLA FAMIGLIA X. Y.</description>
-			<a10:updated>2017-08-23T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3461354</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3461354</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 23 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 07 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3461354</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>ATTO DI INDIRIZZO ALLA DELEGAZIONE DI PARTE PUBBLICA TRATTANTE PER PROCEDERE ALLA DEFINIZIONE DI UNA IPOTESI CONTRATTUALE PER IL FONDO PRODUTTIVITÀ 2017 - MODIFICA</title>
-			<description>ATTO DI INDIRIZZO ALLA DELEGAZIONE DI PARTE PUBBLICA TRATTANTE PER PROCEDERE ALLA DEFINIZIONE DI UNA IPOTESI CONTRATTUALE PER IL FONDO PRODUTTIVITÀ 2017 - MODIFICA</description>
-			<a10:updated>2017-08-23T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3461351</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3461351</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 23 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 07 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3461351</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>ATTO DI INDIRIZZO ALLA DELEGAZIONE TRATTANTE DI PARTE PUBBLICA PER PROCEDERE AD UN'IPOTESI CONTRATTUALE PER IL FONDO PRODUTTIVITÀ 2016 - MODIFICA</title>
-			<description>ATTO DI INDIRIZZO ALLA DELEGAZIONE TRATTANTE DI PARTE PUBBLICA PER PROCEDERE AD UN'IPOTESI CONTRATTUALE PER IL FONDO PRODUTTIVITÀ 2016 - MODIFICA</description>
 			<a10:updated>2017-08-23T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

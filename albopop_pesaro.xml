@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 01 Sep 2017 11:30:44 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 01 Sep 2017 12:30:47 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Fri, 01 Sep 2017 11:30:44 +0200</pubDate>
+		<pubDate>Fri, 01 Sep 2017 12:30:47 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/694380</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/694380</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 01 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 21 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">694380</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO ATTI E AVVISI DIVERSI</category>
+			<title>A RICHIESTA DEL CORPO POLIZIA MUNICIPALE DI PESARO -UFFICIO VERBALI -AVVISO DI DEPOSUITO VERBALE DI VIOLAZIONE AL CDS E VERBALE DI RIMOZIONE VEICOLO MARCA FORD MONDEO TARGA SC4776P (PL) </title>
+			<description>A RICHIESTA DEL CORPO POLIZIA MUNICIPALE DI PESARO -UFFICIO VERBALI -AVVISO DI DEPOSUITO VERBALE DI VIOLAZIONE AL CDS E VERBALE DI RIMOZIONE VEICOLO MARCA FORD MONDEO TARGA SC4776P (PL) </description>
+			<a10:updated>2017-09-01T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/694304</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/694304</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>LAVORI DI STRAORDINARIA MANUTENZIONE PARCHI COMUNALI. AFFIDAMENTO FORNITURA ARREDI ED ATTREZZATURE LUDICHE ALLA DITTA HOLZHOF SRL DI TRENTO. ASSUNZIONE IMPEGNO DI SPESA</title>
 			<description>LAVORI DI STRAORDINARIA MANUTENZIONE PARCHI COMUNALI. AFFIDAMENTO FORNITURA ARREDI ED ATTREZZATURE LUDICHE ALLA DITTA HOLZHOF SRL DI TRENTO. ASSUNZIONE IMPEGNO DI SPESA</description>
-			<a10:updated>2017-08-31T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/693797</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/693797</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 31 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">693797</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>CONFERIMENTO DI INCARICO PROFESSIONALE PER IL PERFEZIONAMENTO DI ATTIVITÀ CATASTALI IN LUNGOFOGLIA CABOTO. </title>
-			<description>CONFERIMENTO DI INCARICO PROFESSIONALE PER IL PERFEZIONAMENTO DI ATTIVITÀ CATASTALI IN LUNGOFOGLIA CABOTO. </description>
 			<a10:updated>2017-08-31T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

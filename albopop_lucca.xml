@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 01 Sep 2017 11:31:14 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 01 Sep 2017 12:31:08 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Fri, 01 Sep 2017 11:31:14 +0200</pubDate>
+		<pubDate>Fri, 01 Sep 2017 12:31:08 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3474764</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3474764</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 01 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 16 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3474764</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONVOCAZIONI</category>
+			<title>CONVOCAZIONE COMMISSIONE PRESIDENTI GRUPPI CONSILIARI PER GIOVEDI' 7 SETTEMBRE 2017 ALLE ORE 15.00</title>
+			<description>CONVOCAZIONE COMMISSIONE PRESIDENTI GRUPPI CONSILIARI PER GIOVEDI' 7 SETTEMBRE 2017 ALLE ORE 15.00</description>
+			<a10:updated>2017-09-01T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3474200</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3474200</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>CONVENZIONE PER L'USO DEI LOCALI DEL LICEO ARTISTICO MUSICALE “A.PASSAGLIA” DI LUCCA – SEDE SANT'AGOSTINO IN OCCASIONE DEL FESTIVAL VIRTUOSO E BELCANTO. IMPEGNO E LIQUIDAZIONE DELLA SPESA .</title>
 			<description>CONVENZIONE PER L'USO DEI LOCALI DEL LICEO ARTISTICO MUSICALE “A.PASSAGLIA” DI LUCCA – SEDE SANT'AGOSTINO IN OCCASIONE DEL FESTIVAL VIRTUOSO E BELCANTO. IMPEGNO E LIQUIDAZIONE DELLA SPESA .</description>
-			<a10:updated>2017-08-30T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3471257</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3471257</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 30 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 14 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3471257</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>DESTINAZIONE DEI PROVENTI DI VIOLAZIONI ACCERTATE DAL COMANDO P.M. DI LUCCA EX ART. 46 TER C.1 E C.3 L.298/74 E EX ART 4 D.P.R. 227/2011 E ART.10 C.3 L.447/1995 (FAMIGLIA 11: ALTRO)</title>
-			<description>DESTINAZIONE DEI PROVENTI DI VIOLAZIONI ACCERTATE DAL COMANDO P.M. DI LUCCA EX ART. 46 TER C.1 E C.3 L.298/74 E EX ART 4 D.P.R. 227/2011 E ART.10 C.3 L.447/1995 (FAMIGLIA 11: ALTRO)</description>
 			<a10:updated>2017-08-30T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
