@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 02 Sep 2017 10:31:53 +0200</lastBuildDate>
+		<lastBuildDate>Sat, 02 Sep 2017 11:31:31 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Sat, 02 Sep 2017 10:31:53 +0200</pubDate>
+		<pubDate>Sat, 02 Sep 2017 11:31:31 +0200</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2936740</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2936740</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 02 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 10 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2936740</category>
+			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>PUBBLICAZIONI PER MATRIMONIO RELATIVO A MAGRI DAVIDE - D'ESTE COSTANZA</title>
+			<description>PUBBLICAZIONI PER MATRIMONIO RELATIVO A MAGRI DAVIDE - D'ESTE COSTANZA</description>
+			<a10:updated>2017-09-02T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2934923</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2934923</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
 			<title>AFFIDAMENTO A ABOCA S.P.A. SOCIETA' AGRICOLA (CIG: ZBF1FBBC6), SANOFI-AVENTIS S.P.A. (CIG: Z671FAF6FF) DI FORNITURA DI FARMACI, PARAFARMACI E ALTRI GENERI IN VENDITA PRESSO LA FARMACIA COMUNALE - IMPEGNO DI SPESA 2017 </title>
 			<description>AFFIDAMENTO A ABOCA S.P.A. SOCIETA' AGRICOLA (CIG: ZBF1FBBC6), SANOFI-AVENTIS S.P.A. (CIG: Z671FAF6FF) DI FORNITURA DI FARMACI, PARAFARMACI E ALTRI GENERI IN VENDITA PRESSO LA FARMACIA COMUNALE - IMPEGNO DI SPESA 2017 </description>
-			<a10:updated>2017-08-24T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2928697</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2928697</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 24 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 08 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2928697</category>
-			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
-			<title>AFFIDAMENTO A ISTITUTO GANASSINI S.P.A. (CIG: Z131FAD97E), PIERRE FABRE ITALIA S.P.A. (CIG: ZE41FAF65F), RECKITT BENCKISER S.P.A. DI FORNITURA DI FARMACI, PARAFARMACI E ALTRI GENERI IN VENDITA PRESSO LA FARMACIA COMUNALE - IMPEGNO DI SPESA 2017 </title>
-			<description>AFFIDAMENTO A ISTITUTO GANASSINI S.P.A. (CIG: Z131FAD97E), PIERRE FABRE ITALIA S.P.A. (CIG: ZE41FAF65F), RECKITT BENCKISER S.P.A. DI FORNITURA DI FARMACI, PARAFARMACI E ALTRI GENERI IN VENDITA PRESSO LA FARMACIA COMUNALE - IMPEGNO DI SPESA 2017 </description>
 			<a10:updated>2017-08-24T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
