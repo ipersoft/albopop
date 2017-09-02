@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 01 Sep 2017 18:30:43 +0200</lastBuildDate>
+		<lastBuildDate>Sat, 02 Sep 2017 08:30:44 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Fri, 01 Sep 2017 18:30:43 +0200</pubDate>
+		<pubDate>Sat, 02 Sep 2017 08:30:44 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -242,17 +242,6 @@
 			<a10:updated>2017-08-31T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/693955</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/693955</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 31 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 01 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">693955</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALBO PUBBLICAZIONI RICHIESTE DA SOGGETTI ESTERNI</category>
-			<title>AVVISO DI DEPOSITO - ART. 26 DPR 602/73, ART. 60 DPR 600/73, ART. 140 CPC - IRREPERIBILI - ELENCHI N. 118, 119, 120, 121, 122, 123, 124, 125</title>
-			<description>AVVISO DI DEPOSITO - ART. 26 DPR 602/73, ART. 60 DPR 600/73, ART. 140 CPC - IRREPERIBILI - ELENCHI N. 118, 119, 120, 121, 122, 123, 124, 125</description>
-			<a10:updated>2017-08-31T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/693939</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/693939</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 31 Aug 2017 02:00:00 +0200</category>
@@ -294,6 +283,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>INQUINAMENTO OCCORSO PRESSO IL CANTIERE CENTRO DIREZIONALE BENELLI (AREA EX AMGA IN VIA MOROSINI). AFFIDAMENTO DEL SERVIZIO PER IL MANTENIMENTO, LA MANUTENZIONE ORDINARIA E I MONITORAGGI PERIODICI DEL SISTEMA DI MESSA IN SICUREZZA DI TRATTAMENTO DELLE ACQUE DI FALDA INSTALLATO PRESSO IL SOTTOCOMPARTO 1. SETTEMBRE 2017. </title>
 			<description>INQUINAMENTO OCCORSO PRESSO IL CANTIERE CENTRO DIREZIONALE BENELLI (AREA EX AMGA IN VIA MOROSINI). AFFIDAMENTO DEL SERVIZIO PER IL MANTENIMENTO, LA MANUTENZIONE ORDINARIA E I MONITORAGGI PERIODICI DEL SISTEMA DI MESSA IN SICUREZZA DI TRATTAMENTO DELLE ACQUE DI FALDA INSTALLATO PRESSO IL SOTTOCOMPARTO 1. SETTEMBRE 2017. </description>
+			<a10:updated>2017-08-31T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/693853</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/693853</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 31 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">693853</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>LAVORI DI MANUTENZIONE ORDINARIA PRESSO IL CANILE - GATTILE COMUNALE UBICATO IN STRADA MADONNA DEL MONTE – LOCALITÀ – SANTA VENERANDA. AFFIDAMENTO ALLA DITTA. ASSUNZIONE IMPEGNO DI SPESA</title>
+			<description>LAVORI DI MANUTENZIONE ORDINARIA PRESSO IL CANILE - GATTILE COMUNALE UBICATO IN STRADA MADONNA DEL MONTE – LOCALITÀ – SANTA VENERANDA. AFFIDAMENTO ALLA DITTA. ASSUNZIONE IMPEGNO DI SPESA</description>
 			<a10:updated>2017-08-31T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

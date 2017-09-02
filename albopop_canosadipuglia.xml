@@ -5,7 +5,7 @@
 		<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Canosa di Puglia</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 01 Sep 2017 18:31:05 +0200</lastBuildDate>
+		<lastBuildDate>Sat, 02 Sep 2017 08:31:00 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Canosa di Puglia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Barletta-Andria-Trani</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Canosa di Puglia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_canosadipuglia</a10:id>
-		<pubDate>Fri, 01 Sep 2017 18:31:05 +0200</pubDate>
+		<pubDate>Sat, 02 Sep 2017 08:31:00 +0200</pubDate>
 		<docs>http://albopop.it/comune/canosadipuglia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -31,17 +31,6 @@
 			<title>CONTROLLO DELL'ATTIVITÀ EDILIZIA. ELENCO DEI RAPPORTI RICEVUTI E DELLE ORDINANZE EMESSE NEL MESE DI LUGLIO 2017</title>
 			<description>CONTROLLO DELL'ATTIVITÀ EDILIZIA. ELENCO DEI RAPPORTI RICEVUTI E DELLE ORDINANZE EMESSE NEL MESE DI LUGLIO 2017</description>
 			<a10:updated>2017-09-01T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3473362</guid>
-			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3473362</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 31 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 01 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3473362</category>
-			<category domain="http://albopop.it/specs#item-category-type">CONVOCAZIONI CONVOCAZIONE CONSIGLIO COMUNALE</category>
-			<title>CONVOCAZIONE CONSIGLIO COMUNALE VENERDÌ 1 SETTEMBRE 2017, ALLE ORE 19,30.</title>
-			<description>CONVOCAZIONE CONSIGLIO COMUNALE VENERDÌ 1 SETTEMBRE 2017, ALLE ORE 19,30.</description>
-			<a10:updated>2017-08-31T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3473251</guid>
@@ -295,6 +284,17 @@
 			<title>POSTA CERTIFICATA: TRASMISSIONE AVVISO DI VENDITA PROT. N. 13098 DEL 07.08.2017 E TEMPI DI AFFISSIONE.</title>
 			<description>POSTA CERTIFICATA: TRASMISSIONE AVVISO DI VENDITA PROT. N. 13098 DEL 07.08.2017 E TEMPI DI AFFISSIONE.</description>
 			<a10:updated>2017-08-23T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3449443</guid>
+			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3449443</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 10 Aug 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 07 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3449443</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI E DEPOSITI AVVISO PUBBLICO</category>
+			<title>POSTA CERTIFICATA: INVIO BANDO.</title>
+			<description>POSTA CERTIFICATA: INVIO BANDO.</description>
+			<a10:updated>2017-08-10T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
