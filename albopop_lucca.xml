@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 04 Sep 2017 12:31:23 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 04 Sep 2017 13:31:00 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Mon, 04 Sep 2017 12:31:23 +0200</pubDate>
+		<pubDate>Mon, 04 Sep 2017 13:31:00 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3476797</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3476797</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 04 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 05 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3476797</category>
+			<category domain="http://albopop.it/specs#item-category-type">BANDO DI CONCORSO/SELEZIONI PUBBLICHE BANDI DI CONCORSO/SELEZIONI PUBBLICHE</category>
+			<title>AVVISO DI MOBILITA’ VOLONTARIA PER LA COPERTURA DI N. 1 POSTO VACANTE A TEMPO PIENO/INDETERMINATO NEL PROFILO DI “ESPERTO FASCIA B PER L’ESPLETAMENTO DI ATTIVITA’ IN MATERIA TECNICA”, CATEGORIA D, POSIZIONE GIURIDICA D1, AI SENSI DELL’ART. 30 DEL D. LGS. N. 165/2001 </title>
+			<description>AVVISO DI MOBILITA’ VOLONTARIA PER LA COPERTURA DI N. 1 POSTO VACANTE A TEMPO PIENO/INDETERMINATO NEL PROFILO DI “ESPERTO FASCIA B PER L’ESPLETAMENTO DI ATTIVITA’ IN MATERIA TECNICA”, CATEGORIA D, POSIZIONE GIURIDICA D1, AI SENSI DELL’ART. 30 DEL D. LGS. N. 165/2001 </description>
+			<a10:updated>2017-09-04T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3476509</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3476509</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>NOMINA DELLA COMMISSIONE PER ESAMINARE GLI ATTI INERENTI LA PROCEDURA DI EVIDENZA PUBBLICA RELATIVA ALL'AFFIDAMENTO IN CONCESSIONE DEGLI IMPIANTI SPORTIVI, PRIVI DI RILEVANZA ECONOMICA, DENOMINATI: CAMPO DA BASEBALL E CAMPO N 4 DEL RUGBY, SITI IN VIA DELLA MACCHIA - LUCCA.</title>
 			<description>NOMINA DELLA COMMISSIONE PER ESAMINARE GLI ATTI INERENTI LA PROCEDURA DI EVIDENZA PUBBLICA RELATIVA ALL'AFFIDAMENTO IN CONCESSIONE DEGLI IMPIANTI SPORTIVI, PRIVI DI RILEVANZA ECONOMICA, DENOMINATI: CAMPO DA BASEBALL E CAMPO N 4 DEL RUGBY, SITI IN VIA DELLA MACCHIA - LUCCA.</description>
-			<a10:updated>2017-08-31T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3471643</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3471643</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 31 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 08 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3471643</category>
-			<category domain="http://albopop.it/specs#item-category-type">DEPOSITO ATTI CASA COMUNALE</category>
-			<title>ARTICOLO 60, COMMA E) DPR 600/1973- AMATO DARIO GIUSEPPE- RIF. REP N. 2073/2017- NOTIFICA ATTO</title>
-			<description>ARTICOLO 60, COMMA E) DPR 600/1973- AMATO DARIO GIUSEPPE- RIF. REP N. 2073/2017- NOTIFICA ATTO</description>
 			<a10:updated>2017-08-31T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
