@@ -5,7 +5,7 @@
 		<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Belpasso</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 04 Sep 2017 13:30:49 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 04 Sep 2017 14:30:56 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Belpasso</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Belpasso</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_belpasso</a10:id>
-		<pubDate>Mon, 04 Sep 2017 13:30:49 +0200</pubDate>
+		<pubDate>Mon, 04 Sep 2017 14:30:56 +0200</pubDate>
 		<docs>http://albopop.it/comune/belpasso/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3477141</guid>
+			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3477141</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 04 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 12 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3477141</category>
+			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>PUBBLICAZIONE DI MATRIMONIO - VERBALE N. 48</title>
+			<description>PUBBLICAZIONE DI MATRIMONIO - VERBALE N. 48</description>
+			<a10:updated>2017-09-04T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3476404</guid>
 			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3476404</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>ASD BELPASSO BOXE. LIQUIDAZIONE CONTRIBUTO.</title>
 			<description>ASD BELPASSO BOXE. LIQUIDAZIONE CONTRIBUTO.</description>
-			<a10:updated>2017-09-01T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3475399</guid>
-			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3475399</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 01 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 16 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3475399</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>LIQUIDAZIONE SPESA PER RETTE RICOVERO MINORI SU DISPOSIZIONE DEL SERVIZIO SOCIALE PROFESSIONALE PRESSO LA COMUNITÀ ALLOGGIO " FONDAZIONE G.R. SAVA ONLUS" BELPASSO. PERIODO APRILE - GIUGNO</title>
-			<description>LIQUIDAZIONE SPESA PER RETTE RICOVERO MINORI SU DISPOSIZIONE DEL SERVIZIO SOCIALE PROFESSIONALE PRESSO LA COMUNITÀ ALLOGGIO " FONDAZIONE G.R. SAVA ONLUS" BELPASSO. PERIODO APRILE - GIUGNO</description>
 			<a10:updated>2017-09-01T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

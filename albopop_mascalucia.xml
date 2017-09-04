@@ -5,7 +5,7 @@
 		<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mascalucia</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 04 Sep 2017 13:31:07 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 04 Sep 2017 14:31:10 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mascalucia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mascalucia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mascalucia</a10:id>
-		<pubDate>Mon, 04 Sep 2017 13:31:07 +0200</pubDate>
+		<pubDate>Mon, 04 Sep 2017 14:31:10 +0200</pubDate>
 		<docs>http://albopop.it/comune/mascalucia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2937999</guid>
+			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2937999</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 04 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 19 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2937999</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRE PUBBLICAZIONI CONCESSIONE EDILIZIA</category>
+			<title>AUTORIZZAZIONE SANITARIA N.84/2017 - COMUNITÀ ALLOGGIO VILLA ARZILLA</title>
+			<description>AUTORIZZAZIONE SANITARIA N.84/2017 - COMUNITÀ ALLOGGIO VILLA ARZILLA</description>
+			<a10:updated>2017-09-04T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2937729</guid>
 			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2937729</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
 			<title>LIQUIDAZIONE SPESA PER ACQUISTO ARTICOLI DI CONSUMO E CANCELLERIA PER IL BUON FUNZIONAMENTO DELLA POLIZIA MUNICIPALE DITTA: ERREBIAN CON SEDE IN VIA DELL’INFORMATICA 8 – 00040 POMEZIA (RM) – P.IVA 02044501001. C.I.G. N. ZA91F55EAC </title>
 			<description>LIQUIDAZIONE SPESA PER ACQUISTO ARTICOLI DI CONSUMO E CANCELLERIA PER IL BUON FUNZIONAMENTO DELLA POLIZIA MUNICIPALE DITTA: ERREBIAN CON SEDE IN VIA DELL’INFORMATICA 8 – 00040 POMEZIA (RM) – P.IVA 02044501001. C.I.G. N. ZA91F55EAC </description>
-			<a10:updated>2017-09-04T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2937378</guid>
-			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2937378</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 04 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 19 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2937378</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
-			<title>LIQUIDAZIONE SPESA PER SPOSTAMENTO PONTE RADIO POLIZIA MUNICIPALE E PROTEZIONE CIVILE CON INSTALLAZIONE ANTENNE E SISTEMA AUTONOMO DI ALIMENTAZIONE FOTOVOLTAICO. DITTA: CRT ELETTRONICA DI GRASSO MARIA GRAZIA, AVENTE SEDE IN VIA PAPALE 51 - CATANIA; C.I.G. N. Z081E369FB </title>
-			<description>LIQUIDAZIONE SPESA PER SPOSTAMENTO PONTE RADIO POLIZIA MUNICIPALE E PROTEZIONE CIVILE CON INSTALLAZIONE ANTENNE E SISTEMA AUTONOMO DI ALIMENTAZIONE FOTOVOLTAICO. DITTA: CRT ELETTRONICA DI GRASSO MARIA GRAZIA, AVENTE SEDE IN VIA PAPALE 51 - CATANIA; C.I.G. N. Z081E369FB </description>
 			<a10:updated>2017-09-04T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
