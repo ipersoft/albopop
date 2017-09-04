@@ -5,7 +5,7 @@
 		<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bitonto</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 04 Sep 2017 08:30:34 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 04 Sep 2017 09:30:34 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bitonto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Bari</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bitonto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bitonto</a10:id>
-		<pubDate>Mon, 04 Sep 2017 08:30:34 +0200</pubDate>
+		<pubDate>Mon, 04 Sep 2017 09:30:34 +0200</pubDate>
 		<docs>http://albopop.it/comune/bitonto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3475962</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3475962</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 04 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 19 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3475962</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
+			<title>VIA PASCULLI - DIVIETO DI CIRCOLAZIONE E SOSTA CON RIMOZIONE NEI GIORNI 9 E 10 SETTEMBRE 2017 - MANIFESTAZIONE IN ONORE DI "SAN ISIDORO AGRICOLA"</title>
+			<description>VIA PASCULLI - DIVIETO DI CIRCOLAZIONE E SOSTA CON RIMOZIONE NEI GIORNI 9 E 10 SETTEMBRE 2017 - MANIFESTAZIONE IN ONORE DI "SAN ISIDORO AGRICOLA"</description>
+			<a10:updated>2017-09-04T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3475540</guid>
 			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3475540</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISI ALTRI ENTI</category>
 			<title>PARCO NAZIONALE DELL' ALTA MURGIA : ENEL PRATICA N° 852956 - COSTRUZIONE LINEA ELETTRICA IN CAVO INTERRATO MT/BT, INSTALLAZIONE ED ELETTRIFICAZIONE DI UNA CABINA DI TRASFORMAZIONE MT/BT DEL TIPO BOX E DI UN ARMADIETTO STRADALE PER POTENZIAMENTO RETE E FORNITURA DI ENERGIA ELETTRICA ALLA C.DA ROGADEO DEGLI AGRI DI RUVO DI PUGLIA E DI BITONTO</title>
 			<description>PARCO NAZIONALE DELL' ALTA MURGIA : ENEL PRATICA N° 852956 - COSTRUZIONE LINEA ELETTRICA IN CAVO INTERRATO MT/BT, INSTALLAZIONE ED ELETTRIFICAZIONE DI UNA CABINA DI TRASFORMAZIONE MT/BT DEL TIPO BOX E DI UN ARMADIETTO STRADALE PER POTENZIAMENTO RETE E FORNITURA DI ENERGIA ELETTRICA ALLA C.DA ROGADEO DEGLI AGRI DI RUVO DI PUGLIA E DI BITONTO</description>
-			<a10:updated>2017-08-30T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3469615</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3469615</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 30 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 14 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3469615</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
-			<title>VIA VITALE GIORDANO 21 - DIVIETO DI SOSTA CON RIMOZIONE DAL 04/09/2017 PER GG.15 - LAVORI EDILI DITTA OPUS DI LUISO MARIO STEFANO</title>
-			<description>VIA VITALE GIORDANO 21 - DIVIETO DI SOSTA CON RIMOZIONE DAL 04/09/2017 PER GG.15 - LAVORI EDILI DITTA OPUS DI LUISO MARIO STEFANO</description>
 			<a10:updated>2017-08-30T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
