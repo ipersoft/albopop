@@ -5,7 +5,7 @@
 		<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mascalucia</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 05 Sep 2017 13:32:26 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 05 Sep 2017 14:31:31 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mascalucia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mascalucia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mascalucia</a10:id>
-		<pubDate>Tue, 05 Sep 2017 13:32:26 +0200</pubDate>
+		<pubDate>Tue, 05 Sep 2017 14:31:31 +0200</pubDate>
 		<docs>http://albopop.it/comune/mascalucia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2939308</guid>
+			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2939308</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 05 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 13 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2939308</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRE PUBBLICAZIONI ALTRE TIPOLOGIE DI PUBBLICAZIONE</category>
+			<title>SERVIZIO DI TRASPORTO PULMANN PRESSO LA LOCALITÀ DI SELINUNTE (TP) NEI GIORNI 19-20-21 E 22 SETT. 2017. VERBALE DI GARA - PUBBLICAZIONE</title>
+			<description>SERVIZIO DI TRASPORTO PULMANN PRESSO LA LOCALITÀ DI SELINUNTE (TP) NEI GIORNI 19-20-21 E 22 SETT. 2017. VERBALE DI GARA - PUBBLICAZIONE</description>
+			<a10:updated>2017-09-05T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2939147</guid>
 			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2939147</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA DIRIGENZIALE</category>
 			<title>INGIUNZIONE DI PAGAMENTO DI SANZIONE AMMINISTRATIVA PER VIOLAZIONE DELL’ORDINANZA SINDACALE N. 30/2011 – GIUFFRIDA SANTO</title>
 			<description>INGIUNZIONE DI PAGAMENTO DI SANZIONE AMMINISTRATIVA PER VIOLAZIONE DELL’ORDINANZA SINDACALE N. 30/2011 – GIUFFRIDA SANTO</description>
-			<a10:updated>2017-09-05T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2939071</guid>
-			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2939071</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 05 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 20 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2939071</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA DIRIGENZIALE</category>
-			<title>INGIUNZIONE DI PAGAMENTO DI SANZIONE AMMINISTRATIVA PER VIOLAZIONE DELL’ORDINANZA SINDACALE N. 20/2012 – MIRABILE GIOVANNI</title>
-			<description>INGIUNZIONE DI PAGAMENTO DI SANZIONE AMMINISTRATIVA PER VIOLAZIONE DELL’ORDINANZA SINDACALE N. 20/2012 – MIRABILE GIOVANNI</description>
 			<a10:updated>2017-09-05T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
