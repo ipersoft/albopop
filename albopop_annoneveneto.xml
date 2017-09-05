@@ -5,7 +5,7 @@
 		<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Annone Veneto</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 05 Sep 2017 09:31:11 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 05 Sep 2017 10:31:51 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Annone Veneto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Annone Veneto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_annoneveneto</a10:id>
-		<pubDate>Tue, 05 Sep 2017 09:31:11 +0200</pubDate>
+		<pubDate>Tue, 05 Sep 2017 10:31:51 +0200</pubDate>
 		<docs>http://albopop.it/comune/annoneveneto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3478239</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3478239</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 05 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 20 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3478239</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>LIQUIDAZIONE RETTA RICOVERO IN CASA DI RIPOSO SIG. P. R. – AGOSTO 2017</title>
+			<description>LIQUIDAZIONE RETTA RICOVERO IN CASA DI RIPOSO SIG. P. R. – AGOSTO 2017</description>
+			<a10:updated>2017-09-05T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3475593</guid>
 			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3475593</link>
@@ -284,17 +295,6 @@
 			<title>TERNA RETE ITALIA - TAGLIO PIANTE IN PROSSIMITA' DELLE LINEE ELETTRICHE AEREE.</title>
 			<description>TERNA RETE ITALIA - TAGLIO PIANTE IN PROSSIMITA' DELLE LINEE ELETTRICHE AEREE.</description>
 			<a10:updated>2017-08-24T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3461455</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3461455</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 23 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 07 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3461455</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>CONVENZIONE PER LA REALIZZAZIONE DELLE INFRASTRUTTURE IN BANDA ULTRA LARGA NELL'AMBITO DELL'ACCORDO DI PROGRAMMA MISE - REGIONE VENETO</title>
-			<description>CONVENZIONE PER LA REALIZZAZIONE DELLE INFRASTRUTTURE IN BANDA ULTRA LARGA NELL'AMBITO DELL'ACCORDO DI PROGRAMMA MISE - REGIONE VENETO</description>
-			<a10:updated>2017-08-23T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
