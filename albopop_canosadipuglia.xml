@@ -5,7 +5,7 @@
 		<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Canosa di Puglia</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 04 Sep 2017 18:31:42 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 05 Sep 2017 08:31:06 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Canosa di Puglia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Barletta-Andria-Trani</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Canosa di Puglia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_canosadipuglia</a10:id>
-		<pubDate>Mon, 04 Sep 2017 18:31:42 +0200</pubDate>
+		<pubDate>Tue, 05 Sep 2017 08:31:06 +0200</pubDate>
 		<docs>http://albopop.it/comune/canosadipuglia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3477630</guid>
+			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3477630</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 04 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 19 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3477630</category>
+			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DI CONSIGLIO</category>
+			<title>Conferenza di Servizi Provincia BAT (riunioni del 29/03 e 26/07/2017) – Determinazione Dirigenziale VI Settore Provincia BAT n.1016 del 25/08/2017 - Progetto denominato Piattaforma integrata per il deposito controllato di rifiuti non pericolosi – Ampliamento della discarica per rifiuti non pericolosi della BLEU S.r.l. in Canosa di Puglia, ubicato nel Comune di Minervino Murge, prov. BT, località Tufarelle – Procedura coordinata V.I.A. A.I.A. – Indirizzi e direttive.</title>
+			<description>Conferenza di Servizi Provincia BAT (riunioni del 29/03 e 26/07/2017) – Determinazione Dirigenziale VI Settore Provincia BAT n.1016 del 25/08/2017 - Progetto denominato Piattaforma integrata per il deposito controllato di rifiuti non pericolosi – Ampliamento della discarica per rifiuti non pericolosi della BLEU S.r.l. in Canosa di Puglia, ubicato nel Comune di Minervino Murge, prov. BT, località Tufarelle – Procedura coordinata V.I.A. A.I.A. – Indirizzi e direttive.</description>
+			<a10:updated>2017-09-04T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3475764</guid>
 			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3475764</link>
@@ -284,17 +295,6 @@
 			<title>FORINA - PASTORE</title>
 			<description>FORINA - PASTORE</description>
 			<a10:updated>2017-08-28T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3464290</guid>
-			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3464290</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 25 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 09 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3464290</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
-			<title>Affrancazione livello enfiteutico Costruzione Loglisci srl di Canosa di Puglia. Area edificabile in agro di Canosa di Puglia, foglio 39, particelle 1464, 1466 e 57851 (accorpamento ex 642, 643 e 135). </title>
-			<description>Affrancazione livello enfiteutico Costruzione Loglisci srl di Canosa di Puglia. Area edificabile in agro di Canosa di Puglia, foglio 39, particelle 1464, 1466 e 57851 (accorpamento ex 642, 643 e 135). </description>
-			<a10:updated>2017-08-25T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
