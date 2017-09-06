@@ -5,7 +5,7 @@
 		<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Annone Veneto</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 06 Sep 2017 10:31:11 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 06 Sep 2017 11:31:06 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Annone Veneto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Annone Veneto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_annoneveneto</a10:id>
-		<pubDate>Wed, 06 Sep 2017 10:31:11 +0200</pubDate>
+		<pubDate>Wed, 06 Sep 2017 11:31:06 +0200</pubDate>
 		<docs>http://albopop.it/comune/annoneveneto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3492112</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3492112</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 06 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 21 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3492112</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>LAVORI DI "EFFICIENTAMENTO DELL'ILLUMINAZIONE PUBBLICA - 3° STRALCIO" – LIQUIDAZIONE</title>
+			<description>LAVORI DI "EFFICIENTAMENTO DELL'ILLUMINAZIONE PUBBLICA - 3° STRALCIO" – LIQUIDAZIONE</description>
+			<a10:updated>2017-09-06T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3482551</guid>
 			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3482551</link>
@@ -284,17 +295,6 @@
 			<title>INCARICO DI DIREZIONE LAVORI AFFIDATO ALLA SOCIETÀ DI INGEGNERIA GENERAL PROGETTI S.R.L. PER LA "SISTEMAZIONE DELL'INCROCIO TRA VIA QUATTRO STRADE E VIALE TRIESTE A SPADACENTA - 3° STRALCIO" - IMPEGNO DI SPESA</title>
 			<description>INCARICO DI DIREZIONE LAVORI AFFIDATO ALLA SOCIETÀ DI INGEGNERIA GENERAL PROGETTI S.R.L. PER LA "SISTEMAZIONE DELL'INCROCIO TRA VIA QUATTRO STRADE E VIALE TRIESTE A SPADACENTA - 3° STRALCIO" - IMPEGNO DI SPESA</description>
 			<a10:updated>2017-09-02T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3474626</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3474626</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 01 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 31 Dec 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3474626</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISO</category>
-			<title>AVVISO ESPLORATIVO PER MANIFESTAZIONE DI INTERESSE FINALIZZATA ALL'ESPLETAMENTO DELLA PROCEDURA NEGOZIATA PER AFFIDAMENTO LAVORI DI RISTRUTTURAZIONE DI UN EDIFICIO POLIVALENTE FUNZIONALE ALLA CUCINA SCOLASTICA DI ANNONE VENETO. ELENCO DELLE MANIFESTAZIONI DI INTERESSE AMMESSE. </title>
-			<description>AVVISO ESPLORATIVO PER MANIFESTAZIONE DI INTERESSE FINALIZZATA ALL'ESPLETAMENTO DELLA PROCEDURA NEGOZIATA PER AFFIDAMENTO LAVORI DI RISTRUTTURAZIONE DI UN EDIFICIO POLIVALENTE FUNZIONALE ALLA CUCINA SCOLASTICA DI ANNONE VENETO. ELENCO DELLE MANIFESTAZIONI DI INTERESSE AMMESSE. </description>
-			<a10:updated>2017-09-01T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>

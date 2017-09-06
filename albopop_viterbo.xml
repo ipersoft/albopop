@@ -5,7 +5,7 @@
 		<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Viterbo</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 06 Sep 2017 10:31:08 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 06 Sep 2017 11:31:00 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Viterbo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Viterbo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Viterbo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_viterbo</a10:id>
-		<pubDate>Wed, 06 Sep 2017 10:31:08 +0200</pubDate>
+		<pubDate>Wed, 06 Sep 2017 11:31:00 +0200</pubDate>
 		<docs>http://albopop.it/comune/viterbo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3492239</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3492239</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 06 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 21 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3492239</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE ORDINANZA DIRIGENZIALE</category>
+			<title>ORDINANZA - ISTITUZIONE SENSO UNICO ALTERNATO STRADA TEVERINA - ENERPETROLI S.R.L. - RIPRISTINO IN ATTRAVERSAMENTO PER ALLACCIO ACQUEDOTTO</title>
+			<description>ORDINANZA - ISTITUZIONE SENSO UNICO ALTERNATO STRADA TEVERINA - ENERPETROLI S.R.L. - RIPRISTINO IN ATTRAVERSAMENTO PER ALLACCIO ACQUEDOTTO</description>
+			<a10:updated>2017-09-06T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3491920</guid>
 			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3491920</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
 			<title>POSTE ITALIANE SPA - SERVIZI POSTALI EASY FULL E PICK UP - ULTERIORE PROROGA MESE DI SETTEMBRE</title>
 			<description>POSTE ITALIANE SPA - SERVIZI POSTALI EASY FULL E PICK UP - ULTERIORE PROROGA MESE DI SETTEMBRE</description>
-			<a10:updated>2017-09-01T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3474667</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3474667</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 01 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 16 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3474667</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONI SENZA IMPEGNO DI SPESA</category>
-			<title>BOGA SAS DI SCORZA ALESSANDRO E C. - RATEIZZAZIONE AVVISI IMU ANNI 2012, 2013 E 2014</title>
-			<description>BOGA SAS DI SCORZA ALESSANDRO E C. - RATEIZZAZIONE AVVISI IMU ANNI 2012, 2013 E 2014</description>
 			<a10:updated>2017-09-01T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
