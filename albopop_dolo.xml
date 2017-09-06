@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 06 Sep 2017 09:30:43 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 06 Sep 2017 10:31:00 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Wed, 06 Sep 2017 09:30:43 +0200</pubDate>
+		<pubDate>Wed, 06 Sep 2017 10:31:00 +0200</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3492001</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3492001</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 06 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 21 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3492001</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>IMPEGNO E LIQUIDAZIONE CONTRIBUTO ECONOMICO PER PARTECIPAZIONE MINORE CENTRI ESTIVI 2017. SETTEMBRE 2017</title>
+			<description>IMPEGNO E LIQUIDAZIONE CONTRIBUTO ECONOMICO PER PARTECIPAZIONE MINORE CENTRI ESTIVI 2017. SETTEMBRE 2017</description>
+			<a10:updated>2017-09-06T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3491666</guid>
 			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3491666</link>
@@ -284,17 +295,6 @@
 			<title>RICHIESTA PUBBLICAZIONE AVVISO MOBILITA' CAT. D ASSISTENTE SOCIALE</title>
 			<description>RICHIESTA PUBBLICAZIONE AVVISO MOBILITA' CAT. D ASSISTENTE SOCIALE</description>
 			<a10:updated>2017-08-31T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3470465</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3470465</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 30 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 14 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3470465</category>
-			<category domain="http://albopop.it/specs#item-category-type">PERMESSI DI COSTRUIRE PERMESSO DI COSTRUIRE</category>
-			<title>AVVISO DI RILASCIO DI CONCESSIONE IN SANATORIA AI SENSI DELL’ART. 31 DELLA LEGGE 28 FEBBRAIO 1985 N. 47.</title>
-			<description>AVVISO DI RILASCIO DI CONCESSIONE IN SANATORIA AI SENSI DELL’ART. 31 DELLA LEGGE 28 FEBBRAIO 1985 N. 47.</description>
-			<a10:updated>2017-08-30T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
