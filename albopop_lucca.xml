@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 05 Sep 2017 18:31:19 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 06 Sep 2017 08:31:17 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Tue, 05 Sep 2017 18:31:19 +0200</pubDate>
+		<pubDate>Wed, 06 Sep 2017 08:31:17 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -31,6 +31,17 @@
 			<title>BRETELLINA E VIA DANTE ALIGHIERI, VIA LIPPI FRANCESCONI, VIA SILVANA SCIORTINO, VIA DEI PINI, PER MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE, DAL 06/09/2017 AL 08/09/2017 DALLE ORE 8,30 ALLE ORE 18,00.</title>
 			<description>BRETELLINA E VIA DANTE ALIGHIERI, VIA LIPPI FRANCESCONI, VIA SILVANA SCIORTINO, VIA DEI PINI, PER MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE, DAL 06/09/2017 AL 08/09/2017 DALLE ORE 8,30 ALLE ORE 18,00.</description>
 			<a10:updated>2017-09-05T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3479381</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3479381</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 06 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 07 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3479381</category>
+			<category domain="http://albopop.it/specs#item-category-type">DEPOSITO ATTI CASA COMUNALE</category>
+			<title> AGENZIA ENTRATE: DEPOSITO ELENCO IRR N. 27 DEL 06.09.2017. AVVISO</title>
+			<description> AGENZIA ENTRATE: DEPOSITO ELENCO IRR N. 27 DEL 06.09.2017. AVVISO</description>
+			<a10:updated>2017-09-06T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3479124</guid>
@@ -176,6 +187,17 @@
 			<a10:updated>2017-09-05T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3477906</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3477906</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 06 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 07 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3477906</category>
+			<category domain="http://albopop.it/specs#item-category-type">DEPOSITO ATTI CASA COMUNALE</category>
+			<title>AGENZIA DELLE ENTRATE - RISCOSSIONE - RICHIESTA DI DEPOSITO E PUBBLICAZIONE ALL`ALBO DAL 06/09/2017 AL 06/09/2017 DELL`ELENCO: 3633-1-20170905-LUCCA</title>
+			<description>AGENZIA DELLE ENTRATE - RISCOSSIONE - RICHIESTA DI DEPOSITO E PUBBLICAZIONE ALL`ALBO DAL 06/09/2017 AL 06/09/2017 DELL`ELENCO: 3633-1-20170905-LUCCA</description>
+			<a10:updated>2017-09-06T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3477293</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3477293</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 05 Sep 2017 02:00:00 +0200</category>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>U.O. 2.3 – ASSEGNAZIONE ORDINARIA DI ALLOGGIO DI ERP POSTO NEL COMUNE DI LUCCA (CONTENUTO: ASSEGNAZIONE DA GRADUATORIA DEFINITIVA BANDO 2016, POSIZIONE N. 98, FAMIGLIA 11 “ALTRO”).</title>
 			<description>U.O. 2.3 – ASSEGNAZIONE ORDINARIA DI ALLOGGIO DI ERP POSTO NEL COMUNE DI LUCCA (CONTENUTO: ASSEGNAZIONE DA GRADUATORIA DEFINITIVA BANDO 2016, POSIZIONE N. 98, FAMIGLIA 11 “ALTRO”).</description>
-			<a10:updated>2017-09-03T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3475778</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3475778</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Sun, 03 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 18 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3475778</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>U.O. 2.3 – ASSEGNAZIONE ORDINARIA DI ALLOGGIO DI ERP POSTO NEL COMUNE DI LUCCA (CONTENUTO: ASSEGNAZIONE DA GRADUATORIA DEFINITIVA BANDO 2016, POSIZIONE N. 14, FAMIGLIA 11 “ALTRO”).</title>
-			<description>U.O. 2.3 – ASSEGNAZIONE ORDINARIA DI ALLOGGIO DI ERP POSTO NEL COMUNE DI LUCCA (CONTENUTO: ASSEGNAZIONE DA GRADUATORIA DEFINITIVA BANDO 2016, POSIZIONE N. 14, FAMIGLIA 11 “ALTRO”).</description>
-			<a10:updated>2017-09-03T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3475773</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3475773</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Sun, 03 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 18 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3475773</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>U.O. 2.3 – ASSEGNAZIONE ORDINARIA DI ALLOGGIO DI ERP POSTO NEL COMUNE DI LUCCA (CONTENUTO: ASSEGNAZIONE DA GRADUATORIA DEFINITIVA BANDO 2016, POSIZIONE N. 67, FAMIGLIA 11 “ALTRO”).</title>
-			<description>U.O. 2.3 – ASSEGNAZIONE ORDINARIA DI ALLOGGIO DI ERP POSTO NEL COMUNE DI LUCCA (CONTENUTO: ASSEGNAZIONE DA GRADUATORIA DEFINITIVA BANDO 2016, POSIZIONE N. 67, FAMIGLIA 11 “ALTRO”).</description>
 			<a10:updated>2017-09-03T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
