@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 06 Sep 2017 13:31:47 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 06 Sep 2017 14:31:36 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Wed, 06 Sep 2017 13:31:47 +0200</pubDate>
+		<pubDate>Wed, 06 Sep 2017 14:31:36 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3493041</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3493041</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 06 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 21 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3493041</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>VIA CANULEIA, CENTRO STORICO, MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE STRADALE, DAL 06/09/2017 AL 12/09/2017. </title>
+			<description>VIA CANULEIA, CENTRO STORICO, MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE STRADALE, DAL 06/09/2017 AL 12/09/2017. </description>
+			<a10:updated>2017-09-06T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3492958</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3492958</link>
@@ -284,17 +295,6 @@
 			<title>BRETELLINA E VIA DANTE ALIGHIERI, VIA LIPPI FRANCESCONI, VIA SILVANA SCIORTINO, VIA DEI PINI, PER MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE, DAL 06/09/2017 AL 08/09/2017 DALLE ORE 8,30 ALLE ORE 18,00.</title>
 			<description>BRETELLINA E VIA DANTE ALIGHIERI, VIA LIPPI FRANCESCONI, VIA SILVANA SCIORTINO, VIA DEI PINI, PER MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE, DAL 06/09/2017 AL 08/09/2017 DALLE ORE 8,30 ALLE ORE 18,00.</description>
 			<a10:updated>2017-09-05T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3479381</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3479381</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 06 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 07 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3479381</category>
-			<category domain="http://albopop.it/specs#item-category-type">DEPOSITO ATTI CASA COMUNALE</category>
-			<title> AGENZIA ENTRATE: DEPOSITO ELENCO IRR N. 27 DEL 06.09.2017. AVVISO</title>
-			<description> AGENZIA ENTRATE: DEPOSITO ELENCO IRR N. 27 DEL 06.09.2017. AVVISO</description>
-			<a10:updated>2017-09-06T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
