@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 06 Sep 2017 17:33:04 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 06 Sep 2017 18:32:05 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Wed, 06 Sep 2017 17:33:04 +0200</pubDate>
+		<pubDate>Wed, 06 Sep 2017 18:32:05 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3493521</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3493521</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 06 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 21 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3493521</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>DELIBERAZIONE C.C. N. 71 DEL 27.12.2016: RINNOVO CONVENZIONE PER UTILIZZO IN AVVALIMENTO DELL’UFFICIO POLITICHE COMUNITARIE DELLA PROVINCIA DI LUCCA – FINANZIAMENTO DELLA SPESA (FAMIGLIA 11)</title>
+			<description>DELIBERAZIONE C.C. N. 71 DEL 27.12.2016: RINNOVO CONVENZIONE PER UTILIZZO IN AVVALIMENTO DELL’UFFICIO POLITICHE COMUNITARIE DELLA PROVINCIA DI LUCCA – FINANZIAMENTO DELLA SPESA (FAMIGLIA 11)</description>
+			<a10:updated>2017-09-06T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3493279</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3493279</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">AVVISI E BANDI VARI</category>
 			<title>VERBALE DI RITROVAMENTO E RIMOZIONE DI VELOCIPEDE DA DONNA COLORE RUGGINE IN EVIDENTE STATO DI ABBANDONO SU AREA PUBBLICA AI SENSI DELL'ORDINANZA N. 92036 DEL 29.8.2016</title>
 			<description>VERBALE DI RITROVAMENTO E RIMOZIONE DI VELOCIPEDE DA DONNA COLORE RUGGINE IN EVIDENTE STATO DI ABBANDONO SU AREA PUBBLICA AI SENSI DELL'ORDINANZA N. 92036 DEL 29.8.2016</description>
-			<a10:updated>2017-09-06T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3491595</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3491595</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 06 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 06 Nov 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3491595</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI E BANDI VARI</category>
-			<title>VERBALE DI RITROVAMENTO E RIMOZIONE DI VELOCIPEDE TIPO GRAZIELLA PICCOLA COLORE ARANCIONE IN EVIDENTE STATO DI ABBANDONO SU AREA PUBBLICA AI SENSI DELL'ORDINANZA N. 92036 DEL 29.8.2016</title>
-			<description>VERBALE DI RITROVAMENTO E RIMOZIONE DI VELOCIPEDE TIPO GRAZIELLA PICCOLA COLORE ARANCIONE IN EVIDENTE STATO DI ABBANDONO SU AREA PUBBLICA AI SENSI DELL'ORDINANZA N. 92036 DEL 29.8.2016</description>
 			<a10:updated>2017-09-06T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
