@@ -5,7 +5,7 @@
 		<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mascalucia</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 07 Sep 2017 16:32:39 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 07 Sep 2017 17:31:35 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mascalucia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mascalucia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mascalucia</a10:id>
-		<pubDate>Thu, 07 Sep 2017 16:32:39 +0200</pubDate>
+		<pubDate>Thu, 07 Sep 2017 17:31:35 +0200</pubDate>
 		<docs>http://albopop.it/comune/mascalucia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2946079</guid>
+			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2946079</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 07 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 22 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2946079</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRE PUBBLICAZIONI CONCESSIONE EDILIZIA</category>
+			<title>CONCESSIONE EDILIZIA IN SANATORIA N. 36/2017 DEL 07/09/2017 A NOME DELLA DITTA MARANO MASSIMILIANO E CLARA</title>
+			<description>CONCESSIONE EDILIZIA IN SANATORIA N. 36/2017 DEL 07/09/2017 A NOME DELLA DITTA MARANO MASSIMILIANO E CLARA</description>
+			<a10:updated>2017-09-07T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2943794</guid>
 			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2943794</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
 			<title>LIQUIDAZIONE FINANZIAMENTO DIREZIONE DIDATTICA “GIUSEPPE FAVA” DI MASCALUCIA PER MANTENIMENTO, GESTIONE E BUON FUNZIONAMENTO DELL’ISTITUTO SCOLASTICO – ANNO 2017</title>
 			<description>LIQUIDAZIONE FINANZIAMENTO DIREZIONE DIDATTICA “GIUSEPPE FAVA” DI MASCALUCIA PER MANTENIMENTO, GESTIONE E BUON FUNZIONAMENTO DELL’ISTITUTO SCOLASTICO – ANNO 2017</description>
-			<a10:updated>2017-09-05T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2939140</guid>
-			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2939140</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 05 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 20 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2939140</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
-			<title>CONFERIMENTO DELLA FRAZIONE UMIDA DEI RIFIUTI URBANI PROVENIENTE DALLA RACCOLTA DIFFERENZIATA – DITTA: KALAT IMPIANTI S.R.L. </title>
-			<description>CONFERIMENTO DELLA FRAZIONE UMIDA DEI RIFIUTI URBANI PROVENIENTE DALLA RACCOLTA DIFFERENZIATA – DITTA: KALAT IMPIANTI S.R.L. </description>
 			<a10:updated>2017-09-05T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

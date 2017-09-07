@@ -5,7 +5,7 @@
 		<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Viterbo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 07 Sep 2017 16:31:14 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 07 Sep 2017 17:30:55 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Viterbo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Viterbo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Viterbo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_viterbo</a10:id>
-		<pubDate>Thu, 07 Sep 2017 16:31:14 +0200</pubDate>
+		<pubDate>Thu, 07 Sep 2017 17:30:55 +0200</pubDate>
 		<docs>http://albopop.it/comune/viterbo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3495771</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3495771</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 07 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 30 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3495771</category>
+			<category domain="http://albopop.it/specs#item-category-type">ESITO DI GARA </category>
+			<title>VERBALE 1 SETTEMBRE 2017 GARA TRASPORTO SCOLASTICO H</title>
+			<description>VERBALE 1 SETTEMBRE 2017 GARA TRASPORTO SCOLASTICO H</description>
+			<a10:updated>2017-09-07T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3495361</guid>
 			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3495361</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONI DI ACCERTAMENTO</category>
 			<title>ACCERTAMENTO DI ENTRATA, IMPEGNO DI SPESA E LIQUIDAZIONE DEI CORRISPETTIVI DERIVANTI DALL'EMISSIONE DELLE CARTE DI IDENTITA' ELETTRONICHE. PERIODO DAL 01/08/2017 AL 15/08/2017.</title>
 			<description>ACCERTAMENTO DI ENTRATA, IMPEGNO DI SPESA E LIQUIDAZIONE DEI CORRISPETTIVI DERIVANTI DALL'EMISSIONE DELLE CARTE DI IDENTITA' ELETTRONICHE. PERIODO DAL 01/08/2017 AL 15/08/2017.</description>
-			<a10:updated>2017-09-07T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3494895</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3494895</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 07 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 22 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3494895</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
-			<title>RIVERSAMENTO ALL'AMMINISTRAZIONE PROVINCIALE DI VITERBO DEL TRIBUTO PROVINCIALE PER L'ESERCIZIO DELLE FUNZIONI DI TUTELA, PROTEZIONE ED IGIENE DELL'AMBIENTE - SOMME INCASSATE DAL 28 FEBBRAIO AL 30 GIUGNO 2017. CONTABILIZZAZIONE COMPENSI DI RISCOSSIONE PREGRESSI SPETTANTI AL COMUNE DI VITERBO.</title>
-			<description>RIVERSAMENTO ALL'AMMINISTRAZIONE PROVINCIALE DI VITERBO DEL TRIBUTO PROVINCIALE PER L'ESERCIZIO DELLE FUNZIONI DI TUTELA, PROTEZIONE ED IGIENE DELL'AMBIENTE - SOMME INCASSATE DAL 28 FEBBRAIO AL 30 GIUGNO 2017. CONTABILIZZAZIONE COMPENSI DI RISCOSSIONE PREGRESSI SPETTANTI AL COMUNE DI VITERBO.</description>
 			<a10:updated>2017-09-07T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
