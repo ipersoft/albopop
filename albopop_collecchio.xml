@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 07 Sep 2017 09:31:20 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 07 Sep 2017 10:32:09 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Thu, 07 Sep 2017 09:31:20 +0200</pubDate>
+		<pubDate>Thu, 07 Sep 2017 10:32:09 +0200</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2941235</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2941235</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 07 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 14 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2941235</category>
+			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
+			<title>POSTA CERTIFICATA: PARCO TARO - TRASMISSIONE DETERMINAZIONE N. 557 DEL 08.08.2017 AD OGGETTO ¿PARCO DEL TARO: NULLA OSTA E VALUTAZIONE D¿INCIDENZA RACCOLTA LEGNA E TAGLIO PIANTE SECCHE LOC. COLLECCHIELLO NEL COMUNE DI COLLECCHIO- SIG BISOC IUAN¿. [IRIDE]32375[/IRIDE] [PROT]2017/4607[/PROT]</title>
+			<description>POSTA CERTIFICATA: PARCO TARO - TRASMISSIONE DETERMINAZIONE N. 557 DEL 08.08.2017 AD OGGETTO ¿PARCO DEL TARO: NULLA OSTA E VALUTAZIONE D¿INCIDENZA RACCOLTA LEGNA E TAGLIO PIANTE SECCHE LOC. COLLECCHIELLO NEL COMUNE DI COLLECCHIO- SIG BISOC IUAN¿. [IRIDE]32375[/IRIDE] [PROT]2017/4607[/PROT]</description>
+			<a10:updated>2017-09-07T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2939840</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2939840</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
 			<title>AFFIDAMENTO A UNICO LA FARMACIA DEI FARMACISTI S.P.A. (CIG: Z6A1FB89E5), DI FORNITURA DI FARMACI, PARAFARMACI E ALTRI GENERI IN VENDITA PRESSO LA FARMACIA COMUNALE - IMPEGNO DI SPESA 2017 </title>
 			<description>AFFIDAMENTO A UNICO LA FARMACIA DEI FARMACISTI S.P.A. (CIG: Z6A1FB89E5), DI FORNITURA DI FARMACI, PARAFARMACI E ALTRI GENERI IN VENDITA PRESSO LA FARMACIA COMUNALE - IMPEGNO DI SPESA 2017 </description>
-			<a10:updated>2017-08-31T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2934889</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2934889</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 31 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2934889</category>
-			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
-			<title>AUTORIZZAZIONE AL PAGAMENTO RATEALE AVVISO DI ACCERTAMENTO TASI ANNO 2015</title>
-			<description>AUTORIZZAZIONE AL PAGAMENTO RATEALE AVVISO DI ACCERTAMENTO TASI ANNO 2015</description>
 			<a10:updated>2017-08-31T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

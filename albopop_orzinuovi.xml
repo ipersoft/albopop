@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 07 Sep 2017 09:30:43 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 07 Sep 2017 10:30:47 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Thu, 07 Sep 2017 09:30:43 +0200</pubDate>
+		<pubDate>Thu, 07 Sep 2017 10:30:47 +0200</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2941315</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2941315</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 07 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 22 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2941315</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>DETERMINAZIONE A CONTRATTARE - INDIZIONE PROCEDURA NEGOZIATA PER L' INTERVENTO DI RIQUALIFICAZIONE ENERGETICA DELL’IMPIANTO DI ILLUMINAZIONE DI IMMOBILI COMUNALI: SEDE MUNICIPALE, SCUOLA PRIMARIA, SCUOLA SECONDARIA DI PRIMO GRADO – CUP: J56J17000390004 - CIG: 71971972DA.</title>
+			<description>DETERMINAZIONE A CONTRATTARE - INDIZIONE PROCEDURA NEGOZIATA PER L' INTERVENTO DI RIQUALIFICAZIONE ENERGETICA DELL’IMPIANTO DI ILLUMINAZIONE DI IMMOBILI COMUNALI: SEDE MUNICIPALE, SCUOLA PRIMARIA, SCUOLA SECONDARIA DI PRIMO GRADO – CUP: J56J17000390004 - CIG: 71971972DA.</description>
+			<a10:updated>2017-09-07T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2941063</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2941063</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
 			<title>CONCESSIONE IN COMODATO D'USO GRATUITO DI N. 2 LAVAGNE LIM ACTIVE PANNEL ALL'ISTITUTO COMPRENSIVO DI ORZINUOVI</title>
 			<description>CONCESSIONE IN COMODATO D'USO GRATUITO DI N. 2 LAVAGNE LIM ACTIVE PANNEL ALL'ISTITUTO COMPRENSIVO DI ORZINUOVI</description>
-			<a10:updated>2017-08-31T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2934637</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2934637</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 31 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 14 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2934637</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>BILANCIO CONSOLIDATO 2016: INDIVIDUAZIONE DEGLI ORGANISMI/ENTI/SOCIETA' DA INCLUDERE NEL GRUPPO AMMINISTRAZIONE PUBBLICA (GAP) "COMUNE DI ORZINUOVI" E NEL PERIMETRO DI CONSOLIDAMENTO. INTEGRAZIONE DELIBERAZIONE N. 281 DEL 15.12.2016.</title>
-			<description>BILANCIO CONSOLIDATO 2016: INDIVIDUAZIONE DEGLI ORGANISMI/ENTI/SOCIETA' DA INCLUDERE NEL GRUPPO AMMINISTRAZIONE PUBBLICA (GAP) "COMUNE DI ORZINUOVI" E NEL PERIMETRO DI CONSOLIDAMENTO. INTEGRAZIONE DELIBERAZIONE N. 281 DEL 15.12.2016.</description>
 			<a10:updated>2017-08-31T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
