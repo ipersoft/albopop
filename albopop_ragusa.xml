@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 08 Sep 2017 11:32:05 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 08 Sep 2017 12:32:11 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Fri, 08 Sep 2017 11:32:05 +0200</pubDate>
+		<pubDate>Fri, 08 Sep 2017 12:32:11 +0200</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2947065</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2947065</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 08 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 16 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2947065</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONVOCAZIONI CONVOCAZIONE CONSIGLIO COMUNALE</category>
+			<title>CONVOCAZIONE CONSIGLIO COMUNALE GIORNO 13 SETTEMBRE 2017 ALLE ORE 18.00</title>
+			<description>CONVOCAZIONE CONSIGLIO COMUNALE GIORNO 13 SETTEMBRE 2017 ALLE ORE 18.00</description>
+			<a10:updated>2017-09-08T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2946939</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2946939</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 08 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 09 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2946939</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO CARTELLE ESATTORIALI ART. 140</category>
+			<title>PUBBLICAZIONE ART. 140 A CARICO DI MIGLIORE VITA</title>
+			<description>PUBBLICAZIONE ART. 140 A CARICO DI MIGLIORE VITA</description>
+			<a10:updated>2017-09-08T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2946938</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2946938</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 08 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 09 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2946938</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO CARTELLE ESATTORIALI ART. 140</category>
+			<title>PUBBLICAZIONE ART. 140 A CARICO DI TIDONA SALVATORE ED ALTRI</title>
+			<description>PUBBLICAZIONE ART. 140 A CARICO DI TIDONA SALVATORE ED ALTRI</description>
+			<a10:updated>2017-09-08T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2946829</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2946829</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
 			<title>PRESA D'ATTO DEL SUBENTRO DELLA ANDREANI TRIBUTI S.R.L. NEL CONTRATTO STIPULATO IN DATA 26/3/2014 DAL R.T.I. (LAMCO S.R.L., AIPA S.P.A. E AGS ITALIA S.R.L.) CON IL COMUNE DI RAGUSA PER L’AFFIDAMENTO DELLA REALIZZAZIONE DI UN’ANAGRAFE IMMOBILIARE CATASTALE, TRIBUTARIA E TERRITORIALE PER LA GESTIONE DEL TERRITORIO, DELL’IDRICO E L’INCREMENTO DELLE ENTRATE ORDINARIA (ICI, TARSU E IDRICO) DEL COMUNE DI RAGUSA - CIG. 23239139AA, AI SENSI E PER GLI EFFETTI DI CUI ALL'ART. 116 DEL D. LGS. N. 163/2006</title>
 			<description>PRESA D'ATTO DEL SUBENTRO DELLA ANDREANI TRIBUTI S.R.L. NEL CONTRATTO STIPULATO IN DATA 26/3/2014 DAL R.T.I. (LAMCO S.R.L., AIPA S.P.A. E AGS ITALIA S.R.L.) CON IL COMUNE DI RAGUSA PER L’AFFIDAMENTO DELLA REALIZZAZIONE DI UN’ANAGRAFE IMMOBILIARE CATASTALE, TRIBUTARIA E TERRITORIALE PER LA GESTIONE DEL TERRITORIO, DELL’IDRICO E L’INCREMENTO DELLE ENTRATE ORDINARIA (ICI, TARSU E IDRICO) DEL COMUNE DI RAGUSA - CIG. 23239139AA, AI SENSI E PER GLI EFFETTI DI CUI ALL'ART. 116 DEL D. LGS. N. 163/2006</description>
-			<a10:updated>2017-09-07T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2942708</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2942708</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 07 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 22 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2942708</category>
-			<category domain="http://albopop.it/specs#item-category-type">CONCESSIONI CONCESSIONE EDILIZIA</category>
-			<title>CONCESSIONE EDILIZIA N.71/2017 - CIURCIU' IGNAZIA</title>
-			<description>CONCESSIONE EDILIZIA N.71/2017 - CIURCIU' IGNAZIA</description>
-			<a10:updated>2017-09-07T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2942707</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2942707</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 07 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 22 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2942707</category>
-			<category domain="http://albopop.it/specs#item-category-type">CONCESSIONI CONCESSIONE EDILIZIA</category>
-			<title>CONCESSIONE EDILIZIA N.48/2017 - M.C.M. COSTRUZIONI S.R.L.</title>
-			<description>CONCESSIONE EDILIZIA N.48/2017 - M.C.M. COSTRUZIONI S.R.L.</description>
-			<a10:updated>2017-09-07T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2942706</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2942706</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 07 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 22 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2942706</category>
-			<category domain="http://albopop.it/specs#item-category-type">CONCESSIONI CONCESSIONE EDILIZIA</category>
-			<title>CONCESSIONE EDILIZIA N.80/2017 - BOCCHIERI GIUSEPPE</title>
-			<description>CONCESSIONE EDILIZIA N.80/2017 - BOCCHIERI GIUSEPPE</description>
 			<a10:updated>2017-09-07T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

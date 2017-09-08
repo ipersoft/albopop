@@ -5,7 +5,7 @@
 		<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mazzano</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 08 Sep 2017 11:32:01 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 08 Sep 2017 12:32:08 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mazzano</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mazzano</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mazzano</a10:id>
-		<pubDate>Fri, 08 Sep 2017 11:32:01 +0200</pubDate>
+		<pubDate>Fri, 08 Sep 2017 12:32:08 +0200</pubDate>
 		<docs>http://albopop.it/comune/mazzano/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3496779</guid>
+			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3496779</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 08 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 23 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3496779</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO AVVISO</category>
+			<title>ESPOSIZIONE ALBO AUTORIZZAZIONI SISMICHE INIZIO LAVORI ART 94 DPR 380_2001</title>
+			<description>ESPOSIZIONE ALBO AUTORIZZAZIONI SISMICHE INIZIO LAVORI ART 94 DPR 380_2001</description>
+			<a10:updated>2017-09-08T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3494804</guid>
 			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3494804</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DECRETI SINDACALI</category>
 			<title>DECRETO N. 4 IN DATA 25.08.2017: NOMINA DEL FUNZIONARIO RESPONSABILE DEL PROCEDIMENTO DI RISCOSSIONE IN RELAZIONE ALLA DECISIONE DI CONDANNA N. 117/2017 DEL 17.07.2017 NEI CONFRONTI DI AIPA</title>
 			<description>DECRETO N. 4 IN DATA 25.08.2017: NOMINA DEL FUNZIONARIO RESPONSABILE DEL PROCEDIMENTO DI RISCOSSIONE IN RELAZIONE ALLA DECISIONE DI CONDANNA N. 117/2017 DEL 17.07.2017 NEI CONFRONTI DI AIPA</description>
-			<a10:updated>2017-08-29T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3468130</guid>
-			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3468130</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 29 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 28 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3468130</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISO AVVISO</category>
-			<title>DECRETO CAMBIO COGNOME DA SINGH TARNJEET A MULTANI TARNJEET</title>
-			<description>DECRETO CAMBIO COGNOME DA SINGH TARNJEET A MULTANI TARNJEET</description>
 			<a10:updated>2017-08-29T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
