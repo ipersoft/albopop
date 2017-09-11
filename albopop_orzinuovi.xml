@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Sun, 10 Sep 2017 18:30:50 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 11 Sep 2017 08:31:17 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Sun, 10 Sep 2017 18:30:50 +0200</pubDate>
+		<pubDate>Mon, 11 Sep 2017 08:31:17 +0200</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -74,17 +74,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>IMPEGNO DI SPESA PER LAVORI STRAORDINARI EFFETTUATI DAL CONSORZIO IRRIGUO “VASO SAVORIA”</title>
 			<description>IMPEGNO DI SPESA PER LAVORI STRAORDINARI EFFETTUATI DAL CONSORZIO IRRIGUO “VASO SAVORIA”</description>
-			<a10:updated>2017-09-07T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2941407</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2941407</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 07 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 10 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2941407</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
-			<title>ORDINANZA PER DIVIETI DI CIRCOLAZIONE E SOSTA DI TUTTI I VEICOLI CON RIMOZIONE FORZATA DI QUELLI IN SOSTA ABUSIVA, NELLE PIAZZE VITTORIO EMANUELE II E GARIBALDI E NELLE VIE DANTE ALIGHIERI E GIORDANO BRUNO, NEI GIORNI 9 E 10 SETTEMBRE 2017 PER GARANTIRE IL REGOLARE SVOLGIMENTO DEL RADUNO PROVINCIALE DEI BERSAGLIERI</title>
-			<description>ORDINANZA PER DIVIETI DI CIRCOLAZIONE E SOSTA DI TUTTI I VEICOLI CON RIMOZIONE FORZATA DI QUELLI IN SOSTA ABUSIVA, NELLE PIAZZE VITTORIO EMANUELE II E GARIBALDI E NELLE VIE DANTE ALIGHIERI E GIORDANO BRUNO, NEI GIORNI 9 E 10 SETTEMBRE 2017 PER GARANTIRE IL REGOLARE SVOLGIMENTO DEL RADUNO PROVINCIALE DEI BERSAGLIERI</description>
 			<a10:updated>2017-09-07T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
@@ -294,6 +283,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>ACCERTAMENTO D’ENTRATA RELATIVO AL RIMBORSO DELLE SPESE DI RISCALDAMENTO DOVUTO DALLA SOCIETA’ A.D. TENNIS CLUB DI ORZINUOVI </title>
 			<description>ACCERTAMENTO D’ENTRATA RELATIVO AL RIMBORSO DELLE SPESE DI RISCALDAMENTO DOVUTO DALLA SOCIETA’ A.D. TENNIS CLUB DI ORZINUOVI </description>
+			<a10:updated>2017-09-01T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2935134</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2935134</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 01 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 16 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2935134</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>FORNITURA ASFALTO A FREDDO – CIG: ZCD1FBE83B </title>
+			<description>FORNITURA ASFALTO A FREDDO – CIG: ZCD1FBE83B </description>
 			<a10:updated>2017-09-01T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
