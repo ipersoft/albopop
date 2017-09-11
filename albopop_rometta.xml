@@ -5,7 +5,7 @@
 		<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rometta</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 11 Sep 2017 12:31:31 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 11 Sep 2017 13:31:04 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rometta</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Messina</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rometta</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rometta</a10:id>
-		<pubDate>Mon, 11 Sep 2017 12:31:31 +0200</pubDate>
+		<pubDate>Mon, 11 Sep 2017 13:31:04 +0200</pubDate>
 		<docs>http://albopop.it/comune/rometta/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3499683</guid>
+			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3499683</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 11 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 14 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3499683</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
+			<title>ORDINANZA AREA VIGILANZA N. 33 DELL' 11 SETTEMBRE 2017</title>
+			<description>ORDINANZA AREA VIGILANZA N. 33 DELL' 11 SETTEMBRE 2017</description>
+			<a10:updated>2017-09-11T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3499619</guid>
+			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3499619</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 11 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 26 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3499619</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
+			<title>VARIAZIONE TECNICA STANZIAMENTO PARTITE DI GIRO RELATIVE A IVA SPLIT PAYMENT DEL BILANCIO DI PREVISIONE 2017/2019. </title>
+			<description>VARIAZIONE TECNICA STANZIAMENTO PARTITE DI GIRO RELATIVE A IVA SPLIT PAYMENT DEL BILANCIO DI PREVISIONE 2017/2019. </description>
+			<a10:updated>2017-09-11T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3498685</guid>
 			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3498685</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO DEPOSITO ATTI ART. 143 CPC</category>
 			<title>VERBALE DI VIOLAZIONE AL CODICE DELLA STRADA -- PALEOLOGO MAURO</title>
 			<description>VERBALE DI VIOLAZIONE AL CODICE DELLA STRADA -- PALEOLOGO MAURO</description>
-			<a10:updated>2017-09-05T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3479142</guid>
-			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3479142</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 05 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 20 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3479142</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>SERVIZIO DI RACCOLTA, TRASPORTO E SMALTIMENTO RIFIUTI SOLIDI URBANI E ASSIMILATI, RIFIUTI DIFFERENZIATI SUL TERRITORIO COMUNALE MEDIANTE IL SISTEMA DI “PORTA A PORTA” – SMALTIMENTO FRAZIONE BIODEGRADABILE CODICE CER 200201 C/O DITTA PI.ECO SRL - LIQUIDAZIONE FATTURE N.RI 83 ED 84/2017 – CIG N. ZC31E75952</title>
-			<description>SERVIZIO DI RACCOLTA, TRASPORTO E SMALTIMENTO RIFIUTI SOLIDI URBANI E ASSIMILATI, RIFIUTI DIFFERENZIATI SUL TERRITORIO COMUNALE MEDIANTE IL SISTEMA DI “PORTA A PORTA” – SMALTIMENTO FRAZIONE BIODEGRADABILE CODICE CER 200201 C/O DITTA PI.ECO SRL - LIQUIDAZIONE FATTURE N.RI 83 ED 84/2017 – CIG N. ZC31E75952</description>
-			<a10:updated>2017-09-05T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3479138</guid>
-			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3479138</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 05 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 20 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3479138</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>SERVIZIO DI RACCOLTA, TRASPORTO E SMALTIMENTO RIFIUTI SOLIDI URBANI E ASSIMILATI, RIFIUTI DIFFERENZIATI SUL TERRITORIO C.LE MEDIANTE IL SISTEMA PORTA A PORTA - CONFERIMENTO C/O PIATTAFORMA COREPLA IMBALLAGGI PLASTICA CODICE CER 150102 - LIQUIDAZIONE FATTURA N.RI 86/2017 DITTA PI.ECO SRL - CIG. Z681E86DCC</title>
-			<description>SERVIZIO DI RACCOLTA, TRASPORTO E SMALTIMENTO RIFIUTI SOLIDI URBANI E ASSIMILATI, RIFIUTI DIFFERENZIATI SUL TERRITORIO C.LE MEDIANTE IL SISTEMA PORTA A PORTA - CONFERIMENTO C/O PIATTAFORMA COREPLA IMBALLAGGI PLASTICA CODICE CER 150102 - LIQUIDAZIONE FATTURA N.RI 86/2017 DITTA PI.ECO SRL - CIG. Z681E86DCC</description>
 			<a10:updated>2017-09-05T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

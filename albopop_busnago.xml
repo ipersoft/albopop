@@ -5,7 +5,7 @@
 		<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Busnago</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 11 Sep 2017 12:30:57 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 11 Sep 2017 13:30:57 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Busnago</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Busnago</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_busnago</a10:id>
-		<pubDate>Mon, 11 Sep 2017 12:30:57 +0200</pubDate>
+		<pubDate>Mon, 11 Sep 2017 13:30:57 +0200</pubDate>
 		<docs>http://albopop.it/comune/busnago/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3499633</guid>
+			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3499633</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 11 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 26 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3499633</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DETERMINAZIONE DEI RESPONSABILI</category>
+			<title>RIMBORSO SPESE A DIPENDENTI VARI - MESE DI LUGLIO E AGOSTO 2017. </title>
+			<description>RIMBORSO SPESE A DIPENDENTI VARI - MESE DI LUGLIO E AGOSTO 2017. </description>
+			<a10:updated>2017-09-11T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3499631</guid>
+			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3499631</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 11 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 26 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3499631</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DETERMINAZIONE DEI RESPONSABILI</category>
+			<title>PROGETTO DI SERVIZIO CIVILE PER IL "SETTORE PATRIMONIO ARTISTICO E CULTURALE" PER L'ANNO 2018 - IMPEGNO DI SPESA PER FASE DI PROGETTAZIONE.</title>
+			<description>PROGETTO DI SERVIZIO CIVILE PER IL "SETTORE PATRIMONIO ARTISTICO E CULTURALE" PER L'ANNO 2018 - IMPEGNO DI SPESA PER FASE DI PROGETTAZIONE.</description>
+			<a10:updated>2017-09-11T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3499629</guid>
+			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3499629</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 11 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 26 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3499629</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DETERMINAZIONE DEI RESPONSABILI</category>
+			<title>LAVORI DI TINTEGGIATURA PRESSO IL NUOVO CENTRO CIVICO COMUNALE: APPROVAZIONE DELLA PROPOSTA DI AGGIUDICAZIONE DELLA PROCEDURA TELEMATICA SINTEL (ID N.. 88644351) - CIG ZAE1FB80C5 - CUP B51E11000020004</title>
+			<description>LAVORI DI TINTEGGIATURA PRESSO IL NUOVO CENTRO CIVICO COMUNALE: APPROVAZIONE DELLA PROPOSTA DI AGGIUDICAZIONE DELLA PROCEDURA TELEMATICA SINTEL (ID N.. 88644351) - CIG ZAE1FB80C5 - CUP B51E11000020004</description>
+			<a10:updated>2017-09-11T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3497608</guid>
 			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3497608</link>
@@ -262,39 +295,6 @@
 			<title>BRIANZACQUE SRL: 19456/2017 AVVISO PUBBLICO PER LA RICERCA E IL CONFERIMENTO DELL'INCARICO A TEMPO DETERMINATO DI DIRETTORE AMMINISTRAZIONE FINANZA E CONTROLLO DI BRIANZACQUE SRL. RICHIESTA PUBBLICAZIONE ALL'ALBO ON LINE.</title>
 			<description>BRIANZACQUE SRL: 19456/2017 AVVISO PUBBLICO PER LA RICERCA E IL CONFERIMENTO DELL'INCARICO A TEMPO DETERMINATO DI DIRETTORE AMMINISTRAZIONE FINANZA E CONTROLLO DI BRIANZACQUE SRL. RICHIESTA PUBBLICAZIONE ALL'ALBO ON LINE.</description>
 			<a10:updated>2017-08-17T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3452800</guid>
-			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3452800</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 12 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3452800</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI PUBBLICI AVVISO BANDO DI MOBILITÀ ESTERNA</category>
-			<title>PESSANO CON BORNAGO: AVVISO DI MOBILITÀ ESTERNA PER LA COPERTURA CON CONTRATTO A TEMPO PIENO E INDETERMINATO, DI N. 1 POSTO DI ISTRUTTORE DIRETTIVO AMMINISTRATIVO CATEGORIA D, DA ASSEGNARE AL SERVIZIO DIRITTI ALLA PERSONA </title>
-			<description>PESSANO CON BORNAGO: AVVISO DI MOBILITÀ ESTERNA PER LA COPERTURA CON CONTRATTO A TEMPO PIENO E INDETERMINATO, DI N. 1 POSTO DI ISTRUTTORE DIRETTIVO AMMINISTRATIVO CATEGORIA D, DA ASSEGNARE AL SERVIZIO DIRITTI ALLA PERSONA </description>
-			<a10:updated>2017-08-12T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3451344</guid>
-			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3451344</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 11 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 25 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3451344</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI PUBBLICI AVVISO BANDO DI MOBILITÀ ESTERNA</category>
-			<title>COMUNE DI MONZA: BANDO DI MOBILITÀ VOLONTARIA PER LA COPERTURA A TEMPO INDETERMINATO E PIENO DI UN POSTO VAGANTE NEL RUOLO DI ISTRUTTORE TECNICO-DISEGNATORE "CATEGORIA C"</title>
-			<description>COMUNE DI MONZA: BANDO DI MOBILITÀ VOLONTARIA PER LA COPERTURA A TEMPO INDETERMINATO E PIENO DI UN POSTO VAGANTE NEL RUOLO DI ISTRUTTORE TECNICO-DISEGNATORE "CATEGORIA C"</description>
-			<a10:updated>2017-08-11T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3444919</guid>
-			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3444919</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 09 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3444919</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI PUBBLICI AVVISO BANDO DI MOBILITÀ ESTERNA</category>
-			<title>COMUNE DI BUCCINASCO: AVVISO PUBBLICO DI MOBILITÀ ESTERNA AI SENSI DELL'ART. 30 D. LGS N.165 E S.M.I. PER N.1 POSTO DI ISTRUTTORE DIRETTIVO AMMINISTRTIVO DI CATEGPRIA "D" POSIZIONE DI ACCESSO D1, AMBITO AMMINISTRATIVO, A TEMPO PIENO ED INDETERMINATO.</title>
-			<description>COMUNE DI BUCCINASCO: AVVISO PUBBLICO DI MOBILITÀ ESTERNA AI SENSI DELL'ART. 30 D. LGS N.165 E S.M.I. PER N.1 POSTO DI ISTRUTTORE DIRETTIVO AMMINISTRTIVO DI CATEGPRIA "D" POSIZIONE DI ACCESSO D1, AMBITO AMMINISTRATIVO, A TEMPO PIENO ED INDETERMINATO.</description>
-			<a10:updated>2017-08-09T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
