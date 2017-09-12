@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 12 Sep 2017 10:31:08 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 12 Sep 2017 11:30:47 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Tue, 12 Sep 2017 10:31:08 +0200</pubDate>
+		<pubDate>Tue, 12 Sep 2017 11:30:47 +0200</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2950403</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2950403</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 12 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 03 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2950403</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI MANIFESTO</category>
+			<title>VOTO DOMICILIARE PER IL REFEREMDUM CONSULTIVO PER L’AUTONOMIA DELLA REGIONE LOMBARDIA DEL 22 OTTOBRE 2017 </title>
+			<description>VOTO DOMICILIARE PER IL REFEREMDUM CONSULTIVO PER L’AUTONOMIA DELLA REGIONE LOMBARDIA DEL 22 OTTOBRE 2017 </description>
+			<a10:updated>2017-09-12T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2949976</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2949976</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>PRESA D’ATTO E AUTORIZZAZIONE ALLA:“PROPOSTA DI PIANO DI RIMOZIONE RIFIUTI” PRESENTATA DAI SIGG. MAFFONI GIANPIETRO E GAZZOLDI GIOVANNA - COMUNE DI ORZINUOVI, FG. 12 MAPP. 297/P “SUB-AREA2” </title>
 			<description>PRESA D’ATTO E AUTORIZZAZIONE ALLA:“PROPOSTA DI PIANO DI RIMOZIONE RIFIUTI” PRESENTATA DAI SIGG. MAFFONI GIANPIETRO E GAZZOLDI GIOVANNA - COMUNE DI ORZINUOVI, FG. 12 MAPP. 297/P “SUB-AREA2” </description>
-			<a10:updated>2017-09-05T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2938890</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2938890</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 05 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 20 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2938890</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI AUTORIZZAZIONI</category>
-			<title>ELENCO DEI RAPPORTI DEGLI UFFICIALI ED AGENTI DI POLIZIA GIUDIZIARIA RIGUARDANTI OPERE O LOTTIZZAZIONI ABUSI EDILIZI RELATIVE AL MESE DI AGOSTO 2017</title>
-			<description>ELENCO DEI RAPPORTI DEGLI UFFICIALI ED AGENTI DI POLIZIA GIUDIZIARIA RIGUARDANTI OPERE O LOTTIZZAZIONI ABUSI EDILIZI RELATIVE AL MESE DI AGOSTO 2017</description>
 			<a10:updated>2017-09-05T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
