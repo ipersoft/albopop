@@ -5,7 +5,7 @@
 		<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Busnago</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 12 Sep 2017 16:31:44 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 12 Sep 2017 17:31:30 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Busnago</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Busnago</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_busnago</a10:id>
-		<pubDate>Tue, 12 Sep 2017 16:31:44 +0200</pubDate>
+		<pubDate>Tue, 12 Sep 2017 17:31:30 +0200</pubDate>
 		<docs>http://albopop.it/comune/busnago/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3502355</guid>
+			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3502355</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 12 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 02 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3502355</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI PUBBLICI BRIANZACQUE SRL AVVISO PUBBLICO PER LA RICERCA DI PERSONALE</category>
+			<title>BRIANZACQUE SRL: 23000/2017 - PROROGA TERMINI PRESENTAZIONE CANDIDATURE: DIRETTORE AMMINISTRAZIONE FINANZA E CONTROLLO - RICHIESTA PUBBLICAZIONE ALBO ON-LINE</title>
+			<description>BRIANZACQUE SRL: 23000/2017 - PROROGA TERMINI PRESENTAZIONE CANDIDATURE: DIRETTORE AMMINISTRAZIONE FINANZA E CONTROLLO - RICHIESTA PUBBLICAZIONE ALBO ON-LINE</description>
+			<a10:updated>2017-09-12T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3502354</guid>
+			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3502354</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 12 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 29 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3502354</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI PUBBLICI BRIANZACQUE SRL AVVISO PUBBLICO PER LA RICERCA DI PERSONALE</category>
+			<title>BRIANZACQUE SRL: 23000/2017 - PROROGA TERMINI PRESENTAZIONE CANDIDATURE: RESPONSABILE SETTORE ACQUEDOTTO - RICHIESTA PUBBLICAZIONE ALBO ON-LINE</title>
+			<description>BRIANZACQUE SRL: 23000/2017 - PROROGA TERMINI PRESENTAZIONE CANDIDATURE: RESPONSABILE SETTORE ACQUEDOTTO - RICHIESTA PUBBLICAZIONE ALBO ON-LINE</description>
+			<a10:updated>2017-09-12T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3502307</guid>
+			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3502307</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 12 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 27 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3502307</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO AVVISO RELATIVO AD APPALTO AGGIUDICATO</category>
+			<title>AVVISO RELATIVO AD APPALTO AGGIUDICATO: LAVORI DI TINTEGGIATURA PRESSO NUOVO CENTRO CIVICO COMUNALE</title>
+			<description>AVVISO RELATIVO AD APPALTO AGGIUDICATO: LAVORI DI TINTEGGIATURA PRESSO NUOVO CENTRO CIVICO COMUNALE</description>
+			<a10:updated>2017-09-12T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3499633</guid>
 			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3499633</link>
@@ -262,39 +295,6 @@
 			<title>COMUNE DI VERANO BRIANZA: AVVISO MOBILITA' ESTERNA N. 1 POSTO A TEMPO PIENO ED INDETERMINATO DI ISTRUTTORE DIRETTIVO POLIZIA LOCALE - CAT. D1.</title>
 			<description>COMUNE DI VERANO BRIANZA: AVVISO MOBILITA' ESTERNA N. 1 POSTO A TEMPO PIENO ED INDETERMINATO DI ISTRUTTORE DIRETTIVO POLIZIA LOCALE - CAT. D1.</description>
 			<a10:updated>2017-08-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3457024</guid>
-			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3457024</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 18 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 20 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3457024</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI PUBBLICI AVVISO BANDO DI MOBILITÀ ESTERNA</category>
-			<title>COMUNE DI MONZA: BANDO DI MOBILITÀ VOLONTARIA PER LA COPERTURA A TEMPO INDETERMINATO E PIENO DI UN POSTO VAGANTE NEL RUOLO DI AGENTE DI POLIZIA LOCALE "CATEGORIA C"</title>
-			<description>COMUNE DI MONZA: BANDO DI MOBILITÀ VOLONTARIA PER LA COPERTURA A TEMPO INDETERMINATO E PIENO DI UN POSTO VAGANTE NEL RUOLO DI AGENTE DI POLIZIA LOCALE "CATEGORIA C"</description>
-			<a10:updated>2017-08-18T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3455612</guid>
-			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3455612</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 17 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3455612</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI PUBBLICI AVVISO BANDO DI MOBILITÀ ESTERNA</category>
-			<title>COMUNE DI PESSANO CON BORNAGO: AVVISO DI MOBILITA' ESTERNA ART. 30 D.LGS 165/2001 ISTRUTTORE AMMINISTRATIVO CONTABILE</title>
-			<description>COMUNE DI PESSANO CON BORNAGO: AVVISO DI MOBILITA' ESTERNA ART. 30 D.LGS 165/2001 ISTRUTTORE AMMINISTRATIVO CONTABILE</description>
-			<a10:updated>2017-08-17T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3455559</guid>
-			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3455559</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 17 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 12 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3455559</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI PUBBLICI BRIANZACQUE SRL AVVISO PUBBLICO PER LA RICERCA DI PERSONALE</category>
-			<title>BRIANZACQUE SRL: 19456/2017 AVVISO PUBBLICO PER LA RICERCA E IL CONFERIMENTO DELL'INCARICO A TEMPO DETERMINATO DI DIRETTORE AMMINISTRAZIONE FINANZA E CONTROLLO DI BRIANZACQUE SRL. RICHIESTA PUBBLICAZIONE ALL'ALBO ON LINE.</title>
-			<description>BRIANZACQUE SRL: 19456/2017 AVVISO PUBBLICO PER LA RICERCA E IL CONFERIMENTO DELL'INCARICO A TEMPO DETERMINATO DI DIRETTORE AMMINISTRAZIONE FINANZA E CONTROLLO DI BRIANZACQUE SRL. RICHIESTA PUBBLICAZIONE ALL'ALBO ON LINE.</description>
-			<a10:updated>2017-08-17T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>

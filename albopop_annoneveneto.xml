@@ -5,7 +5,7 @@
 		<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Annone Veneto</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 12 Sep 2017 16:31:01 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 12 Sep 2017 17:31:19 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Annone Veneto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Annone Veneto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_annoneveneto</a10:id>
-		<pubDate>Tue, 12 Sep 2017 16:31:01 +0200</pubDate>
+		<pubDate>Tue, 12 Sep 2017 17:31:19 +0200</pubDate>
 		<docs>http://albopop.it/comune/annoneveneto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3502383</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3502383</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 12 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 13 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3502383</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI AVVISO</category>
+			<title>COMUNE DI FREGONA - AVVISO DI MOBILITA' ESTERNA VOLONTARIA PER LA COPERTURA DI UN POSTO DI ISTRUTTORE DI VIGILANZA CAT. C A TEMPO PIENO ED INDETERMINATO.</title>
+			<description>COMUNE DI FREGONA - AVVISO DI MOBILITA' ESTERNA VOLONTARIA PER LA COPERTURA DI UN POSTO DI ISTRUTTORE DI VIGILANZA CAT. C A TEMPO PIENO ED INDETERMINATO.</description>
+			<a10:updated>2017-09-12T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3502382</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3502382</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 12 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 13 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3502382</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI AVVISO</category>
+			<title>COMUNE DI PORTOGRUARO - AVVISO DI MOBILITA' VOLONTARIA PER LA COPERTURA DI UN POSTO DI COLLABORATORE OPERAIO SPECIALIZZATO, CAT. B3, A TEMPO PIENO ED INDETERMIANTO. </title>
+			<description>COMUNE DI PORTOGRUARO - AVVISO DI MOBILITA' VOLONTARIA PER LA COPERTURA DI UN POSTO DI COLLABORATORE OPERAIO SPECIALIZZATO, CAT. B3, A TEMPO PIENO ED INDETERMIANTO. </description>
+			<a10:updated>2017-09-12T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3498890</guid>
 			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3498890</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>COMUNE DI ANNONE VENETO - DETERMINAZIONE N.101 DEL 20/02/2017 - LIQUIDAZIONE A FAVORE DEL COMUNE DI MANSUE' (TV) PER RIMBORSO SPESE DI NOTIFICA ATTI CRON. 136/16.</title>
 			<description>COMUNE DI ANNONE VENETO - DETERMINAZIONE N.101 DEL 20/02/2017 - LIQUIDAZIONE A FAVORE DEL COMUNE DI MANSUE' (TV) PER RIMBORSO SPESE DI NOTIFICA ATTI CRON. 136/16.</description>
-			<a10:updated>2017-09-05T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3479387</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3479387</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 05 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 20 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3479387</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI AVVISO</category>
-			<title>AVVISO PUBBLICO PER LA RICERCA DI PERSONALE FINALIZZATA ALLO SVOLGIMENTO DI LAVORO ACCESSORIO RETRIBUITO MEDIANTE PAGAMENTO DI BUONI LAVORO PER MANSIONI DI OPERAIO, GIARDINIERE E MANUTENTORE (ART. 54-BIS DEL D.L. 24.04.2017 N. 50)</title>
-			<description>AVVISO PUBBLICO PER LA RICERCA DI PERSONALE FINALIZZATA ALLO SVOLGIMENTO DI LAVORO ACCESSORIO RETRIBUITO MEDIANTE PAGAMENTO DI BUONI LAVORO PER MANSIONI DI OPERAIO, GIARDINIERE E MANUTENTORE (ART. 54-BIS DEL D.L. 24.04.2017 N. 50)</description>
-			<a10:updated>2017-09-05T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3479340</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3479340</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 05 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 20 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3479340</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
-			<title>COMUNE DI VICCHIO - ORDINANZA DEL SINDACO N. 34 DEL 10/08/2017 - ESUMAZIONI ORDINARIE NEL CIMITERO DI SAN QUIRICO - ULIVETA.</title>
-			<description>COMUNE DI VICCHIO - ORDINANZA DEL SINDACO N. 34 DEL 10/08/2017 - ESUMAZIONI ORDINARIE NEL CIMITERO DI SAN QUIRICO - ULIVETA.</description>
 			<a10:updated>2017-09-05T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
