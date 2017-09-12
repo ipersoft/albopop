@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 12 Sep 2017 08:30:43 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 12 Sep 2017 09:30:48 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Tue, 12 Sep 2017 08:30:43 +0200</pubDate>
+		<pubDate>Tue, 12 Sep 2017 09:30:48 +0200</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2949976</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2949976</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 12 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 27 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2949976</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>LIQUIDAZIONE INDENNITA’ DI RISULTATO AL SEGRETARIO COMUNALE ANNO 2016</title>
+			<description>LIQUIDAZIONE INDENNITA’ DI RISULTATO AL SEGRETARIO COMUNALE ANNO 2016</description>
+			<a10:updated>2017-09-12T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2949493</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2949493</link>
@@ -284,17 +295,6 @@
 			<title>ELENCO DEI RAPPORTI DEGLI UFFICIALI ED AGENTI DI POLIZIA GIUDIZIARIA RIGUARDANTI OPERE O LOTTIZZAZIONI ABUSI EDILIZI RELATIVE AL MESE DI AGOSTO 2017</title>
 			<description>ELENCO DEI RAPPORTI DEGLI UFFICIALI ED AGENTI DI POLIZIA GIUDIZIARIA RIGUARDANTI OPERE O LOTTIZZAZIONI ABUSI EDILIZI RELATIVE AL MESE DI AGOSTO 2017</description>
 			<a10:updated>2017-09-05T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2935794</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2935794</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 01 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 16 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2935794</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>IMPEGNO DI SPESA PER COSTI COMUNI, GENERALI E DIRETTI PER L’ORGANIZZAZIONE E FUNZIONAMENTO DELLA CENTRALE UNICA DI COMMITTENZA ISTITUITA PRESSO L’UNIONE DEI COMUNI LOMBARDA B.B.O. DI ORZINUOVI (BS) – 1° SEMESTRE 2017</title>
-			<description>IMPEGNO DI SPESA PER COSTI COMUNI, GENERALI E DIRETTI PER L’ORGANIZZAZIONE E FUNZIONAMENTO DELLA CENTRALE UNICA DI COMMITTENZA ISTITUITA PRESSO L’UNIONE DEI COMUNI LOMBARDA B.B.O. DI ORZINUOVI (BS) – 1° SEMESTRE 2017</description>
-			<a10:updated>2017-09-01T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
