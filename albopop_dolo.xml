@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 12 Sep 2017 11:30:44 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 12 Sep 2017 12:30:55 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Tue, 12 Sep 2017 11:30:44 +0200</pubDate>
+		<pubDate>Tue, 12 Sep 2017 12:30:55 +0200</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3501262</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3501262</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 12 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 15 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3501262</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO GENERICO</category>
+			<title>VOTO A DOMICILIO PER GLI ELETTORI IN DIPENDENZA DI APPARECCHIATURE ELETTROMEDICALI -REFERENDUM REGIONALE CONSULTIVO DEL 22.10.2017</title>
+			<description>VOTO A DOMICILIO PER GLI ELETTORI IN DIPENDENZA DI APPARECCHIATURE ELETTROMEDICALI -REFERENDUM REGIONALE CONSULTIVO DEL 22.10.2017</description>
+			<a10:updated>2017-09-12T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3501049</guid>
 			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3501049</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DELIBERAZIONE DI GIUNTA COMUNALE</category>
 			<title>PROROGA DEI TERMINI PER LA SOTTOSCRIZIONE DELLA CONVENZIONE DEL COMPARTO URBANISTICO N. 8 - VIA RAFFAELLO, DOLO – PRESENTATO DALLA DITTA SO.GE.IM S.R.L. DI DOLO (VE) E APPROVATO CON D.G.C. N. 37 DEL 15.02.2017 </title>
 			<description>PROROGA DEI TERMINI PER LA SOTTOSCRIZIONE DELLA CONVENZIONE DEL COMPARTO URBANISTICO N. 8 - VIA RAFFAELLO, DOLO – PRESENTATO DALLA DITTA SO.GE.IM S.R.L. DI DOLO (VE) E APPROVATO CON D.G.C. N. 37 DEL 15.02.2017 </description>
-			<a10:updated>2017-09-07T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3495890</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3495890</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 07 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 22 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3495890</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>FORNITURA ACQUA ANNO 2017. LIQUIDAZIONE BOLLETTE A V.E.R.I.T.A.S. SPA MESE DI LUGLIO 2017 </title>
-			<description>FORNITURA ACQUA ANNO 2017. LIQUIDAZIONE BOLLETTE A V.E.R.I.T.A.S. SPA MESE DI LUGLIO 2017 </description>
 			<a10:updated>2017-09-07T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

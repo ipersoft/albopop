@@ -5,7 +5,7 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 12 Sep 2017 11:31:18 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 12 Sep 2017 12:31:59 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Isernia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>Tue, 12 Sep 2017 11:31:18 +0200</pubDate>
+		<pubDate>Tue, 12 Sep 2017 12:31:59 +0200</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3501458</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3501458</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 06 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 21 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3501458</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DECRETI</category>
+			<title>Nomina membri di segreteria operativa della Commissione comunale per la formazione delle graduatorie per l’assegnazione degli alloggi di edilizia residenziale pubblica </title>
+			<description>Nomina membri di segreteria operativa della Commissione comunale per la formazione delle graduatorie per l’assegnazione degli alloggi di edilizia residenziale pubblica </description>
+			<a10:updated>2017-09-06T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3501079</guid>
 			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3501079</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
 			<title>Liquidazione di spesa per il servizio di pulizia effettuato presso "Palazzo S. Francesco" per il periodo 01-07-2016/31-12-2016 - Ditta Pulisud Global Service S.r.l.</title>
 			<description>Liquidazione di spesa per il servizio di pulizia effettuato presso "Palazzo S. Francesco" per il periodo 01-07-2016/31-12-2016 - Ditta Pulisud Global Service S.r.l.</description>
-			<a10:updated>2017-08-31T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3473320</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3473320</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 31 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3473320</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
-			<title>Gestione Bilancio 2016-LIQUIDAZIONE SPESA - CIG: Z361BFD419 - riparazioni veicoli in dotazione al Comando Polizia Municipale - prop.1454. </title>
-			<description>Gestione Bilancio 2016-LIQUIDAZIONE SPESA - CIG: Z361BFD419 - riparazioni veicoli in dotazione al Comando Polizia Municipale - prop.1454. </description>
 			<a10:updated>2017-08-31T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
