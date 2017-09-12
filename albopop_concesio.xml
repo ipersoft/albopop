@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 11 Sep 2017 18:30:34 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 12 Sep 2017 08:30:38 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Mon, 11 Sep 2017 18:30:34 +0200</pubDate>
+		<pubDate>Tue, 12 Sep 2017 08:30:38 +0200</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -97,17 +97,6 @@
 			<title>ACB BANDO - AVVISO PUBBLICO DI MOBILITA ESTERNA AI SENSI DELL’ART. 30 DEL D. LGS 165/2001 PER N. 1 POSTO A TEMPO PIENO E INDETERMINATO NEL PROFILO PROFESSIONALE DI AGENTE DI POLIZIA LOCALE (CAT. C) - SCADENZA 09/10/2017</title>
 			<description>ACB BANDO - AVVISO PUBBLICO DI MOBILITA ESTERNA AI SENSI DELL’ART. 30 DEL D. LGS 165/2001 PER N. 1 POSTO A TEMPO PIENO E INDETERMINATO NEL PROFILO PROFESSIONALE DI AGENTE DI POLIZIA LOCALE (CAT. C) - SCADENZA 09/10/2017</description>
 			<a10:updated>2017-09-08T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3495096</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3495096</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 07 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 11 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3495096</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
-			<title>"31° PALIO DI SAN VIGILIO 2017"</title>
-			<description>"31° PALIO DI SAN VIGILIO 2017"</description>
-			<a10:updated>2017-09-07T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3494215</guid>
@@ -294,6 +283,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI DEPOSITO - ART. 143 C.P.C.</category>
 			<title>MESSO COMUNALE: NOTIFICA N. 539/2017 DEL 04/09/2017 - SCARICATA TIGNONSINI IVAN</title>
 			<description>MESSO COMUNALE: NOTIFICA N. 539/2017 DEL 04/09/2017 - SCARICATA TIGNONSINI IVAN</description>
+			<a10:updated>2017-09-04T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3476862</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3476862</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 04 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 24 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3476862</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI DEPOSITO - ART. 143 C.P.C.</category>
+			<title>MESSO COMUNALE: NOTIFICA N. 536/2017 DEL 04/09/2017 - SCARICATA ZHOU QI</title>
+			<description>MESSO COMUNALE: NOTIFICA N. 536/2017 DEL 04/09/2017 - SCARICATA ZHOU QI</description>
 			<a10:updated>2017-09-04T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

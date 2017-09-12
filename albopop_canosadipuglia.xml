@@ -5,7 +5,7 @@
 		<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Canosa di Puglia</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 11 Sep 2017 18:31:00 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 12 Sep 2017 08:30:57 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Canosa di Puglia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Barletta-Andria-Trani</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Canosa di Puglia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_canosadipuglia</a10:id>
-		<pubDate>Mon, 11 Sep 2017 18:31:00 +0200</pubDate>
+		<pubDate>Tue, 12 Sep 2017 08:30:57 +0200</pubDate>
 		<docs>http://albopop.it/comune/canosadipuglia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3500345</guid>
+			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3500345</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 11 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 26 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3500345</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
+			<title>APPROVAZIONE AVVISI PUBBLICI PER SERVIZIO ACCOMPAGNAMENTO SU SCUOLABUS ALUNNI SCUOLE PUBBLICHE.</title>
+			<description>APPROVAZIONE AVVISI PUBBLICI PER SERVIZIO ACCOMPAGNAMENTO SU SCUOLABUS ALUNNI SCUOLE PUBBLICHE.</description>
+			<a10:updated>2017-09-11T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3499496</guid>
 			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3499496</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
 			<title>QUOTA CONTRIBUTIVA ANNO 2017 A FAVORE DELL'UNIONE ARO 2 BAT. IMPEGNO E LIQUIDAZIONE DELLA SPESA.</title>
 			<description>QUOTA CONTRIBUTIVA ANNO 2017 A FAVORE DELL'UNIONE ARO 2 BAT. IMPEGNO E LIQUIDAZIONE DELLA SPESA.</description>
-			<a10:updated>2017-09-05T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3478872</guid>
-			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3478872</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 05 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 20 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3478872</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
-			<title>Impegno di spesa e liquidazione IVA mese di Agosto 2017.</title>
-			<description>Impegno di spesa e liquidazione IVA mese di Agosto 2017.</description>
 			<a10:updated>2017-09-05T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
