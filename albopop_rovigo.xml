@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 12 Sep 2017 15:31:19 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 12 Sep 2017 16:31:59 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Tue, 12 Sep 2017 15:31:19 +0200</pubDate>
+		<pubDate>Tue, 12 Sep 2017 16:31:59 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2951082</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2951082</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 12 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 27 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2951082</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
+			<title>IMPEGNO DI SPESA PER RIMBORSO IRPEF AL CONSIGLIERE COMUNALE RUGGERO RICCARDO.</title>
+			<description>IMPEGNO DI SPESA PER RIMBORSO IRPEF AL CONSIGLIERE COMUNALE RUGGERO RICCARDO.</description>
+			<a10:updated>2017-09-12T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2950984</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2950984</link>
@@ -284,17 +295,6 @@
 			<title>AFFIDAMENTO DEL SERVIZIO DI COORDINAMENTO DELLA SICUREZZA NELLA FASE DI ESECUZIONE DEI LAVORI NELL'AMBITO DELLA “REALIZZAZIONE DEI PERCORSI CICLABILI DI COLLEGAMENTO TRA CENTRO URBANO E LE FRAZIONI – ROVIGO-SARZANO” CUP: G11B14000520003 – CIG: ZB31F681A0</title>
 			<description>AFFIDAMENTO DEL SERVIZIO DI COORDINAMENTO DELLA SICUREZZA NELLA FASE DI ESECUZIONE DEI LAVORI NELL'AMBITO DELLA “REALIZZAZIONE DEI PERCORSI CICLABILI DI COLLEGAMENTO TRA CENTRO URBANO E LE FRAZIONI – ROVIGO-SARZANO” CUP: G11B14000520003 – CIG: ZB31F681A0</description>
 			<a10:updated>2017-09-09T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2947547</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2947547</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 08 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 23 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2947547</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DELIBERE DI GIUNTA</category>
-			<title>APPROVAZIONE DELLO SCHEMA DI BILANCIO CONSOLIDATO RELATIVO ALL'ESERCIZIO 2016 DEL COMUNE DI ROVIGO</title>
-			<description>APPROVAZIONE DELLO SCHEMA DI BILANCIO CONSOLIDATO RELATIVO ALL'ESERCIZIO 2016 DEL COMUNE DI ROVIGO</description>
-			<a10:updated>2017-09-08T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
