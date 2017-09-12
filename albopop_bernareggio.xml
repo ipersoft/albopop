@@ -5,7 +5,7 @@
 		<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bernareggio</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 12 Sep 2017 09:31:19 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 12 Sep 2017 10:31:19 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bernareggio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bernareggio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bernareggio</a10:id>
-		<pubDate>Tue, 12 Sep 2017 09:31:19 +0200</pubDate>
+		<pubDate>Tue, 12 Sep 2017 10:31:19 +0200</pubDate>
 		<docs>http://albopop.it/comune/bernareggio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3500655</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3500655</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 12 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 02 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3500655</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI</category>
+			<title>POSTA CERTIFICATA: 23000/2017 - PROROGA TERMINI PRESENTAZIONE CANDIDATURE: RESPONSABILE SETTORE ACQUEDOTTO E DIRETTORE AMMINISTRAZIONE FINANZA E CONTROLLO - RICHIESTA PUBBLICAZIONE ALBO ON-LINE</title>
+			<description>POSTA CERTIFICATA: 23000/2017 - PROROGA TERMINI PRESENTAZIONE CANDIDATURE: RESPONSABILE SETTORE ACQUEDOTTO E DIRETTORE AMMINISTRAZIONE FINANZA E CONTROLLO - RICHIESTA PUBBLICAZIONE ALBO ON-LINE</description>
+			<a10:updated>2017-09-12T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3495691</guid>
 			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3495691</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DECRETO</category>
 			<title>CONCESSIONE PATROCINIO ALL'ASSOCIAZIONE "CENTRO DI AIUTO ALLA VITA" PER LE MANIFESTAZIONE DEL 30° ANNIVERSARIO DI ATTIVITA'</title>
 			<description>CONCESSIONE PATROCINIO ALL'ASSOCIAZIONE "CENTRO DI AIUTO ALLA VITA" PER LE MANIFESTAZIONE DEL 30° ANNIVERSARIO DI ATTIVITA'</description>
-			<a10:updated>2017-08-29T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3467552</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3467552</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 29 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 13 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3467552</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DECRETO</category>
-			<title>CONCESSIONE PATROCINIO ALL'ASSOCIAZIONE CULTURALE DI VOLONTARIATO "L'ERBAVOGLIO" PER L'ORGANIZZAZIONE DELL'INIZIATIVA "VILLE APERTE AI BAMBINI"</title>
-			<description>CONCESSIONE PATROCINIO ALL'ASSOCIAZIONE CULTURALE DI VOLONTARIATO "L'ERBAVOGLIO" PER L'ORGANIZZAZIONE DELL'INIZIATIVA "VILLE APERTE AI BAMBINI"</description>
 			<a10:updated>2017-08-29T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
