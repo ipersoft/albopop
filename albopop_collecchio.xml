@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 12 Sep 2017 14:31:51 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 12 Sep 2017 15:31:20 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Tue, 12 Sep 2017 14:31:51 +0200</pubDate>
+		<pubDate>Tue, 12 Sep 2017 15:31:20 +0200</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2951025</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2951025</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 12 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 27 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2951025</category>
+			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
+			<title>AFFIDAMENTO SERVIZI LEGALI RELATIVI A RECUPERO CREDITO NEI CONFRONTI DI EXPRESS SRL – CIG ZF81FD7C02 - E INTERVENTO IN PROCEDURE ESECUTIVA PER RECUPERO IMU A CARICO DI MAZZOTTI FRANCO – CIG Z801FD84D8 -</title>
+			<description>AFFIDAMENTO SERVIZI LEGALI RELATIVI A RECUPERO CREDITO NEI CONFRONTI DI EXPRESS SRL – CIG ZF81FD7C02 - E INTERVENTO IN PROCEDURE ESECUTIVA PER RECUPERO IMU A CARICO DI MAZZOTTI FRANCO – CIG Z801FD84D8 -</description>
+			<a10:updated>2017-09-12T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2949978</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2949978</link>
@@ -281,17 +292,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
 			<title>NECROLOGIO SU GAZZETTA DI PARMA. IMPEGNO DI SPESA – CIG ZED1FB63AB</title>
 			<description>NECROLOGIO SU GAZZETTA DI PARMA. IMPEGNO DI SPESA – CIG ZED1FB63AB</description>
-			<a10:updated>2017-09-04T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2937704</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2937704</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 04 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 19 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2937704</category>
-			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
-			<title>APPALTO PER L’AFFIDAMENTO IN GESTIONE DEL SERVIZIO DI TRASPORTO SCOLASTICO DEL COMUNE DI COLLECCHIO . IMPEGNO DI SPESA PER COMMISSIONE DI GARA. IMPEGNO DI SPESA PER RIMBORSO CONTRIBUTO ANAC</title>
-			<description>APPALTO PER L’AFFIDAMENTO IN GESTIONE DEL SERVIZIO DI TRASPORTO SCOLASTICO DEL COMUNE DI COLLECCHIO . IMPEGNO DI SPESA PER COMMISSIONE DI GARA. IMPEGNO DI SPESA PER RIMBORSO CONTRIBUTO ANAC</description>
 			<a10:updated>2017-09-04T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
