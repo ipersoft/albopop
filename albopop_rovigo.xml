@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 13 Sep 2017 08:31:30 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 13 Sep 2017 09:31:52 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Wed, 13 Sep 2017 08:31:30 +0200</pubDate>
+		<pubDate>Wed, 13 Sep 2017 09:31:52 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2951343</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2951343</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 13 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 28 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2951343</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
+			<title>IMPEGNO DI SPESA PER IL COFINANZIAMENTO DEL PROGETTO PER LAVORI DI PUBBLICA UTILITA’ “LPU POLESINE 2” PRESENTATO DA CONSVIPO E APPROVATO DALLA REGIONE VENETO </title>
+			<description>IMPEGNO DI SPESA PER IL COFINANZIAMENTO DEL PROGETTO PER LAVORI DI PUBBLICA UTILITA’ “LPU POLESINE 2” PRESENTATO DA CONSVIPO E APPROVATO DALLA REGIONE VENETO </description>
+			<a10:updated>2017-09-13T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2951236</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2951236</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
 			<title>LIQUIDAZIONE III TRIMESTRE 2017 CANONE DI LOCAZIONE RELATIVO ALL’IMMOBILE SITO IN ROVIGO, VIALE DELLA PACE N. 5 DESTINATO A SEDE DELLA SEZIONE CIRCOSCRIZIONALE DI COLLOCAMENTO.</title>
 			<description>LIQUIDAZIONE III TRIMESTRE 2017 CANONE DI LOCAZIONE RELATIVO ALL’IMMOBILE SITO IN ROVIGO, VIALE DELLA PACE N. 5 DESTINATO A SEDE DELLA SEZIONE CIRCOSCRIZIONALE DI COLLOCAMENTO.</description>
-			<a10:updated>2017-09-12T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2949899</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2949899</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 12 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 27 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2949899</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>IMPEGNO DI SPESA PER SPESE CONDOMINIALI DEI LOCALI SITI IN ROVIGO, VIA DELLA RESISTENZA N. 4, DESTINATI A SEDE DEGLI UFFICI COMUNALI UFFICIO TRIBUTI DI PROPRIETÀ DELL’ISTITUTO RODIGINO DI ASSISTENZA SOCIALE – IRAS DI ROVIGO – ANNO 2017 E SUCCESSIVI.</title>
-			<description>IMPEGNO DI SPESA PER SPESE CONDOMINIALI DEI LOCALI SITI IN ROVIGO, VIA DELLA RESISTENZA N. 4, DESTINATI A SEDE DEGLI UFFICI COMUNALI UFFICIO TRIBUTI DI PROPRIETÀ DELL’ISTITUTO RODIGINO DI ASSISTENZA SOCIALE – IRAS DI ROVIGO – ANNO 2017 E SUCCESSIVI.</description>
 			<a10:updated>2017-09-12T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
