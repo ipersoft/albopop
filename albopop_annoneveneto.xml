@@ -5,7 +5,7 @@
 		<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Annone Veneto</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 13 Sep 2017 11:31:07 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 13 Sep 2017 12:31:07 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Annone Veneto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Annone Veneto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_annoneveneto</a10:id>
-		<pubDate>Wed, 13 Sep 2017 11:31:07 +0200</pubDate>
+		<pubDate>Wed, 13 Sep 2017 12:31:07 +0200</pubDate>
 		<docs>http://albopop.it/comune/annoneveneto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3503707</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3503707</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 13 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 30 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3503707</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO</category>
+			<title>ALBO UNICO DELLE PERSONE IDONEE ALL'UFFICIO DI SCRUTATORE DI SEGGIO ELETTORALE</title>
+			<description>ALBO UNICO DELLE PERSONE IDONEE ALL'UFFICIO DI SCRUTATORE DI SEGGIO ELETTORALE</description>
+			<a10:updated>2017-09-13T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3503606</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3503606</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 13 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 31 Oct 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3503606</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO</category>
+			<title>ALBO DELLE PERSONE IDONEE ALL'UFFICIO DI PRESIDENTE DI SEGGIO ELETTORALE</title>
+			<description>ALBO DELLE PERSONE IDONEE ALL'UFFICIO DI PRESIDENTE DI SEGGIO ELETTORALE</description>
+			<a10:updated>2017-09-13T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3502383</guid>
 			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3502383</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI AVVISO</category>
 			<title>COMUNE DI CAVARZERE - AVVISO DI MOBILITA' PER L'ASSUNZIONE A TEMPO INDETERMINATO E A TEMPO PIENO DI UN ESECUTORE AMMINISTRATIVO CATEGORIA B1 DEL CCNL REGIONI ED ENTI LOCALI AI SENSI DELL'ART. 30 DEL D.LGS. 30/03/2001 N. 165</title>
 			<description>COMUNE DI CAVARZERE - AVVISO DI MOBILITA' PER L'ASSUNZIONE A TEMPO INDETERMINATO E A TEMPO PIENO DI UN ESECUTORE AMMINISTRATIVO CATEGORIA B1 DEL CCNL REGIONI ED ENTI LOCALI AI SENSI DELL'ART. 30 DEL D.LGS. 30/03/2001 N. 165</description>
-			<a10:updated>2017-09-05T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3479403</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3479403</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 05 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 29 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3479403</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI AVVISO</category>
-			<title>COMUNE DI PORTOGRUARO - AVVISO DI SELEZIONE PER MOBILITA' VOLONTARIA EX ART. 30 D.LGS. 165/2001 PER LA COPERTURA, CON CONTRATTO A TEMPO PIENO ED INDETERMINATO, DI N. 1 POSTO DI CATEGORIA D, PROFILO PROFESSIONALE ISTRUTTORE DIRETTIVO SOCIALE.</title>
-			<description>COMUNE DI PORTOGRUARO - AVVISO DI SELEZIONE PER MOBILITA' VOLONTARIA EX ART. 30 D.LGS. 165/2001 PER LA COPERTURA, CON CONTRATTO A TEMPO PIENO ED INDETERMINATO, DI N. 1 POSTO DI CATEGORIA D, PROFILO PROFESSIONALE ISTRUTTORE DIRETTIVO SOCIALE.</description>
-			<a10:updated>2017-09-05T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3479388</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3479388</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 05 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 05 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3479388</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>COMUNE DI ANNONE VENETO - DETERMINAZIONE N.101 DEL 20/02/2017 - LIQUIDAZIONE A FAVORE DEL COMUNE DI MANSUE' (TV) PER RIMBORSO SPESE DI NOTIFICA ATTI CRON. 136/16.</title>
-			<description>COMUNE DI ANNONE VENETO - DETERMINAZIONE N.101 DEL 20/02/2017 - LIQUIDAZIONE A FAVORE DEL COMUNE DI MANSUE' (TV) PER RIMBORSO SPESE DI NOTIFICA ATTI CRON. 136/16.</description>
 			<a10:updated>2017-09-05T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
