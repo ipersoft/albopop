@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 12 Sep 2017 18:33:31 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 13 Sep 2017 08:31:40 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Tue, 12 Sep 2017 18:33:31 +0200</pubDate>
+		<pubDate>Wed, 13 Sep 2017 08:31:40 +0200</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -31,6 +31,17 @@
 			<title>PUBBLICAZIONE DI NOTIFICA AI SENSI DELL'ART. 60DEL D.P.R.600/73 A CARICO DI SCATA ARTURO DISCESA CAVA 18</title>
 			<description>PUBBLICAZIONE DI NOTIFICA AI SENSI DELL'ART. 60DEL D.P.R.600/73 A CARICO DI SCATA ARTURO DISCESA CAVA 18</description>
 			<a10:updated>2017-09-12T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2951109</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2951109</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 13 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 19 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2951109</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO AVVISO PUBBLICO</category>
+			<title>AVVISO PUBBLICO PER AFFITTO LOCALI CAMERALI - ASSEGNAZIONE IN LOCAZIONE </title>
+			<description>AVVISO PUBBLICO PER AFFITTO LOCALI CAMERALI - ASSEGNAZIONE IN LOCAZIONE </description>
+			<a10:updated>2017-09-13T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2951101</guid>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
 			<title>PROCEDURA APERTA PER L'AFFIDAMENTO DELLA GESTIONE DELLA CONDUZIONE BIENNALE DEL SERVIZIO IDRICO COMUNALE : CAPTAZIONE, SOLLEVAMENTO, DISTRIBUZIONE IDRICA E MANUTENZIONI ALLE RETI IDRICHE E FOGNARIE. CIG: 6946077412 - PROVVEDIMENTO DETERMINANTE “LE ESCLUSIONI DALLA PROCEDURA DI AFFIDAMENTO E LE AMMISSIONI ALL'ESITO DELLE VALUTAZIONI DEI REQUISITI SOGGETTIVI, ECONOMICO-FINANZIARI E TECNICO-PROFESSIONALI” EMANATO AI SENSI DELL’ART.29, C. 1, DEL D. LGS. N. 50/2016.</title>
 			<description>PROCEDURA APERTA PER L'AFFIDAMENTO DELLA GESTIONE DELLA CONDUZIONE BIENNALE DEL SERVIZIO IDRICO COMUNALE : CAPTAZIONE, SOLLEVAMENTO, DISTRIBUZIONE IDRICA E MANUTENZIONI ALLE RETI IDRICHE E FOGNARIE. CIG: 6946077412 - PROVVEDIMENTO DETERMINANTE “LE ESCLUSIONI DALLA PROCEDURA DI AFFIDAMENTO E LE AMMISSIONI ALL'ESITO DELLE VALUTAZIONI DEI REQUISITI SOGGETTIVI, ECONOMICO-FINANZIARI E TECNICO-PROFESSIONALI” EMANATO AI SENSI DELL’ART.29, C. 1, DEL D. LGS. N. 50/2016.</description>
-			<a10:updated>2017-09-11T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2948968</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2948968</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 11 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 19 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2948968</category>
-			<category domain="http://albopop.it/specs#item-category-type">ACCERTAMENTO</category>
-			<title>PUBBLICAZIONE DI NOTICA AI SENSI DELL'ART.60 DEL D.P.R.600/73 A CARICO DI SOLEI SRL VIA LOMBARDIA 54</title>
-			<description>PUBBLICAZIONE DI NOTICA AI SENSI DELL'ART.60 DEL D.P.R.600/73 A CARICO DI SOLEI SRL VIA LOMBARDIA 54</description>
 			<a10:updated>2017-09-11T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
