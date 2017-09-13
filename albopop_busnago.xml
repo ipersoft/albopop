@@ -5,7 +5,7 @@
 		<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Busnago</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 13 Sep 2017 09:31:36 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 13 Sep 2017 10:31:38 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Busnago</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Busnago</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_busnago</a10:id>
-		<pubDate>Wed, 13 Sep 2017 09:31:36 +0200</pubDate>
+		<pubDate>Wed, 13 Sep 2017 10:31:38 +0200</pubDate>
 		<docs>http://albopop.it/comune/busnago/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3503415</guid>
+			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3503415</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 13 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 28 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3503415</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO ORDINANZA PER LA DISCIPLINA DELLA CIRCOLAZIONE STRADALE</category>
+			<title>ORDINANZA PER LA DISCIPLINA DEL TRAFFICO IN OCCASIONE DELLA 7^ FESTA DELLE ASSOCIAZIONI-INTEGRAZIONE</title>
+			<description>ORDINANZA PER LA DISCIPLINA DEL TRAFFICO IN OCCASIONE DELLA 7^ FESTA DELLE ASSOCIAZIONI-INTEGRAZIONE</description>
+			<a10:updated>2017-09-13T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3502355</guid>
 			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3502355</link>
@@ -284,17 +295,6 @@
 			<title>COMUNE DI CISLAGO: RICHIESTA DI PUBBLICAZIONE DELL' AVVISO PUBBLICO MOBILITA' ESTERNA AI SENSI DELL'ART. 30 D.LGS.165/2001 PER COPERTURA N.1 POSTO CAT.C</title>
 			<description>COMUNE DI CISLAGO: RICHIESTA DI PUBBLICAZIONE DELL' AVVISO PUBBLICO MOBILITA' ESTERNA AI SENSI DELL'ART. 30 D.LGS.165/2001 PER COPERTURA N.1 POSTO CAT.C</description>
 			<a10:updated>2017-08-25T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3460176</guid>
-			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3460176</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 22 Aug 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 22 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3460176</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI PUBBLICI AVVISO BANDO DI MOBILITÀ ESTERNA</category>
-			<title>COMUNE DI VERANO BRIANZA: AVVISO MOBILITA' ESTERNA N. 1 POSTO A TEMPO PIENO ED INDETERMINATO DI ISTRUTTORE DIRETTIVO POLIZIA LOCALE - CAT. D1.</title>
-			<description>COMUNE DI VERANO BRIANZA: AVVISO MOBILITA' ESTERNA N. 1 POSTO A TEMPO PIENO ED INDETERMINATO DI ISTRUTTORE DIRETTIVO POLIZIA LOCALE - CAT. D1.</description>
-			<a10:updated>2017-08-22T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
