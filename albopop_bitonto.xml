@@ -5,7 +5,7 @@
 		<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bitonto</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 13 Sep 2017 16:30:44 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 13 Sep 2017 17:30:45 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bitonto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Bari</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bitonto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bitonto</a10:id>
-		<pubDate>Wed, 13 Sep 2017 16:30:44 +0200</pubDate>
+		<pubDate>Wed, 13 Sep 2017 17:30:45 +0200</pubDate>
 		<docs>http://albopop.it/comune/bitonto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3504799</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3504799</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 13 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 28 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3504799</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
+			<title>VIA A. MANZONI 42 - DIVIETO DI SOSTA CON RIMOZIONE IL 15/09/2017 ORE 7/15 PER POSIZIONAMENTO SILOS PER GETTO MASSETTO IMMOBILE IVI ESISTENTE - DITTA FALLACARA GAETANO</title>
+			<description>VIA A. MANZONI 42 - DIVIETO DI SOSTA CON RIMOZIONE IL 15/09/2017 ORE 7/15 PER POSIZIONAMENTO SILOS PER GETTO MASSETTO IMMOBILE IVI ESISTENTE - DITTA FALLACARA GAETANO</description>
+			<a10:updated>2017-09-13T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3503774</guid>
 			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3503774</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI RESPONSABILI DEI SERVIZI (DAL 6-03-2015) 11 - SERVIZIO PATRIMONIO E PER LA PUBBLICA ISTRUZIONE</category>
 			<title>ASTA PUBBLICA PER ALIENAZIONE DI BENI IMMOBILI DEL PATRIMONIO COMUNALE DISPONIBILE (DETERMINAZIONE N. 811 DEL 24.07.2017). NOMINA COMMISSIONE.</title>
 			<description>ASTA PUBBLICA PER ALIENAZIONE DI BENI IMMOBILI DEL PATRIMONIO COMUNALE DISPONIBILE (DETERMINAZIONE N. 811 DEL 24.07.2017). NOMINA COMMISSIONE.</description>
-			<a10:updated>2017-09-08T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3496202</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3496202</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 08 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 23 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3496202</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISI ALTRI ENTI</category>
-			<title>CITTA' METROPOLITANA DI BARI : AUTORIZZAZIONE ALLA ESCAVAZIONE DI POZZO PER SCOPO DI RICERCA FINALIZZATA ALLA UTILIZZAZIONE DI ACQUE SOTTERRANEE DA DESTINARE AD USO IRRIGUO. UBICAZIONE : FG 75 P.LLA 222 IN AGRO DEL COMUNE DI BITONTO ( BA ) - LOCALITA' " CHIUSO DI INFERNO " PI2770</title>
-			<description>CITTA' METROPOLITANA DI BARI : AUTORIZZAZIONE ALLA ESCAVAZIONE DI POZZO PER SCOPO DI RICERCA FINALIZZATA ALLA UTILIZZAZIONE DI ACQUE SOTTERRANEE DA DESTINARE AD USO IRRIGUO. UBICAZIONE : FG 75 P.LLA 222 IN AGRO DEL COMUNE DI BITONTO ( BA ) - LOCALITA' " CHIUSO DI INFERNO " PI2770</description>
 			<a10:updated>2017-09-08T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
