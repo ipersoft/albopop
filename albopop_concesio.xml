@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 13 Sep 2017 15:30:44 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 13 Sep 2017 16:30:54 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Wed, 13 Sep 2017 15:30:44 +0200</pubDate>
+		<pubDate>Wed, 13 Sep 2017 16:30:54 +0200</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3504618</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3504618</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 13 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 28 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3504618</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI RILASCIO PERMESSO DI COSTRUIRE</category>
+			<title>RILASCIO P.D.C. N. 193.2015 AL SIG. SCALETTI ARMANDO</title>
+			<description>RILASCIO P.D.C. N. 193.2015 AL SIG. SCALETTI ARMANDO</description>
+			<a10:updated>2017-09-13T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3503468</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3503468</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERA DI GIUNTA</category>
 			<title>SDEMANIALIZZAZIONE DEL PATRIMONIO DI PUBBLICA LETTURA DELLA BIBLIOTECA COMUNALE.</title>
 			<description>SDEMANIALIZZAZIONE DEL PATRIMONIO DI PUBBLICA LETTURA DELLA BIBLIOTECA COMUNALE.</description>
-			<a10:updated>2017-09-05T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3480298</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3480298</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 05 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 20 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3480298</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERA DI GIUNTA</category>
-			<title>AUTORIZZAZIONE ALLA CONCESSIONE DI UN CONTRIBUTO ECONOMICO A FAVORE DELL' ASSOCIAZIONE CULTURALE DI PROMOZIONE SOCIALE MAGNOLIA ITALIA PER L'ORGANIZZAZIONE DELLA RASSEGNA LIBRI IN MOVIMENTO 2017.</title>
-			<description>AUTORIZZAZIONE ALLA CONCESSIONE DI UN CONTRIBUTO ECONOMICO A FAVORE DELL' ASSOCIAZIONE CULTURALE DI PROMOZIONE SOCIALE MAGNOLIA ITALIA PER L'ORGANIZZAZIONE DELLA RASSEGNA LIBRI IN MOVIMENTO 2017.</description>
 			<a10:updated>2017-09-05T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
