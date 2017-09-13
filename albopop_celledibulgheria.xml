@@ -5,7 +5,7 @@
 		<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/igrid/1210528</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Celle di Bulgheria</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 13 Sep 2017 12:30:39 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 13 Sep 2017 13:30:39 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Celle di Bulgheria</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Salerno</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Celle di Bulgheria</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_celledibulgheria</a10:id>
-		<pubDate>Wed, 13 Sep 2017 12:30:39 +0200</pubDate>
+		<pubDate>Wed, 13 Sep 2017 13:30:39 +0200</pubDate>
 		<docs>http://albopop.it/comune/celledibulgheria/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2952395</guid>
+			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2952395</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 13 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 28 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2952395</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI CONSIGLIO</category>
+			<title>ELENCO ANNUALE E PIANO TRIENNALE OPERE PUBBLICHE 2017-2019. 1° AGGIORNAMENTO - APPROVAZIONE </title>
+			<description>ELENCO ANNUALE E PIANO TRIENNALE OPERE PUBBLICHE 2017-2019. 1° AGGIORNAMENTO - APPROVAZIONE </description>
+			<a10:updated>2017-09-13T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2951387</guid>
 			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2951387</link>
@@ -228,17 +239,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>: LIQUIDAZIONE DI SPESA PER NOLO FOTOCOPIATRICI COMUNALI: ANNO 2017 CIG Z081E6ED12 </title>
 			<description>: LIQUIDAZIONE DI SPESA PER NOLO FOTOCOPIATRICI COMUNALI: ANNO 2017 CIG Z081E6ED12 </description>
-			<a10:updated>2017-09-11T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2949711</guid>
-			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2949711</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 11 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 26 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2949711</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI CONSIGLIO</category>
-			<title>APPROVAZIONE SCHEMA DI CONVENZIONE TRA I COMUNI DI CUCCARO VETERE, CELLE DI BULGHERIA , MONTANO ANTILIA E FUTANI, PER LA PARTECIPAZIONE ALLA MISURA M07 – TIPOLOGIA D’INTERVENTO 7.4.1: “INVESTIMENTI PER L’INTRODUZIONE, IL MIGLIORAMENTO, L’ESPANSIONE DI SERVIZI DI BASE PER LA POPOLAZIONE RURALE” – ADEGUAMENTO E RIPRISTINO STRUTTURA SITA IN LOC. SAN VITO DI CUCCARO DESTINATA A SERVIZI SOCIO ASSISTENZIALI : ATTIVITÀ DI ONOTERAPIA. </title>
-			<description>APPROVAZIONE SCHEMA DI CONVENZIONE TRA I COMUNI DI CUCCARO VETERE, CELLE DI BULGHERIA , MONTANO ANTILIA E FUTANI, PER LA PARTECIPAZIONE ALLA MISURA M07 – TIPOLOGIA D’INTERVENTO 7.4.1: “INVESTIMENTI PER L’INTRODUZIONE, IL MIGLIORAMENTO, L’ESPANSIONE DI SERVIZI DI BASE PER LA POPOLAZIONE RURALE” – ADEGUAMENTO E RIPRISTINO STRUTTURA SITA IN LOC. SAN VITO DI CUCCARO DESTINATA A SERVIZI SOCIO ASSISTENZIALI : ATTIVITÀ DI ONOTERAPIA. </description>
 			<a10:updated>2017-09-11T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

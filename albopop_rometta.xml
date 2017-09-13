@@ -5,7 +5,7 @@
 		<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rometta</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 13 Sep 2017 12:31:35 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 13 Sep 2017 13:31:24 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rometta</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Messina</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rometta</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rometta</a10:id>
-		<pubDate>Wed, 13 Sep 2017 12:31:35 +0200</pubDate>
+		<pubDate>Wed, 13 Sep 2017 13:31:24 +0200</pubDate>
 		<docs>http://albopop.it/comune/rometta/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3503993</guid>
+			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3503993</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 13 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 28 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3503993</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DECRETO</category>
+			<title>NOMINA DI ESPERTO A NORMA DELL’ART. 14 DELLA L. REG. N. 7/’92 IN MATERIA DI PIANIFICAZIONE URBANISTICA E GOVERNO DEL TERRITORIO.</title>
+			<description>NOMINA DI ESPERTO A NORMA DELL’ART. 14 DELLA L. REG. N. 7/’92 IN MATERIA DI PIANIFICAZIONE URBANISTICA E GOVERNO DEL TERRITORIO.</description>
+			<a10:updated>2017-09-13T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3503691</guid>
 			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3503691</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>PAGAMENTO QUOTA ADESIONE ALL’A.N.U.T.E.L. (ASSOCIAZIONE NAZIONALE UFFICI TRIBUTI ENTI LOCALI) PER ANNO 2017</title>
 			<description>PAGAMENTO QUOTA ADESIONE ALL’A.N.U.T.E.L. (ASSOCIAZIONE NAZIONALE UFFICI TRIBUTI ENTI LOCALI) PER ANNO 2017</description>
-			<a10:updated>2017-09-06T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3492500</guid>
-			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3492500</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 06 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 21 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3492500</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO PUBBLICO</category>
-			<title>INTERVENTI IN FAVORE DI PAZIENTI AFFETTI DA SLA</title>
-			<description>INTERVENTI IN FAVORE DI PAZIENTI AFFETTI DA SLA</description>
 			<a10:updated>2017-09-06T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
