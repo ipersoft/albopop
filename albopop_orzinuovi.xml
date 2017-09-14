@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 14 Sep 2017 14:30:52 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 14 Sep 2017 15:31:18 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Thu, 14 Sep 2017 14:30:52 +0200</pubDate>
+		<pubDate>Thu, 14 Sep 2017 15:31:18 +0200</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2954175</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2954175</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 14 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 02 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2954175</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI AVVISO</category>
+			<title>REVOCA BANDO MOBILITA’ VOLONTARIA PER LA COPERTURA DI UN POSTO DI COLLABORATORE PROFESSIONALE CAT.B3 A TEMPO PARZIALE 23 ORE SETTIMANALI ED INDETERMINATO PRESSO L’AREA ECOLOGIA</title>
+			<description>REVOCA BANDO MOBILITA’ VOLONTARIA PER LA COPERTURA DI UN POSTO DI COLLABORATORE PROFESSIONALE CAT.B3 A TEMPO PARZIALE 23 ORE SETTIMANALI ED INDETERMINATO PRESSO L’AREA ECOLOGIA</description>
+			<a10:updated>2017-09-14T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2954089</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2954089</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>AUTORIZZAZIONE ALL'INSTALLAZIONE DI RAMPA PER DISABILI SUL MARCIAPIEDE PUBBLICO ED INDIVIDUAZIONE DI POSTO AUTO RISERVATO DA REALIZZARSI IN VIA G.B. CORNIANI N° 50</title>
 			<description>AUTORIZZAZIONE ALL'INSTALLAZIONE DI RAMPA PER DISABILI SUL MARCIAPIEDE PUBBLICO ED INDIVIDUAZIONE DI POSTO AUTO RISERVATO DA REALIZZARSI IN VIA G.B. CORNIANI N° 50</description>
-			<a10:updated>2017-09-06T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2940740</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2940740</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 06 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 21 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2940740</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>FINANZIAMENTO FUNZIONI TRASFERITE IN MATERIA DI VIGILANZA E CONTROLLO PER LA VERIFICA DEI REQUISITI DI ESERCIZIO E DI ACCREDITAMENTO DELLE STRUTTURE SOCIO ASSISTENZIALI. ACCERTAMENTO DI ENTRATA E IMPEGNO DI SPESA. QUOTA ANNO 2017</title>
-			<description>FINANZIAMENTO FUNZIONI TRASFERITE IN MATERIA DI VIGILANZA E CONTROLLO PER LA VERIFICA DEI REQUISITI DI ESERCIZIO E DI ACCREDITAMENTO DELLE STRUTTURE SOCIO ASSISTENZIALI. ACCERTAMENTO DI ENTRATA E IMPEGNO DI SPESA. QUOTA ANNO 2017</description>
 			<a10:updated>2017-09-06T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
