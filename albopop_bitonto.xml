@@ -5,7 +5,7 @@
 		<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bitonto</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 14 Sep 2017 11:30:46 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 14 Sep 2017 12:30:41 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bitonto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Bari</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bitonto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bitonto</a10:id>
-		<pubDate>Thu, 14 Sep 2017 11:30:46 +0200</pubDate>
+		<pubDate>Thu, 14 Sep 2017 12:30:41 +0200</pubDate>
 		<docs>http://albopop.it/comune/bitonto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3506406</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3506406</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 14 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 29 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3506406</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
+			<title>VIA SULMONE CALIA CIV.28 - DIVIETO DI SOSTA CON RIMOZIONE DAL 18/09/2017 PER GG.10 - OPERAZIONI EDILI DITTA SCHIRALDI ANTONIO PUNTO EDILIZIA SRL</title>
+			<description>VIA SULMONE CALIA CIV.28 - DIVIETO DI SOSTA CON RIMOZIONE DAL 18/09/2017 PER GG.10 - OPERAZIONI EDILI DITTA SCHIRALDI ANTONIO PUNTO EDILIZIA SRL</description>
+			<a10:updated>2017-09-14T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3505866</guid>
 			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3505866</link>
@@ -284,17 +295,6 @@
 			<title>CITTA' METROPOLITANA DI BARI : AUTORIZZAZIONE ALLA ESCAVAZIONE DI POZZO PER SCOPO DI RICERCA FINALIZZATA ALLA UTILIZZAZIONE DI ACQUE SOTTERRANEE DA DESTINARE AD USO IRRIGUO. UBICAZIONE : FG.16 P.LLA 107 IN AGRO DEL COMUNE DI BITONTO ( BA ) - LOCALITA' " QUORCHIO/TRAPPETO DI QUORCHIO " .PI2710</title>
 			<description>CITTA' METROPOLITANA DI BARI : AUTORIZZAZIONE ALLA ESCAVAZIONE DI POZZO PER SCOPO DI RICERCA FINALIZZATA ALLA UTILIZZAZIONE DI ACQUE SOTTERRANEE DA DESTINARE AD USO IRRIGUO. UBICAZIONE : FG.16 P.LLA 107 IN AGRO DEL COMUNE DI BITONTO ( BA ) - LOCALITA' " QUORCHIO/TRAPPETO DI QUORCHIO " .PI2710</description>
 			<a10:updated>2017-09-08T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3497341</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3497341</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 11 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 25 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3497341</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISI COMUNALI</category>
-			<title>PROROGA PRESENTAZIONE ISTANZE CONTRIBUTO INTEGRATIVO CANONE DI LOCAZIONE COMPETENZE ANNO 2015 </title>
-			<description>PROROGA PRESENTAZIONE ISTANZE CONTRIBUTO INTEGRATIVO CANONE DI LOCAZIONE COMPETENZE ANNO 2015 </description>
-			<a10:updated>2017-09-11T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
