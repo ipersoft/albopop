@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 15 Sep 2017 09:30:59 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 15 Sep 2017 10:30:53 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Fri, 15 Sep 2017 09:30:59 +0200</pubDate>
+		<pubDate>Fri, 15 Sep 2017 10:30:53 +0200</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3508190</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3508190</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 15 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 30 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3508190</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>REFERENDUM CONSULTIVO REGIONALE PER L'AUTONOMIA DEL 22 OTTOBRE 2017. COSTITUZIONE DEL GRUPPO DI LAVORO E DEFINIZIONE DELLE MODALITA' OPERATIVE. </title>
+			<description>REFERENDUM CONSULTIVO REGIONALE PER L'AUTONOMIA DEL 22 OTTOBRE 2017. COSTITUZIONE DEL GRUPPO DI LAVORO E DEFINIZIONE DELLE MODALITA' OPERATIVE. </description>
+			<a10:updated>2017-09-15T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3505203</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3505203</link>
@@ -284,17 +295,6 @@
 			<title>ASSUNZIONE IMPEGNO DI SPESA PER LA PARTECIPAZIONE DELLA RESPONSABILE DEL SETTORE SERVIZI ALLA PERSONA AD UN CORSO DI FORMAZIONE (CIG. Z771FCCB12).</title>
 			<description>ASSUNZIONE IMPEGNO DI SPESA PER LA PARTECIPAZIONE DELLA RESPONSABILE DEL SETTORE SERVIZI ALLA PERSONA AD UN CORSO DI FORMAZIONE (CIG. Z771FCCB12).</description>
 			<a10:updated>2017-09-07T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3493894</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3493894</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 06 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 21 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3493894</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI RILASCIO PERMESSO DI COSTRUIRE</category>
-			<title>PERMESSO DI COSTRUIRE CON CONTRIBUTO</title>
-			<description>PERMESSO DI COSTRUIRE CON CONTRIBUTO</description>
-			<a10:updated>2017-09-06T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
