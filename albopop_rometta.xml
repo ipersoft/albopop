@@ -5,7 +5,7 @@
 		<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rometta</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 14 Sep 2017 18:33:44 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 15 Sep 2017 08:32:43 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rometta</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Messina</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rometta</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rometta</a10:id>
-		<pubDate>Thu, 14 Sep 2017 18:33:44 +0200</pubDate>
+		<pubDate>Fri, 15 Sep 2017 08:32:43 +0200</pubDate>
 		<docs>http://albopop.it/comune/rometta/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -75,17 +75,6 @@
 			<title>NOMINA FUNZIONARIO RESPONSABILE TRIBUTI LOCALI</title>
 			<description>NOMINA FUNZIONARIO RESPONSABILE TRIBUTI LOCALI</description>
 			<a10:updated>2017-09-12T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3499683</guid>
-			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3499683</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 11 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 14 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3499683</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
-			<title>ORDINANZA AREA VIGILANZA N. 33 DELL' 11 SETTEMBRE 2017</title>
-			<description>ORDINANZA AREA VIGILANZA N. 33 DELL' 11 SETTEMBRE 2017</description>
-			<a10:updated>2017-09-11T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3499619</guid>
@@ -294,6 +283,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>"ESTATE ROMETTESE 2017". LIQUIDAZIONE MANIFESTAZIONE DEL 10/08/2017. ASSOCIAZIONE C.P.M. (CIG. N. Z0D1F9314B)</title>
 			<description>"ESTATE ROMETTESE 2017". LIQUIDAZIONE MANIFESTAZIONE DEL 10/08/2017. ASSOCIAZIONE C.P.M. (CIG. N. Z0D1F9314B)</description>
+			<a10:updated>2017-09-06T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3492920</guid>
+			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3492920</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 06 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 21 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3492920</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
+			<title>PAGAMENTO QUOTA ADESIONE ALL’A.N.U.T.E.L. (ASSOCIAZIONE NAZIONALE UFFICI TRIBUTI ENTI LOCALI) PER ANNO 2017</title>
+			<description>PAGAMENTO QUOTA ADESIONE ALL’A.N.U.T.E.L. (ASSOCIAZIONE NAZIONALE UFFICI TRIBUTI ENTI LOCALI) PER ANNO 2017</description>
 			<a10:updated>2017-09-06T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
