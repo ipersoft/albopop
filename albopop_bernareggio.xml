@@ -5,7 +5,7 @@
 		<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bernareggio</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 15 Sep 2017 13:31:28 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 15 Sep 2017 14:33:09 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bernareggio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bernareggio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bernareggio</a10:id>
-		<pubDate>Fri, 15 Sep 2017 13:31:28 +0200</pubDate>
+		<pubDate>Fri, 15 Sep 2017 14:33:09 +0200</pubDate>
 		<docs>http://albopop.it/comune/bernareggio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3509783</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3509783</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 15 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 30 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3509783</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DECRETO</category>
+			<title>CONCESSIONE PATROCINIO ALL'ASSOCIAZIONE "AVIS COMUNALE DI BERNAREGGIO" PER ORGANIZZAZIONE INIZIATIVA "GIORNATA DELLA PREVENZIONE - 7^ EDIZIONE" </title>
+			<description>CONCESSIONE PATROCINIO ALL'ASSOCIAZIONE "AVIS COMUNALE DI BERNAREGGIO" PER ORGANIZZAZIONE INIZIATIVA "GIORNATA DELLA PREVENZIONE - 7^ EDIZIONE" </description>
+			<a10:updated>2017-09-15T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3507633</guid>
 			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3507633</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">AVVISI</category>
 			<title>POSTA CERTIFICATA: RICHIESTA DIVULGAZIONE BANDO DI MOBILITÀ ESTERNA VOLONTARIA PER LA COPERTURA DI N. 1 POSTO DI ISTRUTTORE DIRETTIVO CONTABILE - CAT. D/1</title>
 			<description>POSTA CERTIFICATA: RICHIESTA DIVULGAZIONE BANDO DI MOBILITÀ ESTERNA VOLONTARIA PER LA COPERTURA DI N. 1 POSTO DI ISTRUTTORE DIRETTIVO CONTABILE - CAT. D/1</description>
-			<a10:updated>2017-09-07T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3494225</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3494225</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 07 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 22 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3494225</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI</category>
-			<title>CONVOCAZIONE COMIZI REFERENDUM REGIONE LOMBARDIA DEL 22.10.2017</title>
-			<description>CONVOCAZIONE COMIZI REFERENDUM REGIONE LOMBARDIA DEL 22.10.2017</description>
 			<a10:updated>2017-09-07T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
