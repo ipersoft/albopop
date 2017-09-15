@@ -5,7 +5,7 @@
 		<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Belpasso</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 15 Sep 2017 11:31:56 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 15 Sep 2017 12:31:35 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Belpasso</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Belpasso</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_belpasso</a10:id>
-		<pubDate>Fri, 15 Sep 2017 11:31:56 +0200</pubDate>
+		<pubDate>Fri, 15 Sep 2017 12:31:35 +0200</pubDate>
 		<docs>http://albopop.it/comune/belpasso/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3509117</guid>
+			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3509117</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 15 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 30 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3509117</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZA P.M. ORDINANZA DI POLIZIA MUNICIPALE</category>
+			<title>CHIUSURA TEMPORANEA TRATTO DI VIA BELLINI PER MANIFESTAZIONE RELIGIOSA</title>
+			<description>CHIUSURA TEMPORANEA TRATTO DI VIA BELLINI PER MANIFESTAZIONE RELIGIOSA</description>
+			<a10:updated>2017-09-15T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3509115</guid>
+			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3509115</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 15 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 30 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3509115</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZA P.M. ORDINANZA DI POLIZIA MUNICIPALE</category>
+			<title>CHIUSURA TEMPORANEA VIA 2^ RETTA LEVANTE PER LAVORI DI MANUTENZIONE CASEGGIATO</title>
+			<description>CHIUSURA TEMPORANEA VIA 2^ RETTA LEVANTE PER LAVORI DI MANUTENZIONE CASEGGIATO</description>
+			<a10:updated>2017-09-15T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3509113</guid>
+			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3509113</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 15 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 30 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3509113</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZA P.M. ORDINANZA DI POLIZIA MUNICIPALE</category>
+			<title>PARZIALE MODIFICA ORDINANZA NR.110/17 DIVIETO DI ACCESSO 20^ TRAVERSA</title>
+			<description>PARZIALE MODIFICA ORDINANZA NR.110/17 DIVIETO DI ACCESSO 20^ TRAVERSA</description>
+			<a10:updated>2017-09-15T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3506484</guid>
 			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3506484</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>LIQUIDAZIONE SPESA PER RETTA RICOVERO UTENTI P.R.- M.M. – PERIODO MARZO – APRILE 2016 - ISTITUTO O.D.A . GESTORE CASA PROTETTA “VILLA M.DI LOURDES”. </title>
 			<description>LIQUIDAZIONE SPESA PER RETTA RICOVERO UTENTI P.R.- M.M. – PERIODO MARZO – APRILE 2016 - ISTITUTO O.D.A . GESTORE CASA PROTETTA “VILLA M.DI LOURDES”. </description>
-			<a10:updated>2017-09-14T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3506164</guid>
-			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3506164</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 14 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 29 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3506164</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title> LIQUIDAZIONE SPESA PER RETTA RICOVERO SIG.RA P.G E MINORE P.M. . PERIODO MARZO - APRILE 216 PRESSO L'ISTITUTO CATECHISTICO DIVINA PROVVIDENZA CASA ACCOGLIENZA “ MARIA MARLETTA” GESTORE ISTITUTO SAN GIUSEPPE CATANIA. </title>
-			<description> LIQUIDAZIONE SPESA PER RETTA RICOVERO SIG.RA P.G E MINORE P.M. . PERIODO MARZO - APRILE 216 PRESSO L'ISTITUTO CATECHISTICO DIVINA PROVVIDENZA CASA ACCOGLIENZA “ MARIA MARLETTA” GESTORE ISTITUTO SAN GIUSEPPE CATANIA. </description>
-			<a10:updated>2017-09-14T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3506162</guid>
-			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3506162</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 14 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 29 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3506162</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title> LIQUIDAZIONE SPESA PER RETTA RICOVERO SIG.RA P.G E MINORE P.M. . PERIODO GENNAIO - FEBBRAIO 216 PRESSO L'ISTITUTO CATECHISTICO DIVINA PROVVIDENZA CASA ACCOGLIENZA “ MARIA MARLETTA” GESTORE ISTITUTO SAN GIUSEPPE CATANIA.</title>
-			<description> LIQUIDAZIONE SPESA PER RETTA RICOVERO SIG.RA P.G E MINORE P.M. . PERIODO GENNAIO - FEBBRAIO 216 PRESSO L'ISTITUTO CATECHISTICO DIVINA PROVVIDENZA CASA ACCOGLIENZA “ MARIA MARLETTA” GESTORE ISTITUTO SAN GIUSEPPE CATANIA.</description>
-			<a10:updated>2017-09-14T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3506160</guid>
-			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3506160</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 14 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 29 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3506160</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>LIQUIDAZIONE SPESA PER RETTA RICOVERO MINORI M.E – M.A - M. A PERIODO GENNAIO DICEMBRE 2015 PRESSO IL COESO SDS GESTORE “COMUNITÀ DI NOMADELFIA” GROSSETO</title>
-			<description>LIQUIDAZIONE SPESA PER RETTA RICOVERO MINORI M.E – M.A - M. A PERIODO GENNAIO DICEMBRE 2015 PRESSO IL COESO SDS GESTORE “COMUNITÀ DI NOMADELFIA” GROSSETO</description>
 			<a10:updated>2017-09-14T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
