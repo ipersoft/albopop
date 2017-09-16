@@ -5,7 +5,7 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 16 Sep 2017 09:31:36 +0200</lastBuildDate>
+		<lastBuildDate>Sat, 16 Sep 2017 10:33:01 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Isernia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>Sat, 16 Sep 2017 09:31:36 +0200</pubDate>
+		<pubDate>Sat, 16 Sep 2017 10:33:01 +0200</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3510182</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3510182</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 16 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 24 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3510182</category>
+			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO PUBBLICAZIONE DI MATRIMONIO</category>
+			<title>PUBBLICAZIONE DI MATRIMONIO RELATIVA A DI PASQUALE BRUNO E RANIERO ANTONIA</title>
+			<description>PUBBLICAZIONE DI MATRIMONIO RELATIVA A DI PASQUALE BRUNO E RANIERO ANTONIA</description>
+			<a10:updated>2017-09-16T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3509687</guid>
 			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3509687</link>
@@ -284,17 +295,6 @@
 			<title>CONFERIMENTO INCARICO SOSTITUZIONE DIRIGENTE I E II SETTORE , UOA UFFICIO LEGALE AL SEGRETARIO GENERALE DOTT. CLAUDIO UCCELLETTI</title>
 			<description>CONFERIMENTO INCARICO SOSTITUZIONE DIRIGENTE I E II SETTORE , UOA UFFICIO LEGALE AL SEGRETARIO GENERALE DOTT. CLAUDIO UCCELLETTI</description>
 			<a10:updated>2017-09-07T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3491938</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3491938</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 06 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 21 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3491938</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA GIUNTA COMUNALE</category>
-			<title>Concessione del patrocinio alla Fondazione Ricerca e Cura Giovanni Paolo II per progetto "Ricerca e Prevenzione in Molise", programmata per il giorno 26 settembre p.v. </title>
-			<description>Concessione del patrocinio alla Fondazione Ricerca e Cura Giovanni Paolo II per progetto "Ricerca e Prevenzione in Molise", programmata per il giorno 26 settembre p.v. </description>
-			<a10:updated>2017-09-06T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
