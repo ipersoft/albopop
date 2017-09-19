@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 19 Sep 2017 08:31:29 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 19 Sep 2017 09:31:22 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Tue, 19 Sep 2017 08:31:29 +0200</pubDate>
+		<pubDate>Tue, 19 Sep 2017 09:31:22 +0200</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3512856</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3512856</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 19 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 19 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3512856</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO GENERICO</category>
+			<title>RICHIESTA DI PUBBLICAZIONE: AVVISO DI MOBILITA' ESTERNA VOLONTARIA AI SENSI DELL'ART. 30 DEL D.LGS 165/2001 PER LA COPERTURA DI UN POSTO DI ISPETTORE DELLA POLIZIA LOCALE CATEGORIA D. </title>
+			<description>RICHIESTA DI PUBBLICAZIONE: AVVISO DI MOBILITA' ESTERNA VOLONTARIA AI SENSI DELL'ART. 30 DEL D.LGS 165/2001 PER LA COPERTURA DI UN POSTO DI ISPETTORE DELLA POLIZIA LOCALE CATEGORIA D. </description>
+			<a10:updated>2017-09-19T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3511631</guid>
 			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3511631</link>
@@ -284,17 +295,6 @@
 			<title>ORDINANZA INGIUNZIONE -VERBALE NR. 33/2017 DEL 10/08/2017 EMESSO PER VIOLAZIONE ALL’ ART.7 DEL DEC. LSG. NR. 286 DEL 25/07/1998 - ACCOGLIMENTO PARZIALE DEL RICORSO ED APPLICAZIONE DEL MINIMO EDITTALE DELLA SANZIONE </title>
 			<description>ORDINANZA INGIUNZIONE -VERBALE NR. 33/2017 DEL 10/08/2017 EMESSO PER VIOLAZIONE ALL’ ART.7 DEL DEC. LSG. NR. 286 DEL 25/07/1998 - ACCOGLIMENTO PARZIALE DEL RICORSO ED APPLICAZIONE DEL MINIMO EDITTALE DELLA SANZIONE </description>
 			<a10:updated>2017-09-15T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3507484</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3507484</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 14 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 29 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3507484</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>LIQUIDAZIONE LAVORO STRAORDINARIO EFFETTUATO DAL PERSONALE DIPENDENTE NEL MESE DI LUGLIO 2017 </title>
-			<description>LIQUIDAZIONE LAVORO STRAORDINARIO EFFETTUATO DAL PERSONALE DIPENDENTE NEL MESE DI LUGLIO 2017 </description>
-			<a10:updated>2017-09-14T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>

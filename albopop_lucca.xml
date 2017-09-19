@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 19 Sep 2017 08:34:20 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 19 Sep 2017 09:34:40 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Tue, 19 Sep 2017 08:34:20 +0200</pubDate>
+		<pubDate>Tue, 19 Sep 2017 09:34:40 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3512904</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3512904</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 19 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 04 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3512904</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>PROGETTO ASSUNZIONALE EX ART. 208 DEL D. LGS. 30.04.1992, N. 285 (CODICE DELLA STRADA) – ASSUNZIONE A TEMPO DETERMINATO DI N. 1 “COORDINATORE PER L'ESPLETAMENTO DI ATTIVITA' IN MATERIA DI POLIZIA MUNICIPALE” (CAT. C1) (FAMIGLIA 10) </title>
+			<description>PROGETTO ASSUNZIONALE EX ART. 208 DEL D. LGS. 30.04.1992, N. 285 (CODICE DELLA STRADA) – ASSUNZIONE A TEMPO DETERMINATO DI N. 1 “COORDINATORE PER L'ESPLETAMENTO DI ATTIVITA' IN MATERIA DI POLIZIA MUNICIPALE” (CAT. C1) (FAMIGLIA 10) </description>
+			<a10:updated>2017-09-19T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3512179</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3512179</link>
@@ -284,17 +295,6 @@
 			<title>MERCATO PORTONE DEI BORGHI - MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE ED ALLA SOSTA IN VIA MICHELE ROSI E VIA SAN LEONARDO IN OCCASIONE DELLO SVOLGIMENTO DEL MERCATO DENOMINATO PORTONE DEI BORGHI. 17 SETTEMBRE 2017 DALLE ORE 07:00 ALLE ORE 21:00. </title>
 			<description>MERCATO PORTONE DEI BORGHI - MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE ED ALLA SOSTA IN VIA MICHELE ROSI E VIA SAN LEONARDO IN OCCASIONE DELLO SVOLGIMENTO DEL MERCATO DENOMINATO PORTONE DEI BORGHI. 17 SETTEMBRE 2017 DALLE ORE 07:00 ALLE ORE 21:00. </description>
 			<a10:updated>2017-09-15T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3504788</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3504788</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 13 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 28 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3504788</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>APPROVAZIONE DELL' ELENCO DEI BENEFICIARI PER LA CONCESSIONE DI ASSEGNI DI MATERNITA’ E NUCLEI FAMILIARI NUMEROSI AI SENSI DELLA LEGGE 144 DEL 17 MAGGIO 1999 E SUCCESSIVE MODIFICHE ED INTEGRAZIONI - 9° INTERVENTO ANNO 2017. </title>
-			<description>APPROVAZIONE DELL' ELENCO DEI BENEFICIARI PER LA CONCESSIONE DI ASSEGNI DI MATERNITA’ E NUCLEI FAMILIARI NUMEROSI AI SENSI DELLA LEGGE 144 DEL 17 MAGGIO 1999 E SUCCESSIVE MODIFICHE ED INTEGRAZIONI - 9° INTERVENTO ANNO 2017. </description>
-			<a10:updated>2017-09-13T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
