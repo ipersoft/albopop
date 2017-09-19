@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 19 Sep 2017 17:32:39 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 19 Sep 2017 18:31:31 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Tue, 19 Sep 2017 17:32:39 +0200</pubDate>
+		<pubDate>Tue, 19 Sep 2017 18:31:31 +0200</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2959130</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2959130</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 19 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 04 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2959130</category>
+			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
+			<title>LIQUIDAZIONE FATTURA TRENITALIA S.P.A. PER FORNITURA TITOLI DI VIAGGIO - 18 MAGGIO 2017. CIG. Z841EAA62C </title>
+			<description>LIQUIDAZIONE FATTURA TRENITALIA S.P.A. PER FORNITURA TITOLI DI VIAGGIO - 18 MAGGIO 2017. CIG. Z841EAA62C </description>
+			<a10:updated>2017-09-19T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2959117</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2959117</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 19 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 04 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2959117</category>
+			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
+			<title>FORNITURA LIBRI DI TESTO PER LE SCUOLE ELEMENTARI - ANNO SCOLASTICO 2017/2018 - LIQUIDAZIONE FATTURE DELLA DITTA IL TRIANGOLO S.R.L. - CASORIA (NA). CIG: Z5C1FD5AC9 </title>
+			<description>FORNITURA LIBRI DI TESTO PER LE SCUOLE ELEMENTARI - ANNO SCOLASTICO 2017/2018 - LIQUIDAZIONE FATTURE DELLA DITTA IL TRIANGOLO S.R.L. - CASORIA (NA). CIG: Z5C1FD5AC9 </description>
+			<a10:updated>2017-09-19T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2959035</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2959035</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>RIMBORSO ECCEDENZA CANONE VERSATO </title>
 			<description>RIMBORSO ECCEDENZA CANONE VERSATO </description>
-			<a10:updated>2017-09-18T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2957339</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2957339</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 18 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 03 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2957339</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>LIQUIDAZIONE SALARIO ACCESSORIO AGOSTO 2017 - V SETTORE POLIZIA MUNICIPALE </title>
-			<description>LIQUIDAZIONE SALARIO ACCESSORIO AGOSTO 2017 - V SETTORE POLIZIA MUNICIPALE </description>
-			<a10:updated>2017-09-18T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2957334</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2957334</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 18 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 03 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2957334</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>DEMOLIZIONE D' UFFICIO DI OPERE EDILI ABUSIVE IN VIA PROV. ANACAPRI N.19 - PROPRIETA' SIGG.RI ANNALISA FIORE / DE PAOLA VINCENZO - ACQUISIZIONE PROGETTO DI LIVELLO DEFINITIVO / ESECUTIVO DEGLI INTERVENTI - CONFERIMENTO INCARICO ESTERNO - ARCH. VINCENZO FORTUNATO DI CARDITO </title>
-			<description>DEMOLIZIONE D' UFFICIO DI OPERE EDILI ABUSIVE IN VIA PROV. ANACAPRI N.19 - PROPRIETA' SIGG.RI ANNALISA FIORE / DE PAOLA VINCENZO - ACQUISIZIONE PROGETTO DI LIVELLO DEFINITIVO / ESECUTIVO DEGLI INTERVENTI - CONFERIMENTO INCARICO ESTERNO - ARCH. VINCENZO FORTUNATO DI CARDITO </description>
 			<a10:updated>2017-09-18T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
