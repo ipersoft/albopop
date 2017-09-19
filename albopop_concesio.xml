@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 19 Sep 2017 09:31:17 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 19 Sep 2017 14:30:35 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Tue, 19 Sep 2017 09:31:17 +0200</pubDate>
+		<pubDate>Tue, 19 Sep 2017 14:30:35 +0200</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3514524</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3514524</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 19 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 04 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3514524</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI RILASCIO PERMESSO DI COSTRUIRE</category>
+			<title>RILASCIO P.D.C. N. 114/2017 AL SIG. MONTAGNA MANUEL </title>
+			<description>RILASCIO P.D.C. N. 114/2017 AL SIG. MONTAGNA MANUEL </description>
+			<a10:updated>2017-09-19T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3512981</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3512981</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERA DI GIUNTA</category>
 			<title>PRESENTAZIONE DOCUMENTAZIONE PER LA REVISIONE STRAORDINARIA DELLE PARTECIPAZIONI DEL COMUNE IN SOCIETA', DA SOTTOPORRE ALL'APPROVAZIONE DEL CONSIGLIO COMUNALE. </title>
 			<description>PRESENTAZIONE DOCUMENTAZIONE PER LA REVISIONE STRAORDINARIA DELLE PARTECIPAZIONI DEL COMUNE IN SOCIETA', DA SOTTOPORRE ALL'APPROVAZIONE DEL CONSIGLIO COMUNALE. </description>
-			<a10:updated>2017-09-15T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3508998</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3508998</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 15 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 30 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3508998</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERA DI GIUNTA</category>
-			<title>INDIRIZZI IN MERITO ALLA PARTECIPAZIONE DEL COMUNE DI CONCESIO ALLA REALIZZAZIONE DELL'INTERVENTO DI RIQUALIFICAZIONE DEL COMPLESSO DI SAN VELGIO </title>
-			<description>INDIRIZZI IN MERITO ALLA PARTECIPAZIONE DEL COMUNE DI CONCESIO ALLA REALIZZAZIONE DELL'INTERVENTO DI RIQUALIFICAZIONE DEL COMPLESSO DI SAN VELGIO </description>
 			<a10:updated>2017-09-15T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
