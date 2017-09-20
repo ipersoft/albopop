@@ -5,7 +5,7 @@
 		<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Canosa di Puglia</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 20 Sep 2017 16:31:18 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 20 Sep 2017 17:30:55 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Canosa di Puglia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Barletta-Andria-Trani</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Canosa di Puglia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_canosadipuglia</a10:id>
-		<pubDate>Wed, 20 Sep 2017 16:31:18 +0200</pubDate>
+		<pubDate>Wed, 20 Sep 2017 17:30:55 +0200</pubDate>
 		<docs>http://albopop.it/comune/canosadipuglia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3517199</guid>
+			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3517199</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 22 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3517199</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONVOCAZIONI CONVOCAZIONE CONSIGLIO COMUNALE</category>
+			<title>CONVOCAZIONE CONSIGLIO COMUNALE PER VENERDÌ 22 SETTEMBRE 2017, ALLE ORE 19,30. </title>
+			<description>CONVOCAZIONE CONSIGLIO COMUNALE PER VENERDÌ 22 SETTEMBRE 2017, ALLE ORE 19,30. </description>
+			<a10:updated>2017-09-20T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3516393</guid>
 			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3516393</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DI GIUNTA</category>
 			<title>Approvazione schema di accordo per l'utilizzo graduatoria concorsuale da parte del Comune di Acquaviva delle Fonti per assunzione di un Dirigente Tecnico. </title>
 			<description>Approvazione schema di accordo per l'utilizzo graduatoria concorsuale da parte del Comune di Acquaviva delle Fonti per assunzione di un Dirigente Tecnico. </description>
-			<a10:updated>2017-09-15T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3510063</guid>
-			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3510063</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 15 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 30 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3510063</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DI GIUNTA</category>
-			<title>BILANCIO CONSOLIDATO 2016. APPROVAZIONE ELENCHI DI ENTI, AZIENDE E SOCIETA' CHE COMPONGONO IL GRUPPO DI AMMINISTRAZIONE PUBBLICA ED IL GRUPPO COMPRESO NEL PERIMETRO DI CONSOLIDAMENTO 2016. </title>
-			<description>BILANCIO CONSOLIDATO 2016. APPROVAZIONE ELENCHI DI ENTI, AZIENDE E SOCIETA' CHE COMPONGONO IL GRUPPO DI AMMINISTRAZIONE PUBBLICA ED IL GRUPPO COMPRESO NEL PERIMETRO DI CONSOLIDAMENTO 2016. </description>
 			<a10:updated>2017-09-15T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
