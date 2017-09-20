@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 19 Sep 2017 18:31:27 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 20 Sep 2017 08:31:51 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Tue, 19 Sep 2017 18:31:27 +0200</pubDate>
+		<pubDate>Wed, 20 Sep 2017 08:31:51 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3515313</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3515313</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 19 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 04 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3515313</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>AVVISO DI MOBILITA’ VOLONTARIA PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO/INDETERMINATO DI CATEGORIA B, POSIZIONE GIURIDICA B3, PROFILO DI COLLABORATORE DI FASCIA A PER L’ESPLETAMENTO DI ATTIVITA’ IN MATERIA AMMINISTRATIVA/CONTABILE, AI SENSI DELL’ART. 30 DEL D. LGS. N. 165/2001 (CONTENUTO DELL'ATTO: AVVISO DI SELEZIONE - FAMIGLIA 10). </title>
+			<description>AVVISO DI MOBILITA’ VOLONTARIA PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO/INDETERMINATO DI CATEGORIA B, POSIZIONE GIURIDICA B3, PROFILO DI COLLABORATORE DI FASCIA A PER L’ESPLETAMENTO DI ATTIVITA’ IN MATERIA AMMINISTRATIVA/CONTABILE, AI SENSI DELL’ART. 30 DEL D. LGS. N. 165/2001 (CONTENUTO DELL'ATTO: AVVISO DI SELEZIONE - FAMIGLIA 10). </description>
+			<a10:updated>2017-09-19T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3515103</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3515103</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 28 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3515103</category>
+			<category domain="http://albopop.it/specs#item-category-type">NOTIFICHE</category>
+			<title>ARTICOLO 60, COMMA E) DPR 600/1973- PALADINI ANTONIO- NOTIFICA ATTO </title>
+			<description>ARTICOLO 60, COMMA E) DPR 600/1973- PALADINI ANTONIO- NOTIFICA ATTO </description>
+			<a10:updated>2017-09-20T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3515030</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3515030</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 21 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3515030</category>
+			<category domain="http://albopop.it/specs#item-category-type">DEPOSITO ATTI CASA COMUNALE</category>
+			<title>AGENZIA DELLE ENTRATE - RISCOSSIONE - RICHIESTA DI DEPOSITO E PUBBLICAZIONE ALL`ALBO DAL 20/09/2017 AL 20/09/2017 DELL`ELENCO: 3664-5-20170919-LUCCA </title>
+			<description>AGENZIA DELLE ENTRATE - RISCOSSIONE - RICHIESTA DI DEPOSITO E PUBBLICAZIONE ALL`ALBO DAL 20/09/2017 AL 20/09/2017 DELL`ELENCO: 3664-5-20170919-LUCCA </description>
+			<a10:updated>2017-09-20T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3514674</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3514674</link>
@@ -31,6 +64,50 @@
 			<title>CONVOCAZIONE COMMISSIONE CONSILIARE DI INDIRIZZO E CONTROLLO SUGLI ENTI, AZIENDE ED ISTITUZIONI PARTECIPATE </title>
 			<description>CONVOCAZIONE COMMISSIONE CONSILIARE DI INDIRIZZO E CONTROLLO SUGLI ENTI, AZIENDE ED ISTITUZIONI PARTECIPATE </description>
 			<a10:updated>2017-09-19T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3514623</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3514623</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 21 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3514623</category>
+			<category domain="http://albopop.it/specs#item-category-type">DEPOSITO ATTI CASA COMUNALE</category>
+			<title>AGENZIA DELLE ENTRATE - RISCOSSIONE - RICHIESTA DI DEPOSITO E PUBBLICAZIONE ALL`ALBO DAL 20/09/2017 AL 20/09/2017 DELL`ELENCO: 3664-2-20170919-LUCCA </title>
+			<description>AGENZIA DELLE ENTRATE - RISCOSSIONE - RICHIESTA DI DEPOSITO E PUBBLICAZIONE ALL`ALBO DAL 20/09/2017 AL 20/09/2017 DELL`ELENCO: 3664-2-20170919-LUCCA </description>
+			<a10:updated>2017-09-20T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3514562</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3514562</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 22 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3514562</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI E BANDI VARI</category>
+			<title>SO.FI.R. SRL - IVG DI LUCCA - BOLLETTINO ASTA GIUDIZIARIA DEL 22 09 2017:AVVISO </title>
+			<description>SO.FI.R. SRL - IVG DI LUCCA - BOLLETTINO ASTA GIUDIZIARIA DEL 22 09 2017:AVVISO </description>
+			<a10:updated>2017-09-20T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3514561</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3514561</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 21 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3514561</category>
+			<category domain="http://albopop.it/specs#item-category-type">DEPOSITO ATTI CASA COMUNALE</category>
+			<title>AGENZIA DELLE ENTRATE - RISCOSSIONE - RICHIESTA DI DEPOSITO E PUBBLICAZIONE ALL`ALBO DAL 20/09/2017 AL 20/09/2017 DELL`ELENCO: 3664-4-20170919-LUCCA </title>
+			<description>AGENZIA DELLE ENTRATE - RISCOSSIONE - RICHIESTA DI DEPOSITO E PUBBLICAZIONE ALL`ALBO DAL 20/09/2017 AL 20/09/2017 DELL`ELENCO: 3664-4-20170919-LUCCA </description>
+			<a10:updated>2017-09-20T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3514560</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3514560</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 21 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3514560</category>
+			<category domain="http://albopop.it/specs#item-category-type">DEPOSITO ATTI CASA COMUNALE</category>
+			<title>AGENZIA DELLE ENTRATE - RISCOSSIONE - RICHIESTA DI DEPOSITO E PUBBLICAZIONE ALL`ALBO DAL 20/09/2017 AL 20/09/2017 DELL`ELENCO: 3664-1-20170919-LUCCA </title>
+			<description>AGENZIA DELLE ENTRATE - RISCOSSIONE - RICHIESTA DI DEPOSITO E PUBBLICAZIONE ALL`ALBO DAL 20/09/2017 AL 20/09/2017 DELL`ELENCO: 3664-1-20170919-LUCCA </description>
+			<a10:updated>2017-09-20T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3514291</guid>
@@ -218,83 +295,6 @@
 			<title>VELOCIPEDE MARCA GRAZIELLA COLORE NERO RIMOSSO IN PIAZZA SAN FREDIANO ORDINANZA 1477/2017 VERBALE AFFIDAMENTO N.16003/2017/A DEL 13.9.2017 E DPR 189/2001 </title>
 			<description>VELOCIPEDE MARCA GRAZIELLA COLORE NERO RIMOSSO IN PIAZZA SAN FREDIANO ORDINANZA 1477/2017 VERBALE AFFIDAMENTO N.16003/2017/A DEL 13.9.2017 E DPR 189/2001 </description>
 			<a10:updated>2017-09-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3513207</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3513207</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 19 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 04 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3513207</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>BRETELLINA DI COLLEGAMENTO TRA S. DONATO E VIALE EUROPA, PER MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE STRADALE, PER I GIORNI 20 E 21 SETTEMBRE 2017 DALLE ORE 8,30 ALLE ORE 18,00. </title>
-			<description>BRETELLINA DI COLLEGAMENTO TRA S. DONATO E VIALE EUROPA, PER MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE STRADALE, PER I GIORNI 20 E 21 SETTEMBRE 2017 DALLE ORE 8,30 ALLE ORE 18,00. </description>
-			<a10:updated>2017-09-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3512904</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3512904</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 19 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 04 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3512904</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>PROGETTO ASSUNZIONALE EX ART. 208 DEL D. LGS. 30.04.1992, N. 285 (CODICE DELLA STRADA) – ASSUNZIONE A TEMPO DETERMINATO DI N. 1 “COORDINATORE PER L'ESPLETAMENTO DI ATTIVITA' IN MATERIA DI POLIZIA MUNICIPALE” (CAT. C1) (FAMIGLIA 10) </title>
-			<description>PROGETTO ASSUNZIONALE EX ART. 208 DEL D. LGS. 30.04.1992, N. 285 (CODICE DELLA STRADA) – ASSUNZIONE A TEMPO DETERMINATO DI N. 1 “COORDINATORE PER L'ESPLETAMENTO DI ATTIVITA' IN MATERIA DI POLIZIA MUNICIPALE” (CAT. C1) (FAMIGLIA 10) </description>
-			<a10:updated>2017-09-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3512179</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3512179</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 18 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 03 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3512179</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>VIA DEL TORO, CENTRO STORICO, MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE STRADALE, PER IL 22/09/2017 DALLE ORE 09,00 ALLE ORE 12,00. </title>
-			<description>VIA DEL TORO, CENTRO STORICO, MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE STRADALE, PER IL 22/09/2017 DALLE ORE 09,00 ALLE ORE 12,00. </description>
-			<a10:updated>2017-09-18T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3512177</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3512177</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 18 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 03 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3512177</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>VIA DEI CARROZZIERI, CENTRO STORICO, MODIFICHE TEMPORANEE ALLA SOSTA ED ALLA CIRCOLAZIONE STRADALE,PER IL 21/09/2017 DALLE ORE 8,00 ALLE ORE 17,00. </title>
-			<description>VIA DEI CARROZZIERI, CENTRO STORICO, MODIFICHE TEMPORANEE ALLA SOSTA ED ALLA CIRCOLAZIONE STRADALE,PER IL 21/09/2017 DALLE ORE 8,00 ALLE ORE 17,00. </description>
-			<a10:updated>2017-09-18T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3512117</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3512117</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 18 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 03 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3512117</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>PROROGA ORDINANZA N. 1398 DEL 24/08/2017, VIA S.GIUSTINA, CENTRO STORICO, MODIFICHE TEMPORANEE ALLA SOSTA, FINO AL 07/10/2016. </title>
-			<description>PROROGA ORDINANZA N. 1398 DEL 24/08/2017, VIA S.GIUSTINA, CENTRO STORICO, MODIFICHE TEMPORANEE ALLA SOSTA, FINO AL 07/10/2016. </description>
-			<a10:updated>2017-09-18T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3511662</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3511662</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 18 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 03 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3511662</category>
-			<category domain="http://albopop.it/specs#item-category-type">DECRETI</category>
-			<title>NOMINA MEMBRO CDA AZIENDA PUBBLICA ALLA PERSONA "CARLO DEL PRETE" - ALESSANDRO LAZZARI </title>
-			<description>NOMINA MEMBRO CDA AZIENDA PUBBLICA ALLA PERSONA "CARLO DEL PRETE" - ALESSANDRO LAZZARI </description>
-			<a10:updated>2017-09-18T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3511518</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3511518</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 18 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 26 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3511518</category>
-			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO</category>
-			<title>PUBBLICAZIONI ANNO 2017 N. 294 BALDE' MOUSSA DELLI FRANCESCA GIULIA </title>
-			<description>PUBBLICAZIONI ANNO 2017 N. 294 BALDE' MOUSSA DELLI FRANCESCA GIULIA </description>
-			<a10:updated>2017-09-18T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
