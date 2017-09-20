@@ -5,7 +5,7 @@
 		<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Belpasso</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 20 Sep 2017 13:31:01 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 20 Sep 2017 14:30:49 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Belpasso</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Belpasso</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_belpasso</a10:id>
-		<pubDate>Wed, 20 Sep 2017 13:31:01 +0200</pubDate>
+		<pubDate>Wed, 20 Sep 2017 14:30:49 +0200</pubDate>
 		<docs>http://albopop.it/comune/belpasso/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3516680</guid>
+			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3516680</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 27 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3516680</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONSIGLIO COMUNALE CONVOCAZIONE CONSIGLIO COMUNALE</category>
+			<title>CONVOCAZIONE CONSIGLIO COMUNALE ORDINARIO IN DATA 26 SETTEMBRE 2017 ORE 20,30 IN SEDUTA ORDINARIA </title>
+			<description>CONVOCAZIONE CONSIGLIO COMUNALE ORDINARIO IN DATA 26 SETTEMBRE 2017 ORE 20,30 IN SEDUTA ORDINARIA </description>
+			<a10:updated>2017-09-20T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3514153</guid>
 			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3514153</link>
@@ -284,17 +295,6 @@
 			<title>PUBBLICAZIONE DI MATRIMONIO - VERBALE N.92 </title>
 			<description>PUBBLICAZIONE DI MATRIMONIO - VERBALE N.92 </description>
 			<a10:updated>2017-09-18T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3509117</guid>
-			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3509117</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 15 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 30 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3509117</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZA P.M. ORDINANZA DI POLIZIA MUNICIPALE</category>
-			<title>CHIUSURA TEMPORANEA TRATTO DI VIA BELLINI PER MANIFESTAZIONE RELIGIOSA </title>
-			<description>CHIUSURA TEMPORANEA TRATTO DI VIA BELLINI PER MANIFESTAZIONE RELIGIOSA </description>
-			<a10:updated>2017-09-15T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
