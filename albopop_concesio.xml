@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 20 Sep 2017 09:30:37 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 20 Sep 2017 10:30:44 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Wed, 20 Sep 2017 09:30:37 +0200</pubDate>
+		<pubDate>Wed, 20 Sep 2017 10:30:44 +0200</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3515718</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3515718</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 28 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3515718</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI AVVISO DI DEPOSITO - EQUITALIA 8 GG</category>
+			<title>AVVISO DI DEPOSITO ATTI NELLA CASA COMUNALE E ATTESTAZIONE DI AFFISSIONE DAL 20/09/2017 AL 28/09/2017 A CARICO DI VEDI ELNECO ALLEGATI </title>
+			<description>AVVISO DI DEPOSITO ATTI NELLA CASA COMUNALE E ATTESTAZIONE DI AFFISSIONE DAL 20/09/2017 AL 28/09/2017 A CARICO DI VEDI ELNECO ALLEGATI </description>
+			<a10:updated>2017-09-20T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3514559</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3514559</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>ASSUNZIONE IMPEGNO DI SPESA PER INTEGRAZIONE RETTA PER IL SERVIZIO 01 ED EROGAZIONE CONTRIBUTO PER IL SERVIZIO 02, A FAVORE DELL'OSPITE DELL'AZIENDA SPECIALE DI CONCESIO, UTENTE MATRICOLA 039.933.04 </title>
 			<description>ASSUNZIONE IMPEGNO DI SPESA PER INTEGRAZIONE RETTA PER IL SERVIZIO 01 ED EROGAZIONE CONTRIBUTO PER IL SERVIZIO 02, A FAVORE DELL'OSPITE DELL'AZIENDA SPECIALE DI CONCESIO, UTENTE MATRICOLA 039.933.04 </description>
-			<a10:updated>2017-09-18T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3510855</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3510855</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 18 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 03 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3510855</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>INTEGRAZIONE IMPEGNO DI SPESA N. 57462 PER IL SERVIZIO DI ASSISTENZA AD PERSONAM - PER L'ANNO SCOLASTICO 2016/2017 - PER GLI ALUNNI DIVERSAMENTE ABILI RESIDENTI A CONCESIO CIG 5198297A61 </title>
-			<description>INTEGRAZIONE IMPEGNO DI SPESA N. 57462 PER IL SERVIZIO DI ASSISTENZA AD PERSONAM - PER L'ANNO SCOLASTICO 2016/2017 - PER GLI ALUNNI DIVERSAMENTE ABILI RESIDENTI A CONCESIO CIG 5198297A61 </description>
 			<a10:updated>2017-09-18T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
