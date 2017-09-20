@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 20 Sep 2017 17:30:35 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 20 Sep 2017 18:30:39 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Wed, 20 Sep 2017 17:30:35 +0200</pubDate>
+		<pubDate>Wed, 20 Sep 2017 18:30:39 +0200</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3517242</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3517242</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 26 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3517242</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI AVVISO</category>
+			<title>ACB BANDI COMUNE DI BARBARIGA SCADENZA 23/10/2017 </title>
+			<description>ACB BANDI COMUNE DI BARBARIGA SCADENZA 23/10/2017 </description>
+			<a10:updated>2017-09-20T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3517241</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3517241</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 23 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3517241</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI AVVISO</category>
+			<title>ACB BANDI COMUNE DI BARBARIGA SCADENZA 23/10/2017 </title>
+			<description>ACB BANDI COMUNE DI BARBARIGA SCADENZA 23/10/2017 </description>
+			<a10:updated>2017-09-20T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3517188</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3517188</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>AFFIDAMENTO DELL' INCARICO DI CONSULENZA ED ASSISTENZA FISCALE PER IL PERIODO 01/01/2017- 31/12/2019 ALLO STUDIO DEL DOTT. MARCO NOCIVELLI. </title>
 			<description>AFFIDAMENTO DELL' INCARICO DI CONSULENZA ED ASSISTENZA FISCALE PER IL PERIODO 01/01/2017- 31/12/2019 ALLO STUDIO DEL DOTT. MARCO NOCIVELLI. </description>
-			<a10:updated>2017-09-18T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3511328</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3511328</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 18 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 03 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3511328</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>ASSUNZIONE IMPEGNO DI SPESA A FAVORE DELLA FONDAZIONE DELLA COMUNITA' BRESCIANA ONLUS PER LA REALIZZAZIONE DI PROGETTI SOCIALI, CULTURALI O AMBIENTALI DA REALIZZARSI NEL TERRITORIO NELL'AMBITO DEL "FONDO GENESI PER LA VALLE TROMPIA E LA VALLE DEL GOBBIA". </title>
-			<description>ASSUNZIONE IMPEGNO DI SPESA A FAVORE DELLA FONDAZIONE DELLA COMUNITA' BRESCIANA ONLUS PER LA REALIZZAZIONE DI PROGETTI SOCIALI, CULTURALI O AMBIENTALI DA REALIZZARSI NEL TERRITORIO NELL'AMBITO DEL "FONDO GENESI PER LA VALLE TROMPIA E LA VALLE DEL GOBBIA". </description>
-			<a10:updated>2017-09-18T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3511326</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3511326</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 18 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 03 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3511326</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>ASSUNZIONE IMPEGNO DI SPESA A FAVORE DELLA COMPAGNIA TEATRALE "I RONCAI' DE SAN VIGILIO" PER LA PROGETTAZIONE E REALIZZAZIONE DI SPETTACOLI TEATRALI DIALETTALI PER LA PROMOZIONE DELLA CULTURA LOCALE. </title>
-			<description>ASSUNZIONE IMPEGNO DI SPESA A FAVORE DELLA COMPAGNIA TEATRALE "I RONCAI' DE SAN VIGILIO" PER LA PROGETTAZIONE E REALIZZAZIONE DI SPETTACOLI TEATRALI DIALETTALI PER LA PROMOZIONE DELLA CULTURA LOCALE. </description>
 			<a10:updated>2017-09-18T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
