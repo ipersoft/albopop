@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 21 Sep 2017 10:31:51 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 21 Sep 2017 11:32:49 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Thu, 21 Sep 2017 10:31:51 +0200</pubDate>
+		<pubDate>Thu, 21 Sep 2017 11:32:49 +0200</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2961510</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2961510</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 21 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 06 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2961510</category>
+			<category domain="http://albopop.it/specs#item-category-type">GARE,BANDI,CONCORSI GARE, BANDI,CONCORSI</category>
+			<title>DETERMINAZIONE CUC - PROJECT FINANCING PER LA REALIZZAZIONE E GESTIONE PER ANNI 25 DEL SERVIZIO ASILO NIDO COMUNALE IN LOCALITA' S. COSTANZO - CIG 702252422 - AGGIUDICAZIONE DELL’ APPALTO IN FAVORE DELLA DITTA PRISMA COOPERATIVA SOCIALE PER AZIONI ONLUS </title>
+			<description>DETERMINAZIONE CUC - PROJECT FINANCING PER LA REALIZZAZIONE E GESTIONE PER ANNI 25 DEL SERVIZIO ASILO NIDO COMUNALE IN LOCALITA' S. COSTANZO - CIG 702252422 - AGGIUDICAZIONE DELL’ APPALTO IN FAVORE DELLA DITTA PRISMA COOPERATIVA SOCIALE PER AZIONI ONLUS </description>
+			<a10:updated>2017-09-21T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2961367</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2961367</link>
@@ -284,17 +295,6 @@
 			<title>ORDINANZA INGIUNZIONE </title>
 			<description>ORDINANZA INGIUNZIONE </description>
 			<a10:updated>2017-09-21T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2960338</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2960338</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 05 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2960338</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>LAVORI DI SOMMA URGENZA PER LA MESSA IN SICUREZZA ED IL RIPRISTINO DELLA VIABILITA' NEL TERZO TORNANTE DI VIA CASTIGLIONE, A SEGUITO DELLO SMOTTAMENTO DI PIETRAME E DETRITI SULLA STRADA. </title>
-			<description>LAVORI DI SOMMA URGENZA PER LA MESSA IN SICUREZZA ED IL RIPRISTINO DELLA VIABILITA' NEL TERZO TORNANTE DI VIA CASTIGLIONE, A SEGUITO DELLO SMOTTAMENTO DI PIETRAME E DETRITI SULLA STRADA. </description>
-			<a10:updated>2017-09-20T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
