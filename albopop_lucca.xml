@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 21 Sep 2017 11:32:41 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 21 Sep 2017 12:31:06 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Thu, 21 Sep 2017 11:32:41 +0200</pubDate>
+		<pubDate>Thu, 21 Sep 2017 12:31:06 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3518407</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3518407</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 21 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 06 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3518407</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>DIVIETO DI VENDITA, PER ASPORTO, DI ALIMENTI E BEVANDE IN CONTENITORI RIGIDI E DI BEVANDE AVENTI CONTENUTO ALCOLICO SUPERIORE AL 5% IN OCCASIONE DELLA MANIFESTAZIONE "SUMMER FESTIVAL CONCERTO ROLLING STONES" DEL 23/09/2017 </title>
+			<description>DIVIETO DI VENDITA, PER ASPORTO, DI ALIMENTI E BEVANDE IN CONTENITORI RIGIDI E DI BEVANDE AVENTI CONTENUTO ALCOLICO SUPERIORE AL 5% IN OCCASIONE DELLA MANIFESTAZIONE "SUMMER FESTIVAL CONCERTO ROLLING STONES" DEL 23/09/2017 </description>
+			<a10:updated>2017-09-21T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3518336</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3518336</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 21 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 06 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3518336</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONVOCAZIONI</category>
+			<title>CONVOCAZIONE COMMISSIONE POLITICHE SOCIALI, ABITATIVE E DELLA SALUTE PER MERCOLEDÌ 27-09-2017 ORE 8.30 </title>
+			<description>CONVOCAZIONE COMMISSIONE POLITICHE SOCIALI, ABITATIVE E DELLA SALUTE PER MERCOLEDÌ 27-09-2017 ORE 8.30 </description>
+			<a10:updated>2017-09-21T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3517935</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3517935</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>NP SERVICE/COMUNE DI LUCCA – TRIBUNALE DI LUCCA. PAGAMENTO IMPOSTA DI REGISTRO SENTENZA N. 1432/2016 – IMPEGNO DI SPESA E LIQUIDAZIONE. CONTENUTO: PAGAMENTO IMPOSTA-(FAMIGLIA 11 “ALTRO”) </title>
 			<description>NP SERVICE/COMUNE DI LUCCA – TRIBUNALE DI LUCCA. PAGAMENTO IMPOSTA DI REGISTRO SENTENZA N. 1432/2016 – IMPEGNO DI SPESA E LIQUIDAZIONE. CONTENUTO: PAGAMENTO IMPOSTA-(FAMIGLIA 11 “ALTRO”) </description>
-			<a10:updated>2017-09-20T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3515489</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3515489</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 05 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3515489</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>PERCORSO FORMATIVO "LA DISCIPLINA DEL TERRITORIO RURALE" – AUTORIZZAZIONE ALLA PARTECIPAZIONE. CIG ZB21FD6E0B. (FAMIGLIA 10). </title>
-			<description>PERCORSO FORMATIVO "LA DISCIPLINA DEL TERRITORIO RURALE" – AUTORIZZAZIONE ALLA PARTECIPAZIONE. CIG ZB21FD6E0B. (FAMIGLIA 10). </description>
-			<a10:updated>2017-09-20T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3515486</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3515486</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 05 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3515486</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>REALIZZAZIONE DI NUOVA ROTATORIA TRA VIALE GIUSTI E VIA DEI MACELLI - ACQUISTO AREE A TRATTATIVA BONARIA (COD. FAMIGLIA: 11) </title>
-			<description>REALIZZAZIONE DI NUOVA ROTATORIA TRA VIALE GIUSTI E VIA DEI MACELLI - ACQUISTO AREE A TRATTATIVA BONARIA (COD. FAMIGLIA: 11) </description>
 			<a10:updated>2017-09-20T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
