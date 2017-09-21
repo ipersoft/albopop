@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 21 Sep 2017 13:30:45 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 21 Sep 2017 14:30:50 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Thu, 21 Sep 2017 13:30:45 +0200</pubDate>
+		<pubDate>Thu, 21 Sep 2017 14:30:50 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/728711</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/728711</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 21 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 06 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">728711</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>LAVORI DI STRAORDINARIA MANUTENZIONE PER LA MESSA IN SICUREZZA URGENTE DELLE PARETI E DEI TORNANTI DELLA STRADA DELLA MARINA IN LOCALITA’ FIORENZUOLA DI FOCARA. AFFIDAMENTO LAVORI DI COMPLETAMENTO. ASSUNZIONE IMPEGNO DI SPESA EURO 5.501,38. </title>
+			<description>LAVORI DI STRAORDINARIA MANUTENZIONE PER LA MESSA IN SICUREZZA URGENTE DELLE PARETI E DEI TORNANTI DELLA STRADA DELLA MARINA IN LOCALITA’ FIORENZUOLA DI FOCARA. AFFIDAMENTO LAVORI DI COMPLETAMENTO. ASSUNZIONE IMPEGNO DI SPESA EURO 5.501,38. </description>
+			<a10:updated>2017-09-21T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/728679</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/728679</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>DITTA ONE TEAM S.R.L.: FORNITURA SOFTWARE PER UFFICIO TECNICO - MEPA </title>
 			<description>DITTA ONE TEAM S.R.L.: FORNITURA SOFTWARE PER UFFICIO TECNICO - MEPA </description>
-			<a10:updated>2017-09-21T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/728385</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/728385</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 21 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 06 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">728385</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALBO ATTI E AVVISI DIVERSI</category>
-			<title>REVOCA DELLE MISURE DI ACCOGLIENZA A CARICO DEL BENEFICIARIO N.K. DAL PROGETTO "TANDEM" RIENTRANTE NEL PROGRAMMA TERRITORIALE S.P.R.A.R. 2016/2017 </title>
-			<description>REVOCA DELLE MISURE DI ACCOGLIENZA A CARICO DEL BENEFICIARIO N.K. DAL PROGETTO "TANDEM" RIENTRANTE NEL PROGRAMMA TERRITORIALE S.P.R.A.R. 2016/2017 </description>
 			<a10:updated>2017-09-21T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

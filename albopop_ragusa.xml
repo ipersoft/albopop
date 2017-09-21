@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 21 Sep 2017 13:31:17 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 21 Sep 2017 14:31:22 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Thu, 21 Sep 2017 13:31:17 +0200</pubDate>
+		<pubDate>Thu, 21 Sep 2017 14:31:22 +0200</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2962172</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2962172</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 21 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 06 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2962172</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA SINDACALI</category>
+			<title>DET.SIND. N° 49/17 - REVOCA DELLA DETERMINAZIONE SINDACALE N° 5/2017, NELLA PARTE IN CUI CONFERISCE L'INCARICO INTERINALE DEL SETTORE OTTAVO "SERVIZI SOCIALI, POLITICHE PER LA FAMIGLIA, PUBBLICA ISTRUZIONE, ASILI NIDO", AL DIRIGENTE DR. ANTONIO VIRGINIA.- CONFERIMENTO INCARICO AD INTERIM DEL SETTORE OTTAVO "SERVIZI SOCIALI, POLITICHE PER LA FAMIGLIA, PUBBLICA ISTRUZIONE, ASILI NIDO", AL DIRIGENTE DR. FRANCESCO LUMIERA. </title>
+			<description>DET.SIND. N° 49/17 - REVOCA DELLA DETERMINAZIONE SINDACALE N° 5/2017, NELLA PARTE IN CUI CONFERISCE L'INCARICO INTERINALE DEL SETTORE OTTAVO "SERVIZI SOCIALI, POLITICHE PER LA FAMIGLIA, PUBBLICA ISTRUZIONE, ASILI NIDO", AL DIRIGENTE DR. ANTONIO VIRGINIA.- CONFERIMENTO INCARICO AD INTERIM DEL SETTORE OTTAVO "SERVIZI SOCIALI, POLITICHE PER LA FAMIGLIA, PUBBLICA ISTRUZIONE, ASILI NIDO", AL DIRIGENTE DR. FRANCESCO LUMIERA. </description>
+			<a10:updated>2017-09-21T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2961955</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2961955</link>
@@ -280,17 +291,6 @@
 			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Sep 2017 02:00:00 +0200</category>
 			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 10 Oct 2017 02:00:00 +0200</category>
 			<category domain="http://albopop.it/specs#item-category-uid">2959645</category>
-			<category domain="http://albopop.it/specs#item-category-type">INGIUNZIONE</category>
-			<title>PUBBLICAZIONE ART.143 C.P.C. A CARICO DI HAMPTON SAS SNC </title>
-			<description>PUBBLICAZIONE ART.143 C.P.C. A CARICO DI HAMPTON SAS SNC </description>
-			<a10:updated>2017-09-20T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2959604</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2959604</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 10 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2959604</category>
 			<category domain="http://albopop.it/specs#item-category-type">INGIUNZIONE</category>
 			<title>PUBBLICAZIONE ART.143 C.P.C. A CARICO DI HAMPTON SAS SNC </title>
 			<description>PUBBLICAZIONE ART.143 C.P.C. A CARICO DI HAMPTON SAS SNC </description>
