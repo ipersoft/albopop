@@ -5,7 +5,7 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/igrid/1233682</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Desio</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 22 Sep 2017 13:31:23 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 22 Sep 2017 14:30:38 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Desio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Desio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_desio</a10:id>
-		<pubDate>Fri, 22 Sep 2017 13:31:23 +0200</pubDate>
+		<pubDate>Fri, 22 Sep 2017 14:30:38 +0200</pubDate>
 		<docs>http://albopop.it/comune/desio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3522107</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3522107</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 22 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 07 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3522107</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>IMPEGNO DI SPESA PER LA FORNITURA DI FEDERE PER GUANCIALI TRASPIRANTI PER L’ASILO NIDO MEDIANTE RICORSO AL MEPA. EURO 324,52 I.V.A. COMPRESA. CODICE CIG ZDD1FFB830. </title>
+			<description>IMPEGNO DI SPESA PER LA FORNITURA DI FEDERE PER GUANCIALI TRASPIRANTI PER L’ASILO NIDO MEDIANTE RICORSO AL MEPA. EURO 324,52 I.V.A. COMPRESA. CODICE CIG ZDD1FFB830. </description>
+			<a10:updated>2017-09-22T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3521507</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3521507</link>
@@ -228,17 +239,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>IMPEGNO DI SPESA PER RECUPERO FRANCHIGIE UNIPOLSAI € 10.934,72 E IMPEGNO PER COSTITUZIONE FONDO SIRCUS € 10.000,00 </title>
 			<description>IMPEGNO DI SPESA PER RECUPERO FRANCHIGIE UNIPOLSAI € 10.934,72 E IMPEGNO PER COSTITUZIONE FONDO SIRCUS € 10.000,00 </description>
-			<a10:updated>2017-09-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3514987</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3514987</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 19 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 04 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3514987</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>REFERENDUM CONSULTIVO REGIONALE DELLA LOMBARDIA DEL 22 OTTOBRE 2017 - ACQUISTO DI MATERIALE DI CONSUMO VARIO PER ALLESTIMENTO POSTAZIONI DI PROPAGANDA E SEGGI ELETTOTRALI ( € 600,00 OLTRE IVA) </title>
-			<description>REFERENDUM CONSULTIVO REGIONALE DELLA LOMBARDIA DEL 22 OTTOBRE 2017 - ACQUISTO DI MATERIALE DI CONSUMO VARIO PER ALLESTIMENTO POSTAZIONI DI PROPAGANDA E SEGGI ELETTOTRALI ( € 600,00 OLTRE IVA) </description>
 			<a10:updated>2017-09-19T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
