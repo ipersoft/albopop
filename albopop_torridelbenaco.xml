@@ -5,7 +5,7 @@
 		<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Torri del Benaco</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 22 Sep 2017 10:33:46 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 22 Sep 2017 11:32:04 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Torri del Benaco</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Verona</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Torri del Benaco</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_torridelbenaco</a10:id>
-		<pubDate>Fri, 22 Sep 2017 10:33:46 +0200</pubDate>
+		<pubDate>Fri, 22 Sep 2017 11:32:04 +0200</pubDate>
 		<docs>http://albopop.it/comune/torridelbenaco/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3520855</guid>
+			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3520855</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 22 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 07 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3520855</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISO</category>
+			<title>INTERDIZIONE E CAUTA NAVIGAZIONE NELLE ACQUE DEL LAGO DI GARDA - NAVENE DI MALCESINE PER LO SVOLGIMENTO DELLE REGATE: "IV TAPPA CIRCUITO NORD ITALIA TECHNO 293" SABATO 23 E DOMENICA 24 SETTEMBRE 2017 E "INTERNATIONAL FINN CUP - CLASSE FINN" DA VENERDÌ 29 SETTEMBRE A DOMENICA 1 OTTOBRE 2017. ORGANIZZATORE FRAGLIA VELA MALCESINE. TRASMISSIONE ORDINANZA N. 376 DEL 21.09.2017. </title>
+			<description>INTERDIZIONE E CAUTA NAVIGAZIONE NELLE ACQUE DEL LAGO DI GARDA - NAVENE DI MALCESINE PER LO SVOLGIMENTO DELLE REGATE: "IV TAPPA CIRCUITO NORD ITALIA TECHNO 293" SABATO 23 E DOMENICA 24 SETTEMBRE 2017 E "INTERNATIONAL FINN CUP - CLASSE FINN" DA VENERDÌ 29 SETTEMBRE A DOMENICA 1 OTTOBRE 2017. ORGANIZZATORE FRAGLIA VELA MALCESINE. TRASMISSIONE ORDINANZA N. 376 DEL 21.09.2017. </description>
+			<a10:updated>2017-09-22T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3519672</guid>
 			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3519672</link>
@@ -284,17 +295,6 @@
 			<title>PUBBLICAZIONE NECROLOGIO SUL QUOTIDIANO L'ARENA DI VERONA DEL 14.09.2017. AFFIDAMENTO INCARICO ALLA DITTA PUBLIADIGE SRL DI VERONA. </title>
 			<description>PUBBLICAZIONE NECROLOGIO SUL QUOTIDIANO L'ARENA DI VERONA DEL 14.09.2017. AFFIDAMENTO INCARICO ALLA DITTA PUBLIADIGE SRL DI VERONA. </description>
 			<a10:updated>2017-09-15T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3506676</guid>
-			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3506676</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 14 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 29 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3506676</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>LIQUIDAZIONE SALARIO ACCESSORIO AL PERSONALE DIPENDENTE DELL'AREA VIGILANZA E TERRITORIO MESE DI SETTEMBRE 2017 </title>
-			<description>LIQUIDAZIONE SALARIO ACCESSORIO AL PERSONALE DIPENDENTE DELL'AREA VIGILANZA E TERRITORIO MESE DI SETTEMBRE 2017 </description>
-			<a10:updated>2017-09-14T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
