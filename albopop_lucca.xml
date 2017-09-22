@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 22 Sep 2017 17:30:55 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 22 Sep 2017 18:31:01 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Fri, 22 Sep 2017 17:30:55 +0200</pubDate>
+		<pubDate>Fri, 22 Sep 2017 18:31:01 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3522305</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3522305</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 22 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 07 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3522305</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>(P.T. 119/I-2016) RIFACIMENTO DEL MANTO DI COPERTURA DEL CENTRO GIOCO "LA COCCINELLA" PRESSO L'ASILO NIDO "ACQUARIO" DI S. CONCORDIO IN CONTRADA ED OPERE VARIE DI STRAORDINARIA MANUTENZIONE - APPOSIZIONE DI TARGA E PARASPIGOLI - APPROVAZIONE DEL PROGETTO E AFFIDAMENTO DEI LAVORI. CUP. J64H16000910004, CIG Z3C1FC5D0B (FAMIGLIA ATTI: 03 LLSSFF DD UNICA PER AFFIDAMENTO) </title>
+			<description>(P.T. 119/I-2016) RIFACIMENTO DEL MANTO DI COPERTURA DEL CENTRO GIOCO "LA COCCINELLA" PRESSO L'ASILO NIDO "ACQUARIO" DI S. CONCORDIO IN CONTRADA ED OPERE VARIE DI STRAORDINARIA MANUTENZIONE - APPOSIZIONE DI TARGA E PARASPIGOLI - APPROVAZIONE DEL PROGETTO E AFFIDAMENTO DEI LAVORI. CUP. J64H16000910004, CIG Z3C1FC5D0B (FAMIGLIA ATTI: 03 LLSSFF DD UNICA PER AFFIDAMENTO) </description>
+			<a10:updated>2017-09-22T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3522156</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3522156</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO</category>
 			<title>PUBBLICAZIONI ANNO 2017 N. 297 BORELLA DANIELE MASSIMO CARELLO KATIUSCIA </title>
 			<description>PUBBLICAZIONI ANNO 2017 N. 297 BORELLA DANIELE MASSIMO CARELLO KATIUSCIA </description>
-			<a10:updated>2017-09-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3520165</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3520165</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 22 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 07 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3520165</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>CONCERTO ROLLING STONES 2017: MODIFICA PARZIALE DEI PUNTI A) E B) DELL'ORDINANZA N. 1.552/2017 - E INTEGRAZIONE N. 2. </title>
-			<description>CONCERTO ROLLING STONES 2017: MODIFICA PARZIALE DEI PUNTI A) E B) DELL'ORDINANZA N. 1.552/2017 - E INTEGRAZIONE N. 2. </description>
 			<a10:updated>2017-09-22T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
