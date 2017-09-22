@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 22 Sep 2017 12:30:43 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 22 Sep 2017 13:31:27 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Fri, 22 Sep 2017 12:30:43 +0200</pubDate>
+		<pubDate>Fri, 22 Sep 2017 13:31:27 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/741076</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/741076</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 22 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 01 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">741076</category>
+			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO RICHIESTA PUBBLICAZIONE MATRIMONIO ALBO</category>
+			<title>PUBBLICAZIONE DI MATRIMONIO DI TITTI ALESSIO E HAKOBYAN LUSINE </title>
+			<description>PUBBLICAZIONE DI MATRIMONIO DI TITTI ALESSIO E HAKOBYAN LUSINE </description>
+			<a10:updated>2017-09-22T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/741052</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/741052</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 22 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 07 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">741052</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PUBBLICAZIONI RICHIESTE DA SOGGETTI ESTERNI</category>
+			<title>AUTORIZZAZIONE N° 2437 - UTILIZZO AREA VERDE PUBBLICA DI VIA SERRA PER REALIZZAZIONE NUOVO IMPIANTO DI PROTEZIONE CATODICA - MARCHE MULTISERVIZI </title>
+			<description>AUTORIZZAZIONE N° 2437 - UTILIZZO AREA VERDE PUBBLICA DI VIA SERRA PER REALIZZAZIONE NUOVO IMPIANTO DI PROTEZIONE CATODICA - MARCHE MULTISERVIZI </description>
+			<a10:updated>2017-09-22T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/741044</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/741044</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 22 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 07 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">741044</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>ASSUNZIONE DI N.4 AGENTI DI POLIZIA MUNICIPALE A TEMPO INDETERMINATO E PIENO (CATEGORIA C) E TRASFORMAZIONE RAPPORTO DI LAVORO DI DUE AGENTI DI POLIZIA MUNICIPALE DA PART-TIME 50% A TEMPO PIENO. </title>
+			<description>ASSUNZIONE DI N.4 AGENTI DI POLIZIA MUNICIPALE A TEMPO INDETERMINATO E PIENO (CATEGORIA C) E TRASFORMAZIONE RAPPORTO DI LAVORO DI DUE AGENTI DI POLIZIA MUNICIPALE DA PART-TIME 50% A TEMPO PIENO. </description>
+			<a10:updated>2017-09-22T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/741022</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/741022</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>DETERMINAZIONE RISORSE DECENTRATE DIPENDENTI PER L’ANNO 2017 </title>
 			<description>DETERMINAZIONE RISORSE DECENTRATE DIPENDENTI PER L’ANNO 2017 </description>
-			<a10:updated>2017-09-21T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/728800</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/728800</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 21 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 06 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">728800</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>ASSUNZIONE A TEMPO INDETERMINATO DI MAESTRE DI SCUOLA MATERNA (CATEGORIA C POSIZIONE ECONOMICA C1) PER LE ESIGENZE DEL SERVIZIO POLITICHE EDUCATIVE. </title>
-			<description>ASSUNZIONE A TEMPO INDETERMINATO DI MAESTRE DI SCUOLA MATERNA (CATEGORIA C POSIZIONE ECONOMICA C1) PER LE ESIGENZE DEL SERVIZIO POLITICHE EDUCATIVE. </description>
-			<a10:updated>2017-09-21T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/728797</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/728797</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 21 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 06 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">728797</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>FORNITURA DI N. 16 BLOCCHETTI DA 320 COUPON CADAUNO PER IL RITIRO IN EDICOLA DEL QUOTIDIANO "IL RESTO DEL CARLINO" DESTINATO AD AMMINISTRATORI E SERVIZI COMUNALI. </title>
-			<description>FORNITURA DI N. 16 BLOCCHETTI DA 320 COUPON CADAUNO PER IL RITIRO IN EDICOLA DEL QUOTIDIANO "IL RESTO DEL CARLINO" DESTINATO AD AMMINISTRATORI E SERVIZI COMUNALI. </description>
-			<a10:updated>2017-09-21T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/728795</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/728795</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 21 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 06 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">728795</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>SERVIZIO CULTURA - CONCESSIONE IN USO PER IL PERIODO OTTOBRE 2017 - APRILE 2018 DEI LOCALI DELLA BIBLIOTECA DEL QUARTIERE 2 PANTANO /5TORRI / S. VENERANDA ALL'ASSOCIAZIONE LUDICO-CULTURALE "PESARO IN GIOCO" CON SEDE IN VIA BORGO S.LUCIA N. 58 - CANDELARA - PESARO </title>
-			<description>SERVIZIO CULTURA - CONCESSIONE IN USO PER IL PERIODO OTTOBRE 2017 - APRILE 2018 DEI LOCALI DELLA BIBLIOTECA DEL QUARTIERE 2 PANTANO /5TORRI / S. VENERANDA ALL'ASSOCIAZIONE LUDICO-CULTURALE "PESARO IN GIOCO" CON SEDE IN VIA BORGO S.LUCIA N. 58 - CANDELARA - PESARO </description>
 			<a10:updated>2017-09-21T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

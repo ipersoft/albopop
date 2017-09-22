@@ -5,7 +5,7 @@
 		<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mascalucia</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 22 Sep 2017 12:32:05 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 22 Sep 2017 13:31:51 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mascalucia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mascalucia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mascalucia</a10:id>
-		<pubDate>Fri, 22 Sep 2017 12:32:05 +0200</pubDate>
+		<pubDate>Fri, 22 Sep 2017 13:31:51 +0200</pubDate>
 		<docs>http://albopop.it/comune/mascalucia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2963913</guid>
+			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2963913</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 22 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 29 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2963913</category>
+			<category domain="http://albopop.it/specs#item-category-type">COMMISSIONI CONSILIARI CONVOCAZIONE II COMMISSIONE CONSILIARE</category>
+			<title>CONVOCAZIONE SEDUTE SECONDA COMMISSIONE DAL 25 AL 29 SETTEMBRE 2017. </title>
+			<description>CONVOCAZIONE SEDUTE SECONDA COMMISSIONE DAL 25 AL 29 SETTEMBRE 2017. </description>
+			<a10:updated>2017-09-22T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2963827</guid>
+			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2963827</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 22 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 27 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2963827</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONSIGLIO COMUNALE CONVOCAZIONE DI CONSIGLIO</category>
+			<title>CONVOCAZIONE SEDUTA CONSIGLIO COMUNALE IN SESSIONE ORDINARIA GIORNO 27 SETTEMBRE 2017 ALLE ORE 11,00 - PUNTO AGGIUNTIVO </title>
+			<description>CONVOCAZIONE SEDUTA CONSIGLIO COMUNALE IN SESSIONE ORDINARIA GIORNO 27 SETTEMBRE 2017 ALLE ORE 11,00 - PUNTO AGGIUNTIVO </description>
+			<a10:updated>2017-09-22T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2963825</guid>
+			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2963825</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 22 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 29 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2963825</category>
+			<category domain="http://albopop.it/specs#item-category-type">COMMISSIONI CONSILIARI CONVOCAZIONE I COMMISSIONE CONSILIARE</category>
+			<title>CONVOCAZIONE SEDUTE PRIMA COMMISSIONE DAL 25 AL 29 SETTEMBRE 2017 </title>
+			<description>CONVOCAZIONE SEDUTE PRIMA COMMISSIONE DAL 25 AL 29 SETTEMBRE 2017 </description>
+			<a10:updated>2017-09-22T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2963029</guid>
 			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2963029</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
 			<title>ELEZIONI DEL PRESIDENTE DELLA REGIONE E DELL'ASSEMBLEA REGIONALE SICILIANA NELLA MEDESIMA DATA DI DOMENICA 5 NOVEMBRE 2017 - COSTITUZIONE UFFICIO ELETTORALE COMUNALE </title>
 			<description>ELEZIONI DEL PRESIDENTE DELLA REGIONE E DELL'ASSEMBLEA REGIONALE SICILIANA NELLA MEDESIMA DATA DI DOMENICA 5 NOVEMBRE 2017 - COSTITUZIONE UFFICIO ELETTORALE COMUNALE </description>
-			<a10:updated>2017-09-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2958888</guid>
-			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2958888</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 19 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 04 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2958888</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
-			<title>MANUTENZIONE STRAORDINARIA E MESSA IN SICUREZZA PATRIMONIO EDILIZIO SCOLASTICO COMUNALE – I° STRALCIO. CUP J64H17000390004. APPROVAZIONE RISULTANZE DELLA PROCEDURA NEGOZIATA INDETTA IN PIATTAFORMA MEPA. CIG Z4E1F63466 </title>
-			<description>MANUTENZIONE STRAORDINARIA E MESSA IN SICUREZZA PATRIMONIO EDILIZIO SCOLASTICO COMUNALE – I° STRALCIO. CUP J64H17000390004. APPROVAZIONE RISULTANZE DELLA PROCEDURA NEGOZIATA INDETTA IN PIATTAFORMA MEPA. CIG Z4E1F63466 </description>
-			<a10:updated>2017-09-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2958886</guid>
-			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2958886</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 19 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 04 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2958886</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
-			<title>FATTURAZIONI ELETTRONICHE A. CO. S. ET. S. P. A. MESE DI AOSTO 2017 </title>
-			<description>FATTURAZIONI ELETTRONICHE A. CO. S. ET. S. P. A. MESE DI AOSTO 2017 </description>
-			<a10:updated>2017-09-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2958844</guid>
-			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2958844</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 19 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 04 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2958844</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
-			<title>IMPEGNO COMPENSO PORTAVOCE DEL COMUNE DI MASCALUCIA - ALFIO PATTI </title>
-			<description>IMPEGNO COMPENSO PORTAVOCE DEL COMUNE DI MASCALUCIA - ALFIO PATTI </description>
 			<a10:updated>2017-09-19T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
