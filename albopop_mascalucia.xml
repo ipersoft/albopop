@@ -5,7 +5,7 @@
 		<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mascalucia</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 22 Sep 2017 18:31:08 +0200</lastBuildDate>
+		<lastBuildDate>Sat, 23 Sep 2017 08:31:10 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mascalucia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mascalucia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mascalucia</a10:id>
-		<pubDate>Fri, 22 Sep 2017 18:31:08 +0200</pubDate>
+		<pubDate>Sat, 23 Sep 2017 08:31:10 +0200</pubDate>
 		<docs>http://albopop.it/comune/mascalucia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2964255</guid>
+			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2964255</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 22 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 07 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2964255</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE SINDACALE</category>
+			<title>REVOCA DALLA CARICA ASSESSORIALE DEL SIG. GIORDANO SANTO DAVIDE MATTEO </title>
+			<description>REVOCA DALLA CARICA ASSESSORIALE DEL SIG. GIORDANO SANTO DAVIDE MATTEO </description>
+			<a10:updated>2017-09-22T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2963913</guid>
 			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2963913</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
 			<title>ELEZIONI DEL PRESIDENTE DELLA REGIONE E DELL'ASSEMBLEA REGIONALE SICILIANA DEL 05/11/2017 - AUTORIZZAZIONE STRAORDINARIO MESE DI SETTEMBRE </title>
 			<description>ELEZIONI DEL PRESIDENTE DELLA REGIONE E DELL'ASSEMBLEA REGIONALE SICILIANA DEL 05/11/2017 - AUTORIZZAZIONE STRAORDINARIO MESE DI SETTEMBRE </description>
-			<a10:updated>2017-09-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2958922</guid>
-			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2958922</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 19 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 04 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2958922</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
-			<title>ELEZIONI DEL PRESIDENTE DELLA REGIONE E DELL'ASSEMBLEA REGIONALE SICILIANA NELLA MEDESIMA DATA DI DOMENICA 5 NOVEMBRE 2017 - COSTITUZIONE UFFICIO ELETTORALE COMUNALE </title>
-			<description>ELEZIONI DEL PRESIDENTE DELLA REGIONE E DELL'ASSEMBLEA REGIONALE SICILIANA NELLA MEDESIMA DATA DI DOMENICA 5 NOVEMBRE 2017 - COSTITUZIONE UFFICIO ELETTORALE COMUNALE </description>
 			<a10:updated>2017-09-19T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
