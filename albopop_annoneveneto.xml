@@ -5,7 +5,7 @@
 		<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Annone Veneto</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 25 Sep 2017 13:31:02 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 25 Sep 2017 14:30:53 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Annone Veneto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Annone Veneto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_annoneveneto</a10:id>
-		<pubDate>Mon, 25 Sep 2017 13:31:02 +0200</pubDate>
+		<pubDate>Mon, 25 Sep 2017 14:30:53 +0200</pubDate>
 		<docs>http://albopop.it/comune/annoneveneto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3524523</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3524523</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 25 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 10 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3524523</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>LIQUIDAZIONE FATTURA PER SPESE DI CONSULTAZIONE VISURE EXTRA CANONE DELLA BANCA DATI P.R.A., ANNO 2016. </title>
+			<description>LIQUIDAZIONE FATTURA PER SPESE DI CONSULTAZIONE VISURE EXTRA CANONE DELLA BANCA DATI P.R.A., ANNO 2016. </description>
+			<a10:updated>2017-09-25T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3524520</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3524520</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 25 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 10 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3524520</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>LAVORI DI RIFACIMENTO SEGNALETICA ORIZZONTALE IN ALCUNE STRADE DI COMPETENZA COMUNALE. LIQUIDAZIONE DI SPESA. </title>
+			<description>LAVORI DI RIFACIMENTO SEGNALETICA ORIZZONTALE IN ALCUNE STRADE DI COMPETENZA COMUNALE. LIQUIDAZIONE DI SPESA. </description>
+			<a10:updated>2017-09-25T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3524399</guid>
 			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3524399</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>ACQUISTO TESTO PER L'AGGIORNAMENTO PROFESSIONALE "IL NUOVO PROCEDIMENTO AMMINISTRATIVO DIGITALE" </title>
 			<description>ACQUISTO TESTO PER L'AGGIORNAMENTO PROFESSIONALE "IL NUOVO PROCEDIMENTO AMMINISTRATIVO DIGITALE" </description>
-			<a10:updated>2017-09-23T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3522685</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3522685</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 23 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 08 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3522685</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>ACQUISTO CARTUCCIA INCHIOSTRO BLU PER AFFRANCOPOSTA IS 200 IN DOTAZIONE ALL'UFFICIO PROTOCOLLO - LIQUIDAZIONE. </title>
-			<description>ACQUISTO CARTUCCIA INCHIOSTRO BLU PER AFFRANCOPOSTA IS 200 IN DOTAZIONE ALL'UFFICIO PROTOCOLLO - LIQUIDAZIONE. </description>
-			<a10:updated>2017-09-23T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3522681</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3522681</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 23 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 08 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3522681</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>LIQUIDAZIONE FATTURA PER ABBONAMENTO A RIVISTA SUL PERSONALE "PERSONALE NEWS" DELLA SOCIETÀ PUBLIKA SRL </title>
-			<description>LIQUIDAZIONE FATTURA PER ABBONAMENTO A RIVISTA SUL PERSONALE "PERSONALE NEWS" DELLA SOCIETÀ PUBLIKA SRL </description>
 			<a10:updated>2017-09-23T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
