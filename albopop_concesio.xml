@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 25 Sep 2017 09:30:36 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 25 Sep 2017 11:30:37 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,55 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Mon, 25 Sep 2017 09:30:36 +0200</pubDate>
+		<pubDate>Mon, 25 Sep 2017 11:30:37 +0200</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3523553</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3523553</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 25 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 10 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3523553</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>IMPEGNO DI SPESA PER ACQUISTO APPLICATIVO PER REDAZIONE DEL D.U.P. 2018 (C.I.G. Z7F1FE9525). </title>
+			<description>IMPEGNO DI SPESA PER ACQUISTO APPLICATIVO PER REDAZIONE DEL D.U.P. 2018 (C.I.G. Z7F1FE9525). </description>
+			<a10:updated>2017-09-25T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3523443</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3523443</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 25 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 10 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3523443</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>AGGIUDICAZIONE DEL SERVIZIO DI NOLEGGIO, INSTALLAZIONE, MANUTENZIONE ORDINARIA E STRAORDINARIA DI UNA POSTAZIONE FISSA, BIDIREZIONALE, ALIMENTABILE CON SISTEMA FOTOVOLTAICO, PER IL CONTROLLO ELETTRONICO DEL SUPERAMENTO DEI LIMITI DI VELOCITA’ E RILEVAMENTO TARGHE, PER MESI 36, PROROGABILI DI ULTERIORI MESI 6. CIG MASTER 70970162E0; CIG DERIVATO 7209037D84. </title>
+			<description>AGGIUDICAZIONE DEL SERVIZIO DI NOLEGGIO, INSTALLAZIONE, MANUTENZIONE ORDINARIA E STRAORDINARIA DI UNA POSTAZIONE FISSA, BIDIREZIONALE, ALIMENTABILE CON SISTEMA FOTOVOLTAICO, PER IL CONTROLLO ELETTRONICO DEL SUPERAMENTO DEI LIMITI DI VELOCITA’ E RILEVAMENTO TARGHE, PER MESI 36, PROROGABILI DI ULTERIORI MESI 6. CIG MASTER 70970162E0; CIG DERIVATO 7209037D84. </description>
+			<a10:updated>2017-09-25T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3523373</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3523373</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 25 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 10 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3523373</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>ASSUNZIONE IMPEGNO DI SPESA PER L'EROGAZIONE DI UN CONTRIBUTO ECONOMICO PER IL SOGGIORNO CLIMATICO A FAVORE DELL' UTENTE N. MATR. 24.971.04. </title>
+			<description>ASSUNZIONE IMPEGNO DI SPESA PER L'EROGAZIONE DI UN CONTRIBUTO ECONOMICO PER IL SOGGIORNO CLIMATICO A FAVORE DELL' UTENTE N. MATR. 24.971.04. </description>
+			<a10:updated>2017-09-25T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3523321</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3523321</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 25 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 10 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3523321</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>EMERGENZA ABITATIVA – DGR 5450/2016 REGIONE LOMBARDIA - INDIZIONE BANDO PER L'ISTITUZIONE E L'AVVIO DELL'INIZIATIVA SPERIMENTALE AL SOSTEGNO PER IL MANTENIMENTO DELL’ABITAZIONE IN LOCAZIONE - DAL 01/10/2017 FINO AD ESAURIMENTO FONDI </title>
+			<description>EMERGENZA ABITATIVA – DGR 5450/2016 REGIONE LOMBARDIA - INDIZIONE BANDO PER L'ISTITUZIONE E L'AVVIO DELL'INIZIATIVA SPERIMENTALE AL SOSTEGNO PER IL MANTENIMENTO DELL’ABITAZIONE IN LOCAZIONE - DAL 01/10/2017 FINO AD ESAURIMENTO FONDI </description>
+			<a10:updated>2017-09-25T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3521566</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3521566</link>
@@ -250,50 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>FORNITURA DI STAMPATI MINISTERIALI E LIBRI DI TESTO DI IMPORTO INFERIORE A € 1.000,00 (ART. 1, COMMA 502 LEGGE N. 208/2015). ASSUNZIONE IMPEGNO DI SPESA ( C.I.G. Z551E0743E). </title>
 			<description>FORNITURA DI STAMPATI MINISTERIALI E LIBRI DI TESTO DI IMPORTO INFERIORE A € 1.000,00 (ART. 1, COMMA 502 LEGGE N. 208/2015). ASSUNZIONE IMPEGNO DI SPESA ( C.I.G. Z551E0743E). </description>
-			<a10:updated>2017-09-20T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3516079</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3516079</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 05 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3516079</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>FORNITURA DI STAMPATI MINISTERIALI E LIBRI DI TESTO DI IMPORTO INFERIORE A 1.000,00 (ART. 1, COMMA 502 LEGGE N. 208/2015). ASSUNZIONE IMPEGNO DI SPESA (C.I.G. Z551E074BE). </title>
-			<description>FORNITURA DI STAMPATI MINISTERIALI E LIBRI DI TESTO DI IMPORTO INFERIORE A 1.000,00 (ART. 1, COMMA 502 LEGGE N. 208/2015). ASSUNZIONE IMPEGNO DI SPESA (C.I.G. Z551E074BE). </description>
-			<a10:updated>2017-09-20T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3516024</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3516024</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 05 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3516024</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>ACQUISTO CANCELLERIA PER UFFICI -C.I.G (Z411FEDF9E). </title>
-			<description>ACQUISTO CANCELLERIA PER UFFICI -C.I.G (Z411FEDF9E). </description>
-			<a10:updated>2017-09-20T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3516022</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3516022</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 05 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3516022</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>IMPEGNO DI SPESA PER ACQUISTO APPLICATIVO PER REDAZIONE DEL DOUMENTO UNICO DI PROGRAMMAZIONE ANNO 2018 (C.I.G. Z7F1FE9525). </title>
-			<description>IMPEGNO DI SPESA PER ACQUISTO APPLICATIVO PER REDAZIONE DEL DOUMENTO UNICO DI PROGRAMMAZIONE ANNO 2018 (C.I.G. Z7F1FE9525). </description>
-			<a10:updated>2017-09-20T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3516018</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3516018</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 05 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3516018</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>ADESIONE ALLA CONVENZIONE ARCA - AGENZIA REGIONALE CENTRALE ACQUISTI - PER FORNITURA DI CARTA. ASSUNZIONE IMPEGNO DI SPESA PER L’ANNO 2017 C.I.G. Z3F1483F63. </title>
-			<description>ADESIONE ALLA CONVENZIONE ARCA - AGENZIA REGIONALE CENTRALE ACQUISTI - PER FORNITURA DI CARTA. ASSUNZIONE IMPEGNO DI SPESA PER L’ANNO 2017 C.I.G. Z3F1483F63. </description>
 			<a10:updated>2017-09-20T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
