@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 26 Sep 2017 10:31:24 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 26 Sep 2017 11:31:33 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Tue, 26 Sep 2017 10:31:24 +0200</pubDate>
+		<pubDate>Tue, 26 Sep 2017 11:31:33 +0200</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2967140</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2967140</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 26 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 03 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2967140</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
+			<title>ESTATE IBLEA 2017 MODIFICA ALLA DETERMINAZIONE DIRIGENZIALE 1289 DEL 10.08.17 PER LO SPETTACOLO “V^ EDIZIONE COUNTRY MUSIC” SVOLTOSI IL 19 AGOSTO 2017 A MARINA DI RAGUSA IN PIAZZA DUCA DEGLI ABRUZZI. CIG. Z141F79376 </title>
+			<description>ESTATE IBLEA 2017 MODIFICA ALLA DETERMINAZIONE DIRIGENZIALE 1289 DEL 10.08.17 PER LO SPETTACOLO “V^ EDIZIONE COUNTRY MUSIC” SVOLTOSI IL 19 AGOSTO 2017 A MARINA DI RAGUSA IN PIAZZA DUCA DEGLI ABRUZZI. CIG. Z141F79376 </description>
+			<a10:updated>2017-09-26T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2966633</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2966633</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
 			<title>ACCERTAMENTO DEI PROVENTI DERIVANTI DA CANONI CONCESSORI DI GESTIONE DELLA RETE COMUNALE DI DISTRIBUZIONE DEL METANO. </title>
 			<description>ACCERTAMENTO DEI PROVENTI DERIVANTI DA CANONI CONCESSORI DI GESTIONE DELLA RETE COMUNALE DI DISTRIBUZIONE DEL METANO. </description>
-			<a10:updated>2017-09-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2963954</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2963954</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 22 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 29 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2963954</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
-			<title>SERVIZIO RELATIVO ALLA “CREAZIONE DELLA CARTA DI VALORIZZAZIONE DEL TERRITORIO DEL DISTRETTO TURISTICO DEGLI IBLEI E PER LO SVILUPPO DELLE ATTIVITA’ PROMOZIONALI CORRELATE” - APPROVAZIONE PERIZIA DI VARIANTE </title>
-			<description>SERVIZIO RELATIVO ALLA “CREAZIONE DELLA CARTA DI VALORIZZAZIONE DEL TERRITORIO DEL DISTRETTO TURISTICO DEGLI IBLEI E PER LO SVILUPPO DELLE ATTIVITA’ PROMOZIONALI CORRELATE” - APPROVAZIONE PERIZIA DI VARIANTE </description>
 			<a10:updated>2017-09-22T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
