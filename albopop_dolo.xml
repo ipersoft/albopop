@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 26 Sep 2017 08:30:38 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 26 Sep 2017 09:30:52 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Tue, 26 Sep 2017 08:30:38 +0200</pubDate>
+		<pubDate>Tue, 26 Sep 2017 09:30:52 +0200</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3525576</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3525576</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 26 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 11 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3525576</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
+			<title>ISTITUZIONE DEL LIMITE DI VELOCITÀ MASSIMA CONSENTITA A 30 KM/H. - “ZONA 30” IN PROSSIMITÀ DEGLI EDIFICI SCOLASTICI DEL TERRITORIO COMUNALE. </title>
+			<description>ISTITUZIONE DEL LIMITE DI VELOCITÀ MASSIMA CONSENTITA A 30 KM/H. - “ZONA 30” IN PROSSIMITÀ DEGLI EDIFICI SCOLASTICI DEL TERRITORIO COMUNALE. </description>
+			<a10:updated>2017-09-26T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3523812</guid>
 			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3523812</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">AVVISO GENERICO</category>
 			<title> RICHIESTA PUBBLICAZIONE N. 3 AVVISI: N. 1 POSTO DI “ISTRUTTORE AMMINISTRATIVO CAT. C” PRESSO IL 3° SETTORE “SVILUPPO SERVIZI ALLA PERSONA”. N. 1 POSTO DI “ISTRUTTORE TECNICO CAT. C” PRESSO IL 2° SETTORE “PROGRAMMAZIONE E SVILUPPO DEL TERRITORIO”.N. 1 POSTO DI “ISTRUTTORE CONTABILE CAT. C” PRESSO IL 1° SETTORE “PROGRAMMAZIONE E SVILUPPO”. </title>
 			<description> RICHIESTA PUBBLICAZIONE N. 3 AVVISI: N. 1 POSTO DI “ISTRUTTORE AMMINISTRATIVO CAT. C” PRESSO IL 3° SETTORE “SVILUPPO SERVIZI ALLA PERSONA”. N. 1 POSTO DI “ISTRUTTORE TECNICO CAT. C” PRESSO IL 2° SETTORE “PROGRAMMAZIONE E SVILUPPO DEL TERRITORIO”.N. 1 POSTO DI “ISTRUTTORE CONTABILE CAT. C” PRESSO IL 1° SETTORE “PROGRAMMAZIONE E SVILUPPO”. </description>
-			<a10:updated>2017-09-20T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3515923</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3515923</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 05 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3515923</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>LIQUIDAZIONE FATTURA N. 1245 DEL 31/08/2017. DITTA CARRARO DANTE S.R.L. DI MIRA (VE). </title>
-			<description>LIQUIDAZIONE FATTURA N. 1245 DEL 31/08/2017. DITTA CARRARO DANTE S.R.L. DI MIRA (VE). </description>
 			<a10:updated>2017-09-20T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
