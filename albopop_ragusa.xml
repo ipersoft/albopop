@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 26 Sep 2017 12:31:51 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 26 Sep 2017 13:33:17 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Tue, 26 Sep 2017 12:31:51 +0200</pubDate>
+		<pubDate>Tue, 26 Sep 2017 13:33:17 +0200</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2967606</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2967606</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 26 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 11 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2967606</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA SINDACALE</category>
+			<title>ORDINANZA N.891 DEL 26/09/2017 - PROROGA SERVIZIO IGIENE AMBIENTALE ALLA DITTA BUSSO SEBASTIANO </title>
+			<description>ORDINANZA N.891 DEL 26/09/2017 - PROROGA SERVIZIO IGIENE AMBIENTALE ALLA DITTA BUSSO SEBASTIANO </description>
+			<a10:updated>2017-09-26T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2967528</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2967528</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 26 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 04 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2967528</category>
+			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO ATTO DI MATRIMONIO</category>
+			<title>PUBBLICAZIONE ATTO DI MATRIMONIO A NOME DI SCATA' ARTURO, ESPOSITO CINZIA </title>
+			<description>PUBBLICAZIONE ATTO DI MATRIMONIO A NOME DI SCATA' ARTURO, ESPOSITO CINZIA </description>
+			<a10:updated>2017-09-26T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2967312</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2967312</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">CONCESSIONI CONCESSIONE EDILIZIA</category>
 			<title>CONCESSIONE EDILIZIA N.67/2016 - ELLEPI SRL </title>
 			<description>CONCESSIONE EDILIZIA N.67/2016 - ELLEPI SRL </description>
-			<a10:updated>2017-09-25T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2964845</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2964845</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 25 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 09 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2964845</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISO AVVISO PUBBLICO</category>
-			<title>PUBBLICAZIONE BOLLETTINO VENDITE ASTE IMMOBILIARI DEL 09/10/2017 - TRIBUNALE DI RAGUSA </title>
-			<description>PUBBLICAZIONE BOLLETTINO VENDITE ASTE IMMOBILIARI DEL 09/10/2017 - TRIBUNALE DI RAGUSA </description>
-			<a10:updated>2017-09-25T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2964637</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2964637</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 25 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 02 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2964637</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
-			<title>APPROVAZIONE DELLA CONVENZIONE AGGIUNTIVA N.30400 DEL 04/09/2017, RELATIVA AL RIEQUILIBRIO DEL DEL PIANO ECONOMICO FINANZIARIO, AI SENSI DELL'ART.25 DELLA “CONVENZIONE PER L'AFFIDAMENTO DELLA CONCESSIONE DELLA PROGETTAZIONE DEFINITIVA ED ESECUTIVA, COSTRUZIONE E GESTIONE DEL PARCHEGGIO PUBBLICO DI P.ZZA MATTEOTTI”. APPROVAZIONE IMPEGNO SPESA DI €. 1.083.672 E LIQUIDAZIONE PRIMA RATA ALLA SOCIETA' SI.SO.STA SRL </title>
-			<description>APPROVAZIONE DELLA CONVENZIONE AGGIUNTIVA N.30400 DEL 04/09/2017, RELATIVA AL RIEQUILIBRIO DEL DEL PIANO ECONOMICO FINANZIARIO, AI SENSI DELL'ART.25 DELLA “CONVENZIONE PER L'AFFIDAMENTO DELLA CONCESSIONE DELLA PROGETTAZIONE DEFINITIVA ED ESECUTIVA, COSTRUZIONE E GESTIONE DEL PARCHEGGIO PUBBLICO DI P.ZZA MATTEOTTI”. APPROVAZIONE IMPEGNO SPESA DI €. 1.083.672 E LIQUIDAZIONE PRIMA RATA ALLA SOCIETA' SI.SO.STA SRL </description>
 			<a10:updated>2017-09-25T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
