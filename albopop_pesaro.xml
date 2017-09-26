@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 26 Sep 2017 15:30:59 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 26 Sep 2017 16:30:58 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Tue, 26 Sep 2017 15:30:59 +0200</pubDate>
+		<pubDate>Tue, 26 Sep 2017 16:30:58 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/742523</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/742523</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 26 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 11 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">742523</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>DISMISSIONE E CESSIONE A TITOLO GRATUITO DI ALCUNE ATTREZZATURE VETUSTE DA CUCINA PRESENTI ALL’INTERNO DEL CENTRO PRODUZIONE PASTI SITO IN VIA DELL’INDUSTRIA CIVICO 5 - CHIUSA DI GINESTRETO ALLA ASSOCIAZIONE DI PROTEZIONE CIVILE “C.B. CLUB E MATTEI ONLUS DI FANO” </title>
+			<description>DISMISSIONE E CESSIONE A TITOLO GRATUITO DI ALCUNE ATTREZZATURE VETUSTE DA CUCINA PRESENTI ALL’INTERNO DEL CENTRO PRODUZIONE PASTI SITO IN VIA DELL’INDUSTRIA CIVICO 5 - CHIUSA DI GINESTRETO ALLA ASSOCIAZIONE DI PROTEZIONE CIVILE “C.B. CLUB E MATTEI ONLUS DI FANO” </description>
+			<a10:updated>2017-09-26T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/742415</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/742415</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
 			<title>VIA SALANDRA CIV. 8, VIA G. GIOLITTI CIV. 132 - REALIZZAZIONE E TRASFORMAZIONE DI STALLI PER LA SOSTA DEI VEICOLI AL SERVIZIO DI PERSONE DIVERSAMENTE ABILI TITOLARI DI AUTORIZZAZIONE DI CUI ALL'ART. 188/2° DEL C.D.S - TIPO PERSONALIZZATO E TRASFORMAZIONE DA PERSONALIZZATO A GENERICO - DISCIPLINA DELLA CIRCOLAZIONE E E DELLA SOSTA DEI VEICOLI </title>
 			<description>VIA SALANDRA CIV. 8, VIA G. GIOLITTI CIV. 132 - REALIZZAZIONE E TRASFORMAZIONE DI STALLI PER LA SOSTA DEI VEICOLI AL SERVIZIO DI PERSONE DIVERSAMENTE ABILI TITOLARI DI AUTORIZZAZIONE DI CUI ALL'ART. 188/2° DEL C.D.S - TIPO PERSONALIZZATO E TRASFORMAZIONE DA PERSONALIZZATO A GENERICO - DISCIPLINA DELLA CIRCOLAZIONE E E DELLA SOSTA DEI VEICOLI </description>
-			<a10:updated>2017-09-25T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/741304</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/741304</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 25 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 10 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">741304</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
-			<title>VIA LOCCHI CIV. 46 - REVOCA ORDINANZA N. 1438/2006 - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </title>
-			<description>VIA LOCCHI CIV. 46 - REVOCA ORDINANZA N. 1438/2006 - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </description>
 			<a10:updated>2017-09-25T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
