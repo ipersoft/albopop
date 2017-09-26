@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 26 Sep 2017 14:31:31 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 26 Sep 2017 15:32:08 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Tue, 26 Sep 2017 14:31:31 +0200</pubDate>
+		<pubDate>Tue, 26 Sep 2017 15:32:08 +0200</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2969451</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2969451</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 26 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 11 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2969451</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO ON LINE ORDINANZE E AVVISI</category>
+			<title>MODIFICHE TEMPORANEE ALLA VIABILITA’ IN VIA GANDHI E VIA PADRE BALDUCCI A COLLECCHIO PER LAVORI DI ASFALTATURA </title>
+			<description>MODIFICHE TEMPORANEE ALLA VIABILITA’ IN VIA GANDHI E VIA PADRE BALDUCCI A COLLECCHIO PER LAVORI DI ASFALTATURA </description>
+			<a10:updated>2017-09-26T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2967078</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2967078</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
 			<title>LAVORI DI COMPLETAMENTO RELATIVI ALLA RISTRUTTURAZIONE EDILIZIA SULLA CUCINA A SERVIZIO DELLA MENSA DELLA SCUOLA PRIMARIA “G. VERDI” E DELLA SCUOLA SECONDARIA DI I° “D. GALAVERNA” NEL COMUNE DI COLLECCHIO. AFFIDAMENTO DIRETTO ALLA DITTA MACORES SRL CON SEDE MEDESANO (PR) IN VIA GRAZIA DELEDDA, 10, C.F/P.IVA 02676700343. CODICE CUP: G91E17000240004 - CODICE CIG: Z801FD356D </title>
 			<description>LAVORI DI COMPLETAMENTO RELATIVI ALLA RISTRUTTURAZIONE EDILIZIA SULLA CUCINA A SERVIZIO DELLA MENSA DELLA SCUOLA PRIMARIA “G. VERDI” E DELLA SCUOLA SECONDARIA DI I° “D. GALAVERNA” NEL COMUNE DI COLLECCHIO. AFFIDAMENTO DIRETTO ALLA DITTA MACORES SRL CON SEDE MEDESANO (PR) IN VIA GRAZIA DELEDDA, 10, C.F/P.IVA 02676700343. CODICE CUP: G91E17000240004 - CODICE CIG: Z801FD356D </description>
-			<a10:updated>2017-09-20T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2959844</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2959844</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 05 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2959844</category>
-			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
-			<title>LAVORI DI “RISTRUTTURAZIONE DEGLI SPOGLIATOI E RIFACIMENTO DEL CAMPO DA CALCIO IN ERBA SINTETICA CON AMPLIAMENTO PER RENDERLO IDONEO AL CALCIO A 7 PRESSO IL CENTRO SPORTIVO “MAINARDI” COLLECCHIO” – LAVORI DI REALIZZAZIONE DI NUOVO CANCELLO D’INGRESSO AL CAMPO DA CALCIO IN ERBA SINTETICA - IMPEGNO DI SPESA E AFFIDAMENTO DIRETTO ALL’ IMPRESA EDILE “STIRPARO COSTRUZIONI SRL” CON SEDE AL N° 17/C DI VIA O. GRASSI A COLLECCHIO – COD. FISC./P.IVA: 02307790341 - CODICE CIG: ZF21FE0F6C – CODICE CUP: G99D </title>
-			<description>LAVORI DI “RISTRUTTURAZIONE DEGLI SPOGLIATOI E RIFACIMENTO DEL CAMPO DA CALCIO IN ERBA SINTETICA CON AMPLIAMENTO PER RENDERLO IDONEO AL CALCIO A 7 PRESSO IL CENTRO SPORTIVO “MAINARDI” COLLECCHIO” – LAVORI DI REALIZZAZIONE DI NUOVO CANCELLO D’INGRESSO AL CAMPO DA CALCIO IN ERBA SINTETICA - IMPEGNO DI SPESA E AFFIDAMENTO DIRETTO ALL’ IMPRESA EDILE “STIRPARO COSTRUZIONI SRL” CON SEDE AL N° 17/C DI VIA O. GRASSI A COLLECCHIO – COD. FISC./P.IVA: 02307790341 - CODICE CIG: ZF21FE0F6C – CODICE CUP: G99D </description>
 			<a10:updated>2017-09-20T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
