@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 27 Sep 2017 11:31:52 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 27 Sep 2017 12:31:39 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Wed, 27 Sep 2017 11:31:52 +0200</pubDate>
+		<pubDate>Wed, 27 Sep 2017 12:31:39 +0200</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2975263</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2975263</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 27 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 12 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2975263</category>
+			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI GIUNTA</category>
+			<title>DEL. G.M. N° 381/17 - MODIFICA DELIBERAZIONE DI GIUNTA MUNICIPALE N. 11 DEL 07/03/2016. PROPOSTA PER IL CONSIGLIO. </title>
+			<description>DEL. G.M. N° 381/17 - MODIFICA DELIBERAZIONE DI GIUNTA MUNICIPALE N. 11 DEL 07/03/2016. PROPOSTA PER IL CONSIGLIO. </description>
+			<a10:updated>2017-09-27T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2974940</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2974940</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
 			<title>ORGANIZZARE IN COLLABORAZIONE CON LA A.S.D. BASKET CLUB DELLA MANIFESTAZIONE SPORTIVA “3° MEMORIAL MATTEO ANCIONE” DI BASKET 22-23 SETTEMBRE 2017 PRESSO PALAPADUA . CIG. ZC31FEC5DE </title>
 			<description>ORGANIZZARE IN COLLABORAZIONE CON LA A.S.D. BASKET CLUB DELLA MANIFESTAZIONE SPORTIVA “3° MEMORIAL MATTEO ANCIONE” DI BASKET 22-23 SETTEMBRE 2017 PRESSO PALAPADUA . CIG. ZC31FEC5DE </description>
-			<a10:updated>2017-09-26T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2971115</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2971115</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 26 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 03 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2971115</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
-			<title>LIQUIDAZIONE PRESTAZIONI LAVORATIVE IN GIORNATA FESTIVA INFRASETTIMANALE EFFETTUATE DAL PERSONALE DI POLIZIA MUNICIPALE CON CONTRATTO A TEMPO INDETERMINATO. PERIODO: 1° GENNAIO 2017 – 31 AGOSTO 2017 </title>
-			<description>LIQUIDAZIONE PRESTAZIONI LAVORATIVE IN GIORNATA FESTIVA INFRASETTIMANALE EFFETTUATE DAL PERSONALE DI POLIZIA MUNICIPALE CON CONTRATTO A TEMPO INDETERMINATO. PERIODO: 1° GENNAIO 2017 – 31 AGOSTO 2017 </description>
 			<a10:updated>2017-09-26T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
