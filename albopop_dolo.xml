@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 27 Sep 2017 10:30:42 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 27 Sep 2017 11:30:48 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Wed, 27 Sep 2017 10:30:42 +0200</pubDate>
+		<pubDate>Wed, 27 Sep 2017 11:30:48 +0200</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3529206</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3529206</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 27 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 29 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3529206</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO GENERICO</category>
+			<title>CONVOCAZIONE DELLA COMMISSIONE ELETTORALE COMUNALE PER LA NOMINA DEGLI SCRUTATORI. -REFERENDUM CONSULTIVO REGIONALE DI DOMENICA 22.10.2017- </title>
+			<description>CONVOCAZIONE DELLA COMMISSIONE ELETTORALE COMUNALE PER LA NOMINA DEGLI SCRUTATORI. -REFERENDUM CONSULTIVO REGIONALE DI DOMENICA 22.10.2017- </description>
+			<a10:updated>2017-09-27T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3528458</guid>
 			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3528458</link>
@@ -127,8 +138,8 @@
 			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 27 Sep 2017 02:00:00 +0200</category>
 			<category domain="http://albopop.it/specs#item-category-uid">3523462</category>
 			<category domain="http://albopop.it/specs#item-category-type">AVVISO GENERICO</category>
-			<title>CONVOCAZIONE DELLA COMMISSIONE ELETTORALE COMUNALE PER LA NOMINA DEGLI SCRUTATORI. -REFERENDUM CONSULTIVO REGIONALE DI DOMENICA 22.10.2017-. </title>
-			<description>CONVOCAZIONE DELLA COMMISSIONE ELETTORALE COMUNALE PER LA NOMINA DEGLI SCRUTATORI. -REFERENDUM CONSULTIVO REGIONALE DI DOMENICA 22.10.2017-. </description>
+			<title>[annullato] CONVOCAZIONE DELLA COMMISSIONE ELETTORALE COMUNALE PER LA NOMINA DEGLI SCRUTATORI. -REFERENDUM CONSULTIVO REGIONALE DI DOMENICA 22.10.2017-. </title>
+			<description>[annullato] CONVOCAZIONE DELLA COMMISSIONE ELETTORALE COMUNALE PER LA NOMINA DEGLI SCRUTATORI. -REFERENDUM CONSULTIVO REGIONALE DI DOMENICA 22.10.2017-. </description>
 			<a10:updated>2017-09-25T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
@@ -284,17 +295,6 @@
 			<title>AFFIDAMENTO SERVIZIO DI PULIZIA STRAORDINARIA DI N. 8 APPARTAMENTI ADIBITI AD EMERGEMNZA ABITATIVA (CIG: Z281FFE296)– DITTA PULITORI ED AFFINI S.P.A. </title>
 			<description>AFFIDAMENTO SERVIZIO DI PULIZIA STRAORDINARIA DI N. 8 APPARTAMENTI ADIBITI AD EMERGEMNZA ABITATIVA (CIG: Z281FFE296)– DITTA PULITORI ED AFFINI S.P.A. </description>
 			<a10:updated>2017-09-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3519210</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3519210</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 21 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 06 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3519210</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>SERVIZIO DI MANUTENZIONE DEL VERDE PUBBLICO, PER DUE INTERVENTI DI MANUTENZIONE E CURA DEL VERDE PUBBLICO IN ALCUNE AREE VERDI DI COMPETENZA COMUNALE PERIODO GIUGNO LUGLIO 2017. LIQUIDAZIONE ALL’ASSOCIAZIONE TEMPORANEA IMPRENDITORI AGRICOLI. </title>
-			<description>SERVIZIO DI MANUTENZIONE DEL VERDE PUBBLICO, PER DUE INTERVENTI DI MANUTENZIONE E CURA DEL VERDE PUBBLICO IN ALCUNE AREE VERDI DI COMPETENZA COMUNALE PERIODO GIUGNO LUGLIO 2017. LIQUIDAZIONE ALL’ASSOCIAZIONE TEMPORANEA IMPRENDITORI AGRICOLI. </description>
-			<a10:updated>2017-09-21T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
