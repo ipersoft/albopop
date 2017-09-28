@@ -5,7 +5,7 @@
 		<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Canosa di Puglia</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 28 Sep 2017 09:31:20 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 28 Sep 2017 10:31:14 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Canosa di Puglia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Barletta-Andria-Trani</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Canosa di Puglia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_canosadipuglia</a10:id>
-		<pubDate>Thu, 28 Sep 2017 09:31:20 +0200</pubDate>
+		<pubDate>Thu, 28 Sep 2017 10:31:14 +0200</pubDate>
 		<docs>http://albopop.it/comune/canosadipuglia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3531229</guid>
+			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3531229</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 28 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 18 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3531229</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI E DEPOSITI AVVISO DI DEPOSITO</category>
+			<title>AVVISO DI DEPOSITO - VERBALE DI VIOLAZIONE AL CODICE DELLA STRADA N.VERBALE 72219/2017 DEL 19/06/2017 - N.REGISTRO VERBALI 1759/2017 - INTESTATO AL SIG. LORUSSO GIUSEPPE - PER CONTO DEL COMUNE DI CANOSA DI PUGLIA - COMANDO DI POLIZIA LOCALE. </title>
+			<description>AVVISO DI DEPOSITO - VERBALE DI VIOLAZIONE AL CODICE DELLA STRADA N.VERBALE 72219/2017 DEL 19/06/2017 - N.REGISTRO VERBALI 1759/2017 - INTESTATO AL SIG. LORUSSO GIUSEPPE - PER CONTO DEL COMUNE DI CANOSA DI PUGLIA - COMANDO DI POLIZIA LOCALE. </description>
+			<a10:updated>2017-09-28T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3528340</guid>
 			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3528340</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
 			<title>Servizio noleggio bagni chimici per la festa patronale. Integrazione impegno di spesa per spostamento in zona più idonea all'interno del centro abitato. </title>
 			<description>Servizio noleggio bagni chimici per la festa patronale. Integrazione impegno di spesa per spostamento in zona più idonea all'interno del centro abitato. </description>
-			<a10:updated>2017-09-25T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3525340</guid>
-			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3525340</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 25 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 10 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3525340</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
-			<title>APPROVAZIONE BANDO DI MOBILITA' ESTERNA PER L'ASSUNZIONE DI N.1 UNITA' DI PERSONALE CATEGORIA C, CON IL PROFILO PROFESSIONALE DI " ISTRUTTORE TECNICO INFORMATICO". </title>
-			<description>APPROVAZIONE BANDO DI MOBILITA' ESTERNA PER L'ASSUNZIONE DI N.1 UNITA' DI PERSONALE CATEGORIA C, CON IL PROFILO PROFESSIONALE DI " ISTRUTTORE TECNICO INFORMATICO". </description>
 			<a10:updated>2017-09-25T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
