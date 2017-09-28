@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 28 Sep 2017 17:31:14 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 28 Sep 2017 18:30:59 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Thu, 28 Sep 2017 17:31:14 +0200</pubDate>
+		<pubDate>Thu, 28 Sep 2017 18:30:59 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2977788</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2977788</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 28 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 13 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2977788</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
+			<title>LIQUIDAZIONE FATTURA ELETTRONICA N. 048/2017, EMESSA IN REGIME DI SPLIT PAYMENT, IN DATA 03/08/2017, DALLA DITTA CENTRO PROCESSI ASSICURATIVI SRL – VIA F. CASATI 1/A- MILANO. PERIODO MARZO 2017– MAGGIO 2017 . CIG: 386105428E </title>
+			<description>LIQUIDAZIONE FATTURA ELETTRONICA N. 048/2017, EMESSA IN REGIME DI SPLIT PAYMENT, IN DATA 03/08/2017, DALLA DITTA CENTRO PROCESSI ASSICURATIVI SRL – VIA F. CASATI 1/A- MILANO. PERIODO MARZO 2017– MAGGIO 2017 . CIG: 386105428E </description>
+			<a10:updated>2017-09-28T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2977536</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2977536</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DELIBERE DI GIUNTA</category>
 			<title>AUTORIZZAZIONE DELLA MANIFESTAZIONE “LETTURE AL PARCO” – ORGANIZZATA DALL’ASSOCIAZIONE AMICI DI ELENA ONLUS DI ROVIGO - IL 29 SETTEMBRE 2017 AREA EX ADIGETTO PARCO DIRITTI DEI BAMBINI DALLE 17.30 ALLE 22.00 </title>
 			<description>AUTORIZZAZIONE DELLA MANIFESTAZIONE “LETTURE AL PARCO” – ORGANIZZATA DALL’ASSOCIAZIONE AMICI DI ELENA ONLUS DI ROVIGO - IL 29 SETTEMBRE 2017 AREA EX ADIGETTO PARCO DIRITTI DEI BAMBINI DALLE 17.30 ALLE 22.00 </description>
-			<a10:updated>2017-09-27T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2974308</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2974308</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 27 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 12 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2974308</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DELIBERE DI GIUNTA</category>
-			<title>PIANO PARTICOLAREGGIATO DI INIZIATIVA PUBBLICA DENOMINATO ”EX AREA S.I.I.Z.”_ VARIANTE N.5_ APPROVAZIONE </title>
-			<description>PIANO PARTICOLAREGGIATO DI INIZIATIVA PUBBLICA DENOMINATO ”EX AREA S.I.I.Z.”_ VARIANTE N.5_ APPROVAZIONE </description>
 			<a10:updated>2017-09-27T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
