@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 28 Sep 2017 10:31:49 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 28 Sep 2017 11:31:46 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Thu, 28 Sep 2017 10:31:49 +0200</pubDate>
+		<pubDate>Thu, 28 Sep 2017 11:31:46 +0200</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2976262</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2976262</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 28 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 28 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2976262</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO ON LINE ATTI CONCLUSIVI DI PROCEDIMENTI AMMINISTRATIVI</category>
+			<title>POSTA CERTIFICATA: INVIO PER PUBBLICAZIONE DECRETO DEL TRIBUNALE APERTURA PROCEDURA ART. 163 BIS LF COPADOR PER VENDITA DEL 27 SETTEMBRE 2017 </title>
+			<description>POSTA CERTIFICATA: INVIO PER PUBBLICAZIONE DECRETO DEL TRIBUNALE APERTURA PROCEDURA ART. 163 BIS LF COPADOR PER VENDITA DEL 27 SETTEMBRE 2017 </description>
+			<a10:updated>2017-09-28T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2975948</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2975948</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO ON LINE ORDINANZE E AVVISI</category>
 			<title>MODIFICHE TEMPORANEE ALLA SOSTA NEL PARCHEGGIO DI VIALE PERTINI E VIALE SARAT IN CORRISPONDENZA DELLA “MERIDIANA” PER LO SVOLGIMENTO DELLA FESTA 28° DELLA CASTAGNA </title>
 			<description>MODIFICHE TEMPORANEE ALLA SOSTA NEL PARCHEGGIO DI VIALE PERTINI E VIALE SARAT IN CORRISPONDENZA DELLA “MERIDIANA” PER LO SVOLGIMENTO DELLA FESTA 28° DELLA CASTAGNA </description>
-			<a10:updated>2017-09-25T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2966109</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2966109</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 25 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 10 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2966109</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO ON LINE ELENCO DEGLI OGGETTI SMARRITI</category>
-			<title>PUBBLICAZIONE ALBO DI SCHEDA PER OGGETTI RITROVATI </title>
-			<description>PUBBLICAZIONE ALBO DI SCHEDA PER OGGETTI RITROVATI </description>
 			<a10:updated>2017-09-25T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
