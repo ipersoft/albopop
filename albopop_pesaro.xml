@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 28 Sep 2017 11:30:46 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 28 Sep 2017 12:30:53 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Thu, 28 Sep 2017 11:30:46 +0200</pubDate>
+		<pubDate>Thu, 28 Sep 2017 12:30:53 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/743535</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/743535</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 28 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 13 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">743535</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DECRETO DEL SINDACO</category>
+			<title> SEGRETARIO GENERALE DOTT. GIOVANNI MONTACCINI – CONFERMA INCARICO DI RESPONSABILE DEL SERVIZIO AMMINISTRAZIONE E RISORSE CONFERITO CON DECRETI SINDACALI NN.14/2017 E 25/2017. </title>
+			<description> SEGRETARIO GENERALE DOTT. GIOVANNI MONTACCINI – CONFERMA INCARICO DI RESPONSABILE DEL SERVIZIO AMMINISTRAZIONE E RISORSE CONFERITO CON DECRETI SINDACALI NN.14/2017 E 25/2017. </description>
+			<a10:updated>2017-09-28T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/743475</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/743475</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>LAVORI DI STRAORDINARIA MANUTENZIONE PALESTRA NORD ADRIATIC ARENA. AFFIDAMENTO ALLA DITTA COPAR S.R.L. DI ANCONA. CONFERIMENTO INCARICO PROFESSIONALE DI CONSULENZA PER LA CORREZIONE ACUSTICA AL TECNICO ACUSTICO MARCO FACONDINI DELLO STUDIO TANACOUSTICS DI PESARO. </title>
 			<description>LAVORI DI STRAORDINARIA MANUTENZIONE PALESTRA NORD ADRIATIC ARENA. AFFIDAMENTO ALLA DITTA COPAR S.R.L. DI ANCONA. CONFERIMENTO INCARICO PROFESSIONALE DI CONSULENZA PER LA CORREZIONE ACUSTICA AL TECNICO ACUSTICO MARCO FACONDINI DELLO STUDIO TANACOUSTICS DI PESARO. </description>
-			<a10:updated>2017-09-27T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/742824</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/742824</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 27 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 12 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">742824</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>ORDINARIA MANUTENZIONE SCUOLA ELEMENTARE DON MILANI - AFFIDAMENTO LAVORI </title>
-			<description>ORDINARIA MANUTENZIONE SCUOLA ELEMENTARE DON MILANI - AFFIDAMENTO LAVORI </description>
 			<a10:updated>2017-09-27T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
