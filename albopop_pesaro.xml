@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 29 Sep 2017 08:31:02 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 29 Sep 2017 09:30:41 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Fri, 29 Sep 2017 08:31:02 +0200</pubDate>
+		<pubDate>Fri, 29 Sep 2017 09:30:41 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/744567</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/744567</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 29 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 14 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">744567</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PUBBLICAZIONI RICHIESTE DA SOGGETTI ESTERNI</category>
+			<title>ORDINANZA N. 52/2017 - MANIFESTAZIONE DIMOSTRATIVA SERAM WORKING DAYS 2017 - ATTIVITA' DIMOSTRATIVA DI SOCCORSO AD OPERA DI UN ESEMPLARE DI ALASKAN MALAMUT - 30 SETTEMBRE 2017 </title>
+			<description>ORDINANZA N. 52/2017 - MANIFESTAZIONE DIMOSTRATIVA SERAM WORKING DAYS 2017 - ATTIVITA' DIMOSTRATIVA DI SOCCORSO AD OPERA DI UN ESEMPLARE DI ALASKAN MALAMUT - 30 SETTEMBRE 2017 </description>
+			<a10:updated>2017-09-29T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/744190</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/744190</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>RICORSO AVVERSO VERBALI PER VIOLAZIONI A NORME DEL CDS, RESISTENZA IN GIUDIZIO AVANTI IL GIUDICE DI PACE DI PESARO, UDIENZA DEL 11/10/2017, R.G. 1181/17 </title>
 			<description>RICORSO AVVERSO VERBALI PER VIOLAZIONI A NORME DEL CDS, RESISTENZA IN GIUDIZIO AVANTI IL GIUDICE DI PACE DI PESARO, UDIENZA DEL 11/10/2017, R.G. 1181/17 </description>
-			<a10:updated>2017-09-28T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/743535</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/743535</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 28 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 13 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">743535</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DECRETO DEL SINDACO</category>
-			<title> SEGRETARIO GENERALE DOTT. GIOVANNI MONTACCINI – CONFERMA INCARICO DI RESPONSABILE DEL SERVIZIO AMMINISTRAZIONE E RISORSE CONFERITO CON DECRETI SINDACALI NN.14/2017 E 25/2017. </title>
-			<description> SEGRETARIO GENERALE DOTT. GIOVANNI MONTACCINI – CONFERMA INCARICO DI RESPONSABILE DEL SERVIZIO AMMINISTRAZIONE E RISORSE CONFERITO CON DECRETI SINDACALI NN.14/2017 E 25/2017. </description>
 			<a10:updated>2017-09-28T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

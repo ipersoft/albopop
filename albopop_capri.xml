@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 29 Sep 2017 08:31:35 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 29 Sep 2017 09:31:16 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Fri, 29 Sep 2017 08:31:35 +0200</pubDate>
+		<pubDate>Fri, 29 Sep 2017 09:31:16 +0200</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2977991</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2977991</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 29 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 06 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2977991</category>
+			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>PUBBLICAZIONE DI MATRIMONIO CAPUTO/GUALTIERI </title>
+			<description>PUBBLICAZIONE DI MATRIMONIO CAPUTO/GUALTIERI </description>
+			<a10:updated>2017-09-29T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2977004</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2977004</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
 			<title>INGIUNZIONE ALLA DEMOLIZIONE DI OPERE EDILI ABUSIVE IN VIA PROV.LE MARINA PICCOLA N.63/C - SIG.RA FEDERICA SACCO </title>
 			<description>INGIUNZIONE ALLA DEMOLIZIONE DI OPERE EDILI ABUSIVE IN VIA PROV.LE MARINA PICCOLA N.63/C - SIG.RA FEDERICA SACCO </description>
-			<a10:updated>2017-09-26T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2967548</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2967548</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 26 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 11 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2967548</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>INGIUNZIONE ALL' ESECUZIONE DI LAVORI DI RIFACIMENTO INTONACI PRESSO L'IMMOBILE DI VIA TRAV.SA ALLA PROV.LE MARINA GRANDE N.4/B PIANO PRIMO - PROPRIETA' SIG. SANDRO CATALDO </title>
-			<description>INGIUNZIONE ALL' ESECUZIONE DI LAVORI DI RIFACIMENTO INTONACI PRESSO L'IMMOBILE DI VIA TRAV.SA ALLA PROV.LE MARINA GRANDE N.4/B PIANO PRIMO - PROPRIETA' SIG. SANDRO CATALDO </description>
 			<a10:updated>2017-09-26T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
