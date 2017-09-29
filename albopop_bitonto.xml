@@ -5,7 +5,7 @@
 		<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bitonto</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 29 Sep 2017 11:30:33 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 29 Sep 2017 12:30:37 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bitonto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Bari</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bitonto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bitonto</a10:id>
-		<pubDate>Fri, 29 Sep 2017 11:30:33 +0200</pubDate>
+		<pubDate>Fri, 29 Sep 2017 12:30:37 +0200</pubDate>
 		<docs>http://albopop.it/comune/bitonto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3534277</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3534277</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 29 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 14 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3534277</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
+			<title>VIA C. MUSSO CIVV.9/11 - DIVIETO DI SOSTA CON RIMOZIONE AMBO I LATI DAL 30/09/2017 PER GG.7 ORE 7/16 PER OPERAZIONI EDILI URGENTI - SIG.RA VALENZA ANNA </title>
+			<description>VIA C. MUSSO CIVV.9/11 - DIVIETO DI SOSTA CON RIMOZIONE AMBO I LATI DAL 30/09/2017 PER GG.7 ORE 7/16 PER OPERAZIONI EDILI URGENTI - SIG.RA VALENZA ANNA </description>
+			<a10:updated>2017-09-29T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3534190</guid>
 			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3534190</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERA DI CONSIGLIO</category>
 			<title>ADOZIONE DEL DOCUMENTO PROGRAMMATICO PRELIMINARE DEL PUG QUALE DPRU (DOCUMENTO PROGRAMMATICO DI RIGENERAZIONE URBANA) AI SENSI DELLA LEGGE REGIONALE N. 21 DEL 29.07.2008 “NORME PER LA RIGENERAZIONE URBANA” - DISCUSSIONE. </title>
 			<description>ADOZIONE DEL DOCUMENTO PROGRAMMATICO PRELIMINARE DEL PUG QUALE DPRU (DOCUMENTO PROGRAMMATICO DI RIGENERAZIONE URBANA) AI SENSI DELLA LEGGE REGIONALE N. 21 DEL 29.07.2008 “NORME PER LA RIGENERAZIONE URBANA” - DISCUSSIONE. </description>
-			<a10:updated>2017-09-28T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3531585</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3531585</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 28 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 12 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3531585</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERA DI CONSIGLIO</category>
-			<title>INSEDIAMENTO SEDUTA - ANTICIPAZIONE PUNTO N. 1 AGGIUNTIVO DELL'ORDINE DEL GIORNO PROT. N. 31051 DEL 29/08/2017. </title>
-			<description>INSEDIAMENTO SEDUTA - ANTICIPAZIONE PUNTO N. 1 AGGIUNTIVO DELL'ORDINE DEL GIORNO PROT. N. 31051 DEL 29/08/2017. </description>
 			<a10:updated>2017-09-28T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
