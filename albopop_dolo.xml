@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 28 Sep 2017 18:30:38 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 29 Sep 2017 08:30:39 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Thu, 28 Sep 2017 18:30:38 +0200</pubDate>
+		<pubDate>Fri, 29 Sep 2017 08:30:39 +0200</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3533321</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3533321</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 28 Sep 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 13 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3533321</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>IMPEGNO DI SPESA PER ACQUISTO CARTELLE PORTADOCUMENTI PER UFFICIO PROTOCOLLO - CODICE CIG Z402007D1B </title>
+			<description>IMPEGNO DI SPESA PER ACQUISTO CARTELLE PORTADOCUMENTI PER UFFICIO PROTOCOLLO - CODICE CIG Z402007D1B </description>
+			<a10:updated>2017-09-28T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3533042</guid>
 			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3533042</link>
@@ -284,17 +295,6 @@
 			<title>LIQUIDAZIONE FATTURE FORNITURA SOFTWARE E FORMAZIONE ACQUISTO PROGRAMMA DI GESTIONE DELLE PRATICHE EDILIZIE - DITTA MAGGIOLI S.P.A. - CIG: ZB71F3EED9. </title>
 			<description>LIQUIDAZIONE FATTURE FORNITURA SOFTWARE E FORMAZIONE ACQUISTO PROGRAMMA DI GESTIONE DELLE PRATICHE EDILIZIE - DITTA MAGGIOLI S.P.A. - CIG: ZB71F3EED9. </description>
 			<a10:updated>2017-09-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3519906</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3519906</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 23 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 23 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3519906</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISO GENERICO</category>
-			<title> RICHIESTA PUBBLICAZIONE N. 2 AVVISI DI MOBILITÀ ESTERNA: N. 1 POSTO DI ISTRUTTORE TECNICO CAT. C E N. 1 POSTO DI ISTRUTTORE INFORMATICO CAT C PRESSO IL 2° SETTORE “PROGRAMMAZIONE E SVILUPPO DEL TERRITORIO - DECORRENZA PRESUNTA ASSUNZIONE DAL 01-01-2018 </title>
-			<description> RICHIESTA PUBBLICAZIONE N. 2 AVVISI DI MOBILITÀ ESTERNA: N. 1 POSTO DI ISTRUTTORE TECNICO CAT. C E N. 1 POSTO DI ISTRUTTORE INFORMATICO CAT C PRESSO IL 2° SETTORE “PROGRAMMAZIONE E SVILUPPO DEL TERRITORIO - DECORRENZA PRESUNTA ASSUNZIONE DAL 01-01-2018 </description>
-			<a10:updated>2017-09-23T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
