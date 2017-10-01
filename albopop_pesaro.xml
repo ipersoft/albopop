@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 30 Sep 2017 18:30:40 +0200</lastBuildDate>
+		<lastBuildDate>Sun, 01 Oct 2017 08:30:40 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Sat, 30 Sep 2017 18:30:40 +0200</pubDate>
+		<pubDate>Sun, 01 Oct 2017 08:30:40 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/752597</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/752597</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sun, 01 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 30 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">752597</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISI E MANIFESTI ELETTORALI</category>
+			<title>MANIFESTO - AGGIORNAMENTO DELL’ALBO COMUNALE DEGLI SCRUTATORI DEI SEGGI ELETTORALI FORMATO A DOMANDA </title>
+			<description>MANIFESTO - AGGIORNAMENTO DELL’ALBO COMUNALE DEGLI SCRUTATORI DEI SEGGI ELETTORALI FORMATO A DOMANDA </description>
+			<a10:updated>2017-10-01T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/752596</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/752596</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sun, 01 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 31 Oct 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">752596</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISI E MANIFESTI ELETTORALI</category>
+			<title>MANIFESTO - ISTITUZIONE ALBO DELLE PERSONE IDONEE ALL’UFFICIO DI PRESIDENTE DI SEGGIO ELETTORALE </title>
+			<description>MANIFESTO - ISTITUZIONE ALBO DELLE PERSONE IDONEE ALL’UFFICIO DI PRESIDENTE DI SEGGIO ELETTORALE </description>
+			<a10:updated>2017-10-01T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/752565</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/752565</link>
@@ -154,17 +176,6 @@
 			<a10:updated>2017-09-29T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/750633</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/750633</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 29 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 30 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">750633</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALBO PUBBLICAZIONI RICHIESTE DA SOGGETTI ESTERNI</category>
-			<title>AVVISO DI DEPOSITO - ART. 140 CPC, ART.26 DPR 602/1973, ART. 60 DPR 600/1973, - ELENCHI N.N. 145; 146; 147; 148; 149; 150 </title>
-			<description>AVVISO DI DEPOSITO - ART. 140 CPC, ART.26 DPR 602/1973, ART. 60 DPR 600/1973, - ELENCHI N.N. 145; 146; 147; 148; 149; 150 </description>
-			<a10:updated>2017-09-29T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/746150</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/746150</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 29 Sep 2017 02:00:00 +0200</category>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>ERRONEO DOPPIO ADDEBITO UTENZE RELATIVE ALLE RETTE SERVIZI ESTIVI 2017- ACCERTAMENTO DI ENTRATE NON DI PERTINENZA DELL’ENTE E RIMBORSO AGLI UTENTI AVENTI DIRITTO </title>
 			<description>ERRONEO DOPPIO ADDEBITO UTENZE RELATIVE ALLE RETTE SERVIZI ESTIVI 2017- ACCERTAMENTO DI ENTRATE NON DI PERTINENZA DELL’ENTE E RIMBORSO AGLI UTENTI AVENTI DIRITTO </description>
-			<a10:updated>2017-09-28T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/744060</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/744060</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 28 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 13 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">744060</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>ART. 86, COMMA 3, DEL D.LGS.267/2000 RIMBORSO ALLA DITTA SCM GROUP S.P.A. DELLA QUOTA ANNUALE DI ACCANTONAMENTO TFR PER L'AMMINISTRATORE MILA DELLA DORA IN ASPETTATIVA - PRIMO SEMESTRE 2017. </title>
-			<description>ART. 86, COMMA 3, DEL D.LGS.267/2000 RIMBORSO ALLA DITTA SCM GROUP S.P.A. DELLA QUOTA ANNUALE DI ACCANTONAMENTO TFR PER L'AMMINISTRATORE MILA DELLA DORA IN ASPETTATIVA - PRIMO SEMESTRE 2017. </description>
 			<a10:updated>2017-09-28T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
