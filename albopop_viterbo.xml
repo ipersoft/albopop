@@ -5,7 +5,7 @@
 		<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Viterbo</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 02 Oct 2017 13:30:44 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 02 Oct 2017 14:30:49 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Viterbo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Viterbo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Viterbo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_viterbo</a10:id>
-		<pubDate>Mon, 02 Oct 2017 13:30:44 +0200</pubDate>
+		<pubDate>Mon, 02 Oct 2017 14:30:49 +0200</pubDate>
 		<docs>http://albopop.it/comune/viterbo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3538265</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3538265</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 02 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 02 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3538265</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI VARI </category>
+			<title>SOC. FREE TIME S.R.L.. PIANO PARTICOLAREGGIATO IN VARIANTE AL P.R.G. PER LA REALIZZAZIONE DI UN POLO TERMALE IN LOC. "PALIANO - FORNACELLI". </title>
+			<description>SOC. FREE TIME S.R.L.. PIANO PARTICOLAREGGIATO IN VARIANTE AL P.R.G. PER LA REALIZZAZIONE DI UN POLO TERMALE IN LOC. "PALIANO - FORNACELLI". </description>
+			<a10:updated>2017-10-02T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3537895</guid>
 			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3537895</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
 			<title>DETERMINAZIONE DI IMPEGNO DI SPESA "QUOTE ASSOCIATIVE A CONSORZI STRADALI" - ANNO 2016. </title>
 			<description>DETERMINAZIONE DI IMPEGNO DI SPESA "QUOTE ASSOCIATIVE A CONSORZI STRADALI" - ANNO 2016. </description>
-			<a10:updated>2017-10-02T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3537264</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3537264</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 02 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 17 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3537264</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
-			<title>DETERMINAZIONE N.2888/2017-PARZIALE ANNULLAMENTO </title>
-			<description>DETERMINAZIONE N.2888/2017-PARZIALE ANNULLAMENTO </description>
 			<a10:updated>2017-10-02T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
