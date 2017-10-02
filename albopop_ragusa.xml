@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 02 Oct 2017 12:33:14 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 02 Oct 2017 13:31:41 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Mon, 02 Oct 2017 12:33:14 +0200</pubDate>
+		<pubDate>Mon, 02 Oct 2017 13:31:41 +0200</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2980899</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2980899</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 02 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 10 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2980899</category>
+			<category domain="http://albopop.it/specs#item-category-type">ACCERTAMENTO</category>
+			<title>PUBBLICAZIONE DI NOTIFICA AI SENSI DELL'ART. 60 DEL D.P.R. 600/73 A CARICO DI FUDULI IOLANDA VIA P. RUSSINO 21 </title>
+			<description>PUBBLICAZIONE DI NOTIFICA AI SENSI DELL'ART. 60 DEL D.P.R. 600/73 A CARICO DI FUDULI IOLANDA VIA P. RUSSINO 21 </description>
+			<a10:updated>2017-10-02T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2980799</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2980799</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI GIUNTA</category>
 			<title>DEL. G.M. N° 389/17 - ATTO DI CITAZIONE PER RISARCIMENTO DANNI AVANTI IL TRIBUNALE DI RAGUSA. SIG.RA WIDAD ARIF / COMUNE DI RAGUSA - AUUTORIZZAZIONE A STARE IN GIUDIZIO. </title>
 			<description>DEL. G.M. N° 389/17 - ATTO DI CITAZIONE PER RISARCIMENTO DANNI AVANTI IL TRIBUNALE DI RAGUSA. SIG.RA WIDAD ARIF / COMUNE DI RAGUSA - AUUTORIZZAZIONE A STARE IN GIUDIZIO. </description>
-			<a10:updated>2017-09-29T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2978723</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2978723</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 29 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 14 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2978723</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DEL. G.M. N° 388/17 - ATTO DI CITAZIONE PER RISARCIMENTO DANNI AVANTI IL TRIBUNALE DI RAGUSA. SIG.RA BRACCHITTA ROSA / COMUNE DI RAGUSA - AUTORIZZAZIONE A STARE IN GIUDIZIO. </title>
-			<description>DEL. G.M. N° 388/17 - ATTO DI CITAZIONE PER RISARCIMENTO DANNI AVANTI IL TRIBUNALE DI RAGUSA. SIG.RA BRACCHITTA ROSA / COMUNE DI RAGUSA - AUTORIZZAZIONE A STARE IN GIUDIZIO. </description>
 			<a10:updated>2017-09-29T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
