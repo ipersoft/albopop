@@ -5,7 +5,7 @@
 		<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Torri del Benaco</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 02 Oct 2017 08:31:17 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 02 Oct 2017 09:31:57 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Torri del Benaco</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Verona</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Torri del Benaco</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_torridelbenaco</a10:id>
-		<pubDate>Mon, 02 Oct 2017 08:31:17 +0200</pubDate>
+		<pubDate>Mon, 02 Oct 2017 09:31:57 +0200</pubDate>
 		<docs>http://albopop.it/comune/torridelbenaco/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3536347</guid>
+			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3536347</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 02 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 17 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3536347</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISO</category>
+			<title>INTERDIZIONE E CAUTA NAVIGAZIONE NELLO SPECCHIO ACQUEO ANTISTANTE IL PORTO DI BARDOLINO PER LO SPETTACOLO PIROTECNICO FESTA DELL'UVA E DEL VINO BARDOLINO DOMENICA 1 OTTOBRE 2017 CON RECUPERO IN CASO DI CONDIZIONI METEO AVVERSE LUNEDÌ 2 OTTOBRE 2017. TRASMISSIONE ORDINANZA N. 389 DEL 29 SETTEMBRE 2017 </title>
+			<description>INTERDIZIONE E CAUTA NAVIGAZIONE NELLO SPECCHIO ACQUEO ANTISTANTE IL PORTO DI BARDOLINO PER LO SPETTACOLO PIROTECNICO FESTA DELL'UVA E DEL VINO BARDOLINO DOMENICA 1 OTTOBRE 2017 CON RECUPERO IN CASO DI CONDIZIONI METEO AVVERSE LUNEDÌ 2 OTTOBRE 2017. TRASMISSIONE ORDINANZA N. 389 DEL 29 SETTEMBRE 2017 </description>
+			<a10:updated>2017-10-02T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3534836</guid>
 			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3534836</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>IMPEGNO DI SPESA PER COSTO MENSILE PER L' ATTIVAZIONE SERVIZIO BANCOMAT E CARTA DI CREDITO PER L'ANNO 2017/2018/2019. </title>
 			<description>IMPEGNO DI SPESA PER COSTO MENSILE PER L' ATTIVAZIONE SERVIZIO BANCOMAT E CARTA DI CREDITO PER L'ANNO 2017/2018/2019. </description>
-			<a10:updated>2017-09-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3521828</guid>
-			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3521828</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 22 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 07 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3521828</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>IMPEGNO DI SPESA PER USICTA TECNICO DELLA DITTA SKIDATA SRL AL PARCHEGGIO DEL CASTELLO IN DATA 29.08.2017. CIG: Z0C1FBAC5E </title>
-			<description>IMPEGNO DI SPESA PER USICTA TECNICO DELLA DITTA SKIDATA SRL AL PARCHEGGIO DEL CASTELLO IN DATA 29.08.2017. CIG: Z0C1FBAC5E </description>
 			<a10:updated>2017-09-22T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
