@@ -5,7 +5,7 @@
 		<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mazzano</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 02 Oct 2017 09:31:52 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 02 Oct 2017 10:31:46 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mazzano</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mazzano</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mazzano</a10:id>
-		<pubDate>Mon, 02 Oct 2017 09:31:52 +0200</pubDate>
+		<pubDate>Mon, 02 Oct 2017 10:31:46 +0200</pubDate>
 		<docs>http://albopop.it/comune/mazzano/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3536723</guid>
+			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3536723</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 02 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 17 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3536723</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
+			<title>INTEGRAZONE DETERMINAZIONE N. 618 IN DATA 14.08.2017 AVENTE AD OGGETTO: "AFFIDAMENTO DIRETTO, MEDIANTE ODA SUL MEPA, AI SENSI DELL'ARTICOLO 36, COMMA 2, LETT. A), DEL D.LGS. 18/04/2016, N. 50, MANUTENZIONE SERVER DELL IN DOTAZIONE AI COMUNI DELL'AGGREGAZIONE." </title>
+			<description>INTEGRAZONE DETERMINAZIONE N. 618 IN DATA 14.08.2017 AVENTE AD OGGETTO: "AFFIDAMENTO DIRETTO, MEDIANTE ODA SUL MEPA, AI SENSI DELL'ARTICOLO 36, COMMA 2, LETT. A), DEL D.LGS. 18/04/2016, N. 50, MANUTENZIONE SERVER DELL IN DOTAZIONE AI COMUNI DELL'AGGREGAZIONE." </description>
+			<a10:updated>2017-10-02T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3535659</guid>
 			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3535659</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
 			<title>IMPEGNO DI SPESA PER LA GESTIONE DELLE PRESTAZIONI SOCIALI INPS, BONUS GAS, BONUS ENERGIA ELETTRICA, BONUS IDRICO E DELL'INDICATORE DELLA SITUAZIONE ECONOMICA (CAF UGL) </title>
 			<description>IMPEGNO DI SPESA PER LA GESTIONE DELLE PRESTAZIONI SOCIALI INPS, BONUS GAS, BONUS ENERGIA ELETTRICA, BONUS IDRICO E DELL'INDICATORE DELLA SITUAZIONE ECONOMICA (CAF UGL) </description>
-			<a10:updated>2017-09-18T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3511890</guid>
-			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3511890</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 18 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 03 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3511890</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
-			<title>IMPEGNO DI SPESA PER TIROCINIO DI FORMAZIONE E ORIENTAMENTO A FAVORE DELL'UTENTE MATRICOLA N° 407196417. PERIODO AGOSTO - DICEMBRE 2017. </title>
-			<description>IMPEGNO DI SPESA PER TIROCINIO DI FORMAZIONE E ORIENTAMENTO A FAVORE DELL'UTENTE MATRICOLA N° 407196417. PERIODO AGOSTO - DICEMBRE 2017. </description>
 			<a10:updated>2017-09-18T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 02 Oct 2017 09:31:54 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 02 Oct 2017 10:31:49 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Mon, 02 Oct 2017 09:31:54 +0200</pubDate>
+		<pubDate>Mon, 02 Oct 2017 10:31:49 +0200</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2980256</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2980256</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 02 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 09 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2980256</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
+			<title>PIANO AZIONE COESIONE. PROGRAMMA NAZIONALE SERVIZI DI CURA ALL’INFANZIA. PRESA D’ATTO RIMODULAZIONE/RIPROGRAMMAZIONE PIANO DI INTERVENTO PAC INFANZIA 2° RIPARTO. </title>
+			<description>PIANO AZIONE COESIONE. PROGRAMMA NAZIONALE SERVIZI DI CURA ALL’INFANZIA. PRESA D’ATTO RIMODULAZIONE/RIPROGRAMMAZIONE PIANO DI INTERVENTO PAC INFANZIA 2° RIPARTO. </description>
+			<a10:updated>2017-10-02T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2980255</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2980255</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 02 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 10 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2980255</category>
+			<category domain="http://albopop.it/specs#item-category-type">ACCERTAMENTO</category>
+			<title>PUBBLICAZIONE ART.60 A CARICO DI CANTARELLA ALESSANDRA </title>
+			<description>PUBBLICAZIONE ART.60 A CARICO DI CANTARELLA ALESSANDRA </description>
+			<a10:updated>2017-10-02T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2980254</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2980254</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 02 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 10 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2980254</category>
+			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO ATTO DI MATRIMONIO</category>
+			<title>PUBBLICAZIONE ATTO DI MATRIMONIO A NOME DI IANNIZZOTTO PAOLO, PIANINI DOMENICA </title>
+			<description>PUBBLICAZIONE ATTO DI MATRIMONIO A NOME DI IANNIZZOTTO PAOLO, PIANINI DOMENICA </description>
+			<a10:updated>2017-10-02T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2979202</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2979202</link>
@@ -262,39 +295,6 @@
 			<title>APPROVAZIONE AVVISO PUBBLICO ESPLORATIVO PER AFFIDAMENTO SERVIZIO REFEZIONE SCOLASTICA - PERIODO 1 NOVEMBRE 31 GENNAIO 2018 </title>
 			<description>APPROVAZIONE AVVISO PUBBLICO ESPLORATIVO PER AFFIDAMENTO SERVIZIO REFEZIONE SCOLASTICA - PERIODO 1 NOVEMBRE 31 GENNAIO 2018 </description>
 			<a10:updated>2017-09-28T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2978169</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2978169</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 29 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 02 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2978169</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA DA ENTI ESTERNI</category>
-			<title>ORDINANZA N.93 DEL 28/09/2017 DELLA CAPITANERIA DI PORTO DI PORTO DI POZZALLO - RIGUARDANTE LO SVOLGIMENTO DI UNA GARA DI PESCA SPORTIVA PRESSO IL MOLO DI PONENTE DEL PORTO DI MARINA DI RAGUSA GIORNO 01 OTTOBRE 2017 </title>
-			<description>ORDINANZA N.93 DEL 28/09/2017 DELLA CAPITANERIA DI PORTO DI PORTO DI POZZALLO - RIGUARDANTE LO SVOLGIMENTO DI UNA GARA DI PESCA SPORTIVA PRESSO IL MOLO DI PONENTE DEL PORTO DI MARINA DI RAGUSA GIORNO 01 OTTOBRE 2017 </description>
-			<a10:updated>2017-09-29T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2978106</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2978106</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 29 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 09 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2978106</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISO AVVISO PUBBLICO</category>
-			<title>AVVISO PUBBLICO DI INTERESSE PER AFFIDAMENTO SERVIZIO REFEZIONE SCOLASTICA </title>
-			<description>AVVISO PUBBLICO DI INTERESSE PER AFFIDAMENTO SERVIZIO REFEZIONE SCOLASTICA </description>
-			<a10:updated>2017-09-29T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2978104</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2978104</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 29 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 14 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2978104</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISO AVVISO PUBBLICO</category>
-			<title>AVVISO PUBBLICO PER LA NOMINA DEI COMPONENTI DELL'ORGANISMO INDIPENDENTE DI VALUTAZIONE </title>
-			<description>AVVISO PUBBLICO PER LA NOMINA DEI COMPONENTI DELL'ORGANISMO INDIPENDENTE DI VALUTAZIONE </description>
-			<a10:updated>2017-09-29T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
