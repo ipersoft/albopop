@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 02 Oct 2017 10:30:59 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 02 Oct 2017 11:30:52 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Mon, 02 Oct 2017 10:30:59 +0200</pubDate>
+		<pubDate>Mon, 02 Oct 2017 11:30:52 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/752841</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/752841</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 02 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 17 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">752841</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO ATTI E AVVISI DIVERSI</category>
+			<title>CONFERIMENTO INCARICO DI RESPONSABILE DI UNITÀ ORGANIZZATIVA “PROMOZIONE SOCIALE” ALLA DIPENDENTE MARZIA RICCI. </title>
+			<description>CONFERIMENTO INCARICO DI RESPONSABILE DI UNITÀ ORGANIZZATIVA “PROMOZIONE SOCIALE” ALLA DIPENDENTE MARZIA RICCI. </description>
+			<a10:updated>2017-10-02T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/752740</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/752740</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>LAVORI DI RIQUALIFICAZIONE E VALORIZZAZIONE DEL CENTRO STORICO DI PESARO – 1° STRALCIO PIAZZA OLIVIERI E VIA PEDROTTI.- RETTIFICA DETERMINAZIONE N. 1151 DEL 16.05.2017 PER VARIAZIONE ALIQUOTA IVA SU FORNITURA DITTA METALCO S.R.L.- APPROVAZIONE NUOVO QUADRO ECONOMICO IMPEGNI DI SPESA EURO 990,06 </title>
 			<description>LAVORI DI RIQUALIFICAZIONE E VALORIZZAZIONE DEL CENTRO STORICO DI PESARO – 1° STRALCIO PIAZZA OLIVIERI E VIA PEDROTTI.- RETTIFICA DETERMINAZIONE N. 1151 DEL 16.05.2017 PER VARIAZIONE ALIQUOTA IVA SU FORNITURA DITTA METALCO S.R.L.- APPROVAZIONE NUOVO QUADRO ECONOMICO IMPEGNI DI SPESA EURO 990,06 </description>
-			<a10:updated>2017-09-29T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/752480</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/752480</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 29 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 14 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">752480</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>UFFICIO SPORT - CONVENZIONE PER LA GESTIONE DEL DELL’IMPIANTO SPORTIVO COMUNALE DENOMINATO “CAMPO COMUNALE MURAGLIA”, SITO IN VIA GARRONE S.N. - PESARO - CAMBIO NOMINATIVO DEL GESTORE </title>
-			<description>UFFICIO SPORT - CONVENZIONE PER LA GESTIONE DEL DELL’IMPIANTO SPORTIVO COMUNALE DENOMINATO “CAMPO COMUNALE MURAGLIA”, SITO IN VIA GARRONE S.N. - PESARO - CAMBIO NOMINATIVO DEL GESTORE </description>
 			<a10:updated>2017-09-29T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
