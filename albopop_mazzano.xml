@@ -5,7 +5,7 @@
 		<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mazzano</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 02 Oct 2017 15:32:25 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 02 Oct 2017 16:31:56 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mazzano</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mazzano</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mazzano</a10:id>
-		<pubDate>Mon, 02 Oct 2017 15:32:25 +0200</pubDate>
+		<pubDate>Mon, 02 Oct 2017 16:31:56 +0200</pubDate>
 		<docs>http://albopop.it/comune/mazzano/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3538538</guid>
+			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3538538</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 02 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 26 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3538538</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONCORSI PUBBLICI</category>
+			<title>BANDO DI CONCORSO PUBBLICO N. 1 FARMACISTA COLLABORATORE </title>
+			<description>BANDO DI CONCORSO PUBBLICO N. 1 FARMACISTA COLLABORATORE </description>
+			<a10:updated>2017-10-02T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3538524</guid>
+			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3538524</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 02 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 17 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3538524</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO AVVISO AVVISI OPERE ABUSIVE MESE DI APRILE 2015</category>
+			<title>ELENCO ABUSI EDILIZI MESE DI SETTEMBRE 2017: NEGATIVO </title>
+			<description>ELENCO ABUSI EDILIZI MESE DI SETTEMBRE 2017: NEGATIVO </description>
+			<a10:updated>2017-10-02T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3538506</guid>
 			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3538506</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">BANDI GENERICI BANDO</category>
 			<title>BANDO DI CONCORSO N. 1 POSTO DI ISTRUTTORE TECNICO - CAT. C </title>
 			<description>BANDO DI CONCORSO N. 1 POSTO DI ISTRUTTORE TECNICO - CAT. C </description>
-			<a10:updated>2017-09-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3513532</guid>
-			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3513532</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 19 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 04 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3513532</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
-			<title>TRASFERIMENTO PER MOBILITA' ESTERNA VOLONTARIA DELLA DIPENDENTE MARANGON ROBERTA </title>
-			<description>TRASFERIMENTO PER MOBILITA' ESTERNA VOLONTARIA DELLA DIPENDENTE MARANGON ROBERTA </description>
-			<a10:updated>2017-09-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3512934</guid>
-			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3512934</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 19 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 04 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3512934</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
-			<title>TRASFERIMENTO PER MOBILITA' ESTERNA VOLONTARIA DELLA DIPENDENTE ZOTTO SILVIA </title>
-			<description>TRASFERIMENTO PER MOBILITA' ESTERNA VOLONTARIA DELLA DIPENDENTE ZOTTO SILVIA </description>
 			<a10:updated>2017-09-19T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
