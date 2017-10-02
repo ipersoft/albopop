@@ -5,7 +5,7 @@
 		<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bernareggio</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 02 Oct 2017 11:31:01 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 02 Oct 2017 12:31:08 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bernareggio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bernareggio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bernareggio</a10:id>
-		<pubDate>Mon, 02 Oct 2017 11:31:01 +0200</pubDate>
+		<pubDate>Mon, 02 Oct 2017 12:31:08 +0200</pubDate>
 		<docs>http://albopop.it/comune/bernareggio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3537486</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3537486</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 02 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 27 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3537486</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI</category>
+			<title>POSTA CERTIFICATA:L'AVVISO DI MOBILITÀ ESTERNA PER LA COPERTURA CON CONTRATTO A TEMPO INDETERMINATO E A TEMPO PIENO DI N. 1 POSTO DI ISTRUTTORE DIRETTIVO AMMINISTRATIVO, POSIZIONE GIURIDICA DI ACCESSO D1, DA ASSEGNARE AL SETTORE SOCIO CULTURALE DA PUBBLICARE ALL'ALBO PRETORIO. </title>
+			<description>POSTA CERTIFICATA:L'AVVISO DI MOBILITÀ ESTERNA PER LA COPERTURA CON CONTRATTO A TEMPO INDETERMINATO E A TEMPO PIENO DI N. 1 POSTO DI ISTRUTTORE DIRETTIVO AMMINISTRATIVO, POSIZIONE GIURIDICA DI ACCESSO D1, DA ASSEGNARE AL SETTORE SOCIO CULTURALE DA PUBBLICARE ALL'ALBO PRETORIO. </description>
+			<a10:updated>2017-10-02T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3536054</guid>
 			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3536054</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">AVVISI CANCELLAZIONI ANAGRAFICHE</category>
 			<title>CANCELLAZIONE ANAGRAFICA PER IRREPERIBILITÀ KOTEY ALEXANDER </title>
 			<description>CANCELLAZIONE ANAGRAFICA PER IRREPERIBILITÀ KOTEY ALEXANDER </description>
-			<a10:updated>2017-09-26T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3526405</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3526405</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 26 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 02 Nov 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3526405</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI</category>
-			<title>AVVISO INDIZIONE MOBILITA' D1 PL </title>
-			<description>AVVISO INDIZIONE MOBILITA' D1 PL </description>
 			<a10:updated>2017-09-26T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

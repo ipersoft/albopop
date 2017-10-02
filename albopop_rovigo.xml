@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 02 Oct 2017 11:32:51 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 02 Oct 2017 12:33:09 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Mon, 02 Oct 2017 11:32:51 +0200</pubDate>
+		<pubDate>Mon, 02 Oct 2017 12:33:09 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2980711</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2980711</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 02 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 17 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2980711</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
+			<title>CIMITERO DI CONCADIRAME: LAVORI DI REALIZZAZIONE DI UN GRUPPO DI 15 LOCULI. CUP G11B16000170004 - CIG: ZE21C6186C. IMPRESA APPALTATRICE EDILNUOVA DI TERRENTIN S.R.L. CHIOGGIA. APPROVAZIONE CONTABILITÀ FINALE/CERTIFICATO DI REGOLARE ESECUZIONE, LIQUIDAZIONE SALDO ALL’IMPRESA, SVINCOLO CAUZIONE DEFINITIVA CONTRATTUALE. </title>
+			<description>CIMITERO DI CONCADIRAME: LAVORI DI REALIZZAZIONE DI UN GRUPPO DI 15 LOCULI. CUP G11B16000170004 - CIG: ZE21C6186C. IMPRESA APPALTATRICE EDILNUOVA DI TERRENTIN S.R.L. CHIOGGIA. APPROVAZIONE CONTABILITÀ FINALE/CERTIFICATO DI REGOLARE ESECUZIONE, LIQUIDAZIONE SALDO ALL’IMPRESA, SVINCOLO CAUZIONE DEFINITIVA CONTRATTUALE. </description>
+			<a10:updated>2017-10-02T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2980452</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2980452</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
 			<title>REFERENDUM CONSULTIVO REGIONALE DEL 22 OTTOBRE 2017. IMPEGNO DI SPESA PER IL SERVIZIO DI RISCALDAMENTO PRESSO LE SEDI DI SEGGIO ELETTORALE. </title>
 			<description>REFERENDUM CONSULTIVO REGIONALE DEL 22 OTTOBRE 2017. IMPEGNO DI SPESA PER IL SERVIZIO DI RISCALDAMENTO PRESSO LE SEDI DI SEGGIO ELETTORALE. </description>
-			<a10:updated>2017-09-29T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2978308</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2978308</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 29 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 14 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2978308</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>REFERENDUM CONSULTIVO DEL 22 OTTOBRE 2017 APPROVAZIONE SPESA ACQUISTO MATERIALE VARIO (ELETTRICO) PER ALLESTIMENTO SEGGI ELETTORALI - CIG ZD61FF2C0E </title>
-			<description>REFERENDUM CONSULTIVO DEL 22 OTTOBRE 2017 APPROVAZIONE SPESA ACQUISTO MATERIALE VARIO (ELETTRICO) PER ALLESTIMENTO SEGGI ELETTORALI - CIG ZD61FF2C0E </description>
 			<a10:updated>2017-09-29T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

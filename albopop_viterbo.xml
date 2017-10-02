@@ -5,7 +5,7 @@
 		<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Viterbo</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 02 Oct 2017 11:30:55 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 02 Oct 2017 12:31:01 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Viterbo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Viterbo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Viterbo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_viterbo</a10:id>
-		<pubDate>Mon, 02 Oct 2017 11:30:55 +0200</pubDate>
+		<pubDate>Mon, 02 Oct 2017 12:31:01 +0200</pubDate>
 		<docs>http://albopop.it/comune/viterbo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3537396</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3537396</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 02 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 17 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3537396</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE ORDINANZA DIRIGENZIALE</category>
+			<title>ORDINANZA - MDM COSTRUZIONI S.R.L. - LAVORI DI SISTEMAZIONE DEL CHIOSTRO INTERNO DELL'EX TRIBUNALE - INSTALLAZIONE AREA DI CANTIERE PIAZZA FONTANA GRANDE - ISITITUZIONE DIVIETO DI SOSTA </title>
+			<description>ORDINANZA - MDM COSTRUZIONI S.R.L. - LAVORI DI SISTEMAZIONE DEL CHIOSTRO INTERNO DELL'EX TRIBUNALE - INSTALLAZIONE AREA DI CANTIERE PIAZZA FONTANA GRANDE - ISITITUZIONE DIVIETO DI SOSTA </description>
+			<a10:updated>2017-10-02T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3537326</guid>
 			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3537326</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
 			<title>INTERVENTO TECNICO SU SITEMA DI SICUREZZA PRESSO IL PALAZZO DEI PRIORI - CIG Z861FCBF6D </title>
 			<description>INTERVENTO TECNICO SU SITEMA DI SICUREZZA PRESSO IL PALAZZO DEI PRIORI - CIG Z861FCBF6D </description>
-			<a10:updated>2017-10-02T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3537232</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3537232</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 02 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 17 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3537232</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
-			<title>OGGETTO:LAVORI DI SOSTITUZIONE PALI PUBBLICA ILLUMINAZIONE IN VITERBO, VIA DELL'INDUSTRIA E VIA DELLA FERROVIA - AFFIDAMENTO DITTA SONET S.R.L. CON SEDE IN VIA CORI 2/3, 00048 NETTUO (RM) - CIG Z171FAE365 </title>
-			<description>OGGETTO:LAVORI DI SOSTITUZIONE PALI PUBBLICA ILLUMINAZIONE IN VITERBO, VIA DELL'INDUSTRIA E VIA DELLA FERROVIA - AFFIDAMENTO DITTA SONET S.R.L. CON SEDE IN VIA CORI 2/3, 00048 NETTUO (RM) - CIG Z171FAE365 </description>
 			<a10:updated>2017-10-02T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
