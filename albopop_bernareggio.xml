@@ -5,7 +5,7 @@
 		<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bernareggio</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 03 Oct 2017 13:31:01 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 03 Oct 2017 14:31:16 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bernareggio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bernareggio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bernareggio</a10:id>
-		<pubDate>Tue, 03 Oct 2017 13:31:01 +0200</pubDate>
+		<pubDate>Tue, 03 Oct 2017 14:31:16 +0200</pubDate>
 		<docs>http://albopop.it/comune/bernareggio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3540736</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3540736</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 03 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 10 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3540736</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI</category>
+			<title>AVVISO PUBBLICO ESPLORATIVO PER LA RACCOLTA E SELEZIONE DI MANIFESTAZIONI DI INTERESSE ALL’AFFIDAMENTO DEL SERVIZIO DI RIORDINO E INVENTARIAZIONE DELL’ARCHIVIO COMUNALE DI BERNAREGGIO </title>
+			<description>AVVISO PUBBLICO ESPLORATIVO PER LA RACCOLTA E SELEZIONE DI MANIFESTAZIONI DI INTERESSE ALL’AFFIDAMENTO DEL SERVIZIO DI RIORDINO E INVENTARIAZIONE DELL’ARCHIVIO COMUNALE DI BERNAREGGIO </description>
+			<a10:updated>2017-10-03T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3540556</guid>
 			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3540556</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>RIMBORSO A CEM AMBIENTE SPA QUOTE INESIGIBILI TIA ANNO 2016 </title>
 			<description>RIMBORSO A CEM AMBIENTE SPA QUOTE INESIGIBILI TIA ANNO 2016 </description>
-			<a10:updated>2017-09-27T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3528834</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3528834</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 27 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 12 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3528834</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>CIG: Z8B1FFE7B3 - ACQUISTO LICENZE MICROSOFT E1 (ANNO 2017/2018) - 82 CASELLE POSTA MEDIANTE AFFIDAMENTO TRAMITE MEPA - VARIAZIONE DI PEG </title>
-			<description>CIG: Z8B1FFE7B3 - ACQUISTO LICENZE MICROSOFT E1 (ANNO 2017/2018) - 82 CASELLE POSTA MEDIANTE AFFIDAMENTO TRAMITE MEPA - VARIAZIONE DI PEG </description>
 			<a10:updated>2017-09-27T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

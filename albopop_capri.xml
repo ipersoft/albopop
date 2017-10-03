@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 03 Oct 2017 13:32:30 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 03 Oct 2017 14:32:04 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Tue, 03 Oct 2017 13:32:30 +0200</pubDate>
+		<pubDate>Tue, 03 Oct 2017 14:32:04 +0200</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2983060</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2983060</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 03 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 03 Oct 2018 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2983060</category>
+			<category domain="http://albopop.it/specs#item-category-type">AUTORIZZAZIONI PAESAGGISTICHE AUTORIZZAZIONI PAESAGGISTICHE</category>
+			<title>ELENCO AUTORIZZAZIONI PAESAGGISTICHE OTTOBRE 2017 </title>
+			<description>ELENCO AUTORIZZAZIONI PAESAGGISTICHE OTTOBRE 2017 </description>
+			<a10:updated>2017-10-03T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2983058</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2983058</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 03 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 18 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2983058</category>
+			<category domain="http://albopop.it/specs#item-category-type">GARE,BANDI,CONCORSI GARE, BANDI,CONCORSI</category>
+			<title>VERBALE DI SOPRALLUOGO E AFFIDAMENTO DI LAVORI URGENTI C/O VIA DON GIOBBE RUOCCO </title>
+			<description>VERBALE DI SOPRALLUOGO E AFFIDAMENTO DI LAVORI URGENTI C/O VIA DON GIOBBE RUOCCO </description>
+			<a10:updated>2017-10-03T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2982550</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2982550</link>
@@ -61,8 +83,8 @@
 			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 11 Oct 2017 02:00:00 +0200</category>
 			<category domain="http://albopop.it/specs#item-category-uid">2981803</category>
 			<category domain="http://albopop.it/specs#item-category-type">AVVISO PUBBLICAZIONE AVVISO</category>
-			<title>AVVISO DI DEPOSITO ATTI NELLA CASA COMUNALE </title>
-			<description>AVVISO DI DEPOSITO ATTI NELLA CASA COMUNALE </description>
+			<title>AVVISO DI DEPOSITO N. 4 ATTI NELLA CASA COMUNALE </title>
+			<description>AVVISO DI DEPOSITO N. 4 ATTI NELLA CASA COMUNALE </description>
 			<a10:updated>2017-10-03T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>GRUPPO DI MISURA PER ALLACCIAMENTO ELETTRICO IN BT DELL'IMPIANTO ANTINCENDIO IN LOCALITA' TIBERIO (FONDO POMA/"VILLA lYSIS"). APPROVAZIONE DEL PREVENTIVO DELLA DITTA "S.I.P.P.I.C. S.P.A." DI NAPOLI. </title>
 			<description>GRUPPO DI MISURA PER ALLACCIAMENTO ELETTRICO IN BT DELL'IMPIANTO ANTINCENDIO IN LOCALITA' TIBERIO (FONDO POMA/"VILLA lYSIS"). APPROVAZIONE DEL PREVENTIVO DELLA DITTA "S.I.P.P.I.C. S.P.A." DI NAPOLI. </description>
-			<a10:updated>2017-09-28T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2976645</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2976645</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 28 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 13 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2976645</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
-			<title>RECUPERO ARCHIVIO DIGITALE - LIQUIDAZIONE FATTURA DELLA DITTA UNIMATICA S.P.A. - CIG: Z3C1EF5773 </title>
-			<description>RECUPERO ARCHIVIO DIGITALE - LIQUIDAZIONE FATTURA DELLA DITTA UNIMATICA S.P.A. - CIG: Z3C1EF5773 </description>
-			<a10:updated>2017-09-28T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2976643</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2976643</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 28 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 13 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2976643</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
-			<title>AGGIORNAMENTO, MANUTENZIONE ED ASSISTENZA DELLE APPARECCHIATURE INFORMATICHE DEL SISTEMA COMUNALE – LIQUIDAZIONE FATTURA IV TRIMESTRE DITTA ADVISER S.I. – CIG: ZC11CF1A6A </title>
-			<description>AGGIORNAMENTO, MANUTENZIONE ED ASSISTENZA DELLE APPARECCHIATURE INFORMATICHE DEL SISTEMA COMUNALE – LIQUIDAZIONE FATTURA IV TRIMESTRE DITTA ADVISER S.I. – CIG: ZC11CF1A6A </description>
 			<a10:updated>2017-09-28T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

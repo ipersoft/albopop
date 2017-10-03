@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 03 Oct 2017 13:32:42 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 03 Oct 2017 14:32:08 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Tue, 03 Oct 2017 13:32:42 +0200</pubDate>
+		<pubDate>Tue, 03 Oct 2017 14:32:08 +0200</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2983012</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2983012</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 03 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 10 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2983012</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
+			<title>LIQUIDAZIONE SPESE ALL'AVV. SERGIO BONCORAGLIO PER MISSIONI A CATANIA NEI MESI DI MARZO E APRILE. </title>
+			<description>LIQUIDAZIONE SPESE ALL'AVV. SERGIO BONCORAGLIO PER MISSIONI A CATANIA NEI MESI DI MARZO E APRILE. </description>
+			<a10:updated>2017-10-03T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2982853</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2982853</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">AVVISO CARTELLE ESATTORIALI ART. 140</category>
 			<title>PUBBLICAZIONE ART. 140 A CARICO DI ROSINA SILVIA ED ALTRI </title>
 			<description>PUBBLICAZIONE ART. 140 A CARICO DI ROSINA SILVIA ED ALTRI </description>
-			<a10:updated>2017-10-02T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2980479</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2980479</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 02 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 17 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2980479</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERA DI CONSIGLIO</category>
-			<title>DEL. C.C. N° 38/17 - REVISIONE STRAORDINARIA DELLE PARTECIPAZIONI, AI SENSI DELL'ART. 24 DEL D.LGS. 175/20106, COME MODIFICATO DAL DECRETO LEGISLATIVO N. 100/2017 - RICOGNIZIONE PARTECIPAZIONI POSSEDUTE (PROPOSTA DI DELIBERAZIONE DI GIUNTA MUNICIPALE N. 377 DEL 20 SETTEMBRE 2017). </title>
-			<description>DEL. C.C. N° 38/17 - REVISIONE STRAORDINARIA DELLE PARTECIPAZIONI, AI SENSI DELL'ART. 24 DEL D.LGS. 175/20106, COME MODIFICATO DAL DECRETO LEGISLATIVO N. 100/2017 - RICOGNIZIONE PARTECIPAZIONI POSSEDUTE (PROPOSTA DI DELIBERAZIONE DI GIUNTA MUNICIPALE N. 377 DEL 20 SETTEMBRE 2017). </description>
 			<a10:updated>2017-10-02T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
