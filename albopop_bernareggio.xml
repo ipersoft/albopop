@@ -5,7 +5,7 @@
 		<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bernareggio</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 03 Oct 2017 12:31:11 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 03 Oct 2017 13:31:01 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bernareggio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bernareggio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bernareggio</a10:id>
-		<pubDate>Tue, 03 Oct 2017 12:31:11 +0200</pubDate>
+		<pubDate>Tue, 03 Oct 2017 13:31:01 +0200</pubDate>
 		<docs>http://albopop.it/comune/bernareggio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3540556</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3540556</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 03 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 18 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3540556</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
+			<title>CIG: 72172765CA-ZDA200C7F3-Z25200C830 - AVVIO DELLA PROCEDURA DI GARA PER AFFIDAMENTO SERVIZI ASSICURATIVI: ALL RISKS-INFORTUNI-R.C.PATRIMONIALE PER IL PERIODO NOVEMBRE 2017 -GIUGNO 2021 </title>
+			<description>CIG: 72172765CA-ZDA200C7F3-Z25200C830 - AVVIO DELLA PROCEDURA DI GARA PER AFFIDAMENTO SERVIZI ASSICURATIVI: ALL RISKS-INFORTUNI-R.C.PATRIMONIALE PER IL PERIODO NOVEMBRE 2017 -GIUGNO 2021 </description>
+			<a10:updated>2017-10-03T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3539983</guid>
 			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3539983</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>CIG: Z8B1FFE7B3 - ACQUISTO LICENZE MICROSOFT E1 (ANNO 2017/2018) - 82 CASELLE POSTA MEDIANTE AFFIDAMENTO TRAMITE MEPA - VARIAZIONE DI PEG </title>
 			<description>CIG: Z8B1FFE7B3 - ACQUISTO LICENZE MICROSOFT E1 (ANNO 2017/2018) - 82 CASELLE POSTA MEDIANTE AFFIDAMENTO TRAMITE MEPA - VARIAZIONE DI PEG </description>
-			<a10:updated>2017-09-27T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3528831</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3528831</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 27 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 12 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3528831</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>CIG: ZF11FF9D39 - SERVIZIO DI RICARICA N° 2 SIM - P2P APPLICATIVI POLIZIA LOCALE MEDIANTE AFFIDAMENTO TRAMITE MEPA </title>
-			<description>CIG: ZF11FF9D39 - SERVIZIO DI RICARICA N° 2 SIM - P2P APPLICATIVI POLIZIA LOCALE MEDIANTE AFFIDAMENTO TRAMITE MEPA </description>
 			<a10:updated>2017-09-27T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
