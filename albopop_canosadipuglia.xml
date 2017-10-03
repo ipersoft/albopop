@@ -5,7 +5,7 @@
 		<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Canosa di Puglia</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 03 Oct 2017 08:31:05 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 03 Oct 2017 09:32:22 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Canosa di Puglia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Barletta-Andria-Trani</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Canosa di Puglia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_canosadipuglia</a10:id>
-		<pubDate>Tue, 03 Oct 2017 08:31:05 +0200</pubDate>
+		<pubDate>Tue, 03 Oct 2017 09:32:22 +0200</pubDate>
 		<docs>http://albopop.it/comune/canosadipuglia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3539161</guid>
+			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3539161</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 03 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 02 Dec 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3539161</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI E DEPOSITI RENDE NOTO</category>
+			<title>AGGIORNAMENTO ALBO DELLE PERSONE IDONEE ALL'UFFICIO DI SCRUTATORE DI SEGGIO ELETTORALE </title>
+			<description>AGGIORNAMENTO ALBO DELLE PERSONE IDONEE ALL'UFFICIO DI SCRUTATORE DI SEGGIO ELETTORALE </description>
+			<a10:updated>2017-10-03T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3539159</guid>
+			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3539159</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 03 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 02 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3539159</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI E DEPOSITI RENDE NOTO</category>
+			<title>AGGIORNAMENTOALBO DELLE PERSONE IDONEE ALL'UFFICIO DI PRESIDENTE DI SEGGIO ELETTORALE </title>
+			<description>AGGIORNAMENTOALBO DELLE PERSONE IDONEE ALL'UFFICIO DI PRESIDENTE DI SEGGIO ELETTORALE </description>
+			<a10:updated>2017-10-03T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3538925</guid>
 			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3538925</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
 			<title>COD. MC - Programma innovativo in ambito urbano. Contratti di Quartiere II. Zona Castello - Lavori di Edilizia residenziale sovvenzionata da assegnare ad anziani e giovani coppie, comprensiva di edilizia sperimentale. Attività connesse all'attuazione del programma di sperimentazione - integrazione modalità sottoscrizione convenzione </title>
 			<description>COD. MC - Programma innovativo in ambito urbano. Contratti di Quartiere II. Zona Castello - Lavori di Edilizia residenziale sovvenzionata da assegnare ad anziani e giovani coppie, comprensiva di edilizia sperimentale. Attività connesse all'attuazione del programma di sperimentazione - integrazione modalità sottoscrizione convenzione </description>
-			<a10:updated>2017-09-25T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3525379</guid>
-			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3525379</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 25 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 10 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3525379</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
-			<title>COD. MC ai - Rinnovo Certificato Prevenzione incendi edifici comunali. Affidamento attività a tecnico iscritto negli elenchi del Ministero dell’Interno ai sensi della legge 7 dicembre 1984, n. 818 e s.m.i. Integrazione modalità sottoscrizione convenzione di affidamento </title>
-			<description>COD. MC ai - Rinnovo Certificato Prevenzione incendi edifici comunali. Affidamento attività a tecnico iscritto negli elenchi del Ministero dell’Interno ai sensi della legge 7 dicembre 1984, n. 818 e s.m.i. Integrazione modalità sottoscrizione convenzione di affidamento </description>
-			<a10:updated>2017-09-25T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3525377</guid>
-			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3525377</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 25 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 10 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3525377</category>
-			<category domain="http://albopop.it/specs#item-category-type">DECRETI E ORDINANZE DECRETO DI NOMINA</category>
-			<title>INDIVIDUAZIONE DIRIGENTE DEL 3° SETTORE"EDILIZIA". </title>
-			<description>INDIVIDUAZIONE DIRIGENTE DEL 3° SETTORE"EDILIZIA". </description>
 			<a10:updated>2017-09-25T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
