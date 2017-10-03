@@ -5,7 +5,7 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 03 Oct 2017 10:31:11 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 03 Oct 2017 11:31:11 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Isernia</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>Tue, 03 Oct 2017 10:31:11 +0200</pubDate>
+		<pubDate>Tue, 03 Oct 2017 11:31:11 +0200</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3539897</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3539897</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 03 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 18 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3539897</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
+			<title>Liquidazione di spesa relativa all'acquisizione di beni e servizi occorrenti al Museo Civico - ditta: Izzi Taglio Legno </title>
+			<description>Liquidazione di spesa relativa all'acquisizione di beni e servizi occorrenti al Museo Civico - ditta: Izzi Taglio Legno </description>
+			<a10:updated>2017-10-03T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3539894</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3539894</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 03 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 18 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3539894</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
+			<title>Impegno di spesa per stampa volume - ditta: Volturnia edizioni - rif. Delibera di G.C. n. 55/2017 </title>
+			<description>Impegno di spesa per stampa volume - ditta: Volturnia edizioni - rif. Delibera di G.C. n. 55/2017 </description>
+			<a10:updated>2017-10-03T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3539381</guid>
 			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3539381</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
 			<title>ATTO DI LIQUIDAZIONE DI SPESA utenza gas naturale BIBLIOTECA E MUSEO CIVICO- DITTA ESTRA ENERGIE SPA- CIG: 697978197C Periodo: LUGLIO 2017 </title>
 			<description>ATTO DI LIQUIDAZIONE DI SPESA utenza gas naturale BIBLIOTECA E MUSEO CIVICO- DITTA ESTRA ENERGIE SPA- CIG: 697978197C Periodo: LUGLIO 2017 </description>
-			<a10:updated>2017-09-28T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3532958</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3532958</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 28 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 13 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3532958</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
-			<title>ATTO DI LIQUIDAZIONE DI SPESA per Pagamento utenza gas naturale “ Casa dello Studente” DITTA ESTRA ENERGIE SPA- CIG: 697978197C –Periodo: AGOSTO 2017 </title>
-			<description>ATTO DI LIQUIDAZIONE DI SPESA per Pagamento utenza gas naturale “ Casa dello Studente” DITTA ESTRA ENERGIE SPA- CIG: 697978197C –Periodo: AGOSTO 2017 </description>
-			<a10:updated>2017-09-28T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3532594</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3532594</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 28 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 13 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3532594</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
-			<title>ATTO DI LIQUIDAZIONE DI SPESA Per pagamento utenza gas naturale mensa e servizi scolastici DITTA ESTRA ENERGIE SPA- CIG: 697978197C -Periodo: AGOSTO 2017 </title>
-			<description>ATTO DI LIQUIDAZIONE DI SPESA Per pagamento utenza gas naturale mensa e servizi scolastici DITTA ESTRA ENERGIE SPA- CIG: 697978197C -Periodo: AGOSTO 2017 </description>
 			<a10:updated>2017-09-28T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
