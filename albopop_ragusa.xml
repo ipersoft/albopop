@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 03 Oct 2017 09:32:45 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 03 Oct 2017 10:31:40 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Tue, 03 Oct 2017 09:32:45 +0200</pubDate>
+		<pubDate>Tue, 03 Oct 2017 10:31:40 +0200</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2982088</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2982088</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 03 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 06 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2982088</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO</category>
+			<title>REVISIONE DINAMICA STRAORDINARIA DELLA LISTA ELETTORALE FEMMINILE E MASCHILE - MESE DI SETTEMBRE ANNO 2017 </title>
+			<description>REVISIONE DINAMICA STRAORDINARIA DELLA LISTA ELETTORALE FEMMINILE E MASCHILE - MESE DI SETTEMBRE ANNO 2017 </description>
+			<a10:updated>2017-10-03T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2980899</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2980899</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI GIUNTA</category>
 			<title>DEL. G.M. N° 390/17 - ATTO DI CITAZIONE PER RISARCIMENTO DANNI AVANTI AL GIUDICE DI PACE DI BARRA. SIGG. IODICE SERAFINA E MASSIMILIANO RUOTIOLO / COMUNE DI RAGUSA - AUTORIZZAZIONE A STARE IN GIUDIZIO. </title>
 			<description>DEL. G.M. N° 390/17 - ATTO DI CITAZIONE PER RISARCIMENTO DANNI AVANTI AL GIUDICE DI PACE DI BARRA. SIGG. IODICE SERAFINA E MASSIMILIANO RUOTIOLO / COMUNE DI RAGUSA - AUTORIZZAZIONE A STARE IN GIUDIZIO. </description>
-			<a10:updated>2017-09-29T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2978725</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2978725</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 29 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 14 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2978725</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DEL. G.M. N° 389/17 - ATTO DI CITAZIONE PER RISARCIMENTO DANNI AVANTI IL TRIBUNALE DI RAGUSA. SIG.RA WIDAD ARIF / COMUNE DI RAGUSA - AUUTORIZZAZIONE A STARE IN GIUDIZIO. </title>
-			<description>DEL. G.M. N° 389/17 - ATTO DI CITAZIONE PER RISARCIMENTO DANNI AVANTI IL TRIBUNALE DI RAGUSA. SIG.RA WIDAD ARIF / COMUNE DI RAGUSA - AUUTORIZZAZIONE A STARE IN GIUDIZIO. </description>
 			<a10:updated>2017-09-29T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
