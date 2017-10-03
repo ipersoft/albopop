@@ -5,7 +5,7 @@
 		<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Felino</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 02 Oct 2017 18:30:45 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 03 Oct 2017 08:30:49 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Felino</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Felino</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_felino</a10:id>
-		<pubDate>Mon, 02 Oct 2017 18:30:45 +0200</pubDate>
+		<pubDate>Tue, 03 Oct 2017 08:30:49 +0200</pubDate>
 		<docs>http://albopop.it/comune/felino/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -242,17 +242,6 @@
 			<a10:updated>2017-09-05T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2935899</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2935899</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 01 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 02 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2935899</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
-			<title>RICHIESTA PUBBLICAZIONE BANDI </title>
-			<description>RICHIESTA PUBBLICAZIONE BANDI </description>
-			<a10:updated>2017-09-01T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
 			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2932319</guid>
 			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2932319</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 30 Aug 2017 02:00:00 +0200</category>
@@ -295,6 +284,17 @@
 			<title>ORDINANZA PER L’ESECUZIONE DI MANUTENZIONE E SFALCIO DI TERRENI E LOTTI ALL’INTERNO DEL PERIMETRO URBANO E LIMITROFO </title>
 			<description>ORDINANZA PER L’ESECUZIONE DI MANUTENZIONE E SFALCIO DI TERRENI E LOTTI ALL’INTERNO DEL PERIMETRO URBANO E LIMITROFO </description>
 			<a10:updated>2017-04-18T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2741727</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2741727</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 13 Apr 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 10 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2741727</category>
+			<category domain="http://albopop.it/specs#item-category-type">A005 ORDINANZE E AVVISI</category>
+			<title> INTERVENTI PERMANENTI PER TUTTE LE CATEGORIE DI VEICOLI SULLA VIABILITÀ DI VIA BAMBOZZA A SAN MICHELE TIORRE. </title>
+			<description> INTERVENTI PERMANENTI PER TUTTE LE CATEGORIE DI VEICOLI SULLA VIABILITÀ DI VIA BAMBOZZA A SAN MICHELE TIORRE. </description>
+			<a10:updated>2017-04-13T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
