@@ -5,7 +5,7 @@
 		<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/igrid/1210528</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Celle di Bulgheria</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 04 Oct 2017 15:30:34 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 04 Oct 2017 16:31:02 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Celle di Bulgheria</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Salerno</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Celle di Bulgheria</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_celledibulgheria</a10:id>
-		<pubDate>Wed, 04 Oct 2017 15:30:34 +0200</pubDate>
+		<pubDate>Wed, 04 Oct 2017 16:31:02 +0200</pubDate>
 		<docs>http://albopop.it/comune/celledibulgheria/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2985391</guid>
+			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2985391</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 04 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 19 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2985391</category>
+			<category domain="http://albopop.it/specs#item-category-type">BANDI E AVVISI AVVISO</category>
+			<title>TAVOLO DI CONSULTAZIONE DEI SOGGETTI COMPETENTI IN MATERIA AMBIENTALE (SCA) E DEL PUBBLICO INTERESSATO NELL'AMBITO DELLE ATTIVITÀ DI VALUTAZIONE AMBIENTALE STRATEGICA DEL PRELIMINARE DI PIANO URBANISTICO INTERCOMUNALE. TRASMISSIONE PARERI/NOTE/OSSERVAZIONI. </title>
+			<description>TAVOLO DI CONSULTAZIONE DEI SOGGETTI COMPETENTI IN MATERIA AMBIENTALE (SCA) E DEL PUBBLICO INTERESSATO NELL'AMBITO DELLE ATTIVITÀ DI VALUTAZIONE AMBIENTALE STRATEGICA DEL PRELIMINARE DI PIANO URBANISTICO INTERCOMUNALE. TRASMISSIONE PARERI/NOTE/OSSERVAZIONI. </description>
+			<a10:updated>2017-10-04T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2985145</guid>
 			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2985145</link>
@@ -228,17 +239,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>LIQUIDAZIONE DI SPESA PER FORNITURA ENERGIA ELETTRICA PERIODO AGOSTO 2017 PUBBLICA ILLUMINAZIONE- COD 34092 - CIG ZA91D499C8 </title>
 			<description>LIQUIDAZIONE DI SPESA PER FORNITURA ENERGIA ELETTRICA PERIODO AGOSTO 2017 PUBBLICA ILLUMINAZIONE- COD 34092 - CIG ZA91D499C8 </description>
-			<a10:updated>2017-09-28T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2976473</guid>
-			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2976473</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 28 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 13 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2976473</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>LIQUIDAZIONE DI SPESA PER FORNITURA ENERGIA ELETTRICA SCUOLE PERIODO AGOSTO 2017 – CIG Z0E1D49B25 </title>
-			<description>LIQUIDAZIONE DI SPESA PER FORNITURA ENERGIA ELETTRICA SCUOLE PERIODO AGOSTO 2017 – CIG Z0E1D49B25 </description>
 			<a10:updated>2017-09-28T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
