@@ -5,7 +5,7 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/igrid/1233682</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Desio</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 04 Oct 2017 12:30:41 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 04 Oct 2017 13:31:02 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Desio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Desio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_desio</a10:id>
-		<pubDate>Wed, 04 Oct 2017 12:30:41 +0200</pubDate>
+		<pubDate>Wed, 04 Oct 2017 13:31:02 +0200</pubDate>
 		<docs>http://albopop.it/comune/desio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3543008</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3543008</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 04 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 19 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3543008</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>IMPEGNO DI SPESA PER LA FORNITURA DI UN AUTOVEICOLO IBRIDO PER SERVIZI ISTITUZIONALI DIVERSI MEDIANTE RICORSO AL MEPA. EURO 16.386,75 I.V.A. COMPRESA. CODICE CIG Z0C1FE8FA4. </title>
+			<description>IMPEGNO DI SPESA PER LA FORNITURA DI UN AUTOVEICOLO IBRIDO PER SERVIZI ISTITUZIONALI DIVERSI MEDIANTE RICORSO AL MEPA. EURO 16.386,75 I.V.A. COMPRESA. CODICE CIG Z0C1FE8FA4. </description>
+			<a10:updated>2017-10-04T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3542668</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3542668</link>
@@ -228,17 +239,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI GIUNTA</category>
 			<title>FESTA DI DESIO ANNO 2017: PRESA D’ATTO DEL PROGRAMMA DELLE INIZIATIVE DAL 30 SETTEMBRE ALL’ 8 OTTOBRE 2017 </title>
 			<description>FESTA DI DESIO ANNO 2017: PRESA D’ATTO DEL PROGRAMMA DELLE INIZIATIVE DAL 30 SETTEMBRE ALL’ 8 OTTOBRE 2017 </description>
-			<a10:updated>2017-09-29T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3534517</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3534517</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 29 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 14 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3534517</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI GIUNTA</category>
-			<title>ATTIVAZIONE SERVIZI AGGIUNTIVI PRESSO LO SPAZIO ASILO NIDO DI VIA DIAZ </title>
-			<description>ATTIVAZIONE SERVIZI AGGIUNTIVI PRESSO LO SPAZIO ASILO NIDO DI VIA DIAZ </description>
 			<a10:updated>2017-09-29T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

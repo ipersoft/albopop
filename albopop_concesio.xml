@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 04 Oct 2017 12:30:40 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 04 Oct 2017 13:31:01 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Wed, 04 Oct 2017 12:30:40 +0200</pubDate>
+		<pubDate>Wed, 04 Oct 2017 13:31:01 +0200</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3542869</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3542869</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 04 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 18 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3542869</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI AVVISO</category>
+			<title>ACB BANDI - COMUNE DI LONATO DEL GARDA - SCADENZA 18/10/2017 - 20/10/2017 - COMUNE DI SALÒ SCADENZA 31/10/2017 </title>
+			<description>ACB BANDI - COMUNE DI LONATO DEL GARDA - SCADENZA 18/10/2017 - 20/10/2017 - COMUNE DI SALÒ SCADENZA 31/10/2017 </description>
+			<a10:updated>2017-10-04T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3542867</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3542867</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 04 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 31 Oct 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3542867</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI AVVISO</category>
+			<title>ACB BANDI - COMUNE DI LONATO DEL GARDA - SCADENZA 18/10/2017 - 20/10/2017 - COMUNE DI SALÒ SCADENZA 31/10/2017 </title>
+			<description>ACB BANDI - COMUNE DI LONATO DEL GARDA - SCADENZA 18/10/2017 - 20/10/2017 - COMUNE DI SALÒ SCADENZA 31/10/2017 </description>
+			<a10:updated>2017-10-04T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3542868</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3542868</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 04 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 20 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3542868</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI AVVISO</category>
+			<title>ACB BANDI - COMUNE DI LONATO DEL GARDA - SCADENZA 18/10/2017 - 20/10/2017 - COMUNE DI SALÒ SCADENZA 31/10/2017 </title>
+			<description>ACB BANDI - COMUNE DI LONATO DEL GARDA - SCADENZA 18/10/2017 - 20/10/2017 - COMUNE DI SALÒ SCADENZA 31/10/2017 </description>
+			<a10:updated>2017-10-04T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3542326</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3542326</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>ASSUNZIONE IMPEGNO DI SPESA PER L'EROGAZIONE DI UN CONTRIBUTO ECONOMICO A FAVORE DEL GRUPPO VOLONTARIO ASSISTENZA FAMILIARE ONLUS PER LA REALIZZAZIONE DEL PROGETTO "NOSTRO FRATELLO GIUDA - DON PRIMO MAZZOLARI". </title>
 			<description>ASSUNZIONE IMPEGNO DI SPESA PER L'EROGAZIONE DI UN CONTRIBUTO ECONOMICO A FAVORE DEL GRUPPO VOLONTARIO ASSISTENZA FAMILIARE ONLUS PER LA REALIZZAZIONE DEL PROGETTO "NOSTRO FRATELLO GIUDA - DON PRIMO MAZZOLARI". </description>
-			<a10:updated>2017-10-03T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3540031</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3540031</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 03 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 18 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3540031</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>AGGIUDICAZIONE GARA IN SINTEL PER LA FORNITURA E POSA DI NUOVO CONDIZIONATORE PRESSO L'UFFICIO TRIBUTI ( CIG Z031F62CEE) </title>
-			<description>AGGIUDICAZIONE GARA IN SINTEL PER LA FORNITURA E POSA DI NUOVO CONDIZIONATORE PRESSO L'UFFICIO TRIBUTI ( CIG Z031F62CEE) </description>
-			<a10:updated>2017-10-03T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3539839</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3539839</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 03 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 18 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3539839</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>ASSUNZIONE IMPEGNO DI SPESA A FAVORE DELLA SOCIETA' A2A CALORE PER I LAVORI DI SEPARAZIONE DEL CIRCUITO DI RISCALDAMENTO DELLA PALESTRA DALL'AUDITORIUM DELLA SCUOLA MEDIA S.ANDREA ( CIG Z09202081E) </title>
-			<description>ASSUNZIONE IMPEGNO DI SPESA A FAVORE DELLA SOCIETA' A2A CALORE PER I LAVORI DI SEPARAZIONE DEL CIRCUITO DI RISCALDAMENTO DELLA PALESTRA DALL'AUDITORIUM DELLA SCUOLA MEDIA S.ANDREA ( CIG Z09202081E) </description>
-			<a10:updated>2017-10-03T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3539837</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3539837</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 03 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 18 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3539837</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>PROROGA TECNICA IN CAPO ALLA DITTA VELOCAR S.R.L. DELL'APPALTO DEL SERVIZIO DI NOLEGGIO AUTOVELOX MONODIREZIONALE POSIZIONATO SULLA S.P. 19 E TRASMISSIONE DATI MEDIANTE LICENZA SOFTWARE PER ACCERTAMENTI DI VIOLAZIONI ALLA CIRCOLAZIONE STRADALE FINO AL 31/10/2017. C.I.G. n. Z371793777 </title>
-			<description>PROROGA TECNICA IN CAPO ALLA DITTA VELOCAR S.R.L. DELL'APPALTO DEL SERVIZIO DI NOLEGGIO AUTOVELOX MONODIREZIONALE POSIZIONATO SULLA S.P. 19 E TRASMISSIONE DATI MEDIANTE LICENZA SOFTWARE PER ACCERTAMENTI DI VIOLAZIONI ALLA CIRCOLAZIONE STRADALE FINO AL 31/10/2017. C.I.G. n. Z371793777 </description>
 			<a10:updated>2017-10-03T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
