@@ -5,7 +5,7 @@
 		<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Torri del Benaco</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 04 Oct 2017 13:32:53 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 04 Oct 2017 14:33:54 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Torri del Benaco</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Verona</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Torri del Benaco</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_torridelbenaco</a10:id>
-		<pubDate>Wed, 04 Oct 2017 13:32:53 +0200</pubDate>
+		<pubDate>Wed, 04 Oct 2017 14:33:54 +0200</pubDate>
 		<docs>http://albopop.it/comune/torridelbenaco/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3543136</guid>
+			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3543136</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 04 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 19 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3543136</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
+			<title>CHIUSURA TEMPORANEA PARCHEGGIO COMUNALE IN VIA CARDUCCI - MANUTENZIONI SFALCIO ERBA </title>
+			<description>CHIUSURA TEMPORANEA PARCHEGGIO COMUNALE IN VIA CARDUCCI - MANUTENZIONI SFALCIO ERBA </description>
+			<a10:updated>2017-10-04T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3542982</guid>
 			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3542982</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>LIQUIDAZIONE SERVIZIO DI RIPRISTINO DELL’IMPIANTO DI VIDEOSOVEGLIANZA DEL COMUNE DI TORRI DEL BENACO - ANNO 2017 - CIG Z9A1D2C9E6 </title>
 			<description>LIQUIDAZIONE SERVIZIO DI RIPRISTINO DELL’IMPIANTO DI VIDEOSOVEGLIANZA DEL COMUNE DI TORRI DEL BENACO - ANNO 2017 - CIG Z9A1D2C9E6 </description>
-			<a10:updated>2017-09-27T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3528692</guid>
-			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3528692</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 27 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 12 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3528692</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>MECUC N. 1057 PREVENTIVO PER IL SERVIZIO DI DIREZIONE LAVORI ASFLATATURA DI ALCUNE STRADE DEL COMUNE DI TORRI DEL BENACO. CIG: ZE41FF4275. </title>
-			<description>MECUC N. 1057 PREVENTIVO PER IL SERVIZIO DI DIREZIONE LAVORI ASFLATATURA DI ALCUNE STRADE DEL COMUNE DI TORRI DEL BENACO. CIG: ZE41FF4275. </description>
 			<a10:updated>2017-09-27T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
