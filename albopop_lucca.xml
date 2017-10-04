@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 04 Oct 2017 10:31:57 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 04 Oct 2017 11:32:20 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Wed, 04 Oct 2017 10:31:57 +0200</pubDate>
+		<pubDate>Wed, 04 Oct 2017 11:32:20 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3542374</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3542374</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 04 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 09 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3542374</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRO</category>
+			<title> AVVISO DI ASTA PUBBLICA PER ALIENAZIONE DI UN BENE IMMOBILE DI PROPRIETÀ DEL COMUNE DI CAPRAIA ISOLA IL GIORNO 28 NOVEMBRE 2017 PRESSO LA SALA CONSILIARE DEL COMUNE DI CAPRAIA ISOLA (LI) VIA V. EMANUELE N. 26 </title>
+			<description> AVVISO DI ASTA PUBBLICA PER ALIENAZIONE DI UN BENE IMMOBILE DI PROPRIETÀ DEL COMUNE DI CAPRAIA ISOLA IL GIORNO 28 NOVEMBRE 2017 PRESSO LA SALA CONSILIARE DEL COMUNE DI CAPRAIA ISOLA (LI) VIA V. EMANUELE N. 26 </description>
+			<a10:updated>2017-10-04T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3541709</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3541709</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">OGGETTI SMARRITI</category>
 			<title>DENUNCIA DI SMARRIMENTO DI BORSA E CELLULARE - PRATICA N. 2352 DEL 03/10/2017. </title>
 			<description>DENUNCIA DI SMARRIMENTO DI BORSA E CELLULARE - PRATICA N. 2352 DEL 03/10/2017. </description>
-			<a10:updated>2017-10-03T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3540238</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3540238</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 03 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 25 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3540238</category>
-			<category domain="http://albopop.it/specs#item-category-type">OGGETTI SMARRITI</category>
-			<title>DENUNCIA DI SMARRIMENTO DI PORTAFOGLIO - PRATICA N. 2351 DEL 03/10/2017. </title>
-			<description>DENUNCIA DI SMARRIMENTO DI PORTAFOGLIO - PRATICA N. 2351 DEL 03/10/2017. </description>
 			<a10:updated>2017-10-03T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
