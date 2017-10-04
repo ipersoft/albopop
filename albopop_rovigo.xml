@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 04 Oct 2017 08:31:30 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 04 Oct 2017 10:32:02 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Wed, 04 Oct 2017 08:31:30 +0200</pubDate>
+		<pubDate>Wed, 04 Oct 2017 10:32:02 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2984078</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2984078</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 04 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 19 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2984078</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE ORDINANZE</category>
+			<title>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE PER LAVORI POLESINE ACQUE S.P.A. (DIVISIONE FOGNATURA) DA ESEGUIRSI IN VIA ALFIERI, 27 – VIA DEGAN, 27 DAL 09/10/2017 AL 31/10/2017 </title>
+			<description>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE PER LAVORI POLESINE ACQUE S.P.A. (DIVISIONE FOGNATURA) DA ESEGUIRSI IN VIA ALFIERI, 27 – VIA DEGAN, 27 DAL 09/10/2017 AL 31/10/2017 </description>
+			<a10:updated>2017-10-04T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2984075</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2984075</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 04 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 19 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2984075</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE ORDINANZE</category>
+			<title>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE PER LAVORI IN VIA RICCHIERI DETTO “CELIO” DAL 09/10/2017 AL 27/10/017 </title>
+			<description>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE PER LAVORI IN VIA RICCHIERI DETTO “CELIO” DAL 09/10/2017 AL 27/10/017 </description>
+			<a10:updated>2017-10-04T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2984017</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2984017</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 04 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 19 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2984017</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
+			<title>UTENZE TELEFONICHE - LIQUIDAZIONE FATTURE FASTWEB SPA </title>
+			<description>UTENZE TELEFONICHE - LIQUIDAZIONE FATTURE FASTWEB SPA </description>
+			<a10:updated>2017-10-04T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2983640</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2983640</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
 			<title>LIQUIDAZIONE SPESA AFFERENTE LA REGISTRAZIONE DEL CONTRATTO REP.114 DEL 19/9/2017 DI LOCAZIONE DELL'ALLOGGIO “E.R.P.” DI PROPRIETÀ DEL COMUNE DI ROVIGO, SITO IN FRAZIONE GRIGNANO POLESINE (ROVIGO) VIA SCOLO VALDENTRO 46 – PRIMO PIANO, CON ANNESSO GARAGE. </title>
 			<description>LIQUIDAZIONE SPESA AFFERENTE LA REGISTRAZIONE DEL CONTRATTO REP.114 DEL 19/9/2017 DI LOCAZIONE DELL'ALLOGGIO “E.R.P.” DI PROPRIETÀ DEL COMUNE DI ROVIGO, SITO IN FRAZIONE GRIGNANO POLESINE (ROVIGO) VIA SCOLO VALDENTRO 46 – PRIMO PIANO, CON ANNESSO GARAGE. </description>
-			<a10:updated>2017-10-02T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2980882</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2980882</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 03 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 04 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2980882</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI ATTI DIVERSI</category>
-			<title>AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE_ ELENCO N. EL000082587 DEL 02/10/2017_N. 5 NOMINATIVI VARI </title>
-			<description>AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE_ ELENCO N. EL000082587 DEL 02/10/2017_N. 5 NOMINATIVI VARI </description>
-			<a10:updated>2017-10-03T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2980838</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2980838</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 02 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 17 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2980838</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE ORDINANZE</category>
-			<title>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE PER LAVORI DI RIPRISTINO DEFINITIVO DEGLI ASFALTI IN PICCOLI TRATTI IN PROSSIMITA' DEGLI ARMADI VODAFONE A BORDO STRADA DA ESEGUIRSI IN VIE/PIAZZE ZONE ROVIGO NORD E ROVIGO CENTRO – PROROGA DELL'ORDINANZA N. 298/2017 DEL 25/07/2017 </title>
-			<description>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE PER LAVORI DI RIPRISTINO DEFINITIVO DEGLI ASFALTI IN PICCOLI TRATTI IN PROSSIMITA' DEGLI ARMADI VODAFONE A BORDO STRADA DA ESEGUIRSI IN VIE/PIAZZE ZONE ROVIGO NORD E ROVIGO CENTRO – PROROGA DELL'ORDINANZA N. 298/2017 DEL 25/07/2017 </description>
-			<a10:updated>2017-10-02T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2980835</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2980835</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 02 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 17 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2980835</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE ORDINANZE</category>
-			<title>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE PER LA MANIFESTAZIONE “SAGRA DI SANT’EUROSIA” IL GIORNO 08/10/2017 – FRAZIONE DI BOARA POLESINE </title>
-			<description>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE PER LA MANIFESTAZIONE “SAGRA DI SANT’EUROSIA” IL GIORNO 08/10/2017 – FRAZIONE DI BOARA POLESINE </description>
 			<a10:updated>2017-10-02T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
