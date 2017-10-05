@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 05 Oct 2017 15:30:44 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 05 Oct 2017 16:31:12 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Thu, 05 Oct 2017 15:30:44 +0200</pubDate>
+		<pubDate>Thu, 05 Oct 2017 16:31:12 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/765594</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/765594</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 05 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 20 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">765594</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>APPROVAZIONE DEL VERBALE RELATIVO ALLA SEDUTA DELLA CONFERENZA DI SERVIZI PER AMPLIAMENTO DI UN ALBERGO CON CAMBIO D’USO DA ARTIGIANALE A RICETTIVO ALBERGHIERO IN VARIANTE AL PRG VIGENTE PER MEZZO DELLA COSTITUZIONE DI UNA DEPENDANCE E AUMENTO DELLE UNITA' ABITATIVE DA REALIZZARSI NELL’EDIFICIO SITO IN COMUNE DI PESARO, VIA BRIGATA GARIBALDI N.1, LOCALITÀ VILLA FASTIGGI DITTA: F.LLI AMADORI DI AMADORI ELMO &amp; GARDINO S.N.C. </title>
+			<description>APPROVAZIONE DEL VERBALE RELATIVO ALLA SEDUTA DELLA CONFERENZA DI SERVIZI PER AMPLIAMENTO DI UN ALBERGO CON CAMBIO D’USO DA ARTIGIANALE A RICETTIVO ALBERGHIERO IN VARIANTE AL PRG VIGENTE PER MEZZO DELLA COSTITUZIONE DI UNA DEPENDANCE E AUMENTO DELLE UNITA' ABITATIVE DA REALIZZARSI NELL’EDIFICIO SITO IN COMUNE DI PESARO, VIA BRIGATA GARIBALDI N.1, LOCALITÀ VILLA FASTIGGI DITTA: F.LLI AMADORI DI AMADORI ELMO &amp; GARDINO S.N.C. </description>
+			<a10:updated>2017-10-05T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/765570</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/765570</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>AFFIDAMENTO PRIMA FORNITURA TONER RIGENERATI ANNO 2017. TRATTATIVA DIRETTA N. 252648. DITTA ECOSERVICE DI SANTARELLI PAOLO, MATELICA (MC). </title>
 			<description>AFFIDAMENTO PRIMA FORNITURA TONER RIGENERATI ANNO 2017. TRATTATIVA DIRETTA N. 252648. DITTA ECOSERVICE DI SANTARELLI PAOLO, MATELICA (MC). </description>
-			<a10:updated>2017-10-04T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/764920</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/764920</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 04 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 19 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">764920</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>RIMBORSO CONTRIBUTO DI COSTRUZIONE – IMMOBILIARE STERA DI GATTONI STEFANIA E C. S.A.S. </title>
-			<description>RIMBORSO CONTRIBUTO DI COSTRUZIONE – IMMOBILIARE STERA DI GATTONI STEFANIA E C. S.A.S. </description>
 			<a10:updated>2017-10-04T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

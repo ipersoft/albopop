@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 05 Oct 2017 15:31:57 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 05 Oct 2017 16:32:21 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Thu, 05 Oct 2017 15:31:57 +0200</pubDate>
+		<pubDate>Thu, 05 Oct 2017 16:32:21 +0200</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2987470</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2987470</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 05 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 04 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2987470</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO ON LINE ATTI VARI SU RICHIESTA DI ALTRI ENTI</category>
+			<title>PROCEDURA APERTA PER AFFIDAMENTO DEL SERVIZIO TRIENNALE DI GESTIONE E MANUTENZIONE DEL VERDE PUBBLICO NEL COMUNE DI COLLECCHIO </title>
+			<description>PROCEDURA APERTA PER AFFIDAMENTO DEL SERVIZIO TRIENNALE DI GESTIONE E MANUTENZIONE DEL VERDE PUBBLICO NEL COMUNE DI COLLECCHIO </description>
+			<a10:updated>2017-10-05T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2987425</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2987425</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 05 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 21 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2987425</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO ON LINE BANDI GENERICI</category>
+			<title>POSTA CERTIFICATA: AVVISO PUBBLICO DI SELEZIONE DEL COLLEGIO SINDACALE CEV </title>
+			<description>POSTA CERTIFICATA: AVVISO PUBBLICO DI SELEZIONE DEL COLLEGIO SINDACALE CEV </description>
+			<a10:updated>2017-10-05T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2986805</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2986805</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DLG DELIBERA DI GIUNTA</category>
 			<title>RINNOVO CONTRATTO IN ESSERE E NUOVO CONTRATTO DI LOCAZIONE CON LA DITTA COLLECCHIO CENTRO SRL PER LOCALI ADIBITI A SEDE DEGLI UFFICI DI PEDEMONTANA SOCIALE </title>
 			<description>RINNOVO CONTRATTO IN ESSERE E NUOVO CONTRATTO DI LOCAZIONE CON LA DITTA COLLECCHIO CENTRO SRL PER LOCALI ADIBITI A SEDE DEGLI UFFICI DI PEDEMONTANA SOCIALE </description>
-			<a10:updated>2017-10-02T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2980232</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2980232</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 02 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 17 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2980232</category>
-			<category domain="http://albopop.it/specs#item-category-type">DLG DELIBERA DI GIUNTA</category>
-			<title>LINEE GUIDA AL DIRETTORE DI FARMACIA CIRCA I COMPENSI PER GLI INCARICHI LIBERO PROFESSIONALI. </title>
-			<description>LINEE GUIDA AL DIRETTORE DI FARMACIA CIRCA I COMPENSI PER GLI INCARICHI LIBERO PROFESSIONALI. </description>
-			<a10:updated>2017-10-02T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2980230</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2980230</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 02 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 17 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2980230</category>
-			<category domain="http://albopop.it/specs#item-category-type">DLG DELIBERA DI GIUNTA</category>
-			<title>REALIZZAZIONE DI NUOVE CELLETTE OSSARI NEL CIMITERO DI COLLECCHIO CAPOLUOGO. APPROVAZIONE DEL PROGETTO DEFINITIVO – ESECUTIVO.CUP: G97H17000680004 </title>
-			<description>REALIZZAZIONE DI NUOVE CELLETTE OSSARI NEL CIMITERO DI COLLECCHIO CAPOLUOGO. APPROVAZIONE DEL PROGETTO DEFINITIVO – ESECUTIVO.CUP: G97H17000680004 </description>
 			<a10:updated>2017-10-02T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
