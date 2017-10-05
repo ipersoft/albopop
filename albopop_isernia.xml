@@ -5,7 +5,7 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 05 Oct 2017 10:31:46 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 05 Oct 2017 11:31:03 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Isernia</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>Thu, 05 Oct 2017 10:31:46 +0200</pubDate>
+		<pubDate>Thu, 05 Oct 2017 11:31:03 +0200</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3544983</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3544983</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 05 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 20 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3544983</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA GIUNTA COMUNALE</category>
+			<title>INDIVIDUAZIONE DEGLI ENTI E DELLE SOCIETA’ PARTECIPATE COSTITUENTI IL GRUPPO AMMINISTRAZIONE PUBBLICA DEL COMUNE DI ISERNIA PER L’ESERCIZIO 2016. </title>
+			<description>INDIVIDUAZIONE DEGLI ENTI E DELLE SOCIETA’ PARTECIPATE COSTITUENTI IL GRUPPO AMMINISTRAZIONE PUBBLICA DEL COMUNE DI ISERNIA PER L’ESERCIZIO 2016. </description>
+			<a10:updated>2017-10-05T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3544980</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3544980</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 05 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 20 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3544980</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
+			<title>liquidazione fattura “FATTPA 45_17” n. 45/2-10-2017 da Pedone Antonio </title>
+			<description>liquidazione fattura “FATTPA 45_17” n. 45/2-10-2017 da Pedone Antonio </description>
+			<a10:updated>2017-10-05T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3544881</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3544881</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 05 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 20 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3544881</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA GIUNTA COMUNALE</category>
+			<title>APPROVAZIONE PIANO ESECUTIVO DI GESTIONE (PEG) 2017/2019 ai sensi dell'articolo 169 DEL D.LGS. 267/2000. </title>
+			<description>APPROVAZIONE PIANO ESECUTIVO DI GESTIONE (PEG) 2017/2019 ai sensi dell'articolo 169 DEL D.LGS. 267/2000. </description>
+			<a10:updated>2017-10-05T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3544422</guid>
 			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3544422</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
 			<title>[AMBITO TERRITORIALE SOCIALE] AVVISO “HOME CARE PREMIUM 2014” PER L’ADESIONE E LA GESTIONE DI PROGETTI INNOVATIVI E SPERIMENTALI DI ASSISTENZA DOMICILIARE. INTEGRAZIONE ALLA DETERMINAZIONE N. GEN. 2071/2016. </title>
 			<description>[AMBITO TERRITORIALE SOCIALE] AVVISO “HOME CARE PREMIUM 2014” PER L’ADESIONE E LA GESTIONE DI PROGETTI INNOVATIVI E SPERIMENTALI DI ASSISTENZA DOMICILIARE. INTEGRAZIONE ALLA DETERMINAZIONE N. GEN. 2071/2016. </description>
-			<a10:updated>2017-10-03T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3539284</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3539284</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 03 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 18 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3539284</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
-			<title>IMPEGNO E LIQUIDAZIONE PER UTENZA ENERGIA ELETTRICA DEL PALAFRARACCIO. DITTA ENEL ENERGIA SPA. </title>
-			<description>IMPEGNO E LIQUIDAZIONE PER UTENZA ENERGIA ELETTRICA DEL PALAFRARACCIO. DITTA ENEL ENERGIA SPA. </description>
-			<a10:updated>2017-10-03T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3539153</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3539153</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 03 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 18 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3539153</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
-			<title>[AMBITO TERRITORIALE SOCIALE] PROVVEDIMENTO DI AUTORIZZAZIONE AL FUNZIONAMENTO - SOCIETÀ COOPERATIVA SOCIALE MY SUNNY LIFE. </title>
-			<description>[AMBITO TERRITORIALE SOCIALE] PROVVEDIMENTO DI AUTORIZZAZIONE AL FUNZIONAMENTO - SOCIETÀ COOPERATIVA SOCIALE MY SUNNY LIFE. </description>
-			<a10:updated>2017-10-03T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3538969</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3538969</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 03 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 18 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3538969</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
-			<title>DEFINIZIONE SINISTRO R.C.T. - IMPORTO A CARICO DEL COMUNE DI ISERNIA NEI TERMINI DELLA POLIZZA ASSICURATIVA STIPULATA CON LA SOCIETA’ “ARISCOM” Spa PER LA RESPONSABILITA' CIVILE VERSO TERZI - SIG.RA M.G. </title>
-			<description>DEFINIZIONE SINISTRO R.C.T. - IMPORTO A CARICO DEL COMUNE DI ISERNIA NEI TERMINI DELLA POLIZZA ASSICURATIVA STIPULATA CON LA SOCIETA’ “ARISCOM” Spa PER LA RESPONSABILITA' CIVILE VERSO TERZI - SIG.RA M.G. </description>
 			<a10:updated>2017-10-03T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
