@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 04 Oct 2017 17:31:08 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 05 Oct 2017 09:31:36 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Wed, 04 Oct 2017 17:31:08 +0200</pubDate>
+		<pubDate>Thu, 05 Oct 2017 09:31:36 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3544201</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3544201</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 05 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 04 Dec 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3544201</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI E BANDI VARI</category>
+			<title>VERBALE DI CONSTATAZIONE DELLO STATO DEL VEICOLO ABBANDONATO SU AREA PUBBLICA E CONTESTUALE RIMOZIONE PER CONFERIMENTO PROVVISORIO A CENTRO DI RACCOLTA AUTORIZZATO (ART. 1 DEL DM 22.10.1999 N.460) </title>
+			<description>VERBALE DI CONSTATAZIONE DELLO STATO DEL VEICOLO ABBANDONATO SU AREA PUBBLICA E CONTESTUALE RIMOZIONE PER CONFERIMENTO PROVVISORIO A CENTRO DI RACCOLTA AUTORIZZATO (ART. 1 DEL DM 22.10.1999 N.460) </description>
+			<a10:updated>2017-10-05T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3543346</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3543346</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DEPOSITO ATTI CASA COMUNALE</category>
 			<title>ARTICOLO 60, COMMA E) DPR 600/1973- BORRIELLO LUCA- REP NR. 2492/2017- NOTIFICA ATTO </title>
 			<description>ARTICOLO 60, COMMA E) DPR 600/1973- BORRIELLO LUCA- REP NR. 2492/2017- NOTIFICA ATTO </description>
-			<a10:updated>2017-10-03T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3541101</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3541101</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 03 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 11 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3541101</category>
-			<category domain="http://albopop.it/specs#item-category-type">DEPOSITO ATTI CASA COMUNALE</category>
-			<title>ARTICOLO 60, COMMA E) DPR 600/1973 - BPS TRASPORTI SOCIETA' COOPERATIVA- REP. NR. 2437/2017- NOTIFICA ATTO </title>
-			<description>ARTICOLO 60, COMMA E) DPR 600/1973 - BPS TRASPORTI SOCIETA' COOPERATIVA- REP. NR. 2437/2017- NOTIFICA ATTO </description>
 			<a10:updated>2017-10-03T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
