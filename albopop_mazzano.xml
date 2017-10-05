@@ -5,7 +5,7 @@
 		<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mazzano</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 05 Oct 2017 09:33:10 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 05 Oct 2017 10:32:05 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mazzano</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mazzano</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mazzano</a10:id>
-		<pubDate>Thu, 05 Oct 2017 09:33:10 +0200</pubDate>
+		<pubDate>Thu, 05 Oct 2017 10:32:05 +0200</pubDate>
 		<docs>http://albopop.it/comune/mazzano/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3544551</guid>
+			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3544551</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 05 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 20 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3544551</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
+			<title>AFFIDAMENTO DIRETTO, MEDIANTE ODA SUL MEPA, AI SENSI DELL'ARTICOLO 36, COMMA 2, LETT. A), DEL D.LGS. 18/04/2016, N. 50, DELLA FORNITURA DI LICENZE SOFTWARE ANTIVIRUS PER I COMUNI DELL'AGGREGAZIONE </title>
+			<description>AFFIDAMENTO DIRETTO, MEDIANTE ODA SUL MEPA, AI SENSI DELL'ARTICOLO 36, COMMA 2, LETT. A), DEL D.LGS. 18/04/2016, N. 50, DELLA FORNITURA DI LICENZE SOFTWARE ANTIVIRUS PER I COMUNI DELL'AGGREGAZIONE </description>
+			<a10:updated>2017-10-05T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3543965</guid>
 			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3543965</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
 			<title>RETTIFICA BANDO DI CONCORSO PUBBLICO PER ESAMI PER LA COPERTURA CON CONTRATTO A TEMPO PIENO ED INDETERMINATO DI N. 1 POSTO DI “FUNZIONARIO TECNICO” - CATEGORIA GIURIDICA D3, POSIZIONE ECONOMICA D3, PRESSO I COMUNI DELL’AGGREGAZIONE MAZZANO – NUVOLERA – NUVOLENTO </title>
 			<description>RETTIFICA BANDO DI CONCORSO PUBBLICO PER ESAMI PER LA COPERTURA CON CONTRATTO A TEMPO PIENO ED INDETERMINATO DI N. 1 POSTO DI “FUNZIONARIO TECNICO” - CATEGORIA GIURIDICA D3, POSIZIONE ECONOMICA D3, PRESSO I COMUNI DELL’AGGREGAZIONE MAZZANO – NUVOLERA – NUVOLENTO </description>
-			<a10:updated>2017-09-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3522239</guid>
-			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3522239</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 22 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 07 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3522239</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERE DI GIUNTA COMUNALE</category>
-			<title>DELIMITAZIONE, RIPARTIZIONE ED ASSEGNAZIONE SPAZI PER AFFISSIONI DI PROPAGANDA ELETTORALE PER REFERENDUM REGIONALE DEL 22 OTTOBRE 2017. </title>
-			<description>DELIMITAZIONE, RIPARTIZIONE ED ASSEGNAZIONE SPAZI PER AFFISSIONI DI PROPAGANDA ELETTORALE PER REFERENDUM REGIONALE DEL 22 OTTOBRE 2017. </description>
 			<a10:updated>2017-09-22T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

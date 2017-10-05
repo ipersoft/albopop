@@ -5,7 +5,7 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 05 Oct 2017 09:32:12 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 05 Oct 2017 10:31:46 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Isernia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>Thu, 05 Oct 2017 09:32:12 +0200</pubDate>
+		<pubDate>Thu, 05 Oct 2017 10:31:46 +0200</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3544422</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3544422</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 05 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 20 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3544422</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
+			<title>Intervento di miglioramento ed ottimizzazione del sistema fognario, di collettamento e depurativo. Importo complessivo progetto: €. 525.000,00. Approvazione quadro economico rimodulato secondo le indicazione della Regione Molise. </title>
+			<description>Intervento di miglioramento ed ottimizzazione del sistema fognario, di collettamento e depurativo. Importo complessivo progetto: €. 525.000,00. Approvazione quadro economico rimodulato secondo le indicazione della Regione Molise. </description>
+			<a10:updated>2017-10-05T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3542864</guid>
 			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3542864</link>
@@ -284,17 +295,6 @@
 			<title>DEFINIZIONE SINISTRO R.C.T. - IMPORTO A CARICO DEL COMUNE DI ISERNIA NEI TERMINI DELLA POLIZZA ASSICURATIVA STIPULATA CON LA SOCIETA’ “ARISCOM” Spa PER LA RESPONSABILITA' CIVILE VERSO TERZI - SIG.RA M.G. </title>
 			<description>DEFINIZIONE SINISTRO R.C.T. - IMPORTO A CARICO DEL COMUNE DI ISERNIA NEI TERMINI DELLA POLIZZA ASSICURATIVA STIPULATA CON LA SOCIETA’ “ARISCOM” Spa PER LA RESPONSABILITA' CIVILE VERSO TERZI - SIG.RA M.G. </description>
 			<a10:updated>2017-10-03T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3538303</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3538303</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 02 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 17 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3538303</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
-			<title>Assegno di maternità-Caf ACLI </title>
-			<description>Assegno di maternità-Caf ACLI </description>
-			<a10:updated>2017-10-02T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
