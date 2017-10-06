@@ -5,7 +5,7 @@
 		<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Viterbo</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 06 Oct 2017 10:30:44 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 06 Oct 2017 11:30:44 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Viterbo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Viterbo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Viterbo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_viterbo</a10:id>
-		<pubDate>Fri, 06 Oct 2017 10:30:44 +0200</pubDate>
+		<pubDate>Fri, 06 Oct 2017 11:30:44 +0200</pubDate>
 		<docs>http://albopop.it/comune/viterbo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3547656</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3547656</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 06 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 21 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3547656</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI VARI </category>
+			<title>TRASFERIMENTO FARMACIA BLASI DA VIALE FIUME N.06 A VIALE FIUME N.71/B/C. </title>
+			<description>TRASFERIMENTO FARMACIA BLASI DA VIALE FIUME N.06 A VIALE FIUME N.71/B/C. </description>
+			<a10:updated>2017-10-06T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3546629</guid>
 			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3546629</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONI SENZA IMPEGNO DI SPESA</category>
 			<title>ASSENZA PER MALATTIA - RIDUZIONE DELLA RETRIBUZIONE </title>
 			<description>ASSENZA PER MALATTIA - RIDUZIONE DELLA RETRIBUZIONE </description>
-			<a10:updated>2017-10-04T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3542130</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3542130</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 04 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 19 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3542130</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONI SENZA IMPEGNO DI SPESA</category>
-			<title>"INTERVENTI FINALIZZATI ALL'OTTENIMENTO DEL CPI IN ALCUNE SCUOLE COMUNALI- CIG 6511857A62 - CUP D86J15000070002-COD. INV.1641"- "INTERVENTI DI ADEGUAMENTO FUNZIONALE DELLA SCUOLA MEDIA "P. EGIDI"- CIG 6511834768 CUPD86J15000060002-COD. INV. 1639" - "-LAVORI DI ADEGUAMENTO DELLA SCUOLA ELEMENTARE "A. VOLTA" ALLE VIGENTI DISPOSIZIONI IN TEMA DI IGIENE E SICUREZZA -CIG 651304706A -CUP D83B12000230006 , COD. INV 1638" - NOMINA RUP </title>
-			<description>"INTERVENTI FINALIZZATI ALL'OTTENIMENTO DEL CPI IN ALCUNE SCUOLE COMUNALI- CIG 6511857A62 - CUP D86J15000070002-COD. INV.1641"- "INTERVENTI DI ADEGUAMENTO FUNZIONALE DELLA SCUOLA MEDIA "P. EGIDI"- CIG 6511834768 CUPD86J15000060002-COD. INV. 1639" - "-LAVORI DI ADEGUAMENTO DELLA SCUOLA ELEMENTARE "A. VOLTA" ALLE VIGENTI DISPOSIZIONI IN TEMA DI IGIENE E SICUREZZA -CIG 651304706A -CUP D83B12000230006 , COD. INV 1638" - NOMINA RUP </description>
 			<a10:updated>2017-10-04T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

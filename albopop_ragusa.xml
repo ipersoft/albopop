@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 06 Oct 2017 10:31:20 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 06 Oct 2017 11:31:21 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Fri, 06 Oct 2017 10:31:20 +0200</pubDate>
+		<pubDate>Fri, 06 Oct 2017 11:31:21 +0200</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2988493</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2988493</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 06 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 07 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2988493</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO CARTELLE ESATTORIALI ART. 140</category>
+			<title>PUBBLICAZIONE ART.140 A CARICO DI DISTEFANO EMANUELA ED ALTRI </title>
+			<description>PUBBLICAZIONE ART.140 A CARICO DI DISTEFANO EMANUELA ED ALTRI </description>
+			<a10:updated>2017-10-06T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2988382</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2988382</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
 			<title> APPROVAZIONE ATTI DI CONTABILITA' FINALE, CERTIFICATO DI REGOLARE ESECUZIONE E SVINCOLO CAUZIONALE DEI LAVORI DI COSTRUZIONE, MANUTENZIONE E SISTEMAZIONE DI VIE E PIAZZE. IMPRESA INFRASTRUTTURE E CONSOLIDAMENTI SRLS - CON SEDE IN 81030 CENCELLO ED ARNONE (CE) VIA S. CARLO SNC , PARCO DEI PINI </title>
 			<description> APPROVAZIONE ATTI DI CONTABILITA' FINALE, CERTIFICATO DI REGOLARE ESECUZIONE E SVINCOLO CAUZIONALE DEI LAVORI DI COSTRUZIONE, MANUTENZIONE E SISTEMAZIONE DI VIE E PIAZZE. IMPRESA INFRASTRUTTURE E CONSOLIDAMENTI SRLS - CON SEDE IN 81030 CENCELLO ED ARNONE (CE) VIA S. CARLO SNC , PARCO DEI PINI </description>
-			<a10:updated>2017-10-05T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2986823</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2986823</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 05 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 25 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2986823</category>
-			<category domain="http://albopop.it/specs#item-category-type">CANCELLAZIONE ANAGRAFICA</category>
-			<title>ART. 143 A CARICO DI GUIBENE ROCHDI </title>
-			<description>ART. 143 A CARICO DI GUIBENE ROCHDI </description>
 			<a10:updated>2017-10-05T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
