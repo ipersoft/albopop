@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 05 Oct 2017 18:31:15 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 06 Oct 2017 08:31:09 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Thu, 05 Oct 2017 18:31:15 +0200</pubDate>
+		<pubDate>Fri, 06 Oct 2017 08:31:09 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2987973</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2987973</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 06 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 21 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2987973</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
+			<title>VARIAZIONE ALLE PARTITE DI GIRO AI SENSI DELL'ART. 175 COMMA 5 QUATER LETT. E) DEL D.LGS. 267/2000 - IMPOSTA DI BOLLO </title>
+			<description>VARIAZIONE ALLE PARTITE DI GIRO AI SENSI DELL'ART. 175 COMMA 5 QUATER LETT. E) DEL D.LGS. 267/2000 - IMPOSTA DI BOLLO </description>
+			<a10:updated>2017-10-06T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2987776</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2987776</link>
@@ -284,17 +295,6 @@
 			<title>REVOCA DETERMINAZIONE DIRIGENZIALE N. 2034 DEL 28/09/2017 </title>
 			<description>REVOCA DETERMINAZIONE DIRIGENZIALE N. 2034 DEL 28/09/2017 </description>
 			<a10:updated>2017-10-05T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2985412</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2985412</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 04 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 19 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2985412</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DECRETI</category>
-			<title>MODIFICA DECRETO DIRIGENZIALE N. 114 DEL 17/10/2016 </title>
-			<description>MODIFICA DECRETO DIRIGENZIALE N. 114 DEL 17/10/2016 </description>
-			<a10:updated>2017-10-04T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
