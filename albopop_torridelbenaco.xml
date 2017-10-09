@@ -5,7 +5,7 @@
 		<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Torri del Benaco</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 09 Oct 2017 10:31:46 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 09 Oct 2017 11:31:30 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Torri del Benaco</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Verona</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Torri del Benaco</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_torridelbenaco</a10:id>
-		<pubDate>Mon, 09 Oct 2017 10:31:46 +0200</pubDate>
+		<pubDate>Mon, 09 Oct 2017 11:31:30 +0200</pubDate>
 		<docs>http://albopop.it/comune/torridelbenaco/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3551174</guid>
+			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3551174</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 09 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 24 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3551174</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
+			<title>DISCIPLINA DELLA COMBUSTIONE CONTROLLATA SUL LUOGO DI PRODUZIONE DI RESIDUI VEGETALI PER LE ANNUALITÀ 2017/2018. L.R. N.11 02.04.2014 </title>
+			<description>DISCIPLINA DELLA COMBUSTIONE CONTROLLATA SUL LUOGO DI PRODUZIONE DI RESIDUI VEGETALI PER LE ANNUALITÀ 2017/2018. L.R. N.11 02.04.2014 </description>
+			<a10:updated>2017-10-09T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3547686</guid>
 			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3547686</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
 			<title>APPROVAZIONE DELLO STUDIO DI FATTIBILITÀ PER IL RIFACIMENTO DELLA PAVIMENTAZIONE IN CUBETTI DI PORFIDO IN VIA SAN FILIPPO, PIAZZA CHIESA E VIA VITTORIO VENETO E IL RIDIMENSIONAMENTO DELLE AIUOLE IN VIA VITTORIO VENETO </title>
 			<description>APPROVAZIONE DELLO STUDIO DI FATTIBILITÀ PER IL RIFACIMENTO DELLA PAVIMENTAZIONE IN CUBETTI DI PORFIDO IN VIA SAN FILIPPO, PIAZZA CHIESA E VIA VITTORIO VENETO E IL RIDIMENSIONAMENTO DELLE AIUOLE IN VIA VITTORIO VENETO </description>
-			<a10:updated>2017-10-02T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3537527</guid>
-			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3537527</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 02 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 17 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3537527</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>APPROVAZIONE STUDIO DI FATTIBILITÀ TECNICO ECONOMICA REALIZZAZIONE SENTIERI DI ACCESSO E PONTE TIBETANO SULLA VAL VANZANA </title>
-			<description>APPROVAZIONE STUDIO DI FATTIBILITÀ TECNICO ECONOMICA REALIZZAZIONE SENTIERI DI ACCESSO E PONTE TIBETANO SULLA VAL VANZANA </description>
 			<a10:updated>2017-10-02T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
