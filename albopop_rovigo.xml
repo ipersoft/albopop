@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 09 Oct 2017 13:31:05 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 09 Oct 2017 14:31:14 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,55 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Mon, 09 Oct 2017 13:31:05 +0200</pubDate>
+		<pubDate>Mon, 09 Oct 2017 14:31:14 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2991561</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2991561</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 09 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 17 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2991561</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE PUBBLICAZIONI MATRIMONIALI</category>
+			<title>PUBBLICAZIONE DI MATRIMONIO CASARO E ANDREGHETTI </title>
+			<description>PUBBLICAZIONE DI MATRIMONIO CASARO E ANDREGHETTI </description>
+			<a10:updated>2017-10-09T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2991509</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2991509</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 09 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 17 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2991509</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE PUBBLICAZIONI MATRIMONIALI</category>
+			<title>PUBBLICAZIONE DI MATRIMONIO CAVALLARO E PELACHIN </title>
+			<description>PUBBLICAZIONE DI MATRIMONIO CAVALLARO E PELACHIN </description>
+			<a10:updated>2017-10-09T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2991508</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2991508</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 09 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 30 Oct 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2991508</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE</category>
+			<title>AVVISO VEICOLO IN STATO DI FERMO CUSTODITO C/O LA GENTILE TELAIO HP07003555 </title>
+			<description>AVVISO VEICOLO IN STATO DI FERMO CUSTODITO C/O LA GENTILE TELAIO HP07003555 </description>
+			<a10:updated>2017-10-09T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2991487</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2991487</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 09 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 30 Oct 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2991487</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE</category>
+			<title>AVVISO VEICOLO SEQUESTRATO CUSTODITO DA PERSONA DELEGATA DAL CONDUCENTE TELAIO W0L0SDL6874178342 </title>
+			<description>AVVISO VEICOLO SEQUESTRATO CUSTODITO DA PERSONA DELEGATA DAL CONDUCENTE TELAIO W0L0SDL6874178342 </description>
+			<a10:updated>2017-10-09T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2991386</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2991386</link>
@@ -250,50 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
 			<title>LIQUIDAZIONE RETTE DI RICOVERO ALL'ISTITUTO LA RESIDENCE SRL. LUGLIO/AGOSTO 2017. </title>
 			<description>LIQUIDAZIONE RETTE DI RICOVERO ALL'ISTITUTO LA RESIDENCE SRL. LUGLIO/AGOSTO 2017. </description>
-			<a10:updated>2017-10-06T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2988326</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2988326</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 06 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 21 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2988326</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE ORDINANZE</category>
-			<title>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE NEL SEGUENTE SITO: VIALE PORTA ADIGE, DAL 06.10.2017 AL 09.10.2017 </title>
-			<description>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE NEL SEGUENTE SITO: VIALE PORTA ADIGE, DAL 06.10.2017 AL 09.10.2017 </description>
-			<a10:updated>2017-10-06T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2988217</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2988217</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 06 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 21 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2988217</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>PRENOTAZIONE DI SPESA PER L'ACQUISTO DI 20 PC E DI 20 MONITOR MEDIANTE RICHIESTA DI OFFERTA RDO SUL MERCATO ELETTRONICO DELLA PUBBLICA AMMINISTRAZIONE. DETERMINA A CONTRARRE. </title>
-			<description>PRENOTAZIONE DI SPESA PER L'ACQUISTO DI 20 PC E DI 20 MONITOR MEDIANTE RICHIESTA DI OFFERTA RDO SUL MERCATO ELETTRONICO DELLA PUBBLICA AMMINISTRAZIONE. DETERMINA A CONTRARRE. </description>
-			<a10:updated>2017-10-06T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2988163</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2988163</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 06 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 21 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2988163</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE PERMESSI DI COSTRUIRE</category>
-			<title>PERMESSO DI COSTRUIRE IN ACCERTAMENTO DI CONFORMITÀ EX ART.36 DPR 380/01 N. 89 DEL 06/10/2017 - RIF. 931/2017, PER REALIZZAZIONE DI GARAGE IN VIA PONTE DEL MERLO 29 - ROVIGO </title>
-			<description>PERMESSO DI COSTRUIRE IN ACCERTAMENTO DI CONFORMITÀ EX ART.36 DPR 380/01 N. 89 DEL 06/10/2017 - RIF. 931/2017, PER REALIZZAZIONE DI GARAGE IN VIA PONTE DEL MERLO 29 - ROVIGO </description>
-			<a10:updated>2017-10-06T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2988160</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2988160</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 06 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 21 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2988160</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>LIQUIDAZIONE SPESA PER IL RIMBORSO AL DATORE DI LAVORO, POLESINE ACQUE S.P.A. DI ROVIGO, DEGLI ONERI ECONOMICI PER PERMESSI RETRIBUITI CONCESSI ALL'ASSESSORE COMUNALE LUIGI PIETRO PAULON . </title>
-			<description>LIQUIDAZIONE SPESA PER IL RIMBORSO AL DATORE DI LAVORO, POLESINE ACQUE S.P.A. DI ROVIGO, DEGLI ONERI ECONOMICI PER PERMESSI RETRIBUITI CONCESSI ALL'ASSESSORE COMUNALE LUIGI PIETRO PAULON . </description>
 			<a10:updated>2017-10-06T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
