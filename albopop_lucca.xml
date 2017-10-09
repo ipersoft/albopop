@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 09 Oct 2017 12:31:10 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 09 Oct 2017 13:31:01 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Mon, 09 Oct 2017 12:31:10 +0200</pubDate>
+		<pubDate>Mon, 09 Oct 2017 13:31:01 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3552208</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3552208</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 09 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 25 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3552208</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI E BANDI VARI</category>
+			<title>PER MANIFESTAZIONE DI INTERESSE A PARTECIPARE ALLA PROCEDURA NEGOZIATA PER L’AFFIDAMENTO DEL SERVIZIO DI SPURGO DELLE FOSSE SETTICHE PRESSO LA RSA “VILLA SANTA MARIA” PERIODO 01.01.2018 – 31.12.2018 (CIG: 7230410316) </title>
+			<description>PER MANIFESTAZIONE DI INTERESSE A PARTECIPARE ALLA PROCEDURA NEGOZIATA PER L’AFFIDAMENTO DEL SERVIZIO DI SPURGO DELLE FOSSE SETTICHE PRESSO LA RSA “VILLA SANTA MARIA” PERIODO 01.01.2018 – 31.12.2018 (CIG: 7230410316) </description>
+			<a10:updated>2017-10-09T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3552064</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3552064</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 09 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 17 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3552064</category>
+			<category domain="http://albopop.it/specs#item-category-type">DEPOSITO ATTI CASA COMUNALE</category>
+			<title>ARTICOLO 60, COMMA E) DPR 600/1973- GADGETPER SRLS- REP NR. 2180/2017- NOTIFICA ATTO </title>
+			<description>ARTICOLO 60, COMMA E) DPR 600/1973- GADGETPER SRLS- REP NR. 2180/2017- NOTIFICA ATTO </description>
+			<a10:updated>2017-10-09T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3551943</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3551943</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 09 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 17 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3551943</category>
+			<category domain="http://albopop.it/specs#item-category-type">DEPOSITO ATTI CASA COMUNALE</category>
+			<title>ARTICOLO 60, COMMA E ) DPR 600/1973 - APUZZO DANILO- REP NR. 2567/2017 - NOTIFICA ATTO </title>
+			<description>ARTICOLO 60, COMMA E ) DPR 600/1973 - APUZZO DANILO- REP NR. 2567/2017 - NOTIFICA ATTO </description>
+			<a10:updated>2017-10-09T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3551852</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3551852</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>PROGETTO "LUCCA I GIORNI DI PUCCINI - LUCCA PUCCINI DAYS" 2017. CONTRIBUTO DELLA REGIONE TOSCANA. BENEFICI ECONOMICI (FAMIGLIA 09) </title>
 			<description>PROGETTO "LUCCA I GIORNI DI PUCCINI - LUCCA PUCCINI DAYS" 2017. CONTRIBUTO DELLA REGIONE TOSCANA. BENEFICI ECONOMICI (FAMIGLIA 09) </description>
-			<a10:updated>2017-10-06T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3549191</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3549191</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 06 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 21 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3549191</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI E BANDI VARI</category>
-			<title>AVVISO AI CREITORI - LAVORI DI REALIZZAZIONE DI NUOVA ROTATORIA TRA VIALE GIUSTI E VIA DEI MACELLI. </title>
-			<description>AVVISO AI CREITORI - LAVORI DI REALIZZAZIONE DI NUOVA ROTATORIA TRA VIALE GIUSTI E VIA DEI MACELLI. </description>
-			<a10:updated>2017-10-06T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3549188</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3549188</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 06 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 21 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3549188</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>DETERMINAZIONE DIRIGENZIALE N. 923 DEL 25/05/17 AVENTE PER OGGETTO: EVENTO MUSICALE PRESENTATO DAL GRUPPO MUSICALE THE TROUBLE NOTES. APPROVAZIONE DELL'INIZIATIVA E AFFIDAMENTO DIRETTO PER LA FORNITURA DI BENI E SERVIZI - INTEGRAZIONE (ALTRO - FAMIGLIA 11) </title>
-			<description>DETERMINAZIONE DIRIGENZIALE N. 923 DEL 25/05/17 AVENTE PER OGGETTO: EVENTO MUSICALE PRESENTATO DAL GRUPPO MUSICALE THE TROUBLE NOTES. APPROVAZIONE DELL'INIZIATIVA E AFFIDAMENTO DIRETTO PER LA FORNITURA DI BENI E SERVIZI - INTEGRAZIONE (ALTRO - FAMIGLIA 11) </description>
-			<a10:updated>2017-10-06T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3549185</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3549185</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 06 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 21 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3549185</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>BIBLIOTECA AGORA' RAGAZZI: PROGRAMMAZIONE ATTIVITA' DI PROMOZIONE DELLA LETTURA, LABORATORI ED EDUCAZIONE MUSICALE – FAMIGLIA 11 - ALTRO </title>
-			<description>BIBLIOTECA AGORA' RAGAZZI: PROGRAMMAZIONE ATTIVITA' DI PROMOZIONE DELLA LETTURA, LABORATORI ED EDUCAZIONE MUSICALE – FAMIGLIA 11 - ALTRO </description>
 			<a10:updated>2017-10-06T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
