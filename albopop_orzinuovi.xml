@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 09 Oct 2017 17:30:52 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 09 Oct 2017 18:30:38 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Mon, 09 Oct 2017 17:30:52 +0200</pubDate>
+		<pubDate>Mon, 09 Oct 2017 18:30:38 +0200</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2992056</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2992056</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 09 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 24 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2992056</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI AVVIO DI PROCEDIMENTO</category>
+			<title>PROVVEDIMENTO CANCELLAZIONE ANAGRAFICA ZULFAJ B. </title>
+			<description>PROVVEDIMENTO CANCELLAZIONE ANAGRAFICA ZULFAJ B. </description>
+			<a10:updated>2017-10-09T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2991808</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2991808</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
 			<title>EROGAZIONE CONTRIBUTO ECONOMICO ALLA PARROCCHIA S. MARIA ASSUNTA ORATORIO JOLLY DI ORZINUOVI PER L’ATTIVITÀ DEL CENTRO DI AGGREGAZIONE GIOVANILE (C.A.G.) “IL CORTILE” ANNO 2017. </title>
 			<description>EROGAZIONE CONTRIBUTO ECONOMICO ALLA PARROCCHIA S. MARIA ASSUNTA ORATORIO JOLLY DI ORZINUOVI PER L’ATTIVITÀ DEL CENTRO DI AGGREGAZIONE GIOVANILE (C.A.G.) “IL CORTILE” ANNO 2017. </description>
-			<a10:updated>2017-10-04T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2985175</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2985175</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 04 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 19 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2985175</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>PROROGA ORARIO DI LAVORO DOTT.SSA CARLOTTA BETTARIGA – DAL 01.10.2017 AL 31.12.2017 </title>
-			<description>PROROGA ORARIO DI LAVORO DOTT.SSA CARLOTTA BETTARIGA – DAL 01.10.2017 AL 31.12.2017 </description>
 			<a10:updated>2017-10-04T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
