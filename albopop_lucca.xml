@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 09 Oct 2017 18:30:51 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 10 Oct 2017 08:31:21 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Mon, 09 Oct 2017 18:30:51 +0200</pubDate>
+		<pubDate>Tue, 10 Oct 2017 08:31:21 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3553045</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3553045</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 09 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 24 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3553045</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>AVVISO DI MOBILITA’ VOLONTARIA PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO/INDETERMINATO NEL PROFILO DI “COORDINATORE PER L’ESPLETAMENTO DI ATTIVITA’ IN MATERIA AMMINISTRATIVA/CONTABILE/SOCIO-CULTURALE”, CATEGORIA C, AI SENSI DELL’ART. 30 DEL D. LGS. N. 165/2001 (FAMIGLIA 10). </title>
+			<description>AVVISO DI MOBILITA’ VOLONTARIA PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO/INDETERMINATO NEL PROFILO DI “COORDINATORE PER L’ESPLETAMENTO DI ATTIVITA’ IN MATERIA AMMINISTRATIVA/CONTABILE/SOCIO-CULTURALE”, CATEGORIA C, AI SENSI DELL’ART. 30 DEL D. LGS. N. 165/2001 (FAMIGLIA 10). </description>
+			<a10:updated>2017-10-09T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3552671</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3552671</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>LAVORI DI RIQUALIFICAZIONE DI VIA MATTEO CIVITALI LATO OVEST. APPROVAZIONE NUOVI PREZZI </title>
 			<description>LAVORI DI RIQUALIFICAZIONE DI VIA MATTEO CIVITALI LATO OVEST. APPROVAZIONE NUOVI PREZZI </description>
-			<a10:updated>2017-10-06T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3549201</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3549201</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 06 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 21 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3549201</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>MANIFESTAZIONI DEL SETTEMBRE LUCCHESE 2017. (DD UNICA PER L'AFFIDAMENTO DI SERVIZI - FAMIGLIA 03) </title>
-			<description>MANIFESTAZIONI DEL SETTEMBRE LUCCHESE 2017. (DD UNICA PER L'AFFIDAMENTO DI SERVIZI - FAMIGLIA 03) </description>
 			<a10:updated>2017-10-06T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

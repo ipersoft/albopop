@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 09 Oct 2017 18:30:54 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 10 Oct 2017 08:31:35 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Mon, 09 Oct 2017 18:30:54 +0200</pubDate>
+		<pubDate>Tue, 10 Oct 2017 08:31:35 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -75,6 +75,17 @@
 			<title>AVVISO VEICOLO SEQUESTRATO CUSTODITO DA PERSONA DELEGATA DAL CONDUCENTE TELAIO W0L0SDL6874178342 </title>
 			<description>AVVISO VEICOLO SEQUESTRATO CUSTODITO DA PERSONA DELEGATA DAL CONDUCENTE TELAIO W0L0SDL6874178342 </description>
 			<a10:updated>2017-10-09T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2991486</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2991486</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 10 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 11 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2991486</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI ATTI DIVERSI</category>
+			<title>AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE_ELENCO N. 86851 DEL09/10/2017 </title>
+			<description>AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE_ELENCO N. 86851 DEL09/10/2017 </description>
+			<a10:updated>2017-10-10T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2991386</guid>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
 			<title>LIQUIDAZIONE RETTE DI RICOVERO ALL'ISTITUTO CASA ALBERGO PER ANZIANI DI LENDINARA. </title>
 			<description>LIQUIDAZIONE RETTE DI RICOVERO ALL'ISTITUTO CASA ALBERGO PER ANZIANI DI LENDINARA. </description>
-			<a10:updated>2017-10-06T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2988440</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2988440</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 06 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 21 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2988440</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>LIQUIDAZIONE RETTE DI RICOVERO ALL'ISTITUTO DELLE FIGLIE DI SANTA MARIA DELLA DIVINA PROVVIDENZA – CASA S. ANTONIO DI TRECENTA. </title>
-			<description>LIQUIDAZIONE RETTE DI RICOVERO ALL'ISTITUTO DELLE FIGLIE DI SANTA MARIA DELLA DIVINA PROVVIDENZA – CASA S. ANTONIO DI TRECENTA. </description>
 			<a10:updated>2017-10-06T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
