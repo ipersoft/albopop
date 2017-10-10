@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 10 Oct 2017 13:30:48 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 10 Oct 2017 14:30:44 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Tue, 10 Oct 2017 13:30:48 +0200</pubDate>
+		<pubDate>Tue, 10 Oct 2017 14:30:44 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/767252</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/767252</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 10 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 19 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">767252</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO ATTI E AVVISI DIVERSI</category>
+			<title>AVVISO ANNULLAMENTO CONFERENZA DI SERVIZI INDETTA PER IL GI0RNO 19 OTTOBRE 2017. </title>
+			<description>AVVISO ANNULLAMENTO CONFERENZA DI SERVIZI INDETTA PER IL GI0RNO 19 OTTOBRE 2017. </description>
+			<a10:updated>2017-10-10T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/767237</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/767237</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 10 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 25 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">767237</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
+			<title>PRELEVAMENTO DAL FONDO DI RISERVA PER L’ESERCIZIO 2017 ED ADEGUAMENTO DEL PEG 2017/2019. </title>
+			<description>PRELEVAMENTO DAL FONDO DI RISERVA PER L’ESERCIZIO 2017 ED ADEGUAMENTO DEL PEG 2017/2019. </description>
+			<a10:updated>2017-10-10T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/767118</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/767118</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
 			<title>CARATELLI LEA - VIA B. BALDI - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </title>
 			<description>CARATELLI LEA - VIA B. BALDI - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </description>
-			<a10:updated>2017-10-09T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/766703</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/766703</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 09 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 18 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">766703</category>
-			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO RICHIESTA PUBBLICAZIONE MATRIMONIO ALBO</category>
-			<title>PUBBLICAZIONE DI MATRIMONIO DI ROMANI PAOLO E FIORENTINI MARINA </title>
-			<description>PUBBLICAZIONE DI MATRIMONIO DI ROMANI PAOLO E FIORENTINI MARINA </description>
-			<a10:updated>2017-10-09T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/766699</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/766699</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 09 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 24 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">766699</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
-			<title>SERVIZIO MANUTENZIONI - DEL BENE G. - VIA MARIO PATERNI - MODIFICA ALLACCIO FOGNARIO - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </title>
-			<description>SERVIZIO MANUTENZIONI - DEL BENE G. - VIA MARIO PATERNI - MODIFICA ALLACCIO FOGNARIO - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </description>
 			<a10:updated>2017-10-09T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
