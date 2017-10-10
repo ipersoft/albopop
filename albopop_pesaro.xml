@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 10 Oct 2017 17:30:59 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 10 Oct 2017 18:30:43 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Tue, 10 Oct 2017 17:30:59 +0200</pubDate>
+		<pubDate>Tue, 10 Oct 2017 18:30:43 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/767429</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/767429</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 10 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 25 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">767429</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>STAMPA DI ADESIVI RAFFIGURANTI LOGHI DEI GRUPPI CONSILIARI PER BACHECHE COMUNALI </title>
+			<description>STAMPA DI ADESIVI RAFFIGURANTI LOGHI DEI GRUPPI CONSILIARI PER BACHECHE COMUNALI </description>
+			<a10:updated>2017-10-10T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/767328</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/767328</link>
@@ -284,17 +295,6 @@
 			<title>LAVORI DI SISTEMAZIONE FACCIATE SCUOLA MEDIA GALILEI - APPROVAZIONE CERTIFICATO DI REGOLARE ESECUZIONE </title>
 			<description>LAVORI DI SISTEMAZIONE FACCIATE SCUOLA MEDIA GALILEI - APPROVAZIONE CERTIFICATO DI REGOLARE ESECUZIONE </description>
 			<a10:updated>2017-10-10T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/766840</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/766840</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 09 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 24 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">766840</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>RICORSO IN OPPOSIZIONE AL DECRETO DI PERENZIONE DEL TAR MARCHE N. 84/2017. NON COSTITUZIONE IN GIUDIZIO. </title>
-			<description>RICORSO IN OPPOSIZIONE AL DECRETO DI PERENZIONE DEL TAR MARCHE N. 84/2017. NON COSTITUZIONE IN GIUDIZIO. </description>
-			<a10:updated>2017-10-09T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
