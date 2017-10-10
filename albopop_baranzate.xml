@@ -5,7 +5,7 @@
 		<link>http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Baranzate</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 10 Oct 2017 16:30:56 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 10 Oct 2017 17:31:32 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Baranzate</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Milano</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Baranzate</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_baranzate</a10:id>
-		<pubDate>Tue, 10 Oct 2017 16:30:56 +0200</pubDate>
+		<pubDate>Tue, 10 Oct 2017 17:31:32 +0200</pubDate>
 		<docs>http://albopop.it/comune/baranzate/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -141,6 +141,17 @@
 			<title>APPALTO PER LAVORI DI RIQUALIFICAZIONE, CURA E MANUTENZIONE DELLE AREE VERDI COMUNALI - 24 MESI DALLA DATA DI CONSEGNA 2014-2016CIG 5815017FD1APPROVAZIONE III SAL CORRISPONDENTE AL CONTO FINALE E LIQUIDAZIONE CORRISPETTIVI </title>
 			<description>APPALTO PER LAVORI DI RIQUALIFICAZIONE, CURA E MANUTENZIONE DELLE AREE VERDI COMUNALI - 24 MESI DALLA DATA DI CONSEGNA 2014-2016CIG 5815017FD1APPROVAZIONE III SAL CORRISPONDENTE AL CONTO FINALE E LIQUIDAZIONE CORRISPETTIVI </description>
 			<a10:updated>2017-09-26T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3555415</guid>
+			<link>http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3555415</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 10 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 25 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3555415</category>
+			<category domain="http://albopop.it/specs#item-category-type">DELIBERA DELIBERA GIUNTA</category>
+			<title>DETERMINAZIONI IN MERITO A ISTANZA DI NULLA-OSTA PER LA PARTECIPAZIONE A PROCEDURE DI MOBILITA' ESTERNA PRESENTATA DAL DIPENDENTE A.M.. </title>
+			<description>DETERMINAZIONI IN MERITO A ISTANZA DI NULLA-OSTA PER LA PARTECIPAZIONE A PROCEDURE DI MOBILITA' ESTERNA PRESENTATA DAL DIPENDENTE A.M.. </description>
+			<a10:updated>2017-10-10T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3531304</guid>
@@ -284,17 +295,6 @@
 			<title>LAVORI DI MANUTENZIONE STRAORDINARIA E ABBATTIMENTO BARRIERE ARCHITETTONICHE DELL'ALLOGGIO COMUNALE IN VIA MENTANA 11 - APPROVAZIONE PROGETTO DEFINITIVO - ESECUTIVO </title>
 			<description>LAVORI DI MANUTENZIONE STRAORDINARIA E ABBATTIMENTO BARRIERE ARCHITETTONICHE DELL'ALLOGGIO COMUNALE IN VIA MENTANA 11 - APPROVAZIONE PROGETTO DEFINITIVO - ESECUTIVO </description>
 			<a10:updated>2017-09-27T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3531284</guid>
-			<link>http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3531284</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 28 Sep 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 13 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3531284</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERA DELIBERA GIUNTA</category>
-			<title>INTERVENTI DELLA POL.D. BARANZATESE PRESSO IL CENTRO SPORTIVO COMUNALE IN VIA NAZARIO SAURO 160 - APPROVAZIONE ATTO DI INDIRIZZO </title>
-			<description>INTERVENTI DELLA POL.D. BARANZATESE PRESSO IL CENTRO SPORTIVO COMUNALE IN VIA NAZARIO SAURO 160 - APPROVAZIONE ATTO DI INDIRIZZO </description>
-			<a10:updated>2017-09-28T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
