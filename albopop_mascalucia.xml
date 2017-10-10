@@ -5,7 +5,7 @@
 		<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mascalucia</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 10 Oct 2017 12:31:14 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 10 Oct 2017 13:31:22 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mascalucia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mascalucia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mascalucia</a10:id>
-		<pubDate>Tue, 10 Oct 2017 12:31:14 +0200</pubDate>
+		<pubDate>Tue, 10 Oct 2017 13:31:22 +0200</pubDate>
 		<docs>http://albopop.it/comune/mascalucia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2993125</guid>
+			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2993125</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 10 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 09 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2993125</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRE PUBBLICAZIONI ALTRE TIPOLOGIE DI PUBBLICAZIONE</category>
+			<title>ELENCO DEI RAPPORTI E DELLE ORDINANZE DI SOSPENSIONE DI OPERE E LOTTIZZAZIONI ABUSIVE (ART. 31, COMMA 7, DEL T.U. 06/06/2001 E SUCCESSIVE MODIFICHE E INTEGRAZIONI) - MESE DI SETTEMBRE 2017 </title>
+			<description>ELENCO DEI RAPPORTI E DELLE ORDINANZE DI SOSPENSIONE DI OPERE E LOTTIZZAZIONI ABUSIVE (ART. 31, COMMA 7, DEL T.U. 06/06/2001 E SUCCESSIVE MODIFICHE E INTEGRAZIONI) - MESE DI SETTEMBRE 2017 </description>
+			<a10:updated>2017-10-10T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2991537</guid>
 			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2991537</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI CONSIGLIO</category>
 			<title>RICONOSCIMENTO DEBITO FUORI BILANCIO AI SENSI DELL'ART. 194 COMMA 1 LETTERA A, DEL DLGS 267/2000 IN ESECUZIONE DELLA SENTENZA 17/17 - RISO </title>
 			<description>RICONOSCIMENTO DEBITO FUORI BILANCIO AI SENSI DELL'ART. 194 COMMA 1 LETTERA A, DEL DLGS 267/2000 IN ESECUZIONE DELLA SENTENZA 17/17 - RISO </description>
-			<a10:updated>2017-10-06T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2989248</guid>
-			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2989248</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 06 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 21 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2989248</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI CONSIGLIO</category>
-			<title>REVISIONE STRAORDINARIA DELLE PARTECIPAZIONI EX ART. 24, D.LGS. 19 AGOSTO 2016 N. 175 – COME MODIFICATO DAL D. LGS. 16 GIUGNO 2017 N. 100. RICOGNIZIONE PARTECIPAZIONE POSSEDUTE - INDIVIDUAZIONE PARTECIPAZIONE DA ALIENARE. DETERMINAZIONI PER LE ALIENAZIONI. </title>
-			<description>REVISIONE STRAORDINARIA DELLE PARTECIPAZIONI EX ART. 24, D.LGS. 19 AGOSTO 2016 N. 175 – COME MODIFICATO DAL D. LGS. 16 GIUGNO 2017 N. 100. RICOGNIZIONE PARTECIPAZIONE POSSEDUTE - INDIVIDUAZIONE PARTECIPAZIONE DA ALIENARE. DETERMINAZIONI PER LE ALIENAZIONI. </description>
 			<a10:updated>2017-10-06T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
