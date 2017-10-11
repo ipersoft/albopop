@@ -5,7 +5,7 @@
 		<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Felino</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 11 Oct 2017 08:30:39 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 11 Oct 2017 09:30:40 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Felino</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Felino</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_felino</a10:id>
-		<pubDate>Wed, 11 Oct 2017 08:30:39 +0200</pubDate>
+		<pubDate>Wed, 11 Oct 2017 09:30:40 +0200</pubDate>
 		<docs>http://albopop.it/comune/felino/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2994172</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2994172</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 11 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 20 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2994172</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
+			<title>REVISIONE SEMESTRALE DELLE LISTE ELETTORALI </title>
+			<description>REVISIONE SEMESTRALE DELLE LISTE ELETTORALI </description>
+			<a10:updated>2017-10-11T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2994170</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2994170</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 11 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 13 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2994170</category>
+			<category domain="http://albopop.it/specs#item-category-type">A005 ORDINANZE E AVVISI</category>
+			<title>INTERVENTI PROVVISORI SULLA VIABILITÀ DI VIA MONTICELLO E VIA GALLIGNANA PER ESEGUIRE LAVORI STRADALI. </title>
+			<description>INTERVENTI PROVVISORI SULLA VIABILITÀ DI VIA MONTICELLO E VIA GALLIGNANA PER ESEGUIRE LAVORI STRADALI. </description>
+			<a10:updated>2017-10-11T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2994168</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2994168</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 11 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 20 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2994168</category>
+			<category domain="http://albopop.it/specs#item-category-type">A005 ORDINANZE E AVVISI</category>
+			<title>INTERVENTI PROVVISORI SULLA VIABILITÀ DI VIA LORI A SAN MICHELE TIORRE PER ESEGUIRE LAVORI STRADALI. </title>
+			<description>INTERVENTI PROVVISORI SULLA VIABILITÀ DI VIA LORI A SAN MICHELE TIORRE PER ESEGUIRE LAVORI STRADALI. </description>
+			<a10:updated>2017-10-11T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2993284</guid>
 			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2993284</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
 			<title>AFFIDAMENTO FORNITURA LIBRI PER LA BIBLIOTECA C.PAVESE DI FELINO ALLA LIBRERIA "PICCOLI LABIRINTI" DI PARMA E RELATIVO IMPEGNO DI SPESA. </title>
 			<description>AFFIDAMENTO FORNITURA LIBRI PER LA BIBLIOTECA C.PAVESE DI FELINO ALLA LIBRERIA "PICCOLI LABIRINTI" DI PARMA E RELATIVO IMPEGNO DI SPESA. </description>
-			<a10:updated>2017-10-11T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2993157</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2993157</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 11 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 26 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2993157</category>
-			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
-			<title>AFFIDAMENTO DI INCARICO PER LA PRESENTAZIONE E GESTIONE DI UN PROGETTO PER IL RICONOSCIMENTO DEI CERTIFICATI BIANCHI PER CONTO DEL COMUNE DI FELINO. </title>
-			<description>AFFIDAMENTO DI INCARICO PER LA PRESENTAZIONE E GESTIONE DI UN PROGETTO PER IL RICONOSCIMENTO DEI CERTIFICATI BIANCHI PER CONTO DEL COMUNE DI FELINO. </description>
-			<a10:updated>2017-10-11T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2993155</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2993155</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 11 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 26 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2993155</category>
-			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
-			<title>APPROVAZIONE GRADUATORIA PROVVISORIA PER L’ASSEGNAZIONE DEI POSTEGGI TEMPORANEAMENTE NON OCCUPATI NEL MERCATO SETTIMANALE DI FELINO – AGGIORNAMENTO AL MESE DI AGOSTO 2017 </title>
-			<description>APPROVAZIONE GRADUATORIA PROVVISORIA PER L’ASSEGNAZIONE DEI POSTEGGI TEMPORANEAMENTE NON OCCUPATI NEL MERCATO SETTIMANALE DI FELINO – AGGIORNAMENTO AL MESE DI AGOSTO 2017 </description>
-			<a10:updated>2017-10-11T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2993153</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2993153</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 11 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 26 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2993153</category>
-			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
-			<title>CESSIONE MATERIALE DI RISULTA DA RISAGOMATUIRA RIO S. ILARIO E DA CUNETTE STRADALI. </title>
-			<description>CESSIONE MATERIALE DI RISULTA DA RISAGOMATUIRA RIO S. ILARIO E DA CUNETTE STRADALI. </description>
 			<a10:updated>2017-10-11T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
