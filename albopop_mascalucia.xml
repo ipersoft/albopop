@@ -5,7 +5,7 @@
 		<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mascalucia</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 11 Oct 2017 13:31:11 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 11 Oct 2017 14:31:18 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mascalucia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mascalucia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mascalucia</a10:id>
-		<pubDate>Wed, 11 Oct 2017 13:31:11 +0200</pubDate>
+		<pubDate>Wed, 11 Oct 2017 14:31:18 +0200</pubDate>
 		<docs>http://albopop.it/comune/mascalucia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2995717</guid>
+			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2995717</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 11 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 26 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2995717</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
+			<title>PROGRESSIONE ORIZZONTALE ANNO 2017 </title>
+			<description>PROGRESSIONE ORIZZONTALE ANNO 2017 </description>
+			<a10:updated>2017-10-11T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2995715</guid>
+			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2995715</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 11 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 26 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2995715</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
+			<title>LIQUIDAZIONE SPESA PER FORNITURA CALZATURE D.P.I. ESTIVE PER LA POLIZIA MUNICIPALE DITTA: CALZATURIFICIO FRATELLI SOLDINI, CON SEDE IN VIA VITTORIO VENETO 32 - 52010 CAPOLONA (AR); C.I.G. N. Z531ED1354 </title>
+			<description>LIQUIDAZIONE SPESA PER FORNITURA CALZATURE D.P.I. ESTIVE PER LA POLIZIA MUNICIPALE DITTA: CALZATURIFICIO FRATELLI SOLDINI, CON SEDE IN VIA VITTORIO VENETO 32 - 52010 CAPOLONA (AR); C.I.G. N. Z531ED1354 </description>
+			<a10:updated>2017-10-11T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2995713</guid>
+			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2995713</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 11 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 26 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2995713</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
+			<title>LIQUIDAZIONE GETTONI DI PRESENZA AI CONSIGLIERI COMUNALI – SETTEMBRE 2017. </title>
+			<description>LIQUIDAZIONE GETTONI DI PRESENZA AI CONSIGLIERI COMUNALI – SETTEMBRE 2017. </description>
+			<a10:updated>2017-10-11T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2993388</guid>
 			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2993388</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI CONSIGLIO</category>
 			<title>MODIFICA CONVENZIONE PER LA COSTITUZIONE DI UN'UNICA CENTRALE DI COMMITTENZA (C.U.C.) TRA I COMUNI DI GRAVINA DI CATANIA, MASCALUCIA E SANT'AGATA LI BATTIATI, FINALIZZATA ALLA GESTIONE ASSOCIATA DEGLI AFFIDAMENTI DI LAVORI, SERVIZI E FORNITURE. </title>
 			<description>MODIFICA CONVENZIONE PER LA COSTITUZIONE DI UN'UNICA CENTRALE DI COMMITTENZA (C.U.C.) TRA I COMUNI DI GRAVINA DI CATANIA, MASCALUCIA E SANT'AGATA LI BATTIATI, FINALIZZATA ALLA GESTIONE ASSOCIATA DEGLI AFFIDAMENTI DI LAVORI, SERVIZI E FORNITURE. </description>
-			<a10:updated>2017-10-06T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2989256</guid>
-			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2989256</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 06 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 21 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2989256</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI CONSIGLIO</category>
-			<title>MOZIONE PROT. N. 26327 DEL 30/08/2017 AVENTE AD OGGETTO "BARRIERE ARCHITETTONICHE (PEBA) E DEL PIANO ACCESSIBILITA' URBANA (PAU) - PRIMO FIRMATARIO CONSIGLIERE MANNINO - RINVIO TRATTAZIONE </title>
-			<description>MOZIONE PROT. N. 26327 DEL 30/08/2017 AVENTE AD OGGETTO "BARRIERE ARCHITETTONICHE (PEBA) E DEL PIANO ACCESSIBILITA' URBANA (PAU) - PRIMO FIRMATARIO CONSIGLIERE MANNINO - RINVIO TRATTAZIONE </description>
-			<a10:updated>2017-10-06T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2989254</guid>
-			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2989254</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 06 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 21 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2989254</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI CONSIGLIO</category>
-			<title>MOZIONE PROT. N. 27217 DELL' 11/09/2017 A FIRMA DEL CONSIGLIERE GIBILISCO AVENTE AD OGGETTO "INTERVENTI URGENTI NELLA TRAVERSA INTERNA AL CIVICO N. 11 DI VIA TORRE OMBRA" - RINVIO TRATTAZIONE </title>
-			<description>MOZIONE PROT. N. 27217 DELL' 11/09/2017 A FIRMA DEL CONSIGLIERE GIBILISCO AVENTE AD OGGETTO "INTERVENTI URGENTI NELLA TRAVERSA INTERNA AL CIVICO N. 11 DI VIA TORRE OMBRA" - RINVIO TRATTAZIONE </description>
-			<a10:updated>2017-10-06T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2989252</guid>
-			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2989252</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 06 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 21 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2989252</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI CONSIGLIO</category>
-			<title>VERBALE DI SEDUTA DESERTA </title>
-			<description>VERBALE DI SEDUTA DESERTA </description>
 			<a10:updated>2017-10-06T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
