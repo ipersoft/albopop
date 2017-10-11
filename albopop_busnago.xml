@@ -5,7 +5,7 @@
 		<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Busnago</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 11 Oct 2017 16:30:59 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 11 Oct 2017 17:30:58 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Busnago</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Busnago</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_busnago</a10:id>
-		<pubDate>Wed, 11 Oct 2017 16:30:59 +0200</pubDate>
+		<pubDate>Wed, 11 Oct 2017 17:30:58 +0200</pubDate>
 		<docs>http://albopop.it/comune/busnago/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3557971</guid>
+			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3557971</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 11 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 26 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3557971</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DETERMINAZIONE DEI RESPONSABILI</category>
+			<title>DETERMINA A CONTRARRE PER L'AFFIDAMENTO . AI SENSI DELL'ARTICOLO 36, COMMA 2, LETTERA A) DEL D.LGS. N. 50/2016 DEL SERVIZIO BIENNALE - CON OPZIONE DI RINNOVO - DI RESPONSABILE SERVIZIO PREVENZIONE E PROTEZIONE DEI RISCHI (R.S.P.P.), AGGIORNAMENTO DOCUMENTO SULLA VALUTAZIONE DEI RISCHI E SUPPORTO AI DATORI DI LAVORO IN MATERIA DI SICUREZZA </title>
+			<description>DETERMINA A CONTRARRE PER L'AFFIDAMENTO . AI SENSI DELL'ARTICOLO 36, COMMA 2, LETTERA A) DEL D.LGS. N. 50/2016 DEL SERVIZIO BIENNALE - CON OPZIONE DI RINNOVO - DI RESPONSABILE SERVIZIO PREVENZIONE E PROTEZIONE DEI RISCHI (R.S.P.P.), AGGIORNAMENTO DOCUMENTO SULLA VALUTAZIONE DEI RISCHI E SUPPORTO AI DATORI DI LAVORO IN MATERIA DI SICUREZZA </description>
+			<a10:updated>2017-10-11T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3556764</guid>
 			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3556764</link>
@@ -284,17 +295,6 @@
 			<title>VARIAZIONE PARTITE DI GIRO AI SENSI ART. 175 COMMA 5 QUATER LETTERA E) TUEL 267/2000 E SS.MM.II </title>
 			<description>VARIAZIONE PARTITE DI GIRO AI SENSI ART. 175 COMMA 5 QUATER LETTERA E) TUEL 267/2000 E SS.MM.II </description>
 			<a10:updated>2017-10-09T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3549550</guid>
-			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3549550</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 06 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 21 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3549550</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DETERMINAZIONE DEI RESPONSABILI</category>
-			<title>NOMINA AGENTE CONTABILE ANNO 2018 </title>
-			<description>NOMINA AGENTE CONTABILE ANNO 2018 </description>
-			<a10:updated>2017-10-06T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
