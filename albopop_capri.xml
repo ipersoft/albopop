@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 11 Oct 2017 12:31:15 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 11 Oct 2017 13:31:09 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Wed, 11 Oct 2017 12:31:15 +0200</pubDate>
+		<pubDate>Wed, 11 Oct 2017 13:31:09 +0200</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2995576</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2995576</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 11 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 26 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2995576</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO PUBBLICAZIONE AVVISO</category>
+			<title>AVVISO DI DEPOSITO DI N.3 ATTI NELLA CASA COMUNALE </title>
+			<description>AVVISO DI DEPOSITO DI N.3 ATTI NELLA CASA COMUNALE </description>
+			<a10:updated>2017-10-11T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2995515</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2995515</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 11 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 26 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2995515</category>
+			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
+			<title>CONTROVERSIA COMUNE DI CAPRI / GARGIULO – LIQUIDAZIONE A FAVORE DELLA SOCIETA’ GENERALI ITALIA S.P.A. </title>
+			<description>CONTROVERSIA COMUNE DI CAPRI / GARGIULO – LIQUIDAZIONE A FAVORE DELLA SOCIETA’ GENERALI ITALIA S.P.A. </description>
+			<a10:updated>2017-10-11T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2995513</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2995513</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 11 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 26 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2995513</category>
+			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
+			<title>COSTITUZIONE IN GIUDIZIO AVERSO RICORSO AL TAR PRESENTATO DALLA SIG.RA MIRELLA FERRARO LIQUIDAZIONE SALDO ALL’AVVOCATO ANTONIO LEMBO </title>
+			<description>COSTITUZIONE IN GIUDIZIO AVERSO RICORSO AL TAR PRESENTATO DALLA SIG.RA MIRELLA FERRARO LIQUIDAZIONE SALDO ALL’AVVOCATO ANTONIO LEMBO </description>
+			<a10:updated>2017-10-11T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2995354</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2995354</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">GARE,BANDI,CONCORSI GARE, BANDI,CONCORSI</category>
 			<title>VERBALE DI SOPRALLUOGO E DI AFFIDAMENTO DEI LAVORI DI SOMMA URGENZA PER GLI ULTERIORI E PIU' RADICALI INTERVENTI FINALIZZATI ALL'AGIBILITA' DEGLI ALLOGGI COMUNALI DA DESTINARE ALLE FAMIGLIE SGOMBERATE A CAUSA DELL'EVENTO FRANOSO VERIFICATESI IN LOCALITA' "LA PETRARA" NELLA NOTTE TRA IL 7 E L'8 SETTEMBRE 2017. </title>
 			<description>VERBALE DI SOPRALLUOGO E DI AFFIDAMENTO DEI LAVORI DI SOMMA URGENZA PER GLI ULTERIORI E PIU' RADICALI INTERVENTI FINALIZZATI ALL'AGIBILITA' DEGLI ALLOGGI COMUNALI DA DESTINARE ALLE FAMIGLIE SGOMBERATE A CAUSA DELL'EVENTO FRANOSO VERIFICATESI IN LOCALITA' "LA PETRARA" NELLA NOTTE TRA IL 7 E L'8 SETTEMBRE 2017. </description>
-			<a10:updated>2017-10-10T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2993878</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2993878</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 10 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 25 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2993878</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>SOSTITUZIONE DEI CLIMATIZZATORI NEGLI UFFICI DEL SETTORE VI-URBANISTICA ED EDILIZIA PRIVATA. APPROVAZIONE DEL PREVENTIVO DELLA DITTA "COSTANZO CATALDO IMPIANTI S.A.S. DI CARLO E ALESSANDRO CATALDO E C." DI CAPRI. </title>
-			<description>SOSTITUZIONE DEI CLIMATIZZATORI NEGLI UFFICI DEL SETTORE VI-URBANISTICA ED EDILIZIA PRIVATA. APPROVAZIONE DEL PREVENTIVO DELLA DITTA "COSTANZO CATALDO IMPIANTI S.A.S. DI CARLO E ALESSANDRO CATALDO E C." DI CAPRI. </description>
-			<a10:updated>2017-10-10T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2993413</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2993413</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 10 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 25 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2993413</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>RIPARAZIONE DELLE TUBAZIONI IDRICHE A SERVIZIO DEI PONTILI GALLEGGIANTI NELLO SPECCHIO ACQUEO DI "LEVANTE" IN REGIME DI C.D.M. AL COMUNE DI CAPRI. APPROVAZIONE DEL PREVENTIVO DELLA DITTA "COSTANZO CATALDO IMPIANTI S.A.S. DI CARLO E ALESSANDRO CATALDO E C." DI CAPRI. </title>
-			<description>RIPARAZIONE DELLE TUBAZIONI IDRICHE A SERVIZIO DEI PONTILI GALLEGGIANTI NELLO SPECCHIO ACQUEO DI "LEVANTE" IN REGIME DI C.D.M. AL COMUNE DI CAPRI. APPROVAZIONE DEL PREVENTIVO DELLA DITTA "COSTANZO CATALDO IMPIANTI S.A.S. DI CARLO E ALESSANDRO CATALDO E C." DI CAPRI. </description>
-			<a10:updated>2017-10-10T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2993410</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2993410</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 10 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 25 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2993410</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>VALORIZZAZIONE DEI GIARDINI DELLA "FLORA CAPRENSE" E AREE CIRCOSTANTI - INCARICO A PROFESSIONISTI ESTERNI PER LA REDAZIONE DELLA PROGETTAZIONE DI LIVELLO DEFINITIVO/ESECUTIVO RELATIVO AL TERZO INTERVENTO ED IMPEGNO DI SPESA. </title>
-			<description>VALORIZZAZIONE DEI GIARDINI DELLA "FLORA CAPRENSE" E AREE CIRCOSTANTI - INCARICO A PROFESSIONISTI ESTERNI PER LA REDAZIONE DELLA PROGETTAZIONE DI LIVELLO DEFINITIVO/ESECUTIVO RELATIVO AL TERZO INTERVENTO ED IMPEGNO DI SPESA. </description>
 			<a10:updated>2017-10-10T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

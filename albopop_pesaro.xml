@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 11 Oct 2017 12:30:42 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 11 Oct 2017 13:30:43 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Wed, 11 Oct 2017 12:30:42 +0200</pubDate>
+		<pubDate>Wed, 11 Oct 2017 13:30:43 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/767735</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/767735</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 11 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 26 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">767735</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>OGGETTO: ADOZIONE DI VARIANTE AL P.R.G. VIGENTE RELATIVAMENTE ALLA UMI 4.3.3 – EX HOTEL PALACE, SITO IN LOC. PESARO – VIA NAZARIO SAURO 5 – VNS 558, AI SENSI DEL COMBINATO DISPOSTO DEGLI ARTT. 15 E 30 DELLA L.R. MARCHE N.34/92 E S.M.I. – DETERMINAZIONE DI CONCLUSIONE POSITIVA DELLA CONFERENZA DI SERVIZI EX ART. 14 TER L. N. 241/1990 IN FORMA SIMULTANEA E MODALITÀ SINCRONA DEL 6/10/2017. </title>
+			<description>OGGETTO: ADOZIONE DI VARIANTE AL P.R.G. VIGENTE RELATIVAMENTE ALLA UMI 4.3.3 – EX HOTEL PALACE, SITO IN LOC. PESARO – VIA NAZARIO SAURO 5 – VNS 558, AI SENSI DEL COMBINATO DISPOSTO DEGLI ARTT. 15 E 30 DELLA L.R. MARCHE N.34/92 E S.M.I. – DETERMINAZIONE DI CONCLUSIONE POSITIVA DELLA CONFERENZA DI SERVIZI EX ART. 14 TER L. N. 241/1990 IN FORMA SIMULTANEA E MODALITÀ SINCRONA DEL 6/10/2017. </description>
+			<a10:updated>2017-10-11T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/767556</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/767556</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO RICHIESTA PUBBLICAZIONE MATRIMONIO ALBO</category>
 			<title>PUBBLICAZIONE DI MATRIMONIO DI GIANNARRUSTO DAMIANO E GIUMETTA BARBARA </title>
 			<description>PUBBLICAZIONE DI MATRIMONIO DI GIANNARRUSTO DAMIANO E GIUMETTA BARBARA </description>
-			<a10:updated>2017-10-10T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/767049</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/767049</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 10 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 19 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">767049</category>
-			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO RICHIESTA PUBBLICAZIONE MATRIMONIO ALBO</category>
-			<title>PUBBLICAZIONE DI MATRIMONIO DI FINAMORE ENRICO E DE MELO MAIA SUELI </title>
-			<description>PUBBLICAZIONE DI MATRIMONIO DI FINAMORE ENRICO E DE MELO MAIA SUELI </description>
 			<a10:updated>2017-10-10T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
