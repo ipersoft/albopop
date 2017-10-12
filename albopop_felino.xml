@@ -5,7 +5,7 @@
 		<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Felino</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 12 Oct 2017 12:30:48 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 12 Oct 2017 13:30:47 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Felino</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Felino</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_felino</a10:id>
-		<pubDate>Thu, 12 Oct 2017 12:30:48 +0200</pubDate>
+		<pubDate>Thu, 12 Oct 2017 13:30:47 +0200</pubDate>
 		<docs>http://albopop.it/comune/felino/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2997458</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2997458</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 12 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 27 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2997458</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
+			<title>AVVISO DI RILASCIO PERMESSO DI COSTRUIRE IMPRESA VIGNALI RENZO </title>
+			<description>AVVISO DI RILASCIO PERMESSO DI COSTRUIRE IMPRESA VIGNALI RENZO </description>
+			<a10:updated>2017-10-12T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2994172</guid>
 			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2994172</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
 			<title>SERVIZIO DI RISTORAZIONE SCOLASTICA PER LA SCUOLA PRIMARIA DI FELINO E PER I CENTRI ESTIVI PER RAGAZZI DI ETÀ 6-13 ANNI PER GLI ANNI SCOLASTICI 2017/2018 E 2018/2019. PRESA D'ATTO AGGIUDICAZIONE DEFINITIVA DAL PARTE DELLA CENTRALE UNICA DI COMMITTENZA – UNIONE PEDEMONTANA PARMENSE - E RELATIVO IMPEGNO DI SPESA. </title>
 			<description>SERVIZIO DI RISTORAZIONE SCOLASTICA PER LA SCUOLA PRIMARIA DI FELINO E PER I CENTRI ESTIVI PER RAGAZZI DI ETÀ 6-13 ANNI PER GLI ANNI SCOLASTICI 2017/2018 E 2018/2019. PRESA D'ATTO AGGIUDICAZIONE DEFINITIVA DAL PARTE DELLA CENTRALE UNICA DI COMMITTENZA – UNIONE PEDEMONTANA PARMENSE - E RELATIVO IMPEGNO DI SPESA. </description>
-			<a10:updated>2017-10-11T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2993159</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2993159</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 11 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 26 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2993159</category>
-			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
-			<title>AFFIDAMENTO FORNITURA LIBRI PER LA BIBLIOTECA C.PAVESE DI FELINO ALLA LIBRERIA "PICCOLI LABIRINTI" DI PARMA E RELATIVO IMPEGNO DI SPESA. </title>
-			<description>AFFIDAMENTO FORNITURA LIBRI PER LA BIBLIOTECA C.PAVESE DI FELINO ALLA LIBRERIA "PICCOLI LABIRINTI" DI PARMA E RELATIVO IMPEGNO DI SPESA. </description>
 			<a10:updated>2017-10-11T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

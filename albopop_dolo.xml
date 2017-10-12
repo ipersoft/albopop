@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 12 Oct 2017 12:30:47 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 12 Oct 2017 13:30:46 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Thu, 12 Oct 2017 12:30:47 +0200</pubDate>
+		<pubDate>Thu, 12 Oct 2017 13:30:46 +0200</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3559903</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3559903</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 12 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 27 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3559903</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>AFFIDAMENTO FORNITURA CARTA PER UFFICI COMUNALI ALLA DITTA SI.EL.CO. S.R.L. DI BUGUGGIATE (VA) PRESENTE NEL MERCATO ELETTRONICO DEL PORTALE CONSIP. </title>
+			<description>AFFIDAMENTO FORNITURA CARTA PER UFFICI COMUNALI ALLA DITTA SI.EL.CO. S.R.L. DI BUGUGGIATE (VA) PRESENTE NEL MERCATO ELETTRONICO DEL PORTALE CONSIP. </description>
+			<a10:updated>2017-10-12T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3559019</guid>
 			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3559019</link>
@@ -284,17 +295,6 @@
 			<title>AFFIDAMENTO A UNIEURO S.P.A. E IMPEGNO DI SPESA PER LA FORNITURA DI ELETTRODOMESTICI DA ASSEGNARE AI PROGETTI SOCIALI “GRUPPO APPARTAMENTO MASCHILE E AL GRUPPO APPARTAMENTO FEMMINILE” GESTITI DAL COMUNE DI DOLO - CIG N. Z912025EC7. </title>
 			<description>AFFIDAMENTO A UNIEURO S.P.A. E IMPEGNO DI SPESA PER LA FORNITURA DI ELETTRODOMESTICI DA ASSEGNARE AI PROGETTI SOCIALI “GRUPPO APPARTAMENTO MASCHILE E AL GRUPPO APPARTAMENTO FEMMINILE” GESTITI DAL COMUNE DI DOLO - CIG N. Z912025EC7. </description>
 			<a10:updated>2017-10-09T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3548837</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3548837</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 06 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 21 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3548837</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>SERVIZIO DI VERIFICA E REVISIONE DELLE ATTREZZATURE IN DOTAZIONE AL PERSONALE DEL SETTORE LL.PP. NECESSARIE PER LA MANUTENZIONE DEL VERDE PUBBLICO DI COMPETENZA COMUNALE. AFFIDAMENTO ALLA DITTA ARTUSI GARDEN S.N.C. DI DOLO (VE). </title>
-			<description>SERVIZIO DI VERIFICA E REVISIONE DELLE ATTREZZATURE IN DOTAZIONE AL PERSONALE DEL SETTORE LL.PP. NECESSARIE PER LA MANUTENZIONE DEL VERDE PUBBLICO DI COMPETENZA COMUNALE. AFFIDAMENTO ALLA DITTA ARTUSI GARDEN S.N.C. DI DOLO (VE). </description>
-			<a10:updated>2017-10-06T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
