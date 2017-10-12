@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 12 Oct 2017 08:31:14 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 12 Oct 2017 09:31:07 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Thu, 12 Oct 2017 08:31:14 +0200</pubDate>
+		<pubDate>Thu, 12 Oct 2017 09:31:07 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2996342</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2996342</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 12 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 27 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2996342</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
+			<title>LIQUIDAZIONE SPESE CONDOMINIALI BILANCIO PREVENTIVO 2017/2018 COMPETENZA 2017 ( RATE N. 1-2) IMMOBILE SITO IN ROVIGO, VIALE TRIESTE 16/18, SEDE DI UFFICI COMUNALI. </title>
+			<description>LIQUIDAZIONE SPESE CONDOMINIALI BILANCIO PREVENTIVO 2017/2018 COMPETENZA 2017 ( RATE N. 1-2) IMMOBILE SITO IN ROVIGO, VIALE TRIESTE 16/18, SEDE DI UFFICI COMUNALI. </description>
+			<a10:updated>2017-10-12T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2996282</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2996282</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 12 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 27 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2996282</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE PERMESSI DI COSTRUIRE</category>
+			<title>PERMESSO DI COSTRUIRE IN ACCERTAMENTO DI CONFORMITÀ EX ART. 36 DPR 380/2001, N. 92 DEL 12/10/2017 - RIF. UT. 312/2017, PER MODIFICHE INTERNE E FOROMETRICHE AL FABBRICATO A DESTINAZIONE RESIDENZIALE IN VIA P. MARONCELLI 5- ROVIGO. </title>
+			<description>PERMESSO DI COSTRUIRE IN ACCERTAMENTO DI CONFORMITÀ EX ART. 36 DPR 380/2001, N. 92 DEL 12/10/2017 - RIF. UT. 312/2017, PER MODIFICHE INTERNE E FOROMETRICHE AL FABBRICATO A DESTINAZIONE RESIDENZIALE IN VIA P. MARONCELLI 5- ROVIGO. </description>
+			<a10:updated>2017-10-12T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2996245</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2996245</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE ORDINANZE</category>
 			<title>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE PER LAVORI DI MANUTENZIONE RETI ED IMPIANTI GAS METANO DA ULTIMARSI IN VIALE DELLA PACE ALL'INCROCIO CON VIA D. PIVA – PROROGA DELL'ORDINANZA N. 294/2017 DEL 25/07/2017 DAL 10/10/2017 AL 20/10/2017 </title>
 			<description>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE PER LAVORI DI MANUTENZIONE RETI ED IMPIANTI GAS METANO DA ULTIMARSI IN VIALE DELLA PACE ALL'INCROCIO CON VIA D. PIVA – PROROGA DELL'ORDINANZA N. 294/2017 DEL 25/07/2017 DAL 10/10/2017 AL 20/10/2017 </description>
-			<a10:updated>2017-10-11T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2994220</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2994220</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 11 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 26 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2994220</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE ORDINANZE</category>
-			<title>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE PER LAVORI DI MANUTENZIONE RETI ED IMPIANTI GAS METANO DA ULTIMARSI IN VIA VITTORIO VENETO ALL'INCROCIO CON VIA ROVERETO – PROROGA DELL'ORDINANZA N. 336/2017 DEL 21/08/2017 FINO AL 31/10/2017 </title>
-			<description>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE PER LAVORI DI MANUTENZIONE RETI ED IMPIANTI GAS METANO DA ULTIMARSI IN VIA VITTORIO VENETO ALL'INCROCIO CON VIA ROVERETO – PROROGA DELL'ORDINANZA N. 336/2017 DEL 21/08/2017 FINO AL 31/10/2017 </description>
-			<a10:updated>2017-10-11T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2994217</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2994217</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 11 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 26 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2994217</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE ORDINANZE</category>
-			<title>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE IN VIA SILVESTRI, 87 PER LAVORI DI MANUTENZIONE COPERTURA DALLE ORE 08.00 ALLE ORE 11.00 DEL 12/10/2017 </title>
-			<description>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE IN VIA SILVESTRI, 87 PER LAVORI DI MANUTENZIONE COPERTURA DALLE ORE 08.00 ALLE ORE 11.00 DEL 12/10/2017 </description>
 			<a10:updated>2017-10-11T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
