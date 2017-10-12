@@ -5,7 +5,7 @@
 		<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/igrid/1210528</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Celle di Bulgheria</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 12 Oct 2017 10:30:35 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 12 Oct 2017 11:30:37 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Celle di Bulgheria</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Salerno</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Celle di Bulgheria</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_celledibulgheria</a10:id>
-		<pubDate>Thu, 12 Oct 2017 10:30:35 +0200</pubDate>
+		<pubDate>Thu, 12 Oct 2017 11:30:37 +0200</pubDate>
 		<docs>http://albopop.it/comune/celledibulgheria/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2996816</guid>
+			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2996816</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 12 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 27 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2996816</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
+			<title>IMPEGNO PER ACQUISTO LIBRI SCUOLA PRIMARIA CAPOLUOGO E FRAZIONE ANNO 2017/2018 </title>
+			<description>IMPEGNO PER ACQUISTO LIBRI SCUOLA PRIMARIA CAPOLUOGO E FRAZIONE ANNO 2017/2018 </description>
+			<a10:updated>2017-10-12T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2996745</guid>
 			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2996745</link>
@@ -228,17 +239,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
 			<title>POC CAMPANIA 2014\2020, AVVISO PUBBLICO DI SELEZIONE DI EVENTI DI RILEVANZA NAZIONALE ED INTERNAZIONALE DELIBERAZIONE DI GIUNTA REGIONALE DELLA CAMPANIA N. 182 DEL 04/04/2017 PROGRAMMA “GIUGNO 2017 – MAGGIO 2018” - D.D. N. 3 DEL 18/05/2017- APPROVAZIONE PROGETTO ESECUTIVO “E VIVI……….BULGHERIA </title>
 			<description>POC CAMPANIA 2014\2020, AVVISO PUBBLICO DI SELEZIONE DI EVENTI DI RILEVANZA NAZIONALE ED INTERNAZIONALE DELIBERAZIONE DI GIUNTA REGIONALE DELLA CAMPANIA N. 182 DEL 04/04/2017 PROGRAMMA “GIUGNO 2017 – MAGGIO 2018” - D.D. N. 3 DEL 18/05/2017- APPROVAZIONE PROGETTO ESECUTIVO “E VIVI……….BULGHERIA </description>
-			<a10:updated>2017-10-05T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2986909</guid>
-			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/2986909</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 05 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 20 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2986909</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI CONSIGLIO</category>
-			<title>RISCOSSIONE: DELEGA DELLE FUNZIONI E DELLE ATTIVITA’ ALL’AGENZIA DELLE ENTRATE - RISCOSSIONE </title>
-			<description>RISCOSSIONE: DELEGA DELLE FUNZIONI E DELLE ATTIVITA’ ALL’AGENZIA DELLE ENTRATE - RISCOSSIONE </description>
 			<a10:updated>2017-10-05T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

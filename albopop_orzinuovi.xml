@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 12 Oct 2017 10:30:50 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 12 Oct 2017 11:30:52 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Thu, 12 Oct 2017 10:30:50 +0200</pubDate>
+		<pubDate>Thu, 12 Oct 2017 11:30:52 +0200</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2996780</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2996780</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 12 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 27 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2996780</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
+			<title>POSTICIPAZIONE DATA DI ACCENSIONE RISCALDAMENTO STAGIONALE </title>
+			<description>POSTICIPAZIONE DATA DI ACCENSIONE RISCALDAMENTO STAGIONALE </description>
+			<a10:updated>2017-10-12T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2996570</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2996570</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>AGGIUDICAZIONE GESTIONE GLOBALE DELLA BIBLIOTECA COMUNALE DI ORZINUOVI E ATTIVITA’ CONNESSE (CIG. 7127120D78). PRESA ATTO MODIFICA PUNTEGGIO DITTA ASSEGNATARIA DEL SERVIZIO. </title>
 			<description>AGGIUDICAZIONE GESTIONE GLOBALE DELLA BIBLIOTECA COMUNALE DI ORZINUOVI E ATTIVITA’ CONNESSE (CIG. 7127120D78). PRESA ATTO MODIFICA PUNTEGGIO DITTA ASSEGNATARIA DEL SERVIZIO. </description>
-			<a10:updated>2017-10-05T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2986347</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2986347</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 05 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 20 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2986347</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>CIG 3692038E20 - CIG ZD8202A5E1 IMPEGNO DI SPESA PER TELEFONIA FISSA E CONNESSIONE INTERNET LINEA ADSL VV.FF. PER IL PERIODO OTTOBRE 2017 - SETTEMBRE 2018 </title>
-			<description>CIG 3692038E20 - CIG ZD8202A5E1 IMPEGNO DI SPESA PER TELEFONIA FISSA E CONNESSIONE INTERNET LINEA ADSL VV.FF. PER IL PERIODO OTTOBRE 2017 - SETTEMBRE 2018 </description>
 			<a10:updated>2017-10-05T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
