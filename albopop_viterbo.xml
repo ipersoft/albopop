@@ -5,7 +5,7 @@
 		<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Viterbo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 12 Oct 2017 11:30:55 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 12 Oct 2017 12:30:53 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Viterbo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Viterbo</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Viterbo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_viterbo</a10:id>
-		<pubDate>Thu, 12 Oct 2017 11:30:55 +0200</pubDate>
+		<pubDate>Thu, 12 Oct 2017 12:30:53 +0200</pubDate>
 		<docs>http://albopop.it/comune/viterbo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3559869</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3559869</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 12 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 17 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3559869</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONVOCAZIONE COMMISSIONE </category>
+			<title>CONVOCAZIONE II° COMMISSIONE CONSILIARE 17/10/2017 </title>
+			<description>CONVOCAZIONE II° COMMISSIONE CONSILIARE 17/10/2017 </description>
+			<a10:updated>2017-10-12T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3559543</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3559543</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 12 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 13 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3559543</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI </category>
+			<title>AVVISO DI DEPOSITO ATTI - AGENZIA ENTRATE </title>
+			<description>AVVISO DI DEPOSITO ATTI - AGENZIA ENTRATE </description>
+			<a10:updated>2017-10-12T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3556233</guid>
 			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3556233</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONI SENZA IMPEGNO DI SPESA</category>
 			<title>PROCEDURA DI MOBILITA' VOLONTARIA TRA ENTI PER LA COPERTURA A TEMPO PIENO ED INDETERMINATO DI N. 1 POSTO DI CATEGORIA D1 PROFILO PROFESSIONALE ISTRUTTORE DIRETTIVO ASSISTENTE SOCIALE. APPROVAZIONE AVVISO DI MOBILITA'. </title>
 			<description>PROCEDURA DI MOBILITA' VOLONTARIA TRA ENTI PER LA COPERTURA A TEMPO PIENO ED INDETERMINATO DI N. 1 POSTO DI CATEGORIA D1 PROFILO PROFESSIONALE ISTRUTTORE DIRETTIVO ASSISTENTE SOCIALE. APPROVAZIONE AVVISO DI MOBILITA'. </description>
-			<a10:updated>2017-10-10T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3553647</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3553647</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 10 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 25 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3553647</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONI SENZA IMPEGNO DI SPESA</category>
-			<title>SIG.RA ACETI SANDRA - DIPENDENTE CON PROFILO PROFESSIONALE DI ISTRUTTORE DIRETTIVO AMMINISTRATIVO - CONCESSIONE CONGEDO PARENTALE AI SENSI DELL'ART. 32 E SEGUENTI DEL D. LGS 151/2001 </title>
-			<description>SIG.RA ACETI SANDRA - DIPENDENTE CON PROFILO PROFESSIONALE DI ISTRUTTORE DIRETTIVO AMMINISTRATIVO - CONCESSIONE CONGEDO PARENTALE AI SENSI DELL'ART. 32 E SEGUENTI DEL D. LGS 151/2001 </description>
-			<a10:updated>2017-10-10T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3553644</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3553644</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 10 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 25 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3553644</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONI SENZA IMPEGNO DI SPESA</category>
-			<title>PROCEDURA DI MOBILITA' VOLONTARIA TRA ENTI PER LA COPERTURA A TEMPO PIENO ED INDETERMINATO DI N. 1 POSTO DI DIRIGENTE DA DESTINARE ALL'AREA AMMINISTRATIVA. APPROVAZIONE AVVISO DI MOBILITA'. </title>
-			<description>PROCEDURA DI MOBILITA' VOLONTARIA TRA ENTI PER LA COPERTURA A TEMPO PIENO ED INDETERMINATO DI N. 1 POSTO DI DIRIGENTE DA DESTINARE ALL'AREA AMMINISTRATIVA. APPROVAZIONE AVVISO DI MOBILITA'. </description>
 			<a10:updated>2017-10-10T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
