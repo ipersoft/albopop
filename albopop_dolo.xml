@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 12 Oct 2017 17:30:51 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 12 Oct 2017 18:30:58 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Thu, 12 Oct 2017 17:30:51 +0200</pubDate>
+		<pubDate>Thu, 12 Oct 2017 18:30:58 +0200</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3561035</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3561035</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 12 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 27 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3561035</category>
+			<category domain="http://albopop.it/specs#item-category-type">PERMESSI DI COSTRUIRE PERMESSO DI COSTRUIRE</category>
+			<title>AVVISO DI RILASCIO DI CONCESSIONE IN SANATORIA AI SENSI DELL’ART. 31 DELLA LEGGE 28 FEBBRAIO 1985 N. 47 AI SENSI ART. 31 L. 17.08.1942 N. 1150. </title>
+			<description>AVVISO DI RILASCIO DI CONCESSIONE IN SANATORIA AI SENSI DELL’ART. 31 DELLA LEGGE 28 FEBBRAIO 1985 N. 47 AI SENSI ART. 31 L. 17.08.1942 N. 1150. </description>
+			<a10:updated>2017-10-12T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3560929</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3560929</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 12 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 27 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3560929</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>LIQUIDAZIONE RIMBORSO SPESE DI MISSIONE AL PERSONALE DIPENDENTE RELATIVE AL MESE DI SETTEMBRE 2017 </title>
+			<description>LIQUIDAZIONE RIMBORSO SPESE DI MISSIONE AL PERSONALE DIPENDENTE RELATIVE AL MESE DI SETTEMBRE 2017 </description>
+			<a10:updated>2017-10-12T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3560926</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3560926</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 12 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 27 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3560926</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>LIQUIDAZIONE LAVORO STRAORDINARIO EFFETTUATO DAL PERSONALE DIPENDENTE NEL MESE DI AGOSTO 2017 </title>
+			<description>LIQUIDAZIONE LAVORO STRAORDINARIO EFFETTUATO DAL PERSONALE DIPENDENTE NEL MESE DI AGOSTO 2017 </description>
+			<a10:updated>2017-10-12T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3560681</guid>
 			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3560681</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>DELIBERAZIONE DI GIUNTA REGIONALE VENETO N. 1858/2015. IMPEGNO E LIQUIDAZIONE DEL CONTRIBUTO REGIONALE PER LA REALIZZAZIONE DI INTERVENTI DI RIPRISTINO DEI DANNI DELLE ABITAZIONI A SEGUITO DEGLI EVENTI ATMOSFERICI ECCEZIONALI DEL 08/07/2015 CHE HANNO COLPITO IL TERRITORIO DELLA RIVIERA DEL BRENTA; CECILIA LIMONGELLI – ID: 210 – (DOMANDA DI CONTRIBUTO PROT. 5533 DEL 01/03/16 ). </title>
 			<description>DELIBERAZIONE DI GIUNTA REGIONALE VENETO N. 1858/2015. IMPEGNO E LIQUIDAZIONE DEL CONTRIBUTO REGIONALE PER LA REALIZZAZIONE DI INTERVENTI DI RIPRISTINO DEI DANNI DELLE ABITAZIONI A SEGUITO DEGLI EVENTI ATMOSFERICI ECCEZIONALI DEL 08/07/2015 CHE HANNO COLPITO IL TERRITORIO DELLA RIVIERA DEL BRENTA; CECILIA LIMONGELLI – ID: 210 – (DOMANDA DI CONTRIBUTO PROT. 5533 DEL 01/03/16 ). </description>
-			<a10:updated>2017-10-09T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3550715</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3550715</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 09 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 24 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3550715</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>DELIBERAZIONE DI GIUNTA REGIONALE VENETO N. 1858/2015. PROROGA DEL TERMINE DI ULTIMAZIONE DEI LAVORI PER LA REALIZZAZIONE DI INTERVENTI DI RIPRISTINO DEI DANNI DELLE ABITAZIONI A SEGUITO DEGLI EVENTI ATMOSFERICI ECCEZIONALI DEL 08/07/2015 CHE HANNO COLPITO IL TERRITORIO DELLA RIVIERA DEL BRENTA; CECILIA LIMONGELLI – ID: 208 – (DOMANDA DI CONTRIBUTO PROT. 5531 DEL 01/03/16 ). </title>
-			<description>DELIBERAZIONE DI GIUNTA REGIONALE VENETO N. 1858/2015. PROROGA DEL TERMINE DI ULTIMAZIONE DEI LAVORI PER LA REALIZZAZIONE DI INTERVENTI DI RIPRISTINO DEI DANNI DELLE ABITAZIONI A SEGUITO DEGLI EVENTI ATMOSFERICI ECCEZIONALI DEL 08/07/2015 CHE HANNO COLPITO IL TERRITORIO DELLA RIVIERA DEL BRENTA; CECILIA LIMONGELLI – ID: 208 – (DOMANDA DI CONTRIBUTO PROT. 5531 DEL 01/03/16 ). </description>
-			<a10:updated>2017-10-09T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3550712</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3550712</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 09 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 24 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3550712</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>DELIBERAZIONE DI GIUNTA REGIONALE VENETO N. 1858/2015. IMPEGNO E LIQUIDAZIONE DEL CONTRIBUTO REGIONALE PER LA REALIZZAZIONE DI INTERVENTI DI RIPRISTINO DEI DANNI DELLE ABITAZIONI A SEGUITO DEGLI EVENTI ATMOSFERICI ECCEZIONALI DEL 08/07/2015 CHE HANNO COLPITO IL TERRITORIO DELLA RIVIERA DEL BRENTA; CECILIA LIMONGELLI – ID: 209 – (DOMANDA DI CONTRIBUTO PROT. 5532 DEL 01/03/16 ). </title>
-			<description>DELIBERAZIONE DI GIUNTA REGIONALE VENETO N. 1858/2015. IMPEGNO E LIQUIDAZIONE DEL CONTRIBUTO REGIONALE PER LA REALIZZAZIONE DI INTERVENTI DI RIPRISTINO DEI DANNI DELLE ABITAZIONI A SEGUITO DEGLI EVENTI ATMOSFERICI ECCEZIONALI DEL 08/07/2015 CHE HANNO COLPITO IL TERRITORIO DELLA RIVIERA DEL BRENTA; CECILIA LIMONGELLI – ID: 209 – (DOMANDA DI CONTRIBUTO PROT. 5532 DEL 01/03/16 ). </description>
-			<a10:updated>2017-10-09T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3550517</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3550517</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 09 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 30 Nov 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3550517</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISO GENERICO</category>
-			<title>ALBO DELLE PERSONE IDONEE ALL'UFFICIO DI SCRUTATORE DI SEGGIO ELETTORALE </title>
-			<description>ALBO DELLE PERSONE IDONEE ALL'UFFICIO DI SCRUTATORE DI SEGGIO ELETTORALE </description>
 			<a10:updated>2017-10-09T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
