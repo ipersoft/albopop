@@ -5,7 +5,7 @@
 		<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Busnago</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 14 Oct 2017 08:30:50 +0200</lastBuildDate>
+		<lastBuildDate>Sat, 14 Oct 2017 09:30:44 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Busnago</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Busnago</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_busnago</a10:id>
-		<pubDate>Sat, 14 Oct 2017 08:30:50 +0200</pubDate>
+		<pubDate>Sat, 14 Oct 2017 09:30:44 +0200</pubDate>
 		<docs>http://albopop.it/comune/busnago/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3563734</guid>
+			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3563734</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 14 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 29 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3563734</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DETERMINAZIONE DEI RESPONSABILI</category>
+			<title>IMPEGNO DI SPESA PER LA FORNITURA DI UNIFORMI E ATTREZZATURA PER LA POLIZIA LOCALE E IL MESSO COMUNALE </title>
+			<description>IMPEGNO DI SPESA PER LA FORNITURA DI UNIFORMI E ATTREZZATURA PER LA POLIZIA LOCALE E IL MESSO COMUNALE </description>
+			<a10:updated>2017-10-14T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3563517</guid>
 			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3563517</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DETERMINAZIONE DEI RESPONSABILI</category>
 			<title>IMPEGNO DI SPESA PER 7° FESTA DELLE ASSOCIAZIONI - INTEGRAZIONE </title>
 			<description>IMPEGNO DI SPESA PER 7° FESTA DELLE ASSOCIAZIONI - INTEGRAZIONE </description>
-			<a10:updated>2017-10-09T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3551073</guid>
-			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3551073</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 09 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 24 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3551073</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DETERMINAZIONE DEI RESPONSABILI</category>
-			<title>FORNITURA E POSA DI NUOVI APPARECCHI DI ILLUMINAZIONE PUBBLICA VIE DIVERSE: APPROVAZIONE DELLA PROPOSTA DI AGGIUDICAZIONE DELLA PROCEDURA TELEMATICA DI AFFIDAMENTO DIRETTO SINTEL (ID N. 89451984) - IMPEGNO DI SPESA - CIG ZEB201E6E8 </title>
-			<description>FORNITURA E POSA DI NUOVI APPARECCHI DI ILLUMINAZIONE PUBBLICA VIE DIVERSE: APPROVAZIONE DELLA PROPOSTA DI AGGIUDICAZIONE DELLA PROCEDURA TELEMATICA DI AFFIDAMENTO DIRETTO SINTEL (ID N. 89451984) - IMPEGNO DI SPESA - CIG ZEB201E6E8 </description>
 			<a10:updated>2017-10-09T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
