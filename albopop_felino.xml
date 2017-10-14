@@ -5,7 +5,7 @@
 		<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Felino</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 13 Oct 2017 18:30:46 +0200</lastBuildDate>
+		<lastBuildDate>Sat, 14 Oct 2017 08:30:40 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Felino</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Felino</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_felino</a10:id>
-		<pubDate>Fri, 13 Oct 2017 18:30:46 +0200</pubDate>
+		<pubDate>Sat, 14 Oct 2017 08:30:40 +0200</pubDate>
 		<docs>http://albopop.it/comune/felino/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -52,17 +52,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
 			<title>REVISIONE SEMESTRALE DELLE LISTE ELETTORALI </title>
 			<description>REVISIONE SEMESTRALE DELLE LISTE ELETTORALI </description>
-			<a10:updated>2017-10-11T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2994170</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2994170</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 11 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 13 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2994170</category>
-			<category domain="http://albopop.it/specs#item-category-type">A005 ORDINANZE E AVVISI</category>
-			<title>INTERVENTI PROVVISORI SULLA VIABILITÀ DI VIA MONTICELLO E VIA GALLIGNANA PER ESEGUIRE LAVORI STRADALI. </title>
-			<description>INTERVENTI PROVVISORI SULLA VIABILITÀ DI VIA MONTICELLO E VIA GALLIGNANA PER ESEGUIRE LAVORI STRADALI. </description>
 			<a10:updated>2017-10-11T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
@@ -294,6 +283,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
 			<title>IMPEGNO DI SPESA E LIQUIDAZIONE SPESE SOSTENUTE DALL’ASSOCIAZIONE ONLUS “I GATTI DI MARIA LUIGIA” PER LA DETENZIONE E STERILIZZAZIONE DI N. 2 GATTI APPARTENENTI ALLA COLONIA FELINA DI VIA ALDO MORO, IN CORSO DI ABOLIZIONE </title>
 			<description>IMPEGNO DI SPESA E LIQUIDAZIONE SPESE SOSTENUTE DALL’ASSOCIAZIONE ONLUS “I GATTI DI MARIA LUIGIA” PER LA DETENZIONE E STERILIZZAZIONE DI N. 2 GATTI APPARTENENTI ALLA COLONIA FELINA DI VIA ALDO MORO, IN CORSO DI ABOLIZIONE </description>
+			<a10:updated>2017-10-11T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2993161</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2993161</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 11 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 26 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2993161</category>
+			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
+			<title>SERVIZIO DI RISTORAZIONE SCOLASTICA PER LA SCUOLA PRIMARIA DI FELINO E PER I CENTRI ESTIVI PER RAGAZZI DI ETÀ 6-13 ANNI PER GLI ANNI SCOLASTICI 2017/2018 E 2018/2019. PRESA D'ATTO AGGIUDICAZIONE DEFINITIVA DAL PARTE DELLA CENTRALE UNICA DI COMMITTENZA – UNIONE PEDEMONTANA PARMENSE - E RELATIVO IMPEGNO DI SPESA. </title>
+			<description>SERVIZIO DI RISTORAZIONE SCOLASTICA PER LA SCUOLA PRIMARIA DI FELINO E PER I CENTRI ESTIVI PER RAGAZZI DI ETÀ 6-13 ANNI PER GLI ANNI SCOLASTICI 2017/2018 E 2018/2019. PRESA D'ATTO AGGIUDICAZIONE DEFINITIVA DAL PARTE DELLA CENTRALE UNICA DI COMMITTENZA – UNIONE PEDEMONTANA PARMENSE - E RELATIVO IMPEGNO DI SPESA. </description>
 			<a10:updated>2017-10-11T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
