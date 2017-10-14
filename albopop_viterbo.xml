@@ -5,7 +5,7 @@
 		<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Viterbo</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 14 Oct 2017 11:31:07 +0200</lastBuildDate>
+		<lastBuildDate>Sat, 14 Oct 2017 12:30:50 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Viterbo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Viterbo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Viterbo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_viterbo</a10:id>
-		<pubDate>Sat, 14 Oct 2017 11:31:07 +0200</pubDate>
+		<pubDate>Sat, 14 Oct 2017 12:30:50 +0200</pubDate>
 		<docs>http://albopop.it/comune/viterbo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3563967</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3563967</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 14 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 29 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3563967</category>
+			<category domain="http://albopop.it/specs#item-category-type">AUTORIZZAZIONI </category>
+			<title>AUTORIZZAZIONE GARA PODISTICA DENOMINATA "STRAVITERBO" CHE SI SVOLGERA' IL 15/10/2017 </title>
+			<description>AUTORIZZAZIONE GARA PODISTICA DENOMINATA "STRAVITERBO" CHE SI SVOLGERA' IL 15/10/2017 </description>
+			<a10:updated>2017-10-14T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3563029</guid>
 			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3563029</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI </category>
 			<title>ORDINANZA DI SGOMBERO PER ESERCITAZIONI DI TIRI EMESSA DALLAM SCUOLA DI FANTERIA. </title>
 			<description>ORDINANZA DI SGOMBERO PER ESERCITAZIONI DI TIRI EMESSA DALLAM SCUOLA DI FANTERIA. </description>
-			<a10:updated>2017-10-10T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3554095</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3554095</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 10 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 26 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3554095</category>
-			<category domain="http://albopop.it/specs#item-category-type">CONVOCAZIONE CONSIGLIO </category>
-			<title>CONVOCAZIONE CONSIGLIO COMUNALE - O.D.G. AGGIUNTIVO. </title>
-			<description>CONVOCAZIONE CONSIGLIO COMUNALE - O.D.G. AGGIUNTIVO. </description>
 			<a10:updated>2017-10-10T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
