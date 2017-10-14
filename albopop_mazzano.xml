@@ -5,7 +5,7 @@
 		<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mazzano</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 14 Oct 2017 14:31:13 +0200</lastBuildDate>
+		<lastBuildDate>Sat, 14 Oct 2017 15:31:07 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mazzano</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mazzano</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mazzano</a10:id>
-		<pubDate>Sat, 14 Oct 2017 14:31:13 +0200</pubDate>
+		<pubDate>Sat, 14 Oct 2017 15:31:07 +0200</pubDate>
 		<docs>http://albopop.it/comune/mazzano/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3564046</guid>
+			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3564046</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 14 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 22 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3564046</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI DI DEPOSITO ATTI NELLA CASA COMUNALE</category>
+			<title>AVVISO DEPOSITO ATTI PER LA NOTIFICA AI SENSI DELL'ART. 60 DEL DPR 600/73 - ELETTRO 83 DI CALDERA ANGIOLINO &amp; C. SNC </title>
+			<description>AVVISO DEPOSITO ATTI PER LA NOTIFICA AI SENSI DELL'ART. 60 DEL DPR 600/73 - ELETTRO 83 DI CALDERA ANGIOLINO &amp; C. SNC </description>
+			<a10:updated>2017-10-14T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3563633</guid>
 			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3563633</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
 			<title>CIG: Z991FB84EA DETERMINA A CONTRATTARE E AFFIDAMENTO DELL’INCARICO PROFESSIONALE ALL’ ING. LAURA BOLDI RIGUARDO IL RILASCIO DEL PARERE TECNICO RELATIVO ALL’ ISTANZA DI DENUNCIA DI COSTRUZIONE IN CORSO IN ZONA DI NUOVA CLASSIFICAZIONE SISMICA (ART 104 COMMA 1 D.P.R. 380/01 _ ART 12 L,R, 12 OTTOBRE 2015 N.33) POS C.A. 2014/00014/CEM COMMITTENTE MOLTENI LUCA PER CUI NON È POSSIBILE AVVALERSI DEL TECNICO INCARICATO CON DETERMINA 537 DEL 20/07/2016 </title>
 			<description>CIG: Z991FB84EA DETERMINA A CONTRATTARE E AFFIDAMENTO DELL’INCARICO PROFESSIONALE ALL’ ING. LAURA BOLDI RIGUARDO IL RILASCIO DEL PARERE TECNICO RELATIVO ALL’ ISTANZA DI DENUNCIA DI COSTRUZIONE IN CORSO IN ZONA DI NUOVA CLASSIFICAZIONE SISMICA (ART 104 COMMA 1 D.P.R. 380/01 _ ART 12 L,R, 12 OTTOBRE 2015 N.33) POS C.A. 2014/00014/CEM COMMITTENTE MOLTENI LUCA PER CUI NON È POSSIBILE AVVALERSI DEL TECNICO INCARICATO CON DETERMINA 537 DEL 20/07/2016 </description>
-			<a10:updated>2017-10-09T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3552720</guid>
-			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3552720</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 09 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 24 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3552720</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
-			<title>IMPEGNO DI SPESA PER ACQUISTO BLOCCHI VERBALI PER SEQUESTRI E FERMI AMMINISTRATIVI (ART. 213 E 214 C.D.S.) </title>
-			<description>IMPEGNO DI SPESA PER ACQUISTO BLOCCHI VERBALI PER SEQUESTRI E FERMI AMMINISTRATIVI (ART. 213 E 214 C.D.S.) </description>
 			<a10:updated>2017-10-09T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
