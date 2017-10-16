@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 16 Oct 2017 10:31:03 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 16 Oct 2017 11:31:09 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Mon, 16 Oct 2017 10:31:03 +0200</pubDate>
+		<pubDate>Mon, 16 Oct 2017 11:31:09 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3000700</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3000700</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 16 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 31 Oct 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3000700</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DELIBERE DI CONSIGLIO</category>
+			<title> RICHIESTA ISTITUZIONE COMMISSIONE INCHIESTA PROT. 53861 DEL 13.09.2017. DETERMINAZIONI. </title>
+			<description> RICHIESTA ISTITUZIONE COMMISSIONE INCHIESTA PROT. 53861 DEL 13.09.2017. DETERMINAZIONI. </description>
+			<a10:updated>2017-10-16T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3000697</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3000697</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 16 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 31 Oct 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3000697</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
+			<title>LIQUIDAZIONE SPESA AFFERENTE LA REGISTRAZIONE DEL CONTRATTO REP. N. 118 DEL 20/09/2017 DI LOCAZIONE DELL'ALLOGGIO “E.R.P.” DI PROPRIETÀ DEL COMUNE DI ROVIGO, SITO IN FRAZIONE GRIGNANO POLESINE, VIA SCOLO VALDENTRO N. 46 – PIANO TERRA, CON ANNESSO GARAGE. </title>
+			<description>LIQUIDAZIONE SPESA AFFERENTE LA REGISTRAZIONE DEL CONTRATTO REP. N. 118 DEL 20/09/2017 DI LOCAZIONE DELL'ALLOGGIO “E.R.P.” DI PROPRIETÀ DEL COMUNE DI ROVIGO, SITO IN FRAZIONE GRIGNANO POLESINE, VIA SCOLO VALDENTRO N. 46 – PIANO TERRA, CON ANNESSO GARAGE. </description>
+			<a10:updated>2017-10-16T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3000694</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3000694</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 16 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 31 Oct 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3000694</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
+			<title>LIQUIDAZIONE SPESA AFFERENTE LA REGISTRAZIONE DEL CONTRATTO REP. N.123 DEL 02/10/2017 DI LOCAZIONE DELL'ALLOGGIO “E.R.P.” DI PROPRIETÀ DEL COMUNE DI ROVIGO, SITO IN FRAZIONE GRIGNANO POLESINE, VIA SCOLO VALDENTRO N. 46 – PRIMO PIANO, CON ANNESSO GARAGE. </title>
+			<description>LIQUIDAZIONE SPESA AFFERENTE LA REGISTRAZIONE DEL CONTRATTO REP. N.123 DEL 02/10/2017 DI LOCAZIONE DELL'ALLOGGIO “E.R.P.” DI PROPRIETÀ DEL COMUNE DI ROVIGO, SITO IN FRAZIONE GRIGNANO POLESINE, VIA SCOLO VALDENTRO N. 46 – PRIMO PIANO, CON ANNESSO GARAGE. </description>
+			<a10:updated>2017-10-16T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3000619</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3000619</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DELIBERE DI GIUNTA</category>
 			<title>AUTORIZZAZIONE DELLA MANIFESTAZIONE "IT.A.CA' ROVIGO - FESTIVAL TURISMO RESPONSABILE" - PIAZZA ANNONARIA, PIAZZA MATTEOTTI DAL 13 AL 15 OTTOBRE 2017 - ASSOCIAZIONE CULTURALE TERADAMAR </title>
 			<description>AUTORIZZAZIONE DELLA MANIFESTAZIONE "IT.A.CA' ROVIGO - FESTIVAL TURISMO RESPONSABILE" - PIAZZA ANNONARIA, PIAZZA MATTEOTTI DAL 13 AL 15 OTTOBRE 2017 - ASSOCIAZIONE CULTURALE TERADAMAR </description>
-			<a10:updated>2017-10-16T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3000356</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3000356</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 16 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 31 Oct 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3000356</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DELIBERE DI GIUNTA</category>
-			<title>VARIAZIONE DEL PIANO DEGLI OBIETTIVI 2017 </title>
-			<description>VARIAZIONE DEL PIANO DEGLI OBIETTIVI 2017 </description>
-			<a10:updated>2017-10-16T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3000352</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3000352</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 16 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 31 Oct 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3000352</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DELIBERE DI GIUNTA</category>
-			<title>INTITOLAZIONE AREA - PIAZZALE ANTISTANTE CIMITERO DI BOARA POLESINE A DON TRISTANO BONVENTO </title>
-			<description>INTITOLAZIONE AREA - PIAZZALE ANTISTANTE CIMITERO DI BOARA POLESINE A DON TRISTANO BONVENTO </description>
-			<a10:updated>2017-10-16T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3000348</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3000348</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 16 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 31 Oct 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3000348</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DELIBERE DI GIUNTA</category>
-			<title>VISITA-SCAMBIO DELEGAZIONE DELLA CITTA' GEMELLATA DI VIERNHEIM DAL 20 AL 23 OTTOBRE 2017. PRESA D'ATTO. </title>
-			<description>VISITA-SCAMBIO DELEGAZIONE DELLA CITTA' GEMELLATA DI VIERNHEIM DAL 20 AL 23 OTTOBRE 2017. PRESA D'ATTO. </description>
 			<a10:updated>2017-10-16T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
