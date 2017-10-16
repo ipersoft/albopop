@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 16 Oct 2017 09:31:13 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 16 Oct 2017 10:30:59 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Mon, 16 Oct 2017 09:31:13 +0200</pubDate>
+		<pubDate>Mon, 16 Oct 2017 10:30:59 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3564682</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3564682</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 16 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 31 Oct 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3564682</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>LUCCA COMICS &amp; GAMES 2017: MODALITÀ DI UTILIZZO DI ALCUNI PARCHEGGI A PAGAMENTO ESTERNI AL CENTRO STORICO PER RESIDENTI CAT. A1 E A2, DAL 16 OTTOBRE 2017 AL 12 NOVEMBRE 2017. </title>
+			<description>LUCCA COMICS &amp; GAMES 2017: MODALITÀ DI UTILIZZO DI ALCUNI PARCHEGGI A PAGAMENTO ESTERNI AL CENTRO STORICO PER RESIDENTI CAT. A1 E A2, DAL 16 OTTOBRE 2017 AL 12 NOVEMBRE 2017. </description>
+			<a10:updated>2017-10-16T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3563890</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3563890</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DEPOSITO ATTI CASA COMUNALE</category>
 			<title>ARTICOLO 60, COMMA E) DPR 600/1973 MARIC NIKOLINA- REP N. 2140/2017- NOTIFICA ATTO </title>
 			<description>ARTICOLO 60, COMMA E) DPR 600/1973 MARIC NIKOLINA- REP N. 2140/2017- NOTIFICA ATTO </description>
-			<a10:updated>2017-10-13T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3561296</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3561296</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 13 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 28 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3561296</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>MANUTENZIONE STRAORDINARIA ED INTERVENTI DI RIPRISTINO DELLE SCARPATE STRADALI APPROVAZIONE DEL VERBALE NUOVI PREZZI CIG: 6920302DDB. (CONTENUTO: FAMIGLIA 05 "ATTI INERENTI E CONSEGUENTI GLI AFFIDAMENTI DI LL.SS.FF."). </title>
-			<description>MANUTENZIONE STRAORDINARIA ED INTERVENTI DI RIPRISTINO DELLE SCARPATE STRADALI APPROVAZIONE DEL VERBALE NUOVI PREZZI CIG: 6920302DDB. (CONTENUTO: FAMIGLIA 05 "ATTI INERENTI E CONSEGUENTI GLI AFFIDAMENTI DI LL.SS.FF."). </description>
 			<a10:updated>2017-10-13T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

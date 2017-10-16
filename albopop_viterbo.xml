@@ -5,7 +5,7 @@
 		<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Viterbo</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 16 Oct 2017 09:31:00 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 16 Oct 2017 10:30:47 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Viterbo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Viterbo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Viterbo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_viterbo</a10:id>
-		<pubDate>Mon, 16 Oct 2017 09:31:00 +0200</pubDate>
+		<pubDate>Mon, 16 Oct 2017 10:30:47 +0200</pubDate>
 		<docs>http://albopop.it/comune/viterbo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3564502</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3564502</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 16 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 31 Oct 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3564502</category>
+			<category domain="http://albopop.it/specs#item-category-type">DELIBERA DELIBERA CONSIGLIO</category>
+			<title>SEDUTA DESERTA </title>
+			<description>SEDUTA DESERTA </description>
+			<a10:updated>2017-10-16T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3563967</guid>
 			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3563967</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI </category>
 			<title>FONDI STRUTTURALI EUROPEI - PROGRAMMA OPERATIVO NAZIONALE 2014/2020 - ISTITUTO "BURATTI" VITERBO. </title>
 			<description>FONDI STRUTTURALI EUROPEI - PROGRAMMA OPERATIVO NAZIONALE 2014/2020 - ISTITUTO "BURATTI" VITERBO. </description>
-			<a10:updated>2017-10-10T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3554244</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3554244</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 10 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 31 Oct 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3554244</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI </category>
-			<title>ORDINANZA DI SGOMBERO PER ESERCITAZIONI DI TIRI EMESSA DALLAM SCUOLA DI FANTERIA. </title>
-			<description>ORDINANZA DI SGOMBERO PER ESERCITAZIONI DI TIRI EMESSA DALLAM SCUOLA DI FANTERIA. </description>
 			<a10:updated>2017-10-10T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
