@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 16 Oct 2017 14:31:03 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 16 Oct 2017 15:31:03 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Mon, 16 Oct 2017 14:31:03 +0200</pubDate>
+		<pubDate>Mon, 16 Oct 2017 15:31:03 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3567938</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3567938</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 16 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 31 Oct 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3567938</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONVOCAZIONI</category>
+			<title>SEDUTA CONSIGLIO COMUNALE DEL 20/10/2017, CONVOCAZIONE TRASMISSIONE ORDINE DEL GIORNO </title>
+			<description>SEDUTA CONSIGLIO COMUNALE DEL 20/10/2017, CONVOCAZIONE TRASMISSIONE ORDINE DEL GIORNO </description>
+			<a10:updated>2017-10-16T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3565581</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3565581</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>(RIF. PT 2017-2019 N. 28) PROGETTO DI INNOVAZIONE URBANA, 2014-2020 QUARTIERI SOCIAL S.ANNA – OPERAZIONE “RIQUALIFICAZIONE DEL FABBRICATO PIAZZALE SFORZA, ”ID UTENTE 530, APPROVAZIONE INTEGRAZIONI DEL PROGETTO ESECUTIVO, FINANZIAMENTO DELLA SPESA E MODALITA’ DI AFFIDAMENTO CUP: J61B15000490001 CIG : 7219120E45 </title>
 			<description>(RIF. PT 2017-2019 N. 28) PROGETTO DI INNOVAZIONE URBANA, 2014-2020 QUARTIERI SOCIAL S.ANNA – OPERAZIONE “RIQUALIFICAZIONE DEL FABBRICATO PIAZZALE SFORZA, ”ID UTENTE 530, APPROVAZIONE INTEGRAZIONI DEL PROGETTO ESECUTIVO, FINANZIAMENTO DELLA SPESA E MODALITA’ DI AFFIDAMENTO CUP: J61B15000490001 CIG : 7219120E45 </description>
-			<a10:updated>2017-10-13T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3562456</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3562456</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 13 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 28 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3562456</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>LAVORI DI MANUTENZIONE ORDINARIA DEL RETICOLO DEI CANALI EX IRRIGATORI PER L'ANNO 2017. APPROVAZIONE DEL PROGETTO ESECUTIVO, DEL FINANZIAMENTO DELLA SPESA E AFFIDAMENTO DEI LAVORI. CIG: ZE320111F3. (CONTENUTO: FAMIGLIA 03 "LL.SS.FF.: DD UNICA PER L'AFFIDAMENTO DI LAVORI"). </title>
-			<description>LAVORI DI MANUTENZIONE ORDINARIA DEL RETICOLO DEI CANALI EX IRRIGATORI PER L'ANNO 2017. APPROVAZIONE DEL PROGETTO ESECUTIVO, DEL FINANZIAMENTO DELLA SPESA E AFFIDAMENTO DEI LAVORI. CIG: ZE320111F3. (CONTENUTO: FAMIGLIA 03 "LL.SS.FF.: DD UNICA PER L'AFFIDAMENTO DI LAVORI"). </description>
 			<a10:updated>2017-10-13T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
