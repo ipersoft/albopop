@@ -5,7 +5,7 @@
 		<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Canosa di Puglia</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 16 Oct 2017 12:31:12 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 16 Oct 2017 13:30:54 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Canosa di Puglia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Barletta-Andria-Trani</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Canosa di Puglia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_canosadipuglia</a10:id>
-		<pubDate>Mon, 16 Oct 2017 12:31:12 +0200</pubDate>
+		<pubDate>Mon, 16 Oct 2017 13:30:54 +0200</pubDate>
 		<docs>http://albopop.it/comune/canosadipuglia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3565640</guid>
+			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3565640</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 16 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 31 Oct 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3565640</category>
+			<category domain="http://albopop.it/specs#item-category-type">COMUNICAZIONE ABUSI ABUSI EDILI</category>
+			<title>CONTROLLO DELL'ATTIVITÀ EDILIZIA. ELENCO DEI RAPPORTI RICEVUTI E DELLE ORDINANZE EMESSE NEL MESE DI SETTEMBRE 2017 </title>
+			<description>CONTROLLO DELL'ATTIVITÀ EDILIZIA. ELENCO DEI RAPPORTI RICEVUTI E DELLE ORDINANZE EMESSE NEL MESE DI SETTEMBRE 2017 </description>
+			<a10:updated>2017-10-16T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3565130</guid>
 			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3565130</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">AVVISI E DEPOSITI AVVISO DI DEPOSITO</category>
 			<title>AVVISO DI DEPOSITO - VERBALE DI VIOLAZIONE AL CODICE DELLA STRADA N.VERBALE 21625/2017P( PROT.3773/2017) DEL 17/07/2017 - INTESTATO AL SIG. RUTIGLIANO IGNAZIO - PER CONTO DEL COMUNE DI BITONDO - COMANDO DI POLIZIA LOCALE. </title>
 			<description>AVVISO DI DEPOSITO - VERBALE DI VIOLAZIONE AL CODICE DELLA STRADA N.VERBALE 21625/2017P( PROT.3773/2017) DEL 17/07/2017 - INTESTATO AL SIG. RUTIGLIANO IGNAZIO - PER CONTO DEL COMUNE DI BITONDO - COMANDO DI POLIZIA LOCALE. </description>
-			<a10:updated>2017-10-10T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3554256</guid>
-			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3554256</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 10 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 25 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3554256</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI E DEPOSITI AVVISO DI PUBBLICAZIONE</category>
-			<title>POSTA CERTIFICATA: RICHIESTA PUBBLICAZIONE ATTI </title>
-			<description>POSTA CERTIFICATA: RICHIESTA PUBBLICAZIONE ATTI </description>
 			<a10:updated>2017-10-10T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
