@@ -5,7 +5,7 @@
 		<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Busnago</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 17 Oct 2017 09:31:01 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 17 Oct 2017 10:31:26 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Busnago</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Busnago</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_busnago</a10:id>
-		<pubDate>Tue, 17 Oct 2017 09:31:01 +0200</pubDate>
+		<pubDate>Tue, 17 Oct 2017 10:31:26 +0200</pubDate>
 		<docs>http://albopop.it/comune/busnago/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3573366</guid>
+			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3573366</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 17 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 18 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3573366</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI PUBBLICI AGENZIA DELLE ENTRATE - RISCOSSIONE. AVVISO DI DEPOSITO DI ATTI NELLA CASA COMUNALE</category>
+			<title>AGENZIA DELLE ENTRATE - RISCOSSIONE. RICHIESTA DI PUBBLICAZIONE AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE N. ELENCO: YN00584/161017-02 </title>
+			<description>AGENZIA DELLE ENTRATE - RISCOSSIONE. RICHIESTA DI PUBBLICAZIONE AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE N. ELENCO: YN00584/161017-02 </description>
+			<a10:updated>2017-10-17T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3563766</guid>
 			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3563766</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DETERMINAZIONE DEI RESPONSABILI</category>
 			<title>SERVIZIO SOSTITUTIVO SCUOLABUS COMUNALE - SVINCOLO IMPEGNO DI SPESA A.S. 2016/2017 E IMPEGNO DI SPESA A.S. 2017/2018. </title>
 			<description>SERVIZIO SOSTITUTIVO SCUOLABUS COMUNALE - SVINCOLO IMPEGNO DI SPESA A.S. 2016/2017 E IMPEGNO DI SPESA A.S. 2017/2018. </description>
-			<a10:updated>2017-10-09T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3551151</guid>
-			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3551151</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 09 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 24 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3551151</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DETERMINAZIONE DEI RESPONSABILI</category>
-			<title>ACCERTAMENTO PER REGOLAZIONE A CREDITO PREMIO POLIZZA INFORTUNI </title>
-			<description>ACCERTAMENTO PER REGOLAZIONE A CREDITO PREMIO POLIZZA INFORTUNI </description>
 			<a10:updated>2017-10-09T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
