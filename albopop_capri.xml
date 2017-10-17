@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 17 Oct 2017 15:31:12 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 17 Oct 2017 16:31:19 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Tue, 17 Oct 2017 15:31:12 +0200</pubDate>
+		<pubDate>Tue, 17 Oct 2017 16:31:19 +0200</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3003925</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3003925</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 17 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 01 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3003925</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>INGIUNZIONE ALL' ESECUZIONE DI INTERVENTI DI BONIFICA E MESSA IN SICUREZZA DEL COSTONE ROCCIOSO SOPRASTANTE VILLA " LA PETRARA " AVENTE ACCESSO DALLA VIA DEL CASTIGLIONE N.8 - PROPRIETA' SIG. JOSE' DI MASE </title>
+			<description>INGIUNZIONE ALL' ESECUZIONE DI INTERVENTI DI BONIFICA E MESSA IN SICUREZZA DEL COSTONE ROCCIOSO SOPRASTANTE VILLA " LA PETRARA " AVENTE ACCESSO DALLA VIA DEL CASTIGLIONE N.8 - PROPRIETA' SIG. JOSE' DI MASE </description>
+			<a10:updated>2017-10-17T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3002806</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3002806</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
 			<title>LIQUIDAZIONE FATTURE ALLA COOP. SOCIALE ICARO ONLUS - LOTTO B - D11 – SOSTEGNO SOCIO EDUCATIVO - COMUNI DI CAPRI ED ANACAPRI PERIODO GIUGNO 2017 </title>
 			<description>LIQUIDAZIONE FATTURE ALLA COOP. SOCIALE ICARO ONLUS - LOTTO B - D11 – SOSTEGNO SOCIO EDUCATIVO - COMUNI DI CAPRI ED ANACAPRI PERIODO GIUGNO 2017 </description>
-			<a10:updated>2017-10-13T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2999594</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2999594</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 13 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 28 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2999594</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
-			<title>LIQUIDAZIONE FATTURE ALLA COOP. SOCIALE PRISMA ONLUS - LOTTO A - E11 – TRASPORTO SOCIALE – COMUNE DI CAPRI – AGOSTO 2017 </title>
-			<description>LIQUIDAZIONE FATTURE ALLA COOP. SOCIALE PRISMA ONLUS - LOTTO A - E11 – TRASPORTO SOCIALE – COMUNE DI CAPRI – AGOSTO 2017 </description>
 			<a10:updated>2017-10-13T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
