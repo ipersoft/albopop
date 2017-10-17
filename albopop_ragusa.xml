@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 16 Oct 2017 18:31:28 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 17 Oct 2017 08:31:41 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Mon, 16 Oct 2017 18:31:28 +0200</pubDate>
+		<pubDate>Tue, 17 Oct 2017 08:31:41 +0200</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -176,6 +176,17 @@
 			<a10:updated>2017-10-13T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2999571</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2999571</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 17 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 16 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2999571</category>
+			<category domain="http://albopop.it/specs#item-category-type">REGOLAMENTI REGOLAMENTO</category>
+			<title>REGOLAMENTO DEI SERVIZI DI FOGNATURA E DEPURAZIONE DELL'IRSAP </title>
+			<description>REGOLAMENTO DEI SERVIZI DI FOGNATURA E DEPURAZIONE DELL'IRSAP </description>
+			<a10:updated>2017-10-17T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2999514</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2999514</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 13 Oct 2017 02:00:00 +0200</category>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI GIUNTA</category>
 			<title>DEL. G.M. N° 414/17 - RICORSO CON ISTANZA DI RECLAMO ALLA COMMISSIONE TRIBUTARIA PROVINCIALE DI RAGUSA, AVVERSO AVVISO DI ACCERTAMENTO N. 122/2016 - IMPOSTA ICI ANNO 2010. SIGNORA CILIA CONCETTINA / COMUNE DI RAGUSA - AUTORIZZAZIONE A STARE IN GIUDIZIO. </title>
 			<description>DEL. G.M. N° 414/17 - RICORSO CON ISTANZA DI RECLAMO ALLA COMMISSIONE TRIBUTARIA PROVINCIALE DI RAGUSA, AVVERSO AVVISO DI ACCERTAMENTO N. 122/2016 - IMPOSTA ICI ANNO 2010. SIGNORA CILIA CONCETTINA / COMUNE DI RAGUSA - AUTORIZZAZIONE A STARE IN GIUDIZIO. </description>
-			<a10:updated>2017-10-13T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2999253</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2999253</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 13 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 20 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2999253</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
-			<title>LIQUIDAZIONE COMPENSI PER INDENNITÀ DI RISULTATO CONNESA ALLE P.O. E AA.PP ANNO 2016 </title>
-			<description>LIQUIDAZIONE COMPENSI PER INDENNITÀ DI RISULTATO CONNESA ALLE P.O. E AA.PP ANNO 2016 </description>
 			<a10:updated>2017-10-13T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
