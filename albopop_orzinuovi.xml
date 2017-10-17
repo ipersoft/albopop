@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 17 Oct 2017 11:30:41 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 17 Oct 2017 12:30:46 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Tue, 17 Oct 2017 11:30:41 +0200</pubDate>
+		<pubDate>Tue, 17 Oct 2017 12:30:46 +0200</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3003063</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3003063</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 17 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 01 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3003063</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>RIMBORSO TASSA RIFIUTI (TARI) ANNO 2017 PER ERRATO AL COMUNE DI ORZINUOVI </title>
+			<description>RIMBORSO TASSA RIFIUTI (TARI) ANNO 2017 PER ERRATO AL COMUNE DI ORZINUOVI </description>
+			<a10:updated>2017-10-17T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3003060</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3003060</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 17 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 01 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3003060</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>IMPEGNO DI SPESA PER RIMBORSI TASSA RIFIUTI (TARI) PER ATTIVITÀ DI RECUPERO RIFIUTI ASSIMILATI AGLI URBANI - ANNO 2017 </title>
+			<description>IMPEGNO DI SPESA PER RIMBORSI TASSA RIFIUTI (TARI) PER ATTIVITÀ DI RECUPERO RIFIUTI ASSIMILATI AGLI URBANI - ANNO 2017 </description>
+			<a10:updated>2017-10-17T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3002940</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3002940</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 17 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 01 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3002940</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>RIMBORSO IMU CODICE 3919 PER L'ANNO 2013 </title>
+			<description>RIMBORSO IMU CODICE 3919 PER L'ANNO 2013 </description>
+			<a10:updated>2017-10-17T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3002007</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3002007</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>CIG N. ZE720416A8 – AFFIDAMENTO DEL SERVIZIO DI FORMAZIONE DEI LAVORATORI DIPENDENTI IN TEMA DI SALUTE E SICUREZZA AI SENSI DEL D.LGS. 81/08: - CORSO ANTINCENDIO MEDIO RISCHIO; - CORSO DI FORMAZIONE SPECIFICA DEI LAVORATORI MEDIO RISCHIO; - CORSO DI SICUREZZA DIRIGENTI; - CORSO DI AGGIORNAMENTO RLS </title>
 			<description>CIG N. ZE720416A8 – AFFIDAMENTO DEL SERVIZIO DI FORMAZIONE DEI LAVORATORI DIPENDENTI IN TEMA DI SALUTE E SICUREZZA AI SENSI DEL D.LGS. 81/08: - CORSO ANTINCENDIO MEDIO RISCHIO; - CORSO DI FORMAZIONE SPECIFICA DEI LAVORATORI MEDIO RISCHIO; - CORSO DI SICUREZZA DIRIGENTI; - CORSO DI AGGIORNAMENTO RLS </description>
-			<a10:updated>2017-10-12T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2996507</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2996507</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 12 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 27 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2996507</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>RIAMMISSIONE IN SERVIZIO DELLA SIG.RA REGAZZI BARBARA - ISTRUTTORE AMMINISTRATIVO - CATEGORIA C </title>
-			<description>RIAMMISSIONE IN SERVIZIO DELLA SIG.RA REGAZZI BARBARA - ISTRUTTORE AMMINISTRATIVO - CATEGORIA C </description>
-			<a10:updated>2017-10-12T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2996504</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2996504</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 12 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 27 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2996504</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>ACCERTAMENTO D’ENTRATA RELATIVO AL CANONE DI CONCESSIONE CORRISPOSTO DAL CONSORZIO IRRIGUO ROGGIA COMUNA PER L’UTILIZZO DELL’AREA SITA IN ORZINUOVI VIA LONATO. </title>
-			<description>ACCERTAMENTO D’ENTRATA RELATIVO AL CANONE DI CONCESSIONE CORRISPOSTO DAL CONSORZIO IRRIGUO ROGGIA COMUNA PER L’UTILIZZO DELL’AREA SITA IN ORZINUOVI VIA LONATO. </description>
-			<a10:updated>2017-10-12T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2996348</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2996348</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 12 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 27 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2996348</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>AGGIORNAMENTO PROFESSIONALE – ANTICORRUZIONE E TRASPARENZA </title>
-			<description>AGGIORNAMENTO PROFESSIONALE – ANTICORRUZIONE E TRASPARENZA </description>
 			<a10:updated>2017-10-12T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
