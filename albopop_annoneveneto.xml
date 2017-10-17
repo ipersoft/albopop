@@ -5,7 +5,7 @@
 		<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Annone Veneto</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 17 Oct 2017 10:31:20 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 17 Oct 2017 11:31:04 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Annone Veneto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Annone Veneto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_annoneveneto</a10:id>
-		<pubDate>Tue, 17 Oct 2017 10:31:20 +0200</pubDate>
+		<pubDate>Tue, 17 Oct 2017 11:31:04 +0200</pubDate>
 		<docs>http://albopop.it/comune/annoneveneto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3573773</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3573773</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 17 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 01 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3573773</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>FORNITURA E POSA IN OPERA COPERTURA PER PENSILINA FERMATA SCUOLABUS VIA PALUDI E VIA BONIFICA - IMPEGNO DI SPESA </title>
+			<description>FORNITURA E POSA IN OPERA COPERTURA PER PENSILINA FERMATA SCUOLABUS VIA PALUDI E VIA BONIFICA - IMPEGNO DI SPESA </description>
+			<a10:updated>2017-10-17T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3573769</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3573769</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 17 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 01 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3573769</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>CANONE DI CONCESSIONE DI DERIVAZIONE D'ACQUA SOTTERRANEA DI N. 11 POZZI ANNUALITA' 2016. LIQUIDAZIONE </title>
+			<description>CANONE DI CONCESSIONE DI DERIVAZIONE D'ACQUA SOTTERRANEA DI N. 11 POZZI ANNUALITA' 2016. LIQUIDAZIONE </description>
+			<a10:updated>2017-10-17T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3573451</guid>
 			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3573451</link>
@@ -273,28 +295,6 @@
 			<title>FORNITURA GPL CENTRO CIVICO "MADONNA DELLE VIGNE" DI LONCON - LIQUIDAZIONE </title>
 			<description>FORNITURA GPL CENTRO CIVICO "MADONNA DELLE VIGNE" DI LONCON - LIQUIDAZIONE </description>
 			<a10:updated>2017-10-13T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3561977</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3561977</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 13 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 28 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3561977</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>FORNITURA TERMINALI IN GHISA PER TUBI PLUVIALI SPOGLIATOI IMPIANTI SPORTIVI - LIQUIDAZIONE </title>
-			<description>FORNITURA TERMINALI IN GHISA PER TUBI PLUVIALI SPOGLIATOI IMPIANTI SPORTIVI - LIQUIDAZIONE </description>
-			<a10:updated>2017-10-13T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3560578</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3560578</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 12 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 27 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3560578</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
-			<title>COMUNE DI ANNONE VENETO - ORDINANZA DEL SINDACO N. 24/17 - NORME PER LA MACELLAIZONE DEI SUINI A DOMICILIO. </title>
-			<description>COMUNE DI ANNONE VENETO - ORDINANZA DEL SINDACO N. 24/17 - NORME PER LA MACELLAIZONE DEI SUINI A DOMICILIO. </description>
-			<a10:updated>2017-10-12T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>

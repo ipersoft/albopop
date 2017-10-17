@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 17 Oct 2017 10:31:12 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 17 Oct 2017 11:30:41 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Tue, 17 Oct 2017 10:31:12 +0200</pubDate>
+		<pubDate>Tue, 17 Oct 2017 11:30:41 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/769714</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/769714</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 17 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 01 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">769714</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>CERTIFICAZIONE DI QUALITA' UNI EN ISO 9001:2008 DEL SERVIZIO RISTORAZIONE SCOLASTICA - ASSUNZIONE IMPEGNO DI SPESA PER LA VERIFICA PERIODICA DI RICERTIFICAZIONE RELATIVA ALL' ANNO 2017 CON LA SOCIETA’ D.N.V. GL </title>
+			<description>CERTIFICAZIONE DI QUALITA' UNI EN ISO 9001:2008 DEL SERVIZIO RISTORAZIONE SCOLASTICA - ASSUNZIONE IMPEGNO DI SPESA PER LA VERIFICA PERIODICA DI RICERTIFICAZIONE RELATIVA ALL' ANNO 2017 CON LA SOCIETA’ D.N.V. GL </description>
+			<a10:updated>2017-10-17T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/769684</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/769684</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>LAVORI DI STRAORDINARIA MANUTENZIONE PARCO P.LE GARIBALDI. AFFIDAMENTO LAVORI A DITTE VARIE. ASSUNZIONE IMPEGNI DI SPESA. </title>
 			<description>LAVORI DI STRAORDINARIA MANUTENZIONE PARCO P.LE GARIBALDI. AFFIDAMENTO LAVORI A DITTE VARIE. ASSUNZIONE IMPEGNI DI SPESA. </description>
-			<a10:updated>2017-10-16T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/769205</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/769205</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 16 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 15 Nov 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">769205</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
-			<title>VIA TREBBIANTICO - ATTRAVERSAMENTO PEDONALE. DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </title>
-			<description>VIA TREBBIANTICO - ATTRAVERSAMENTO PEDONALE. DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </description>
 			<a10:updated>2017-10-16T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
