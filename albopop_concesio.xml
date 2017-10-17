@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 17 Oct 2017 13:30:36 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 17 Oct 2017 14:30:35 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Tue, 17 Oct 2017 13:30:36 +0200</pubDate>
+		<pubDate>Tue, 17 Oct 2017 14:30:35 +0200</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3575184</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3575184</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 17 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 01 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3575184</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>PROROGA DEL CONTRATTO IN ESSERE CON LA SOCIETA' A2A ENERGIA PER LA FORNITURA DI ENERGIA ELETTRICA PER IL PERIODO 1.11.2017-31.3.2018 - CIG Z8819CDEE9 </title>
+			<description>PROROGA DEL CONTRATTO IN ESSERE CON LA SOCIETA' A2A ENERGIA PER LA FORNITURA DI ENERGIA ELETTRICA PER IL PERIODO 1.11.2017-31.3.2018 - CIG Z8819CDEE9 </description>
+			<a10:updated>2017-10-17T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3574672</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3574672</link>
@@ -284,17 +295,6 @@
 			<title>CONCESSIONE DEL PATROCINIO ONEROSO A FAVORE DELL'ASSOCIAZIONE CULTURALE GRUPPO CORALE L'ESTRO ARMONICO PER LA REALIZZAZIONE DEL PROGETTO: "DOTTORE HO LETTO IN INTERNET CHE... " 3^ EDIZIONE". </title>
 			<description>CONCESSIONE DEL PATROCINIO ONEROSO A FAVORE DELL'ASSOCIAZIONE CULTURALE GRUPPO CORALE L'ESTRO ARMONICO PER LA REALIZZAZIONE DEL PROGETTO: "DOTTORE HO LETTO IN INTERNET CHE... " 3^ EDIZIONE". </description>
 			<a10:updated>2017-10-13T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3561190</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3561190</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 12 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 31 Dec 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3561190</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI AVVISO</category>
-			<title>BANDO PER L'EROGAZIONE DI ECOINCENTIVI </title>
-			<description>BANDO PER L'EROGAZIONE DI ECOINCENTIVI </description>
-			<a10:updated>2017-10-12T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
