@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 18 Oct 2017 10:31:23 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 18 Oct 2017 11:31:23 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Wed, 18 Oct 2017 10:31:23 +0200</pubDate>
+		<pubDate>Wed, 18 Oct 2017 11:31:23 +0200</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3004879</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3004879</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 18 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 02 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3004879</category>
+			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
+			<title>COMUNE DI CAPRI / REGIONE CAMPANIA - R.G. N. 32308/2015 - LIQUIDAZIONE SALDO AL CONSULENTE TECNICO D’UFFICIO ARCHITETTO MASSIMO SALZANO DE LUCA </title>
+			<description>COMUNE DI CAPRI / REGIONE CAMPANIA - R.G. N. 32308/2015 - LIQUIDAZIONE SALDO AL CONSULENTE TECNICO D’UFFICIO ARCHITETTO MASSIMO SALZANO DE LUCA </description>
+			<a10:updated>2017-10-18T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3004517</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3004517</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DI GIUNTA DELIBERA DI GIUNTA</category>
 			<title>ASSEGNAZIONE ALLOGGI A SEGUITO DELL’ EVENTO FRANOSO IN LOCALITÀ MARINA PICCOLA. RITORNO SULLA DELIBERA DI G.C. N. 177/2017 </title>
 			<description>ASSEGNAZIONE ALLOGGI A SEGUITO DELL’ EVENTO FRANOSO IN LOCALITÀ MARINA PICCOLA. RITORNO SULLA DELIBERA DI G.C. N. 177/2017 </description>
-			<a10:updated>2017-10-13T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2999666</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2999666</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 13 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 28 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2999666</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
-			<title>IMPEGNATIVA DI IMPORTO PER ACQUISTO CARBURANTE DESTINATO AGLI AUTOMEZZI DEL COMANDO DI POLIZIA MUNICIPALE – LIQUIDAZIONE.- </title>
-			<description>IMPEGNATIVA DI IMPORTO PER ACQUISTO CARBURANTE DESTINATO AGLI AUTOMEZZI DEL COMANDO DI POLIZIA MUNICIPALE – LIQUIDAZIONE.- </description>
 			<a10:updated>2017-10-13T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
