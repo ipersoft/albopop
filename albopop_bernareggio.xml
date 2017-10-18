@@ -5,7 +5,7 @@
 		<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bernareggio</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 18 Oct 2017 09:30:55 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 18 Oct 2017 10:31:09 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bernareggio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bernareggio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bernareggio</a10:id>
-		<pubDate>Wed, 18 Oct 2017 09:30:55 +0200</pubDate>
+		<pubDate>Wed, 18 Oct 2017 10:31:09 +0200</pubDate>
 		<docs>http://albopop.it/comune/bernareggio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3576586</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3576586</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 18 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 17 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3576586</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI</category>
+			<title>SI TRASMETTE AVVISO DI MOBILITA' PER UN ISTRUTTORE TECNICO D.1 </title>
+			<description>SI TRASMETTE AVVISO DI MOBILITA' PER UN ISTRUTTORE TECNICO D.1 </description>
+			<a10:updated>2017-10-18T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3576405</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3576405</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 18 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 15 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3576405</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI</category>
+			<title>AVVISO MOBILITA' VOLONTARIA ASSISTENTE SERVIZI OPERATIVI CAT C POLITICHE DELLA CASA </title>
+			<description>AVVISO MOBILITA' VOLONTARIA ASSISTENTE SERVIZI OPERATIVI CAT C POLITICHE DELLA CASA </description>
+			<a10:updated>2017-10-18T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3576257</guid>
 			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3576257</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DECRETO</category>
 			<title>CONCESSIONE PATROCINIO ALL'ASSOCIAZIONE CULTURALE "BIBLIOTECANDO" PER L'ORGANIZZAZIONE DELLE INIZIATIVE “CORSO DI INGLESE”, "FIABE IN PIGIAMA 6 - 10 ANNI" E "FIABE IN PIGIAMA SCUOLA MATERNA" </title>
 			<description>CONCESSIONE PATROCINIO ALL'ASSOCIAZIONE CULTURALE "BIBLIOTECANDO" PER L'ORGANIZZAZIONE DELLE INIZIATIVE “CORSO DI INGLESE”, "FIABE IN PIGIAMA 6 - 10 ANNI" E "FIABE IN PIGIAMA SCUOLA MATERNA" </description>
-			<a10:updated>2017-10-11T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3556033</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3556033</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 11 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 20 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3556033</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO</category>
-			<title>REVISIONE SEMESTRALE DELLE LISTE ELETTORALI </title>
-			<description>REVISIONE SEMESTRALE DELLE LISTE ELETTORALI </description>
-			<a10:updated>2017-10-11T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3555925</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3555925</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 11 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 10 Nov 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3555925</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI</category>
-			<title>POSTA CERTIFICATA: BANDO DI MOBILITA’ VOLONTARIA PER LA COPERTURA DI UN POSTO A TEMPO PIENO ED INDETERMINATO DI N° 1 ISTRUTTORE AMMINISTRATIVO CAT C SERVIZIO FINANZIARIO </title>
-			<description>POSTA CERTIFICATA: BANDO DI MOBILITA’ VOLONTARIA PER LA COPERTURA DI UN POSTO A TEMPO PIENO ED INDETERMINATO DI N° 1 ISTRUTTORE AMMINISTRATIVO CAT C SERVIZIO FINANZIARIO </description>
 			<a10:updated>2017-10-11T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
