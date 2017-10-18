@@ -5,7 +5,7 @@
 		<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bitonto</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 17 Oct 2017 18:30:33 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 18 Oct 2017 08:30:36 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bitonto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Bari</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bitonto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bitonto</a10:id>
-		<pubDate>Tue, 17 Oct 2017 18:30:33 +0200</pubDate>
+		<pubDate>Wed, 18 Oct 2017 08:30:36 +0200</pubDate>
 		<docs>http://albopop.it/comune/bitonto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -264,17 +264,6 @@
 			<a10:updated>2017-10-16T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3563603</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3563603</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 13 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 17 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3563603</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISI COMUNALI</category>
-			<title>SEDUTA CONSILIARE DEL 17.10.2017 - ORDINE DEL GIORNO AGGIUNTIVO. </title>
-			<description>SEDUTA CONSILIARE DEL 17.10.2017 - ORDINE DEL GIORNO AGGIUNTIVO. </description>
-			<a10:updated>2017-10-13T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
 			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3563160</guid>
 			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3563160</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 13 Oct 2017 02:00:00 +0200</category>
@@ -294,6 +283,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI RESPONSABILI DEI SERVIZI (DAL 6-03-2015) 11 - SERVIZIO PATRIMONIO E PER LA PUBBLICA ISTRUZIONE</category>
 			<title>ADESIONE A PROGETTI IN ALTERNANZA SCUOLA – LAVORO. APPROVAZIONE SCHEMA DI CONVENZIONE </title>
 			<description>ADESIONE A PROGETTI IN ALTERNANZA SCUOLA – LAVORO. APPROVAZIONE SCHEMA DI CONVENZIONE </description>
+			<a10:updated>2017-10-13T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3563156</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3563156</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 13 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 28 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3563156</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI RESPONSABILI DEI SERVIZI (DAL 6-03-2015) 09 - UFFICIO DI PIANO</category>
+			<title>GESTIONE DEL SERVIZIO PORTA UNICA DI ACCESSO (PUA) E DEL SERVIZIO DI SEGRETARIATO SOCIALE. CIG: 70123473CE. RdO n.1543641. AGGIUDICAZIONE E CONSEGNA DEL SERVIZIO IN VIA D'URGENZA AI SENSI DELL’ART. 32, COMMA 8, DEL D. LGS. N. 50/2016. IMPUTAZIONE DELLA SPESA. </title>
+			<description>GESTIONE DEL SERVIZIO PORTA UNICA DI ACCESSO (PUA) E DEL SERVIZIO DI SEGRETARIATO SOCIALE. CIG: 70123473CE. RdO n.1543641. AGGIUDICAZIONE E CONSEGNA DEL SERVIZIO IN VIA D'URGENZA AI SENSI DELL’ART. 32, COMMA 8, DEL D. LGS. N. 50/2016. IMPUTAZIONE DELLA SPESA. </description>
 			<a10:updated>2017-10-13T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
