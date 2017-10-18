@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 18 Oct 2017 11:31:29 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 18 Oct 2017 12:31:37 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Wed, 18 Oct 2017 11:31:29 +0200</pubDate>
+		<pubDate>Wed, 18 Oct 2017 12:31:37 +0200</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3005151</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3005151</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 18 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 17 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3005151</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO BANDO DI MOBILITA'</category>
+			<title>BANDO PROCEDURA DI MOBILITA' ESTERNA PER LA COPERTURA, A TEMPO PIENO E INDETERMINATO, DI N.3 POSTI DI ISTRUTTORE DIRETTIVO AMMINISTRATIVO - CAT.D1 </title>
+			<description>BANDO PROCEDURA DI MOBILITA' ESTERNA PER LA COPERTURA, A TEMPO PIENO E INDETERMINATO, DI N.3 POSTI DI ISTRUTTORE DIRETTIVO AMMINISTRATIVO - CAT.D1 </description>
+			<a10:updated>2017-10-18T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3005077</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3005077</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 18 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 23 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3005077</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONVOCAZIONI CONVOCAZIONE CONSIGLIO COMUNALE</category>
+			<title>CONVOCAZIONE CONSIGLIO COMUNALE GIORNO 23 OTTOBRE 2017 ALLE ORE 18.00 </title>
+			<description>CONVOCAZIONE CONSIGLIO COMUNALE GIORNO 23 OTTOBRE 2017 ALLE ORE 18.00 </description>
+			<a10:updated>2017-10-18T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3005040</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3005040</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
 			<title>IMPEGNO SPESA ABBONAMENTI STUDENTI PENDOLARI FREQUENTANTI ISTITUTI FUORI COMUNE - ANNO SCOLASTICO 2017-2018 - CIG 722160729F </title>
 			<description>IMPEGNO SPESA ABBONAMENTI STUDENTI PENDOLARI FREQUENTANTI ISTITUTI FUORI COMUNE - ANNO SCOLASTICO 2017-2018 - CIG 722160729F </description>
-			<a10:updated>2017-10-17T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3002795</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3002795</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 17 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 25 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3002795</category>
-			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO ATTO DI MATRIMONIO</category>
-			<title>PUBBLICAZIONE ATTO DI MATRIMONIO A NOME PANNUZZO FABIO, LISSANDRELLO FRANCESCA </title>
-			<description>PUBBLICAZIONE ATTO DI MATRIMONIO A NOME PANNUZZO FABIO, LISSANDRELLO FRANCESCA </description>
-			<a10:updated>2017-10-17T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3002796</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3002796</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 17 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 25 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3002796</category>
-			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO ATTO DI MATRIMONIO</category>
-			<title>PUBBLICAZIONE ATTO DI MATRIMONIO A NOME DI OTTAVIANO GIUSEPPE, ANTOCI ORIANA </title>
-			<description>PUBBLICAZIONE ATTO DI MATRIMONIO A NOME DI OTTAVIANO GIUSEPPE, ANTOCI ORIANA </description>
 			<a10:updated>2017-10-17T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
