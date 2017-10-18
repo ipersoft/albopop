@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 18 Oct 2017 08:31:12 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 18 Oct 2017 09:31:13 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Wed, 18 Oct 2017 08:31:12 +0200</pubDate>
+		<pubDate>Wed, 18 Oct 2017 09:31:13 +0200</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3004444</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3004444</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 18 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 29 Apr 2018 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3004444</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO ON LINE ORDINANZE E AVVISI</category>
+			<title>MODIFICHE TEMPORANEE ALLA VIABILITA’ IN VIA PRAMPOLINI A LEMIGNANO PER LAVORI DI ATTRAVERSAMENTO CON ELETTRODOTTO </title>
+			<description>MODIFICHE TEMPORANEE ALLA VIABILITA’ IN VIA PRAMPOLINI A LEMIGNANO PER LAVORI DI ATTRAVERSAMENTO CON ELETTRODOTTO </description>
+			<a10:updated>2017-10-18T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3003928</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3003928</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
 			<title>PRESA D'ATTO AVVISI DI ACCERTAMENTO EMESSI RELATIVI AD ICI ANNO 2011 AD IMU ANNI 2012, 2013, 2014, 2015 E 2016 E A TASI ANNI 2014 E 2015. </title>
 			<description>PRESA D'ATTO AVVISI DI ACCERTAMENTO EMESSI RELATIVI AD ICI ANNO 2011 AD IMU ANNI 2012, 2013, 2014, 2015 E 2016 E A TASI ANNI 2014 E 2015. </description>
-			<a10:updated>2017-10-09T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2990770</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2990770</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 09 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 24 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2990770</category>
-			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
-			<title>COPERTURA PREMI POLIZZE ASSICURATIVE VARIE STIPULATE E DA STIPULARSI DA PARTE DEL COMUNE E COPERTURA ASSICURATIVA RESPONSABILITA’ CIVILE VERSO TERZI E PRESTATORI DI LAVORO - IMPEGNO E LIQUIDAZIONE FRANCHIGE SINISTRI 2017 </title>
-			<description>COPERTURA PREMI POLIZZE ASSICURATIVE VARIE STIPULATE E DA STIPULARSI DA PARTE DEL COMUNE E COPERTURA ASSICURATIVA RESPONSABILITA’ CIVILE VERSO TERZI E PRESTATORI DI LAVORO - IMPEGNO E LIQUIDAZIONE FRANCHIGE SINISTRI 2017 </description>
 			<a10:updated>2017-10-09T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
