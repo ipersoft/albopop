@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 18 Oct 2017 12:31:33 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 18 Oct 2017 13:31:20 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Wed, 18 Oct 2017 12:31:33 +0200</pubDate>
+		<pubDate>Wed, 18 Oct 2017 13:31:20 +0200</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3005454</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3005454</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 18 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 02 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3005454</category>
+			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
+			<title>COSTITUZIONE CONTRO RICORSO SOMMARIO EX ART. 702/BIS CPC PRESENTATO DAL SIG. DESIDERIO CLAUDIO – LIQUIDAZIONE SALDO ALL’AVVOCATO ANTONIO LEMBO </title>
+			<description>COSTITUZIONE CONTRO RICORSO SOMMARIO EX ART. 702/BIS CPC PRESENTATO DAL SIG. DESIDERIO CLAUDIO – LIQUIDAZIONE SALDO ALL’AVVOCATO ANTONIO LEMBO </description>
+			<a10:updated>2017-10-18T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3005214</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3005214</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">AVVISO PUBBLICAZIONE AVVISO</category>
 			<title>RICHIESTA P.M. AFFISSIONE VERBALE ACCERTAMENTO N. 129735/V </title>
 			<description>RICHIESTA P.M. AFFISSIONE VERBALE ACCERTAMENTO N. 129735/V </description>
-			<a10:updated>2017-10-16T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3000777</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3000777</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 16 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 31 Oct 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3000777</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>INCARICO ESTERNO CONFERITO ALLA DITTA ARCH. VINCENZO FORTUNATO DI CARDITO CON D.D. N.749/2017 - APPROVAZIONE SCHEMA DI CONVENZIONE </title>
-			<description>INCARICO ESTERNO CONFERITO ALLA DITTA ARCH. VINCENZO FORTUNATO DI CARDITO CON D.D. N.749/2017 - APPROVAZIONE SCHEMA DI CONVENZIONE </description>
 			<a10:updated>2017-10-16T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

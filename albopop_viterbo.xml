@@ -5,7 +5,7 @@
 		<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Viterbo</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 18 Oct 2017 12:30:57 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 18 Oct 2017 13:30:57 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Viterbo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Viterbo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Viterbo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_viterbo</a10:id>
-		<pubDate>Wed, 18 Oct 2017 12:30:57 +0200</pubDate>
+		<pubDate>Wed, 18 Oct 2017 13:30:57 +0200</pubDate>
 		<docs>http://albopop.it/comune/viterbo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3577862</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3577862</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 18 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 26 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3577862</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONVOCAZIONE CONSIGLIO </category>
+			<title>CONVOCAZIONE CONSIGLIO COMUNALE - O.D.G. AGGIUNTIVO - PROT. 6319-2017 </title>
+			<description>CONVOCAZIONE CONSIGLIO COMUNALE - O.D.G. AGGIUNTIVO - PROT. 6319-2017 </description>
+			<a10:updated>2017-10-18T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3577393</guid>
 			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3577393</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONI SENZA IMPEGNO DI SPESA</category>
 			<title>DETERMINAZIONE N. 3804 DELL'8 OTTOBRE 2017 AVENTE AD OGGETTO "AFFIDAMENTO SERVIZIO DI MANUTENZIONE ED AGGIORNAMENTO APPLICAZIONE GDL BUONI MENSA ANNO SCOLASTICO 2017/2018 - AFFIDAMENTO DITTA ALPHA CONSULT SRL - CIGG ZF61FD34E0" - INTEGRAZIONE </title>
 			<description>DETERMINAZIONE N. 3804 DELL'8 OTTOBRE 2017 AVENTE AD OGGETTO "AFFIDAMENTO SERVIZIO DI MANUTENZIONE ED AGGIORNAMENTO APPLICAZIONE GDL BUONI MENSA ANNO SCOLASTICO 2017/2018 - AFFIDAMENTO DITTA ALPHA CONSULT SRL - CIGG ZF61FD34E0" - INTEGRAZIONE </description>
-			<a10:updated>2017-10-17T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3573878</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3573878</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 17 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 01 Nov 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3573878</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONI SENZA IMPEGNO DI SPESA</category>
-			<title>TRASFERIMENTO PER MOBILITA' TRASFERIMENTO PER MOBILITA' VOLONTARIA, EX ART. 30 DEL D.LGS. 165/2001, PRESSO IL COMUNE DI FABRICA DI ROMA DELL'ING. MIRKO VIGI, DIPENDENTE COMUNALE IN ORGANICO CON LA QUALIFICA DI ISTRUTTORE DIRETTIVO TECNICO - CAT. D1. </title>
-			<description>TRASFERIMENTO PER MOBILITA' TRASFERIMENTO PER MOBILITA' VOLONTARIA, EX ART. 30 DEL D.LGS. 165/2001, PRESSO IL COMUNE DI FABRICA DI ROMA DELL'ING. MIRKO VIGI, DIPENDENTE COMUNALE IN ORGANICO CON LA QUALIFICA DI ISTRUTTORE DIRETTIVO TECNICO - CAT. D1. </description>
 			<a10:updated>2017-10-17T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
