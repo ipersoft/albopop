@@ -5,7 +5,7 @@
 		<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bitonto</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 19 Oct 2017 16:30:33 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 19 Oct 2017 17:30:38 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bitonto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Bari</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bitonto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bitonto</a10:id>
-		<pubDate>Thu, 19 Oct 2017 16:30:33 +0200</pubDate>
+		<pubDate>Thu, 19 Oct 2017 17:30:38 +0200</pubDate>
 		<docs>http://albopop.it/comune/bitonto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3581409</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3581409</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 19 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 03 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3581409</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
+			<title>PIAZZA A. MORO - CANALIZZAZIONE CHE DA VIA DELLA REPUBBLICA ITALIANA ADDUCE A CORSO VITT. EMANUELE II - MANIFESTAZIONE DEL 4 NOVEMBRE IN ONORE DEI CADUTI DI TUTTE LE GUERRE </title>
+			<description>PIAZZA A. MORO - CANALIZZAZIONE CHE DA VIA DELLA REPUBBLICA ITALIANA ADDUCE A CORSO VITT. EMANUELE II - MANIFESTAZIONE DEL 4 NOVEMBRE IN ONORE DEI CADUTI DI TUTTE LE GUERRE </description>
+			<a10:updated>2017-10-19T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3580222</guid>
 			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3580222</link>
@@ -284,17 +295,6 @@
 			<title>Manutenzione impianti di pubblica illuminazione centro urbano e frazioni - Affidamento Servizio trimestre ottobre/dicembre 2017 - </title>
 			<description>Manutenzione impianti di pubblica illuminazione centro urbano e frazioni - Affidamento Servizio trimestre ottobre/dicembre 2017 - </description>
 			<a10:updated>2017-10-18T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3573984</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3573984</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 17 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 16 Nov 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3573984</category>
-			<category domain="http://albopop.it/specs#item-category-type">CONCORSI E SELEZIONI</category>
-			<title>BANDO DI MOBILITA' ESTERNA VOLONTARIA AI SENSI DELL'ART.30, COMMA 2-BIS, DEL D.LGS. N.165/2001 E S.M.I., PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 1 POSTO DI FUNZIONARIO AREA INFORMATICA – ANALISTA DI SISTEMA, CAT.D3, CCNL COMPARTO REGIONI E AUTONOMIE LOCALI. </title>
-			<description>BANDO DI MOBILITA' ESTERNA VOLONTARIA AI SENSI DELL'ART.30, COMMA 2-BIS, DEL D.LGS. N.165/2001 E S.M.I., PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 1 POSTO DI FUNZIONARIO AREA INFORMATICA – ANALISTA DI SISTEMA, CAT.D3, CCNL COMPARTO REGIONI E AUTONOMIE LOCALI. </description>
-			<a10:updated>2017-10-17T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
