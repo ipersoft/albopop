@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 19 Oct 2017 12:31:23 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 19 Oct 2017 13:31:17 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Thu, 19 Oct 2017 12:31:23 +0200</pubDate>
+		<pubDate>Thu, 19 Oct 2017 13:31:17 +0200</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3007254</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3007254</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 19 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 25 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3007254</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONVOCAZIONI CONVOCAZIONE CONSIGLIO COMUNALE</category>
+			<title>CONVOCAZIONE CONSIGLIO COMUNALE GIORNO 25 OTTOBRE 2017 ALLE ORE 18 </title>
+			<description>CONVOCAZIONE CONSIGLIO COMUNALE GIORNO 25 OTTOBRE 2017 ALLE ORE 18 </description>
+			<a10:updated>2017-10-19T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3005453</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3005453</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
 			<title>ISTITUZIONE DI UN FONDO DA UTILIZZARE ESCLUSIVAMENTE PER LE MINUTE SPESE PER GLI IMPIANTI DI RISCALDAMENTO E CONDIZIONAMENTO </title>
 			<description>ISTITUZIONE DI UN FONDO DA UTILIZZARE ESCLUSIVAMENTE PER LE MINUTE SPESE PER GLI IMPIANTI DI RISCALDAMENTO E CONDIZIONAMENTO </description>
-			<a10:updated>2017-10-17T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3002886</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3002886</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 17 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 24 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3002886</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
-			<title>SERVIZI RESIDENZIALI PER SOGGETTI CON DISABILITA' MENTALI. ACCERTAMENTO IN ENTRATA E IMPEGNO SPESA LUGLIO-SETTEMBRE 2017 </title>
-			<description>SERVIZI RESIDENZIALI PER SOGGETTI CON DISABILITA' MENTALI. ACCERTAMENTO IN ENTRATA E IMPEGNO SPESA LUGLIO-SETTEMBRE 2017 </description>
 			<a10:updated>2017-10-17T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
