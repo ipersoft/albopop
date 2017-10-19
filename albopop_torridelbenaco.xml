@@ -5,7 +5,7 @@
 		<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Torri del Benaco</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 19 Oct 2017 11:31:31 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 19 Oct 2017 12:31:24 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Torri del Benaco</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Verona</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Torri del Benaco</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_torridelbenaco</a10:id>
-		<pubDate>Thu, 19 Oct 2017 11:31:31 +0200</pubDate>
+		<pubDate>Thu, 19 Oct 2017 12:31:24 +0200</pubDate>
 		<docs>http://albopop.it/comune/torridelbenaco/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3580042</guid>
+			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3580042</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 19 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 03 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3580042</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISO</category>
+			<title>CONVOCAZIONE DEL CONSIGLIO COMUNALE IN SESSIONE ORDINARIA SABATO 21 OTTOBRE 2017 </title>
+			<description>CONVOCAZIONE DEL CONSIGLIO COMUNALE IN SESSIONE ORDINARIA SABATO 21 OTTOBRE 2017 </description>
+			<a10:updated>2017-10-19T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3579297</guid>
 			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3579297</link>
@@ -284,17 +295,6 @@
 			<title>INTERDIZIONE E CAUTA NAVIGAZIONE NELLO SPECCHIO D'ACQUA PROSPICIENTE LO STABILIMENTO "LIDO CAPPUCCINI" IN PESCHIERA DEL GARDA PER LO SVOLGIMENTO DELL'ESERCITAZIONE "CORSO OPERATORI MOTO D'ACQUA PER SALVATAGGIO" SABATO 21 E DOMENICA 22 OTTOBRE 2017. TRASMISSIONE ORDINANZA N. 412 DEL 12 OTTOBRE 2017 </title>
 			<description>INTERDIZIONE E CAUTA NAVIGAZIONE NELLO SPECCHIO D'ACQUA PROSPICIENTE LO STABILIMENTO "LIDO CAPPUCCINI" IN PESCHIERA DEL GARDA PER LO SVOLGIMENTO DELL'ESERCITAZIONE "CORSO OPERATORI MOTO D'ACQUA PER SALVATAGGIO" SABATO 21 E DOMENICA 22 OTTOBRE 2017. TRASMISSIONE ORDINANZA N. 412 DEL 12 OTTOBRE 2017 </description>
 			<a10:updated>2017-10-13T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3561172</guid>
-			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3561172</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 11 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 26 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3561172</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISO</category>
-			<title>AVVISO DI DEPOSITO NELLA CASA COMUNALE DI N. 17 ATTI DA PARTE DI EQUITALIA </title>
-			<description>AVVISO DI DEPOSITO NELLA CASA COMUNALE DI N. 17 ATTI DA PARTE DI EQUITALIA </description>
-			<a10:updated>2017-10-11T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
