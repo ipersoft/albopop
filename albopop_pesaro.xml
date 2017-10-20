@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 20 Oct 2017 10:30:44 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 20 Oct 2017 11:30:51 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Fri, 20 Oct 2017 10:30:44 +0200</pubDate>
+		<pubDate>Fri, 20 Oct 2017 11:30:51 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/771903</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/771903</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 20 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 09 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">771903</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PUBBLICAZIONI RICHIESTE DA SOGGETTI ESTERNI</category>
+			<title>AVVISO AI CREDITORI - LAVORI DI MANUTENZIONE STRAORDINARIA DI N. 1 ALLOGGIO DI ERP - VIA SILVIO PELLICO - COMUNE DI PESARO - IMPRESA CARDELLINI PAOLO </title>
+			<description>AVVISO AI CREDITORI - LAVORI DI MANUTENZIONE STRAORDINARIA DI N. 1 ALLOGGIO DI ERP - VIA SILVIO PELLICO - COMUNE DI PESARO - IMPRESA CARDELLINI PAOLO </description>
+			<a10:updated>2017-10-20T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/771902</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/771902</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 20 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 09 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">771902</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PUBBLICAZIONI RICHIESTE DA SOGGETTI ESTERNI</category>
+			<title>AVVISO AI CREDITORI - LAVORI DI MANUTENZIONE STRAORDINARIA DI N. 3 ALLOGGI DI EDILIZIA RESIDENZIALE PUBBLICA NEL COMUNE DI PESARO IN VIA SCARONI - DITTA COSTRUZIONI EDILI MARINONI - PESARO </title>
+			<description>AVVISO AI CREDITORI - LAVORI DI MANUTENZIONE STRAORDINARIA DI N. 3 ALLOGGI DI EDILIZIA RESIDENZIALE PUBBLICA NEL COMUNE DI PESARO IN VIA SCARONI - DITTA COSTRUZIONI EDILI MARINONI - PESARO </description>
+			<a10:updated>2017-10-20T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/771883</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/771883</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 20 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 04 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">771883</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO ATTI E AVVISI DIVERSI</category>
+			<title>MAURO MORETTI - DELEGA FUNZIONI AL RESPONSABILE DELLA POSIZIONE ORGANIZZATIVA URBANITICA </title>
+			<description>MAURO MORETTI - DELEGA FUNZIONI AL RESPONSABILE DELLA POSIZIONE ORGANIZZATIVA URBANITICA </description>
+			<a10:updated>2017-10-20T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/771859</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/771859</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>SERVIZIO CULTURA - AMPLIAMENTO DEL SERVIZIO DI GESTIONE DEI SERVIZI BIBLIOTECARI AI SENSI DELL'ART. 106, COMMA 12 DEL DECRETO LEGISLATIVO 18 APRILE 2016, N. 50 </title>
 			<description>SERVIZIO CULTURA - AMPLIAMENTO DEL SERVIZIO DI GESTIONE DEI SERVIZI BIBLIOTECARI AI SENSI DELL'ART. 106, COMMA 12 DEL DECRETO LEGISLATIVO 18 APRILE 2016, N. 50 </description>
-			<a10:updated>2017-10-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/771700</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/771700</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 19 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 03 Nov 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">771700</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>RICORSO AVVERSO ORDINANZA DI INGIUNZIONE N. 184/2017 PER VIOLAZIONE A NORME DEL REGOLAMENTO COMUNALE EDILIZIO DI PESARO, RESISTENZA IN GIUDIZIO AVANTI IL GIUDICE DI PACE DI PESARO, UDIENZA DEL 26/10/2017, PROT. 106361 , R.G. 1353/2017 </title>
-			<description>RICORSO AVVERSO ORDINANZA DI INGIUNZIONE N. 184/2017 PER VIOLAZIONE A NORME DEL REGOLAMENTO COMUNALE EDILIZIO DI PESARO, RESISTENZA IN GIUDIZIO AVANTI IL GIUDICE DI PACE DI PESARO, UDIENZA DEL 26/10/2017, PROT. 106361 , R.G. 1353/2017 </description>
-			<a10:updated>2017-10-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/771685</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/771685</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 19 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 03 Nov 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">771685</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>LAVORI DI STRAORDINARIA MANUTENZIONE ELEMENTARE LARGO BACCELLI - APPROVAZIONE QUADRO ECONOMICO ED AFFIDAMENTO LAVORI </title>
-			<description>LAVORI DI STRAORDINARIA MANUTENZIONE ELEMENTARE LARGO BACCELLI - APPROVAZIONE QUADRO ECONOMICO ED AFFIDAMENTO LAVORI </description>
-			<a10:updated>2017-10-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/771682</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/771682</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 19 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 03 Nov 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">771682</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>RICPRSO AVVERSO VERBALE PER VIOLAZIONE A NORME DEL CDS ,RESISTENZA IN GIUDIZIO AVANTI IL GIUDICE DI PACE DI PESARO , UDIENZA DEL 31/10/2017 , R.G. 1129/2017 </title>
-			<description>RICPRSO AVVERSO VERBALE PER VIOLAZIONE A NORME DEL CDS ,RESISTENZA IN GIUDIZIO AVANTI IL GIUDICE DI PACE DI PESARO , UDIENZA DEL 31/10/2017 , R.G. 1129/2017 </description>
 			<a10:updated>2017-10-19T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
