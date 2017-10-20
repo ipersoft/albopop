@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 20 Oct 2017 15:31:14 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 20 Oct 2017 16:31:39 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Fri, 20 Oct 2017 15:31:14 +0200</pubDate>
+		<pubDate>Fri, 20 Oct 2017 16:31:39 +0200</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3010029</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3010029</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 20 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 04 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3010029</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>INGIUNZIONE ALLA IMMEDIATA SOSPENSIONE DEI LAVORI - PROPRIETA' SIG.RA LIVIA SANSANELLI - VIA DEL CASTIGLIONE N.29 </title>
+			<description>INGIUNZIONE ALLA IMMEDIATA SOSPENSIONE DEI LAVORI - PROPRIETA' SIG.RA LIVIA SANSANELLI - VIA DEL CASTIGLIONE N.29 </description>
+			<a10:updated>2017-10-20T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3009996</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3009996</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 20 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 04 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3009996</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>DEMOLIZIONE D'UFFICIO DI OPERE EDILI ABUSIVE ESEGUITE IN VIA TORRA N.1 A CARICO DEL SIG. MARIO ZORA </title>
+			<description>DEMOLIZIONE D'UFFICIO DI OPERE EDILI ABUSIVE ESEGUITE IN VIA TORRA N.1 A CARICO DEL SIG. MARIO ZORA </description>
+			<a10:updated>2017-10-20T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3009994</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3009994</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 20 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 04 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3009994</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>INGIUNZIONE ALLA DEMOLIZIONE DI OPERE EDILI ABUSIVE ALLA VIA TRUGLIO N.19 - PROPRIETA' SIG.RA ANNA DE SIMONE </title>
+			<description>INGIUNZIONE ALLA DEMOLIZIONE DI OPERE EDILI ABUSIVE ALLA VIA TRUGLIO N.19 - PROPRIETA' SIG.RA ANNA DE SIMONE </description>
+			<a10:updated>2017-10-20T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3009944</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3009944</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DI CONSIGLIO DELIBERE DI CONSIGLIO</category>
 			<title>COMMISSIONE ELETTORALE COMUNALE - ART. 12 E SEGUENTI DEL D.P.R. N. 223 DEL 20 MARZO 1967 - NOMINA COMPONENTI. </title>
 			<description>COMMISSIONE ELETTORALE COMUNALE - ART. 12 E SEGUENTI DEL D.P.R. N. 223 DEL 20 MARZO 1967 - NOMINA COMPONENTI. </description>
-			<a10:updated>2017-10-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3007538</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3007538</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 19 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 03 Nov 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3007538</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DI CONSIGLIO DELIBERE DI CONSIGLIO</category>
-			<title>VARIAZIONE AL BILANCIO DI CUI ALLA DELIBERA G.C. N. 164 DEL 13.9.2017 - RATIFICA </title>
-			<description>VARIAZIONE AL BILANCIO DI CUI ALLA DELIBERA G.C. N. 164 DEL 13.9.2017 - RATIFICA </description>
-			<a10:updated>2017-10-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3007535</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3007535</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 19 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 03 Nov 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3007535</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DI CONSIGLIO DELIBERE DI CONSIGLIO</category>
-			<title>VARIAZIONE AL BILANCIO DI CUI ALLA DELIBERA G.C. N. 146 DEL 23.8.2017 - RATIFICA </title>
-			<description>VARIAZIONE AL BILANCIO DI CUI ALLA DELIBERA G.C. N. 146 DEL 23.8.2017 - RATIFICA </description>
-			<a10:updated>2017-10-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3007532</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3007532</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 19 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 03 Nov 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3007532</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DI CONSIGLIO DELIBERE DI CONSIGLIO</category>
-			<title>VARIAZIONE AL BILANCIO DI CUI ALLA DELIBERA G.C. N. 140 DEL 07.08.2017 - RATIFICA </title>
-			<description>VARIAZIONE AL BILANCIO DI CUI ALLA DELIBERA G.C. N. 140 DEL 07.08.2017 - RATIFICA </description>
 			<a10:updated>2017-10-19T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
