@@ -5,7 +5,7 @@
 		<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Felino</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 19 Oct 2017 18:30:47 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 20 Oct 2017 09:30:41 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Felino</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Felino</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_felino</a10:id>
-		<pubDate>Thu, 19 Oct 2017 18:30:47 +0200</pubDate>
+		<pubDate>Fri, 20 Oct 2017 09:30:41 +0200</pubDate>
 		<docs>http://albopop.it/comune/felino/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3008432</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3008432</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 20 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 25 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3008432</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
+			<title>AVVVISO DI CONVOCAZIONE DEL CONSIGLIO COMUNALE IN SEDUTA STRAORDINARIA PER IL GIORNO 25/10/2017 ORE 20:00. </title>
+			<description>AVVVISO DI CONVOCAZIONE DEL CONSIGLIO COMUNALE IN SEDUTA STRAORDINARIA PER IL GIORNO 25/10/2017 ORE 20:00. </description>
+			<a10:updated>2017-10-20T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3006622</guid>
 			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3006622</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
 			<title>IMPEGNO DI SPESA E LIQUIDAZIONE PER PARTECIPAZIONE A GIORNATA DI APPROFONDIMENTO FORMATIVO SPECIALISTICO IN MATERIA DI MODULISTICA UNIFICA NEL COMMERCIO, SOMMINISTRAZIONE E POLIZIA AMM.VA E DI CONTRASTO ALLA LUDOPATIA – CIG Z9D1FF1FA2 </title>
 			<description>IMPEGNO DI SPESA E LIQUIDAZIONE PER PARTECIPAZIONE A GIORNATA DI APPROFONDIMENTO FORMATIVO SPECIALISTICO IN MATERIA DI MODULISTICA UNIFICA NEL COMMERCIO, SOMMINISTRAZIONE E POLIZIA AMM.VA E DI CONTRASTO ALLA LUDOPATIA – CIG Z9D1FF1FA2 </description>
-			<a10:updated>2017-10-11T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2993173</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2993173</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 11 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 26 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2993173</category>
-			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
-			<title>LIQUIDAZIONE A FAVORE DI SOGGETTI BENEFICIARI DEL CONTRIBUTO PER L’ABBATTIMENTO DELLE BARRIERE ARCHITETTONICHE IN EDIFICI PRIVATI AI SENSI DELLA L. 13/89 </title>
-			<description>LIQUIDAZIONE A FAVORE DI SOGGETTI BENEFICIARI DEL CONTRIBUTO PER L’ABBATTIMENTO DELLE BARRIERE ARCHITETTONICHE IN EDIFICI PRIVATI AI SENSI DELLA L. 13/89 </description>
 			<a10:updated>2017-10-11T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
