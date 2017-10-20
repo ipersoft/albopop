@@ -5,7 +5,7 @@
 		<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rometta</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 20 Oct 2017 12:31:23 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 20 Oct 2017 13:31:15 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rometta</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Messina</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rometta</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rometta</a10:id>
-		<pubDate>Fri, 20 Oct 2017 12:31:23 +0200</pubDate>
+		<pubDate>Fri, 20 Oct 2017 13:31:15 +0200</pubDate>
 		<docs>http://albopop.it/comune/rometta/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3583637</guid>
+			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3583637</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 20 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 27 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3583637</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO PUBBLICO</category>
+			<title>ELEZIONE DIRETTA DEL PRESIDENTE DELLA REGIONE E DELL'ASSEMBLEA REGIONALE SICILIANA -- AVVISO </title>
+			<description>ELEZIONE DIRETTA DEL PRESIDENTE DELLA REGIONE E DELL'ASSEMBLEA REGIONALE SICILIANA -- AVVISO </description>
+			<a10:updated>2017-10-20T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3583636</guid>
+			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3583636</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 20 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 27 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3583636</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO PUBBLICO</category>
+			<title>ELEZIONE DIRETTA DEL PRESIDENTE DELLA REGIONE E DELL'ASSEMBLEA REGIONALE SICILIANA -- NOMINA DEGLI SCRUTATORI DA DESTINARE ALLE SEZIONI ELETTORALI IN DATA 27.10.2017 ORE11.00 </title>
+			<description>ELEZIONE DIRETTA DEL PRESIDENTE DELLA REGIONE E DELL'ASSEMBLEA REGIONALE SICILIANA -- NOMINA DEGLI SCRUTATORI DA DESTINARE ALLE SEZIONI ELETTORALI IN DATA 27.10.2017 ORE11.00 </description>
+			<a10:updated>2017-10-20T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3581467</guid>
 			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3581467</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
 			<title>INDIVIDUAZIONE SERVIZI A DOMANDA INDIVIDUALE E RELATIVE TARIFFE ED INDIVIDUAZIONE TARIFFE DI ALTRI SERVIZI DELL’ENTE PER L’ESERCIZIO FINANZIARIO 2018. </title>
 			<description>INDIVIDUAZIONE SERVIZI A DOMANDA INDIVIDUALE E RELATIVE TARIFFE ED INDIVIDUAZIONE TARIFFE DI ALTRI SERVIZI DELL’ENTE PER L’ESERCIZIO FINANZIARIO 2018. </description>
-			<a10:updated>2017-10-16T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3567159</guid>
-			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3567159</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 16 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 31 Oct 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3567159</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>REALIZZAZIONE AREE DI SOSTA, ARREDO URBANO, VALORIZZAZIONE ITINERARIO DI GRANDE INTERESSE ARTISTICO MONUMENTALE NELLA FRAZIONE S.ANDREA” – AFFIDAMENTO DIRETTO AI SENSI DELL'ART. 36 COMMA 2 LETTERA A) ED ART. 31 COMMA 8 DEL D. LGS 50/2016 RELATIVAMENTE AL SERVIZIO DI COORDINAMENTO DELLA SICUREZZA IN FASE DI ESECUZIONE DEI LAVORI, DIREZIONE E CONTABILITÀ DEI LAVORI, CERTIFICATO REGOLARE ESECUZIONE - CIG. : ZBC20187E1 </title>
-			<description>REALIZZAZIONE AREE DI SOSTA, ARREDO URBANO, VALORIZZAZIONE ITINERARIO DI GRANDE INTERESSE ARTISTICO MONUMENTALE NELLA FRAZIONE S.ANDREA” – AFFIDAMENTO DIRETTO AI SENSI DELL'ART. 36 COMMA 2 LETTERA A) ED ART. 31 COMMA 8 DEL D. LGS 50/2016 RELATIVAMENTE AL SERVIZIO DI COORDINAMENTO DELLA SICUREZZA IN FASE DI ESECUZIONE DEI LAVORI, DIREZIONE E CONTABILITÀ DEI LAVORI, CERTIFICATO REGOLARE ESECUZIONE - CIG. : ZBC20187E1 </description>
-			<a10:updated>2017-10-16T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3567157</guid>
-			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3567157</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 16 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 31 Oct 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3567157</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>VARIANTE ALLA PRESCRIZIONE ESECUTIVA N.7 “EDILIZIA TURISTICO RICETTIVA IN LOCALITÀ GIAMPAOLO IN ROMETTA MAREA” - AFFIDAMENTO DEL SERVIZIO DI INSERZIONE SU UN QUOTIDIANO A DIFFUSIONE REGIONALE DELL’AVVISO DI DEPOSITO PROGETTO AI SENSI DELLA L.R. 71/1978. – CIG: ZFA20411F </title>
-			<description>VARIANTE ALLA PRESCRIZIONE ESECUTIVA N.7 “EDILIZIA TURISTICO RICETTIVA IN LOCALITÀ GIAMPAOLO IN ROMETTA MAREA” - AFFIDAMENTO DEL SERVIZIO DI INSERZIONE SU UN QUOTIDIANO A DIFFUSIONE REGIONALE DELL’AVVISO DI DEPOSITO PROGETTO AI SENSI DELLA L.R. 71/1978. – CIG: ZFA20411F </description>
 			<a10:updated>2017-10-16T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
