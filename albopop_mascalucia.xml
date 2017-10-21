@@ -5,7 +5,7 @@
 		<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mascalucia</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 20 Oct 2017 18:31:13 +0200</lastBuildDate>
+		<lastBuildDate>Sat, 21 Oct 2017 08:31:35 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mascalucia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mascalucia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mascalucia</a10:id>
-		<pubDate>Fri, 20 Oct 2017 18:31:13 +0200</pubDate>
+		<pubDate>Sat, 21 Oct 2017 08:31:35 +0200</pubDate>
 		<docs>http://albopop.it/comune/mascalucia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3010101</guid>
+			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3010101</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 21 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 05 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3010101</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRE PUBBLICAZIONI AVVISI ELETTORALI</category>
+			<title>ELEZIONE DIRETTA DEL PRESIDENTE E DELL'ASSEMBLEA REGIONALE SICILIANA - MANIFESTO LISTE REGIONALI E PROVINCIALI </title>
+			<description>ELEZIONE DIRETTA DEL PRESIDENTE E DELL'ASSEMBLEA REGIONALE SICILIANA - MANIFESTO LISTE REGIONALI E PROVINCIALI </description>
+			<a10:updated>2017-10-21T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3009679</guid>
 			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3009679</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
 			<title>LIQUIDAZIONE SERVIZIO DI CARICAMENTO DATI SULL'APPLICATIVO DI CONTABILITA' - RAG. RAFFAELE MESSINA </title>
 			<description>LIQUIDAZIONE SERVIZIO DI CARICAMENTO DATI SULL'APPLICATIVO DI CONTABILITA' - RAG. RAFFAELE MESSINA </description>
-			<a10:updated>2017-10-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3007297</guid>
-			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3007297</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 19 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 03 Nov 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3007297</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA DIRIGENZIALE</category>
-			<title>INGIUNZIONE DI PAGAMENTO DI SANZIONE AMMINISTRATIVA PER VIOLAZIONE DELL’ORDINANZA SINDACALE N. 31/2012 – LA SPINA VITO </title>
-			<description>INGIUNZIONE DI PAGAMENTO DI SANZIONE AMMINISTRATIVA PER VIOLAZIONE DELL’ORDINANZA SINDACALE N. 31/2012 – LA SPINA VITO </description>
 			<a10:updated>2017-10-19T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
