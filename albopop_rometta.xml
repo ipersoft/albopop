@@ -5,7 +5,7 @@
 		<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rometta</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 23 Oct 2017 12:31:17 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 23 Oct 2017 13:30:58 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rometta</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Messina</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rometta</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rometta</a10:id>
-		<pubDate>Mon, 23 Oct 2017 12:31:17 +0200</pubDate>
+		<pubDate>Mon, 23 Oct 2017 13:30:58 +0200</pubDate>
 		<docs>http://albopop.it/comune/rometta/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3586774</guid>
+			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3586774</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 23 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 07 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3586774</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
+			<title>AREA VIGILANZA ORDINANZA N. 41 DEL 23 OTTOBRE 2017 </title>
+			<description>AREA VIGILANZA ORDINANZA N. 41 DEL 23 OTTOBRE 2017 </description>
+			<a10:updated>2017-10-23T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3586443</guid>
 			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3586443</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>LIQUIDAZIONE AMMINISTRATIVA DI DEBITO FUORI BILANCIO IN FAVORE DEI SIGG.RI BONGIOVANNI NICOLINO E BONGIOVANNI MIRKO E DEI RISPETTIVI PROCURATORI DISTRATTARI AVV. GIACOMO INGRAO E AVV. GIUSEPPE NUCCIO A SEGUITO DI SENTENZA DEL GIUDICE DI PACE DI ROMETTA N. 53/16. </title>
 			<description>LIQUIDAZIONE AMMINISTRATIVA DI DEBITO FUORI BILANCIO IN FAVORE DEI SIGG.RI BONGIOVANNI NICOLINO E BONGIOVANNI MIRKO E DEI RISPETTIVI PROCURATORI DISTRATTARI AVV. GIACOMO INGRAO E AVV. GIUSEPPE NUCCIO A SEGUITO DI SENTENZA DEL GIUDICE DI PACE DI ROMETTA N. 53/16. </description>
-			<a10:updated>2017-10-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3580878</guid>
-			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3580878</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 19 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 03 Nov 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3580878</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI CONCESSIONE EDILIZIA</category>
-			<title>PERMESSO DI COSTRUIRE N. 7/15 PULEIO ALDO </title>
-			<description>PERMESSO DI COSTRUIRE N. 7/15 PULEIO ALDO </description>
 			<a10:updated>2017-10-19T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
