@@ -5,7 +5,7 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 23 Oct 2017 13:31:01 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 23 Oct 2017 14:31:10 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Isernia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>Mon, 23 Oct 2017 13:31:01 +0200</pubDate>
+		<pubDate>Mon, 23 Oct 2017 14:31:10 +0200</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3586797</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3586797</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 23 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 07 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3586797</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
+			<title>PROGRAMMI – PAC (Piano di Azione e Coesione) – Gruppo “B” - D.P.G.R. n. 35 del 30/4/2014 - Accordo di Programma PISU ISERNIA 01 - Ente attuatore: Comune di ISERNIA (IS) - - Intervento: “Riqualificazione Ambientale del Parco Urbano della Stazione Ferroviaria ” Importo Finanziamento : € 3.959.516,71 - Cof. comunale: € 395.951,67 – Cofinanziamento privato € 0,00 - Importo complessivo - € 4.355.468,38 – CUP : J 56 F 14000000001. Affidam. incarico per il collaudo strutturale e tec.amministrat. </title>
+			<description>PROGRAMMI – PAC (Piano di Azione e Coesione) – Gruppo “B” - D.P.G.R. n. 35 del 30/4/2014 - Accordo di Programma PISU ISERNIA 01 - Ente attuatore: Comune di ISERNIA (IS) - - Intervento: “Riqualificazione Ambientale del Parco Urbano della Stazione Ferroviaria ” Importo Finanziamento : € 3.959.516,71 - Cof. comunale: € 395.951,67 – Cofinanziamento privato € 0,00 - Importo complessivo - € 4.355.468,38 – CUP : J 56 F 14000000001. Affidam. incarico per il collaudo strutturale e tec.amministrat. </description>
+			<a10:updated>2017-10-23T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3586392</guid>
 			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3586392</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
 			<title>Impegno di spesa per pagamento utenza energia elettrica per le scuole materne. DITTA : ENEL ENERGIA. CIG: Z811CFED9D </title>
 			<description>Impegno di spesa per pagamento utenza energia elettrica per le scuole materne. DITTA : ENEL ENERGIA. CIG: Z811CFED9D </description>
-			<a10:updated>2017-10-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3580956</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3580956</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 19 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 03 Nov 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3580956</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
-			<title>Impegno di spesa per pagamento utenza energia elettrica scuole elementari. DITTA : ENEL ENERGIA. CIG: Z091D4C5EB </title>
-			<description>Impegno di spesa per pagamento utenza energia elettrica scuole elementari. DITTA : ENEL ENERGIA. CIG: Z091D4C5EB </description>
 			<a10:updated>2017-10-19T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
