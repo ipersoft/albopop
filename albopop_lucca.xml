@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 24 Oct 2017 15:32:05 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 24 Oct 2017 16:31:26 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Tue, 24 Oct 2017 15:32:05 +0200</pubDate>
+		<pubDate>Tue, 24 Oct 2017 16:31:26 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3600422</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3600422</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 24 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 08 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3600422</category>
+			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI GIUNTA</category>
+			<title>ADOZIONE SCHEMA PROGRAMMA TRIENNALE 2018-2020 ED ELENCO ANNUALE 2018 LAVORI PUBBLICI (D.LGS. 50/2016 - DM DELLE INFRASTRUTTURE E DEI TRASPORTI 24.10.2014 - ART. 9 REGOLAMENTO CONTABILITA'). </title>
+			<description>ADOZIONE SCHEMA PROGRAMMA TRIENNALE 2018-2020 ED ELENCO ANNUALE 2018 LAVORI PUBBLICI (D.LGS. 50/2016 - DM DELLE INFRASTRUTTURE E DEI TRASPORTI 24.10.2014 - ART. 9 REGOLAMENTO CONTABILITA'). </description>
+			<a10:updated>2017-10-24T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3600420</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3600420</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 24 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 08 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3600420</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>VIA PISANA,FRAZIONE S.ANNA,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE,PER IL GIORNO 31/10/2017 DALLE ORE 7,00 ALLE ORE 16,00. </title>
+			<description>VIA PISANA,FRAZIONE S.ANNA,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE,PER IL GIORNO 31/10/2017 DALLE ORE 7,00 ALLE ORE 16,00. </description>
+			<a10:updated>2017-10-24T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3598018</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3598018</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>PERCORSO FORMATIVO "IL NUOVO CODICE DEGLI APPALTI" – AUTORIZZAZIONE ALLA PARTECIPAZIONE. CIG ZEB2052171. (FAMIGLIA 10). </title>
 			<description>PERCORSO FORMATIVO "IL NUOVO CODICE DEGLI APPALTI" – AUTORIZZAZIONE ALLA PARTECIPAZIONE. CIG ZEB2052171. (FAMIGLIA 10). </description>
-			<a10:updated>2017-10-20T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3583811</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3583811</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 23 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 09 Nov 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3583811</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI E BANDI VARI</category>
-			<title>ALIENAZIONE IMMOBILE SITO IN LUCCA, VIA CAVOUR N. 120, DENOMINATO “PALAZZO LAZZARESCHI E LAZZERONI” </title>
-			<description>ALIENAZIONE IMMOBILE SITO IN LUCCA, VIA CAVOUR N. 120, DENOMINATO “PALAZZO LAZZARESCHI E LAZZERONI” </description>
-			<a10:updated>2017-10-23T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3583808</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3583808</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 20 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 04 Nov 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3583808</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>TERNA SPA /COMUNE DI LUCCA (R.G.1160/16)– RICORSO AL TAR TOSCANA. INCARICO ALL' AVVOCATURA COMUNALE. IMPEGNO DI SPESA PER AVVOCATO DOMICILIATARIO. </title>
-			<description>TERNA SPA /COMUNE DI LUCCA (R.G.1160/16)– RICORSO AL TAR TOSCANA. INCARICO ALL' AVVOCATURA COMUNALE. IMPEGNO DI SPESA PER AVVOCATO DOMICILIATARIO. </description>
 			<a10:updated>2017-10-20T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
