@@ -5,7 +5,7 @@
 		<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Felino</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 23 Oct 2017 18:30:41 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 24 Oct 2017 08:30:39 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Felino</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Felino</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_felino</a10:id>
-		<pubDate>Mon, 23 Oct 2017 18:30:41 +0200</pubDate>
+		<pubDate>Tue, 24 Oct 2017 08:30:39 +0200</pubDate>
 		<docs>http://albopop.it/comune/felino/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -141,17 +141,6 @@
 			<title>POSTA CERTIFICATA: PROT.N.0008103/2017 - AVVISO DI MOBILITA ESTERNA PER LA COPERTURA DIUN POSTO DI ISTRUTTORE AMMINISTRATIVO CAT C A TEMPO PI </title>
 			<description>POSTA CERTIFICATA: PROT.N.0008103/2017 - AVVISO DI MOBILITA ESTERNA PER LA COPERTURA DIUN POSTO DI ISTRUTTORE AMMINISTRATIVO CAT C A TEMPO PI </description>
 			<a10:updated>2017-10-14T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2999071</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2999071</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 13 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 23 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2999071</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
-			<title>GRADUATORIA PROVVISORIA PER L’ASSEGNAZIONE DEGLI ALLOGGI DI PROPRIETÀ COMUNALE IN GESTIONE ALLA SOCIETÀ PARMABITARE – 8° AGGIORNAMENTO SETTEMBRE 2017 </title>
-			<description>GRADUATORIA PROVVISORIA PER L’ASSEGNAZIONE DEGLI ALLOGGI DI PROPRIETÀ COMUNALE IN GESTIONE ALLA SOCIETÀ PARMABITARE – 8° AGGIORNAMENTO SETTEMBRE 2017 </description>
-			<a10:updated>2017-10-13T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2997458</guid>
@@ -294,6 +283,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
 			<title>AFFIDAMENTO DEL SERVIZIO DI RISCOSSIONE COATTIVA DELLE ENTRATE COMUNALI ALLA DITTA ICA SRL. </title>
 			<description>AFFIDAMENTO DEL SERVIZIO DI RISCOSSIONE COATTIVA DELLE ENTRATE COMUNALI ALLA DITTA ICA SRL. </description>
+			<a10:updated>2017-10-11T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2993177</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2993177</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 11 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 26 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2993177</category>
+			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
+			<title>VARIAZIONE AL BILANCIO DI PREVISIONE 2017/2019 - ANNO 2017 - N.11/2017 AI SENSI DELL'ART. 175 COMMA 5 QUATER LETTERA A) DEL D.LGS. 267/2000 </title>
+			<description>VARIAZIONE AL BILANCIO DI PREVISIONE 2017/2019 - ANNO 2017 - N.11/2017 AI SENSI DELL'ART. 175 COMMA 5 QUATER LETTERA A) DEL D.LGS. 267/2000 </description>
 			<a10:updated>2017-10-11T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
