@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 24 Oct 2017 11:31:19 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 24 Oct 2017 12:31:39 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Tue, 24 Oct 2017 11:31:19 +0200</pubDate>
+		<pubDate>Tue, 24 Oct 2017 12:31:39 +0200</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3013231</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3013231</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 24 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 23 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3013231</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO ON LINE BANDI DI CONCORSO</category>
+			<title>POSTA CERTIFICATA: PROT.N.0014778/2017 - CONCORSO PUBBLICO PER TITOLI ED ESAMI PER LA COPERTURA A TEMPO INDETERMINATO E A TEMPO PIENO DI N. 1 </title>
+			<description>POSTA CERTIFICATA: PROT.N.0014778/2017 - CONCORSO PUBBLICO PER TITOLI ED ESAMI PER LA COPERTURA A TEMPO INDETERMINATO E A TEMPO PIENO DI N. 1 </description>
+			<a10:updated>2017-10-24T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3012837</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3012837</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
 			<title>LAVORI DI SISTEMAZIONE COLONNOTTO IN GRANITO INCIDENTATO IN VIALE LIBERTA’. AFFIDAMENTO DIRETTO ALLA DITTA STIRPARO COSTRUZIONI EDILI SRL CON SEDE IN VIA GRASSI 17/C A COLLECCHIO (PR) P.IVA 02307790341. CODICE CIG ZEC205ADEB PARZIALE DISIMPEGNO ALLA DITTA AB GLOBAL SERVICE CODICE CIG:Z091995DDE </title>
 			<description>LAVORI DI SISTEMAZIONE COLONNOTTO IN GRANITO INCIDENTATO IN VIALE LIBERTA’. AFFIDAMENTO DIRETTO ALLA DITTA STIRPARO COSTRUZIONI EDILI SRL CON SEDE IN VIA GRASSI 17/C A COLLECCHIO (PR) P.IVA 02307790341. CODICE CIG ZEC205ADEB PARZIALE DISIMPEGNO ALLA DITTA AB GLOBAL SERVICE CODICE CIG:Z091995DDE </description>
-			<a10:updated>2017-10-20T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3008565</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3008565</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 20 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 04 Nov 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3008565</category>
-			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
-			<title>ATTIVITA’ DI VERIFICA E CONTROLLO PUNTUALE DELL’INVENTARIO DEGLI IMMOBILI COMUNALI – AFFIDAMENTO ARCH. PALTRINIERI DI SISSA TRECASALI – CF. PLTDNL64H63A952M CIG Z02205C812 </title>
-			<description>ATTIVITA’ DI VERIFICA E CONTROLLO PUNTUALE DELL’INVENTARIO DEGLI IMMOBILI COMUNALI – AFFIDAMENTO ARCH. PALTRINIERI DI SISSA TRECASALI – CF. PLTDNL64H63A952M CIG Z02205C812 </description>
 			<a10:updated>2017-10-20T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

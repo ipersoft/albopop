@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 24 Oct 2017 11:31:18 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 24 Oct 2017 12:31:38 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Tue, 24 Oct 2017 11:31:18 +0200</pubDate>
+		<pubDate>Tue, 24 Oct 2017 12:31:38 +0200</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3013040</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3013040</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 24 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 08 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3013040</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>ULTERIORE SOMMA DA IMPEGNARE A FAVORE DELLA DITTA "EDILRICCI S.R.L." DI CAPRI PER INTERVENTI PIU' RADICALI RISPETTO A QUANTO IPOTIZZATO CON IL VERBALE DI SOMMA URGENZA DELL'11.9.2017 RELATIVAMENTE ALLA SISTEMAZIONE ED ALL'ADEGUAMENTO DEGLI ALLOGGI COMUNALI DA DESTINARE ALLE FAMIGLIE SGOMBERATE A CAUSA DELL'EVENTO FRANOSO IN LOCALITA' "LA PRETARA". </title>
+			<description>ULTERIORE SOMMA DA IMPEGNARE A FAVORE DELLA DITTA "EDILRICCI S.R.L." DI CAPRI PER INTERVENTI PIU' RADICALI RISPETTO A QUANTO IPOTIZZATO CON IL VERBALE DI SOMMA URGENZA DELL'11.9.2017 RELATIVAMENTE ALLA SISTEMAZIONE ED ALL'ADEGUAMENTO DEGLI ALLOGGI COMUNALI DA DESTINARE ALLE FAMIGLIE SGOMBERATE A CAUSA DELL'EVENTO FRANOSO IN LOCALITA' "LA PRETARA". </description>
+			<a10:updated>2017-10-24T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3012728</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3012728</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>MESSA IN PRISTINO E SICUREZZA APPARATO VIDEOPROIEZIONE CENTRO POLIVALENTE IMPEGNATIVA DI SPESA CIG. ZF220534FA. </title>
 			<description>MESSA IN PRISTINO E SICUREZZA APPARATO VIDEOPROIEZIONE CENTRO POLIVALENTE IMPEGNATIVA DI SPESA CIG. ZF220534FA. </description>
-			<a10:updated>2017-10-20T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3009895</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3009895</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 20 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 04 Nov 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3009895</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>ACQUISTO TRAMITE MEPA DI ARMADIETTI DA DESTINARE AI LOCALI DEL CIMITERO CATTOLICO DI CAPRI AD USO DEL PERSONALE DIPENDENTE </title>
-			<description>ACQUISTO TRAMITE MEPA DI ARMADIETTI DA DESTINARE AI LOCALI DEL CIMITERO CATTOLICO DI CAPRI AD USO DEL PERSONALE DIPENDENTE </description>
 			<a10:updated>2017-10-20T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
