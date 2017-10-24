@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 24 Oct 2017 13:31:26 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 24 Oct 2017 14:32:49 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Tue, 24 Oct 2017 13:31:26 +0200</pubDate>
+		<pubDate>Tue, 24 Oct 2017 14:32:49 +0200</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3013444</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3013444</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 24 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 13 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3013444</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI GIUDIZIARI ATTO GIUDIZIARIO</category>
+			<title>PUBBLICAZIONE ART.143 C.P.C. A CARICO DI SCATA' ARTURO </title>
+			<description>PUBBLICAZIONE ART.143 C.P.C. A CARICO DI SCATA' ARTURO </description>
+			<a10:updated>2017-10-24T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3013383</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3013383</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">VERBALI VERBALE </category>
 			<title>PUBBLICAZIONE ART.143 CPC A CARICO DI YOU CAR </title>
 			<description>PUBBLICAZIONE ART.143 CPC A CARICO DI YOU CAR </description>
-			<a10:updated>2017-10-24T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3013292</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3013292</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 24 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 13 Nov 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3013292</category>
-			<category domain="http://albopop.it/specs#item-category-type">VERBALI VERBALE </category>
-			<title>PUBBLICAZIONE ART.143 CPC A CARICO DI LO BUE GIUSEPPE </title>
-			<description>PUBBLICAZIONE ART.143 CPC A CARICO DI LO BUE GIUSEPPE </description>
 			<a10:updated>2017-10-24T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
