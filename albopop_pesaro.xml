@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 24 Oct 2017 18:31:08 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 25 Oct 2017 08:30:45 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Tue, 24 Oct 2017 18:31:08 +0200</pubDate>
+		<pubDate>Wed, 25 Oct 2017 08:30:45 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/774018</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/774018</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 25 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 09 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">774018</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>APPROVAZIONE DEL VERBALE RELATIVO ALLA SEDUTA DELLA CONFERENZA DI SERVIZI PER CAMBIO DI DESTINAZIONE D'USO DA ATTIVITA' RICETTIVA AD ATTIVITA' COMMERCIALE DEL LOCALE UBICATO AL PIANO QUARTO NELL’IMMOBILE SITO IN COMUNE DI GABICCE MARE, VIA PANORAMICA N. 48, IN VARIANTE ALLO STRUMENTO URBANISTICO DITTA: HOTEL DU PARC S.A.S. DI SCOLA GINO &amp; C. </title>
+			<description>APPROVAZIONE DEL VERBALE RELATIVO ALLA SEDUTA DELLA CONFERENZA DI SERVIZI PER CAMBIO DI DESTINAZIONE D'USO DA ATTIVITA' RICETTIVA AD ATTIVITA' COMMERCIALE DEL LOCALE UBICATO AL PIANO QUARTO NELL’IMMOBILE SITO IN COMUNE DI GABICCE MARE, VIA PANORAMICA N. 48, IN VARIANTE ALLO STRUMENTO URBANISTICO DITTA: HOTEL DU PARC S.A.S. DI SCOLA GINO &amp; C. </description>
+			<a10:updated>2017-10-25T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/773997</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/773997</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>COMUNE DI FANO - RECUPERO SPESE DI NOTIFICA PER ACCERTAMENTI TASI </title>
 			<description>COMUNE DI FANO - RECUPERO SPESE DI NOTIFICA PER ACCERTAMENTI TASI </description>
-			<a10:updated>2017-10-24T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/773553</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/773553</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 24 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 08 Nov 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">773553</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>ULTERIORE PAGAMENTO FRANCHIGIE ASSICURATIVE DOVUTE PER SINISTRI RCT VARI. POLIZZA ANNI 2009-2010-2011 E POLIZZA ANNI 2012-2013-2014 </title>
-			<description>ULTERIORE PAGAMENTO FRANCHIGIE ASSICURATIVE DOVUTE PER SINISTRI RCT VARI. POLIZZA ANNI 2009-2010-2011 E POLIZZA ANNI 2012-2013-2014 </description>
 			<a10:updated>2017-10-24T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
