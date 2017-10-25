@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 25 Oct 2017 13:31:20 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 25 Oct 2017 14:31:12 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Wed, 25 Oct 2017 13:31:20 +0200</pubDate>
+		<pubDate>Wed, 25 Oct 2017 14:31:12 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3015493</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3015493</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 25 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 09 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3015493</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DECRETI</category>
+			<title>NOMINA RESPONSABILE DEI PROCEDIMENTI - FUNZIONARIO DR. STEFANO MARCHESI </title>
+			<description>NOMINA RESPONSABILE DEI PROCEDIMENTI - FUNZIONARIO DR. STEFANO MARCHESI </description>
+			<a10:updated>2017-10-25T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3015445</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3015445</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 25 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 09 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3015445</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
+			<title>STAGIONE LIRICA 2017 SESSIONE AUTUNNALE. REALIZZAZIONE OPERA LIRICA "IL BARBIERE DI SIVIGLIA”. IMPEGNO DI SPESA PER CORO. </title>
+			<description>STAGIONE LIRICA 2017 SESSIONE AUTUNNALE. REALIZZAZIONE OPERA LIRICA "IL BARBIERE DI SIVIGLIA”. IMPEGNO DI SPESA PER CORO. </description>
+			<a10:updated>2017-10-25T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3015389</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3015389</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE ORDINANZE</category>
 			<title>PROVVEDIMENTI URGENTI PER IL CONTENIMENTO DELL'INQUINAMENTO ATMOSFERICO </title>
 			<description>PROVVEDIMENTI URGENTI PER IL CONTENIMENTO DELL'INQUINAMENTO ATMOSFERICO </description>
-			<a10:updated>2017-10-24T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3012522</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3012522</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 24 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 08 Nov 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3012522</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>LIQUIDAZIONE IV TRIMESTRE 2017 CANONE DI LOCAZIONE RELATIVO ALL’IMMOBILE SITO IN VIALE TRIESTE N. 16-18 DESTINATO A SEDE DI UFFICI COMUNALI - DITTA GIOLU S.R.L. </title>
-			<description>LIQUIDAZIONE IV TRIMESTRE 2017 CANONE DI LOCAZIONE RELATIVO ALL’IMMOBILE SITO IN VIALE TRIESTE N. 16-18 DESTINATO A SEDE DI UFFICI COMUNALI - DITTA GIOLU S.R.L. </description>
-			<a10:updated>2017-10-24T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3012519</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3012519</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 24 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 08 Nov 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3012519</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>LIQUIDAZIONE IV TRIMESTRE 2017 CANONE DI LOCAZIONE IMMOBILE SITO IN ROVIGO, VIALE DEL LAVORO N. 24/A, DI PROPRIETÀ DELLA DITTA RIMI SAS DI CECCHETTO CELESTINO DESTINATO A MAGAZZINO COMUNALE. </title>
-			<description>LIQUIDAZIONE IV TRIMESTRE 2017 CANONE DI LOCAZIONE IMMOBILE SITO IN ROVIGO, VIALE DEL LAVORO N. 24/A, DI PROPRIETÀ DELLA DITTA RIMI SAS DI CECCHETTO CELESTINO DESTINATO A MAGAZZINO COMUNALE. </description>
 			<a10:updated>2017-10-24T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

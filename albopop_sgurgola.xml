@@ -5,7 +5,7 @@
 		<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Sgurgola</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 25 Oct 2017 13:30:43 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 25 Oct 2017 14:30:46 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Sgurgola</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Frosinone</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Sgurgola</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_sgurgola</a10:id>
-		<pubDate>Wed, 25 Oct 2017 13:30:43 +0200</pubDate>
+		<pubDate>Wed, 25 Oct 2017 14:30:46 +0200</pubDate>
 		<docs>http://albopop.it/comune/sgurgola/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3015489</guid>
+			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3015489</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 25 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 24 Dec 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3015489</category>
+			<category domain="http://albopop.it/specs#item-category-type">PROGRAMMA TRIENNALE OPERE PUBBLICHE PROGRAMMAZIONE DELLE OPERE PUBBLICHE</category>
+			<title>PROGRAMMAZIONE DELLE OPERE PUBBLICHE 2018 - 2020 </title>
+			<description>PROGRAMMAZIONE DELLE OPERE PUBBLICHE 2018 - 2020 </description>
+			<a10:updated>2017-10-25T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3015387</guid>
 			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3015387</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINA</category>
 			<title>VERBALE N. 328 DEL 5.10.2017 LIQUIDAZIONE FATTURA ACEA AT05, FORNITURA ACQUA UFFICI COMUNALI </title>
 			<description>VERBALE N. 328 DEL 5.10.2017 LIQUIDAZIONE FATTURA ACEA AT05, FORNITURA ACQUA UFFICI COMUNALI </description>
-			<a10:updated>2017-10-13T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2999214</guid>
-			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2999214</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 13 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 28 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2999214</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINA</category>
-			<title>VERBALE N. 327 DEL 5.10.2017 LIQUIDAZIONE FATTURE GESTIONE UFFICI COMUNALI </title>
-			<description>VERBALE N. 327 DEL 5.10.2017 LIQUIDAZIONE FATTURE GESTIONE UFFICI COMUNALI </description>
 			<a10:updated>2017-10-13T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
