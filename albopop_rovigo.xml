@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 26 Oct 2017 08:31:23 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 26 Oct 2017 09:31:15 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Thu, 26 Oct 2017 08:31:23 +0200</pubDate>
+		<pubDate>Thu, 26 Oct 2017 09:31:15 +0200</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3016074</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3016074</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 26 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 10 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3016074</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE PERMESSI DI COSTRUIRE</category>
+			<title>PERMESSO DI COSTRUIRE N. 96 DEL 26/10/2017 - RIF. UT 1564/2016, PER COSTRUZIONE DI UN EDIFICIO BIFAMILIARE AI SENSI DELL'ART. 5 COMMA 9 L. 106/2011, IN VIA SPOLA - ROVIGO </title>
+			<description>PERMESSO DI COSTRUIRE N. 96 DEL 26/10/2017 - RIF. UT 1564/2016, PER COSTRUZIONE DI UN EDIFICIO BIFAMILIARE AI SENSI DELL'ART. 5 COMMA 9 L. 106/2011, IN VIA SPOLA - ROVIGO </description>
+			<a10:updated>2017-10-26T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3015493</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3015493</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
 			<title>RETTIFICA DELLA DETERMINAZIONE DIRIGENZIALE N.2243/2017 AVENTE AD OGGETTO “TRATTATIVA DIRETTA CON AFFIDAMENTO DIRETTO, AI SENSI EX ART.36, COMMA 2 LETT. A) DEL D. LGS.50/2016, TRAMITE ME.PA, PER LA FORNITURA DI VESTIARIO AI DIPENDENTI AVENTI DIRITTO IN SERVIZIO PRESSO SETTORI VARI DELL'ENTE” </title>
 			<description>RETTIFICA DELLA DETERMINAZIONE DIRIGENZIALE N.2243/2017 AVENTE AD OGGETTO “TRATTATIVA DIRETTA CON AFFIDAMENTO DIRETTO, AI SENSI EX ART.36, COMMA 2 LETT. A) DEL D. LGS.50/2016, TRAMITE ME.PA, PER LA FORNITURA DI VESTIARIO AI DIPENDENTI AVENTI DIRITTO IN SERVIZIO PRESSO SETTORI VARI DELL'ENTE” </description>
-			<a10:updated>2017-10-24T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3012591</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3012591</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 24 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 08 Nov 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3012591</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE ORDINANZE</category>
-			<title>PROVVEDIMENTI URGENTI PER IL CONTENIMENTO DELL'INQUINAMENTO ATMOSFERICO </title>
-			<description>PROVVEDIMENTI URGENTI PER IL CONTENIMENTO DELL'INQUINAMENTO ATMOSFERICO </description>
 			<a10:updated>2017-10-24T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
