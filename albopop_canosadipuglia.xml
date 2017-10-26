@@ -5,7 +5,7 @@
 		<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Canosa di Puglia</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 26 Oct 2017 16:31:11 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 26 Oct 2017 17:30:57 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Canosa di Puglia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Barletta-Andria-Trani</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Canosa di Puglia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_canosadipuglia</a10:id>
-		<pubDate>Thu, 26 Oct 2017 16:31:11 +0200</pubDate>
+		<pubDate>Thu, 26 Oct 2017 17:30:57 +0200</pubDate>
 		<docs>http://albopop.it/comune/canosadipuglia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3608333</guid>
+			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3608333</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 26 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 15 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3608333</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI E DEPOSITI AVVISO DI DEPOSITO</category>
+			<title>AVVISO DI DEPOSITO - VERBALE DI ACCERTAMENTO NR.7130X/2017/V REG.VERBALI NR.8005/2017 DEL 16/07/2017 - INTESTATO A SOCEANU TIMON ELEODOR - PER CONTO DEL CORPO DII POLIZIA LOCALE -UNIONE COMUNALE DEI COLI ALBANO SANT'ALESSANDRO (BG) - </title>
+			<description>AVVISO DI DEPOSITO - VERBALE DI ACCERTAMENTO NR.7130X/2017/V REG.VERBALI NR.8005/2017 DEL 16/07/2017 - INTESTATO A SOCEANU TIMON ELEODOR - PER CONTO DEL CORPO DII POLIZIA LOCALE -UNIONE COMUNALE DEI COLI ALBANO SANT'ALESSANDRO (BG) - </description>
+			<a10:updated>2017-10-26T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3607633</guid>
 			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3607633</link>
@@ -72,8 +83,8 @@
 			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 16 Nov 2017 01:00:00 +0200</category>
 			<category domain="http://albopop.it/specs#item-category-uid">3606258</category>
 			<category domain="http://albopop.it/specs#item-category-type">AVVISI E DEPOSITI AVVISO PUBBLICO</category>
-			<title>FWD: PUBBLICAZIONE AVVISO PUBBLICO </title>
-			<description>FWD: PUBBLICAZIONE AVVISO PUBBLICO </description>
+			<title> PUBBLICAZIONE AVVISO PUBBLICO - REGOLAMENTO GRANDI INVALIDI </title>
+			<description> PUBBLICAZIONE AVVISO PUBBLICO - REGOLAMENTO GRANDI INVALIDI </description>
 			<a10:updated>2017-10-25T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DI GIUNTA</category>
 			<title>Interventi a sostegno della qualificazione del sistema di accoglienza turistica regionale. Individuazione RUP. </title>
 			<description>Interventi a sostegno della qualificazione del sistema di accoglienza turistica regionale. Individuazione RUP. </description>
-			<a10:updated>2017-10-13T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3561489</guid>
-			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3561489</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 13 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 27 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3561489</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI E DEPOSITI AVVISO DI PUBBLICAZIONE</category>
-			<title>POSTA CERTIFICATA: BANDO SELEZIONE ESPERTI INTERNI/ESTERNI 10.1.1A-FSEPON-PU-2017-476 </title>
-			<description>POSTA CERTIFICATA: BANDO SELEZIONE ESPERTI INTERNI/ESTERNI 10.1.1A-FSEPON-PU-2017-476 </description>
 			<a10:updated>2017-10-13T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
