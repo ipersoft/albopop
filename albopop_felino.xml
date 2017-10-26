@@ -5,7 +5,7 @@
 		<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Felino</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 25 Oct 2017 18:30:42 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 26 Oct 2017 08:30:41 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Felino</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,22 +16,11 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Felino</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_felino</a10:id>
-		<pubDate>Wed, 25 Oct 2017 18:30:42 +0200</pubDate>
+		<pubDate>Thu, 26 Oct 2017 08:30:41 +0200</pubDate>
 		<docs>http://albopop.it/comune/felino/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3013189</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3013189</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 24 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 25 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3013189</category>
-			<category domain="http://albopop.it/specs#item-category-type">A005 ORDINANZE E AVVISI</category>
-			<title>INTEGRAZIONE O.D.G. DEL CONSIGLIO COMUNALE DEL 25/10/2017 </title>
-			<description>INTEGRAZIONE O.D.G. DEL CONSIGLIO COMUNALE DEL 25/10/2017 </description>
-			<a10:updated>2017-10-24T00:00:00+02:00</a10:updated>
-		</item>
 		<item>
 			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3012775</guid>
 			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3012775</link>
@@ -96,17 +85,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
 			<title>CONSERVAZIONE DEL NUOVO CATASTO TERRENI VERIFICHE QUINQUENNALI GRATUITE ARTT 118 E 119 DEL REGOLAMENTO 8 DICEMBRE 1938 N. 2153 ANNO 2018 </title>
 			<description>CONSERVAZIONE DEL NUOVO CATASTO TERRENI VERIFICHE QUINQUENNALI GRATUITE ARTT 118 E 119 DEL REGOLAMENTO 8 DICEMBRE 1938 N. 2153 ANNO 2018 </description>
-			<a10:updated>2017-10-20T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3008432</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3008432</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 20 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 25 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3008432</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
-			<title>AVVVISO DI CONVOCAZIONE DEL CONSIGLIO COMUNALE IN SEDUTA STRAORDINARIA PER IL GIORNO 25/10/2017 ORE 20:00. </title>
-			<description>AVVVISO DI CONVOCAZIONE DEL CONSIGLIO COMUNALE IN SEDUTA STRAORDINARIA PER IL GIORNO 25/10/2017 ORE 20:00. </description>
 			<a10:updated>2017-10-20T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
@@ -294,6 +272,28 @@
 			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
 			<title>SPESE CONDOMINIALI RATA STRAORDINARIA RIFERITE ALL’APPARTAMENTO DI PROPRIETÀ COMUNALE UBICATO IN VIA GERBELLA 4 FELINO SEDE DELL’INFOGIOVANI, PRESSO IL CONDOMINIO S. GIORGIO A C.F: 92094420343 – ANNULLAMENTO PROVVEDIMENTO N. 33 DEL 15/02/2017 – NUOVO IMPEGNO DI SPESA E LIQUIDAZIONE </title>
 			<description>SPESE CONDOMINIALI RATA STRAORDINARIA RIFERITE ALL’APPARTAMENTO DI PROPRIETÀ COMUNALE UBICATO IN VIA GERBELLA 4 FELINO SEDE DELL’INFOGIOVANI, PRESSO IL CONDOMINIO S. GIORGIO A C.F: 92094420343 – ANNULLAMENTO PROVVEDIMENTO N. 33 DEL 15/02/2017 – NUOVO IMPEGNO DI SPESA E LIQUIDAZIONE </description>
+			<a10:updated>2017-10-11T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2993179</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2993179</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 11 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 26 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2993179</category>
+			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
+			<title>AFFIDAMENTO DEL SERVIZIO DI RISCOSSIONE COATTIVA DELLE ENTRATE COMUNALI ALLA DITTA ICA SRL. </title>
+			<description>AFFIDAMENTO DEL SERVIZIO DI RISCOSSIONE COATTIVA DELLE ENTRATE COMUNALI ALLA DITTA ICA SRL. </description>
+			<a10:updated>2017-10-11T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2993177</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2993177</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 11 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 26 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2993177</category>
+			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
+			<title>VARIAZIONE AL BILANCIO DI PREVISIONE 2017/2019 - ANNO 2017 - N.11/2017 AI SENSI DELL'ART. 175 COMMA 5 QUATER LETTERA A) DEL D.LGS. 267/2000 </title>
+			<description>VARIAZIONE AL BILANCIO DI PREVISIONE 2017/2019 - ANNO 2017 - N.11/2017 AI SENSI DELL'ART. 175 COMMA 5 QUATER LETTERA A) DEL D.LGS. 267/2000 </description>
 			<a10:updated>2017-10-11T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

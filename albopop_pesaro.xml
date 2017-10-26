@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 25 Oct 2017 18:30:43 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 26 Oct 2017 08:30:43 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Wed, 25 Oct 2017 18:30:43 +0200</pubDate>
+		<pubDate>Thu, 26 Oct 2017 08:30:43 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -86,6 +86,17 @@
 			<title>CONTRIBUTO A FAVORE DELL’ASSOCIAZIONE ITALIANA ASSISTENZA SPASTICI – ONLUS (A.I.A.S.) – SEZIONE PROVINCIALE DI PESARO ED URBINO PER INTERVENTI A FAVORE DI SOGGETTI DIVERSAMENTE ABILI </title>
 			<description>CONTRIBUTO A FAVORE DELL’ASSOCIAZIONE ITALIANA ASSISTENZA SPASTICI – ONLUS (A.I.A.S.) – SEZIONE PROVINCIALE DI PESARO ED URBINO PER INTERVENTI A FAVORE DI SOGGETTI DIVERSAMENTE ABILI </description>
 			<a10:updated>2017-10-25T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/774625</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/774625</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 26 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 27 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">774625</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO ATTI E AVVISI DIVERSI</category>
+			<title>AVVISO FONDO ANTICRISI - CONTRIBUTI COMUNALI IN FAVORE DI LAVORATORI COLPITI DA CRISI OCCUPAZIONALE FINALIZZATI AL SOSTEGNO DELLE SPESE RIFERITE ALL' ABITAZIONE DI RESIDENZA </title>
+			<description>AVVISO FONDO ANTICRISI - CONTRIBUTI COMUNALI IN FAVORE DI LAVORATORI COLPITI DA CRISI OCCUPAZIONALE FINALIZZATI AL SOSTEGNO DELLE SPESE RIFERITE ALL' ABITAZIONE DI RESIDENZA </description>
+			<a10:updated>2017-10-26T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/774571</guid>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALBO ATTI E AVVISI DIVERSI</category>
 			<title>A RICHIESTA DELLA SEZIONE POLIZIA STRADALE DI PESARO AVVISO DI DEPOSITO VERBALE SEQUESTRO AMMINISTRATIVO RELATIVO AL VEICOLO TARGA AS145LA </title>
 			<description>A RICHIESTA DELLA SEZIONE POLIZIA STRADALE DI PESARO AVVISO DI DEPOSITO VERBALE SEQUESTRO AMMINISTRATIVO RELATIVO AL VEICOLO TARGA AS145LA </description>
-			<a10:updated>2017-10-25T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/774140</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/774140</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 25 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 09 Nov 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">774140</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>SCARTO DI DOCUMENTAZIONE ARCHIVISTICA DEL SERVIZIO CULTURA </title>
-			<description>SCARTO DI DOCUMENTAZIONE ARCHIVISTICA DEL SERVIZIO CULTURA </description>
 			<a10:updated>2017-10-25T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
