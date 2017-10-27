@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 27 Oct 2017 14:31:07 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 27 Oct 2017 15:31:02 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Fri, 27 Oct 2017 14:31:07 +0200</pubDate>
+		<pubDate>Fri, 27 Oct 2017 15:31:02 +0200</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3611696</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3611696</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 27 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 11 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3611696</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>LUCCA COMICS &amp; GAMES HEROES 2017. DIVIETO COMMERCIO ITINERANTE. </title>
+			<description>LUCCA COMICS &amp; GAMES HEROES 2017. DIVIETO COMMERCIO ITINERANTE. </description>
+			<a10:updated>2017-10-27T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3611659</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3611659</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>CENTRO UNICO ACQUISTI – DD UNICA PER L'AFFIDAMENTO DEL SERVIZIO RELATIVO AL CONSORTIUM DINNER NELL'AMBITO DEL LIFE ASPIRE – KICK- OFF MEETING PER LA SERA DEL 26 .10.2017(FAMIGLIA 03). CIG:ZF32046272 CUP:J62117000020004 </title>
 			<description>CENTRO UNICO ACQUISTI – DD UNICA PER L'AFFIDAMENTO DEL SERVIZIO RELATIVO AL CONSORTIUM DINNER NELL'AMBITO DEL LIFE ASPIRE – KICK- OFF MEETING PER LA SERA DEL 26 .10.2017(FAMIGLIA 03). CIG:ZF32046272 CUP:J62117000020004 </description>
-			<a10:updated>2017-10-27T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3608868</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3608868</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 27 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 11 Nov 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3608868</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>CENTRO UNICO ACQUISTI – DD UNICA PER L'AFFIDAMENTO DEL SERVIZIO PER LA PREDISPOSIZIONE DI VARIANTE AL PIANO COMUNALE DI CLASSIFICAZIONE ACUSTICA IN ESECUZIONE AL DISPOSTO DELLA SENTENZA TAR TOSCANA N.213 - 2016(FAMIGLIA 03). CIG: ZEB207797D </title>
-			<description>CENTRO UNICO ACQUISTI – DD UNICA PER L'AFFIDAMENTO DEL SERVIZIO PER LA PREDISPOSIZIONE DI VARIANTE AL PIANO COMUNALE DI CLASSIFICAZIONE ACUSTICA IN ESECUZIONE AL DISPOSTO DELLA SENTENZA TAR TOSCANA N.213 - 2016(FAMIGLIA 03). CIG: ZEB207797D </description>
 			<a10:updated>2017-10-27T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
