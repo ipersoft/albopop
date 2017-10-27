@@ -5,7 +5,7 @@
 		<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mascalucia</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 27 Oct 2017 08:31:15 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 27 Oct 2017 09:31:22 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mascalucia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mascalucia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mascalucia</a10:id>
-		<pubDate>Fri, 27 Oct 2017 08:31:15 +0200</pubDate>
+		<pubDate>Fri, 27 Oct 2017 09:31:22 +0200</pubDate>
 		<docs>http://albopop.it/comune/mascalucia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3017877</guid>
+			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3017877</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 27 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 11 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3017877</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRE PUBBLICAZIONI CONCESSIONE EDILIZIA</category>
+			<title>AUTORIZZAZIONE ALLO SCARICO N.96/2017 PISTAGNA RICCARDO P.E. 15/2007 </title>
+			<description>AUTORIZZAZIONE ALLO SCARICO N.96/2017 PISTAGNA RICCARDO P.E. 15/2007 </description>
+			<a10:updated>2017-10-27T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3017711</guid>
 			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3017711</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
 			<title>AVVISO PUBBLICO PSR SICILIA 2014-2020 MISURA 7 SOTTOMISURA 7.5. – SOSTEGNO A INVESTIMENTI DI FRUIZIONE PUBBLICA IN INFRASTRUTTURE RICREATIVE, INFORMAZIONI TURISTICHE E INFRASTRUTTURE TURISTICHE SU PICCOLA SCALA. PROGETTO: “INTERVENTI PER L’INCREMENTO DELLA FRUIZIONE DEL PARCO MONTE CERAULO”. ASSISTENZA ELABORAZIONE DATI PER CARICAMENTO SU SIAN. </title>
 			<description>AVVISO PUBBLICO PSR SICILIA 2014-2020 MISURA 7 SOTTOMISURA 7.5. – SOSTEGNO A INVESTIMENTI DI FRUIZIONE PUBBLICA IN INFRASTRUTTURE RICREATIVE, INFORMAZIONI TURISTICHE E INFRASTRUTTURE TURISTICHE SU PICCOLA SCALA. PROGETTO: “INTERVENTI PER L’INCREMENTO DELLA FRUIZIONE DEL PARCO MONTE CERAULO”. ASSISTENZA ELABORAZIONE DATI PER CARICAMENTO SU SIAN. </description>
-			<a10:updated>2017-10-26T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3016370</guid>
-			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3016370</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 26 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 10 Nov 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3016370</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>APPROVAZIONE VARIAZIONE DI CASSA N. 7 AL BILANCIO DI PREVISIONE 2017 </title>
-			<description>APPROVAZIONE VARIAZIONE DI CASSA N. 7 AL BILANCIO DI PREVISIONE 2017 </description>
 			<a10:updated>2017-10-26T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
