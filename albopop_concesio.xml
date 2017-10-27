@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 27 Oct 2017 12:30:36 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 27 Oct 2017 13:30:35 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Fri, 27 Oct 2017 12:30:36 +0200</pubDate>
+		<pubDate>Fri, 27 Oct 2017 13:30:35 +0200</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3611199</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3611199</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 27 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3611199</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI RILASCIO PERMESSO DI COSTRUIRE</category>
+			<title>RILASCIO PERMESSO DI COSTRUIRE245/2017 ALLA SIGNORA FRUGONI MARISA </title>
+			<description>RILASCIO PERMESSO DI COSTRUIRE245/2017 ALLA SIGNORA FRUGONI MARISA </description>
+			<a10:updated>2017-10-27T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3608642</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3608642</link>
@@ -283,17 +293,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI AVVISO</category>
 			<title>ACB BANDI - ACB BANDI - COMUNE DI CASTEGNATO SCADENZA 18/11/2017 - COMUNE DI CORTEFRANCA SCADENZA 18/11/2017 - COMUNE DI LONATA SCADENZA 21/11/2017 - COMUNE DI MAZZANO - COMUNE DI VEROLANUOVA - </title>
 			<description>ACB BANDI - ACB BANDI - COMUNE DI CASTEGNATO SCADENZA 18/11/2017 - COMUNE DI CORTEFRANCA SCADENZA 18/11/2017 - COMUNE DI LONATA SCADENZA 21/11/2017 - COMUNE DI MAZZANO - COMUNE DI VEROLANUOVA - </description>
-			<a10:updated>2017-10-20T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3582938</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3582938</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 20 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 04 Nov 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3582938</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERA DI GIUNTA</category>
-			<title>ESAME ED APPROVAZIONE DELLA CONVENZIONE TRA IL COMUNE DI CONCESIO E L'ISTITUTO COMPRENSIVO DI CONCESIO IN MERITO A FUNZIONI MISTE, PARTICOLARI MODALITA' DI FUNZIONAMENTO DEI PLESSI SCOLASTICI, FORNITURA MATERIALI DI PULIZIA E CANCELLERIA ED EDUCAZIONE PERMANENTE PER ADULTI - ANNO SCOLASTICO 2017/2018. </title>
-			<description>ESAME ED APPROVAZIONE DELLA CONVENZIONE TRA IL COMUNE DI CONCESIO E L'ISTITUTO COMPRENSIVO DI CONCESIO IN MERITO A FUNZIONI MISTE, PARTICOLARI MODALITA' DI FUNZIONAMENTO DEI PLESSI SCOLASTICI, FORNITURA MATERIALI DI PULIZIA E CANCELLERIA ED EDUCAZIONE PERMANENTE PER ADULTI - ANNO SCOLASTICO 2017/2018. </description>
 			<a10:updated>2017-10-20T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
