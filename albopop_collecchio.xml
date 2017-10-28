@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 28 Oct 2017 09:31:35 +0200</lastBuildDate>
+		<lastBuildDate>Sat, 28 Oct 2017 10:31:17 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Sat, 28 Oct 2017 09:31:35 +0200</pubDate>
+		<pubDate>Sat, 28 Oct 2017 10:31:17 +0200</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3019401</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3019401</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 28 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 23 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3019401</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO ON LINE BANDI DI CONCORSO</category>
+			<title>POSTA CERTIFICATA: PROT.N.0015067/2017 - ERRATA CORRIGE - BANDO DI CONCORSO PUBBLICO PER TITOLI ED ESAMI PER LA COPERTURA A TEMPO INDETERMINA </title>
+			<description>POSTA CERTIFICATA: PROT.N.0015067/2017 - ERRATA CORRIGE - BANDO DI CONCORSO PUBBLICO PER TITOLI ED ESAMI PER LA COPERTURA A TEMPO INDETERMINA </description>
+			<a10:updated>2017-10-28T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3018809</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3018809</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
 			<title>INDENNITA' PER SPECIFICHE RESPONSABILITA' PER L’ANNO 2017 AL DIPENDENTE SILVA MARCO – REVOCA </title>
 			<description>INDENNITA' PER SPECIFICHE RESPONSABILITA' PER L’ANNO 2017 AL DIPENDENTE SILVA MARCO – REVOCA </description>
-			<a10:updated>2017-10-20T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3008577</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3008577</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 20 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 04 Nov 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3008577</category>
-			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
-			<title>CORSO SUL DECRETO CORRETTIVO IN MATERIA DI APPALTI E CONTRATTI CHE SI TERRÀ IN DATA 30 MAGGIO 2017 AVENTE COME DESTINATARI I DIPENDENTI DELL'UNIONE PEDEMONTANA PARMENSE E DEI COMUNI DI COLLECCHIO, FELINO, MONTECHIARUGOLO, SALA BAGANZA, TRAVERSETOLO, MEDESANO E CORNIGLIO INTERESSATI PER LO SVOLGIMENTO DELLE PROPRIE MANSIONI ALLA NORMATIVA IN OGGETTO – RIMBORSO COSTI ALL’UNIONE PEDEMONTANA PARMENSE. IMPEGNO E LIQUIDAZIONE DI SPESA. </title>
-			<description>CORSO SUL DECRETO CORRETTIVO IN MATERIA DI APPALTI E CONTRATTI CHE SI TERRÀ IN DATA 30 MAGGIO 2017 AVENTE COME DESTINATARI I DIPENDENTI DELL'UNIONE PEDEMONTANA PARMENSE E DEI COMUNI DI COLLECCHIO, FELINO, MONTECHIARUGOLO, SALA BAGANZA, TRAVERSETOLO, MEDESANO E CORNIGLIO INTERESSATI PER LO SVOLGIMENTO DELLE PROPRIE MANSIONI ALLA NORMATIVA IN OGGETTO – RIMBORSO COSTI ALL’UNIONE PEDEMONTANA PARMENSE. IMPEGNO E LIQUIDAZIONE DI SPESA. </description>
 			<a10:updated>2017-10-20T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
