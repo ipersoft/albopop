@@ -5,7 +5,7 @@
 		<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bernareggio</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 28 Oct 2017 11:30:55 +0200</lastBuildDate>
+		<lastBuildDate>Sat, 28 Oct 2017 12:31:16 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bernareggio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bernareggio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bernareggio</a10:id>
-		<pubDate>Sat, 28 Oct 2017 11:30:55 +0200</pubDate>
+		<pubDate>Sat, 28 Oct 2017 12:31:16 +0200</pubDate>
 		<docs>http://albopop.it/comune/bernareggio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3612220</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3612220</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 28 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 12 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3612220</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZE</category>
+			<title>ISTITUZIONE DIVIETO DI SOSTA CON RIMOZIONE FORZATA IN VIA LEONI PIAZZA DELLA REPUBBLICA DALLE ORE 16.00 ALLE ORE 21.30 DEL 31.10.2017 </title>
+			<description>ISTITUZIONE DIVIETO DI SOSTA CON RIMOZIONE FORZATA IN VIA LEONI PIAZZA DELLA REPUBBLICA DALLE ORE 16.00 ALLE ORE 21.30 DEL 31.10.2017 </description>
+			<a10:updated>2017-10-28T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3612101</guid>
 			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3612101</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
 			<title>APPROVAZIONE SCHEMA DI CONVENZIONE PER L'UTILIZZO CONGIUNTO CON IL COMUNE DI CONCOREZZO AI SENSI DELL'ART. 14 CCNL 22/1/2004 DI N. 1 ISTRUTTORE DIRETTIVO AMMINISTRATIVO IN ESITO AL TRASFERIMENTO DELLO STESSO NEI RUOLI DEL COMUNE DI BERNAREGGIO AI SENSI DELL'ART. 30 D.LGS 165/2001 CON DECORRENZA 1/11/2017 </title>
 			<description>APPROVAZIONE SCHEMA DI CONVENZIONE PER L'UTILIZZO CONGIUNTO CON IL COMUNE DI CONCOREZZO AI SENSI DELL'ART. 14 CCNL 22/1/2004 DI N. 1 ISTRUTTORE DIRETTIVO AMMINISTRATIVO IN ESITO AL TRASFERIMENTO DELLO STESSO NEI RUOLI DEL COMUNE DI BERNAREGGIO AI SENSI DELL'ART. 30 D.LGS 165/2001 CON DECORRENZA 1/11/2017 </description>
-			<a10:updated>2017-10-25T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3604937</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3604937</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 25 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 09 Nov 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3604937</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DECRETO</category>
-			<title>CONCESSIONE PATROCINIO ALL'INIZIATIVA "IL VIOLINO DELLA SHOAH" </title>
-			<description>CONCESSIONE PATROCINIO ALL'INIZIATIVA "IL VIOLINO DELLA SHOAH" </description>
 			<a10:updated>2017-10-25T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

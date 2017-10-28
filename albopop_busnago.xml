@@ -5,7 +5,7 @@
 		<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Busnago</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 28 Oct 2017 11:30:57 +0200</lastBuildDate>
+		<lastBuildDate>Sat, 28 Oct 2017 12:31:17 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Busnago</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Busnago</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_busnago</a10:id>
-		<pubDate>Sat, 28 Oct 2017 11:30:57 +0200</pubDate>
+		<pubDate>Sat, 28 Oct 2017 12:31:17 +0200</pubDate>
 		<docs>http://albopop.it/comune/busnago/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3612234</guid>
+			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3612234</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 28 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 12 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3612234</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DETERMINAZIONE DEI RESPONSABILI</category>
+			<title>IMPEGNO DI SPESA PER ACQUISTO CARTE D'IDENTITA </title>
+			<description>IMPEGNO DI SPESA PER ACQUISTO CARTE D'IDENTITA </description>
+			<a10:updated>2017-10-28T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3612232</guid>
+			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3612232</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 28 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 12 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3612232</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DETERMINAZIONE DEI RESPONSABILI</category>
+			<title>IMPEGNO DI SPESA ED AFFIDAMENTO INCARICO PER RIPARAZIONE LAVAPAVIMENTI GIAMPY MATRICOLA 120800036 - CIG Z96204DF64 </title>
+			<description>IMPEGNO DI SPESA ED AFFIDAMENTO INCARICO PER RIPARAZIONE LAVAPAVIMENTI GIAMPY MATRICOLA 120800036 - CIG Z96204DF64 </description>
+			<a10:updated>2017-10-28T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3612203</guid>
 			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3612203</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DELIBERA DI GIUNTA </category>
 			<title>ADOZIONE PROGRAMMA LAVORI PUBBLICI TRIENNIO 2018 - 2020 ED ELENCO ANNUALE 2018 </title>
 			<description>ADOZIONE PROGRAMMA LAVORI PUBBLICI TRIENNIO 2018 - 2020 ED ELENCO ANNUALE 2018 </description>
-			<a10:updated>2017-10-20T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3584061</guid>
-			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3584061</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 20 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 04 Nov 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3584061</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DELIBERA DI GIUNTA </category>
-			<title>INDIVIDUAZIONE BENI IMMOBILI DA SOTTOPORRE AD ALIENAZIONE </title>
-			<description>INDIVIDUAZIONE BENI IMMOBILI DA SOTTOPORRE AD ALIENAZIONE </description>
-			<a10:updated>2017-10-20T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3584059</guid>
-			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3584059</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 20 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 04 Nov 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3584059</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DELIBERA DI GIUNTA </category>
-			<title>COSTITUZIONE DELLO SPORTELLO UNICO PER L'EDILIZIA E APPROVAZIONE DEI CRITERI DI GESTIONE. </title>
-			<description>COSTITUZIONE DELLO SPORTELLO UNICO PER L'EDILIZIA E APPROVAZIONE DEI CRITERI DI GESTIONE. </description>
 			<a10:updated>2017-10-20T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
