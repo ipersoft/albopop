@@ -5,7 +5,7 @@
 		<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bitonto</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 28 Oct 2017 10:30:33 +0200</lastBuildDate>
+		<lastBuildDate>Sat, 28 Oct 2017 11:30:34 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bitonto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Bari</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bitonto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bitonto</a10:id>
-		<pubDate>Sat, 28 Oct 2017 10:30:33 +0200</pubDate>
+		<pubDate>Sat, 28 Oct 2017 11:30:34 +0200</pubDate>
 		<docs>http://albopop.it/comune/bitonto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3612208</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3612208</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 28 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 12 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3612208</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
+			<title>VIA PERRESE CIVV.59/63 DIVIETO DI SOSTA CON RIMOZIONE DAL 30.10.17 PER GG.11 ORE 7/16 PER OPERAZIONI DI CARICO E/O SCARICO MATERIALE EDILE - DITTA EDIL PUGLIE DI SANTORUVO RITA </title>
+			<description>VIA PERRESE CIVV.59/63 DIVIETO DI SOSTA CON RIMOZIONE DAL 30.10.17 PER GG.11 ORE 7/16 PER OPERAZIONI DI CARICO E/O SCARICO MATERIALE EDILE - DITTA EDIL PUGLIE DI SANTORUVO RITA </description>
+			<a10:updated>2017-10-28T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3611588</guid>
 			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3611588</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISI COMUNALI</category>
 			<title>ART. 60/E DPR 600/73 - AVVISO, IN BUSTA CHIUSA, DI DEPOSITO ATTO N.2015/012/DI/000013178/0/003 /2017 NELLA CASA COMUNALE : SIMONIELLO GIUSEPPE </title>
 			<description>ART. 60/E DPR 600/73 - AVVISO, IN BUSTA CHIUSA, DI DEPOSITO ATTO N.2015/012/DI/000013178/0/003 /2017 NELLA CASA COMUNALE : SIMONIELLO GIUSEPPE </description>
-			<a10:updated>2017-10-24T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3588396</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3588396</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 24 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 07 Nov 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3588396</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERA DI GIUNTA</category>
-			<title>RELAZIONE SULLA PERFORMANCE DEL COMUNE DI BITONTO – PIANO DELLE PERFORMANCE 2016-2018 – PIANO DEGLI OBIETTIVI ANNO 2016. </title>
-			<description>RELAZIONE SULLA PERFORMANCE DEL COMUNE DI BITONTO – PIANO DELLE PERFORMANCE 2016-2018 – PIANO DEGLI OBIETTIVI ANNO 2016. </description>
 			<a10:updated>2017-10-24T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
