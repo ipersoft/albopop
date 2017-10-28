@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 28 Oct 2017 12:31:05 +0200</lastBuildDate>
+		<lastBuildDate>Sat, 28 Oct 2017 13:30:53 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Sat, 28 Oct 2017 12:31:05 +0200</pubDate>
+		<pubDate>Sat, 28 Oct 2017 13:30:53 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/790213</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/790213</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 28 Oct 2017 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 12 Nov 2017 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">790213</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
+			<title>HABITEKO SRL - STRADA DELL'ALTARELLO N. 16/17 - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </title>
+			<description>HABITEKO SRL - STRADA DELL'ALTARELLO N. 16/17 - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </description>
+			<a10:updated>2017-10-28T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/790198</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/790198</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>CANONE LOCAZIONE ALLOGGI SERVIZI SOCIALI. VARIAZIONE ACCERTAMENTI ALLOGGI PER ANZIANI ANNO 2017. </title>
 			<description>CANONE LOCAZIONE ALLOGGI SERVIZI SOCIALI. VARIAZIONE ACCERTAMENTI ALLOGGI PER ANZIANI ANNO 2017. </description>
-			<a10:updated>2017-10-27T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/789746</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/789746</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 27 Oct 2017 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 11 Nov 2017 01:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">789746</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>LAVORI DI REALIZZAZIONE DI UN PERCORSO CICLOPEDONALE IN VIA MILANO TRA VIA RECANATI E VIA FANO. APPROVAZIONE CONTRATTO DI COMODATO GRATUTO PER ACQUISIZIONE AREE AL FINE DELLA REALIZZAZIONE DI PERCORSO CICLOPEDONALE </title>
-			<description>LAVORI DI REALIZZAZIONE DI UN PERCORSO CICLOPEDONALE IN VIA MILANO TRA VIA RECANATI E VIA FANO. APPROVAZIONE CONTRATTO DI COMODATO GRATUTO PER ACQUISIZIONE AREE AL FINE DELLA REALIZZAZIONE DI PERCORSO CICLOPEDONALE </description>
 			<a10:updated>2017-10-27T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
