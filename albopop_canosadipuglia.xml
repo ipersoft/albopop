@@ -5,7 +5,7 @@
 		<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Canosa di Puglia</description>
 		<language>it</language>
-		<lastBuildDate>Sun, 29 Oct 2017 10:30:55 +0100</lastBuildDate>
+		<lastBuildDate>Sun, 29 Oct 2017 11:31:12 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Canosa di Puglia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Barletta-Andria-Trani</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Canosa di Puglia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_canosadipuglia</a10:id>
-		<pubDate>Sun, 29 Oct 2017 10:30:55 +0100</pubDate>
+		<pubDate>Sun, 29 Oct 2017 11:31:12 +0100</pubDate>
 		<docs>http://albopop.it/comune/canosadipuglia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3612392</guid>
+			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3612392</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sun, 29 Oct 2017 02:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 06 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3612392</category>
+			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>SORRENTI UMBERTO - SIVESTRI SERENA </title>
+			<description>SORRENTI UMBERTO - SIVESTRI SERENA </description>
+			<a10:updated>2017-10-29T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3608419</guid>
 			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3608419</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">BANDI E GARE BANDO DI MOBILA' ESTERNA</category>
 			<title>BANDO DI MOBILITA' ESTERNA PER L'ASSUNZIONE DI N.2 UNITA' DI PERSONALE CATEGORIA C CON IL PROFILO PROFESSIONALE" ISTRUTTORE AMMINISTRATIVO." </title>
 			<description>BANDO DI MOBILITA' ESTERNA PER L'ASSUNZIONE DI N.2 UNITA' DI PERSONALE CATEGORIA C CON IL PROFILO PROFESSIONALE" ISTRUTTORE AMMINISTRATIVO." </description>
-			<a10:updated>2017-10-11T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3557087</guid>
-			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3557087</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 11 Oct 2017 02:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 09 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3557087</category>
-			<category domain="http://albopop.it/specs#item-category-type">BANDI E GARE BANDO DI MOBILA' ESTERNA</category>
-			<title>BANDO DI MOBILITA' ESTERNA PER L'ASSUNZIONE DI N.1 UNITA' DI PERSONALE CATEGORIA C CON IL PROFILO PROFESSIONALE" ISTRUTTORE TECNICO INFORMATICO." </title>
-			<description>BANDO DI MOBILITA' ESTERNA PER L'ASSUNZIONE DI N.1 UNITA' DI PERSONALE CATEGORIA C CON IL PROFILO PROFESSIONALE" ISTRUTTORE TECNICO INFORMATICO." </description>
 			<a10:updated>2017-10-11T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
