@@ -5,7 +5,7 @@
 		<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Torri del Benaco</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 30 Oct 2017 08:31:28 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 30 Oct 2017 09:31:09 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Torri del Benaco</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Verona</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Torri del Benaco</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_torridelbenaco</a10:id>
-		<pubDate>Mon, 30 Oct 2017 08:31:28 +0100</pubDate>
+		<pubDate>Mon, 30 Oct 2017 09:31:09 +0100</pubDate>
 		<docs>http://albopop.it/comune/torridelbenaco/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3612808</guid>
+			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3612808</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 30 Oct 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 14 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3612808</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
+			<title>REVOCA DETERMINAZIONE NR. 497. SISTEMAZIONE INQUADRAMENTO GIURIDICO ED ECONOMICO DEL DIPENDENTE PAROLARI CLAUDIO A SEGUITO DEL TRASFERIMENTO PER MOBILITA' DI INTERSCAMBIO DA U.L.S.S. 22 E ATTRIBUZIONE PROGRESSIONE ECONOMICA A PARTIRE DAL 1 APRILE 2016. </title>
+			<description>REVOCA DETERMINAZIONE NR. 497. SISTEMAZIONE INQUADRAMENTO GIURIDICO ED ECONOMICO DEL DIPENDENTE PAROLARI CLAUDIO A SEGUITO DEL TRASFERIMENTO PER MOBILITA' DI INTERSCAMBIO DA U.L.S.S. 22 E ATTRIBUZIONE PROGRESSIONE ECONOMICA A PARTIRE DAL 1 APRILE 2016. </description>
+			<a10:updated>2017-10-30T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3612205</guid>
 			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3612205</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISO 30 GIORNI</category>
 			<title>AVVISO DI MOBILITA' PER 1 ISTRUTTORE AMMINISTRATIVO CAT. C DA ASSEGNARE ALL'AREA AMMINISTRATIVO-CONTABILE </title>
 			<description>AVVISO DI MOBILITA' PER 1 ISTRUTTORE AMMINISTRATIVO CAT. C DA ASSEGNARE ALL'AREA AMMINISTRATIVO-CONTABILE </description>
-			<a10:updated>2017-10-25T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3605793</guid>
-			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3605793</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 25 Oct 2017 02:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 24 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3605793</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISO 30 GIORNI</category>
-			<title> BANDI DI CONCORSO </title>
-			<description> BANDI DI CONCORSO </description>
 			<a10:updated>2017-10-25T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
