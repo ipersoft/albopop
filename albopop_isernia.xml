@@ -5,7 +5,7 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 30 Oct 2017 10:31:16 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 30 Oct 2017 11:31:19 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Isernia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>Mon, 30 Oct 2017 10:31:16 +0100</pubDate>
+		<pubDate>Mon, 30 Oct 2017 11:31:19 +0100</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3613535</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3613535</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 30 Oct 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 14 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3613535</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO AVVISO</category>
+			<title>AVVISO DEHORS </title>
+			<description>AVVISO DEHORS </description>
+			<a10:updated>2017-10-30T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3613200</guid>
 			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3613200</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
 			<title>TRASFORMAZIONE TEMPORANEA DEL RAPPORTO DI LAVORO DI UN DIPENDENTE DA TEMPO PIENO A TEMPO PARZIALE. </title>
 			<description>TRASFORMAZIONE TEMPORANEA DEL RAPPORTO DI LAVORO DI UN DIPENDENTE DA TEMPO PIENO A TEMPO PARZIALE. </description>
-			<a10:updated>2017-10-24T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3588381</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3588381</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 24 Oct 2017 02:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 08 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3588381</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA GIUNTA COMUNALE</category>
-			<title>MONETIZZAZIONE DI AREE DA CEDERE PER PUBBLICI SERVIZI NELL'AMBITO DI UN PROCEDIMENTO EDILIZIO FINALIZZAZTO AL RECUPERO AD USO RESIDENZIALI DI LOCALI SOTTOTETTO, AI SENSI DELLA L.R. 25/08, IN C.DA CORRADO VIA FONTANA - ZONA C/4 - DITTA: CORRADO VINCENZO - APPROVAZIONE. </title>
-			<description>MONETIZZAZIONE DI AREE DA CEDERE PER PUBBLICI SERVIZI NELL'AMBITO DI UN PROCEDIMENTO EDILIZIO FINALIZZAZTO AL RECUPERO AD USO RESIDENZIALI DI LOCALI SOTTOTETTO, AI SENSI DELLA L.R. 25/08, IN C.DA CORRADO VIA FONTANA - ZONA C/4 - DITTA: CORRADO VINCENZO - APPROVAZIONE. </description>
 			<a10:updated>2017-10-24T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

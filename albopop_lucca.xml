@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 30 Oct 2017 10:31:10 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 30 Oct 2017 11:31:15 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Mon, 30 Oct 2017 10:31:10 +0100</pubDate>
+		<pubDate>Mon, 30 Oct 2017 11:31:15 +0100</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3613465</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3613465</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 30 Oct 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 14 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3613465</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>VIA MONTEGRAPPA,FRAZIONE DI S.CONCORDIO IN C/A,MODIFICHE TEMPORANEE ALLA SOSTA,PER IL 08/11/2017 DALLE ORE 8,00 ALLE ORE 17,00. </title>
+			<description>VIA MONTEGRAPPA,FRAZIONE DI S.CONCORDIO IN C/A,MODIFICHE TEMPORANEE ALLA SOSTA,PER IL 08/11/2017 DALLE ORE 8,00 ALLE ORE 17,00. </description>
+			<a10:updated>2017-10-30T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3613463</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3613463</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 30 Oct 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 14 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3613463</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>PIAZZA S.MICHELE,CENTRO STORICO,MODIFICHE TEMPORANNE ALLA CIRCOLAZIONE VEICOLARE ED ALLA SOSTA,PER IL GIORNO 08/11/20107 DALLE ORE 8,00 ALLE ORE 20,00. </title>
+			<description>PIAZZA S.MICHELE,CENTRO STORICO,MODIFICHE TEMPORANNE ALLA CIRCOLAZIONE VEICOLARE ED ALLA SOSTA,PER IL GIORNO 08/11/20107 DALLE ORE 8,00 ALLE ORE 20,00. </description>
+			<a10:updated>2017-10-30T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3613461</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3613461</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 30 Oct 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 14 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3613461</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>VIA DELLA SS.ANNUNZIATA,FRAZIONE DI PICCIORANA,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE,DAL 06/11/2017 AL 11/11/2017 DALLE ORE 8,00 ALLE ORE 17,00. </title>
+			<description>VIA DELLA SS.ANNUNZIATA,FRAZIONE DI PICCIORANA,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE,DAL 06/11/2017 AL 11/11/2017 DALLE ORE 8,00 ALLE ORE 17,00. </description>
+			<a10:updated>2017-10-30T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3613383</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3613383</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
 			<title>LIMITAZIONI ALLE MODALITÀ DI VENDITA PER ASPORTO DI BEVANDE IN CONTENITORI DI VETRO E DI BEVANDE DI GRADAZIONE ALCOOLICA SUPERIORE AI 21° DI VOLUME. </title>
 			<description>LIMITAZIONI ALLE MODALITÀ DI VENDITA PER ASPORTO DI BEVANDE IN CONTENITORI DI VETRO E DI BEVANDE DI GRADAZIONE ALCOOLICA SUPERIORE AI 21° DI VOLUME. </description>
-			<a10:updated>2017-10-27T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3611298</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3611298</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 27 Oct 2017 02:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 11 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3611298</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>LIMITAZIONI ALLE MODALITÀ DI VENDITA DI BEVANDE IN CONTENITORI DI VETRO E DI GRADAZIONE ALCOOLICA SUPERIORE AL 21° DI VOLUME. </title>
-			<description>LIMITAZIONI ALLE MODALITÀ DI VENDITA DI BEVANDE IN CONTENITORI DI VETRO E DI GRADAZIONE ALCOOLICA SUPERIORE AL 21° DI VOLUME. </description>
-			<a10:updated>2017-10-27T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3611054</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3611054</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 27 Oct 2017 02:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 11 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3611054</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>LUCCA COMICS &amp; GAMES 2017: MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE IN PIAZZALE BOCCHERINI, PORTA S. ANNA E PIAZALE VERDI, PER IL TRANSITO DI UN VEICOLO SPECIALE. 30 OTTOBRE 2017 E 6 NOVEMBRE 2017 </title>
-			<description>LUCCA COMICS &amp; GAMES 2017: MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE IN PIAZZALE BOCCHERINI, PORTA S. ANNA E PIAZALE VERDI, PER IL TRANSITO DI UN VEICOLO SPECIALE. 30 OTTOBRE 2017 E 6 NOVEMBRE 2017 </description>
-			<a10:updated>2017-10-27T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3610610</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3610610</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 27 Oct 2017 02:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 11 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3610610</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>LUCCA COMICS &amp; GAMES 2017: MODIFICHE TEMPORANEE ALLA SOSTA IN ALCUNE VIABILITÀ E PIAZZE DEL CENTRO SRORICO E DELL'IMMEDIATA PERIFERIA IN OCCASIONE DELLO SVOLGIMENTO DELLA MANIFESTAZIONE LUCCA COMICS &amp; GAMES 2017. PERIODO 30 OTTOBRE 2017 - 7 NOVEMBRE 2017 </title>
-			<description>LUCCA COMICS &amp; GAMES 2017: MODIFICHE TEMPORANEE ALLA SOSTA IN ALCUNE VIABILITÀ E PIAZZE DEL CENTRO SRORICO E DELL'IMMEDIATA PERIFERIA IN OCCASIONE DELLO SVOLGIMENTO DELLA MANIFESTAZIONE LUCCA COMICS &amp; GAMES 2017. PERIODO 30 OTTOBRE 2017 - 7 NOVEMBRE 2017 </description>
 			<a10:updated>2017-10-27T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
