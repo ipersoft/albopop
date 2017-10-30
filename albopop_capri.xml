@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 30 Oct 2017 13:31:12 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 30 Oct 2017 14:31:12 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Mon, 30 Oct 2017 13:31:12 +0100</pubDate>
+		<pubDate>Mon, 30 Oct 2017 14:31:12 +0100</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3020981</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3020981</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 30 Oct 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 14 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3020981</category>
+			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DI GIUNTA DELIBERA DI GIUNTA</category>
+			<title>Revisione straordinaria delle partecipazioni ex art. 24, D.Lgs. 19 agosto 2016 n. 175, come modificato dal Decreto legislativo 16 giugno 2017, n. 100 – Ricognizione partecipazione possedute - Integrazione </title>
+			<description>Revisione straordinaria delle partecipazioni ex art. 24, D.Lgs. 19 agosto 2016 n. 175, come modificato dal Decreto legislativo 16 giugno 2017, n. 100 – Ricognizione partecipazione possedute - Integrazione </description>
+			<a10:updated>2017-10-30T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3020915</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3020915</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
 			<title>LIQUIDAZIONE SPESE DI REGISTRAZIONE, IN FAVORE DELL'AGENZIA DELLE ENTRATE, PER IL CONTRATTO DI LOCAZIONE AREA IN LOCALITA' GASTO </title>
 			<description>LIQUIDAZIONE SPESE DI REGISTRAZIONE, IN FAVORE DELL'AGENZIA DELLE ENTRATE, PER IL CONTRATTO DI LOCAZIONE AREA IN LOCALITA' GASTO </description>
-			<a10:updated>2017-10-27T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3018252</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3018252</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 27 Oct 2017 02:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 11 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3018252</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>SISTEMAZIONE DELLECADITOIE IN VIA PROV,LE MARINA PICCOLA, ALL'ALTEZZA DEL DISTRIBUTORE DI BENZINA, ALL'INCROCIO "DUE GOLFI". APPROVAZIONE DEL PREVENTIVO DELLA DITTA "M.B.COSTRUZIONI S.R.L." DI NAPOLI. </title>
-			<description>SISTEMAZIONE DELLECADITOIE IN VIA PROV,LE MARINA PICCOLA, ALL'ALTEZZA DEL DISTRIBUTORE DI BENZINA, ALL'INCROCIO "DUE GOLFI". APPROVAZIONE DEL PREVENTIVO DELLA DITTA "M.B.COSTRUZIONI S.R.L." DI NAPOLI. </description>
 			<a10:updated>2017-10-27T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
