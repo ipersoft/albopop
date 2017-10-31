@@ -5,7 +5,7 @@
 		<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Sgurgola</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 31 Oct 2017 12:30:48 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 31 Oct 2017 13:30:47 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Sgurgola</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Frosinone</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Sgurgola</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_sgurgola</a10:id>
-		<pubDate>Tue, 31 Oct 2017 12:30:48 +0100</pubDate>
+		<pubDate>Tue, 31 Oct 2017 13:30:47 +0100</pubDate>
 		<docs>http://albopop.it/comune/sgurgola/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3022844</guid>
+			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3022844</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 31 Oct 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 15 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3022844</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DELIBERE DI GIUNTA</category>
+			<title>VERBALE D. 66 DEL 31/10/2017 PIANO DEGLI INTERVENTI DI SISTEMAZIONE DELLA VIABILITÀ FORESTALE E DI REALIZZAZIONE DI UN: FASCIA TAGLIAFUOCO A SUPPORTO DELL'ANTINCENDIO BOSCHIVO FMALIZZATO ALLA TUTELA E CONSERVAZIONE DEL PATRIMONIO BOSCHIVO DEI MONTI LEPINI NEL COMUNE DI SGURGOLA. APPROVAZIONE PROGETTO DEFRNITIVO </title>
+			<description>VERBALE D. 66 DEL 31/10/2017 PIANO DEGLI INTERVENTI DI SISTEMAZIONE DELLA VIABILITÀ FORESTALE E DI REALIZZAZIONE DI UN: FASCIA TAGLIAFUOCO A SUPPORTO DELL'ANTINCENDIO BOSCHIVO FMALIZZATO ALLA TUTELA E CONSERVAZIONE DEL PATRIMONIO BOSCHIVO DEI MONTI LEPINI NEL COMUNE DI SGURGOLA. APPROVAZIONE PROGETTO DEFRNITIVO </description>
+			<a10:updated>2017-10-31T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3022490</guid>
 			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3022490</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINA</category>
 			<title>VERBALE N. 346 DEL 17.10.2017 SOGGIORNO MARINO ANZIANI 2017. LIQUIDAZIONE FATTURA SOCIETÀ OMEGA SRL. </title>
 			<description>VERBALE N. 346 DEL 17.10.2017 SOGGIORNO MARINO ANZIANI 2017. LIQUIDAZIONE FATTURA SOCIETÀ OMEGA SRL. </description>
-			<a10:updated>2017-10-24T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3012736</guid>
-			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3012736</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 24 Oct 2017 02:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 08 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3012736</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINA</category>
-			<title>VERBALE N. 345 DEL 17.10.2017 LIQUIDAZIONE FATTURE GESTIONE AUTOMEZZI </title>
-			<description>VERBALE N. 345 DEL 17.10.2017 LIQUIDAZIONE FATTURE GESTIONE AUTOMEZZI </description>
 			<a10:updated>2017-10-24T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
