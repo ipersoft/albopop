@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 31 Oct 2017 14:30:58 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 31 Oct 2017 15:31:19 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Tue, 31 Oct 2017 14:30:58 +0100</pubDate>
+		<pubDate>Tue, 31 Oct 2017 15:31:19 +0100</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3618024</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3618024</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 31 Oct 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 15 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3618024</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>LUCCA COMICS AND GAMES HEROES 2017. DIVIETO DI COMMERCIO ITINERANTE-SOSTITUZIONE PRECEDENTE PROVVEDIMENTO 1805 DEL 27/10/2017 </title>
+			<description>LUCCA COMICS AND GAMES HEROES 2017. DIVIETO DI COMMERCIO ITINERANTE-SOSTITUZIONE PRECEDENTE PROVVEDIMENTO 1805 DEL 27/10/2017 </description>
+			<a10:updated>2017-10-31T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3617966</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3617966</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 31 Oct 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 15 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3617966</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI E BANDI VARI</category>
+			<title>PRATICA 5985 DI UTILIZZAZIONE ACQUA PUBBLICA INTESTATARIO FONDAZIONE CASSA DI RISPARMIO DI LUCCA </title>
+			<description>PRATICA 5985 DI UTILIZZAZIONE ACQUA PUBBLICA INTESTATARIO FONDAZIONE CASSA DI RISPARMIO DI LUCCA </description>
+			<a10:updated>2017-10-31T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3617964</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3617964</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 31 Oct 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 15 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3617964</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>LUCCA COMICS &amp; GAMES HEROES 2017. DIVIETO COMMERCIO ITINERANTE.- SOSTITUZIONE PRECEDENTE PROVVEDIMENTO 1805 DEL 27/10/2017. </title>
+			<description>LUCCA COMICS &amp; GAMES HEROES 2017. DIVIETO COMMERCIO ITINERANTE.- SOSTITUZIONE PRECEDENTE PROVVEDIMENTO 1805 DEL 27/10/2017. </description>
+			<a10:updated>2017-10-31T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3617786</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3617786</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
 			<title>VIA MONTEGRAPPA,FRAZIONE DI S.CONCORDIO IN C/A,MODIFICHE TEMPORANEE ALLA SOSTA,PER IL 08/11/2017 DALLE ORE 8,00 ALLE ORE 17,00. </title>
 			<description>VIA MONTEGRAPPA,FRAZIONE DI S.CONCORDIO IN C/A,MODIFICHE TEMPORANEE ALLA SOSTA,PER IL 08/11/2017 DALLE ORE 8,00 ALLE ORE 17,00. </description>
-			<a10:updated>2017-10-30T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3613463</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3613463</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 30 Oct 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 14 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3613463</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>PIAZZA S.MICHELE,CENTRO STORICO,MODIFICHE TEMPORANNE ALLA CIRCOLAZIONE VEICOLARE ED ALLA SOSTA,PER IL GIORNO 08/11/20107 DALLE ORE 8,00 ALLE ORE 20,00. </title>
-			<description>PIAZZA S.MICHELE,CENTRO STORICO,MODIFICHE TEMPORANNE ALLA CIRCOLAZIONE VEICOLARE ED ALLA SOSTA,PER IL GIORNO 08/11/20107 DALLE ORE 8,00 ALLE ORE 20,00. </description>
-			<a10:updated>2017-10-30T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3613461</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3613461</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 30 Oct 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 14 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3613461</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>VIA DELLA SS.ANNUNZIATA,FRAZIONE DI PICCIORANA,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE,DAL 06/11/2017 AL 11/11/2017 DALLE ORE 8,00 ALLE ORE 17,00. </title>
-			<description>VIA DELLA SS.ANNUNZIATA,FRAZIONE DI PICCIORANA,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE,DAL 06/11/2017 AL 11/11/2017 DALLE ORE 8,00 ALLE ORE 17,00. </description>
-			<a10:updated>2017-10-30T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3613383</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3613383</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 30 Oct 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 14 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3613383</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>VIA BUIA,CENTRO STORICO,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE,PER IL GIORNO 06/11/2017 DALLE ORE 7,30 ALLE ORE 14,00. </title>
-			<description>VIA BUIA,CENTRO STORICO,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE,PER IL GIORNO 06/11/2017 DALLE ORE 7,30 ALLE ORE 14,00. </description>
 			<a10:updated>2017-10-30T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
