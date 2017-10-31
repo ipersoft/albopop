@@ -5,7 +5,7 @@
 		<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Canosa di Puglia</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 31 Oct 2017 11:31:18 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 31 Oct 2017 12:31:09 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Canosa di Puglia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Barletta-Andria-Trani</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Canosa di Puglia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_canosadipuglia</a10:id>
-		<pubDate>Tue, 31 Oct 2017 11:31:18 +0100</pubDate>
+		<pubDate>Tue, 31 Oct 2017 12:31:09 +0100</pubDate>
 		<docs>http://albopop.it/comune/canosadipuglia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3616800</guid>
+			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3616800</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 31 Oct 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 15 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3616800</category>
+			<category domain="http://albopop.it/specs#item-category-type">DECRETI E ORDINANZE ORDINANZA DIRIGENZIALE</category>
+			<title>ORDINANZA REGOLAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE PER LAVORI DI RISTRUTTURAZIONE FABBRICATO IN VIA FIUME / VIA OBERDAN. </title>
+			<description>ORDINANZA REGOLAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE PER LAVORI DI RISTRUTTURAZIONE FABBRICATO IN VIA FIUME / VIA OBERDAN. </description>
+			<a10:updated>2017-10-31T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3616655</guid>
 			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3616655</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
 			<title>Programma innovativo in ambito urbano. Contratti di Quartiere II. Zona Castello – Lavori di Edilizia residenziale sovvenzionata da assegnare ad anziani e giovani coppie, comprensiva di edilizia sperimentale. Allacci alla rete idrica e fognante cittadina. Predisposizione impiantistica - Accettazione preventivo e affidamento lavori alla Coop Giovanni XXIII </title>
 			<description>Programma innovativo in ambito urbano. Contratti di Quartiere II. Zona Castello – Lavori di Edilizia residenziale sovvenzionata da assegnare ad anziani e giovani coppie, comprensiva di edilizia sperimentale. Allacci alla rete idrica e fognante cittadina. Predisposizione impiantistica - Accettazione preventivo e affidamento lavori alla Coop Giovanni XXIII </description>
-			<a10:updated>2017-10-31T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3615650</guid>
-			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3615650</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 31 Oct 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 15 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3615650</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
-			<title>Contratto di concessione di una zona di terreno nel Cimitero Comunale – Concessione Cimiteriale Sinesi Sabino. Cointestazione Sinesi Sabino e Natale Lorenzo. </title>
-			<description>Contratto di concessione di una zona di terreno nel Cimitero Comunale – Concessione Cimiteriale Sinesi Sabino. Cointestazione Sinesi Sabino e Natale Lorenzo. </description>
 			<a10:updated>2017-10-31T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
