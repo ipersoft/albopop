@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 02 Nov 2017 13:30:46 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 02 Nov 2017 14:30:43 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Thu, 02 Nov 2017 13:30:46 +0100</pubDate>
+		<pubDate>Thu, 02 Nov 2017 14:30:43 +0100</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/792017</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/792017</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 02 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 17 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">792017</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DECRETO DEL SINDACO</category>
+			<title>DIRIGENTE DOTT. MAURIZIO RAFFAELE FRUGIS - CONFERIMENTO DI INCARICO DI RESPONSABILE DEL SERVIZIO FINANZIARIO </title>
+			<description>DIRIGENTE DOTT. MAURIZIO RAFFAELE FRUGIS - CONFERIMENTO DI INCARICO DI RESPONSABILE DEL SERVIZIO FINANZIARIO </description>
+			<a10:updated>2017-11-02T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/791887</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/791887</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>VARIAZIONE AL PIANO ESECUTIVO DI GESTIONE 2017/2019 CONSEGUENTE ALLA VARIAZIONE DI BILANCIO DI CUI ALLA DETERMINAZIONE DIRIGENZIALE N. 2892 DEL 30/10/2017 AD OGGETTO “VARIAZIONI AL BILANCIO FINANZIARIO 2017/2019 PER L’UTILIZZO DI QUOTA DELL’AVANZO DI AMMINISTRAZIONE VINCOLATO E PER L’ADEGUAMENTO DELLE PREVISIONI RIGUARDANTI PARTITE DI GIRO E OPERAZIONI PER CONTO TERZI” </title>
 			<description>VARIAZIONE AL PIANO ESECUTIVO DI GESTIONE 2017/2019 CONSEGUENTE ALLA VARIAZIONE DI BILANCIO DI CUI ALLA DETERMINAZIONE DIRIGENZIALE N. 2892 DEL 30/10/2017 AD OGGETTO “VARIAZIONI AL BILANCIO FINANZIARIO 2017/2019 PER L’UTILIZZO DI QUOTA DELL’AVANZO DI AMMINISTRAZIONE VINCOLATO E PER L’ADEGUAMENTO DELLE PREVISIONI RIGUARDANTI PARTITE DI GIRO E OPERAZIONI PER CONTO TERZI” </description>
-			<a10:updated>2017-10-31T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/790999</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/790999</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 31 Oct 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 15 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">790999</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>COSTRUZIONE NUOVA SCUOLA SECONDARIA DI PRIMO GRADO IN VIA LAMARMORA. RIAPPROVAZIONE CAPITOLATO SPECIALE D’APPALTO E PIANO DI SICUREZZA E COORDINAMENTO. APPROVAZIONE SCHEMA DI CONTRATTO </title>
-			<description>COSTRUZIONE NUOVA SCUOLA SECONDARIA DI PRIMO GRADO IN VIA LAMARMORA. RIAPPROVAZIONE CAPITOLATO SPECIALE D’APPALTO E PIANO DI SICUREZZA E COORDINAMENTO. APPROVAZIONE SCHEMA DI CONTRATTO </description>
 			<a10:updated>2017-10-31T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
