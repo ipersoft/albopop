@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 02 Nov 2017 10:31:30 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 02 Nov 2017 11:31:48 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Thu, 02 Nov 2017 10:31:30 +0100</pubDate>
+		<pubDate>Thu, 02 Nov 2017 11:31:48 +0100</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3023954</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3023954</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 02 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 21 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3023954</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO</category>
+			<title>BOLLETTINO VENDITE MOBILIARI DEL 20/11/2017 - TRIBUNALE DI RAGUSA </title>
+			<description>BOLLETTINO VENDITE MOBILIARI DEL 20/11/2017 - TRIBUNALE DI RAGUSA </description>
+			<a10:updated>2017-11-02T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3023953</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3023953</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 02 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 03 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3023953</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO CARTELLE ESATTORIALI ART. 140</category>
+			<title>PUBBLICAZIONE ART.140 A CARICO DI TRE S ONLUS - SERVIZI SANITARI SICILIANI ED ALTRI </title>
+			<description>PUBBLICAZIONE ART.140 A CARICO DI TRE S ONLUS - SERVIZI SANITARI SICILIANI ED ALTRI </description>
+			<a10:updated>2017-11-02T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3023952</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3023952</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 02 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 10 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3023952</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO CARTELLA ESATTORIALE ART. 60 D.P.R. 600/73</category>
+			<title>PUBBLICAZIONE ART.60 A CARICO DI RAGONA MASSIMILIANO, DISTEFANO DANIELA </title>
+			<description>PUBBLICAZIONE ART.60 A CARICO DI RAGONA MASSIMILIANO, DISTEFANO DANIELA </description>
+			<a10:updated>2017-11-02T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3023560</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3023560</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">AVVISO CARTELLA ESATTORIALE ART. 60 D.P.R. 600/73</category>
 			<title>PUBBLICAZIONE ART.60 A CARICO DI BOSCARINO MOBILI SRL, BARONE RAFFAELE </title>
 			<description>PUBBLICAZIONE ART.60 A CARICO DI BOSCARINO MOBILI SRL, BARONE RAFFAELE </description>
-			<a10:updated>2017-10-31T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3022212</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3022212</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 31 Oct 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 08 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3022212</category>
-			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO ATTO DI MATRIMONIO</category>
-			<title>PUBBLICAZIONE ATTO DI MATRIMONIO A NOME DI ATTANASIO GIUSEPPE, CAMPO IOLE </title>
-			<description>PUBBLICAZIONE ATTO DI MATRIMONIO A NOME DI ATTANASIO GIUSEPPE, CAMPO IOLE </description>
-			<a10:updated>2017-10-31T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3022211</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3022211</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 31 Oct 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 20 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3022211</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISO MANIFESTAZIONE D'INTERESSE</category>
-			<title>MANIFESTAZIONE DI INTERESSE - ALBO FORNITORI DEI LAVORI DEI SERVIZI E DELLE FORNITURE CATEGORIE MERCEOLOGICHE </title>
-			<description>MANIFESTAZIONE DI INTERESSE - ALBO FORNITORI DEI LAVORI DEI SERVIZI E DELLE FORNITURE CATEGORIE MERCEOLOGICHE </description>
-			<a10:updated>2017-10-31T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3021696</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3021696</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 31 Oct 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 07 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3021696</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
-			<title>COSTITUZIONE FONDO PER ACQUISTO LIBRI </title>
-			<description>COSTITUZIONE FONDO PER ACQUISTO LIBRI </description>
 			<a10:updated>2017-10-31T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
