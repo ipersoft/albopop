@@ -5,7 +5,7 @@
 		<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bernareggio</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 02 Nov 2017 11:31:11 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 02 Nov 2017 12:31:06 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bernareggio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bernareggio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bernareggio</a10:id>
-		<pubDate>Thu, 02 Nov 2017 11:31:11 +0100</pubDate>
+		<pubDate>Thu, 02 Nov 2017 12:31:06 +0100</pubDate>
 		<docs>http://albopop.it/comune/bernareggio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3619642</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3619642</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 02 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 30 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3619642</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI</category>
+			<title>POSTA CERTIFICATA: RICHIESTA PUBBLICAZIONE: 1 POSTO DI ISTRUTTORE SPECIALISTICO AMMINISTRATIVO CATEGORIA GIURIDICA D1; - NÂ° 1 POSTO DI ASSISTENTE AMMINISTRATIVO CATEGORIA C; - NÂ° 1 POSTO DI ASSISTENTE AMMINISTRATIVO CATEGORIA C DA ASSEGNARE AI SERVIZI DEMOGRAFICI </title>
+			<description>POSTA CERTIFICATA: RICHIESTA PUBBLICAZIONE: 1 POSTO DI ISTRUTTORE SPECIALISTICO AMMINISTRATIVO CATEGORIA GIURIDICA D1; - NÂ° 1 POSTO DI ASSISTENTE AMMINISTRATIVO CATEGORIA C; - NÂ° 1 POSTO DI ASSISTENTE AMMINISTRATIVO CATEGORIA C DA ASSEGNARE AI SERVIZI DEMOGRAFICI </description>
+			<a10:updated>2017-11-02T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3618696</guid>
 			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3618696</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>CIG: Z162080CFF - AGGIORNAMENTO SISTEMA SICRA WEB - SERVIZI ON LINE - PIANO INFORMATIZZAZIONE - CARTA IDENTITA' ELETTRONICA MEDIANTE AFFIDAMENTO DIRETTO MEPA </title>
 			<description>CIG: Z162080CFF - AGGIORNAMENTO SISTEMA SICRA WEB - SERVIZI ON LINE - PIANO INFORMATIZZAZIONE - CARTA IDENTITA' ELETTRONICA MEDIANTE AFFIDAMENTO DIRETTO MEPA </description>
-			<a10:updated>2017-10-27T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3610558</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3610558</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 27 Oct 2017 02:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 11 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3610558</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>RESTITUZIONE SOMMA A SEGUITO DI ERRONEO VERSAMENTO SERVIZI CIMITERIALI </title>
-			<description>RESTITUZIONE SOMMA A SEGUITO DI ERRONEO VERSAMENTO SERVIZI CIMITERIALI </description>
 			<a10:updated>2017-10-27T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
