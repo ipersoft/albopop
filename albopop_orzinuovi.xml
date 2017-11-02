@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 02 Nov 2017 14:30:43 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 02 Nov 2017 15:30:40 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Thu, 02 Nov 2017 14:30:43 +0100</pubDate>
+		<pubDate>Thu, 02 Nov 2017 15:30:40 +0100</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3024613</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3024613</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 02 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 16 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3024613</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
+			<title>AFFIDAMENTO INCARICO PER LO SVOLGIMENTO DI SPETTACOLI DA INSERIRE NELLA STAGIONE TEATRALE “SI FA SERA” PROPOSTA DA “TEATRO DEL VIALE” </title>
+			<description>AFFIDAMENTO INCARICO PER LO SVOLGIMENTO DI SPETTACOLI DA INSERIRE NELLA STAGIONE TEATRALE “SI FA SERA” PROPOSTA DA “TEATRO DEL VIALE” </description>
+			<a10:updated>2017-11-02T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3024048</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3024048</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
 			<title>CONCESSIONE DEL PATROCINIO COMUNALE PER LA PRESENTAZIONE DEL LIBRO “SERA DI FESTA”, DI MARIA ANTONELLA MANENTI </title>
 			<description>CONCESSIONE DEL PATROCINIO COMUNALE PER LA PRESENTAZIONE DEL LIBRO “SERA DI FESTA”, DI MARIA ANTONELLA MANENTI </description>
-			<a10:updated>2017-10-30T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3020713</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3020713</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 30 Oct 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 13 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3020713</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>CONCESSIONE DEL PATROCINIO COMUNALE AL CENTRO DIURNO ANZIANI PER LA REALIZZAZIONE DELLA 33° EDIZIONE DI “CANTAREINSIEME” </title>
-			<description>CONCESSIONE DEL PATROCINIO COMUNALE AL CENTRO DIURNO ANZIANI PER LA REALIZZAZIONE DELLA 33° EDIZIONE DI “CANTAREINSIEME” </description>
 			<a10:updated>2017-10-30T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
