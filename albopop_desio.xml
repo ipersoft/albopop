@@ -5,7 +5,7 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/igrid/1233682</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Desio</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 02 Nov 2017 16:30:38 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 02 Nov 2017 17:30:39 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Desio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Desio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_desio</a10:id>
-		<pubDate>Thu, 02 Nov 2017 16:30:38 +0100</pubDate>
+		<pubDate>Thu, 02 Nov 2017 17:30:39 +0100</pubDate>
 		<docs>http://albopop.it/comune/desio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3620673</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3620673</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 02 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 17 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3620673</category>
+			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI GIUNTA</category>
+			<title>SERVIZIO DI IGIENE URBANA. GARA A DOPPIO OGGETTO PER LA SCELTA DEL SOCIO PRIVATO DI GELSIA AMBIENTE S.R.L. ESPLETAMENTO NUOVA PROCEDURA DI GARA AD EVIDENZA PUBBLICA PER IL TRAMITE DELLA CENTRALE UNICA DI COMMITTENZA DELLA PROVINCIA DI MONZA E DELLA BRIANZA, PROROGA DELL’ATTUALE CONTRATTO </title>
+			<description>SERVIZIO DI IGIENE URBANA. GARA A DOPPIO OGGETTO PER LA SCELTA DEL SOCIO PRIVATO DI GELSIA AMBIENTE S.R.L. ESPLETAMENTO NUOVA PROCEDURA DI GARA AD EVIDENZA PUBBLICA PER IL TRAMITE DELLA CENTRALE UNICA DI COMMITTENZA DELLA PROVINCIA DI MONZA E DELLA BRIANZA, PROROGA DELL’ATTUALE CONTRATTO </description>
+			<a10:updated>2017-11-02T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3620414</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3620414</link>
@@ -228,17 +239,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>ONERI DERIVANTI DALLA FREQUENZA DEI MINORI M.R. E K.H. PRESSO L'ASSOCIAZIONE COMUNITÀ "IL GABBIANO" SU MANDATO DELL'AUTORITÀ GIUDIZIARIA - IMPEGNO DI SPESA PERIODO DAL 25 SETTEMBRE 2017 AL 31 DICEMBRE 2017 - € 11.000,00 </title>
 			<description>ONERI DERIVANTI DALLA FREQUENZA DEI MINORI M.R. E K.H. PRESSO L'ASSOCIAZIONE COMUNITÀ "IL GABBIANO" SU MANDATO DELL'AUTORITÀ GIUDIZIARIA - IMPEGNO DI SPESA PERIODO DAL 25 SETTEMBRE 2017 AL 31 DICEMBRE 2017 - € 11.000,00 </description>
-			<a10:updated>2017-10-30T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3612918</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3612918</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 30 Oct 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 14 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3612918</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>AFFIDO MINORI A FAMIGLIE ANNO 2017 - ASSUNZIONE IMPEGNO DI SPESA DAL 01 OTTOBRE 2017 AL 31 DICEMBRE 2017 - € 13.120,50 </title>
-			<description>AFFIDO MINORI A FAMIGLIE ANNO 2017 - ASSUNZIONE IMPEGNO DI SPESA DAL 01 OTTOBRE 2017 AL 31 DICEMBRE 2017 - € 13.120,50 </description>
 			<a10:updated>2017-10-30T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

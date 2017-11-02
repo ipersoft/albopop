@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 02 Nov 2017 16:31:15 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 02 Nov 2017 17:31:11 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Thu, 02 Nov 2017 16:31:15 +0100</pubDate>
+		<pubDate>Thu, 02 Nov 2017 17:31:11 +0100</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3620632</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3620632</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 02 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 17 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3620632</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>PROVVEDITORATO - ATTI INERENTI E CONSEGUENTI L’AFFIDAMENTO DELLA FORNITURA DI CANCELLERIA - LOTTO 1, CARTA E AFFINI, ARCHIVIO E ORGANIZZAZIONE, CIG: ZD61CD1F4A E LOTTO 2, ACCESSORI PER UFFICIO, SCRITTURA E PER L'INFORMATICA, CIG: ZAE1CD1F4B - DISPOSTO CON D.D. N. N. 439 DEL 23/03/2017 - ESERCIZIO DIRITTO DI OPZIONE PER L’ANNO 2018 (COD. FAMIGLIA 05) </title>
+			<description>PROVVEDITORATO - ATTI INERENTI E CONSEGUENTI L’AFFIDAMENTO DELLA FORNITURA DI CANCELLERIA - LOTTO 1, CARTA E AFFINI, ARCHIVIO E ORGANIZZAZIONE, CIG: ZD61CD1F4A E LOTTO 2, ACCESSORI PER UFFICIO, SCRITTURA E PER L'INFORMATICA, CIG: ZAE1CD1F4B - DISPOSTO CON D.D. N. N. 439 DEL 23/03/2017 - ESERCIZIO DIRITTO DI OPZIONE PER L’ANNO 2018 (COD. FAMIGLIA 05) </description>
+			<a10:updated>2017-11-02T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3620371</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3620371</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI GIUNTA</category>
 			<title>RECINZIONE DELL'AIUOLA DI PIAZZA SAN GREGORIO - APPROVAZIONE PROGETTO DEFINITIVO-ESECUTIVO E SCHEMA DI CONVENZIONE CON SISTEMA AMBIENTE SPA. </title>
 			<description>RECINZIONE DELL'AIUOLA DI PIAZZA SAN GREGORIO - APPROVAZIONE PROGETTO DEFINITIVO-ESECUTIVO E SCHEMA DI CONVENZIONE CON SISTEMA AMBIENTE SPA. </description>
-			<a10:updated>2017-10-31T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3618024</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3618024</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 31 Oct 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 15 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3618024</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>LUCCA COMICS AND GAMES HEROES 2017. DIVIETO DI COMMERCIO ITINERANTE-SOSTITUZIONE PRECEDENTE PROVVEDIMENTO 1805 DEL 27/10/2017 </title>
-			<description>LUCCA COMICS AND GAMES HEROES 2017. DIVIETO DI COMMERCIO ITINERANTE-SOSTITUZIONE PRECEDENTE PROVVEDIMENTO 1805 DEL 27/10/2017 </description>
 			<a10:updated>2017-10-31T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
