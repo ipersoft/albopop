@@ -5,7 +5,7 @@
 		<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Canosa di Puglia</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 02 Nov 2017 09:30:55 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 02 Nov 2017 10:31:09 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Canosa di Puglia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Barletta-Andria-Trani</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Canosa di Puglia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_canosadipuglia</a10:id>
-		<pubDate>Thu, 02 Nov 2017 09:30:55 +0100</pubDate>
+		<pubDate>Thu, 02 Nov 2017 10:31:09 +0100</pubDate>
 		<docs>http://albopop.it/comune/canosadipuglia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3618852</guid>
+			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3618852</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 02 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 17 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3618852</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
+			<title>POSTA CERTIFICATA: RICHIESTA PUBBLICAZIONE ATTI. </title>
+			<description>POSTA CERTIFICATA: RICHIESTA PUBBLICAZIONE ATTI. </description>
+			<a10:updated>2017-11-02T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3618475</guid>
 			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3618475</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
 			<title>Ricorso in Appello avverso la Sentenza n. 618/2017 del Tribunale di Trani Sez. Lavoro promosso da un dipendente comunale. Assunzione spesa e liquidazione acconto onorario in favore dell'avv.Luciano Garofalo. </title>
 			<description>Ricorso in Appello avverso la Sentenza n. 618/2017 del Tribunale di Trani Sez. Lavoro promosso da un dipendente comunale. Assunzione spesa e liquidazione acconto onorario in favore dell'avv.Luciano Garofalo. </description>
-			<a10:updated>2017-10-31T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3615678</guid>
-			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3615678</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 31 Oct 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 15 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3615678</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
-			<title>GESTIONE INTEGRATA DEGLI IMPIANTI DI PUBBLICA ILLUMINAZIONE. ASSUNZIONE SPESA DI EURO 40.000,00 PER FRONTEGGIARE IL PAGAMENTO DEI CORRISPETTIVI DOVUTI ALLA SOCIETA ENEL SOLE </title>
-			<description>GESTIONE INTEGRATA DEGLI IMPIANTI DI PUBBLICA ILLUMINAZIONE. ASSUNZIONE SPESA DI EURO 40.000,00 PER FRONTEGGIARE IL PAGAMENTO DEI CORRISPETTIVI DOVUTI ALLA SOCIETA ENEL SOLE </description>
 			<a10:updated>2017-10-31T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
