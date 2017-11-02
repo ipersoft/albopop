@@ -5,7 +5,7 @@
 		<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bernareggio</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 01 Nov 2017 18:30:57 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 02 Nov 2017 08:30:57 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bernareggio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bernareggio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bernareggio</a10:id>
-		<pubDate>Wed, 01 Nov 2017 18:30:57 +0100</pubDate>
+		<pubDate>Thu, 02 Nov 2017 08:30:57 +0100</pubDate>
 		<docs>http://albopop.it/comune/bernareggio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -108,6 +108,17 @@
 			<title>NOMINA COMMISSIONE GIUDICATRICE PER L’AFFIDAMENTO DELL’INCARICO PER LA REDAZIONE DI UNA VARIANTE PARZIALE AL P.G.T. VIGENTE E RELATIVA VERIFICA DI ASSOGGETTABILITA' ALLA V.A.S. SULLE AREE OGGETTO DI VARIANTE </title>
 			<description>NOMINA COMMISSIONE GIUDICATRICE PER L’AFFIDAMENTO DELL’INCARICO PER LA REDAZIONE DI UNA VARIANTE PARZIALE AL P.G.T. VIGENTE E RELATIVA VERIFICA DI ASSOGGETTABILITA' ALLA V.A.S. SULLE AREE OGGETTO DI VARIANTE </description>
 			<a10:updated>2017-10-31T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3616716</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3616716</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 02 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 02 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3616716</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI</category>
+			<title>POSTA CERTIFICATA: ELEZIONI CONSORTILI 1-2 DICEMBRE 2017 </title>
+			<description>POSTA CERTIFICATA: ELEZIONI CONSORTILI 1-2 DICEMBRE 2017 </description>
+			<a10:updated>2017-11-02T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3615931</guid>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>CIG: Z752068005 - APPROVAZIONE OFFERTA FORMULATA IN TRATTATIVA PRIVATA MEDIANTE ME.PA DI CONSIP PER LA FORNITURA E POSA DI TRANSENNE PARAPEDONE DA INSTALLARSI SULLA RETE STRADALE DI BERNAREGGIO DI CUI AL PUNTO 3.2.1.5 DEL PEG 2017 </title>
 			<description>CIG: Z752068005 - APPROVAZIONE OFFERTA FORMULATA IN TRATTATIVA PRIVATA MEDIANTE ME.PA DI CONSIP PER LA FORNITURA E POSA DI TRANSENNE PARAPEDONE DA INSTALLARSI SULLA RETE STRADALE DI BERNAREGGIO DI CUI AL PUNTO 3.2.1.5 DEL PEG 2017 </description>
-			<a10:updated>2017-10-27T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3610551</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3610551</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 27 Oct 2017 02:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 11 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3610551</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>CIG:Z0317A46C4 - PROROGA INCARICO SERVIZIO DI RECAPITO DELLA CORRISPONDENZA SINO AL 31/12/2017 </title>
-			<description>CIG:Z0317A46C4 - PROROGA INCARICO SERVIZIO DI RECAPITO DELLA CORRISPONDENZA SINO AL 31/12/2017 </description>
 			<a10:updated>2017-10-27T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

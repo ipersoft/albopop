@@ -5,7 +5,7 @@
 		<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Viterbo</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 01 Nov 2017 18:30:51 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 02 Nov 2017 08:30:50 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Viterbo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Viterbo</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Viterbo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_viterbo</a10:id>
-		<pubDate>Wed, 01 Nov 2017 18:30:51 +0100</pubDate>
+		<pubDate>Thu, 02 Nov 2017 08:30:50 +0100</pubDate>
 		<docs>http://albopop.it/comune/viterbo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -41,17 +41,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">CONSORZI STRADALI </category>
 			<title>DELIBERE N. 1/2 DEL CONSORZIO STRADALE NAPOLINO "APPROVAZIONE BILANCIO CONSUNTIVO ESERCIZIO 2016 E PREVENTIVO ESERCIZIO 2017". </title>
 			<description>DELIBERE N. 1/2 DEL CONSORZIO STRADALE NAPOLINO "APPROVAZIONE BILANCIO CONSUNTIVO ESERCIZIO 2016 E PREVENTIVO ESERCIZIO 2017". </description>
-			<a10:updated>2017-10-31T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3617983</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3617983</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 31 Oct 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 01 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3617983</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI </category>
-			<title>AVVISO DI DEPOSITO ATTI - AGENZIA ENTRATE RISCOSSIONI </title>
-			<description>AVVISO DI DEPOSITO ATTI - AGENZIA ENTRATE RISCOSSIONI </description>
 			<a10:updated>2017-10-31T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
@@ -294,6 +283,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
 			<title>AFFIDAMENTO DI LAVORI DI REALIZZAZIONE, MANUTENZIONE, POSA IN OPERA E FORNITURA DI SEGNALETICA STRADALE ORIZZONTALE E VERTICALE SUL TERRITORIO DEL COMUNE DI VITERBO. PROPOSTA DI AGGIUDICAZIONE. CIG: Z5B1EE4B50 </title>
 			<description>AFFIDAMENTO DI LAVORI DI REALIZZAZIONE, MANUTENZIONE, POSA IN OPERA E FORNITURA DI SEGNALETICA STRADALE ORIZZONTALE E VERTICALE SUL TERRITORIO DEL COMUNE DI VITERBO. PROPOSTA DI AGGIUDICAZIONE. CIG: Z5B1EE4B50 </description>
+			<a10:updated>2017-11-01T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3616144</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3616144</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 01 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 16 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3616144</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
+			<title>SENTENZA GIUDICE DI PACE DI VITERBO N. 124/2017 </title>
+			<description>SENTENZA GIUDICE DI PACE DI VITERBO N. 124/2017 </description>
 			<a10:updated>2017-11-01T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
