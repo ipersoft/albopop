@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 02 Nov 2017 12:31:47 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 02 Nov 2017 13:31:07 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Thu, 02 Nov 2017 12:31:47 +0100</pubDate>
+		<pubDate>Thu, 02 Nov 2017 13:31:07 +0100</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3024272</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3024272</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 02 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 17 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3024272</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>VARIAZIONE DI P.E.G., PER ASSESTAMENTO DI CASSA, ASSEGNATO AL SETTORE IV-LL.P.. </title>
+			<description>VARIAZIONE DI P.E.G., PER ASSESTAMENTO DI CASSA, ASSEGNATO AL SETTORE IV-LL.P.. </description>
+			<a10:updated>2017-11-02T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3023769</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3023769</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DI GIUNTA DELIBERA DI GIUNTA</category>
 			<title>ASSEGNAZIONE TEMPORANEA MEDIANTE UTILIZZO IN POSIZIONE DI COMANDO DEL DIPENDENTE ING. SALVATORE ROSSI PRESSO IL COMUNE DI MONTE DI PROCIDA - NULLA OSTA. </title>
 			<description>ASSEGNAZIONE TEMPORANEA MEDIANTE UTILIZZO IN POSIZIONE DI COMANDO DEL DIPENDENTE ING. SALVATORE ROSSI PRESSO IL COMUNE DI MONTE DI PROCIDA - NULLA OSTA. </description>
-			<a10:updated>2017-10-30T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3020912</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3020912</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 30 Oct 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 14 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3020912</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DI GIUNTA DELIBERA DI GIUNTA</category>
-			<title>ELIMINAZIONE FASCICOLI ELETTORALI CITTADINI CANCELLATI NEGLI ANNI: 1993 / 2000 / 2001 / 2003 / 2004 / 2005 / 2006 / 2007 / 2008 / 2009 / 2010 / 2011 E FINO A TUTTO SETTEMBRE 2012=. </title>
-			<description>ELIMINAZIONE FASCICOLI ELETTORALI CITTADINI CANCELLATI NEGLI ANNI: 1993 / 2000 / 2001 / 2003 / 2004 / 2005 / 2006 / 2007 / 2008 / 2009 / 2010 / 2011 E FINO A TUTTO SETTEMBRE 2012=. </description>
 			<a10:updated>2017-10-30T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
