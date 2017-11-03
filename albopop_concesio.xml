@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 03 Nov 2017 08:30:39 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 03 Nov 2017 09:30:35 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Fri, 03 Nov 2017 08:30:39 +0100</pubDate>
+		<pubDate>Fri, 03 Nov 2017 09:30:35 +0100</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3621115</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3621115</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 03 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 18 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3621115</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
+			<title>Processione "Festa di San Martino" 2017 </title>
+			<description>Processione "Festa di San Martino" 2017 </description>
+			<a10:updated>2017-11-03T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3620401</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3620401</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">BANDI DI GARA E CONTRATTI BANDI DI GARA</category>
 			<title>PROCEDURA APERTA IN FORMA AGGREGATA PER L’AFFIDAMENTO IN CONCESSIONE MEDIANTE PROJECT FINANCING DELLA PROGETTAZIONE DEFINITIVA, ESECUTIVA ED ESECUZIONE DEI LAVORI DI ADEGUAMENTO E MESSA A NORMA DEGLI IMPIANTI DI PUBBLICA ILLUMINAZIONE, CON ANNESSA GESTIONE, ESERCIZIO, MANUTENZIONE ORDINARIA, PROGRAMMATA E STRAORDINARIA, IVI COMPRESA LA FORNITURA DI ENERGIA ELETTRICA - CIG 719305371C. </title>
 			<description>PROCEDURA APERTA IN FORMA AGGREGATA PER L’AFFIDAMENTO IN CONCESSIONE MEDIANTE PROJECT FINANCING DELLA PROGETTAZIONE DEFINITIVA, ESECUTIVA ED ESECUZIONE DEI LAVORI DI ADEGUAMENTO E MESSA A NORMA DEGLI IMPIANTI DI PUBBLICA ILLUMINAZIONE, CON ANNESSA GESTIONE, ESERCIZIO, MANUTENZIONE ORDINARIA, PROGRAMMATA E STRAORDINARIA, IVI COMPRESA LA FORNITURA DI ENERGIA ELETTRICA - CIG 719305371C. </description>
-			<a10:updated>2017-10-27T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3611582</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3611582</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 27 Oct 2017 02:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 16 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3611582</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI DEPOSITO - ART. 143 C.P.C.</category>
-			<title>MESSO COMUNALE: NOTIFICA N. 707/2017 DEL 27/10/2017 - SCARICATA MEHMOOD ARSHAD - SEVEN STAR </title>
-			<description>MESSO COMUNALE: NOTIFICA N. 707/2017 DEL 27/10/2017 - SCARICATA MEHMOOD ARSHAD - SEVEN STAR </description>
 			<a10:updated>2017-10-27T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

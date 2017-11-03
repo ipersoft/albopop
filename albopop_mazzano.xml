@@ -5,7 +5,7 @@
 		<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mazzano</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 03 Nov 2017 08:31:45 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 03 Nov 2017 09:31:31 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mazzano</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mazzano</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mazzano</a10:id>
-		<pubDate>Fri, 03 Nov 2017 08:31:45 +0100</pubDate>
+		<pubDate>Fri, 03 Nov 2017 09:31:31 +0100</pubDate>
 		<docs>http://albopop.it/comune/mazzano/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3621132</guid>
+			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3621132</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 03 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 18 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3621132</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>MODIFICA TEMPORANEA ALLA VIABILITA' SULLA SP116, DENOMINATA VIA GARDESANA ALL'INTERSEZIONE CON VIA FILIPPINA NEL COMUNE DI MAZZANO DAL GIORNO 6.11.2017 AL GIORNO 10.11.2017 </title>
+			<description>MODIFICA TEMPORANEA ALLA VIABILITA' SULLA SP116, DENOMINATA VIA GARDESANA ALL'INTERSEZIONE CON VIA FILIPPINA NEL COMUNE DI MAZZANO DAL GIORNO 6.11.2017 AL GIORNO 10.11.2017 </description>
+			<a10:updated>2017-11-03T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3618446</guid>
 			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3618446</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
 			<title>REFERENDUM REGIONALE DEL 22 OTTOBRE 2017. DETERMINAZIONE A CONTRATTARE ED AFFIDAMENTO DIRETTO PULIZIA SEGGI ELETTORALI </title>
 			<description>REFERENDUM REGIONALE DEL 22 OTTOBRE 2017. DETERMINAZIONE A CONTRATTARE ED AFFIDAMENTO DIRETTO PULIZIA SEGGI ELETTORALI </description>
-			<a10:updated>2017-10-25T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3604232</guid>
-			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3604232</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 25 Oct 2017 02:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 09 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3604232</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
-			<title>DETERMINA A CONTRATTARE, AI SENSI DELL’ART. 32, COMMA 2, DEL D.LGS. N. 50/2016, PER L’AFFIDAMENTO DIRETTO DEL SERVIZIO DI SERVER CLOUD PER IL CORRETTO FUNZIONAMENTO DELLA RETE WIFI INSTALLATA PRESSO GLI EDIFICI SCOLASTICI ED ALCUNI IMMOBILI COMUNALI DEI COMUNI DELL’AGGREGAZIONE </title>
-			<description>DETERMINA A CONTRATTARE, AI SENSI DELL’ART. 32, COMMA 2, DEL D.LGS. N. 50/2016, PER L’AFFIDAMENTO DIRETTO DEL SERVIZIO DI SERVER CLOUD PER IL CORRETTO FUNZIONAMENTO DELLA RETE WIFI INSTALLATA PRESSO GLI EDIFICI SCOLASTICI ED ALCUNI IMMOBILI COMUNALI DEI COMUNI DELL’AGGREGAZIONE </description>
 			<a10:updated>2017-10-25T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
