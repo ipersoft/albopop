@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 03 Nov 2017 12:35:34 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 03 Nov 2017 13:31:22 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Fri, 03 Nov 2017 12:35:34 +0100</pubDate>
+		<pubDate>Fri, 03 Nov 2017 13:31:22 +0100</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3026219</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3026219</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 03 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 04 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3026219</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI ATTI DIVERSI</category>
+			<title>AVVISO DI SELEZIONE PUBBLICA PROFILO MAESTRA DI SCUOLA MATERNA - CATEGORIA C </title>
+			<description>AVVISO DI SELEZIONE PUBBLICA PROFILO MAESTRA DI SCUOLA MATERNA - CATEGORIA C </description>
+			<a10:updated>2017-11-03T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3026218</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3026218</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 03 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 04 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3026218</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI ATTI DIVERSI</category>
+			<title>AVVISO DI CONCORSO PUBBLICO PER UN POSTO DI "CONSERVATORE" A TEMPO PIENO E DETERMINATO - CAT. D </title>
+			<description>AVVISO DI CONCORSO PUBBLICO PER UN POSTO DI "CONSERVATORE" A TEMPO PIENO E DETERMINATO - CAT. D </description>
+			<a10:updated>2017-11-03T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3026010</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3026010</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 03 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 18 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3026010</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE PERMESSI DI COSTRUIRE</category>
+			<title>PERMESSO DI COSTRUIRE N. 98 DEL 02/11/2017 PRATICA U.T. 727/2017 PER LAVORI DI EDILIZIA PRODUTTIVA IN VIA A. GRANDI N. 5 - IMPRESA: SEMPERFLEX ROITER S.R.L. </title>
+			<description>PERMESSO DI COSTRUIRE N. 98 DEL 02/11/2017 PRATICA U.T. 727/2017 PER LAVORI DI EDILIZIA PRODUTTIVA IN VIA A. GRANDI N. 5 - IMPRESA: SEMPERFLEX ROITER S.R.L. </description>
+			<a10:updated>2017-11-03T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3025819</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3025819</link>
@@ -262,39 +295,6 @@
 			<title>LIQUIDAZIONE PARTE DEL PERSONALE ARTISTICO IMPEGNATO PER L'OPERA LIRICA LA BOHEME. </title>
 			<description>LIQUIDAZIONE PARTE DEL PERSONALE ARTISTICO IMPEGNATO PER L'OPERA LIRICA LA BOHEME. </description>
 			<a10:updated>2017-11-02T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3023364</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3023364</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 31 Oct 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 15 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3023364</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE ORDINANZE</category>
-			<title>ORDINANZA PER LA DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA SANTA CATERINA PER LAVORI DI SOSTITUZIONE DELLA TUBAZIONE DEL CANALE CONSORZIALE “CONDUTTELLA” DI ROVERDICRE' DAL 06/11/2017 AL 09/11/2017 </title>
-			<description>ORDINANZA PER LA DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA SANTA CATERINA PER LAVORI DI SOSTITUZIONE DELLA TUBAZIONE DEL CANALE CONSORZIALE “CONDUTTELLA” DI ROVERDICRE' DAL 06/11/2017 AL 09/11/2017 </description>
-			<a10:updated>2017-10-31T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3023361</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3023361</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 31 Oct 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 15 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3023361</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>LIQUIDAZIONE FATTURA N.34/PA/2017 DEL 31.08.2017, EMESSA DALLA DITTA DALL'AGLIO SRL DI ROVIGO, PER FORNITURA GAS METANO PER AUTOTRAZIONE A N.5 AUTOMEZZI COMUNALI. MESE DI AGOSTO 2017. </title>
-			<description>LIQUIDAZIONE FATTURA N.34/PA/2017 DEL 31.08.2017, EMESSA DALLA DITTA DALL'AGLIO SRL DI ROVIGO, PER FORNITURA GAS METANO PER AUTOTRAZIONE A N.5 AUTOMEZZI COMUNALI. MESE DI AGOSTO 2017. </description>
-			<a10:updated>2017-10-31T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3023358</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3023358</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 31 Oct 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 15 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3023358</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>LIQUIDAZIONE N.4 FATTURE NN.64-65-66-67 SETTEMBRE 2017, EMESSE DALLA DITTA NUOVA AUTOFFICINA TRIESTE DI ROVIGO, PER MANUTENZIONE MECCANICA DI N.4 MEZZI COMUNALI, IN DOTAZIONE AL SETTORE SICUREZZA. ANNO 2017. </title>
-			<description>LIQUIDAZIONE N.4 FATTURE NN.64-65-66-67 SETTEMBRE 2017, EMESSE DALLA DITTA NUOVA AUTOFFICINA TRIESTE DI ROVIGO, PER MANUTENZIONE MECCANICA DI N.4 MEZZI COMUNALI, IN DOTAZIONE AL SETTORE SICUREZZA. ANNO 2017. </description>
-			<a10:updated>2017-10-31T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>

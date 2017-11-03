@@ -5,7 +5,7 @@
 		<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Busnago</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 03 Nov 2017 11:31:17 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 03 Nov 2017 13:30:54 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Busnago</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Busnago</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_busnago</a10:id>
-		<pubDate>Fri, 03 Nov 2017 11:31:17 +0100</pubDate>
+		<pubDate>Fri, 03 Nov 2017 13:30:54 +0100</pubDate>
 		<docs>http://albopop.it/comune/busnago/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3622073</guid>
+			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3622073</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 03 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 18 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3622073</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO ORDINANZA PER LA DISCIPLINA DELLA CIRCOLAZIONE STRADALE</category>
+			<title>ORDINANZA PER LA DISCIPLINA DEL TRAFFICO IN OCCASIONE DEI FESTEGGIAMENTI DEI 30 ANNI DIFONDAZIONE DEL GRUPPO SBANDIERATORI "TORRE DEI GERMANI" </title>
+			<description>ORDINANZA PER LA DISCIPLINA DEL TRAFFICO IN OCCASIONE DEI FESTEGGIAMENTI DEI 30 ANNI DIFONDAZIONE DEL GRUPPO SBANDIERATORI "TORRE DEI GERMANI" </description>
+			<a10:updated>2017-11-03T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3615293</guid>
 			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3615293</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DELIBERA DI GIUNTA </category>
 			<title>CONCESSIONE PATROCINIO GRATUITO AL GRUPPO ALPINI BUSNAGO PER CASTAGNATA IN DATA 28/10/2017 </title>
 			<description>CONCESSIONE PATROCINIO GRATUITO AL GRUPPO ALPINI BUSNAGO PER CASTAGNATA IN DATA 28/10/2017 </description>
-			<a10:updated>2017-10-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3584781</guid>
-			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3584781</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Sun, 22 Oct 2017 02:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 06 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3584781</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DELIBERA DI GIUNTA </category>
-			<title>INDIVIDUAZIONE DELLE COMPONENTI LA COMMISSIONE PER IL DIRITTO ALLO STUDIO. </title>
-			<description>INDIVIDUAZIONE DELLE COMPONENTI LA COMMISSIONE PER IL DIRITTO ALLO STUDIO. </description>
 			<a10:updated>2017-10-22T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
