@@ -5,7 +5,7 @@
 		<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Viterbo</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 03 Nov 2017 13:30:45 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 03 Nov 2017 14:31:06 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Viterbo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Viterbo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Viterbo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_viterbo</a10:id>
-		<pubDate>Fri, 03 Nov 2017 13:30:45 +0100</pubDate>
+		<pubDate>Fri, 03 Nov 2017 14:31:06 +0100</pubDate>
 		<docs>http://albopop.it/comune/viterbo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3623036</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3623036</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 03 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 18 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3623036</category>
+			<category domain="http://albopop.it/specs#item-category-type">ELENCO PERMESSI DI COSTRUIRE </category>
+			<title>ELENCO PERMESSI DI COSTRUIRE RILASCIATI OTTOBRE 2017 </title>
+			<description>ELENCO PERMESSI DI COSTRUIRE RILASCIATI OTTOBRE 2017 </description>
+			<a10:updated>2017-11-03T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3621965</guid>
 			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3621965</link>
@@ -284,17 +295,6 @@
 			<title>CONVOCAZIONE III° E IV° COMMISSIONE 03/11/2017. </title>
 			<description>CONVOCAZIONE III° E IV° COMMISSIONE 03/11/2017. </description>
 			<a10:updated>2017-10-31T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3616210</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3616210</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 01 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 16 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3616210</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONI SENZA IMPEGNO DI SPESA</category>
-			<title>LAVORI DI SISTEMAZIONE E VALORIZZAZIONE DI PIAZZA M. BURATTI A S. MARTINO AL CIMINO - LOTTO FUNZIONALE A - II° STRALCIO - LAVORI COMPLEMENTARI - PIAZZA DEL DUOMO E PIAZZA DELL'ORATORIO - RISANAMENTO PAVIMENTAZIONE DI PIAZZA DELL'ORATORIO - NOMINA COMMISSIONE - CUP D89J17000940001 - CIG 71898747B7. </title>
-			<description>LAVORI DI SISTEMAZIONE E VALORIZZAZIONE DI PIAZZA M. BURATTI A S. MARTINO AL CIMINO - LOTTO FUNZIONALE A - II° STRALCIO - LAVORI COMPLEMENTARI - PIAZZA DEL DUOMO E PIAZZA DELL'ORATORIO - RISANAMENTO PAVIMENTAZIONE DI PIAZZA DELL'ORATORIO - NOMINA COMMISSIONE - CUP D89J17000940001 - CIG 71898747B7. </description>
-			<a10:updated>2017-11-01T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
