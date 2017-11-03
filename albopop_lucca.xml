@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 03 Nov 2017 10:31:08 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 03 Nov 2017 11:31:27 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,66 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Fri, 03 Nov 2017 10:31:08 +0100</pubDate>
+		<pubDate>Fri, 03 Nov 2017 11:31:27 +0100</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3621714</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3621714</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 03 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 18 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3621714</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONVOCAZIONI</category>
+			<title>CONVOCAZIONE COMMISSIONE PRESIDENTI GRUPPI CONSILIARI PER GIOVEDI' 9 NOVEMBRE 2017 ORE 08.45 </title>
+			<description>CONVOCAZIONE COMMISSIONE PRESIDENTI GRUPPI CONSILIARI PER GIOVEDI' 9 NOVEMBRE 2017 ORE 08.45 </description>
+			<a10:updated>2017-11-03T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3621712</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3621712</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 03 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 18 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3621712</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>VIA BORGO GIANNOTTI,FRAZIONE DI S.MARCO,MODIFICHE TEMPORANEE ALLA SOSTA,PER IL 10/11/2017 DALLE ORE 8,00 ALLE ORE 18,00. </title>
+			<description>VIA BORGO GIANNOTTI,FRAZIONE DI S.MARCO,MODIFICHE TEMPORANEE ALLA SOSTA,PER IL 10/11/2017 DALLE ORE 8,00 ALLE ORE 18,00. </description>
+			<a10:updated>2017-11-03T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3621710</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3621710</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 03 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 18 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3621710</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>VIALE CASTRUCCIO CASTRACANI,FRAZIONE ARANCIO,MODIFICHE TEMPORANEE ALLA SOSTA,PER IL 9/11/2017 DALLE ORE 8,00 ALLE ORE 18,00. </title>
+			<description>VIALE CASTRUCCIO CASTRACANI,FRAZIONE ARANCIO,MODIFICHE TEMPORANEE ALLA SOSTA,PER IL 9/11/2017 DALLE ORE 8,00 ALLE ORE 18,00. </description>
+			<a10:updated>2017-11-03T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3621708</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3621708</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 03 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 18 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3621708</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>VIA PESCHERIA,CENTRO STORICO,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE,PER IL 07/11/2017 DALLE ORE 8,30 ALLE ORE 18,30. </title>
+			<description>VIA PESCHERIA,CENTRO STORICO,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE,PER IL 07/11/2017 DALLE ORE 8,30 ALLE ORE 18,30. </description>
+			<a10:updated>2017-11-03T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3621706</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3621706</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 03 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 18 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3621706</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>PIAZZA SAN ROMANO, CENTRO STORICO, MODIFICHE TEMPORANEE ALLA SOSTA E ALLA CIRCOLAZIONE PER LAVORI DI SCAVI ARCHEOLOGICI PREVENTIVI PER LA REALIZZAZIONE DI UN'ISOLA ECOLOGICA A SCOMPARSA. PERIODO : 8 NOVEMBRE - 15 DICEMBRE 2017. </title>
+			<description>PIAZZA SAN ROMANO, CENTRO STORICO, MODIFICHE TEMPORANEE ALLA SOSTA E ALLA CIRCOLAZIONE PER LAVORI DI SCAVI ARCHEOLOGICI PREVENTIVI PER LA REALIZZAZIONE DI UN'ISOLA ECOLOGICA A SCOMPARSA. PERIODO : 8 NOVEMBRE - 15 DICEMBRE 2017. </description>
+			<a10:updated>2017-11-03T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3621397</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3621397</link>
@@ -240,61 +295,6 @@
 			<title>ORDINE DEL GIORNO IN MERITO AL PASSAGGIO DI PERSONALE TRA LE SOCIETA' DEL GRUPPO LUCCA HOLDING S.P.A. </title>
 			<description>ORDINE DEL GIORNO IN MERITO AL PASSAGGIO DI PERSONALE TRA LE SOCIETA' DEL GRUPPO LUCCA HOLDING S.P.A. </description>
 			<a10:updated>2017-11-02T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3618782</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3618782</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 02 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 17 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3618782</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI CONSIGLIO</category>
-			<title>ORDINE DEL GIORNO SULLA VENDITA DELLE QUOTE DI GESAM GAS &amp; LUCE S.P.A </title>
-			<description>ORDINE DEL GIORNO SULLA VENDITA DELLE QUOTE DI GESAM GAS &amp; LUCE S.P.A </description>
-			<a10:updated>2017-11-02T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3618776</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3618776</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 02 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 17 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3618776</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI CONSIGLIO</category>
-			<title>RICOGNIZIONE E REVISIONE STRAORDINARIA DELLE PARTECIPAZIONI EX ART. 24, D.LGS 19 AGOSTO 2016 N. 175 E INDIRIZZI OPERATIVI A LUCCA HOLDING S.P.A. – APPROVAZIONE </title>
-			<description>RICOGNIZIONE E REVISIONE STRAORDINARIA DELLE PARTECIPAZIONI EX ART. 24, D.LGS 19 AGOSTO 2016 N. 175 E INDIRIZZI OPERATIVI A LUCCA HOLDING S.P.A. – APPROVAZIONE </description>
-			<a10:updated>2017-11-02T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3618770</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3618770</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 02 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 17 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3618770</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI CONSIGLIO</category>
-			<title>ISTITUZIONE E COSTITUZIONE, AI SENSI DELL'ART.14 DEL REGOLAMENTO DEL CONSIGLIO COMUNALE, DI UNA COMMISSIONE SPECIALE PER LA SICUREZZA SUI LUOGHI DI LAVORO </title>
-			<description>ISTITUZIONE E COSTITUZIONE, AI SENSI DELL'ART.14 DEL REGOLAMENTO DEL CONSIGLIO COMUNALE, DI UNA COMMISSIONE SPECIALE PER LA SICUREZZA SUI LUOGHI DI LAVORO </description>
-			<a10:updated>2017-11-02T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3618373</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3618373</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 31 Oct 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 15 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3618373</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>U.O.5.1. - INCARICO PROFESSIONALE PER CONSULENZA RELATIVA ALLA CONSERVAZIONE E SICUREZZA IMMOBILI E ELIMINAZIONE DELLA CRITICITÀ STATICHE CIMITERO URBANO. APPROVAZIONE DELLA SPESA E AFFIDAMENTO INCARICO CUP: J61B17000270004 CIG: Z521F28D21 (FAMIGLIA 08 INCARICHI INDIVIDUALI ESTERNI) </title>
-			<description>U.O.5.1. - INCARICO PROFESSIONALE PER CONSULENZA RELATIVA ALLA CONSERVAZIONE E SICUREZZA IMMOBILI E ELIMINAZIONE DELLA CRITICITÀ STATICHE CIMITERO URBANO. APPROVAZIONE DELLA SPESA E AFFIDAMENTO INCARICO CUP: J61B17000270004 CIG: Z521F28D21 (FAMIGLIA 08 INCARICHI INDIVIDUALI ESTERNI) </description>
-			<a10:updated>2017-10-31T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3618370</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3618370</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 31 Oct 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 15 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3618370</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>PERCORSO FORMATIVO "PROCEDURE E TECNICHE OPERATIVE PER ASO/TSO" – AUTORIZZAZIONE ALL'ISCRIZIONE – CIG Z0620809AA (FAMIGLIA 10). </title>
-			<description>PERCORSO FORMATIVO "PROCEDURE E TECNICHE OPERATIVE PER ASO/TSO" – AUTORIZZAZIONE ALL'ISCRIZIONE – CIG Z0620809AA (FAMIGLIA 10). </description>
-			<a10:updated>2017-10-31T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
