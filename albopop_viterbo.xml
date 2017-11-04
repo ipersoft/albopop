@@ -5,7 +5,7 @@
 		<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Viterbo</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 04 Nov 2017 09:30:47 +0100</lastBuildDate>
+		<lastBuildDate>Sat, 04 Nov 2017 10:30:50 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Viterbo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Viterbo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Viterbo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_viterbo</a10:id>
-		<pubDate>Sat, 04 Nov 2017 09:30:47 +0100</pubDate>
+		<pubDate>Sat, 04 Nov 2017 10:30:50 +0100</pubDate>
 		<docs>http://albopop.it/comune/viterbo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3624152</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3624152</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 04 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 19 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3624152</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE ORDINANZA DIRIGENZIALE</category>
+			<title>FESTA DELLE FORZE ARMATE E DEPOSIZIONE DELLA CORONA - BAGNAIA </title>
+			<description>FESTA DELLE FORZE ARMATE E DEPOSIZIONE DELLA CORONA - BAGNAIA </description>
+			<a10:updated>2017-11-04T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3623172</guid>
 			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3623172</link>
@@ -284,17 +295,6 @@
 			<title>VIA TAGETE N.23 - ISTITUZIONE DI UNO STALLO DI SOSTA PER VEICOLI A SERVIZIO DI PERSONE DIVERSAMENTE ABILI. </title>
 			<description>VIA TAGETE N.23 - ISTITUZIONE DI UNO STALLO DI SOSTA PER VEICOLI A SERVIZIO DI PERSONE DIVERSAMENTE ABILI. </description>
 			<a10:updated>2017-11-02T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3618413</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3618413</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 31 Oct 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 15 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3618413</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE ORDINANZA DIRIGENZIALE</category>
-			<title>INCONTRO DI CALCIO VITERBESE CASTRENSE - LUCCHESE. MISURE DI VIABILITA' </title>
-			<description>INCONTRO DI CALCIO VITERBESE CASTRENSE - LUCCHESE. MISURE DI VIABILITA' </description>
-			<a10:updated>2017-10-31T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
