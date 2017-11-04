@@ -5,7 +5,7 @@
 		<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Canosa di Puglia</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 04 Nov 2017 10:31:00 +0100</lastBuildDate>
+		<lastBuildDate>Sat, 04 Nov 2017 11:31:09 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Canosa di Puglia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Barletta-Andria-Trani</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Canosa di Puglia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_canosadipuglia</a10:id>
-		<pubDate>Sat, 04 Nov 2017 10:31:00 +0100</pubDate>
+		<pubDate>Sat, 04 Nov 2017 11:31:09 +0100</pubDate>
 		<docs>http://albopop.it/comune/canosadipuglia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3624197</guid>
+			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3624197</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 04 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 19 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3624197</category>
+			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DI GIUNTA</category>
+			<title>APPROVAZIONE SCHEMA DI CONVENZIONE QUADRO TRA IL COMUNE DI CANOSA DI PUGLIA E IL DIPARTIMENTO DI SCIENZA DELL’INGEGNERIA CIVILE E DELL’ARCHITETTURA DEL POLITECNICO DI BARI </title>
+			<description>APPROVAZIONE SCHEMA DI CONVENZIONE QUADRO TRA IL COMUNE DI CANOSA DI PUGLIA E IL DIPARTIMENTO DI SCIENZA DELL’INGEGNERIA CIVILE E DELL’ARCHITETTURA DEL POLITECNICO DI BARI </description>
+			<a10:updated>2017-11-04T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3624195</guid>
+			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3624195</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 04 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 19 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3624195</category>
+			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DI GIUNTA</category>
+			<title>Procedura esecutiva immobiliare nei confronti del sig. B.M.. Incarico all'avv. Sabino Palmieri di proporre istanza per la nomina del Curatore dell'eredità giacente. </title>
+			<description>Procedura esecutiva immobiliare nei confronti del sig. B.M.. Incarico all'avv. Sabino Palmieri di proporre istanza per la nomina del Curatore dell'eredità giacente. </description>
+			<a10:updated>2017-11-04T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3624175</guid>
+			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3624175</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 04 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 19 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3624175</category>
+			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DI GIUNTA</category>
+			<title>PRELEVAMENTO FONDO DI RISERVA </title>
+			<description>PRELEVAMENTO FONDO DI RISERVA </description>
+			<a10:updated>2017-11-04T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3623545</guid>
 			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3623545</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DI CONSIGLIO</category>
 			<title>RATIFICA DELIBERAZIONE DI GIUNTA COMUNALE N. 199 DEL 19/10/2017 "APPROVAZIONE VARIAZIONE DI BILANCIO FINANZIARIO 2017-2019 AI SENSI DELL'ART. 175 COMMA 4 DEL D.LGS.N.267/2000" </title>
 			<description>RATIFICA DELIBERAZIONE DI GIUNTA COMUNALE N. 199 DEL 19/10/2017 "APPROVAZIONE VARIAZIONE DI BILANCIO FINANZIARIO 2017-2019 AI SENSI DELL'ART. 175 COMMA 4 DEL D.LGS.N.267/2000" </description>
-			<a10:updated>2017-10-31T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3616800</guid>
-			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3616800</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 31 Oct 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 15 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3616800</category>
-			<category domain="http://albopop.it/specs#item-category-type">DECRETI E ORDINANZE ORDINANZA DIRIGENZIALE</category>
-			<title>ORDINANZA REGOLAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE PER LAVORI DI RISTRUTTURAZIONE FABBRICATO IN VIA FIUME / VIA OBERDAN. </title>
-			<description>ORDINANZA REGOLAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE PER LAVORI DI RISTRUTTURAZIONE FABBRICATO IN VIA FIUME / VIA OBERDAN. </description>
-			<a10:updated>2017-10-31T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3616655</guid>
-			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3616655</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 31 Oct 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 15 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3616655</category>
-			<category domain="http://albopop.it/specs#item-category-type">DECRETI E ORDINANZE ORDINANZA DIRIGENZIALE</category>
-			<title>ORDINANZA REGOLAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE PER GARA PODISTICA DEL 12/11/2017. </title>
-			<description>ORDINANZA REGOLAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE PER GARA PODISTICA DEL 12/11/2017. </description>
-			<a10:updated>2017-10-31T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3615696</guid>
-			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3615696</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 31 Oct 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 15 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3615696</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
-			<title>Ricorso per motivi aggiunti al ricorso R.G. n. 1618/2014 promosso dalla SOLVIC s.r.l. innanzi al TAR Puglia - Bari. Assunzione spesa e liquidazione acconto onorario all'avv. Ermelinda Pastore </title>
-			<description>Ricorso per motivi aggiunti al ricorso R.G. n. 1618/2014 promosso dalla SOLVIC s.r.l. innanzi al TAR Puglia - Bari. Assunzione spesa e liquidazione acconto onorario all'avv. Ermelinda Pastore </description>
 			<a10:updated>2017-10-31T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
