@@ -5,7 +5,7 @@
 		<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Busnago</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 04 Nov 2017 18:31:05 +0100</lastBuildDate>
+		<lastBuildDate>Sun, 05 Nov 2017 08:30:53 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Busnago</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Busnago</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_busnago</a10:id>
-		<pubDate>Sat, 04 Nov 2017 18:31:05 +0100</pubDate>
+		<pubDate>Sun, 05 Nov 2017 08:30:53 +0100</pubDate>
 		<docs>http://albopop.it/comune/busnago/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -264,17 +264,6 @@
 			<a10:updated>2017-10-27T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3611741</guid>
-			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3611741</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 27 Oct 2017 02:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 04 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3611741</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO AVVISO DI DEPOSITO DI ATTI PRESSO LA CASA COMUNALE </category>
-			<title>AVVISO DI DEPOSITO ATTO AMMISISTRATIVO PRESSO LA CASA COMUNALE A CARICO DI SORBILLI DANIELE </title>
-			<description>AVVISO DI DEPOSITO ATTO AMMISISTRATIVO PRESSO LA CASA COMUNALE A CARICO DI SORBILLI DANIELE </description>
-			<a10:updated>2017-10-27T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
 			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3604859</guid>
 			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3604859</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 25 Oct 2017 02:00:00 +0100</category>
@@ -294,6 +283,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO AVVISO RELATIVO AD APPALTO AGGIUDICATO</category>
 			<title>AVVISO RELATIVO AD APPALTO AGGIUDICATO (ART. 98 D.LGS. 50/2016 E S.M.I.) SERVIZIO DI SGOMBERO NEVE E SPARGIMENTO SALE STAGIONI INVERNALI 2017/2018 - 2018/2019 - 2019/2020 CIG Z97200B3EE - PROCEDURA TELEMATICA SINTEL I.D. N. 89458052 </title>
 			<description>AVVISO RELATIVO AD APPALTO AGGIUDICATO (ART. 98 D.LGS. 50/2016 E S.M.I.) SERVIZIO DI SGOMBERO NEVE E SPARGIMENTO SALE STAGIONI INVERNALI 2017/2018 - 2018/2019 - 2019/2020 CIG Z97200B3EE - PROCEDURA TELEMATICA SINTEL I.D. N. 89458052 </description>
+			<a10:updated>2017-10-23T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3586301</guid>
+			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3586301</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 23 Oct 2017 02:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 07 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3586301</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO PRATICHE EDILIZIE PERMESSO DI COSTRUIRE</category>
+			<title>PERMESSO DI COSTRUIRE N. 35/17 </title>
+			<description>PERMESSO DI COSTRUIRE N. 35/17 </description>
 			<a10:updated>2017-10-23T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
