@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 06 Nov 2017 12:30:50 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 06 Nov 2017 13:30:53 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Mon, 06 Nov 2017 12:30:50 +0100</pubDate>
+		<pubDate>Mon, 06 Nov 2017 13:30:53 +0100</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3626390</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3626390</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 06 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 21 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3626390</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
+			<title>NORME PER LA MACELLAZIONE DEI SUINI A DOMICILIO </title>
+			<description>NORME PER LA MACELLAZIONE DEI SUINI A DOMICILIO </description>
+			<a10:updated>2017-11-06T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3626073</guid>
 			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3626073</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DELIBERAZIONE DI GIUNTA COMUNALE</category>
 			<title>INDIRIZZI IN MERITO AL CONTRIBUTO DA ASSEGNARE ALL’ASSOCIAZIONE ‘PRO LOCO DI DOLO – ASSOCIAZIONE DELLE TERRE DOLESI’ PER CELEBRAZIONI CIVILI, RELIGIOSE E MANIFESTAZIONI FOLCLORISTICHE: GIORNATA DELL'UNITÀ NAZIONALE, MADONNA DELLA SALUTE, FESTIVAL DEI LUOGHI MISTERIOSI DEL VENETO – NOVEMBRE 2017 </title>
 			<description>INDIRIZZI IN MERITO AL CONTRIBUTO DA ASSEGNARE ALL’ASSOCIAZIONE ‘PRO LOCO DI DOLO – ASSOCIAZIONE DELLE TERRE DOLESI’ PER CELEBRAZIONI CIVILI, RELIGIOSE E MANIFESTAZIONI FOLCLORISTICHE: GIORNATA DELL'UNITÀ NAZIONALE, MADONNA DELLA SALUTE, FESTIVAL DEI LUOGHI MISTERIOSI DEL VENETO – NOVEMBRE 2017 </description>
-			<a10:updated>2017-10-31T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3616442</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3616442</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 31 Oct 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 15 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3616442</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DELIBERAZIONE DI GIUNTA COMUNALE</category>
-			<title>APPROVAZIONE GRADUATORIA BANDO PER L’EROGAZIONE DI CONTRIBUTI REGIONALI A FAVORE DI NUCLEI FAMILIARI CON FIGLI A CARICO RIMASTI ORFANI DI UN GENITORE (ART.59, L.R. 30 DICEMBRE 2016, N.30 "COLLEGATO ALLA LEGGE DI STABILITÀ REGIONALE 2017" </title>
-			<description>APPROVAZIONE GRADUATORIA BANDO PER L’EROGAZIONE DI CONTRIBUTI REGIONALI A FAVORE DI NUCLEI FAMILIARI CON FIGLI A CARICO RIMASTI ORFANI DI UN GENITORE (ART.59, L.R. 30 DICEMBRE 2016, N.30 "COLLEGATO ALLA LEGGE DI STABILITÀ REGIONALE 2017" </description>
 			<a10:updated>2017-10-31T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
