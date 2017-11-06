@@ -5,7 +5,7 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 06 Nov 2017 13:31:22 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 06 Nov 2017 14:31:09 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Isernia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>Mon, 06 Nov 2017 13:31:22 +0100</pubDate>
+		<pubDate>Mon, 06 Nov 2017 14:31:09 +0100</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3626644</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3626644</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 06 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 21 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3626644</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA GIUNTA COMUNALE</category>
+			<title>PROGRAMMA ATTUATIVO REGIONALE (PAR) A VALERE SUL FONDO PER LO SVILUPPO E LA COESIONE 2007-2013. ASSE III “AMBIENTE E TERRITORIO”. LINEA DI INTERVENTO III.C “GESTIONE DEI RIFIUTI URBANI”. CODICE INTERVENTO: MO3C.007. INTERVENTO: FORNITURA DI ATTREZZATURE PER LA RACCOLTA DIFFERENZIATA DEI RIFIUTI – IMPORTO €. 887.615,89. APPROVAZIONE ITER AMMINISTRATIVO E CONVALIDA DETERMINE </title>
+			<description>PROGRAMMA ATTUATIVO REGIONALE (PAR) A VALERE SUL FONDO PER LO SVILUPPO E LA COESIONE 2007-2013. ASSE III “AMBIENTE E TERRITORIO”. LINEA DI INTERVENTO III.C “GESTIONE DEI RIFIUTI URBANI”. CODICE INTERVENTO: MO3C.007. INTERVENTO: FORNITURA DI ATTREZZATURE PER LA RACCOLTA DIFFERENZIATA DEI RIFIUTI – IMPORTO €. 887.615,89. APPROVAZIONE ITER AMMINISTRATIVO E CONVALIDA DETERMINE </description>
+			<a10:updated>2017-11-06T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3626500</guid>
 			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3626500</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
 			<title>[AMBITO TERRITORIALE SOCIALE] - PROROGA TECNICA AL 31.12.2017 DELLE ATTIVITÀ DI CUI AL "SERVIZIO DI ASSISTENZA DOMICILIARE ANZIANI E DISABILI" CON CONTESTUALE ACCERTAMENTO DI ENTRATA ED IMPEGNO DI SPESA. </title>
 			<description>[AMBITO TERRITORIALE SOCIALE] - PROROGA TECNICA AL 31.12.2017 DELLE ATTIVITÀ DI CUI AL "SERVIZIO DI ASSISTENZA DOMICILIARE ANZIANI E DISABILI" CON CONTESTUALE ACCERTAMENTO DI ENTRATA ED IMPEGNO DI SPESA. </description>
-			<a10:updated>2017-11-06T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3624514</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3624514</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 06 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 21 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3624514</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
-			<title>[AMBITO TERRITORIALE SOCIALE] PROGETTO HOME CARE PREMIUM 2017 - PRESTAZIONI INTEGRATIVE. ACCERTAMENTO E IMPEGNO DELLE RISORSE E CONTESTUALE PROROGA TECNICA DEL SERVIZIO AL 31.12.2017. </title>
-			<description>[AMBITO TERRITORIALE SOCIALE] PROGETTO HOME CARE PREMIUM 2017 - PRESTAZIONI INTEGRATIVE. ACCERTAMENTO E IMPEGNO DELLE RISORSE E CONTESTUALE PROROGA TECNICA DEL SERVIZIO AL 31.12.2017. </description>
 			<a10:updated>2017-11-06T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
