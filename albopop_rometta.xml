@@ -5,7 +5,7 @@
 		<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rometta</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 06 Nov 2017 10:31:27 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 06 Nov 2017 11:30:58 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rometta</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Messina</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rometta</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rometta</a10:id>
-		<pubDate>Mon, 06 Nov 2017 10:31:27 +0100</pubDate>
+		<pubDate>Mon, 06 Nov 2017 11:30:58 +0100</pubDate>
 		<docs>http://albopop.it/comune/rometta/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3625471</guid>
+			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3625471</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 06 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 21 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3625471</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
+			<title>DETERMINAZIONE A CONTRARRE, AFFIDAMENTO DIRETTO AI SENSI DELL'ART. 36 COMMA 2 LETTERA A) ED ART. 31 COMMA 8 DEL D. LGS 50/2016. SERVIZIO DI REDAZIONE DI UNA RELAZIONE A FIRMA DI GEOLOGO A SUPPORTO DI RECLAMO NEL GIUDIZIO R.G. 3073/16 </title>
+			<description>DETERMINAZIONE A CONTRARRE, AFFIDAMENTO DIRETTO AI SENSI DELL'ART. 36 COMMA 2 LETTERA A) ED ART. 31 COMMA 8 DEL D. LGS 50/2016. SERVIZIO DI REDAZIONE DI UNA RELAZIONE A FIRMA DI GEOLOGO A SUPPORTO DI RECLAMO NEL GIUDIZIO R.G. 3073/16 </description>
+			<a10:updated>2017-11-06T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3624773</guid>
 			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3624773</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>"ESTATE ROMETTESE 2017". LIQUIDAZIONE MANIFESTAZIONE DEL 4-5-25-26 LUGLIO 2017 – ASS. MESSINA PROGETTO ARTE </title>
 			<description>"ESTATE ROMETTESE 2017". LIQUIDAZIONE MANIFESTAZIONE DEL 4-5-25-26 LUGLIO 2017 – ASS. MESSINA PROGETTO ARTE </description>
-			<a10:updated>2017-10-31T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3615812</guid>
-			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3615812</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 31 Oct 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 15 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3615812</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>ACQUISTO AUTOVETTURA ALFA ROMEO GIULIETTA TRAMITE CONVENZIONE CONSIP ATTIVA - IMPEGNO SPESA - AFFIDAMENTO- CIG: Z4C2058F8A </title>
-			<description>ACQUISTO AUTOVETTURA ALFA ROMEO GIULIETTA TRAMITE CONVENZIONE CONSIP ATTIVA - IMPEGNO SPESA - AFFIDAMENTO- CIG: Z4C2058F8A </description>
 			<a10:updated>2017-10-31T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 06 Nov 2017 10:30:53 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 06 Nov 2017 11:30:40 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Mon, 06 Nov 2017 10:30:53 +0100</pubDate>
+		<pubDate>Mon, 06 Nov 2017 11:30:40 +0100</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3027191</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3027191</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 06 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 21 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3027191</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI PERMESSO DI COSTRUIRE</category>
+			<title>PERMESSO DI COSTRUIRE N.176/2017 PER OPERE IN VARIANTE AL PDC N.150/2015, VIA F.LLI PEA, 22. </title>
+			<description>PERMESSO DI COSTRUIRE N.176/2017 PER OPERE IN VARIANTE AL PDC N.150/2015, VIA F.LLI PEA, 22. </description>
+			<a10:updated>2017-11-06T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3026655</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3026655</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
 			<title>VARIAZIONE D'URGENZA AL BILANCIO DI PREVISIONE 2017/2019 7° PROVVEDIMENTO </title>
 			<description>VARIAZIONE D'URGENZA AL BILANCIO DI PREVISIONE 2017/2019 7° PROVVEDIMENTO </description>
-			<a10:updated>2017-10-30T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3020825</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3020825</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 30 Oct 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 13 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3020825</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>PIANO DELLE AZIONI PER IL CONTENIMENTO DELLE SPESE DI FUNZIONAMENTO DELLE STRUTTURE ED INDIVIDUAZIONE DI MISURE FINALIZZATE ALLA RAZIONALIZZAZIONE DELL’UTILIZZO DELLE DOTAZIONI. TRIENNIO 2018-2020. </title>
-			<description>PIANO DELLE AZIONI PER IL CONTENIMENTO DELLE SPESE DI FUNZIONAMENTO DELLE STRUTTURE ED INDIVIDUAZIONE DI MISURE FINALIZZATE ALLA RAZIONALIZZAZIONE DELL’UTILIZZO DELLE DOTAZIONI. TRIENNIO 2018-2020. </description>
 			<a10:updated>2017-10-30T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
