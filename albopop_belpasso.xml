@@ -5,7 +5,7 @@
 		<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Belpasso</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 07 Nov 2017 13:31:12 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 07 Nov 2017 14:31:19 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Belpasso</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Belpasso</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_belpasso</a10:id>
-		<pubDate>Tue, 07 Nov 2017 13:31:12 +0100</pubDate>
+		<pubDate>Tue, 07 Nov 2017 14:31:19 +0100</pubDate>
 		<docs>http://albopop.it/comune/belpasso/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3629191</guid>
+			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3629191</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 07 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 22 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3629191</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONCESSIONI CONCESSIONE EDILIZIA IN SANATORIA</category>
+			<title>[annullato] ANNULLATA - GIÀ PUBLICATA - PUBBLICAZIONE CONCESSIONE EDILIZIA IN SANATORIA CES N. 81 DEL 10/10/2017 PRAT. N. 404 L.47/85 </title>
+			<description>[annullato] ANNULLATA - GIÀ PUBLICATA - PUBBLICAZIONE CONCESSIONE EDILIZIA IN SANATORIA CES N. 81 DEL 10/10/2017 PRAT. N. 404 L.47/85 </description>
+			<a10:updated>2017-11-07T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3628558</guid>
 			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3628558</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERA DI GIUNTA</category>
 			<title>RAPISARDA ANNA C/ COMUNE DI BELPASSO. ATTO DI CITAZIONE INNANZI AL GIUDICE DI PACE DI BELPASSO. COSTITUZIONE IN GIUDIZIO. CONFERIMENTO INCARICO LEGALE. </title>
 			<description>RAPISARDA ANNA C/ COMUNE DI BELPASSO. ATTO DI CITAZIONE INNANZI AL GIUDICE DI PACE DI BELPASSO. COSTITUZIONE IN GIUDIZIO. CONFERIMENTO INCARICO LEGALE. </description>
-			<a10:updated>2017-11-03T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3622874</guid>
-			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3622874</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 03 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 18 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3622874</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERA DI GIUNTA</category>
-			<title>ANNO SCOLASTICO 2014/2015. FORNITURA GRATUITA DEI LIBRI DI TESTO PER GLI ALUNNI DELLE SCUOLE DELL'OBBLIGO E DELLE SCUOLE SUPERIORI AI SENSI DELL'ART.27 DELLA LEGGE N.448/1998, DPCM N. 320/1999 E 226/2000. CRITERI DI RIPARTIZIONE. </title>
-			<description>ANNO SCOLASTICO 2014/2015. FORNITURA GRATUITA DEI LIBRI DI TESTO PER GLI ALUNNI DELLE SCUOLE DELL'OBBLIGO E DELLE SCUOLE SUPERIORI AI SENSI DELL'ART.27 DELLA LEGGE N.448/1998, DPCM N. 320/1999 E 226/2000. CRITERI DI RIPARTIZIONE. </description>
 			<a10:updated>2017-11-03T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
