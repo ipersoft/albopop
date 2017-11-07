@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 07 Nov 2017 09:30:49 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 07 Nov 2017 10:30:41 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Tue, 07 Nov 2017 09:30:49 +0100</pubDate>
+		<pubDate>Tue, 07 Nov 2017 10:30:41 +0100</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3028754</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3028754</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 07 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 22 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3028754</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>INTERVENTO MANUTENZIONE STRAORDINARIA SEGNALETICA ORIZZONTALE STRADE COMUNALI - CIG: ZF8209D11E </title>
+			<description>INTERVENTO MANUTENZIONE STRAORDINARIA SEGNALETICA ORIZZONTALE STRADE COMUNALI - CIG: ZF8209D11E </description>
+			<a10:updated>2017-11-07T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3028578</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3028578</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
 			<title>ADOZIONE PROGRAMMA BIENNALE PER ACQUISTI DI BENI E SERVIZI - ANNI 2018 - 2019. </title>
 			<description>ADOZIONE PROGRAMMA BIENNALE PER ACQUISTI DI BENI E SERVIZI - ANNI 2018 - 2019. </description>
-			<a10:updated>2017-10-30T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3020891</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3020891</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 30 Oct 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 13 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3020891</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>RINUNCIA AL DIRITTO DI PRELAZIONE PER LA VENDITA DI UN ALLOGGIO COSTRUTITO IN AREA DI EDILIZIA ECONOMICO POPOLARE E CONTESTUALE PRESA D'ATTO DEL POSSESSO DEI REQUISITI DA PARTE DELL'ACQUIRENTE </title>
-			<description>RINUNCIA AL DIRITTO DI PRELAZIONE PER LA VENDITA DI UN ALLOGGIO COSTRUTITO IN AREA DI EDILIZIA ECONOMICO POPOLARE E CONTESTUALE PRESA D'ATTO DEL POSSESSO DEI REQUISITI DA PARTE DELL'ACQUIRENTE </description>
 			<a10:updated>2017-10-30T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
