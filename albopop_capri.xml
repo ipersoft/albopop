@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 07 Nov 2017 10:32:33 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 07 Nov 2017 11:31:44 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Tue, 07 Nov 2017 10:32:33 +0100</pubDate>
+		<pubDate>Tue, 07 Nov 2017 11:31:44 +0100</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3029077</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3029077</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 07 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 22 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3029077</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>AVVISO DI SELEZIONE PER L’ACCESSO ALLE ATTIVITÀ PREVISTE DAL PROGETTO DI BORSA LAVORO - AMBITO TERRITORIALE N34 – COMUNE DI CAPRI ANNO 2017 - RIAPERTURA TERMINI </title>
+			<description>AVVISO DI SELEZIONE PER L’ACCESSO ALLE ATTIVITÀ PREVISTE DAL PROGETTO DI BORSA LAVORO - AMBITO TERRITORIALE N34 – COMUNE DI CAPRI ANNO 2017 - RIAPERTURA TERMINI </description>
+			<a10:updated>2017-11-07T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3028106</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3028106</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>SMONTAGGIO E TRASPORTO A DEPOSITO TEMPORANEO DELLA RAMPA PER L'ACCESSO AL MARE DEI DISABILI SULLA SPIAGGIA DI MARINA GRANDE. APPROVAZIONE DEL PREVENTIVO DELLA DITTA "EDILRICCI S.R.L." DI CAPRI. </title>
 			<description>SMONTAGGIO E TRASPORTO A DEPOSITO TEMPORANEO DELLA RAMPA PER L'ACCESSO AL MARE DEI DISABILI SULLA SPIAGGIA DI MARINA GRANDE. APPROVAZIONE DEL PREVENTIVO DELLA DITTA "EDILRICCI S.R.L." DI CAPRI. </description>
-			<a10:updated>2017-10-31T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3022969</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3022969</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 31 Oct 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 15 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3022969</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>ORDINANZA CIRCOMARE CAPRI N° 34/2017 DISCIPLINA DELLA CIRCOLAZIONE E SOSTA NEL PORTO DI CAPRI </title>
-			<description>ORDINANZA CIRCOMARE CAPRI N° 34/2017 DISCIPLINA DELLA CIRCOLAZIONE E SOSTA NEL PORTO DI CAPRI </description>
 			<a10:updated>2017-10-31T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
