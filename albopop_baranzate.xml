@@ -5,7 +5,7 @@
 		<link>http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Baranzate</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 08 Nov 2017 13:30:55 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 08 Nov 2017 16:31:04 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Baranzate</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Milano</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Baranzate</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_baranzate</a10:id>
-		<pubDate>Wed, 08 Nov 2017 13:30:55 +0100</pubDate>
+		<pubDate>Wed, 08 Nov 2017 16:31:04 +0100</pubDate>
 		<docs>http://albopop.it/comune/baranzate/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -275,6 +275,17 @@
 			<a10:updated>2017-11-03T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
+			<guid isPermaLink="true">http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3631901</guid>
+			<link>http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3631901</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 08 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 23 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3631901</category>
+			<category domain="http://albopop.it/specs#item-category-type">DELIBERA DELIBERA GIUNTA</category>
+			<title>APPROVAZIONE DEL PIANO DELLE PERFORMANCE DEL COMUNE DI BARANZATE PER L'ANNO 2017 E DELL'ASSEGNAZIONE DELLE RISORSE UMANE ALLE AREE DI ATTIVITA' DELL'ENTE. </title>
+			<description>APPROVAZIONE DEL PIANO DELLE PERFORMANCE DEL COMUNE DI BARANZATE PER L'ANNO 2017 E DELL'ASSEGNAZIONE DELLE RISORSE UMANE ALLE AREE DI ATTIVITA' DELL'ENTE. </description>
+			<a10:updated>2017-11-08T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
 			<guid isPermaLink="true">http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3607727</guid>
 			<link>http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3607727</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 26 Oct 2017 02:00:00 +0100</category>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERA DELIBERA GIUNTA</category>
 			<title>DETERMINAZIONI IN MERITO A ISTANZA DI MOBILITA' ESTERNA PRESENTATE DAL DIPENDENTE F.C. - ESPRESSIONE DEL NULLA-OSTA DEFINITIVO </title>
 			<description>DETERMINAZIONI IN MERITO A ISTANZA DI MOBILITA' ESTERNA PRESENTATE DAL DIPENDENTE F.C. - ESPRESSIONE DEL NULLA-OSTA DEFINITIVO </description>
-			<a10:updated>2017-10-26T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3607783</guid>
-			<link>http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3607783</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 26 Oct 2017 02:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 10 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3607783</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERA DELIBERA GIUNTA</category>
-			<title>SCHEMA VERBALE DI RICONSEGNA DA PARTE DELLA SPCIETA' AUTOSTRADE PER L'ITALIA A CITTA' METROPOLITANA DI MILANO DELLE AREE UTILIZZATE PER LA REALIZZAZIONE DELLA GREENWAY NELL'AMBITO DEI LAVORI DI COSTRUZIONE DELLA VIABILITA' DI ADDUZIONE AL SISTEMA AUTOSTRADALE NEI COMUNI DI BARANZATE - BOLLATE E NOVATE MILANESE E CONTESTUALE CONSEGNA DI DETTE AREE DA CITTA' METROPOLITANA AI COMUNI </title>
-			<description>SCHEMA VERBALE DI RICONSEGNA DA PARTE DELLA SPCIETA' AUTOSTRADE PER L'ITALIA A CITTA' METROPOLITANA DI MILANO DELLE AREE UTILIZZATE PER LA REALIZZAZIONE DELLA GREENWAY NELL'AMBITO DEI LAVORI DI COSTRUZIONE DELLA VIABILITA' DI ADDUZIONE AL SISTEMA AUTOSTRADALE NEI COMUNI DI BARANZATE - BOLLATE E NOVATE MILANESE E CONTESTUALE CONSEGNA DI DETTE AREE DA CITTA' METROPOLITANA AI COMUNI </description>
 			<a10:updated>2017-10-26T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
