@@ -5,7 +5,7 @@
 		<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Annone Veneto</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 08 Nov 2017 11:31:06 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 08 Nov 2017 12:30:54 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Annone Veneto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Annone Veneto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_annoneveneto</a10:id>
-		<pubDate>Wed, 08 Nov 2017 11:31:06 +0100</pubDate>
+		<pubDate>Wed, 08 Nov 2017 12:30:54 +0100</pubDate>
 		<docs>http://albopop.it/comune/annoneveneto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3631184</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3631184</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 08 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 23 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3631184</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>LIQUIDAZIONE LAVORO STRAORDINARIO MESE DI OTTOBRE 2017 PERSONALE DIPENDENTE. </title>
+			<description>LIQUIDAZIONE LAVORO STRAORDINARIO MESE DI OTTOBRE 2017 PERSONALE DIPENDENTE. </description>
+			<a10:updated>2017-11-08T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3631069</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3631069</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 08 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 23 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3631069</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>LIQUIDAZIONE COMPETENZE OTTOBRE 2017 ATTIVITA' LAVORI SOCIALMENTE UTILI. </title>
+			<description>LIQUIDAZIONE COMPETENZE OTTOBRE 2017 ATTIVITA' LAVORI SOCIALMENTE UTILI. </description>
+			<a10:updated>2017-11-08T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3631066</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3631066</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 08 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 23 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3631066</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>RIMBORSO SPESE VIAGGIO MESE DI OTTOBRE 2017 AL PERSONALE DIPENDENTE PER MISSIONI COMPIUTE A FAVORE DEL COMUNE DI ANNONE VENETO </title>
+			<description>RIMBORSO SPESE VIAGGIO MESE DI OTTOBRE 2017 AL PERSONALE DIPENDENTE PER MISSIONI COMPIUTE A FAVORE DEL COMUNE DI ANNONE VENETO </description>
+			<a10:updated>2017-11-08T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3630782</guid>
 			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3630782</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>COFINANZIAMENTI PROGETTO/INIZIATIVA: PERCORSI DIDATTICI PER I NUOVI ITALIANI </title>
 			<description>COFINANZIAMENTI PROGETTO/INIZIATIVA: PERCORSI DIDATTICI PER I NUOVI ITALIANI </description>
-			<a10:updated>2017-10-30T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3614124</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3614124</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 30 Oct 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 14 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3614124</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>PRODOTTI E SERVIZI PER L'INFORMATICA E LE TELECOMUNICAZIONI - SPESE PER TELEFONIA MOBILE - LIQUIDAZIONE </title>
-			<description>PRODOTTI E SERVIZI PER L'INFORMATICA E LE TELECOMUNICAZIONI - SPESE PER TELEFONIA MOBILE - LIQUIDAZIONE </description>
-			<a10:updated>2017-10-30T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3613015</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3613015</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 30 Oct 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 14 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3613015</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>AGGIORNAMENTO DEL PEG 2017,DEL PIANO DELLE PERFORMANCE 2017-2019 E DEL PIANO DEGLI OBIETTIVI SPECIFICI 2017. </title>
-			<description>AGGIORNAMENTO DEL PEG 2017,DEL PIANO DELLE PERFORMANCE 2017-2019 E DEL PIANO DEGLI OBIETTIVI SPECIFICI 2017. </description>
-			<a10:updated>2017-10-30T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3613012</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3613012</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 30 Oct 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 14 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3613012</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>NOTIZIARIO COMUNALE ANNO 2017- ATTO DI INDIRIZZO </title>
-			<description>NOTIZIARIO COMUNALE ANNO 2017- ATTO DI INDIRIZZO </description>
 			<a10:updated>2017-10-30T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
