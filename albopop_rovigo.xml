@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 08 Nov 2017 10:31:38 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 08 Nov 2017 11:32:12 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Wed, 08 Nov 2017 10:31:38 +0100</pubDate>
+		<pubDate>Wed, 08 Nov 2017 11:32:12 +0100</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3030812</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3030812</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 08 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 23 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3030812</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE PERMESSI DI COSTRUIRE</category>
+			<title>PERMESSO DI COSTRUIRE N. 100 DEL 08/11/2017 - RIF. UT. 843/2017, RELATIVO A "NUOVO PERMESSO DI COSTRUIRE IN VARIANTE AL P. DI C. N. 118/14 – UT 1610/13, SCIA UT 14/15, P. DI C. N. 144/15 – UT 1004/15, SCIA UT 225/16, P. DI C. N. 115/16 – UT 444/16, SCIA UT 1091/16, SCIA UT 480/17, ESCLUSIVAMENTE PER GLI EDIFICI "5-6" E 7, PER GLI EDIFICI RIMANENTI IL P. DI C. N. 118/14 SI INTENDE DECADUTO" </title>
+			<description>PERMESSO DI COSTRUIRE N. 100 DEL 08/11/2017 - RIF. UT. 843/2017, RELATIVO A "NUOVO PERMESSO DI COSTRUIRE IN VARIANTE AL P. DI C. N. 118/14 – UT 1610/13, SCIA UT 14/15, P. DI C. N. 144/15 – UT 1004/15, SCIA UT 225/16, P. DI C. N. 115/16 – UT 444/16, SCIA UT 1091/16, SCIA UT 480/17, ESCLUSIVAMENTE PER GLI EDIFICI "5-6" E 7, PER GLI EDIFICI RIMANENTI IL P. DI C. N. 118/14 SI INTENDE DECADUTO" </description>
+			<a10:updated>2017-11-08T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3030749</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3030749</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 08 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 23 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3030749</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
+			<title>SERVIZIO PER LA GESTIONE DEI SERVIZI DI TUTELA E PROMOZIONE DELLA DONNA: GESTIONE CENTRO ANTIVIOLENZA DEL POLESINE – LIQUIDAZIONE FATTURA N. 76 DEL 03 OTTOBRE 2017 – MESE DI SETTEMBRE 2017 - </title>
+			<description>SERVIZIO PER LA GESTIONE DEI SERVIZI DI TUTELA E PROMOZIONE DELLA DONNA: GESTIONE CENTRO ANTIVIOLENZA DEL POLESINE – LIQUIDAZIONE FATTURA N. 76 DEL 03 OTTOBRE 2017 – MESE DI SETTEMBRE 2017 - </description>
+			<a10:updated>2017-11-08T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3030685</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3030685</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
 			<title>GESTIONE IN OUTSOURCING DELLA RETE E DEI SERVIZI INFORMATICI - LIQUIDAZIONE CORRISPETTIVO AD AZIENDA SERVIZI STRUMENTALI SRL PER LA GESTIONE DEL MESE DI SETTEMBRE 2017 </title>
 			<description>GESTIONE IN OUTSOURCING DELLA RETE E DEI SERVIZI INFORMATICI - LIQUIDAZIONE CORRISPETTIVO AD AZIENDA SERVIZI STRUMENTALI SRL PER LA GESTIONE DEL MESE DI SETTEMBRE 2017 </description>
-			<a10:updated>2017-11-06T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3027818</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3027818</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 07 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 08 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3027818</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI ATTI DIVERSI</category>
-			<title>AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE DEL 06/11/2017_ELENCO N. 107749_N. 51 NOMINATIVI VARI </title>
-			<description>AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE DEL 06/11/2017_ELENCO N. 107749_N. 51 NOMINATIVI VARI </description>
-			<a10:updated>2017-11-07T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3027815</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3027815</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 06 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 21 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3027815</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>AFFIDAMENTO DIRETTO, AI SENSI EX ART.36, COMMA 2 LETT.A) D.LGS.50/2016, PER L'ABBONAMENTO AL SERVIZIO ONLINE (DAL 1.12.2017 AL 30.11.2018) OFFERTO DA FORMEL S.R.L.PER AGGIORNAMENTO PROFESSIONALE UFFICI VARI DELL'ENTE. </title>
-			<description>AFFIDAMENTO DIRETTO, AI SENSI EX ART.36, COMMA 2 LETT.A) D.LGS.50/2016, PER L'ABBONAMENTO AL SERVIZIO ONLINE (DAL 1.12.2017 AL 30.11.2018) OFFERTO DA FORMEL S.R.L.PER AGGIORNAMENTO PROFESSIONALE UFFICI VARI DELL'ENTE. </description>
 			<a10:updated>2017-11-06T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
