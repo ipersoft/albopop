@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 07 Nov 2017 18:31:40 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 08 Nov 2017 08:31:23 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Tue, 07 Nov 2017 18:31:40 +0100</pubDate>
+		<pubDate>Wed, 08 Nov 2017 08:31:23 +0100</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3030187</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3030187</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 07 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 22 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3030187</category>
+			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
+			<title>L'ISOLA CHE C'E' - LIQUIDAZIONE FATTURA PER REALIZZAZIONE EVENTO "TOTO' OLTRE LA MASCHERA" RECITAL CON ALESSANDRO PREZIOSI. SOC. KHORA S.R.L. CIG.ZBB1FAC515 </title>
+			<description>L'ISOLA CHE C'E' - LIQUIDAZIONE FATTURA PER REALIZZAZIONE EVENTO "TOTO' OLTRE LA MASCHERA" RECITAL CON ALESSANDRO PREZIOSI. SOC. KHORA S.R.L. CIG.ZBB1FAC515 </description>
+			<a10:updated>2017-11-07T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3030090</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3030090</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>APPROVAZIONE E PUBBLICAZIONE BANDO CONTRIBUTI ORDINARI - AMBITO TERRITORIALE N34 - COMUNI DI CAPRI ED ANACAPRI. </title>
 			<description>APPROVAZIONE E PUBBLICAZIONE BANDO CONTRIBUTI ORDINARI - AMBITO TERRITORIALE N34 - COMUNI DI CAPRI ED ANACAPRI. </description>
-			<a10:updated>2017-11-03T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3025401</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3025401</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 03 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 18 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3025401</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>CONTENZIOSO TRIBUTARIO - PIANO DI ADESIONE E RATEIZZAZIONE </title>
-			<description>CONTENZIOSO TRIBUTARIO - PIANO DI ADESIONE E RATEIZZAZIONE </description>
 			<a10:updated>2017-11-03T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
