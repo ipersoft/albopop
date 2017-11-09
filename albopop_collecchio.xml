@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 09 Nov 2017 09:31:35 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 09 Nov 2017 13:31:24 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,16 +16,38 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Thu, 09 Nov 2017 09:31:35 +0100</pubDate>
+		<pubDate>Thu, 09 Nov 2017 13:31:24 +0100</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
 		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3033065</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3033065</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 07 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 22 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3033065</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
+			<title>AVVISO DI RILASCIO AUTORIZZAZIONE PAESAGGISTICA ALLA AB GLOBAL SERVICE SRL CON SEDE IN VIA MADONNINA, 7 - MADREGOLO - COLLECCHIO </title>
+			<description>AVVISO DI RILASCIO AUTORIZZAZIONE PAESAGGISTICA ALLA AB GLOBAL SERVICE SRL CON SEDE IN VIA MADONNINA, 7 - MADREGOLO - COLLECCHIO </description>
+			<a10:updated>2017-11-07T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3033063</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3033063</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 06 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 21 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3033063</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
+			<title>AVVISO DI RILASCIO ALLA DITTA COSTRUZIONI S.C.S. SRL DEL PERMESSO DI COSTRUIRE N. 2017/0444 PER REALIZZAZIONE DI EDIFICIO RESIDENZIALE PLURIFAMILIARE DENOMINATO "C" - AMBITO A COLLECCHIO NORD - COMPARTO C1B IN COLLECCHIO - VIA PRAGA N. 6 </title>
+			<description>AVVISO DI RILASCIO ALLA DITTA COSTRUZIONI S.C.S. SRL DEL PERMESSO DI COSTRUIRE N. 2017/0444 PER REALIZZAZIONE DI EDIFICIO RESIDENZIALE PLURIFAMILIARE DENOMINATO "C" - AMBITO A COLLECCHIO NORD - COMPARTO C1B IN COLLECCHIO - VIA PRAGA N. 6 </description>
+			<a10:updated>2017-11-06T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3032109</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3032109</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 09 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 21 May 2018 02:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 24 Nov 2017 01:00:00 +0100</category>
 			<category domain="http://albopop.it/specs#item-category-uid">3032109</category>
 			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO ON LINE ORDINANZE E AVVISI</category>
 			<title>MODIFICHE TEMPORANEE ALLA VIABILITA’ NEL PARCHEGGIO PUBBLICO DI VIALE SARAGAT E VIALE PERTINI A COLLECCHIO PER ALLESTIMENTO PISTA DI PATTINAGGIO SU GHIACCIO </title>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
 			<title>REALIZZAZIONE DI UN NUOVO PARCHEGGIO DA N.25 POSTI IN VIA TURATI A COLLECCHIO”. AFFIDAMENTO DIRETTO LAVORI DI COMPLETAMENTO ALLA DITTA AB GLOBAL SERVICE CON SEDE IN VIA MADONNINA 7 A MADREGOLO (PR) P.IVA. 02448320347. CODICE CUP G91B16000530004 CODICE CIG Z09208E619 </title>
 			<description>REALIZZAZIONE DI UN NUOVO PARCHEGGIO DA N.25 POSTI IN VIA TURATI A COLLECCHIO”. AFFIDAMENTO DIRETTO LAVORI DI COMPLETAMENTO ALLA DITTA AB GLOBAL SERVICE CON SEDE IN VIA MADONNINA 7 A MADREGOLO (PR) P.IVA. 02448320347. CODICE CUP G91B16000530004 CODICE CIG Z09208E619 </description>
-			<a10:updated>2017-11-03T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3026126</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3026126</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 03 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 18 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3026126</category>
-			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
-			<title>LAVORI DI MANUTENZIONE STRAORDINARIA STRADE ANNO 2017. AFFIDAMENTO DIRETTO ALLA DITTA AB GLOBAL SERVICE CON SEDE IN VIA MADONNINA 7 A MADREGOLO (PR) P.IVA. 02448320347 LAVORI DI ASFALTATURA PARCHEGGIO PUBBLICO IN VIA FILIPPO TURATI CODICE CUP G97H17000000004 CODICE CIG Z02208E531 </title>
-			<description>LAVORI DI MANUTENZIONE STRAORDINARIA STRADE ANNO 2017. AFFIDAMENTO DIRETTO ALLA DITTA AB GLOBAL SERVICE CON SEDE IN VIA MADONNINA 7 A MADREGOLO (PR) P.IVA. 02448320347 LAVORI DI ASFALTATURA PARCHEGGIO PUBBLICO IN VIA FILIPPO TURATI CODICE CUP G97H17000000004 CODICE CIG Z02208E531 </description>
-			<a10:updated>2017-11-03T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3026124</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3026124</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 03 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 18 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3026124</category>
-			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
-			<title>PARTECIPAZIONE ALLE SPESE DEL PROGETTO COLAZIONI ANNO 2017 DELL’ASSOCIAZIONE MISSIONE INSIEME </title>
-			<description>PARTECIPAZIONE ALLE SPESE DEL PROGETTO COLAZIONI ANNO 2017 DELL’ASSOCIAZIONE MISSIONE INSIEME </description>
 			<a10:updated>2017-11-03T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
