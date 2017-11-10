@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 09 Nov 2017 18:31:19 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 10 Nov 2017 08:31:55 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Thu, 09 Nov 2017 18:31:19 +0100</pubDate>
+		<pubDate>Fri, 10 Nov 2017 08:31:55 +0100</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3034079</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3034079</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 10 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 25 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3034079</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
+			<title>APPROVAZIONE DELL’INTERVENTO DI “RISANAMENTO DI CONDOTTA FOGNARIA E POZZETTI D’ISPEZIONE”, ACCESSORIO ALLE OPERE IDRAULICHE DI SMALTIMENTO ACQUE BIANCHE PER LA SICUREZZA DELLA VIABILITA’ STRADALE, ED AFFIDAMENTO DELLO STESSO ALLA DITTA MILAN NICOLA, CON SEDE AD ARRE (PD). (CIG: ZA22074575). </title>
+			<description>APPROVAZIONE DELL’INTERVENTO DI “RISANAMENTO DI CONDOTTA FOGNARIA E POZZETTI D’ISPEZIONE”, ACCESSORIO ALLE OPERE IDRAULICHE DI SMALTIMENTO ACQUE BIANCHE PER LA SICUREZZA DELLA VIABILITA’ STRADALE, ED AFFIDAMENTO DELLO STESSO ALLA DITTA MILAN NICOLA, CON SEDE AD ARRE (PD). (CIG: ZA22074575). </description>
+			<a10:updated>2017-11-10T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3033767</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3033767</link>
@@ -242,6 +253,17 @@
 			<a10:updated>2017-11-09T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3033038</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3033038</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 10 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 11 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3033038</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI ATTI DIVERSI</category>
+			<title>AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE_ELENCO N. 110599 DEL 09/11/2017_N. 26 NOMINATIVI VARI </title>
+			<description>AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE_ELENCO N. 110599 DEL 09/11/2017_N. 26 NOMINATIVI VARI </description>
+			<a10:updated>2017-11-10T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3033014</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3033014</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 09 Nov 2017 01:00:00 +0100</category>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DELIBERE DI CONSIGLIO</category>
 			<title>RATIFICA DELIBERAZIONE DI GIUNTA COMUNALE N. 255 DELL'8/9/2017 AD OGGETTO: "VARIAZIONE URGENTE AL BILANCIO DI PREVISIONE 2017/2019" </title>
 			<description>RATIFICA DELIBERAZIONE DI GIUNTA COMUNALE N. 255 DELL'8/9/2017 AD OGGETTO: "VARIAZIONE URGENTE AL BILANCIO DI PREVISIONE 2017/2019" </description>
-			<a10:updated>2017-11-09T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3032941</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3032941</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 09 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 11 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3032941</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI ATTI DIVERSI</category>
-			<title>AVVISO DI MOBILITA' ESTERNA PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO ED INDETERMINATO DI ISTRUTTORE AMMINISTRATIVO - CATEGORIA C </title>
-			<description>AVVISO DI MOBILITA' ESTERNA PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO ED INDETERMINATO DI ISTRUTTORE AMMINISTRATIVO - CATEGORIA C </description>
-			<a10:updated>2017-11-09T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3032814</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3032814</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 09 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 24 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3032814</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>DETERMINAZIONE COSTO COMPLESSIVO DELL’OPERA DI “COMPLETAMENTO DELLA ROTATORIA DI V.LE DELLA PACE – V.LE TRE MARTIRI E MESSA IN SICUREZZA DEI PERCORSI CICLOPEDONALI”. (CUP: G16G14000750006). </title>
-			<description>DETERMINAZIONE COSTO COMPLESSIVO DELL’OPERA DI “COMPLETAMENTO DELLA ROTATORIA DI V.LE DELLA PACE – V.LE TRE MARTIRI E MESSA IN SICUREZZA DEI PERCORSI CICLOPEDONALI”. (CUP: G16G14000750006). </description>
 			<a10:updated>2017-11-09T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
