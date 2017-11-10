@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 10 Nov 2017 12:32:27 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 10 Nov 2017 13:31:51 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Fri, 10 Nov 2017 12:32:27 +0100</pubDate>
+		<pubDate>Fri, 10 Nov 2017 13:31:51 +0100</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3035456</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3035456</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 10 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 11 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3035456</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO ON LINE BANDI GENERICI</category>
+			<title>PUBBLICAZIONE BANDO DI CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI UN POSTO DI “ISTRUTTORE DIRETTIVO AMMINISTRATIVO CONTABILE” - CAT. GIUR. D1 CCNL COMPARTO REGIONI AUTONOMIE LOCALI - DA ASSEGNARE AL COMUNE DI SALSOMAGGIORE TERME - SERVIZIO RISORSE UMANE </title>
+			<description>PUBBLICAZIONE BANDO DI CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI UN POSTO DI “ISTRUTTORE DIRETTIVO AMMINISTRATIVO CONTABILE” - CAT. GIUR. D1 CCNL COMPARTO REGIONI AUTONOMIE LOCALI - DA ASSEGNARE AL COMUNE DI SALSOMAGGIORE TERME - SERVIZIO RISORSE UMANE </description>
+			<a10:updated>2017-11-10T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3035011</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3035011</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
 			<title>LAVORI DI ADEGUAMENTO ANTINCENDIO DELLA PALESTRA ORI DI COLLECCHIO. APPROVAZIONE CERTIFICATO DI REGOLARE ESECUZIONE. CODICE CIG Z631F0E53F-CODICE CUP G94H17000480004 </title>
 			<description>LAVORI DI ADEGUAMENTO ANTINCENDIO DELLA PALESTRA ORI DI COLLECCHIO. APPROVAZIONE CERTIFICATO DI REGOLARE ESECUZIONE. CODICE CIG Z631F0E53F-CODICE CUP G94H17000480004 </description>
-			<a10:updated>2017-11-03T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3026134</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3026134</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 03 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 18 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3026134</category>
-			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
-			<title>LAVORI DI SISTEMAZIONE PILASTRI ARCHITETTONICI DEL CAMPO DA BASEBALL DI COLLECCHIO. AFFIDAMENTO ALL’IMPRESA EDILE FRANCO MENEGALLI DI COLLECCHIO P.IVA 00534520341 CODICE CIG ZA9209037F. </title>
-			<description>LAVORI DI SISTEMAZIONE PILASTRI ARCHITETTONICI DEL CAMPO DA BASEBALL DI COLLECCHIO. AFFIDAMENTO ALL’IMPRESA EDILE FRANCO MENEGALLI DI COLLECCHIO P.IVA 00534520341 CODICE CIG ZA9209037F. </description>
 			<a10:updated>2017-11-03T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
