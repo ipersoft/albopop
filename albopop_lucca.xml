@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 10 Nov 2017 11:31:35 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 10 Nov 2017 12:32:05 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Fri, 10 Nov 2017 11:31:35 +0100</pubDate>
+		<pubDate>Fri, 10 Nov 2017 12:32:05 +0100</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3637893</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3637893</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 10 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 25 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3637893</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>VIA BARSANTI E MATTEUCCI,FRAZIONE DI S.MARCO,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE PEDONALE,DAL 15/11/2017 AL 30/11/2017 DALLE ORE 8,00 ALLE ORE 17,30. </title>
+			<description>VIA BARSANTI E MATTEUCCI,FRAZIONE DI S.MARCO,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE PEDONALE,DAL 15/11/2017 AL 30/11/2017 DALLE ORE 8,00 ALLE ORE 17,30. </description>
+			<a10:updated>2017-11-10T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3637892</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3637892</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 10 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 25 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3637892</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBI</category>
+			<title>CONVOCAZIONE IN FORMA CONGIUNTA DELLE COMMISSIONI CONSILIARI LAVORI PUBBLICI E BILANCIO PER VENERDÌ 17 NOVEMBRE ORE 13.00. </title>
+			<description>CONVOCAZIONE IN FORMA CONGIUNTA DELLE COMMISSIONI CONSILIARI LAVORI PUBBLICI E BILANCIO PER VENERDÌ 17 NOVEMBRE ORE 13.00. </description>
+			<a10:updated>2017-11-10T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3637776</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3637776</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 10 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 25 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3637776</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONVOCAZIONI</category>
+			<title>CONVOCAZIONE URGENTE COMMISSIONE POLITICHE SOCIALI, ABITATIVE E DELLA SALUTE PER MERCOLEDÌ 15-11-2017 ORE 8.30 </title>
+			<description>CONVOCAZIONE URGENTE COMMISSIONE POLITICHE SOCIALI, ABITATIVE E DELLA SALUTE PER MERCOLEDÌ 15-11-2017 ORE 8.30 </description>
+			<a10:updated>2017-11-10T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3637443</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3637443</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>RIMBORSO SPESE A VARI COMUNI, PER LA NOTIFICA DEI PROVVEDIMENTI DI ANNULLAMENTO DELL'ISCRIZIONE ANAGRAFICA </title>
 			<description>RIMBORSO SPESE A VARI COMUNI, PER LA NOTIFICA DEI PROVVEDIMENTI DI ANNULLAMENTO DELL'ISCRIZIONE ANAGRAFICA </description>
-			<a10:updated>2017-11-09T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3634809</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3634809</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 09 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 24 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3634809</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI GIUNTA</category>
-			<title>MODIFICA DELLA COMPOSIZIONE DELL'OSSERVATORIO AFFARI ANIMALI. </title>
-			<description>MODIFICA DELLA COMPOSIZIONE DELL'OSSERVATORIO AFFARI ANIMALI. </description>
-			<a10:updated>2017-11-09T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3634806</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3634806</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 09 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 24 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3634806</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>ASSEGNAZIONE DI UNO SPAZIO ALL'ASSOCIAZIONE CULTURALE QUATTROQUARTI - APPROVAZIONE SCHEMA DI CONVENZIONE E ACCERTAMENTO INTROITO (CODICE FAMIGLIA 07) </title>
-			<description>ASSEGNAZIONE DI UNO SPAZIO ALL'ASSOCIAZIONE CULTURALE QUATTROQUARTI - APPROVAZIONE SCHEMA DI CONVENZIONE E ACCERTAMENTO INTROITO (CODICE FAMIGLIA 07) </description>
-			<a10:updated>2017-11-09T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3634803</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3634803</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 09 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 24 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3634803</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>ASSEGNAZIONE DI UN LOCALE ALL'ASSOCIAZIONE CORPO NAZIONALE GIOVANI ESPLORATORI ED ESPLORATRICI. APPROVAZIONE SCHEMA DI CONVENZIONE E ACCERTAMENTO INTROITO (CODICE FAMIGLIA 07) </title>
-			<description>ASSEGNAZIONE DI UN LOCALE ALL'ASSOCIAZIONE CORPO NAZIONALE GIOVANI ESPLORATORI ED ESPLORATRICI. APPROVAZIONE SCHEMA DI CONVENZIONE E ACCERTAMENTO INTROITO (CODICE FAMIGLIA 07) </description>
 			<a10:updated>2017-11-09T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

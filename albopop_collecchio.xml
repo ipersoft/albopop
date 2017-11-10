@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 10 Nov 2017 11:31:50 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 10 Nov 2017 12:32:27 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Fri, 10 Nov 2017 11:31:50 +0100</pubDate>
+		<pubDate>Fri, 10 Nov 2017 12:32:27 +0100</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3035011</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3035011</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 10 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 25 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3035011</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO ON LINE ODG DEL CONSIGLIO</category>
+			<title>INVIO CONVOCAZIONE ED ODG DEL CONSIGLIO COMUNALE DEL 16/11/20177 ALLE ORE 9.30 </title>
+			<description>INVIO CONVOCAZIONE ED ODG DEL CONSIGLIO COMUNALE DEL 16/11/20177 ALLE ORE 9.30 </description>
+			<a10:updated>2017-11-10T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3033597</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3033597</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
 			<title>LAVORI DI SISTEMAZIONE PILASTRI ARCHITETTONICI DEL CAMPO DA BASEBALL DI COLLECCHIO. AFFIDAMENTO ALL’IMPRESA EDILE FRANCO MENEGALLI DI COLLECCHIO P.IVA 00534520341 CODICE CIG ZA9209037F. </title>
 			<description>LAVORI DI SISTEMAZIONE PILASTRI ARCHITETTONICI DEL CAMPO DA BASEBALL DI COLLECCHIO. AFFIDAMENTO ALL’IMPRESA EDILE FRANCO MENEGALLI DI COLLECCHIO P.IVA 00534520341 CODICE CIG ZA9209037F. </description>
-			<a10:updated>2017-11-03T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3026132</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3026132</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 03 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 18 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3026132</category>
-			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
-			<title>CONTRATTO DI LOCAZIONE IMPIANTI SPORTIVI NELLA FRAZIONE DI LEMIGNANO. CONSUNTIVO LAVORI ESEGUITI E DISPOSIZIONI RELATIVE AI VERSAMENTI DEI CANONI DI AFFITTO. </title>
-			<description>CONTRATTO DI LOCAZIONE IMPIANTI SPORTIVI NELLA FRAZIONE DI LEMIGNANO. CONSUNTIVO LAVORI ESEGUITI E DISPOSIZIONI RELATIVE AI VERSAMENTI DEI CANONI DI AFFITTO. </description>
 			<a10:updated>2017-11-03T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
