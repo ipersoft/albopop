@@ -5,7 +5,7 @@
 		<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Felino</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 10 Nov 2017 10:31:14 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 10 Nov 2017 11:30:52 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Felino</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Felino</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_felino</a10:id>
-		<pubDate>Fri, 10 Nov 2017 10:31:14 +0100</pubDate>
+		<pubDate>Fri, 10 Nov 2017 11:30:52 +0100</pubDate>
 		<docs>http://albopop.it/comune/felino/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3034864</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3034864</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 10 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 09 May 2018 02:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3034864</category>
+			<category domain="http://albopop.it/specs#item-category-type">A005 ORDINANZE E AVVISI</category>
+			<title>INTERVENTI PERMANENTI PER TUTTE LE CATEGORIE DI VEICOLI SULLA VIABILITÀ DI VIA M.L. KING E VIA MOLINO A FELINO. </title>
+			<description>INTERVENTI PERMANENTI PER TUTTE LE CATEGORIE DI VEICOLI SULLA VIABILITÀ DI VIA M.L. KING E VIA MOLINO A FELINO. </description>
+			<a10:updated>2017-11-10T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3032858</guid>
 			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3032858</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DLG DELIBERA DI GIUNTA</category>
 			<title>AFFIDAMENTO IN CONCESSIONE DEL SERVIZIO DI ACCERTAMENTO E RISCOSSIONE DELL’IMPOSTA COMUNALE SULLA PUBBLICITA’ E DEL DIRITTO SULLE PUBBLICHE AFFISSIONI. INDIVIDUAZIONE FORMA DI GESTIONE E INDIRIZZI IN MERITO. PERIODO 01.10.2017-31.12.2022. </title>
 			<description>AFFIDAMENTO IN CONCESSIONE DEL SERVIZIO DI ACCERTAMENTO E RISCOSSIONE DELL’IMPOSTA COMUNALE SULLA PUBBLICITA’ E DEL DIRITTO SULLE PUBBLICHE AFFISSIONI. INDIVIDUAZIONE FORMA DI GESTIONE E INDIRIZZI IN MERITO. PERIODO 01.10.2017-31.12.2022. </description>
-			<a10:updated>2017-11-03T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3025760</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3025760</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 03 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 18 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3025760</category>
-			<category domain="http://albopop.it/specs#item-category-type">DLG DELIBERA DI GIUNTA</category>
-			<title>ASTA PUBBLICA PER LA CESSIONE CONGIUNTA DELLE QUOTE DI PROPRIETA’ DEL COMUNE DI FELINO E DI PROPRIETA’ DEL SOCIO PRIVATO FARMACISTA E DELLA TITOLARITA’ DELLA S.R.L. “FARMACIE COMUNALI DI FELINO”. INDIRIZZI AL RESPONSABILE DEL SERVIZIO. </title>
-			<description>ASTA PUBBLICA PER LA CESSIONE CONGIUNTA DELLE QUOTE DI PROPRIETA’ DEL COMUNE DI FELINO E DI PROPRIETA’ DEL SOCIO PRIVATO FARMACISTA E DELLA TITOLARITA’ DELLA S.R.L. “FARMACIE COMUNALI DI FELINO”. INDIRIZZI AL RESPONSABILE DEL SERVIZIO. </description>
 			<a10:updated>2017-11-03T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
