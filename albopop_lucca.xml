@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 10 Nov 2017 18:31:15 +0100</lastBuildDate>
+		<lastBuildDate>Sat, 11 Nov 2017 08:31:25 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Fri, 10 Nov 2017 18:31:15 +0100</pubDate>
+		<pubDate>Sat, 11 Nov 2017 08:31:25 +0100</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -253,6 +253,17 @@
 			<a10:updated>2017-11-10T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3636813</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3636813</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 11 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 12 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3636813</category>
+			<category domain="http://albopop.it/specs#item-category-type">DEPOSITO ATTI CASA COMUNALE</category>
+			<title>AGENZIA DELLE ENTRATE - RISCOSSIONE - DEPOSITO E PUBBLICAZIONE ALL`ALBO DAL 11/11/2017 AL 11/11/2017 DELL`ELENCO: 3664-1-20171110-LUCCA </title>
+			<description>AGENZIA DELLE ENTRATE - RISCOSSIONE - DEPOSITO E PUBBLICAZIONE ALL`ALBO DAL 11/11/2017 AL 11/11/2017 DELL`ELENCO: 3664-1-20171110-LUCCA </description>
+			<a10:updated>2017-11-11T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3636811</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3636811</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 10 Nov 2017 01:00:00 +0100</category>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
 			<title>PROROGA ORDINANZA N. 1793/2017 - DIRAMAZIONE DI VIA DEI SANTESCHI, FRAZIONE DI PONTETETTO, MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE STRADALE DAL GIORNO 12/11/2017 AL GIORNO 25/11/2017. </title>
 			<description>PROROGA ORDINANZA N. 1793/2017 - DIRAMAZIONE DI VIA DEI SANTESCHI, FRAZIONE DI PONTETETTO, MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE STRADALE DAL GIORNO 12/11/2017 AL GIORNO 25/11/2017. </description>
-			<a10:updated>2017-11-09T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3634957</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3634957</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 09 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 24 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3634957</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>AFFIDAMENTO PROVVISORIO AL CIRCOLO NUOTO A.S.D DELLA GESTIONE IN CONVENZIONE DELLA PISCINA COMUNALE. APPROVAZIONE DEL PIANO DI RIENTRO. (FAM. 7) </title>
-			<description>AFFIDAMENTO PROVVISORIO AL CIRCOLO NUOTO A.S.D DELLA GESTIONE IN CONVENZIONE DELLA PISCINA COMUNALE. APPROVAZIONE DEL PIANO DI RIENTRO. (FAM. 7) </description>
 			<a10:updated>2017-11-09T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
