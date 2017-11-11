@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 11 Nov 2017 10:31:26 +0100</lastBuildDate>
+		<lastBuildDate>Sat, 11 Nov 2017 11:32:05 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Sat, 11 Nov 2017 10:31:26 +0100</pubDate>
+		<pubDate>Sat, 11 Nov 2017 11:32:05 +0100</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3036184</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3036184</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 11 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 19 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3036184</category>
+			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>PUBBLICAZIONI DI MATRIMONIO RELATIVO A RAKIBI SOUFIANE - RAKHAR SOUMIA </title>
+			<description>PUBBLICAZIONI DI MATRIMONIO RELATIVO A RAKIBI SOUFIANE - RAKHAR SOUMIA </description>
+			<a10:updated>2017-11-11T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3036038</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3036038</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
 			<title>LAVORI DI REALIZZAZIONE DI NUOVO CANCELLO PEDONALE A SERVIZIO DELLA SCUOLA SECONDARIA DI I° GRADO “D. GALAVERNA”. AFFIDAMENTO DIRETTO ALLA DITTA BANDINI &amp; CANTARELLI SNC CON SEDE A BOGOLESE DI SORBOLO IN VIA ALESSANDRINI, 3 – (C.F./P.IVA 00148980345). CIG: Z18208F101 </title>
 			<description>LAVORI DI REALIZZAZIONE DI NUOVO CANCELLO PEDONALE A SERVIZIO DELLA SCUOLA SECONDARIA DI I° GRADO “D. GALAVERNA”. AFFIDAMENTO DIRETTO ALLA DITTA BANDINI &amp; CANTARELLI SNC CON SEDE A BOGOLESE DI SORBOLO IN VIA ALESSANDRINI, 3 – (C.F./P.IVA 00148980345). CIG: Z18208F101 </description>
-			<a10:updated>2017-11-03T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3026138</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3026138</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 03 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 18 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3026138</category>
-			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
-			<title>LAVORI DI ALLARGAMENTO STRADA GIAROLA. – APPROVAZIONE DEL PROGETTO ESECUTIVO, IMPEGNO DI SPESA ED AFFIDAMENTO LAVORI ALLA DITTA DARDANI ANDREA S.A.S. DI DARDANI ALBERTO, CON SEDE A FORNOVO TARO (PR) IN VIA G. DI VITTORIO N°32 - P.IVA/COD.FISC 00336600341 - CIG Z8C208EEEF – CUP G94E17000690004. </title>
-			<description>LAVORI DI ALLARGAMENTO STRADA GIAROLA. – APPROVAZIONE DEL PROGETTO ESECUTIVO, IMPEGNO DI SPESA ED AFFIDAMENTO LAVORI ALLA DITTA DARDANI ANDREA S.A.S. DI DARDANI ALBERTO, CON SEDE A FORNOVO TARO (PR) IN VIA G. DI VITTORIO N°32 - P.IVA/COD.FISC 00336600341 - CIG Z8C208EEEF – CUP G94E17000690004. </description>
 			<a10:updated>2017-11-03T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
