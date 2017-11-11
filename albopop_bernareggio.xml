@@ -5,7 +5,7 @@
 		<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bernareggio</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 11 Nov 2017 09:31:22 +0100</lastBuildDate>
+		<lastBuildDate>Sat, 11 Nov 2017 10:31:02 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bernareggio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bernareggio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bernareggio</a10:id>
-		<pubDate>Sat, 11 Nov 2017 09:31:22 +0100</pubDate>
+		<pubDate>Sat, 11 Nov 2017 10:31:02 +0100</pubDate>
 		<docs>http://albopop.it/comune/bernareggio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3639017</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3639017</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 11 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 13 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3639017</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI</category>
+			<title>POSTA CERTIFICATA: PROCEDURA DI MOBILITA' ESTERNA VOLONTARIA PER LA COPERTURA DI N. 1 POSTO DI DI ISTRUTTORE AMMINISTRATIVO, CATEGORIA C, A TEMPO PIENO E INDETERMINATO- AREA AFFARI GENERALI E SOCIOCULTURALI </title>
+			<description>POSTA CERTIFICATA: PROCEDURA DI MOBILITA' ESTERNA VOLONTARIA PER LA COPERTURA DI N. 1 POSTO DI DI ISTRUTTORE AMMINISTRATIVO, CATEGORIA C, A TEMPO PIENO E INDETERMINATO- AREA AFFARI GENERALI E SOCIOCULTURALI </description>
+			<a10:updated>2017-11-11T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3638066</guid>
 			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3638066</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>CIG: ZBC2084A68 - FORNITURA CANCELLERIA E STAMPATI PER SERVIZI DEMOGRAFICI MEDIANTE AFFIDAMENTO DIRETTO TRAMITE MEPA </title>
 			<description>CIG: ZBC2084A68 - FORNITURA CANCELLERIA E STAMPATI PER SERVIZI DEMOGRAFICI MEDIANTE AFFIDAMENTO DIRETTO TRAMITE MEPA </description>
-			<a10:updated>2017-11-06T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3624754</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3624754</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 06 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 21 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3624754</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>CIG Z8420881E8 - AGGIUDICAZIONE DEL SERVIZIO DI TRASLOCO DELL’ARCHIVIO DI PALAZZO LANDRIANI MEDIANTE PROCEDURA IN SINTEL DI REGIONE LOMBARDIA </title>
-			<description>CIG Z8420881E8 - AGGIUDICAZIONE DEL SERVIZIO DI TRASLOCO DELL’ARCHIVIO DI PALAZZO LANDRIANI MEDIANTE PROCEDURA IN SINTEL DI REGIONE LOMBARDIA </description>
 			<a10:updated>2017-11-06T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
