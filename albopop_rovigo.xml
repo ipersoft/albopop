@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Sun, 12 Nov 2017 13:31:13 +0100</lastBuildDate>
+		<lastBuildDate>Sun, 12 Nov 2017 14:31:19 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Sun, 12 Nov 2017 13:31:13 +0100</pubDate>
+		<pubDate>Sun, 12 Nov 2017 14:31:19 +0100</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3036267</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3036267</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sun, 12 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 27 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3036267</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
+			<title>ACCERTAMENTO E IMPEGNO DI SPESA PER CONTRIBUTI PREVIDENZIALI DEL PERSONALE ARTISTICO IMPEGNATO NEL MESE DI OTTOBRE 2017 </title>
+			<description>ACCERTAMENTO E IMPEGNO DI SPESA PER CONTRIBUTI PREVIDENZIALI DEL PERSONALE ARTISTICO IMPEGNATO NEL MESE DI OTTOBRE 2017 </description>
+			<a10:updated>2017-11-12T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3035833</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3035833</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
 			<title>AUTORIZZAZIONE PETROLIFERA N. 188 - DITTA BUSITALIA VENETO SPA - IMPIANTO PRIVATO DI DISTRIBUZIONE CARBURANTI SITO IN PIAZZALE PETRARCA 12 A ROVIGO. </title>
 			<description>AUTORIZZAZIONE PETROLIFERA N. 188 - DITTA BUSITALIA VENETO SPA - IMPIANTO PRIVATO DI DISTRIBUZIONE CARBURANTI SITO IN PIAZZALE PETRARCA 12 A ROVIGO. </description>
-			<a10:updated>2017-11-10T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3034079</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3034079</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 10 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 25 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3034079</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>APPROVAZIONE DELL’INTERVENTO DI “RISANAMENTO DI CONDOTTA FOGNARIA E POZZETTI D’ISPEZIONE”, ACCESSORIO ALLE OPERE IDRAULICHE DI SMALTIMENTO ACQUE BIANCHE PER LA SICUREZZA DELLA VIABILITA’ STRADALE, ED AFFIDAMENTO DELLO STESSO ALLA DITTA MILAN NICOLA, CON SEDE AD ARRE (PD). (CIG: ZA22074575). </title>
-			<description>APPROVAZIONE DELL’INTERVENTO DI “RISANAMENTO DI CONDOTTA FOGNARIA E POZZETTI D’ISPEZIONE”, ACCESSORIO ALLE OPERE IDRAULICHE DI SMALTIMENTO ACQUE BIANCHE PER LA SICUREZZA DELLA VIABILITA’ STRADALE, ED AFFIDAMENTO DELLO STESSO ALLA DITTA MILAN NICOLA, CON SEDE AD ARRE (PD). (CIG: ZA22074575). </description>
 			<a10:updated>2017-11-10T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
