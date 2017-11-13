@@ -5,7 +5,7 @@
 		<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Sgurgola</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 13 Nov 2017 12:30:54 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 13 Nov 2017 13:30:45 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Sgurgola</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Frosinone</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Sgurgola</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_sgurgola</a10:id>
-		<pubDate>Mon, 13 Nov 2017 12:30:54 +0100</pubDate>
+		<pubDate>Mon, 13 Nov 2017 13:30:45 +0100</pubDate>
 		<docs>http://albopop.it/comune/sgurgola/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3037472</guid>
+			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3037472</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 13 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 28 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3037472</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DELIBERE DI GIUNTA</category>
+			<title>VERBALE N. 67 DEL 31/10/2017 APPROVAZIONE VERBALE DI ACCORDO TRANSATTIVO TRA IJ COMUNE DI SGURGOLA E IL SIG. D. P. </title>
+			<description>VERBALE N. 67 DEL 31/10/2017 APPROVAZIONE VERBALE DI ACCORDO TRANSATTIVO TRA IJ COMUNE DI SGURGOLA E IL SIG. D. P. </description>
+			<a10:updated>2017-11-13T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3036793</guid>
 			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3036793</link>

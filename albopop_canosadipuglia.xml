@@ -5,7 +5,7 @@
 		<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Canosa di Puglia</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 13 Nov 2017 12:31:15 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 13 Nov 2017 13:30:58 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Canosa di Puglia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Barletta-Andria-Trani</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Canosa di Puglia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_canosadipuglia</a10:id>
-		<pubDate>Mon, 13 Nov 2017 12:31:15 +0100</pubDate>
+		<pubDate>Mon, 13 Nov 2017 13:30:58 +0100</pubDate>
 		<docs>http://albopop.it/comune/canosadipuglia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3640924</guid>
+			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3640924</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 13 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 21 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3640924</category>
+			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>CANNONE - DEL BOVE ORLANDI </title>
+			<description>CANNONE - DEL BOVE ORLANDI </description>
+			<a10:updated>2017-11-13T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3640816</guid>
+			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3640816</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 13 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 28 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3640816</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI E DEPOSITI AVVISO PUBBLICO</category>
+			<title>POSTA CERTIFICATA: AVVISO PUBBLICO PER L'AVVIAMENTO A SELEZIONE PRESSO L'ASL BAT DI N. 2 UNITÀ LAVORATIVE A T.D. CON PROFILO PROFESSIONALE DI "OPERATORE ADDETTO AL COMPUTER" </title>
+			<description>POSTA CERTIFICATA: AVVISO PUBBLICO PER L'AVVIAMENTO A SELEZIONE PRESSO L'ASL BAT DI N. 2 UNITÀ LAVORATIVE A T.D. CON PROFILO PROFESSIONALE DI "OPERATORE ADDETTO AL COMPUTER" </description>
+			<a10:updated>2017-11-13T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3638847</guid>
 			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3638847</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DI GIUNTA</category>
 			<title>PRELEVAMENTO FONDO DI RISERVA </title>
 			<description>PRELEVAMENTO FONDO DI RISERVA </description>
-			<a10:updated>2017-11-10T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3637381</guid>
-			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3637381</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 10 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 25 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3637381</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DI GIUNTA</category>
-			<title>Responsabilità civile Sig.ra Caprarella Michelina c/Comune di Canosa di Puglia. Nomina legale. </title>
-			<description>Responsabilità civile Sig.ra Caprarella Michelina c/Comune di Canosa di Puglia. Nomina legale. </description>
-			<a10:updated>2017-11-10T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3637010</guid>
-			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3637010</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 10 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 25 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3637010</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI E DEPOSITI RENDE NOTO</category>
-			<title>PERMESSO DI COSTRUIRE N.26 DEL 08/11/2017 RILASCIATO AL SIG. LOTITO NICOLA IN QUALITA' DI PROPRIETA' PER IL CAMBIO DI DESTINAZIONE D'USO DEL LOCALE A PIANO INTERRATO DA DEPOSITO AD ATTIVITA' COMMERCIALE SITO IN VIA GIOVANNI BOVIO N. 12 </title>
-			<description>PERMESSO DI COSTRUIRE N.26 DEL 08/11/2017 RILASCIATO AL SIG. LOTITO NICOLA IN QUALITA' DI PROPRIETA' PER IL CAMBIO DI DESTINAZIONE D'USO DEL LOCALE A PIANO INTERRATO DA DEPOSITO AD ATTIVITA' COMMERCIALE SITO IN VIA GIOVANNI BOVIO N. 12 </description>
 			<a10:updated>2017-11-10T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
