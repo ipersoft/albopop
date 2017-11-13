@@ -5,7 +5,7 @@
 		<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Belpasso</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 13 Nov 2017 15:31:04 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 13 Nov 2017 16:30:57 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Belpasso</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Belpasso</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_belpasso</a10:id>
-		<pubDate>Mon, 13 Nov 2017 15:31:04 +0100</pubDate>
+		<pubDate>Mon, 13 Nov 2017 16:30:57 +0100</pubDate>
 		<docs>http://albopop.it/comune/belpasso/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3641453</guid>
+			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3641453</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 13 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 21 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3641453</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO PER IRREPERIBILITA'</category>
+			<title>AVVISO DI LIQUIDAZIONE A CARICO DI DI MAURO EMANUELE 08/04/1979 </title>
+			<description>AVVISO DI LIQUIDAZIONE A CARICO DI DI MAURO EMANUELE 08/04/1979 </description>
+			<a10:updated>2017-11-13T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3641101</guid>
 			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3641101</link>
@@ -284,17 +295,6 @@
 			<title>ACCERT.N 14115865 A CARICO DI GRASSO FABIO N. IL 21/03/1982 A CATANIA </title>
 			<description>ACCERT.N 14115865 A CARICO DI GRASSO FABIO N. IL 21/03/1982 A CATANIA </description>
 			<a10:updated>2017-11-11T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3638496</guid>
-			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3638496</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 10 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 11 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3638496</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO</category>
-			<title>PUBBLICAZIONE AVVISO ESPLORATIVO PER INDAGINE DI MERCATO FINALIZZATA ALL'AFFIDAMENTO EX ART.36 CO.2 LETT.A) DEL DECRETO LEG.VO N.50/2016 DELLO SVOLGIMENTO DI CORSI DI FORMAZIONE/INFORMAZIONE PER I LAVORATORI DEL COMUNE DI BELPASSO AI SENSI DEL DECRETO LEG.VO N,81/2008- CIG. - Z2C20A837C </title>
-			<description>PUBBLICAZIONE AVVISO ESPLORATIVO PER INDAGINE DI MERCATO FINALIZZATA ALL'AFFIDAMENTO EX ART.36 CO.2 LETT.A) DEL DECRETO LEG.VO N.50/2016 DELLO SVOLGIMENTO DI CORSI DI FORMAZIONE/INFORMAZIONE PER I LAVORATORI DEL COMUNE DI BELPASSO AI SENSI DEL DECRETO LEG.VO N,81/2008- CIG. - Z2C20A837C </description>
-			<a10:updated>2017-11-10T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
