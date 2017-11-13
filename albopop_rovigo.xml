@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 13 Nov 2017 11:31:10 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 13 Nov 2017 12:31:31 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Mon, 13 Nov 2017 11:31:10 +0100</pubDate>
+		<pubDate>Mon, 13 Nov 2017 12:31:31 +0100</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3037404</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3037404</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 13 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 28 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3037404</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
+			<title>AMMISSIONE DEI CONCORRENTI AL SERVIZIO DI GESTIONE SINISTRI DA RCT – LOSS ADJUSTER – APPROVAZIONE VERBALE DELLA FASE DI CONTROLLO DELLA DOCUMENTAZIONE AMMINISTRATIVA. (ART. 29, COMMA 1, D.LGS 50/2016). </title>
+			<description>AMMISSIONE DEI CONCORRENTI AL SERVIZIO DI GESTIONE SINISTRI DA RCT – LOSS ADJUSTER – APPROVAZIONE VERBALE DELLA FASE DI CONTROLLO DELLA DOCUMENTAZIONE AMMINISTRATIVA. (ART. 29, COMMA 1, D.LGS 50/2016). </description>
+			<a10:updated>2017-11-13T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3037401</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3037401</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 13 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 28 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3037401</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
+			<title>LIQUIDAZIONE PARTE DEL CONTRIBUTO EROGATO DALLA REGIONE VENETO PER IL PROGETTO “FESTIVAL DELLE LINEE D'ACQUA” AL CONSERVATORIO “BENEDETTO MARCELLO” - LEGGE REGIONALE 49/78 </title>
+			<description>LIQUIDAZIONE PARTE DEL CONTRIBUTO EROGATO DALLA REGIONE VENETO PER IL PROGETTO “FESTIVAL DELLE LINEE D'ACQUA” AL CONSERVATORIO “BENEDETTO MARCELLO” - LEGGE REGIONALE 49/78 </description>
+			<a10:updated>2017-11-13T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3037272</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3037272</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 13 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 28 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3037272</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
+			<title>LIQUIDAZIONE CONTRIBUTI PREVIDENZIALI DEL PERSONALE ARTISTICO IMPEGNATO NEL MESE DI GENNAIO 2017. INTEGRAZIONE </title>
+			<description>LIQUIDAZIONE CONTRIBUTI PREVIDENZIALI DEL PERSONALE ARTISTICO IMPEGNATO NEL MESE DI GENNAIO 2017. INTEGRAZIONE </description>
+			<a10:updated>2017-11-13T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3036824</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3036824</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DELIBERE DI GIUNTA</category>
 			<title>ORGANIZZAZIONE DI ATTIVITÀ ED EVENTI IN OCCASIONE DELLA XXIII SETTIMANA DEI BENI CULTURALI E AMBIENTALI 01-10.12.2017. </title>
 			<description>ORGANIZZAZIONE DI ATTIVITÀ ED EVENTI IN OCCASIONE DELLA XXIII SETTIMANA DEI BENI CULTURALI E AMBIENTALI 01-10.12.2017. </description>
-			<a10:updated>2017-11-10T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3035111</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3035111</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 10 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 25 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3035111</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DELIBERE DI GIUNTA</category>
-			<title>APPROVAZIONE DAL PUNTO DI VISTA TECNICO DEL PROGETTO DI FATTIBILITÀ TECNICA ED ECONOMICA “PERCORSI CICLABILI DI COLLEGAMENTO TRA IL CENTRO URBANO E LE FRAZIONI – ROVIGO-GRIGNANO”. </title>
-			<description>APPROVAZIONE DAL PUNTO DI VISTA TECNICO DEL PROGETTO DI FATTIBILITÀ TECNICA ED ECONOMICA “PERCORSI CICLABILI DI COLLEGAMENTO TRA IL CENTRO URBANO E LE FRAZIONI – ROVIGO-GRIGNANO”. </description>
-			<a10:updated>2017-11-10T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3035108</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3035108</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 10 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 25 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3035108</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DELIBERE DI GIUNTA</category>
-			<title>VARIAZIONE AL BILANCIO DI PREVISIONE 2017/2019 AI SENSI DELL'ART. 175, COMMA 5 BIS LETT. E-BIS DEL DECRETO LEGISLATIVO 267/2000 </title>
-			<description>VARIAZIONE AL BILANCIO DI PREVISIONE 2017/2019 AI SENSI DELL'ART. 175, COMMA 5 BIS LETT. E-BIS DEL DECRETO LEGISLATIVO 267/2000 </description>
-			<a10:updated>2017-11-10T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3035105</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3035105</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 10 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 25 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3035105</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DELIBERE DI GIUNTA</category>
-			<title>DGR N. 1488 DEL 18 SETTEMBRE 2017 DI APPROVAZIONE DEL BANDO PER L'ASSEGNAZIONE DI CONTRIBUTI REGIONALI A FAVORE DELLE FAMIGLIE CON PARTI TRIGEMELLARI E DELLE FAMIGLIE CON NUMERO DI FIGLI PARI O SUPERIORE A QUATTRO. APPROVAZIONE GRADUATORIA DELLE DOMANDE IDONEE. </title>
-			<description>DGR N. 1488 DEL 18 SETTEMBRE 2017 DI APPROVAZIONE DEL BANDO PER L'ASSEGNAZIONE DI CONTRIBUTI REGIONALI A FAVORE DELLE FAMIGLIE CON PARTI TRIGEMELLARI E DELLE FAMIGLIE CON NUMERO DI FIGLI PARI O SUPERIORE A QUATTRO. APPROVAZIONE GRADUATORIA DELLE DOMANDE IDONEE. </description>
 			<a10:updated>2017-11-10T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
