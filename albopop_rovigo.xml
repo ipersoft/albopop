@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 13 Nov 2017 10:31:07 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 13 Nov 2017 11:31:10 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Mon, 13 Nov 2017 10:31:07 +0100</pubDate>
+		<pubDate>Mon, 13 Nov 2017 11:31:10 +0100</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3036824</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3036824</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 13 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 21 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3036824</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE AVVISI DI DEPOSITO</category>
+			<title>AVVISO DI DEPOSITO ATTO NELLA CASA DEL COMUNE_NOTIFICA AGLI EREDI DI GUARIENTO ENRICO </title>
+			<description>AVVISO DI DEPOSITO ATTO NELLA CASA DEL COMUNE_NOTIFICA AGLI EREDI DI GUARIENTO ENRICO </description>
+			<a10:updated>2017-11-13T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3036701</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3036701</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DELIBERE DI GIUNTA</category>
 			<title>DGR N. 1488 DEL 18 SETTEMBRE 2017 DI APPROVAZIONE DEL BANDO PER L'ASSEGNAZIONE DI CONTRIBUTI REGIONALI A FAVORE DELLE FAMIGLIE CON PARTI TRIGEMELLARI E DELLE FAMIGLIE CON NUMERO DI FIGLI PARI O SUPERIORE A QUATTRO. APPROVAZIONE GRADUATORIA DELLE DOMANDE IDONEE. </title>
 			<description>DGR N. 1488 DEL 18 SETTEMBRE 2017 DI APPROVAZIONE DEL BANDO PER L'ASSEGNAZIONE DI CONTRIBUTI REGIONALI A FAVORE DELLE FAMIGLIE CON PARTI TRIGEMELLARI E DELLE FAMIGLIE CON NUMERO DI FIGLI PARI O SUPERIORE A QUATTRO. APPROVAZIONE GRADUATORIA DELLE DOMANDE IDONEE. </description>
-			<a10:updated>2017-11-10T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3034996</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3034996</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 10 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 25 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3034996</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>RILEGATURA VOLUMI BROGLIACCI E DELIBERE DI GIUNTA DA GENNAIO 2011 AL MESE DI MARZO 2016 E DELIBERE DEL CONSIGLIO COMUNALE DA GENNAIO 2009 AL MESE DI MARZO 2016 – AFFIDAMENTO DIRETTO ALLA DITTA LEGATORIA ARTIGIANA CANIATO LINO DI CANIATO MICHELE – C.I.G. Z8C2097B24 </title>
-			<description>RILEGATURA VOLUMI BROGLIACCI E DELIBERE DI GIUNTA DA GENNAIO 2011 AL MESE DI MARZO 2016 E DELIBERE DEL CONSIGLIO COMUNALE DA GENNAIO 2009 AL MESE DI MARZO 2016 – AFFIDAMENTO DIRETTO ALLA DITTA LEGATORIA ARTIGIANA CANIATO LINO DI CANIATO MICHELE – C.I.G. Z8C2097B24 </description>
 			<a10:updated>2017-11-10T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

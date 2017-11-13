@@ -5,7 +5,7 @@
 		<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mascalucia</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 13 Nov 2017 10:31:09 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 13 Nov 2017 11:31:13 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mascalucia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mascalucia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mascalucia</a10:id>
-		<pubDate>Mon, 13 Nov 2017 10:31:09 +0100</pubDate>
+		<pubDate>Mon, 13 Nov 2017 11:31:13 +0100</pubDate>
 		<docs>http://albopop.it/comune/mascalucia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3036818</guid>
+			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3036818</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 13 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 28 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3036818</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRE PUBBLICAZIONI CONCESSIONE EDILIZIA</category>
+			<title>AUTORIZZAZIONE ALLO SCARICO N.98/2017 PAPPALARDO ROSDANGELA P.E. 23/2005 </title>
+			<description>AUTORIZZAZIONE ALLO SCARICO N.98/2017 PAPPALARDO ROSDANGELA P.E. 23/2005 </description>
+			<a10:updated>2017-11-13T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3035837</guid>
 			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3035837</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA DIRIGENZIALE</category>
 			<title>INGIUNZIONE DI PAGAMENTO DI SANZIONE AMMINISTRATIVA PER VIOLAZIONE DELL’ORDINANZA SINDACALE N. 31/2012 – RUBINO GERMANÀ </title>
 			<description>INGIUNZIONE DI PAGAMENTO DI SANZIONE AMMINISTRATIVA PER VIOLAZIONE DELL’ORDINANZA SINDACALE N. 31/2012 – RUBINO GERMANÀ </description>
-			<a10:updated>2017-11-09T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3033958</guid>
-			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3033958</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 09 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 24 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3033958</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA DIRIGENZIALE</category>
-			<title>INGIUNZIONE DI PAGAMENTO DI SANZIONE AMMINISTRATIVA PER VIOLAZIONE DELL’ORDINANZA SINDACALE N. 31/2012 – SAMBATARO MARIA CARMELA </title>
-			<description>INGIUNZIONE DI PAGAMENTO DI SANZIONE AMMINISTRATIVA PER VIOLAZIONE DELL’ORDINANZA SINDACALE N. 31/2012 – SAMBATARO MARIA CARMELA </description>
 			<a10:updated>2017-11-09T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

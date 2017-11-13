@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 13 Nov 2017 10:30:38 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 13 Nov 2017 11:30:39 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Mon, 13 Nov 2017 10:30:38 +0100</pubDate>
+		<pubDate>Mon, 13 Nov 2017 11:30:39 +0100</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3640106</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3640106</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 13 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 28 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3640106</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>LIQUIDAZIONE FATTURA SERVIZIO PULIZIE OTTOBRE 2017 – DITTA PULITORI ED AFFINI S.P.A. </title>
+			<description>LIQUIDAZIONE FATTURA SERVIZIO PULIZIE OTTOBRE 2017 – DITTA PULITORI ED AFFINI S.P.A. </description>
+			<a10:updated>2017-11-13T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3639760</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3639760</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 13 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 28 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3639760</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>LIQUIDAZIONE SPESE LEGALI PER ESECUZIONE SFRATTO ALLOGGIO NEI CONFRONTI DI UN ASSEGNATARIO ALLOGGIO DI PROPRIETÀ DELL’ATER DI VENEZIA. </title>
+			<description>LIQUIDAZIONE SPESE LEGALI PER ESECUZIONE SFRATTO ALLOGGIO NEI CONFRONTI DI UN ASSEGNATARIO ALLOGGIO DI PROPRIETÀ DELL’ATER DI VENEZIA. </description>
+			<a10:updated>2017-11-13T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3638654</guid>
 			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3638654</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title> MANUTENZIONE IMPIANTO ASCENSORE SEDE MUNICIPALE DI VIA CAIROLI – LIQUIDAZIONE ESA – ELECOMP SERVIZI ASCENSORI S.R.L.. </title>
 			<description> MANUTENZIONE IMPIANTO ASCENSORE SEDE MUNICIPALE DI VIA CAIROLI – LIQUIDAZIONE ESA – ELECOMP SERVIZI ASCENSORI S.R.L.. </description>
-			<a10:updated>2017-11-09T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3633617</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3633617</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 09 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 24 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3633617</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>FORNITURA E POSA DI MONTASCACALE PER L'APPARTAMENTO DI VIA ZINELLI CONTRASEGNATO DAL CIVICO N. 34. LIQUIDAZIONE FATTURA ESA -ELECOMP SERVIZI ASCENSORI SRL </title>
-			<description>FORNITURA E POSA DI MONTASCACALE PER L'APPARTAMENTO DI VIA ZINELLI CONTRASEGNATO DAL CIVICO N. 34. LIQUIDAZIONE FATTURA ESA -ELECOMP SERVIZI ASCENSORI SRL </description>
-			<a10:updated>2017-11-09T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3633613</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3633613</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 09 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 24 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3633613</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>LAVORI DI REALIZZAZIONE DI UN'AREA A PARCHEGGIO E STRADA DI LOTTIZZAZIONE NELLA FRAZIONE DI ARINO - LIQUIDAZIONE 2° CERTIFICATO DI PAGAMENTO DITTA EREDI GRANDI VENERINO SAS </title>
-			<description>LAVORI DI REALIZZAZIONE DI UN'AREA A PARCHEGGIO E STRADA DI LOTTIZZAZIONE NELLA FRAZIONE DI ARINO - LIQUIDAZIONE 2° CERTIFICATO DI PAGAMENTO DITTA EREDI GRANDI VENERINO SAS </description>
 			<a10:updated>2017-11-09T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
