@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 14 Nov 2017 13:31:35 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 14 Nov 2017 14:31:52 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,55 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Tue, 14 Nov 2017 13:31:35 +0100</pubDate>
+		<pubDate>Tue, 14 Nov 2017 14:31:52 +0100</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3039741</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3039741</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 14 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 29 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3039741</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE ORDINANZE</category>
+			<title>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE IN VIALE TRIESTE, VIA N. TOMMASEO ED IN VIA GORIZIA PER LAVORI DI MANUTENZIONE RETE IDRICA PER CONTO DI POLESINE ACQUE S.P.A. - PROROGA DELL'ORDINANZA N. 413/2017 DEL 10/10/2017 FINO AL 07/12/2017 </title>
+			<description>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE IN VIALE TRIESTE, VIA N. TOMMASEO ED IN VIA GORIZIA PER LAVORI DI MANUTENZIONE RETE IDRICA PER CONTO DI POLESINE ACQUE S.P.A. - PROROGA DELL'ORDINANZA N. 413/2017 DEL 10/10/2017 FINO AL 07/12/2017 </description>
+			<a10:updated>2017-11-14T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3039738</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3039738</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 14 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 29 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3039738</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE ORDINANZE</category>
+			<title>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE RELATIVA AL RINNOVO AUTORIZZAZIONE TRANSITO AUTOCARRI DITTA AMA CRAI EST DI MASSA SUPERIORE A 3,5 T. PER CONSEGNA PRODOTTI ALIMENTARI FINO AL 30/11/2018. </title>
+			<description>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE RELATIVA AL RINNOVO AUTORIZZAZIONE TRANSITO AUTOCARRI DITTA AMA CRAI EST DI MASSA SUPERIORE A 3,5 T. PER CONSEGNA PRODOTTI ALIMENTARI FINO AL 30/11/2018. </description>
+			<a10:updated>2017-11-14T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3039735</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3039735</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 14 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 29 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3039735</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE ORDINANZE</category>
+			<title>ORDINANZA PER LA DISCIPLINA PERMANENTE DELLA CIRCOLAZIONE STRADALE NEL SEGUENTE SITO: VIA ALL’ARA. </title>
+			<description>ORDINANZA PER LA DISCIPLINA PERMANENTE DELLA CIRCOLAZIONE STRADALE NEL SEGUENTE SITO: VIA ALL’ARA. </description>
+			<a10:updated>2017-11-14T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3039732</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3039732</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 14 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 29 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3039732</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE ORDINANZE</category>
+			<title>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE IN VIA PETRARCA PER LAVORI DI MANUTENZIONE RETE GAS PER CONTO DI AP RETI GAS ROVIGO </title>
+			<description>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE IN VIA PETRARCA PER LAVORI DI MANUTENZIONE RETE GAS PER CONTO DI AP RETI GAS ROVIGO </description>
+			<a10:updated>2017-11-14T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3039347</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3039347</link>
@@ -251,50 +295,6 @@
 			<title>AVVISO DEPOSITO PIANO DI RECUPERO DI INIZIATIVA PRIVATA IN APPLICAZIONE ART. 3 DELLA L.R.N.13/2011, IN ROVIGO VIA MARTIRI DI BELFIORE – DITTA MARFIN S.R.L. - VARIANTE ART.8 N.T.A. (ART.20 L.R.N.11/2004) ADOZIONE </title>
 			<description>AVVISO DEPOSITO PIANO DI RECUPERO DI INIZIATIVA PRIVATA IN APPLICAZIONE ART. 3 DELLA L.R.N.13/2011, IN ROVIGO VIA MARTIRI DI BELFIORE – DITTA MARFIN S.R.L. - VARIANTE ART.8 N.T.A. (ART.20 L.R.N.11/2004) ADOZIONE </description>
 			<a10:updated>2017-11-14T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3037701</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3037701</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 13 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 28 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3037701</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>LIQUIDAZIONE IV TRIMESTRE CANONE DI LOCAZIONE IMMOBILE SITO IN ROVIGO, ZONA INDUSTRIALE DELLA FRAZIONE DI BORSEA, VIA DELLE INDUSTRIE, DI PROPRIETÀ DELLA DITTA INTERPORTO SPA DESTINATO AD ARCHIVIO DEL COMUNE. </title>
-			<description>LIQUIDAZIONE IV TRIMESTRE CANONE DI LOCAZIONE IMMOBILE SITO IN ROVIGO, ZONA INDUSTRIALE DELLA FRAZIONE DI BORSEA, VIA DELLE INDUSTRIE, DI PROPRIETÀ DELLA DITTA INTERPORTO SPA DESTINATO AD ARCHIVIO DEL COMUNE. </description>
-			<a10:updated>2017-11-13T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3037698</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3037698</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 13 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 28 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3037698</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>ACCERTAMENTO IMPORTO CANONE LOCAZIONE ANNO 2017 - CONTRATTO REP. N. 120 DEL 20/09/2017 DI LOCAZIONE DELL'ALLOGGIO “E.R.P.” DI PROPRIETÀ DEL COMUNE DI ROVIGO, SITO IN FRAZIONE GRIGNANO POLESINE (ROVIGO), VIA SCOLO VALDENTRO N. 46 – PIANO TERRA – CON ANNESSO GARAGE. </title>
-			<description>ACCERTAMENTO IMPORTO CANONE LOCAZIONE ANNO 2017 - CONTRATTO REP. N. 120 DEL 20/09/2017 DI LOCAZIONE DELL'ALLOGGIO “E.R.P.” DI PROPRIETÀ DEL COMUNE DI ROVIGO, SITO IN FRAZIONE GRIGNANO POLESINE (ROVIGO), VIA SCOLO VALDENTRO N. 46 – PIANO TERRA – CON ANNESSO GARAGE. </description>
-			<a10:updated>2017-11-13T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3037695</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3037695</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 13 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 28 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3037695</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>LIQUIDAZIONE FATTURA N.69 DEL 28.09.2017, EMESSA DALLA DITTA NUOVA AUTOFFICINA TRIESTE DI ROVIGO, PER MANUTENZIONE MECCANICA VEICOLO COMUNALE ALFA ROMEO TG BB451PY, IN DOTAZIONE AL SETTORE SICUREZZA. ANNO 2017. </title>
-			<description>LIQUIDAZIONE FATTURA N.69 DEL 28.09.2017, EMESSA DALLA DITTA NUOVA AUTOFFICINA TRIESTE DI ROVIGO, PER MANUTENZIONE MECCANICA VEICOLO COMUNALE ALFA ROMEO TG BB451PY, IN DOTAZIONE AL SETTORE SICUREZZA. ANNO 2017. </description>
-			<a10:updated>2017-11-13T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3037692</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3037692</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 13 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 28 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3037692</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>LIQUIDAZIONE N.3 FATTURE EMESSE DALLA DITTA NUOVA AUTOFFICINA TRIESTE DI ROVIGO, PER MANUTENZIONE MECCANICA DI N.3 MEZZI COMUNALI: FIAT DOBLÒ TG BX442XF - FIAT PANDA TG DK715WF E FIAT PANDA TG BE295VT. ANNO 2017. </title>
-			<description>LIQUIDAZIONE N.3 FATTURE EMESSE DALLA DITTA NUOVA AUTOFFICINA TRIESTE DI ROVIGO, PER MANUTENZIONE MECCANICA DI N.3 MEZZI COMUNALI: FIAT DOBLÒ TG BX442XF - FIAT PANDA TG DK715WF E FIAT PANDA TG BE295VT. ANNO 2017. </description>
-			<a10:updated>2017-11-13T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
