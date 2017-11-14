@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 14 Nov 2017 12:31:35 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 14 Nov 2017 13:31:30 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Tue, 14 Nov 2017 12:31:35 +0100</pubDate>
+		<pubDate>Tue, 14 Nov 2017 13:31:30 +0100</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3643423</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3643423</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 14 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 29 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3643423</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>VIA DEL BRENNERO, FRAZ. SAN MARCO, ISTITUZIONE DEL SENSO UNICO ALTERNATO IL GIORNO 20 NOVEMBRE 2017 NELLE FASCE ORARIE 9:00-12:30 E 14:00-17:30. </title>
+			<description>VIA DEL BRENNERO, FRAZ. SAN MARCO, ISTITUZIONE DEL SENSO UNICO ALTERNATO IL GIORNO 20 NOVEMBRE 2017 NELLE FASCE ORARIE 9:00-12:30 E 14:00-17:30. </description>
+			<a10:updated>2017-11-14T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3643264</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3643264</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 14 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 29 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3643264</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>VIA GUINIGI,CENTRO STORICO,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE,PER IL 17/11/2017 DALLE ORE 9,00 ALLE ORE 16,00 </title>
+			<description>VIA GUINIGI,CENTRO STORICO,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE,PER IL 17/11/2017 DALLE ORE 9,00 ALLE ORE 16,00 </description>
+			<a10:updated>2017-11-14T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3643262</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3643262</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 14 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 29 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3643262</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>VIA DIVERSI,VIA A.MORDINI,VICOLO STYREGHI,CENTRO STORICO,MODIFICHE ALLA SOSTA ED ALLA CIRCOLAZIONE,DAL 24/11/2017 AL 29/11/2017 DALLE ORE 8,30 ALLE ORE 17,30. </title>
+			<description>VIA DIVERSI,VIA A.MORDINI,VICOLO STYREGHI,CENTRO STORICO,MODIFICHE ALLA SOSTA ED ALLA CIRCOLAZIONE,DAL 24/11/2017 AL 29/11/2017 DALLE ORE 8,30 ALLE ORE 17,30. </description>
+			<a10:updated>2017-11-14T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3643102</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3643102</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
 			<title> INDAGINE COMMERCIALE INFORMALE PER L’AFFIDAMENTO IN CONCESSIONE AI SENSI DELL’ART. 36 COMMA 2 LETTERA A) DEL D.LGS. 18 APRILE 2016 N. 50 DEL SERVIZIO DI ALLESTIMENTO, REALIZZAZIONE GESTIONE TECNICO ORGANIZZATIVA DELLA PISTA DI PATTINAGGIO SUL GHIACCIO. NOMINA DELLA COMMISSIONE (FAM. 11 ALTRO) </title>
 			<description> INDAGINE COMMERCIALE INFORMALE PER L’AFFIDAMENTO IN CONCESSIONE AI SENSI DELL’ART. 36 COMMA 2 LETTERA A) DEL D.LGS. 18 APRILE 2016 N. 50 DEL SERVIZIO DI ALLESTIMENTO, REALIZZAZIONE GESTIONE TECNICO ORGANIZZATIVA DELLA PISTA DI PATTINAGGIO SUL GHIACCIO. NOMINA DELLA COMMISSIONE (FAM. 11 ALTRO) </description>
-			<a10:updated>2017-11-13T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3639995</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3639995</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 13 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 28 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3639995</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>PROROGA ORDINANZA N. 1827/2017 - VIA NOTTOLINI E VIA LARGA, FRAZIONI DI SAN CONCORDIO IN CONTRADA E TEMPAGNANO, MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE PER LAVORI DI FRESATURA E ASFALTATURA. PERIODO : 14-17 NOVEMBRE 2017. </title>
-			<description>PROROGA ORDINANZA N. 1827/2017 - VIA NOTTOLINI E VIA LARGA, FRAZIONI DI SAN CONCORDIO IN CONTRADA E TEMPAGNANO, MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE PER LAVORI DI FRESATURA E ASFALTATURA. PERIODO : 14-17 NOVEMBRE 2017. </description>
-			<a10:updated>2017-11-13T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3639993</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3639993</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 13 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 28 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3639993</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>PROROGA ORDINANZA N.1869 DEL 8/11/2017,VIA VITTORIO VENETO,CENTRO STORICO,FINO AL 14/11/2017. </title>
-			<description>PROROGA ORDINANZA N.1869 DEL 8/11/2017,VIA VITTORIO VENETO,CENTRO STORICO,FINO AL 14/11/2017. </description>
-			<a10:updated>2017-11-13T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3639991</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3639991</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 13 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 28 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3639991</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>VIA GIACOMO PUCCINI,FRAZIONE S.ANNA,MODIFICHE TEMPORANEE ALLA SOSTA ED ALLA CIRCOLAZIONE,DAL 15/11/2017 AL 01/12/2017 DALLE ORE 8,00 ALLE ORE 18,00. </title>
-			<description>VIA GIACOMO PUCCINI,FRAZIONE S.ANNA,MODIFICHE TEMPORANEE ALLA SOSTA ED ALLA CIRCOLAZIONE,DAL 15/11/2017 AL 01/12/2017 DALLE ORE 8,00 ALLE ORE 18,00. </description>
 			<a10:updated>2017-11-13T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
