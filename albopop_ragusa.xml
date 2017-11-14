@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 14 Nov 2017 10:31:31 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 14 Nov 2017 11:31:50 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Tue, 14 Nov 2017 10:31:31 +0100</pubDate>
+		<pubDate>Tue, 14 Nov 2017 11:31:50 +0100</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3039066</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3039066</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 14 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 15 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3039066</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO CARTELLE ESATTORIALI ART. 140</category>
+			<title>PUBBLICAZIONE ART.140 A CARICO DI SIRTRE SRL C/O MOLTISANTI SERGIO AMMINISTRATORE UNICO ED ALTRI </title>
+			<description>PUBBLICAZIONE ART.140 A CARICO DI SIRTRE SRL C/O MOLTISANTI SERGIO AMMINISTRATORE UNICO ED ALTRI </description>
+			<a10:updated>2017-11-14T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3039065</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3039065</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 14 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 15 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3039065</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO CARTELLE ESATTORIALI ART. 140</category>
+			<title>PUBBLICAZIONE ART.140 A CARICO DI GIACCHINO TERESA ED ALTRI </title>
+			<description>PUBBLICAZIONE ART.140 A CARICO DI GIACCHINO TERESA ED ALTRI </description>
+			<a10:updated>2017-11-14T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3039062</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3039062</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 14 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 22 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3039062</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO CARTELLA ESATTORIALE ART. 60 D.P.R. 600/73</category>
+			<title>PUBBLICAZIONE ART.60 A CARICO DI TECNICO EDIL COSTRUZIONI SAS ED ALTRI </title>
+			<description>PUBBLICAZIONE ART.60 A CARICO DI TECNICO EDIL COSTRUZIONI SAS ED ALTRI </description>
+			<a10:updated>2017-11-14T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3038625</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3038625</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
 			<title>INTEGRAZIONE DETERMINAZIONE DIRIGENZIALE N.1717 DEL 13.10.2017-LIQUIDZIONE COMPENSI PER INDENNITÀ DI RISULTATO CONNESSA ALLE P.O. E AA.PP. ANNO 2016 </title>
 			<description>INTEGRAZIONE DETERMINAZIONE DIRIGENZIALE N.1717 DEL 13.10.2017-LIQUIDZIONE COMPENSI PER INDENNITÀ DI RISULTATO CONNESSA ALLE P.O. E AA.PP. ANNO 2016 </description>
-			<a10:updated>2017-11-13T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3037727</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3037727</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 13 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 20 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3037727</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
-			<title>COSTITUZIONE RISORSE DECENTRATE FONDO SALARIO ACCESSORIO ANNO 2017 PER IL PERSONALE DIPENDENTE </title>
-			<description>COSTITUZIONE RISORSE DECENTRATE FONDO SALARIO ACCESSORIO ANNO 2017 PER IL PERSONALE DIPENDENTE </description>
-			<a10:updated>2017-11-13T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3037725</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3037725</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 13 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 20 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3037725</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
-			<title>MODIFICA DETERMINAZIONI DIRIGENZIALI N. 1690 DEL 12/10/2017 E N. 1730 DEL 17/10-2017 - LIQUIDAZIONE COMPENSI PER L'ESERCIZIO DI ATTIVITA' SVOLTE CHE COMPORTANO L'ATTRIBUZIONE DI SPECIFICHE RESPONSABILITA' AI SENSI DELL'ART. 17, C. 2 , LETT. F) CCNL 01.04.1999 E DELL'ART. 36, C. 2, LETT. I) CCNL 02.01.2004 </title>
-			<description>MODIFICA DETERMINAZIONI DIRIGENZIALI N. 1690 DEL 12/10/2017 E N. 1730 DEL 17/10-2017 - LIQUIDAZIONE COMPENSI PER L'ESERCIZIO DI ATTIVITA' SVOLTE CHE COMPORTANO L'ATTRIBUZIONE DI SPECIFICHE RESPONSABILITA' AI SENSI DELL'ART. 17, C. 2 , LETT. F) CCNL 01.04.1999 E DELL'ART. 36, C. 2, LETT. I) CCNL 02.01.2004 </description>
-			<a10:updated>2017-11-13T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3037671</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3037671</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 13 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 28 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3037671</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERAZIONE DI GIUNTA MUNICIPALE N.473 - RICORSO ALLA COMMISSIONE TRIBUTARIA PROVINCIALE DI RAGUSA AVVERSO AVVISO DI ACCERTAMENTO N578/16 - IMPOSTA ICI ANNO 2010. SIG.RA IMPOSA RITA/COMUNE DI RAGUSA - AUTORIZZAZIONE A STARE IN GIUDIZIO. </title>
-			<description>DELIBERAZIONE DI GIUNTA MUNICIPALE N.473 - RICORSO ALLA COMMISSIONE TRIBUTARIA PROVINCIALE DI RAGUSA AVVERSO AVVISO DI ACCERTAMENTO N578/16 - IMPOSTA ICI ANNO 2010. SIG.RA IMPOSA RITA/COMUNE DI RAGUSA - AUTORIZZAZIONE A STARE IN GIUDIZIO. </description>
 			<a10:updated>2017-11-13T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

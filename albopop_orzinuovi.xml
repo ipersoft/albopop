@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 14 Nov 2017 10:30:48 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 14 Nov 2017 11:30:44 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Tue, 14 Nov 2017 10:30:48 +0100</pubDate>
+		<pubDate>Tue, 14 Nov 2017 11:30:44 +0100</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3039133</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3039133</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 14 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 14 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3039133</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI AVVISO</category>
+			<title>PROVVEDIMENTO CANCELLAZIONE ANAGRAFICA SEMA A. </title>
+			<description>PROVVEDIMENTO CANCELLAZIONE ANAGRAFICA SEMA A. </description>
+			<a10:updated>2017-11-14T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3039058</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3039058</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 14 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 14 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3039058</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI AVVIO DI PROCEDIMENTO</category>
+			<title>PROVVEDIMENTO CANCELLAZIONE ANAGRAFICA SEMA A. </title>
+			<description>PROVVEDIMENTO CANCELLAZIONE ANAGRAFICA SEMA A. </description>
+			<a10:updated>2017-11-14T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3037168</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3037168</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
 			<title>CONCESSIONE DEL PATROCINIO COMUNALE ALL’ASSOCIAZIONE PRO LOCO PER LA REALIZZAZIONE DELL’INIZIATIVA “ORZINUOVI CON UN CLIC” </title>
 			<description>CONCESSIONE DEL PATROCINIO COMUNALE ALL’ASSOCIAZIONE PRO LOCO PER LA REALIZZAZIONE DELL’INIZIATIVA “ORZINUOVI CON UN CLIC” </description>
-			<a10:updated>2017-11-09T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3032837</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3032837</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 09 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 23 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3032837</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>CONCESSIONE PATROCINIO COMUNALE ALL’ASSOCIAZIONE “LIONS CLUB ORZINUOVI” PER LA REALIZZAZIONE DI UN CONCERTO GOSPEL. </title>
-			<description>CONCESSIONE PATROCINIO COMUNALE ALL’ASSOCIAZIONE “LIONS CLUB ORZINUOVI” PER LA REALIZZAZIONE DI UN CONCERTO GOSPEL. </description>
-			<a10:updated>2017-11-09T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3032834</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3032834</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 09 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 23 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3032834</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>CONCESSIONE DEL PATROCINIO COMUNALE E CONTRIBUTO ECONOMICO STAORDINARIO PER LA REALIZZAZIONE DEL “PROGETTO TIROIDE”, REALIZZATO DALLA FONDAZIONE “ANT ITALIA ONLUS” – DELEGAZIONE DI BRESCIA </title>
-			<description>CONCESSIONE DEL PATROCINIO COMUNALE E CONTRIBUTO ECONOMICO STAORDINARIO PER LA REALIZZAZIONE DEL “PROGETTO TIROIDE”, REALIZZATO DALLA FONDAZIONE “ANT ITALIA ONLUS” – DELEGAZIONE DI BRESCIA </description>
 			<a10:updated>2017-11-09T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

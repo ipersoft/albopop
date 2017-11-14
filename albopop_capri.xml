@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 14 Nov 2017 10:31:27 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 14 Nov 2017 11:31:41 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Tue, 14 Nov 2017 10:31:27 +0100</pubDate>
+		<pubDate>Tue, 14 Nov 2017 11:31:41 +0100</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3039178</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3039178</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 14 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 22 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3039178</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO PUBBLICAZIONE AVVISO</category>
+			<title>AVVISO DI DEPOSITO DI N.2 ATTI NELLA CASA COMUNALE </title>
+			<description>AVVISO DI DEPOSITO DI N.2 ATTI NELLA CASA COMUNALE </description>
+			<a10:updated>2017-11-14T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3039105</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3039105</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 14 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 29 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3039105</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>CONTENZIOSO TRIBUTARIO - PIANO DI ADESIONE E RATEIZZAZIONE </title>
+			<description>CONTENZIOSO TRIBUTARIO - PIANO DI ADESIONE E RATEIZZAZIONE </description>
+			<a10:updated>2017-11-14T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3039102</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3039102</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 14 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 29 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3039102</category>
+			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
+			<title>progetti produttivita 2016 </title>
+			<description>progetti produttivita 2016 </description>
+			<a10:updated>2017-11-14T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3038296</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3038296</link>
@@ -262,39 +295,6 @@
 			<title>LIQUIDAZIONE SALARIO ACCESSORIO 3° SETTORE - SERVIZI DEMOGRAFICI E SOCIALI - MESE DI OTTOBRE 2017. </title>
 			<description>LIQUIDAZIONE SALARIO ACCESSORIO 3° SETTORE - SERVIZI DEMOGRAFICI E SOCIALI - MESE DI OTTOBRE 2017. </description>
 			<a10:updated>2017-11-10T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3033424</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3033424</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 09 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 24 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3033424</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
-			<title>L'ISOLA CHE C'E' - EVENTI 2017 - LIQUIDAZIONE FATTURE REALIZZAZIONE EVENTI 21/22 SETTEMBRE, IN...CANTO IN PIAZZETTA, 8 OTTOBRE MAURO DI DOMENICO. DITTA OUVERTURE S.A.S. CIG. ZD41FF3E25 CIG. Z4420281E9 CIG. Z2A2031CAE </title>
-			<description>L'ISOLA CHE C'E' - EVENTI 2017 - LIQUIDAZIONE FATTURE REALIZZAZIONE EVENTI 21/22 SETTEMBRE, IN...CANTO IN PIAZZETTA, 8 OTTOBRE MAURO DI DOMENICO. DITTA OUVERTURE S.A.S. CIG. ZD41FF3E25 CIG. Z4420281E9 CIG. Z2A2031CAE </description>
-			<a10:updated>2017-11-09T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3033422</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3033422</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 09 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 24 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3033422</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
-			<title>L'ISOLA CHE C'E' - EVENTI 2017 - LIQUIDAZIONE FATTURA PER ALLESTIMENTI SETTEMBRE 2017. DITTA ALMANI S.R.L. CIG. ZCB1FD9137 </title>
-			<description>L'ISOLA CHE C'E' - EVENTI 2017 - LIQUIDAZIONE FATTURA PER ALLESTIMENTI SETTEMBRE 2017. DITTA ALMANI S.R.L. CIG. ZCB1FD9137 </description>
-			<a10:updated>2017-11-09T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3033365</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3033365</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 09 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 16 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3033365</category>
-			<category domain="http://albopop.it/specs#item-category-type">CONVOCAZIONE CONSIGLIO COMUNALE </category>
-			<title>CONSIGLIO COMUNALE 15 NOVEMBRE 2017 - INTEGRAZIONE ODG </title>
-			<description>CONSIGLIO COMUNALE 15 NOVEMBRE 2017 - INTEGRAZIONE ODG </description>
-			<a10:updated>2017-11-09T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
