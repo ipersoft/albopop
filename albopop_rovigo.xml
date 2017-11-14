@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 14 Nov 2017 16:31:19 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 14 Nov 2017 17:31:36 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Tue, 14 Nov 2017 16:31:19 +0100</pubDate>
+		<pubDate>Tue, 14 Nov 2017 17:31:36 +0100</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3039961</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3039961</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 14 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 29 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3039961</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
+			<title>LAVORI DI BONIFICA CON PULIZIA GIARDINO INTERNO PALAZZO CAMPO (EX BANCA D’ITALIA) DI VIA MAZZINI A ROVIGO. LIQUIDAZIONE FATTURA DITTA TECNOVERDE S.R.L. DI VILLADOSE (RO). CIG Z851FE7D45. </title>
+			<description>LAVORI DI BONIFICA CON PULIZIA GIARDINO INTERNO PALAZZO CAMPO (EX BANCA D’ITALIA) DI VIA MAZZINI A ROVIGO. LIQUIDAZIONE FATTURA DITTA TECNOVERDE S.R.L. DI VILLADOSE (RO). CIG Z851FE7D45. </description>
+			<a10:updated>2017-11-14T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3039741</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3039741</link>
@@ -284,17 +295,6 @@
 			<title>STAGIONE TEATRORAGAZZI ED EVENTI SPECIALI ANNO 2017/2018. STIPULA CONVENZIONE CON LA PICCIONAIA PER L'EVENTO SPECIALE DEL 19 NOVEMBRE 2017. </title>
 			<description>STAGIONE TEATRORAGAZZI ED EVENTI SPECIALI ANNO 2017/2018. STIPULA CONVENZIONE CON LA PICCIONAIA PER L'EVENTO SPECIALE DEL 19 NOVEMBRE 2017. </description>
 			<a10:updated>2017-11-13T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3037754</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3037754</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 14 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 13 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3037754</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE AVVISI DI DEPOSITO</category>
-			<title>AVVISO DEPOSITO PIANO DI RECUPERO DI INIZIATIVA PRIVATA IN APPLICAZIONE ART. 3 DELLA L.R.N.13/2011, IN ROVIGO VIA MARTIRI DI BELFIORE – DITTA MARFIN S.R.L. - VARIANTE ART.8 N.T.A. (ART.20 L.R.N.11/2004) ADOZIONE </title>
-			<description>AVVISO DEPOSITO PIANO DI RECUPERO DI INIZIATIVA PRIVATA IN APPLICAZIONE ART. 3 DELLA L.R.N.13/2011, IN ROVIGO VIA MARTIRI DI BELFIORE – DITTA MARFIN S.R.L. - VARIANTE ART.8 N.T.A. (ART.20 L.R.N.11/2004) ADOZIONE </description>
-			<a10:updated>2017-11-14T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
