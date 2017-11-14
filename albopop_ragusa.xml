@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 14 Nov 2017 09:31:59 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 14 Nov 2017 10:31:31 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Tue, 14 Nov 2017 09:31:59 +0100</pubDate>
+		<pubDate>Tue, 14 Nov 2017 10:31:31 +0100</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3038625</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3038625</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 14 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 15 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3038625</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONVOCAZIONI CONVOCAZIONE COMMISSIONE TRASPARENZA</category>
+			<title>CONVOCAZIONE COMMISSIONE TRASPARENZA GIORNO 15 NOVEMBRE 2017 ALLE ORE 15,30 </title>
+			<description>CONVOCAZIONE COMMISSIONE TRASPARENZA GIORNO 15 NOVEMBRE 2017 ALLE ORE 15,30 </description>
+			<a10:updated>2017-11-14T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3038497</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3038497</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI GIUNTA</category>
 			<title>DELIBERAZIONE DI GIUNTA MUNICIPALE N.473 - RICORSO ALLA COMMISSIONE TRIBUTARIA PROVINCIALE DI RAGUSA AVVERSO AVVISO DI ACCERTAMENTO N578/16 - IMPOSTA ICI ANNO 2010. SIG.RA IMPOSA RITA/COMUNE DI RAGUSA - AUTORIZZAZIONE A STARE IN GIUDIZIO. </title>
 			<description>DELIBERAZIONE DI GIUNTA MUNICIPALE N.473 - RICORSO ALLA COMMISSIONE TRIBUTARIA PROVINCIALE DI RAGUSA AVVERSO AVVISO DI ACCERTAMENTO N578/16 - IMPOSTA ICI ANNO 2010. SIG.RA IMPOSA RITA/COMUNE DI RAGUSA - AUTORIZZAZIONE A STARE IN GIUDIZIO. </description>
-			<a10:updated>2017-11-13T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3037669</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3037669</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 13 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 28 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3037669</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERAZIONE DI GIUNTA MUNICIPALE N.472- RICORSO ALLA COMMISSIONE TRIBUTARIA PROVINCIALE DI RAGUSA AVVERSO AVVISO DI ACCERTAMENTO N.249/16 - IMPOSTA ICI ANNO 2010 SIG.RA CASCONE MARIA ASSUNTA/COMUNE DI RAGUSA - AUTORIZZAZIONE A STARE IN GIUDIZIO </title>
-			<description>DELIBERAZIONE DI GIUNTA MUNICIPALE N.472- RICORSO ALLA COMMISSIONE TRIBUTARIA PROVINCIALE DI RAGUSA AVVERSO AVVISO DI ACCERTAMENTO N.249/16 - IMPOSTA ICI ANNO 2010 SIG.RA CASCONE MARIA ASSUNTA/COMUNE DI RAGUSA - AUTORIZZAZIONE A STARE IN GIUDIZIO </description>
 			<a10:updated>2017-11-13T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
