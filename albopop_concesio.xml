@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 15 Nov 2017 17:30:35 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 15 Nov 2017 18:30:35 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Wed, 15 Nov 2017 17:30:35 +0100</pubDate>
+		<pubDate>Wed, 15 Nov 2017 18:30:35 +0100</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3647404</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3647404</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 15 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 30 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3647404</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>APPROVAZIONE DELL'AVVISO PER MANIFESTAZIONE DI INTERESSE PER L'INDIVIDUAZIONE DEGLI INQUILINI MOROSI INCOLPEVOLI NELL'AMBITO DELL'INIZIATIVA DI CUI ALLE D.G.R. 2648/2014 E N. 5644 DEL 03/10/2016. </title>
+			<description>APPROVAZIONE DELL'AVVISO PER MANIFESTAZIONE DI INTERESSE PER L'INDIVIDUAZIONE DEGLI INQUILINI MOROSI INCOLPEVOLI NELL'AMBITO DELL'INIZIATIVA DI CUI ALLE D.G.R. 2648/2014 E N. 5644 DEL 03/10/2016. </description>
+			<a10:updated>2017-11-15T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3646776</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3646776</link>
@@ -284,17 +295,6 @@
 			<title>AVVISO PUBBLICO DI MANIFESTAZIONE DI INTERESSE PER LA FORMAZIONE DELL'ALBO FORNITORI DA INVITARE ALLE PROCEDURE NEGOZIATE LAVORI/SERVIZI/FORNITURE PER L'ANNO 2018 </title>
 			<description>AVVISO PUBBLICO DI MANIFESTAZIONE DI INTERESSE PER LA FORMAZIONE DELL'ALBO FORNITORI DA INVITARE ALLE PROCEDURE NEGOZIATE LAVORI/SERVIZI/FORNITURE PER L'ANNO 2018 </description>
 			<a10:updated>2017-11-14T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3640499</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3640499</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 13 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 13 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3640499</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DECRETO</category>
-			<title>RICHIESTA CAMBIO NOME DELLA MINORE LAFFRANCHI VIOLA ANDREA PRESENTATA DA LAFFRANCHI PAOLO IN QUALITÀ DI GENITORE </title>
-			<description>RICHIESTA CAMBIO NOME DELLA MINORE LAFFRANCHI VIOLA ANDREA PRESENTATA DA LAFFRANCHI PAOLO IN QUALITÀ DI GENITORE </description>
-			<a10:updated>2017-11-13T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
