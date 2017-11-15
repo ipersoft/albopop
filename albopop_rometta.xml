@@ -5,7 +5,7 @@
 		<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rometta</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 15 Nov 2017 12:31:43 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 15 Nov 2017 13:31:28 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rometta</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Messina</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rometta</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rometta</a10:id>
-		<pubDate>Wed, 15 Nov 2017 12:31:43 +0100</pubDate>
+		<pubDate>Wed, 15 Nov 2017 13:31:28 +0100</pubDate>
 		<docs>http://albopop.it/comune/rometta/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3646246</guid>
+			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3646246</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 15 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 30 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3646246</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
+			<title>ORDINANZA AREA VIGILANZA N. 43 DEL 15 NOVEMBRE 2017 - DIVIETO DI TRANSITO E SOSTA NELLA VIA DI GIMELLO E NELLA PIAZZA ANTISTANTE LA CHIESA DI GIMELLO IN OCCASIONE DEI FESTEGGIAMENTI IN ONORE DI SAN MARTINO DIFFERITI AL 18 NOVEMBRE A CAUSA DI AVVERSE CONDIZIONI METEO. </title>
+			<description>ORDINANZA AREA VIGILANZA N. 43 DEL 15 NOVEMBRE 2017 - DIVIETO DI TRANSITO E SOSTA NELLA VIA DI GIMELLO E NELLA PIAZZA ANTISTANTE LA CHIESA DI GIMELLO IN OCCASIONE DEI FESTEGGIAMENTI IN ONORE DI SAN MARTINO DIFFERITI AL 18 NOVEMBRE A CAUSA DI AVVERSE CONDIZIONI METEO. </description>
+			<a10:updated>2017-11-15T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3644810</guid>
 			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3644810</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
 			<title>LEGGE 328/2000 – AREA OMOGENEA DISTRETTUALE N. 1 – COMUNI DI VILLAFRANCA TIRRENA, SAPONARA E ROMETTA – APPROVAZIONE PIANO DI ZONA 2013/2015 – IMPLEMENTAZIONE TRIENNIO 2013/2015 - DELIBERA N. 7 DEL 02/10/2017 DEL COMITATO DEI SINDACI DELL’A.O.D. N. 1 - PRESA D’ATTO DA PARTE DEL COMUNE DI ROMETTA </title>
 			<description>LEGGE 328/2000 – AREA OMOGENEA DISTRETTUALE N. 1 – COMUNI DI VILLAFRANCA TIRRENA, SAPONARA E ROMETTA – APPROVAZIONE PIANO DI ZONA 2013/2015 – IMPLEMENTAZIONE TRIENNIO 2013/2015 - DELIBERA N. 7 DEL 02/10/2017 DEL COMITATO DEI SINDACI DELL’A.O.D. N. 1 - PRESA D’ATTO DA PARTE DEL COMUNE DI ROMETTA </description>
-			<a10:updated>2017-11-09T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3635624</guid>
-			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3635624</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 09 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 24 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3635624</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>RICORSO PER DENUNCIA DI DANNO TEMUTO EX ART. 688 C.P.C. E 1172 C.C PROMOSSO DA …OMISSIS... RECLAMO AVVERSO L’ORDINANZA DEL 23.10.2017 EMESSA DAL TRIBUNALE DI MESSINA. </title>
-			<description>RICORSO PER DENUNCIA DI DANNO TEMUTO EX ART. 688 C.P.C. E 1172 C.C PROMOSSO DA …OMISSIS... RECLAMO AVVERSO L’ORDINANZA DEL 23.10.2017 EMESSA DAL TRIBUNALE DI MESSINA. </description>
 			<a10:updated>2017-11-09T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

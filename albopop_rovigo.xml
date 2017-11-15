@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 15 Nov 2017 12:32:19 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 15 Nov 2017 13:31:49 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Wed, 15 Nov 2017 12:32:19 +0100</pubDate>
+		<pubDate>Wed, 15 Nov 2017 13:31:49 +0100</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3041298</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3041298</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 15 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 30 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3041298</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
+			<title>LIQUIDAZIONE SPESA PER RESTITUZIONE DIRITTI DI SEGRETERIA VERSATI PER PRATICHE EDILIZIE A FAMIGLIE. </title>
+			<description>LIQUIDAZIONE SPESA PER RESTITUZIONE DIRITTI DI SEGRETERIA VERSATI PER PRATICHE EDILIZIE A FAMIGLIE. </description>
+			<a10:updated>2017-11-15T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3041233</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3041233</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 15 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 30 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3041233</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
+			<title>ASSEGNAZIONE ALLOGGIO DI EDILIZIA RESIDENZIALE PUBBLICA SITO IN ROVIGO VIALE OROBONI N. 5 </title>
+			<description>ASSEGNAZIONE ALLOGGIO DI EDILIZIA RESIDENZIALE PUBBLICA SITO IN ROVIGO VIALE OROBONI N. 5 </description>
+			<a10:updated>2017-11-15T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3041081</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3041081</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
 			<title>LIQUIDAZIONE SINISTRO DA RCT DELL'ENTE NR. M217000471- RIEMISSIONE MANDATO NON ANDATO A BUON FINE. </title>
 			<description>LIQUIDAZIONE SINISTRO DA RCT DELL'ENTE NR. M217000471- RIEMISSIONE MANDATO NON ANDATO A BUON FINE. </description>
-			<a10:updated>2017-11-14T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3038958</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3038958</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 14 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 29 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3038958</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE PERMESSI DI COSTRUIRE</category>
-			<title>PERMESSO DI COSTRUIRE IN ACCERTAMENTO DI CONFORMITÀ EX ART. 36 DPR 380/01, N. 102 DEL 14/11/2017, RIF. UT 93/2017, PER MODIFICHE INTERNE E PROSPETTICHE DELL'IMMOBILE SITO IN VIA POZZATO N. 90 - ROVIGO </title>
-			<description>PERMESSO DI COSTRUIRE IN ACCERTAMENTO DI CONFORMITÀ EX ART. 36 DPR 380/01, N. 102 DEL 14/11/2017, RIF. UT 93/2017, PER MODIFICHE INTERNE E PROSPETTICHE DELL'IMMOBILE SITO IN VIA POZZATO N. 90 - ROVIGO </description>
-			<a10:updated>2017-11-14T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3038580</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3038580</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 14 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 29 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3038580</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>LAVORI DI MANUTENZIONE STRAORDINARIA CIMITERI. SOMME IN AMMINISTRAZIONE DIRETTA. AFFIDAMENTO DIRETTO DITTA RUZZANTE FABRIZIO DI ROVIGO EX ART. 36 C. 2 LETT. A) D.LGS. 50/2016. CIG: Z15200EA1D. </title>
-			<description>LAVORI DI MANUTENZIONE STRAORDINARIA CIMITERI. SOMME IN AMMINISTRAZIONE DIRETTA. AFFIDAMENTO DIRETTO DITTA RUZZANTE FABRIZIO DI ROVIGO EX ART. 36 C. 2 LETT. A) D.LGS. 50/2016. CIG: Z15200EA1D. </description>
 			<a10:updated>2017-11-14T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

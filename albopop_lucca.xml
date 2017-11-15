@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 15 Nov 2017 12:31:41 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 15 Nov 2017 13:31:27 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Wed, 15 Nov 2017 12:31:41 +0100</pubDate>
+		<pubDate>Wed, 15 Nov 2017 13:31:27 +0100</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3646299</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3646299</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 15 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 30 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3646299</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>AVVISO DI MANIFESTAZIONE DI INTERESSE PER L'INDIVIDUAZIONE DI COOPERATIVE SOCIALI DI TIPO B) INTERESSATE A COLLABORARE CON L'ENTE PER LA REALIZZAZIONE DI INTERVENTI SUL PATRIMONIO COMUNALE, CON L'OBIETTIVO DI FAVORIRE L'OCCUPABILITÀ DI SOGGETTI SVANTAGGIATI NEL MERCATO DEL LAVORO E DI CONTRASTARE LA DISOCCUPAZIONE DI LUNGA DURATA. ESITO DELLA PROCEDURA </title>
+			<description>AVVISO DI MANIFESTAZIONE DI INTERESSE PER L'INDIVIDUAZIONE DI COOPERATIVE SOCIALI DI TIPO B) INTERESSATE A COLLABORARE CON L'ENTE PER LA REALIZZAZIONE DI INTERVENTI SUL PATRIMONIO COMUNALE, CON L'OBIETTIVO DI FAVORIRE L'OCCUPABILITÀ DI SOGGETTI SVANTAGGIATI NEL MERCATO DEL LAVORO E DI CONTRASTARE LA DISOCCUPAZIONE DI LUNGA DURATA. ESITO DELLA PROCEDURA </description>
+			<a10:updated>2017-11-15T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3646242</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3646242</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 15 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 30 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3646242</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>AVVISO PUBBLICO PER LA FORMAZIONE DI UN BACINO DI SOGGETTI DISOCCUPATI/INOCCUPATI DISPONIBILI ALL'IMPIEGO – CON CONTRATTO DI LAVORO SUBORDINATO E A TEMPO DETERMINATO CON LE COOPERATIVE SOCIALI CHE STIPULERANNO CON L'ENTE UN'APPOSITA CONVENZIONE - PER LA REALIZZAZIONE DI INTERVENTI SUL PATRIMONIO COMUNALE. AMMESSI ED ESCLUSI. </title>
+			<description>AVVISO PUBBLICO PER LA FORMAZIONE DI UN BACINO DI SOGGETTI DISOCCUPATI/INOCCUPATI DISPONIBILI ALL'IMPIEGO – CON CONTRATTO DI LAVORO SUBORDINATO E A TEMPO DETERMINATO CON LE COOPERATIVE SOCIALI CHE STIPULERANNO CON L'ENTE UN'APPOSITA CONVENZIONE - PER LA REALIZZAZIONE DI INTERVENTI SUL PATRIMONIO COMUNALE. AMMESSI ED ESCLUSI. </description>
+			<a10:updated>2017-11-15T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3645791</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3645791</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI GIUNTA</category>
 			<title>PROGRAMMAZIONE TRIENNALE DEL FABBISOGNO DI PERSONALE RIFERITA AL TRIENNIO 2017, 2018 E 2019 GIA’ APPROVATA CON DELIBERAZIONE G.C. N. 66 DEL 14.3.2017 - INTEGRAZIONE. </title>
 			<description>PROGRAMMAZIONE TRIENNALE DEL FABBISOGNO DI PERSONALE RIFERITA AL TRIENNIO 2017, 2018 E 2019 GIA’ APPROVATA CON DELIBERAZIONE G.C. N. 66 DEL 14.3.2017 - INTEGRAZIONE. </description>
-			<a10:updated>2017-11-14T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3642603</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3642603</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 14 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 29 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3642603</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI E BANDI VARI</category>
-			<title>AVVISO DI APPALTO AGGIUDICATO - OGGETTO: AFFIDAMENTO INCARICO PROFESSIONALE PER IL COORDINAMENTO DELLA SICUREZZA IN FASE DI ESECUZIONE - PROGETTO INNOVAZIONE URBANA - QUARTIERI SOCIAL SANT'ANNA OPERAZIONE 404 NUOVE FUNZIONI EX SEDE CIRCOSCRIZIONALE. OPERAZIONE 3198 DOPO DI NOI. </title>
-			<description>AVVISO DI APPALTO AGGIUDICATO - OGGETTO: AFFIDAMENTO INCARICO PROFESSIONALE PER IL COORDINAMENTO DELLA SICUREZZA IN FASE DI ESECUZIONE - PROGETTO INNOVAZIONE URBANA - QUARTIERI SOCIAL SANT'ANNA OPERAZIONE 404 NUOVE FUNZIONI EX SEDE CIRCOSCRIZIONALE. OPERAZIONE 3198 DOPO DI NOI. </description>
-			<a10:updated>2017-11-14T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3642488</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3642488</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 14 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 22 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3642488</category>
-			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO</category>
-			<title>PUBBLICAZIONI ANNO 2017 N. 308 MANDATO CRISTIAN CAVALLINI BARBARA </title>
-			<description>PUBBLICAZIONI ANNO 2017 N. 308 MANDATO CRISTIAN CAVALLINI BARBARA </description>
 			<a10:updated>2017-11-14T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
