@@ -5,7 +5,7 @@
 		<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Viterbo</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 15 Nov 2017 08:30:48 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 15 Nov 2017 09:31:02 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Viterbo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Viterbo</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Viterbo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_viterbo</a10:id>
-		<pubDate>Wed, 15 Nov 2017 08:30:48 +0100</pubDate>
+		<pubDate>Wed, 15 Nov 2017 09:31:02 +0100</pubDate>
 		<docs>http://albopop.it/comune/viterbo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3644458</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3644458</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 15 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 30 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3644458</category>
+			<category domain="http://albopop.it/specs#item-category-type">DELIBERA DELIBERA CONSIGLIO</category>
+			<title>MODIFICA ARTICOLI 23, 28, 30, 31, 32, 33/BIS E 33/TER DELLO STATUTO COMUNALE SU POROPOSTA DELA PRIMA COMMISSIONE CONSILIARE PERMANENTE E MODIFICA ARTICOLI 2 E 5 SU PROPOSTA DEI CONSIGLIERI VOLPI, TROILI, SERRA, MONGIARDO E QUINTARELLI. MANCATO RAGGIUNGIMENTO DEL QUORUM DI CUI ALL'ART. 6 DEL D.LGS 267/2000. </title>
+			<description>MODIFICA ARTICOLI 23, 28, 30, 31, 32, 33/BIS E 33/TER DELLO STATUTO COMUNALE SU POROPOSTA DELA PRIMA COMMISSIONE CONSILIARE PERMANENTE E MODIFICA ARTICOLI 2 E 5 SU PROPOSTA DEI CONSIGLIERI VOLPI, TROILI, SERRA, MONGIARDO E QUINTARELLI. MANCATO RAGGIUNGIMENTO DEL QUORUM DI CUI ALL'ART. 6 DEL D.LGS 267/2000. </description>
+			<a10:updated>2017-11-15T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3644456</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3644456</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 15 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 30 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3644456</category>
+			<category domain="http://albopop.it/specs#item-category-type">DELIBERA DELIBERA CONSIGLIO</category>
+			<title>INTERROGAZIONI </title>
+			<description>INTERROGAZIONI </description>
+			<a10:updated>2017-11-15T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3644431</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3644431</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 15 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 30 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3644431</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONVOCAZIONE CONSIGLIO </category>
+			<title>CONVOCAZIONE CONNSIGLIO COMUNALE - O.D.G.AGGIUNTIVO - PROT. N. 6868 - 14/11/2017 </title>
+			<description>CONVOCAZIONE CONNSIGLIO COMUNALE - O.D.G.AGGIUNTIVO - PROT. N. 6868 - 14/11/2017 </description>
+			<a10:updated>2017-11-15T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3644411</guid>
 			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3644411</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
 			<title>ACQUISTO TRAMITE IL MEPA DI REGISTRI DI STATOCIVILE 2017/2018 - CIG Z84206C4C6 </title>
 			<description>ACQUISTO TRAMITE IL MEPA DI REGISTRI DI STATOCIVILE 2017/2018 - CIG Z84206C4C6 </description>
-			<a10:updated>2017-11-15T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3642381</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3642381</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 15 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 30 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3642381</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
-			<title>CONVENZIONE CONSIP S.P.A. DENOMINATA "CARBURANTI RETE - BUONI ACQUISTO 6" STIPULATA CON LA DITTA TOTAL ERG S.P.A. PER LA FORNITURA, TRAMITE BUONI ACQUISTO, DI CARBURANTE PER AUTOTRAZIONE - CIG DERIVATO Z782082B55 </title>
-			<description>CONVENZIONE CONSIP S.P.A. DENOMINATA "CARBURANTI RETE - BUONI ACQUISTO 6" STIPULATA CON LA DITTA TOTAL ERG S.P.A. PER LA FORNITURA, TRAMITE BUONI ACQUISTO, DI CARBURANTE PER AUTOTRAZIONE - CIG DERIVATO Z782082B55 </description>
-			<a10:updated>2017-11-15T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3642379</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3642379</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 15 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 30 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3642379</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
-			<title>28 OTTOBRE 2017 - TEATRO COMUNALE DELL'UNIONE - CONCERTO POLIZIA DI STATO - AFFIDAMENTO SERVIZI VARI - INTEGRAZIONE. </title>
-			<description>28 OTTOBRE 2017 - TEATRO COMUNALE DELL'UNIONE - CONCERTO POLIZIA DI STATO - AFFIDAMENTO SERVIZI VARI - INTEGRAZIONE. </description>
-			<a10:updated>2017-11-15T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3642377</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3642377</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 15 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 30 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3642377</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
-			<title>FORNITURA DI CORONE DI ALLORO E CUSCINI PER LE RICORRENZE DEL 2 E DEL 4 NOVEMBRE 2017. CIG Z432065135 </title>
-			<description>FORNITURA DI CORONE DI ALLORO E CUSCINI PER LE RICORRENZE DEL 2 E DEL 4 NOVEMBRE 2017. CIG Z432065135 </description>
 			<a10:updated>2017-11-15T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
