@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 16 Nov 2017 08:31:28 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 16 Nov 2017 09:31:03 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Thu, 16 Nov 2017 08:31:28 +0100</pubDate>
+		<pubDate>Thu, 16 Nov 2017 09:31:03 +0100</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3647750</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3647750</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 16 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 01 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3647750</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>NOMINA DEL GARANTE DELL’INFORMAZIONE E DELLA PARTECIPAZIONE PER LA FORMAZIONE, ADOZIONE E APPROVAZIONE DEL PIANO ATTUATIVO E CONTESTUALE VARIANTE AL REGOLAMENTO URBANISTICO VIGENTE, RICHIESTO DA DIMITRY BORISOVICH BOSOV PER IL RECUPERO DELL'EX OSPEDALE DI CARIGNANO </title>
+			<description>NOMINA DEL GARANTE DELL’INFORMAZIONE E DELLA PARTECIPAZIONE PER LA FORMAZIONE, ADOZIONE E APPROVAZIONE DEL PIANO ATTUATIVO E CONTESTUALE VARIANTE AL REGOLAMENTO URBANISTICO VIGENTE, RICHIESTO DA DIMITRY BORISOVICH BOSOV PER IL RECUPERO DELL'EX OSPEDALE DI CARIGNANO </description>
+			<a10:updated>2017-11-16T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3647009</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3647009</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
 			<title>VIA A.MORDINI,CENTRO STORICO,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE,DAL 20/11/2017 AL 20/12/2017. </title>
 			<description>VIA A.MORDINI,CENTRO STORICO,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE,DAL 20/11/2017 AL 20/12/2017. </description>
-			<a10:updated>2017-11-14T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3644047</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3644047</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 14 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 29 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3644047</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>VIA DELLA ROSA,CENTRO STORICO,MODIFICHE TEMPORANEE ALLA SOSTA ED ALLA CIRCOLAZIONE STRADALE,DAL 20/11/2017 AL 16/02/2018 </title>
-			<description>VIA DELLA ROSA,CENTRO STORICO,MODIFICHE TEMPORANEE ALLA SOSTA ED ALLA CIRCOLAZIONE STRADALE,DAL 20/11/2017 AL 16/02/2018 </description>
 			<a10:updated>2017-11-14T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

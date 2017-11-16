@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 16 Nov 2017 08:31:43 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 16 Nov 2017 09:31:22 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Thu, 16 Nov 2017 08:31:43 +0100</pubDate>
+		<pubDate>Thu, 16 Nov 2017 09:31:22 +0100</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3042196</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3042196</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 16 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3042196</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
+			<title>TRASMISSIONE AVVISO DI MOBILITA' VOLONTARIA TRA ENTI "ISTRUTTORE AMMINISTRATIVO CAT.C" </title>
+			<description>TRASMISSIONE AVVISO DI MOBILITA' VOLONTARIA TRA ENTI "ISTRUTTORE AMMINISTRATIVO CAT.C" </description>
+			<a10:updated>2017-11-16T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3041220</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3041220</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
 			<title>REALIZZAZIONE DI UN CASSONETTO IN LASTRE DI GESSO A PROTEZIONE DELLE NUOVE TUBAZIONI DELL’IMPIANTO IDRICO E DI RISCALDAMENTO DEL PALASPORT “L. LEONI” NEL COMUNE DI COLLECCHIO. AFFIDAMENTO DIRETTO ALLA DITTA ISOLSERVICE FIDENZA SNC CON SEDE A FIDENZA IN VIA GRAMIZZI, 14 – (C.F./P.IVA 02270300342). CIG: Z88208F1C7 </title>
 			<description>REALIZZAZIONE DI UN CASSONETTO IN LASTRE DI GESSO A PROTEZIONE DELLE NUOVE TUBAZIONI DELL’IMPIANTO IDRICO E DI RISCALDAMENTO DEL PALASPORT “L. LEONI” NEL COMUNE DI COLLECCHIO. AFFIDAMENTO DIRETTO ALLA DITTA ISOLSERVICE FIDENZA SNC CON SEDE A FIDENZA IN VIA GRAMIZZI, 14 – (C.F./P.IVA 02270300342). CIG: Z88208F1C7 </description>
-			<a10:updated>2017-11-13T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3037079</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3037079</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 13 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 28 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3037079</category>
-			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
-			<title>LAVORI DI MANUTENZIONE STRAORDINARIA STRADE ANNO 2017. AFFIDAMENTO DIRETTO PREVIA GARA INFORMALE ALLA DITTA MFE COSTRUZIONI EDILI SRL CON SEDE IN VIA PROVINCIALE PER BUSSETO 71 A FONTEVIVO (PR) P.IVA 02217510342 LAVORI DI COMPLETAMENTO PARCHEGGIO PUBBLICO IN STRADA CONVENTINO. CODICE CIG ZD720A5F37 </title>
-			<description>LAVORI DI MANUTENZIONE STRAORDINARIA STRADE ANNO 2017. AFFIDAMENTO DIRETTO PREVIA GARA INFORMALE ALLA DITTA MFE COSTRUZIONI EDILI SRL CON SEDE IN VIA PROVINCIALE PER BUSSETO 71 A FONTEVIVO (PR) P.IVA 02217510342 LAVORI DI COMPLETAMENTO PARCHEGGIO PUBBLICO IN STRADA CONVENTINO. CODICE CIG ZD720A5F37 </description>
 			<a10:updated>2017-11-13T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
