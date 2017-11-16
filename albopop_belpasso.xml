@@ -5,7 +5,7 @@
 		<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Belpasso</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 16 Nov 2017 17:31:10 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 16 Nov 2017 18:31:06 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Belpasso</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Belpasso</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_belpasso</a10:id>
-		<pubDate>Thu, 16 Nov 2017 17:31:10 +0100</pubDate>
+		<pubDate>Thu, 16 Nov 2017 18:31:06 +0100</pubDate>
 		<docs>http://albopop.it/comune/belpasso/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3650850</guid>
+			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3650850</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 16 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 01 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3650850</category>
+			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERA DI GIUNTA</category>
+			<title>PRELIEVO DAL FONDO DI RISERVA ESERCIZIO 2017 </title>
+			<description>PRELIEVO DAL FONDO DI RISERVA ESERCIZIO 2017 </description>
+			<a10:updated>2017-11-16T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3649750</guid>
 			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3649750</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO PER IRREPERIBILITA'</category>
 			<title>ATTO DI ACCERTAMENTO N.14016942 A CARICO DI BUCCHIERI CHIARA NATA A CATANIA IL 10/8/81 </title>
 			<description>ATTO DI ACCERTAMENTO N.14016942 A CARICO DI BUCCHIERI CHIARA NATA A CATANIA IL 10/8/81 </description>
-			<a10:updated>2017-11-13T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3641677</guid>
-			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3641677</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 13 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 21 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3641677</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO PER IRREPERIBILITA'</category>
-			<title>ATTO DI ACCERTAMENTO N.14024464 A CARICO DI CIVITA LUCIA NATA A CASALNUOVO DI NAPOLI </title>
-			<description>ATTO DI ACCERTAMENTO N.14024464 A CARICO DI CIVITA LUCIA NATA A CASALNUOVO DI NAPOLI </description>
 			<a10:updated>2017-11-13T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

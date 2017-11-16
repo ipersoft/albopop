@@ -5,7 +5,7 @@
 		<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Busnago</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 16 Nov 2017 17:31:15 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 16 Nov 2017 18:31:08 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Busnago</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Busnago</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_busnago</a10:id>
-		<pubDate>Thu, 16 Nov 2017 17:31:15 +0100</pubDate>
+		<pubDate>Thu, 16 Nov 2017 18:31:08 +0100</pubDate>
 		<docs>http://albopop.it/comune/busnago/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3650723</guid>
+			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3650723</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 16 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3650723</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI PUBBLICI AVVISO BANDO DI MOBILITÀ ESTERNA</category>
+			<title>COMUNE DI CASSAGO BRIANZA. AVVISO DI MOBILITÀ PER L'ASSUNZIONE DI UN AGENTE DI POLIZIA LOCALE. </title>
+			<description>COMUNE DI CASSAGO BRIANZA. AVVISO DI MOBILITÀ PER L'ASSUNZIONE DI UN AGENTE DI POLIZIA LOCALE. </description>
+			<a10:updated>2017-11-16T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3646607</guid>
 			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3646607</link>
@@ -284,17 +295,6 @@
 			<title>CITTÀ DI MUGGIÒ: PROT.N.0029154/2017 - PROCEDURA DI MOBILITA' ESTERNA VOLONTARIA PER LA COPERTURA DI N. 1 POSTO DI FUNZIONARIO TECNICO CAT. D/3. TRASMISSIONE BANDO E DOMANDA DI PARTECIPAZIONE </title>
 			<description>CITTÀ DI MUGGIÒ: PROT.N.0029154/2017 - PROCEDURA DI MOBILITA' ESTERNA VOLONTARIA PER LA COPERTURA DI N. 1 POSTO DI FUNZIONARIO TECNICO CAT. D/3. TRASMISSIONE BANDO E DOMANDA DI PARTECIPAZIONE </description>
 			<a10:updated>2017-11-10T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3633788</guid>
-			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3633788</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 09 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 07 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3633788</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI PUBBLICI AVVISO BANDO DI MOBILITÀ ESTERNA</category>
-			<title>CITTÀ DI SEREGNO. AVVISO DI MOBILITÀ PER UN POSTO DI DIRIGENTE PRESSO L'AREA LLPP. </title>
-			<description>CITTÀ DI SEREGNO. AVVISO DI MOBILITÀ PER UN POSTO DI DIRIGENTE PRESSO L'AREA LLPP. </description>
-			<a10:updated>2017-11-09T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
