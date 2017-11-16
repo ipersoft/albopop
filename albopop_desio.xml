@@ -5,7 +5,7 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/igrid/1233682</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Desio</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 16 Nov 2017 15:30:42 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 16 Nov 2017 16:30:38 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Desio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Desio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_desio</a10:id>
-		<pubDate>Thu, 16 Nov 2017 15:30:42 +0100</pubDate>
+		<pubDate>Thu, 16 Nov 2017 16:30:38 +0100</pubDate>
 		<docs>http://albopop.it/comune/desio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3650292</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3650292</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 16 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 01 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3650292</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
+			<title>ORDINANZA A CARATTERE TEMPORANEA DISCIPLINA DELLA CIRCOLAZIONE STRADALE ED OCCUPAZIONE TEMPORANEA DI SPAZI ED AREE PUBBLICHE NELLE VIE TRINCEA DELLE FRASCHE E MAZZINI - PROROGA PRECEDENTI DISPOSITIVI - </title>
+			<description>ORDINANZA A CARATTERE TEMPORANEA DISCIPLINA DELLA CIRCOLAZIONE STRADALE ED OCCUPAZIONE TEMPORANEA DI SPAZI ED AREE PUBBLICHE NELLE VIE TRINCEA DELLE FRASCHE E MAZZINI - PROROGA PRECEDENTI DISPOSITIVI - </description>
+			<a10:updated>2017-11-16T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3650290</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3650290</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 16 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 01 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3650290</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
+			<title>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE VEICOLARE LUNGO LE VIE: MONTE BIANCO - DELLE ALPI - DOLOMITI </title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE VEICOLARE LUNGO LE VIE: MONTE BIANCO - DELLE ALPI - DOLOMITI </description>
+			<a10:updated>2017-11-16T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3643653</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3643653</link>
@@ -217,28 +239,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>BIBLIOTECA CIVICA - PRESA D'ATTO DEL CAMBIO DI GESTIONE DELL'EDICOLA FORNITRICE DEI QUOITIDIANI </title>
 			<description>BIBLIOTECA CIVICA - PRESA D'ATTO DEL CAMBIO DI GESTIONE DELL'EDICOLA FORNITRICE DEI QUOITIDIANI </description>
-			<a10:updated>2017-11-09T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3636039</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3636039</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 09 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 24 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3636039</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>AFFIDAMENTO IN GESTIONE DEL CENTRO RICREATIVO “IL GIRASOLE” E DEGLI ORTI SOCIALI – PERIODO 1 LUGLIO 2017–30 GIUGNO 2020, RINNOVABILE PER UN ANNO. AGGIUDICAZIONE DEFINITIVA ALLA COOPERATIVA PUNTO SERVICE E RIDETERMINAZIONE IMPEGNI DI SPESA – CODICE CIG: Z321EF307A </title>
-			<description>AFFIDAMENTO IN GESTIONE DEL CENTRO RICREATIVO “IL GIRASOLE” E DEGLI ORTI SOCIALI – PERIODO 1 LUGLIO 2017–30 GIUGNO 2020, RINNOVABILE PER UN ANNO. AGGIUDICAZIONE DEFINITIVA ALLA COOPERATIVA PUNTO SERVICE E RIDETERMINAZIONE IMPEGNI DI SPESA – CODICE CIG: Z321EF307A </description>
-			<a10:updated>2017-11-09T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3636037</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3636037</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 09 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 24 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3636037</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>IMPEGNO DI SPESA PER MANUTENZIONE, RIPARAZIONE E SOSTITUZIONE ATTREZZATURE DELLE MENSE DEGLI ISTITUTI COMPRENSIVI STATALI E DELLE SCUOLE DELL’INFANZIA COMUNALI PER L’ANNO 2018. EURO 3.200,00 I.V.A. COMPRESA. CODICE CIG ZA720AA699. </title>
-			<description>IMPEGNO DI SPESA PER MANUTENZIONE, RIPARAZIONE E SOSTITUZIONE ATTREZZATURE DELLE MENSE DEGLI ISTITUTI COMPRENSIVI STATALI E DELLE SCUOLE DELL’INFANZIA COMUNALI PER L’ANNO 2018. EURO 3.200,00 I.V.A. COMPRESA. CODICE CIG ZA720AA699. </description>
 			<a10:updated>2017-11-09T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

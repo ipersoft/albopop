@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 16 Nov 2017 15:31:06 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 16 Nov 2017 16:30:53 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Thu, 16 Nov 2017 15:31:06 +0100</pubDate>
+		<pubDate>Thu, 16 Nov 2017 16:30:53 +0100</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/818101</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/818101</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 16 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 01 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">818101</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>PROTOCOLLO D'INTESA PER L'UTILIZZO DI POSTI PRESSO IL GATTILE SANITARIO COMUNALE DI PESARO; PERIODO GENNAIO-DICEMBRE 2017 – ASSUNZIONE IMPEGNO DI SPESA. </title>
+			<description>PROTOCOLLO D'INTESA PER L'UTILIZZO DI POSTI PRESSO IL GATTILE SANITARIO COMUNALE DI PESARO; PERIODO GENNAIO-DICEMBRE 2017 – ASSUNZIONE IMPEGNO DI SPESA. </description>
+			<a10:updated>2017-11-16T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/817982</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/817982</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 16 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 01 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">817982</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
+			<title>MERCATINI NATALIZI 2017 - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </title>
+			<description>MERCATINI NATALIZI 2017 - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </description>
+			<a10:updated>2017-11-16T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/817979</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/817979</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 16 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 01 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">817979</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
+			<title>CANDELE A CANDELARA EDIZIONE 2017 - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </title>
+			<description>CANDELE A CANDELARA EDIZIONE 2017 - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </description>
+			<a10:updated>2017-11-16T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/817897</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/817897</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>LAVORI MANUTENZIONE STRAORDINARIA PAVIMENTAZIONE STR. MONTEFELTRO TRATTO DA VIA GAGARIN A INGRESSO AUTOSTRADA A14 ECCEZIONALI NEVICATE 2012 D.G.R. 436 DEL 14/04/2014. LAVORI DI COMPLETAMENTO DI STRADA MONTEFELTRO AD INNESTO CON VIA DELLE ESPOSIZIONI. APPROVAZIONE CONTO FINALE E CERTIFICATO DI REGOLARE ESECUZIONE. </title>
 			<description>LAVORI MANUTENZIONE STRAORDINARIA PAVIMENTAZIONE STR. MONTEFELTRO TRATTO DA VIA GAGARIN A INGRESSO AUTOSTRADA A14 ECCEZIONALI NEVICATE 2012 D.G.R. 436 DEL 14/04/2014. LAVORI DI COMPLETAMENTO DI STRADA MONTEFELTRO AD INNESTO CON VIA DELLE ESPOSIZIONI. APPROVAZIONE CONTO FINALE E CERTIFICATO DI REGOLARE ESECUZIONE. </description>
-			<a10:updated>2017-11-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/817317</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/817317</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 16 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 01 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">817317</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>IMPEGNO DI SPESA PER SERVIGLIO DI SORVEGLIANZA SU STRUTTURE NON RLEVANTE IVA </title>
-			<description>IMPEGNO DI SPESA PER SERVIGLIO DI SORVEGLIANZA SU STRUTTURE NON RLEVANTE IVA </description>
-			<a10:updated>2017-11-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/817314</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/817314</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 16 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 01 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">817314</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>EROGAZIONE GRATUITA LIBRI DI TESTO SCUOLA PRIMARIA ANNO 2017. IMPEGNO DI SPESA DITTE: EDICOLA F.LLI SCOLA, ED. CART. STEFANI EMANUELA, MEGA-TECNO, BACCO E TABACCO, C.O.DIS OTTIERI, LIBRERIA OMNIA. </title>
-			<description>EROGAZIONE GRATUITA LIBRI DI TESTO SCUOLA PRIMARIA ANNO 2017. IMPEGNO DI SPESA DITTE: EDICOLA F.LLI SCOLA, ED. CART. STEFANI EMANUELA, MEGA-TECNO, BACCO E TABACCO, C.O.DIS OTTIERI, LIBRERIA OMNIA. </description>
-			<a10:updated>2017-11-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/817311</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/817311</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 16 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 01 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">817311</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>RICONOSCIMENTO DI DEBITI FUORI BILANCIO AI SENSI DELL'ART.194 COMMA 1 LETT.A) E LETT. E) DEL D.LGS N.267 DEL 18/8/00. SENTENZA DEL TRIBUNALE DI PESARO N. 3516/2016 A FAVORE DELLA DITTA GEOBETON S.R.L. ASSUNZIONE IMPEGNO DI SPESA. </title>
-			<description>RICONOSCIMENTO DI DEBITI FUORI BILANCIO AI SENSI DELL'ART.194 COMMA 1 LETT.A) E LETT. E) DEL D.LGS N.267 DEL 18/8/00. SENTENZA DEL TRIBUNALE DI PESARO N. 3516/2016 A FAVORE DELLA DITTA GEOBETON S.R.L. ASSUNZIONE IMPEGNO DI SPESA. </description>
 			<a10:updated>2017-11-16T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
