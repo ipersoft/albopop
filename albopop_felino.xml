@@ -5,7 +5,7 @@
 		<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Felino</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 17 Nov 2017 10:31:02 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 17 Nov 2017 11:30:53 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Felino</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Felino</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_felino</a10:id>
-		<pubDate>Fri, 17 Nov 2017 10:31:02 +0100</pubDate>
+		<pubDate>Fri, 17 Nov 2017 11:30:53 +0100</pubDate>
 		<docs>http://albopop.it/comune/felino/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3044996</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3044996</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 17 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 02 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3044996</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
+			<title>RICHIESTA PUBBLICAZIONE ALL'ALBO PRETORIO ON LINE AVVISO DI SELEZIONE PUBBLICA PER L’ASSUNZIONE A TEMPO PIENO E INDETERMINATO AI SENSI DELL'ART. 110, COMMA 1, D.L.VO 267/2000 DI UN'UNITÀ DI PERSONALE CON PROFILO DI FUNZIONARIO FARMACISTA CATEGORIA GIURIDICA ED ECONOMICA D3 – CCNL PERSONALE NON DIRIGENTE DEL COMPARTO REGIONI ED AUTONOMIE LOCALI A TEMPO DETERMINATO PER 12 MESI E A TEMPO PIENO E DA ASSEGNARE ALL’U.O.C. FARMACIA COMUNALE </title>
+			<description>RICHIESTA PUBBLICAZIONE ALL'ALBO PRETORIO ON LINE AVVISO DI SELEZIONE PUBBLICA PER L’ASSUNZIONE A TEMPO PIENO E INDETERMINATO AI SENSI DELL'ART. 110, COMMA 1, D.L.VO 267/2000 DI UN'UNITÀ DI PERSONALE CON PROFILO DI FUNZIONARIO FARMACISTA CATEGORIA GIURIDICA ED ECONOMICA D3 – CCNL PERSONALE NON DIRIGENTE DEL COMPARTO REGIONI ED AUTONOMIE LOCALI A TEMPO DETERMINATO PER 12 MESI E A TEMPO PIENO E DA ASSEGNARE ALL’U.O.C. FARMACIA COMUNALE </description>
+			<a10:updated>2017-11-17T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3042758</guid>
 			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3042758</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DLG DELIBERA DI GIUNTA</category>
 			<title>ISTITUZIONE E INDIVIDUAZIONE DELL’AREA PER LO SVOLGIMENTO DELLA “FIERA D’AGOSTO” – ANNO 2017. </title>
 			<description>ISTITUZIONE E INDIVIDUAZIONE DELL’AREA PER LO SVOLGIMENTO DELLA “FIERA D’AGOSTO” – ANNO 2017. </description>
-			<a10:updated>2017-11-03T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3025783</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3025783</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 03 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 18 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3025783</category>
-			<category domain="http://albopop.it/specs#item-category-type">DLG DELIBERA DI GIUNTA</category>
-			<title>CONCESSIONE PATOCINIO E CONTRIBUTO PER FIERA D'AGOSTO 2017 ORGANIZZATA DAL COMITATO ESTATE FELINESE DALL'11 AL 19 AGOSTO 2017. </title>
-			<description>CONCESSIONE PATOCINIO E CONTRIBUTO PER FIERA D'AGOSTO 2017 ORGANIZZATA DAL COMITATO ESTATE FELINESE DALL'11 AL 19 AGOSTO 2017. </description>
 			<a10:updated>2017-11-03T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
