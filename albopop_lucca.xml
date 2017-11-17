@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 17 Nov 2017 09:31:43 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 17 Nov 2017 10:31:37 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Fri, 17 Nov 2017 09:31:43 +0100</pubDate>
+		<pubDate>Fri, 17 Nov 2017 10:31:37 +0100</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3651455</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3651455</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 17 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 02 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3651455</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>PROROGA ORDINANZA N. 1754/2017 - VIA DEL GIARDINO,FRAZ. PONTETETTO, ISTITUZIONE DEL DIVIETO DI TRANSITO VEICOLARE NEL TRATTO COMPRESO TRA L'INTERSEZIONE CON VIA FELICE DEL BECCARO E L'INTERSEZIONE CON VIALE SAN CONCORDIO. PERIODO 18 NOVEMBRE - 24 NOVEMBRE 2017. </title>
+			<description>PROROGA ORDINANZA N. 1754/2017 - VIA DEL GIARDINO,FRAZ. PONTETETTO, ISTITUZIONE DEL DIVIETO DI TRANSITO VEICOLARE NEL TRATTO COMPRESO TRA L'INTERSEZIONE CON VIA FELICE DEL BECCARO E L'INTERSEZIONE CON VIALE SAN CONCORDIO. PERIODO 18 NOVEMBRE - 24 NOVEMBRE 2017. </description>
+			<a10:updated>2017-11-17T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3651357</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3651357</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 17 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 18 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3651357</category>
+			<category domain="http://albopop.it/specs#item-category-type">BANDO DI CONCORSO/SELEZIONI PUBBLICHE BANDI DI CONCORSO/SELEZIONI PUBBLICHE</category>
+			<title>AVVISO DI MOBILITA’ VOLONTARIA PER LA COPERTURA DI N. 1 POSTO VACANTE A TEMPO PIENO/INDETERMINATO NEL PROFILO DI“COORDINATORE PER L’ESPLETAMENTO DI ATTIVITA’ IN MATERIA TECNICA”, CATEGORIA C, AI SENSI DELL’ART. 30 DEL D. LGS. N. 165/2001. </title>
+			<description>AVVISO DI MOBILITA’ VOLONTARIA PER LA COPERTURA DI N. 1 POSTO VACANTE A TEMPO PIENO/INDETERMINATO NEL PROFILO DI“COORDINATORE PER L’ESPLETAMENTO DI ATTIVITA’ IN MATERIA TECNICA”, CATEGORIA C, AI SENSI DELL’ART. 30 DEL D. LGS. N. 165/2001. </description>
+			<a10:updated>2017-11-17T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3650988</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3650988</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>RIMBORSO AL CONTO EREDI DI DALLE PIAGGE TERESA DI SOMME VERSATE A TITOLO DI CONTRIBUTO, AI SENSI DELL'ART. 183 L.R.T. 65/2014, PER IL P.C. N. 311 DEL 22/11/2010 - NUOVA EDIFICAZIONE - PRATICA EDILIZIA N. 2215 DEL 10/10/2008 </title>
 			<description>RIMBORSO AL CONTO EREDI DI DALLE PIAGGE TERESA DI SOMME VERSATE A TITOLO DI CONTRIBUTO, AI SENSI DELL'ART. 183 L.R.T. 65/2014, PER IL P.C. N. 311 DEL 22/11/2010 - NUOVA EDIFICAZIONE - PRATICA EDILIZIA N. 2215 DEL 10/10/2008 </description>
-			<a10:updated>2017-11-15T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3646925</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3646925</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 15 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 30 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3646925</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>RIMBORSO AL CONTO BIANCHI GIOVANNI DI SOMME VERSATE A TITOLO DI DIRITTI DI ISTRUTTORIA , AI SENSI DELLA DELIBERAZIONE DI G.M. N. 159/2010 E 198/2010 PER LA CILA 540 DEL 29/03/2016 </title>
-			<description>RIMBORSO AL CONTO BIANCHI GIOVANNI DI SOMME VERSATE A TITOLO DI DIRITTI DI ISTRUTTORIA , AI SENSI DELLA DELIBERAZIONE DI G.M. N. 159/2010 E 198/2010 PER LA CILA 540 DEL 29/03/2016 </description>
-			<a10:updated>2017-11-15T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3646921</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3646921</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 15 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 30 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3646921</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>COMPLETAMENTO VIABILITA’ DI ACCESSO AL NUOVO PRESIDIO OSPEDALIERO IN S. FILIPPO - ACQUISTO AREE A TRATTATIVA BONARIA E DEPOSITO ALLA CASSA DD.PP. DELLE INDENNITA NON ACCETTATE (CODICE FAMIGLIA 11) </title>
-			<description>COMPLETAMENTO VIABILITA’ DI ACCESSO AL NUOVO PRESIDIO OSPEDALIERO IN S. FILIPPO - ACQUISTO AREE A TRATTATIVA BONARIA E DEPOSITO ALLA CASSA DD.PP. DELLE INDENNITA NON ACCETTATE (CODICE FAMIGLIA 11) </description>
 			<a10:updated>2017-11-15T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
