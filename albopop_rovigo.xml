@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 20 Nov 2017 09:31:58 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 20 Nov 2017 10:31:15 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Mon, 20 Nov 2017 09:31:58 +0100</pubDate>
+		<pubDate>Mon, 20 Nov 2017 10:31:15 +0100</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3046661</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3046661</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 20 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 11 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3046661</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI ATTI DIVERSI</category>
+			<title>RIPUBBLICAZIONE PER RETTIFICA DI AVVISO DI MOBILITA' PER LA COPERTURA DI N. 1 POSTO DI ISTRUTTORE DIRETTIVO TECNICO - CAT. D-D1, A TEMPO PIENO E INDETERMINATO PRESSO IL SETTORE 5° LAVORI PUBBLICI-URBANISTICA </title>
+			<description>RIPUBBLICAZIONE PER RETTIFICA DI AVVISO DI MOBILITA' PER LA COPERTURA DI N. 1 POSTO DI ISTRUTTORE DIRETTIVO TECNICO - CAT. D-D1, A TEMPO PIENO E INDETERMINATO PRESSO IL SETTORE 5° LAVORI PUBBLICI-URBANISTICA </description>
+			<a10:updated>2017-11-20T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3046569</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3046569</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 20 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 16 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3046569</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI ATTI DIVERSI</category>
+			<title>AVVISO DI SELEZIONE DI OPERATORI QUALIFICATI CUI TRASFERIRE VEICOLI AI FINI DELLA DEMOLIZIONE - AFFIDAMENTO DEL SERVIZIO DI PRELIEVO, TRASPORTO, MESSA IN SICUREZZA, DEMOLIZIONE E RADIAZIONE DAL PUBBLICO REGISTRO AUTOMOBILISTICO (NEL CASO DI VEICOLI REGISTRATI) AI SENSI DEL D.P.R. 13 FEBBRAIO 2001, N. 189 E DEL NUOVO CODICE DELLA STRADA (D. LGS. N. 285/92) </title>
+			<description>AVVISO DI SELEZIONE DI OPERATORI QUALIFICATI CUI TRASFERIRE VEICOLI AI FINI DELLA DEMOLIZIONE - AFFIDAMENTO DEL SERVIZIO DI PRELIEVO, TRASPORTO, MESSA IN SICUREZZA, DEMOLIZIONE E RADIAZIONE DAL PUBBLICO REGISTRO AUTOMOBILISTICO (NEL CASO DI VEICOLI REGISTRATI) AI SENSI DEL D.P.R. 13 FEBBRAIO 2001, N. 189 E DEL NUOVO CODICE DELLA STRADA (D. LGS. N. 285/92) </description>
+			<a10:updated>2017-11-20T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3046354</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3046354</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DELIBERE DI GIUNTA</category>
 			<title>PRELEVAMENTO DAL FONDO DI RISERVA N. 16/2017 </title>
 			<description>PRELEVAMENTO DAL FONDO DI RISERVA N. 16/2017 </description>
-			<a10:updated>2017-11-17T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3045318</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3045318</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 17 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 02 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3045318</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DELIBERE DI GIUNTA</category>
-			<title>VARIAZIONE COMPENSATIVA AI SENSI DELL'ART. 175 COMMA 5 QUATER LETT. A) DEL D.LGS 267/2000 - TRASFERIMENTI CORRENTI </title>
-			<description>VARIAZIONE COMPENSATIVA AI SENSI DELL'ART. 175 COMMA 5 QUATER LETT. A) DEL D.LGS 267/2000 - TRASFERIMENTI CORRENTI </description>
-			<a10:updated>2017-11-17T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3045315</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3045315</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 17 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 02 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3045315</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DELIBERE DI GIUNTA</category>
-			<title>APPROVAZIONE DAL PUNTO DI VISTA TECNICO DEL PROGETTO ESECUTIVO PER L'INTERVENTO DI RINNOVO DELLA PALESTRA DELLA SCUOLA MEDIA “RICCOBONI”. </title>
-			<description>APPROVAZIONE DAL PUNTO DI VISTA TECNICO DEL PROGETTO ESECUTIVO PER L'INTERVENTO DI RINNOVO DELLA PALESTRA DELLA SCUOLA MEDIA “RICCOBONI”. </description>
 			<a10:updated>2017-11-17T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
