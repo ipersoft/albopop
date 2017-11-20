@@ -5,7 +5,7 @@
 		<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bernareggio</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 20 Nov 2017 13:31:02 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 20 Nov 2017 14:31:04 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bernareggio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bernareggio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bernareggio</a10:id>
-		<pubDate>Mon, 20 Nov 2017 13:31:02 +0100</pubDate>
+		<pubDate>Mon, 20 Nov 2017 14:31:04 +0100</pubDate>
 		<docs>http://albopop.it/comune/bernareggio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3655661</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3655661</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 20 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 05 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3655661</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZE</category>
+			<title>ISTITUZIONE DIVIETO DI SOSTA CON RIMOZIONE FORZATA IN VIA DEL COMMERCIO CIVICO N 10/D DALLE ORE 08.00 DEL 22/11/2017 ALLE ORE 18.00 DEL 24/11/2017 </title>
+			<description>ISTITUZIONE DIVIETO DI SOSTA CON RIMOZIONE FORZATA IN VIA DEL COMMERCIO CIVICO N 10/D DALLE ORE 08.00 DEL 22/11/2017 ALLE ORE 18.00 DEL 24/11/2017 </description>
+			<a10:updated>2017-11-20T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3653000</guid>
 			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3653000</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">AVVISI</category>
 			<title>[20170024806] RICHIESTA PUBBLICAZIONE ALBO ONLINE DI AVVISO DI INTEGRAZIONE BANDO CONCORSO PUBBLICO PER UN POSTO DI ISTRUTTORE CONTABILE CAT. C </title>
 			<description>[20170024806] RICHIESTA PUBBLICAZIONE ALBO ONLINE DI AVVISO DI INTEGRAZIONE BANDO CONCORSO PUBBLICO PER UN POSTO DI ISTRUTTORE CONTABILE CAT. C </description>
-			<a10:updated>2017-11-09T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3635948</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3635948</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 09 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 11 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3635948</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI</category>
-			<title>POSTA CERTIFICATA: PROCEDURA DI MOBILITA' ESTERNA VOLONTARIA PER LA COPERTURA DI N. 1 POSTO DI FUNZIONARIO TECNICO CAT. D/3. TRASMISSIONE BANDO E DOMANDA DI PARTECIPAZIONE </title>
-			<description>POSTA CERTIFICATA: PROCEDURA DI MOBILITA' ESTERNA VOLONTARIA PER LA COPERTURA DI N. 1 POSTO DI FUNZIONARIO TECNICO CAT. D/3. TRASMISSIONE BANDO E DOMANDA DI PARTECIPAZIONE </description>
 			<a10:updated>2017-11-09T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
