@@ -5,7 +5,7 @@
 		<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mascalucia</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 20 Nov 2017 11:31:22 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 20 Nov 2017 12:31:33 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mascalucia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mascalucia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mascalucia</a10:id>
-		<pubDate>Mon, 20 Nov 2017 11:31:22 +0100</pubDate>
+		<pubDate>Mon, 20 Nov 2017 12:31:33 +0100</pubDate>
 		<docs>http://albopop.it/comune/mascalucia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3047166</guid>
+			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3047166</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 20 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 05 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3047166</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
+			<title>FRUIZIONE DEL PARCO BOSCO MONTE CERAULO - ATTO DI INDIRIZZO </title>
+			<description>FRUIZIONE DEL PARCO BOSCO MONTE CERAULO - ATTO DI INDIRIZZO </description>
+			<a10:updated>2017-11-20T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3047094</guid>
 			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3047094</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA DIRIGENZIALE</category>
 			<title>INGIUNZIONE DI PAGAMENTO DI SANZIONE AMMINISTRATIVA PER VIOLAZIONE DELL’ORDINANZA SINDACALE N. 31/2012 – CATANIA SALVATORE </title>
 			<description>INGIUNZIONE DI PAGAMENTO DI SANZIONE AMMINISTRATIVA PER VIOLAZIONE DELL’ORDINANZA SINDACALE N. 31/2012 – CATANIA SALVATORE </description>
-			<a10:updated>2017-11-17T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3044678</guid>
-			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3044678</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 17 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 02 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3044678</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA DIRIGENZIALE</category>
-			<title>INGIUNZIONE DI PAGAMENTO DI SANZIONE AMMINISTRATIVA PER VIOLAZIONE DELL’ORDINANZA SINDACALE N. 31/2012 – CATANIA FRANCESCO </title>
-			<description>INGIUNZIONE DI PAGAMENTO DI SANZIONE AMMINISTRATIVA PER VIOLAZIONE DELL’ORDINANZA SINDACALE N. 31/2012 – CATANIA FRANCESCO </description>
 			<a10:updated>2017-11-17T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

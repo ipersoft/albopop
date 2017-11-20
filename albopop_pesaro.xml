@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 20 Nov 2017 11:30:42 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 20 Nov 2017 12:31:01 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Mon, 20 Nov 2017 11:30:42 +0100</pubDate>
+		<pubDate>Mon, 20 Nov 2017 12:31:01 +0100</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/819473</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/819473</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 20 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 20 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">819473</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
+			<title>DIVIETO DI TRANSITO AI VEICOLI AVENTI MASSA SUPERIORE A 32 TONNELLATE (FIG. II 68 ART. 118) - VIALE DELLA VITTORIA (TRATTO DELLA S.S. “ADRIATICA” N. 16) IN CORRISPONDENZA DEL SOVRAPPASSO SULLE VIE KOLBE E LA MARCA, DALL’INTERSEZIONE CON VIA CAVALLOTTI A QUELLA CON VIA KOLBE. DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </title>
+			<description>DIVIETO DI TRANSITO AI VEICOLI AVENTI MASSA SUPERIORE A 32 TONNELLATE (FIG. II 68 ART. 118) - VIALE DELLA VITTORIA (TRATTO DELLA S.S. “ADRIATICA” N. 16) IN CORRISPONDENZA DEL SOVRAPPASSO SULLE VIE KOLBE E LA MARCA, DALL’INTERSEZIONE CON VIA CAVALLOTTI A QUELLA CON VIA KOLBE. DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </description>
+			<a10:updated>2017-11-20T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/819452</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/819452</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>RETTIFICA DETERMINAZIONI N. 2375/2017 E N. 2966/2017 AVENTI AD OGGETTO AFFIDAMENTI DI SERVIZI TECNICI AL DOTT. GEOL. MOUNIR BEN M’BAREK – RIDUZIONE SPESA RELATIVA AL CONTRIBUTO INTEGRATIVO EPAP. </title>
 			<description>RETTIFICA DETERMINAZIONI N. 2375/2017 E N. 2966/2017 AVENTI AD OGGETTO AFFIDAMENTI DI SERVIZI TECNICI AL DOTT. GEOL. MOUNIR BEN M’BAREK – RIDUZIONE SPESA RELATIVA AL CONTRIBUTO INTEGRATIVO EPAP. </description>
-			<a10:updated>2017-11-17T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/818609</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/818609</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 17 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 02 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">818609</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
-			<title>MARCO MASSANELLI MANUTENZIONE VERDE - VIALE TRENTO - PROVVEDIMENTI VARI DI MODICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </title>
-			<description>MARCO MASSANELLI MANUTENZIONE VERDE - VIALE TRENTO - PROVVEDIMENTI VARI DI MODICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </description>
 			<a10:updated>2017-11-17T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
