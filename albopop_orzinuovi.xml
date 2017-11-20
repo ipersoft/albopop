@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Sun, 19 Nov 2017 18:30:49 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 20 Nov 2017 08:30:46 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Sun, 19 Nov 2017 18:30:49 +0100</pubDate>
+		<pubDate>Mon, 20 Nov 2017 08:30:46 +0100</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -176,17 +176,6 @@
 			<a10:updated>2017-11-16T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3042393</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3042393</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 16 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 19 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3042393</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
-			<title>DIVIETI DI CIRCOLAZIONE E SOSTA DI TUTTI I VEICOLI IN VIA BRACESCO, NEL PARCHEGGIO ADIACENTE LA FARMACIA ADUA, IN DATA 18/11/2017 DALLE 7 ALLE 20 PER INAUGURAZIONE DELLA FARMACIA STESSA </title>
-			<description>DIVIETI DI CIRCOLAZIONE E SOSTA DI TUTTI I VEICOLI IN VIA BRACESCO, NEL PARCHEGGIO ADIACENTE LA FARMACIA ADUA, IN DATA 18/11/2017 DALLE 7 ALLE 20 PER INAUGURAZIONE DELLA FARMACIA STESSA </description>
-			<a10:updated>2017-11-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3042391</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3042391</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 16 Nov 2017 01:00:00 +0100</category>
@@ -295,6 +284,17 @@
 			<title>AVVISO DI MOBILITÀ VOLONTARIA PER LA COPERTURA DI UN POSTO DI COLLABORATORE AMMINISTRATIVO CAT. B3 - TEMPO PARZIALE (25 ORE SETTIMANALI) ED INDETERMINATO </title>
 			<description>AVVISO DI MOBILITÀ VOLONTARIA PER LA COPERTURA DI UN POSTO DI COLLABORATORE AMMINISTRATIVO CAT. B3 - TEMPO PARZIALE (25 ORE SETTIMANALI) ED INDETERMINATO </description>
 			<a10:updated>2017-11-11T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3035403</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3035403</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 10 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 11 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3035403</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI BANDO</category>
+			<title>AVVISO DI MOBILITÀ VOLONTARIA PER LA COPERTURA DI UN POSTO DI ISTRUTTORE TECNICO CAT.C. TEMPO PIENO </title>
+			<description>AVVISO DI MOBILITÀ VOLONTARIA PER LA COPERTURA DI UN POSTO DI ISTRUTTORE TECNICO CAT.C. TEMPO PIENO </description>
+			<a10:updated>2017-11-10T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
