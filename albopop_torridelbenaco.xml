@@ -5,7 +5,7 @@
 		<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Torri del Benaco</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 20 Nov 2017 15:31:10 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 20 Nov 2017 16:31:27 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Torri del Benaco</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Verona</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Torri del Benaco</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_torridelbenaco</a10:id>
-		<pubDate>Mon, 20 Nov 2017 15:31:10 +0100</pubDate>
+		<pubDate>Mon, 20 Nov 2017 16:31:27 +0100</pubDate>
 		<docs>http://albopop.it/comune/torridelbenaco/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3656127</guid>
+			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3656127</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 20 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 20 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3656127</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISO 30 GIORNI</category>
+			<title>AVVISO DI DEPOSITO NELLA CASA COMUNALE DI UN ATTO A NOME DI RAGNOLINI ROBERTA </title>
+			<description>AVVISO DI DEPOSITO NELLA CASA COMUNALE DI UN ATTO A NOME DI RAGNOLINI ROBERTA </description>
+			<a10:updated>2017-11-20T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3652865</guid>
 			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3652865</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>CANONI DEMANIALI EXTRAPORTUALI (BOE/PONTILI E PLATEATICI) DELL'ANNO 2017, DA RIVERSARE AL 50% ALLA REGIONE VENETO. </title>
 			<description>CANONI DEMANIALI EXTRAPORTUALI (BOE/PONTILI E PLATEATICI) DELL'ANNO 2017, DA RIVERSARE AL 50% ALLA REGIONE VENETO. </description>
-			<a10:updated>2017-11-15T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3647025</guid>
-			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3647025</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 15 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 30 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3647025</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>RIVERSAMENTO ALLA REGIONE VENETO DEL 60% DELLA QUOTA DI CANONI INCASSTI PER L'ANNO 2016, RELATIVAMENTE ALLE CONCESSIONI PORTUALI. </title>
-			<description>RIVERSAMENTO ALLA REGIONE VENETO DEL 60% DELLA QUOTA DI CANONI INCASSTI PER L'ANNO 2016, RELATIVAMENTE ALLE CONCESSIONI PORTUALI. </description>
 			<a10:updated>2017-11-15T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
