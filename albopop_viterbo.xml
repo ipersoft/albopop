@@ -5,7 +5,7 @@
 		<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Viterbo</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 20 Nov 2017 08:30:51 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 20 Nov 2017 09:30:57 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Viterbo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Viterbo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Viterbo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_viterbo</a10:id>
-		<pubDate>Mon, 20 Nov 2017 08:30:51 +0100</pubDate>
+		<pubDate>Mon, 20 Nov 2017 09:30:57 +0100</pubDate>
 		<docs>http://albopop.it/comune/viterbo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3653981</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3653981</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 20 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 23 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3653981</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONVOCAZIONE COMMISSIONE </category>
+			<title>CONVOCAZIONE II°COMMISSIONE CONSILIARE 23/11/2017. </title>
+			<description>CONVOCAZIONE II°COMMISSIONE CONSILIARE 23/11/2017. </description>
+			<a10:updated>2017-11-20T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3652698</guid>
 			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3652698</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
 			<title>18 NOVEMBRE 2017/12 GENNAIO 2018 - CENTRO CULTURALE VALLE DI FAUL DI VITERBO - ESPOSIZIONE TEMPORANEA "ELEMENTI CARTACEI" - ASSOCIAZIONE DI VOLONTARIATO A.DI.VO. - SERVIZIO DI VIGILANZA - DETERMINAZIONI IN MERITO ALL'IMPEGNO DELLA SPESA - CIG Z6E20B2371. </title>
 			<description>18 NOVEMBRE 2017/12 GENNAIO 2018 - CENTRO CULTURALE VALLE DI FAUL DI VITERBO - ESPOSIZIONE TEMPORANEA "ELEMENTI CARTACEI" - ASSOCIAZIONE DI VOLONTARIATO A.DI.VO. - SERVIZIO DI VIGILANZA - DETERMINAZIONI IN MERITO ALL'IMPEGNO DELLA SPESA - CIG Z6E20B2371. </description>
-			<a10:updated>2017-11-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3648595</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3648595</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 16 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 01 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3648595</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
-			<title>ALIENAZIONE RELITTO DI TERRENO SITO A GROTTE SANTO STEFANO - VITERBO - A FAVORE DEL SIG. EGIDI ELIO </title>
-			<description>ALIENAZIONE RELITTO DI TERRENO SITO A GROTTE SANTO STEFANO - VITERBO - A FAVORE DEL SIG. EGIDI ELIO </description>
 			<a10:updated>2017-11-16T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
