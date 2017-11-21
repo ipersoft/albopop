@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 21 Nov 2017 17:31:24 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 21 Nov 2017 18:31:23 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Tue, 21 Nov 2017 17:31:24 +0100</pubDate>
+		<pubDate>Tue, 21 Nov 2017 18:31:23 +0100</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3658405</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3658405</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 21 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 06 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3658405</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBI</category>
+			<title>CONVOCAZIONE COMMISSIONE POLITICHE FORMATIVE, GIOVANILI E DI GENERE, CULTURA E SPORT PER LUNEDÌ 27 NOVEMBRE ALLE ORE 8.40 C/O SALA BIBLIOTECA </title>
+			<description>CONVOCAZIONE COMMISSIONE POLITICHE FORMATIVE, GIOVANILI E DI GENERE, CULTURA E SPORT PER LUNEDÌ 27 NOVEMBRE ALLE ORE 8.40 C/O SALA BIBLIOTECA </description>
+			<a10:updated>2017-11-21T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3658351</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3658351</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>AVVISO DI MOBILITA’ VOLONTARIA PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO/INDETERMINATO NEL PROFILO DI “COORDINATORE PER L’ESPLETAMENTO DI ATTIVITA’ IN MATERIA AMMINISTRATIVA/CONTABILE/SOCIO-CULTURALE”, CATEGORIA C, AI SENSI DELL’ART. 30 DEL D. LGS. N. 165/2001 – CODICE C02 (FAMIGLIA 10). </title>
 			<description>AVVISO DI MOBILITA’ VOLONTARIA PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO/INDETERMINATO NEL PROFILO DI “COORDINATORE PER L’ESPLETAMENTO DI ATTIVITA’ IN MATERIA AMMINISTRATIVA/CONTABILE/SOCIO-CULTURALE”, CATEGORIA C, AI SENSI DELL’ART. 30 DEL D. LGS. N. 165/2001 – CODICE C02 (FAMIGLIA 10). </description>
-			<a10:updated>2017-11-20T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3655183</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3655183</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 20 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 05 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3655183</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>VIA DEI SANTESCHI - FRAZIONE DI PONTETETTO: CHIUSURA AL TRANSITO VEICOLARE C/O NC. 388 DAL GIORNO 22 NOVEMBRE 2017 AL GIORNO 24 NOVEMBRE 2017. </title>
-			<description>VIA DEI SANTESCHI - FRAZIONE DI PONTETETTO: CHIUSURA AL TRANSITO VEICOLARE C/O NC. 388 DAL GIORNO 22 NOVEMBRE 2017 AL GIORNO 24 NOVEMBRE 2017. </description>
 			<a10:updated>2017-11-20T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

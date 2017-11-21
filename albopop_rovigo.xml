@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 21 Nov 2017 17:31:34 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 21 Nov 2017 18:31:27 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Tue, 21 Nov 2017 17:31:34 +0100</pubDate>
+		<pubDate>Tue, 21 Nov 2017 18:31:27 +0100</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3050027</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3050027</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 21 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 06 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3050027</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE PERMESSI DI COSTRUIRE</category>
+			<title>PERMESSO DI COSTRUIRE N. 103 DEL 20/11/2017 PRATICA U.T. 555/2017 PRATICA N. 02639550280-29052017-1111 - SUAP 3173 - 02639550280 INCOLD S.P.A. </title>
+			<description>PERMESSO DI COSTRUIRE N. 103 DEL 20/11/2017 PRATICA U.T. 555/2017 PRATICA N. 02639550280-29052017-1111 - SUAP 3173 - 02639550280 INCOLD S.P.A. </description>
+			<a10:updated>2017-11-21T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3049994</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3049994</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI ATTI DIVERSI</category>
 			<title>AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE_ELENCO N. 122042 DEL 20/11/2017_N. 49 NOMINATIVI VARI </title>
 			<description>AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE_ELENCO N. 122042 DEL 20/11/2017_N. 49 NOMINATIVI VARI </description>
-			<a10:updated>2017-11-21T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3048336</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3048336</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 21 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 06 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3048336</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>LIQUIDAZIONE SERVIZI TECNICI MESE DI OTTOBRE 2017. </title>
-			<description>LIQUIDAZIONE SERVIZI TECNICI MESE DI OTTOBRE 2017. </description>
 			<a10:updated>2017-11-21T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
