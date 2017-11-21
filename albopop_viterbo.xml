@@ -5,7 +5,7 @@
 		<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Viterbo</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 21 Nov 2017 12:31:38 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 21 Nov 2017 13:30:48 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Viterbo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Viterbo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Viterbo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_viterbo</a10:id>
-		<pubDate>Tue, 21 Nov 2017 12:31:38 +0100</pubDate>
+		<pubDate>Tue, 21 Nov 2017 13:30:48 +0100</pubDate>
 		<docs>http://albopop.it/comune/viterbo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3657487</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3657487</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 21 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 06 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3657487</category>
+			<category domain="http://albopop.it/specs#item-category-type">DELIBERA DELIBERA CONSIGLIO</category>
+			<title>DICHIARAZIONE DI SEDUTA DESERTA. </title>
+			<description>DICHIARAZIONE DI SEDUTA DESERTA. </description>
+			<a10:updated>2017-11-21T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3657106</guid>
 			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3657106</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
 			<title>SVOLGIMENTO DELLE FUNZIONI RSA-IMPEGNO DELLA SPESA II QUADRIMESTRE 2017 </title>
 			<description>SVOLGIMENTO DELLE FUNZIONI RSA-IMPEGNO DELLA SPESA II QUADRIMESTRE 2017 </description>
-			<a10:updated>2017-11-20T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3654350</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3654350</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 20 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 05 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3654350</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
-			<title>POSIZIONI DEBITO/CREDITO TALETE SPA - COMUNE DI VITERBO - NOTA PROTOCOLLO 0044733 DEL 22/06/2016 - REGOLARIZZAZIONE CONTABILI - DETERMINAZIONI IN MERITO </title>
-			<description>POSIZIONI DEBITO/CREDITO TALETE SPA - COMUNE DI VITERBO - NOTA PROTOCOLLO 0044733 DEL 22/06/2016 - REGOLARIZZAZIONE CONTABILI - DETERMINAZIONI IN MERITO </description>
 			<a10:updated>2017-11-20T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

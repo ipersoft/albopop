@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 21 Nov 2017 12:31:09 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 21 Nov 2017 13:30:37 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Tue, 21 Nov 2017 12:31:09 +0100</pubDate>
+		<pubDate>Tue, 21 Nov 2017 13:30:37 +0100</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3657555</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3657555</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 21 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 06 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3657555</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI RILASCIO PERMESSO DI COSTRUIRE</category>
+			<title>RILASCIO PERMESSO DI COSTRUIRE N. 240/2017 A NOME DI PERONI DARIO E POLI LORENA </title>
+			<description>RILASCIO PERMESSO DI COSTRUIRE N. 240/2017 A NOME DI PERONI DARIO E POLI LORENA </description>
+			<a10:updated>2017-11-21T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3657554</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3657554</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 21 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 06 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3657554</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI AVVISO</category>
+			<title>AVVISO DI DEPOSITO PRATICA EDILIZIA PER INTERVENTO IN VINCOLO IDROGEOLOGICO </title>
+			<description>AVVISO DI DEPOSITO PRATICA EDILIZIA PER INTERVENTO IN VINCOLO IDROGEOLOGICO </description>
+			<a10:updated>2017-11-21T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3657423</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3657423</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>IMPEGNO DI SPESA PER AGGIUDICAZIONE PROCEDURA PER LA FORNITURA DI MATERIALE ELETTRICO ( CIG Z101EAAF1B) </title>
 			<description>IMPEGNO DI SPESA PER AGGIUDICAZIONE PROCEDURA PER LA FORNITURA DI MATERIALE ELETTRICO ( CIG Z101EAAF1B) </description>
-			<a10:updated>2017-11-15T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3645471</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3645471</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 15 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 30 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3645471</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>AGGIUDICAZIONE GARA CON PROCEDURA IN SINTEL PER I LAVORI DI FORMAZIONE NUOVI BAGNI ADIBITI AI LOCALI CUCINA DALL' AZIENDA SPECIALE DI PROPRIETA' DI QUESTO ENTE ( CIG ZB420344D1 - Z3A2034545 - Z4020344ED) </title>
-			<description>AGGIUDICAZIONE GARA CON PROCEDURA IN SINTEL PER I LAVORI DI FORMAZIONE NUOVI BAGNI ADIBITI AI LOCALI CUCINA DALL' AZIENDA SPECIALE DI PROPRIETA' DI QUESTO ENTE ( CIG ZB420344D1 - Z3A2034545 - Z4020344ED) </description>
-			<a10:updated>2017-11-15T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3645469</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3645469</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 15 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 30 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3645469</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>AGGIUDICAZIONE GARA IN SINTEL PER I LAVORI DI MANUTENZIONE STRAORDINARIA - OPERE DA IDRAULICO ( CIG Z301FA7F43) </title>
-			<description>AGGIUDICAZIONE GARA IN SINTEL PER I LAVORI DI MANUTENZIONE STRAORDINARIA - OPERE DA IDRAULICO ( CIG Z301FA7F43) </description>
 			<a10:updated>2017-11-15T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

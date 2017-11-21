@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 21 Nov 2017 12:32:51 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 21 Nov 2017 13:31:18 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Tue, 21 Nov 2017 12:32:51 +0100</pubDate>
+		<pubDate>Tue, 21 Nov 2017 13:31:18 +0100</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3049495</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3049495</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 21 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 21 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3049495</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI ATTI DIVERSI</category>
+			<title>AVVISO DI MOBILITA' ESTERNA PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO E INDETERMINATO DI "ISTRUTTORE DIRETTIVO AMMINISTRATIVO CONTABILE CAT. D1" PRESSO L'AREA AMMINISTRATIVA CONTABILE </title>
+			<description>AVVISO DI MOBILITA' ESTERNA PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO E INDETERMINATO DI "ISTRUTTORE DIRETTIVO AMMINISTRATIVO CONTABILE CAT. D1" PRESSO L'AREA AMMINISTRATIVA CONTABILE </description>
+			<a10:updated>2017-11-21T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3049184</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3049184</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
 			<title>LIQUIDAZIONE SPESA AD ECOAMBIENTE S.R.L., SOCIETÀ IN HOUSE PROVIDING, PER GESTIONE DEL SERVIZIO IGIENE URBANA – SETTEMBRE 2017. </title>
 			<description>LIQUIDAZIONE SPESA AD ECOAMBIENTE S.R.L., SOCIETÀ IN HOUSE PROVIDING, PER GESTIONE DEL SERVIZIO IGIENE URBANA – SETTEMBRE 2017. </description>
-			<a10:updated>2017-11-20T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3047196</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3047196</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 20 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 05 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3047196</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>STADIO M. BATTAGLINI: RISTRUTTURAZIONE TRIBUNA LANZONI, SPOGLIATOIO FORMAZIONI GIOVANILI E NUOVO IMPIANTO DI IRRIGAZIONE - AFFIDAMENTO INCARICO PER COORDINAMENTO DELLA SICUREZZA IN FASE DI ESECUZIONE AL P.I. FECCHIO LORENZO PORTO VIRO (ROVIGO). CUP. G11E14000650005 - CIG. ZAC208E7DF </title>
-			<description>STADIO M. BATTAGLINI: RISTRUTTURAZIONE TRIBUNA LANZONI, SPOGLIATOIO FORMAZIONI GIOVANILI E NUOVO IMPIANTO DI IRRIGAZIONE - AFFIDAMENTO INCARICO PER COORDINAMENTO DELLA SICUREZZA IN FASE DI ESECUZIONE AL P.I. FECCHIO LORENZO PORTO VIRO (ROVIGO). CUP. G11E14000650005 - CIG. ZAC208E7DF </description>
 			<a10:updated>2017-11-20T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
