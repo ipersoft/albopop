@@ -5,7 +5,7 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 21 Nov 2017 15:31:48 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 21 Nov 2017 16:31:13 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Isernia</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>Tue, 21 Nov 2017 15:31:48 +0100</pubDate>
+		<pubDate>Tue, 21 Nov 2017 16:31:13 +0100</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3658249</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3658249</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 21 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 31 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3658249</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO AVVISO</category>
+			<title>POSTA CERTIFICATA: AVVISO COMUNE - ISERNIA - TAGLIO PIANTE </title>
+			<description>POSTA CERTIFICATA: AVVISO COMUNE - ISERNIA - TAGLIO PIANTE </description>
+			<a10:updated>2017-11-21T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3658248</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3658248</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 21 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 22 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3658248</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO DEPOSITO ATTI</category>
+			<title>PIUBBLICAZIONE ATTI MINIMA CIMUNICAZIONE SAS </title>
+			<description>PIUBBLICAZIONE ATTI MINIMA CIMUNICAZIONE SAS </description>
+			<a10:updated>2017-11-21T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3656524</guid>
 			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3656524</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
 			<title>Realizzazione di loculi nel cimitero di Castelromano Isernia. Approvazione del piano finanziario per la concessione di n. 40 loculi e dello schema di scrittura privata per la concessione agli utenti. </title>
 			<description>Realizzazione di loculi nel cimitero di Castelromano Isernia. Approvazione del piano finanziario per la concessione di n. 40 loculi e dello schema di scrittura privata per la concessione agli utenti. </description>
-			<a10:updated>2017-11-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3650301</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3650301</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 16 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 01 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3650301</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
-			<title>Gestione Bilancio 2017 - ATTO DI IMPEGNO DI SPESA - CIG: ZEC207D7E2 - Impegno di spesa per acquisto blocchetti preavviso cds - prop.n.1819 </title>
-			<description>Gestione Bilancio 2017 - ATTO DI IMPEGNO DI SPESA - CIG: ZEC207D7E2 - Impegno di spesa per acquisto blocchetti preavviso cds - prop.n.1819 </description>
-			<a10:updated>2017-11-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3650297</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3650297</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 16 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 01 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3650297</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
-			<title>Acquisto di sei computer processore I7, sei schermi da 24" e di una stampante multifunzione per il Servizio idrico integrato e per il servizio LLPP del Comune di Isernia.Affidamento ed impegno a favore della Ditta "C2 srl"-CIG:Z6320559EE </title>
-			<description>Acquisto di sei computer processore I7, sei schermi da 24" e di una stampante multifunzione per il Servizio idrico integrato e per il servizio LLPP del Comune di Isernia.Affidamento ed impegno a favore della Ditta "C2 srl"-CIG:Z6320559EE </description>
 			<a10:updated>2017-11-16T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
