@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 21 Nov 2017 09:31:21 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 21 Nov 2017 10:31:14 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Tue, 21 Nov 2017 09:31:21 +0100</pubDate>
+		<pubDate>Tue, 21 Nov 2017 10:31:14 +0100</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3048758</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3048758</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 21 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 27 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3048758</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE BANDI E CONCORSI</category>
+			<title>AVVISO DI MOBILITA' PER LA COPERTURA DI N. 1 POSTO DI ISTRUTTORE DIRETTIVO CONTABILE - A TEMPO PIENDO ED INDETERMINATO - CAT. D - BASE GIURIDICA D1 - SETTORE RISORSE FINANZIARIE, RISORSE UMANE, TRIBUTI - SEZIONE TRIBUTI </title>
+			<description>AVVISO DI MOBILITA' PER LA COPERTURA DI N. 1 POSTO DI ISTRUTTORE DIRETTIVO CONTABILE - A TEMPO PIENDO ED INDETERMINATO - CAT. D - BASE GIURIDICA D1 - SETTORE RISORSE FINANZIARIE, RISORSE UMANE, TRIBUTI - SEZIONE TRIBUTI </description>
+			<a10:updated>2017-11-21T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3048645</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3048645</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 21 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 06 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3048645</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
+			<title>OGGETTO: DETERMINA DI IMPEGNO PER LA FORNITURA DI COMANDO ESTERNO PER LE PORTE IN USO NEGLI IMPIANTI SPORTIVI COMUNALI DALLA DITTA FER-DOR SRL DI ROVIGO. </title>
+			<description>OGGETTO: DETERMINA DI IMPEGNO PER LA FORNITURA DI COMANDO ESTERNO PER LE PORTE IN USO NEGLI IMPIANTI SPORTIVI COMUNALI DALLA DITTA FER-DOR SRL DI ROVIGO. </description>
+			<a10:updated>2017-11-21T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3048642</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3048642</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 21 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 06 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3048642</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
+			<title>OGGETTO: IMPEGNO DI SPESA PER LA FORNITURA DI MATERIALE IGENICO-SANITARIO IN USO PRESSO I SERVIZI IGENICI DEGLI IMPIANTI SPORTIVI COMUNALI DALLA DITTA IDROS.ART - BOZZOLA GROUP S.P.A. </title>
+			<description>OGGETTO: IMPEGNO DI SPESA PER LA FORNITURA DI MATERIALE IGENICO-SANITARIO IN USO PRESSO I SERVIZI IGENICI DEGLI IMPIANTI SPORTIVI COMUNALI DALLA DITTA IDROS.ART - BOZZOLA GROUP S.P.A. </description>
+			<a10:updated>2017-11-21T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3048479</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3048479</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
 			<title>REFERENDUM CONSULTIVO REGIONALE DEL 22 OTTOBRE 2017. LIQUIDAZIONE FATTURA NR. 2092 DEL 31/10/2017 DELLA DITTA PROCED SRL DI DOSSON DI CASIER (TV) PER FORNITURA DI TONER. CIG ZA9202BC82 </title>
 			<description>REFERENDUM CONSULTIVO REGIONALE DEL 22 OTTOBRE 2017. LIQUIDAZIONE FATTURA NR. 2092 DEL 31/10/2017 DELLA DITTA PROCED SRL DI DOSSON DI CASIER (TV) PER FORNITURA DI TONER. CIG ZA9202BC82 </description>
-			<a10:updated>2017-11-20T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3047107</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3047107</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 20 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 05 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3047107</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>IMPEGNO E CONTESTUALE LIQUIDAZIONE CONTRIBUTO REGIONALE ICDB I° SEMESTRE ANNO 2017 SPETTANTE ALLE AVENTI DIRITTO SIGG.RE D. A., Z. A., G. E. COME DA GRADUATORIA TRASMESSA DALL' ULSS 5 DI ROVIGO. </title>
-			<description>IMPEGNO E CONTESTUALE LIQUIDAZIONE CONTRIBUTO REGIONALE ICDB I° SEMESTRE ANNO 2017 SPETTANTE ALLE AVENTI DIRITTO SIGG.RE D. A., Z. A., G. E. COME DA GRADUATORIA TRASMESSA DALL' ULSS 5 DI ROVIGO. </description>
-			<a10:updated>2017-11-20T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3046951</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3046951</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 20 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 05 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3046951</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DECRETI</category>
-			<title>DESIGNAZIONE DI N. 1 ULTERIORE UNITA' PER L'ACCREDITAMENTO E L'ACCESSO ALLA BANCA DATI NAZIONALE UNICA PER LA DOCUMENTAZIONE ANTIMAFIA (BDNA) </title>
-			<description>DESIGNAZIONE DI N. 1 ULTERIORE UNITA' PER L'ACCREDITAMENTO E L'ACCESSO ALLA BANCA DATI NAZIONALE UNICA PER LA DOCUMENTAZIONE ANTIMAFIA (BDNA) </description>
-			<a10:updated>2017-11-20T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3046661</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3046661</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 20 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 11 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3046661</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI ATTI DIVERSI</category>
-			<title>RIPUBBLICAZIONE PER RETTIFICA DI AVVISO DI MOBILITA' PER LA COPERTURA DI N. 1 POSTO DI ISTRUTTORE DIRETTIVO TECNICO - CAT. D-D1, A TEMPO PIENO E INDETERMINATO PRESSO IL SETTORE 5° LAVORI PUBBLICI-URBANISTICA </title>
-			<description>RIPUBBLICAZIONE PER RETTIFICA DI AVVISO DI MOBILITA' PER LA COPERTURA DI N. 1 POSTO DI ISTRUTTORE DIRETTIVO TECNICO - CAT. D-D1, A TEMPO PIENO E INDETERMINATO PRESSO IL SETTORE 5° LAVORI PUBBLICI-URBANISTICA </description>
 			<a10:updated>2017-11-20T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
