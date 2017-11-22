@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 22 Nov 2017 08:30:50 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 22 Nov 2017 09:30:41 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Wed, 22 Nov 2017 08:30:50 +0100</pubDate>
+		<pubDate>Wed, 22 Nov 2017 09:30:41 +0100</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3658663</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3658663</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 22 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 07 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3658663</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>ACQUISTO PACCHETTO SOFTWARE CIE PER AGGIORNAMENTO J-DEMOS E ADEGUAMENTO ALLA NUOVA CIE E AGGIORNAMENTO SOFTWARE SERVER PER RISPETTO REQUISITI MINIMI DI SICUREZZA - CODICE CIG: ZCC2076B40. </title>
+			<description>ACQUISTO PACCHETTO SOFTWARE CIE PER AGGIORNAMENTO J-DEMOS E ADEGUAMENTO ALLA NUOVA CIE E AGGIORNAMENTO SOFTWARE SERVER PER RISPETTO REQUISITI MINIMI DI SICUREZZA - CODICE CIG: ZCC2076B40. </description>
+			<a10:updated>2017-11-22T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3658603</guid>
 			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3658603</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>INCARICO GEOM. MENEGHIN STEFANO PROGETTAZIONE REALIZZAZIONE RECINZIONI AREE COMUNALI </title>
 			<description>INCARICO GEOM. MENEGHIN STEFANO PROGETTAZIONE REALIZZAZIONE RECINZIONI AREE COMUNALI </description>
-			<a10:updated>2017-11-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3647805</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3647805</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 16 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 01 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3647805</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>INTERVENTO PER MANUTENZIONE E REVISIONE DELL’AUTOVETTURA DI PROPRIETÀ COMUNALE DG437CX, IN DOTAZIONE AL PERSONALE DIPENDENTE DEL SETTORE LL.PP. (LAVORI COMPLEMENTARI). AFFIDAMENTO ALLA DITTA CENTRO AUTORIPARAZIONI LEVORATO ILARIO S.R.L. DI DOLO (VE). </title>
-			<description>INTERVENTO PER MANUTENZIONE E REVISIONE DELL’AUTOVETTURA DI PROPRIETÀ COMUNALE DG437CX, IN DOTAZIONE AL PERSONALE DIPENDENTE DEL SETTORE LL.PP. (LAVORI COMPLEMENTARI). AFFIDAMENTO ALLA DITTA CENTRO AUTORIPARAZIONI LEVORATO ILARIO S.R.L. DI DOLO (VE). </description>
 			<a10:updated>2017-11-16T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
