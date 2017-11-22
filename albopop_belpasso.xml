@@ -5,7 +5,7 @@
 		<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Belpasso</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 22 Nov 2017 13:31:07 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 22 Nov 2017 14:31:08 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Belpasso</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Belpasso</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_belpasso</a10:id>
-		<pubDate>Wed, 22 Nov 2017 13:31:07 +0100</pubDate>
+		<pubDate>Wed, 22 Nov 2017 14:31:08 +0100</pubDate>
 		<docs>http://albopop.it/comune/belpasso/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3660341</guid>
+			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3660341</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 22 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 27 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3660341</category>
+			<category domain="http://albopop.it/specs#item-category-type">VERBALI VERBALE DI GARA</category>
+			<title>PROCEDURA APERTA (PUBBLICO INCANTO) PER ALIENAZIONE DI BENI DI PROPRIETÀ COMUNALE. PUBBLICAZIONE VERBALE DI GARA DESERTA DEL 22/11/2017 </title>
+			<description>PROCEDURA APERTA (PUBBLICO INCANTO) PER ALIENAZIONE DI BENI DI PROPRIETÀ COMUNALE. PUBBLICAZIONE VERBALE DI GARA DESERTA DEL 22/11/2017 </description>
+			<a10:updated>2017-11-22T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3660296</guid>
 			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3660296</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO PER IRREPERIBILITA'</category>
 			<title>ACCERTAMENTO N.250TXNM002209 A CARICO DI D'AGATA SALVATORE </title>
 			<description>ACCERTAMENTO N.250TXNM002209 A CARICO DI D'AGATA SALVATORE </description>
-			<a10:updated>2017-11-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3649343</guid>
-			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3649343</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 16 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 24 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3649343</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO PER IRREPERIBILITA'</category>
-			<title>AVVISO DI ACCERTAMENTO N.14091937 A CARICO DI SARDO SALVATORE NATO A CATANIA IL 10/11/74 </title>
-			<description>AVVISO DI ACCERTAMENTO N.14091937 A CARICO DI SARDO SALVATORE NATO A CATANIA IL 10/11/74 </description>
 			<a10:updated>2017-11-16T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

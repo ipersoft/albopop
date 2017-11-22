@@ -5,7 +5,7 @@
 		<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rometta</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 22 Nov 2017 13:31:45 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 22 Nov 2017 14:31:23 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rometta</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Messina</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rometta</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rometta</a10:id>
-		<pubDate>Wed, 22 Nov 2017 13:31:45 +0100</pubDate>
+		<pubDate>Wed, 22 Nov 2017 14:31:23 +0100</pubDate>
 		<docs>http://albopop.it/comune/rometta/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3660347</guid>
+			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3660347</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 22 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 07 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3660347</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
+			<title>ACQUISTO COLLA PER IL SERVIZIO PUBBLICITA' E PUBBLICA AFFISSIONE - LIQUIDAZIONE ALLA DITTA GROSSO S.A.S. DI GROSSO G. &amp; C. </title>
+			<description>ACQUISTO COLLA PER IL SERVIZIO PUBBLICITA' E PUBBLICA AFFISSIONE - LIQUIDAZIONE ALLA DITTA GROSSO S.A.S. DI GROSSO G. &amp; C. </description>
+			<a10:updated>2017-11-22T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3659995</guid>
 			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3659995</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>ELEZIONI REGIONALI 5 NOVEMBRE 2017 LIQUIDAZIONE FATTURA PER LA FORNITURA BANDIERE DITTA GIACOPPO PLACIDO. (CIG. N. Z4A205DA7F). </title>
 			<description>ELEZIONI REGIONALI 5 NOVEMBRE 2017 LIQUIDAZIONE FATTURA PER LA FORNITURA BANDIERE DITTA GIACOPPO PLACIDO. (CIG. N. Z4A205DA7F). </description>
-			<a10:updated>2017-11-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3649922</guid>
-			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3649922</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 16 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 01 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3649922</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>IMPEGNO SPESA PER RICOVERO MINORI E MADRE IN COMUNITA’ FINO ALLA DATA DI DIMISSIONI. </title>
-			<description>IMPEGNO SPESA PER RICOVERO MINORI E MADRE IN COMUNITA’ FINO ALLA DATA DI DIMISSIONI. </description>
 			<a10:updated>2017-11-16T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 22 Nov 2017 13:31:49 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 22 Nov 2017 14:31:28 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Wed, 22 Nov 2017 13:31:49 +0100</pubDate>
+		<pubDate>Wed, 22 Nov 2017 14:31:28 +0100</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3062927</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3062927</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 22 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 07 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3062927</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
+			<title>PRESA D'ATTO CORREZIONE IBAN PER DUE BENEFICIARI IN ELENCO NON PARTE INTEGRANTE E NON PUBBLICABILE DI CUI ALLA DETERMINA N. 2162/2017, AI FINI DEL PAGAMENTO DEL CONTRIBUTO REGIONALE IMPEGNATIVA DI CURA DOMICILIARE ICDB I° SEMESTRE 2017 E ICDM II° TRIMESTRE 2017” </title>
+			<description>PRESA D'ATTO CORREZIONE IBAN PER DUE BENEFICIARI IN ELENCO NON PARTE INTEGRANTE E NON PUBBLICABILE DI CUI ALLA DETERMINA N. 2162/2017, AI FINI DEL PAGAMENTO DEL CONTRIBUTO REGIONALE IMPEGNATIVA DI CURA DOMICILIARE ICDB I° SEMESTRE 2017 E ICDM II° TRIMESTRE 2017” </description>
+			<a10:updated>2017-11-22T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3062188</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3062188</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
 			<title>LIQUIDAZIONE INDENNITA’ DI FUNZIONE SINDACO, ASSESSORI E PRESIDENTE DEL CONSIGLIO MESE DI NOVEMBRE 2017 </title>
 			<description>LIQUIDAZIONE INDENNITA’ DI FUNZIONE SINDACO, ASSESSORI E PRESIDENTE DEL CONSIGLIO MESE DI NOVEMBRE 2017 </description>
-			<a10:updated>2017-11-21T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3049946</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3049946</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 21 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 06 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3049946</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>LIQUIDAZIONE LAVORO ORDINARIO FESTIVO E NOTTURNO MESE DI SETTEMBRE 2017 </title>
-			<description>LIQUIDAZIONE LAVORO ORDINARIO FESTIVO E NOTTURNO MESE DI SETTEMBRE 2017 </description>
 			<a10:updated>2017-11-21T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
