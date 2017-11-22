@@ -5,7 +5,7 @@
 		<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Torri del Benaco</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 22 Nov 2017 09:31:34 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 22 Nov 2017 10:31:52 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Torri del Benaco</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Verona</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Torri del Benaco</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_torridelbenaco</a10:id>
-		<pubDate>Wed, 22 Nov 2017 09:31:34 +0100</pubDate>
+		<pubDate>Wed, 22 Nov 2017 10:31:52 +0100</pubDate>
 		<docs>http://albopop.it/comune/torridelbenaco/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3658905</guid>
+			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3658905</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 22 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 07 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3658905</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
+			<title>ARCHITER SRL - AUTORIZZAZIONE AL CONFERIMENTO DELL'INCARICO PER LE PRESTAZIONI SPECIALISTICHE NECESSARIE ALL'ESPLETAMENTO DELLA REDAZIONE DELLA VARIANTE N.1 AL P.A.T., AI SENSI DELL'ART.3 DEL DISCIPLINARE N.4/2017 APPROVATO CON DETERMINE NN. 460 DEL 12/09/2016, 592 DEL 24/11/2016 E 654 DEL 23/12/2016. </title>
+			<description>ARCHITER SRL - AUTORIZZAZIONE AL CONFERIMENTO DELL'INCARICO PER LE PRESTAZIONI SPECIALISTICHE NECESSARIE ALL'ESPLETAMENTO DELLA REDAZIONE DELLA VARIANTE N.1 AL P.A.T., AI SENSI DELL'ART.3 DEL DISCIPLINARE N.4/2017 APPROVATO CON DETERMINE NN. 460 DEL 12/09/2016, 592 DEL 24/11/2016 E 654 DEL 23/12/2016. </description>
+			<a10:updated>2017-11-22T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3657862</guid>
 			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3657862</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISO 30 GIORNI</category>
 			<title>BANDO ASTA PUBBLICA INTEGRALE IPAB </title>
 			<description>BANDO ASTA PUBBLICA INTEGRALE IPAB </description>
-			<a10:updated>2017-11-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3648061</guid>
-			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3648061</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 16 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 16 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3648061</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISO 30 GIORNI</category>
-			<title>AVVISO DI MOBILITA' ESTERNA PER LA COPERTURA, A TEMPO INDETERMINATO CON IMPIEGO A TEMPO PIENO, DI N. 1 POSTO DI AGENTE DI POLIZIA LOCALE CAT. C - RICHIESTA PUBBLICAZIONE ALBO PRETORIO </title>
-			<description>AVVISO DI MOBILITA' ESTERNA PER LA COPERTURA, A TEMPO INDETERMINATO CON IMPIEGO A TEMPO PIENO, DI N. 1 POSTO DI AGENTE DI POLIZIA LOCALE CAT. C - RICHIESTA PUBBLICAZIONE ALBO PRETORIO </description>
 			<a10:updated>2017-11-16T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

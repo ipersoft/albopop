@@ -5,7 +5,7 @@
 		<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Viterbo</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 22 Nov 2017 09:30:53 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 22 Nov 2017 10:30:49 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Viterbo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Viterbo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Viterbo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_viterbo</a10:id>
-		<pubDate>Wed, 22 Nov 2017 09:30:53 +0100</pubDate>
+		<pubDate>Wed, 22 Nov 2017 10:30:49 +0100</pubDate>
 		<docs>http://albopop.it/comune/viterbo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3658931</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3658931</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 22 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 07 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3658931</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE ORDINANZA SINDACALE</category>
+			<title>ORDINANZA PER RIPRISTINO CONFORMITA' ALLE NORMATIVE VIGENTI DEGLI SCARICHI DEI FUMI DELLE CALDAIE A SERVIZIO DEGLI APPARTAMENTI DELL'EDIFICIO CONDOMINIALE SITO IN VIA POLIDORI, 35 / VIA GARBINI, 80. </title>
+			<description>ORDINANZA PER RIPRISTINO CONFORMITA' ALLE NORMATIVE VIGENTI DEGLI SCARICHI DEI FUMI DELLE CALDAIE A SERVIZIO DEGLI APPARTAMENTI DELL'EDIFICIO CONDOMINIALE SITO IN VIA POLIDORI, 35 / VIA GARBINI, 80. </description>
+			<a10:updated>2017-11-22T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3658324</guid>
 			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3658324</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
 			<title>PROGETTO SIA SOSTEGNO INCLUSIONE ATTIVA - PON FSE - MISURA B.1.A ATTIVITA' SPORTIVA- IMPEGNO SPESA- CUP D89J16002330006- RIMBORSI ASSOCIAZIONI - CIG Z151E51607 </title>
 			<description>PROGETTO SIA SOSTEGNO INCLUSIONE ATTIVA - PON FSE - MISURA B.1.A ATTIVITA' SPORTIVA- IMPEGNO SPESA- CUP D89J16002330006- RIMBORSI ASSOCIAZIONI - CIG Z151E51607 </description>
-			<a10:updated>2017-11-20T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3654352</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3654352</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 20 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 05 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3654352</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
-			<title>SVOLGIMENTO DELLE FUNZIONI RSA-IMPEGNO DELLA SPESA II QUADRIMESTRE 2017 </title>
-			<description>SVOLGIMENTO DELLE FUNZIONI RSA-IMPEGNO DELLA SPESA II QUADRIMESTRE 2017 </description>
 			<a10:updated>2017-11-20T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
