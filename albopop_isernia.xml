@@ -5,7 +5,7 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 21 Nov 2017 18:31:26 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 22 Nov 2017 08:31:25 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Isernia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>Tue, 21 Nov 2017 18:31:26 +0100</pubDate>
+		<pubDate>Wed, 22 Nov 2017 08:31:25 +0100</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3658519</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3658519</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 21 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 06 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3658519</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZE</category>
+			<title>Divieto di sosta con rimozione forzata e divieto di transito in alcuni tratti di vie cittadine per l'istituzione dell'isola pedonale in C/so Garibaldi il 25.11.2017. </title>
+			<description>Divieto di sosta con rimozione forzata e divieto di transito in alcuni tratti di vie cittadine per l'istituzione dell'isola pedonale in C/so Garibaldi il 25.11.2017. </description>
+			<a10:updated>2017-11-21T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3658249</guid>
 			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3658249</link>
@@ -63,61 +74,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DECRETI</category>
 			<title>CONFERIMENTO DELLE RESPONSABILITA' DEL 3° SETTORE E DELLA U.O.A. POLIZIA MUNICIPALE. REVOCA PARZIALE DEL DECRETO N. 17/2016.- </title>
 			<description>CONFERIMENTO DELLE RESPONSABILITA' DEL 3° SETTORE E DELLA U.O.A. POLIZIA MUNICIPALE. REVOCA PARZIALE DEL DECRETO N. 17/2016.- </description>
-			<a10:updated>2017-11-20T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3655446</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3655446</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 20 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 21 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3655446</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO DEPOSITO ATTI</category>
-			<title>PUBBLICAZIONE ATTI CUTONE OLIMPIA </title>
-			<description>PUBBLICAZIONE ATTI CUTONE OLIMPIA </description>
-			<a10:updated>2017-11-20T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3655445</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3655445</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 20 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 21 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3655445</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO DEPOSITO ATTI</category>
-			<title>PUBBLICAZIONE ATTI IZZI VIRGINIA </title>
-			<description>PUBBLICAZIONE ATTI IZZI VIRGINIA </description>
-			<a10:updated>2017-11-20T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3655444</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3655444</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 20 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 21 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3655444</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO DEPOSITO ATTI</category>
-			<title>PUBBLICAZIONE ATTI ERCOLANO GIUSEPPE </title>
-			<description>PUBBLICAZIONE ATTI ERCOLANO GIUSEPPE </description>
-			<a10:updated>2017-11-20T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3655443</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3655443</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 20 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 21 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3655443</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO DEPOSITO ATTI</category>
-			<title>DEPOSITO ATTI AUROPA DI CIMORELLI E BELFIORE RAFFAELLO &amp; C. </title>
-			<description>DEPOSITO ATTI AUROPA DI CIMORELLI E BELFIORE RAFFAELLO &amp; C. </description>
-			<a10:updated>2017-11-20T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3655442</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3655442</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 20 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 21 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3655442</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO DEPOSITO ATTI</category>
-			<title>PUBBLICAZIONE ATTI AVENIDA SRL + 1 </title>
-			<description>PUBBLICAZIONE ATTI AVENIDA SRL + 1 </description>
 			<a10:updated>2017-11-20T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
@@ -294,6 +250,50 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
 			<title>Realizzazione di loculi nel cimitero di Castelromano Isernia. Approvazione del piano finanziario per la concessione di n. 40 loculi e dello schema di scrittura privata per la concessione agli utenti. </title>
 			<description>Realizzazione di loculi nel cimitero di Castelromano Isernia. Approvazione del piano finanziario per la concessione di n. 40 loculi e dello schema di scrittura privata per la concessione agli utenti. </description>
+			<a10:updated>2017-11-16T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3650301</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3650301</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 16 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 01 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3650301</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
+			<title>Gestione Bilancio 2017 - ATTO DI IMPEGNO DI SPESA - CIG: ZEC207D7E2 - Impegno di spesa per acquisto blocchetti preavviso cds - prop.n.1819 </title>
+			<description>Gestione Bilancio 2017 - ATTO DI IMPEGNO DI SPESA - CIG: ZEC207D7E2 - Impegno di spesa per acquisto blocchetti preavviso cds - prop.n.1819 </description>
+			<a10:updated>2017-11-16T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3650297</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3650297</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 16 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 01 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3650297</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
+			<title>Acquisto di sei computer processore I7, sei schermi da 24" e di una stampante multifunzione per il Servizio idrico integrato e per il servizio LLPP del Comune di Isernia.Affidamento ed impegno a favore della Ditta "C2 srl"-CIG:Z6320559EE </title>
+			<description>Acquisto di sei computer processore I7, sei schermi da 24" e di una stampante multifunzione per il Servizio idrico integrato e per il servizio LLPP del Comune di Isernia.Affidamento ed impegno a favore della Ditta "C2 srl"-CIG:Z6320559EE </description>
+			<a10:updated>2017-11-16T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3650176</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3650176</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 16 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 01 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3650176</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
+			<title>CONCESSIONE ASPETTATIVA ART. 11 CCNL 14/09/207 - RIPRESA ATTIVITA' LAVORATIVA </title>
+			<description>CONCESSIONE ASPETTATIVA ART. 11 CCNL 14/09/207 - RIPRESA ATTIVITA' LAVORATIVA </description>
+			<a10:updated>2017-11-16T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3648429</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3648429</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 16 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 01 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3648429</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA CONSIGLIO COMUNALE</category>
+			<title>REVISIONE STRAORDINARIA DELLE PARTECIPAZIONI EX ART. 24 DEL D.LGS. 19 AGOSTO 2016 N. 175 – RICOGNIZIONE DELLE PARTECIPAZIONE POSSEDUTE ED INDIVIDUAZIONE DELLE PARTECIPAZIONE DA ALIENARE. </title>
+			<description>REVISIONE STRAORDINARIA DELLE PARTECIPAZIONI EX ART. 24 DEL D.LGS. 19 AGOSTO 2016 N. 175 – RICOGNIZIONE DELLE PARTECIPAZIONE POSSEDUTE ED INDIVIDUAZIONE DELLE PARTECIPAZIONE DA ALIENARE. </description>
 			<a10:updated>2017-11-16T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
