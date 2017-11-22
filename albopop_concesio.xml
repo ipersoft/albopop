@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 22 Nov 2017 11:30:47 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 22 Nov 2017 12:30:49 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Wed, 22 Nov 2017 11:30:47 +0100</pubDate>
+		<pubDate>Wed, 22 Nov 2017 12:30:49 +0100</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3659834</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3659834</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 22 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 07 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3659834</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
+			<title>ISTITUZIONE TEMPORANEA SENSO UNICO ALTERNATO E DIVIETO DI SOSTA SULLE VIE MAZZINI - OLIVELLI - SEGHERIA - EUROPA (CONTROVIALE) </title>
+			<description>ISTITUZIONE TEMPORANEA SENSO UNICO ALTERNATO E DIVIETO DI SOSTA SULLE VIE MAZZINI - OLIVELLI - SEGHERIA - EUROPA (CONTROVIALE) </description>
+			<a10:updated>2017-11-22T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3659360</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3659360</link>
@@ -284,17 +295,6 @@
 			<title>INVIO BANDI DI MOBILITA' - COMUNE DI GUSSAGO SCADENZA 18/12/2017 </title>
 			<description>INVIO BANDI DI MOBILITA' - COMUNE DI GUSSAGO SCADENZA 18/12/2017 </description>
 			<a10:updated>2017-11-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3647546</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3647546</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 15 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 30 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3647546</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>AFFIDAMENTO DELL'APPALTO PER LA FORNITURA ED INSTALLAZIONE DI CELLA FRIGORIFERA PRESSO LA R.S.A. DI CONCESIO - C.I.G. Z68205D2E5 </title>
-			<description>AFFIDAMENTO DELL'APPALTO PER LA FORNITURA ED INSTALLAZIONE DI CELLA FRIGORIFERA PRESSO LA R.S.A. DI CONCESIO - C.I.G. Z68205D2E5 </description>
-			<a10:updated>2017-11-15T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>

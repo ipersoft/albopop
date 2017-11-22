@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 22 Nov 2017 11:31:00 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 22 Nov 2017 12:31:02 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Wed, 22 Nov 2017 11:31:00 +0100</pubDate>
+		<pubDate>Wed, 22 Nov 2017 12:31:02 +0100</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3056815</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3056815</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 22 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 23 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3056815</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DEPOSITO ATTI - CASELLE ESATTORIALI</category>
+			<title>DEPOSITO ATTI NELLA CASA COMUNALE PER AFFISSIONE ALL'ALBO </title>
+			<description>DEPOSITO ATTI NELLA CASA COMUNALE PER AFFISSIONE ALL'ALBO </description>
+			<a10:updated>2017-11-22T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3050684</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3050684</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
 			<title>NOMINA DELL’AUTORITA’ PROCEDENTE PER LA VERIFICA DI ASSOGGETTABILITA’ ALLA VALUTAZIONE AMBIENTALE STRATEGICA (V.A.S.) RELATIVA AL PIANO DI RECUPERO IN VARIANTE AL PIANO DELLE REGOLE DEL PGT VIGENTE DA REALIZZARSI IN VIA G. GALILEI – VIA COLOMBO. </title>
 			<description>NOMINA DELL’AUTORITA’ PROCEDENTE PER LA VERIFICA DI ASSOGGETTABILITA’ ALLA VALUTAZIONE AMBIENTALE STRATEGICA (V.A.S.) RELATIVA AL PIANO DI RECUPERO IN VARIANTE AL PIANO DELLE REGOLE DEL PGT VIGENTE DA REALIZZARSI IN VIA G. GALILEI – VIA COLOMBO. </description>
-			<a10:updated>2017-11-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3042506</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3042506</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 16 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 30 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3042506</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>AGGIORNAMENTO DEL COSTO DI COSTRUZIONE PER L'EDILIZIA RESIDENZIALE AI FINI DEL CONTRIBUTO DI COSTRUZIONE AI SENSI DELL'ART. 16 COMMA 9 DEL D.P.R. 6 GIUGNO 2001 N° 380 S.M.I. E DELL'ART. 48 COMMA 2 DELLA L.R. N° 12/2005 S.M.I. </title>
-			<description>AGGIORNAMENTO DEL COSTO DI COSTRUZIONE PER L'EDILIZIA RESIDENZIALE AI FINI DEL CONTRIBUTO DI COSTRUZIONE AI SENSI DELL'ART. 16 COMMA 9 DEL D.P.R. 6 GIUGNO 2001 N° 380 S.M.I. E DELL'ART. 48 COMMA 2 DELLA L.R. N° 12/2005 S.M.I. </description>
 			<a10:updated>2017-11-16T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
