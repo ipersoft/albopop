@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 23 Nov 2017 15:31:01 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 23 Nov 2017 16:30:49 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,55 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Thu, 23 Nov 2017 15:31:01 +0100</pubDate>
+		<pubDate>Thu, 23 Nov 2017 16:30:49 +0100</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/822399</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/822399</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 23 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 08 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">822399</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA DEL SINDACO</category>
+			<title>NOTTE BIANCA DELLA MUSICA 24 NOVEMBRE 2017. DEROGA ORARI MUSICA IN CENTRO STORICO. </title>
+			<description>NOTTE BIANCA DELLA MUSICA 24 NOVEMBRE 2017. DEROGA ORARI MUSICA IN CENTRO STORICO. </description>
+			<a10:updated>2017-11-23T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/822397</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/822397</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 23 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 08 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">822397</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>PROSECUZIONE NELL'ANNO 2017 DEL PROGETTO DENOMINATO "L'AUTISMO NELLE MARCHE - VERSO UN PROGETTO DI VITA" - "SOTTO PROGETTO PER L'ETA' ADOLESCENZIALE ED ADULTA" VOLTO A FAVORIRE LA FREQUENZA DEI CC.S.EE.RR. (CENTRI SOCIO EDUCATIVI RIABILITATIVI) DA PARTE DI ADULTI AFFETTI DA AUTISMO – RETTIFICA DETERMINA N. 2743/2017 (CIG ZED20590C6). </title>
+			<description>PROSECUZIONE NELL'ANNO 2017 DEL PROGETTO DENOMINATO "L'AUTISMO NELLE MARCHE - VERSO UN PROGETTO DI VITA" - "SOTTO PROGETTO PER L'ETA' ADOLESCENZIALE ED ADULTA" VOLTO A FAVORIRE LA FREQUENZA DEI CC.S.EE.RR. (CENTRI SOCIO EDUCATIVI RIABILITATIVI) DA PARTE DI ADULTI AFFETTI DA AUTISMO – RETTIFICA DETERMINA N. 2743/2017 (CIG ZED20590C6). </description>
+			<a10:updated>2017-11-23T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/822378</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/822378</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 23 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 11 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">822378</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISI BANDI DI SERVIZI</category>
+			<title>AVVISO PUBBLICO PER MANIFESTAZIONE DI INTERESSE PER L'INDIVIDUAZIONE DEI SOGGETTI INTERESSATI A SVOLGERE L'ATTIVITA' DI BIKE SHARING A FLUSSO LIBERO NEL TERRITORIO DEL COMUNE DI PESARO </title>
+			<description>AVVISO PUBBLICO PER MANIFESTAZIONE DI INTERESSE PER L'INDIVIDUAZIONE DEI SOGGETTI INTERESSATI A SVOLGERE L'ATTIVITA' DI BIKE SHARING A FLUSSO LIBERO NEL TERRITORIO DEL COMUNE DI PESARO </description>
+			<a10:updated>2017-11-23T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/822376</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/822376</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 23 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 23 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">822376</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO SELEZIONI CONCORSI - ALBO</category>
+			<title>AVVISO DI CONVOCAZIONE AL COLLOQUIO PER LA PROCEDURA DI MOBILITÀ EX ART.30 D.LGS 165/01- GEOMETRA- CATEGORIA C. </title>
+			<description>AVVISO DI CONVOCAZIONE AL COLLOQUIO PER LA PROCEDURA DI MOBILITÀ EX ART.30 D.LGS 165/01- GEOMETRA- CATEGORIA C. </description>
+			<a10:updated>2017-11-23T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/821837</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/821837</link>
@@ -250,50 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>CONTRATTO DI CONCESSIONE ALLA DITTA NEW POWER S.R.L. DI LOCALI PRESENTI ALL'INTERNO DEL PALAZZO DI GIUSTIZIA SEDE DEL TRIBUNALE DI PESARO DA ADIBIRE A PUBBLICO ESERCIZIO PER LA SOMMINISTRAZIONE DI ALIMENTI E BEVANDE ESCLUSA LA RISTORAZIONE - ASSUNZIONE ACCERTAMENTO ENTRATA </title>
 			<description>CONTRATTO DI CONCESSIONE ALLA DITTA NEW POWER S.R.L. DI LOCALI PRESENTI ALL'INTERNO DEL PALAZZO DI GIUSTIZIA SEDE DEL TRIBUNALE DI PESARO DA ADIBIRE A PUBBLICO ESERCIZIO PER LA SOMMINISTRAZIONE DI ALIMENTI E BEVANDE ESCLUSA LA RISTORAZIONE - ASSUNZIONE ACCERTAMENTO ENTRATA </description>
-			<a10:updated>2017-11-22T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/821366</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/821366</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 22 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 07 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">821366</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>AFFIDAMENTO LAVORI DI MANUTENZIONE STRAORDINARIA DELLA PAVIMENTAZIONE STRADALE IN ZONA CAMPUS E DEL PARCHEGGIO DI VIA TROMETTA. ASSUNZIONE IMPEGNO DI SPESA DI EURO 20.000,00. </title>
-			<description>AFFIDAMENTO LAVORI DI MANUTENZIONE STRAORDINARIA DELLA PAVIMENTAZIONE STRADALE IN ZONA CAMPUS E DEL PARCHEGGIO DI VIA TROMETTA. ASSUNZIONE IMPEGNO DI SPESA DI EURO 20.000,00. </description>
-			<a10:updated>2017-11-22T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/821363</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/821363</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 22 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 07 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">821363</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>RISORSE PER LA RETRIBUZIONE DI POSIZIONE E RISULTATO DEI DIRIGENTI – DEFINITIVO ANNO 2017 E ULTERIORI IMPEGNI DI SPESA. </title>
-			<description>RISORSE PER LA RETRIBUZIONE DI POSIZIONE E RISULTATO DEI DIRIGENTI – DEFINITIVO ANNO 2017 E ULTERIORI IMPEGNI DI SPESA. </description>
-			<a10:updated>2017-11-22T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/821230</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/821230</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 22 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 07 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">821230</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>NOLEGGIO IMPIANTI DI CLIMATIZZAZIONE C/O INFORMA SERVIZI - AFFIDAMENTO ALLA DITTA </title>
-			<description>NOLEGGIO IMPIANTI DI CLIMATIZZAZIONE C/O INFORMA SERVIZI - AFFIDAMENTO ALLA DITTA </description>
-			<a10:updated>2017-11-22T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/821227</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/821227</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 22 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 07 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">821227</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>LAVORI D’URGENZA PER RICOSTRUZIONE MURO DI CONTENIMENTO DELLA STRADA DI ACCESSO AL CIMITERO DI CANDELARA. SPOSTAMENTO CONTATORI ACQUA. IMPORTO TOTALE EURO 558,80 I.V.A. COMPRESA. </title>
-			<description>LAVORI D’URGENZA PER RICOSTRUZIONE MURO DI CONTENIMENTO DELLA STRADA DI ACCESSO AL CIMITERO DI CANDELARA. SPOSTAMENTO CONTATORI ACQUA. IMPORTO TOTALE EURO 558,80 I.V.A. COMPRESA. </description>
 			<a10:updated>2017-11-22T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
