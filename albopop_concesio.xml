@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 23 Nov 2017 11:30:40 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 23 Nov 2017 12:30:36 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Thu, 23 Nov 2017 11:30:40 +0100</pubDate>
+		<pubDate>Thu, 23 Nov 2017 12:30:36 +0100</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3662605</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3662605</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 23 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 08 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3662605</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI AVVISO</category>
+			<title>AVVISO DI CONVOCAZIONE DEL CONSIGLIO COMUNALE IN PRIMA CONVOCAZIONE IL GIORNO 29.11.2017 ALLE ORE 20.30 </title>
+			<description>AVVISO DI CONVOCAZIONE DEL CONSIGLIO COMUNALE IN PRIMA CONVOCAZIONE IL GIORNO 29.11.2017 ALLE ORE 20.30 </description>
+			<a10:updated>2017-11-23T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3662505</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3662505</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 23 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 08 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3662505</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI AVVISO</category>
+			<title>TRASMISSIONE BANDO FINALIZZATO A FAVORE DELLE MICRO E PICCOLE MEDIE IMPRESE </title>
+			<description>TRASMISSIONE BANDO FINALIZZATO A FAVORE DELLE MICRO E PICCOLE MEDIE IMPRESE </description>
+			<a10:updated>2017-11-23T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3660062</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3660062</link>
@@ -273,28 +295,6 @@
 			<title>APPROVAZIONE NUOVE TARIFFE DI CONCESSIONE DEI LOCULI CINERARI E OSSARI NEL CIMITERO DI CONCESIO. </title>
 			<description>APPROVAZIONE NUOVE TARIFFE DI CONCESSIONE DEI LOCULI CINERARI E OSSARI NEL CIMITERO DI CONCESIO. </description>
 			<a10:updated>2017-11-17T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3651729</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3651729</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 17 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 02 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3651729</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERA DI GIUNTA</category>
-			<title>APPROVAZIONE ELENCO DEI CANDIDATI PER IL CONSIGLIO COMUNALE DEI RAGAZZI CCR ANNO SCOLASTICO 2017/2018. </title>
-			<description>APPROVAZIONE ELENCO DEI CANDIDATI PER IL CONSIGLIO COMUNALE DEI RAGAZZI CCR ANNO SCOLASTICO 2017/2018. </description>
-			<a10:updated>2017-11-17T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3649980</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3649980</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 16 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 01 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3649980</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI AVVISO</category>
-			<title>INVIO BANDI DI MOBILITA' - COMUNE DI GUSSAGO SCADENZA 18/12/2017 </title>
-			<description>INVIO BANDI DI MOBILITA' - COMUNE DI GUSSAGO SCADENZA 18/12/2017 </description>
-			<a10:updated>2017-11-16T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
