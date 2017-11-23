@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 23 Nov 2017 09:31:36 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 23 Nov 2017 10:31:27 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Thu, 23 Nov 2017 09:31:36 +0100</pubDate>
+		<pubDate>Thu, 23 Nov 2017 10:31:27 +0100</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3661926</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3661926</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 23 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 27 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3661926</category>
+			<category domain="http://albopop.it/specs#item-category-type">BANDO DI CONCORSO/SELEZIONI PUBBLICHE BANDI DI CONCORSO/SELEZIONI PUBBLICHE</category>
+			<title>AVVISO DI MOBILITA' VOLONTARIA PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO/INDETERMINATO NEL PROFILO DI "ESPERTO DI FASCIA B PER L'ESPLETAMENTO DI ATTIVITA' IN MATERIA AMMINISTRATIVA/CONTABILE/SOCIO-CULTURALE", CATEGORIA D, POSIZIONE GIURIDICA D1 AI SENSI DELL'ART. 30 DEL D.LGS.N.165/2001. </title>
+			<description>AVVISO DI MOBILITA' VOLONTARIA PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO/INDETERMINATO NEL PROFILO DI "ESPERTO DI FASCIA B PER L'ESPLETAMENTO DI ATTIVITA' IN MATERIA AMMINISTRATIVA/CONTABILE/SOCIO-CULTURALE", CATEGORIA D, POSIZIONE GIURIDICA D1 AI SENSI DELL'ART. 30 DEL D.LGS.N.165/2001. </description>
+			<a10:updated>2017-11-23T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3660485</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3660485</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
 			<title>QUALITÀ DELL’ARIA AMBIENTE - PROVVEDIMENTO PER LA RIDUZIONE DEL RISCHIO DI SUPERAMENTO DEL VALORE LIMITE GIORNALIERO DELLE POLVERI SOTTILI (PM10). DIVIETO DI UTILIZZO DI LEGNA DA ARDERE PER IL RISCALDAMENTO DOMESTICO DEGLI EDIFICI. PERIODO: DAL 22 AL 25 NOVEMBRE 2017 </title>
 			<description>QUALITÀ DELL’ARIA AMBIENTE - PROVVEDIMENTO PER LA RIDUZIONE DEL RISCHIO DI SUPERAMENTO DEL VALORE LIMITE GIORNALIERO DELLE POLVERI SOTTILI (PM10). DIVIETO DI UTILIZZO DI LEGNA DA ARDERE PER IL RISCALDAMENTO DOMESTICO DEGLI EDIFICI. PERIODO: DAL 22 AL 25 NOVEMBRE 2017 </description>
-			<a10:updated>2017-11-21T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3658069</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3658069</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 21 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 06 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3658069</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>QUALITA' DELL'ARIA AMBIENTE - PROVVEDIMENTO PER LA RIDUZIONE DEL RISCHIO DI SUPERAMENTO DEL VALORE LIMITE GIORNALIERO DELLE POLVERI SOTTILI (PM10). LIMITAZIONE (AGGIUNTIVA) ALLA CIRCOLAZIONE VEICOLARE. PERIODO: DAL 22 AL 25 NOVEMBRE 2017. </title>
-			<description>QUALITA' DELL'ARIA AMBIENTE - PROVVEDIMENTO PER LA RIDUZIONE DEL RISCHIO DI SUPERAMENTO DEL VALORE LIMITE GIORNALIERO DELLE POLVERI SOTTILI (PM10). LIMITAZIONE (AGGIUNTIVA) ALLA CIRCOLAZIONE VEICOLARE. PERIODO: DAL 22 AL 25 NOVEMBRE 2017. </description>
 			<a10:updated>2017-11-21T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
