@@ -5,7 +5,7 @@
 		<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Busnago</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 23 Nov 2017 13:31:12 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 23 Nov 2017 14:31:22 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Busnago</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Busnago</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_busnago</a10:id>
-		<pubDate>Thu, 23 Nov 2017 13:31:12 +0100</pubDate>
+		<pubDate>Thu, 23 Nov 2017 14:31:22 +0100</pubDate>
 		<docs>http://albopop.it/comune/busnago/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3663362</guid>
+			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3663362</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 23 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 07 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3663362</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI PUBBLICI AVVISO PUBBLICO</category>
+			<title>PROVINCIA DI MONZA E DELLA BRIANZA - 22/11/2017 - 0041261 PROROGA AVVISO PUBBLICO DESIGNAZIONE COMPONENTI COMMISSIONE ELETTORALE CIRCONDARIALE DI MONZA E RELATIVE SOTTOCOMMISSIONI ELETTORALI CIRCONDARIALI: VIMERCATE, DESIO 2 E DESIO 3. </title>
+			<description>PROVINCIA DI MONZA E DELLA BRIANZA - 22/11/2017 - 0041261 PROROGA AVVISO PUBBLICO DESIGNAZIONE COMPONENTI COMMISSIONE ELETTORALE CIRCONDARIALE DI MONZA E RELATIVE SOTTOCOMMISSIONI ELETTORALI CIRCONDARIALI: VIMERCATE, DESIO 2 E DESIO 3. </description>
+			<a10:updated>2017-11-23T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3662664</guid>
 			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3662664</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DETERMINAZIONE DEI RESPONSABILI</category>
 			<title>PARTECIPAZIONE GRATUITA AL CONVEGNO “LAVORARE IN RETE 20 ANNI DOPO – LA BIBLIOTECA COME HUB CULTURALE” IN DATA 28.11.2017- DIPENDENTE FRANCESCA MAGNI </title>
 			<description>PARTECIPAZIONE GRATUITA AL CONVEGNO “LAVORARE IN RETE 20 ANNI DOPO – LA BIBLIOTECA COME HUB CULTURALE” IN DATA 28.11.2017- DIPENDENTE FRANCESCA MAGNI </description>
-			<a10:updated>2017-11-17T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3651046</guid>
-			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3651046</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 17 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 02 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3651046</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DETERMINAZIONE DEI RESPONSABILI</category>
-			<title>PARTECIPAZIONE GRATUITA AL CORSO DI FORMAZIONE "IL SERVIZIO DI REFERENCE NELLA BIBLIOTECA PUBBLICA. CONTENUTI, ORGANIZZAZIONE, MODALITÀ OPERATIVE E FONTI " - DIPENDENTE GABRIELLA DONEDA </title>
-			<description>PARTECIPAZIONE GRATUITA AL CORSO DI FORMAZIONE "IL SERVIZIO DI REFERENCE NELLA BIBLIOTECA PUBBLICA. CONTENUTI, ORGANIZZAZIONE, MODALITÀ OPERATIVE E FONTI " - DIPENDENTE GABRIELLA DONEDA </description>
 			<a10:updated>2017-11-17T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
