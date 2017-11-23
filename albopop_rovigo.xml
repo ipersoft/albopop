@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 22 Nov 2017 18:31:50 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 23 Nov 2017 08:31:11 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Wed, 22 Nov 2017 18:31:50 +0100</pubDate>
+		<pubDate>Thu, 23 Nov 2017 08:31:11 +0100</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3067384</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3067384</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 23 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 09 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3067384</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
+			<title>ASSEGNAZIONE ALLOGGIO DI EDILIZIA RESIDENZIALE PUBBLICA SITO IN ROVIGO VIA DON ASER PORTA N. 37/A SUB 2 </title>
+			<description>ASSEGNAZIONE ALLOGGIO DI EDILIZIA RESIDENZIALE PUBBLICA SITO IN ROVIGO VIA DON ASER PORTA N. 37/A SUB 2 </description>
+			<a10:updated>2017-11-23T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3064373</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3064373</link>
@@ -53,17 +64,6 @@
 			<title>RICHIESTA DI DEPOSITO E AFFISSIONE ALL'ALBO COMUNALE_AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE DEL22/11/2017 </title>
 			<description>RICHIESTA DI DEPOSITO E AFFISSIONE ALL'ALBO COMUNALE_AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE DEL22/11/2017 </description>
 			<a10:updated>2017-11-22T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3062185</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3062185</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 07 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 22 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3062185</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>LIQUIDAZIONE CONTRIBUTI PER ASSOCIAZIONI SPORTIVE ANNO 2015 </title>
-			<description>LIQUIDAZIONE CONTRIBUTI PER ASSOCIAZIONI SPORTIVE ANNO 2015 </description>
-			<a10:updated>2017-11-07T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3061406</guid>

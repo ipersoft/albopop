@@ -5,7 +5,7 @@
 		<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mazzano</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 22 Nov 2017 18:31:54 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 23 Nov 2017 08:31:15 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mazzano</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mazzano</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mazzano</a10:id>
-		<pubDate>Wed, 22 Nov 2017 18:31:54 +0100</pubDate>
+		<pubDate>Thu, 23 Nov 2017 08:31:15 +0100</pubDate>
 		<docs>http://albopop.it/comune/mazzano/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -74,17 +74,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">CONCORSI PUBBLICI</category>
 			<title>BANDO DI CONCORSO N. 1 POSTO OPERAIO SPECIALIZZATO CAT. B3 </title>
 			<description>BANDO DI CONCORSO N. 1 POSTO OPERAIO SPECIALIZZATO CAT. B3 </description>
-			<a10:updated>2017-11-21T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3657287</guid>
-			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3657287</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 21 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 22 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3657287</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI DI DEPOSITO ATTI NELLA CASA COMUNALE</category>
-			<title>AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE </title>
-			<description>AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE </description>
 			<a10:updated>2017-11-21T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
@@ -294,6 +283,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
 			<title>CUP: J55I17000020007 - ASSUNZIONE IMPEGNO DI SPESA PER L’ACQUISIZIONE DEL PARERE DELL’AZIENDA DI TUTELA DELLA SALUTE PUBBLICA (ATS) DI BRESCIA PER LA SCUOLA PRIMARIA DI MOLINETTO “C. ABBA – II LOTTO”. </title>
 			<description>CUP: J55I17000020007 - ASSUNZIONE IMPEGNO DI SPESA PER L’ACQUISIZIONE DEL PARERE DELL’AZIENDA DI TUTELA DELLA SALUTE PUBBLICA (ATS) DI BRESCIA PER LA SCUOLA PRIMARIA DI MOLINETTO “C. ABBA – II LOTTO”. </description>
+			<a10:updated>2017-11-20T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3655807</guid>
+			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3655807</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 20 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 05 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3655807</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
+			<title>CUPJ57B17000140004 - ASSUNZIONE IMPEGNO DI SPESA PER L’ACQUISIZIONE DEL PARERE DELL’AZIENDA DI TUTELA DELLA SALUTE PUBBLICA (ATS) DI BRESCIA PER LA NUOVA SCUOLA PRIMARIA DI CILIVERGHE. </title>
+			<description>CUPJ57B17000140004 - ASSUNZIONE IMPEGNO DI SPESA PER L’ACQUISIZIONE DEL PARERE DELL’AZIENDA DI TUTELA DELLA SALUTE PUBBLICA (ATS) DI BRESCIA PER LA NUOVA SCUOLA PRIMARIA DI CILIVERGHE. </description>
 			<a10:updated>2017-11-20T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
