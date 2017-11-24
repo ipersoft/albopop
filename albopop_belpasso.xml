@@ -5,7 +5,7 @@
 		<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Belpasso</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 23 Nov 2017 18:31:01 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 24 Nov 2017 08:31:05 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Belpasso</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Belpasso</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_belpasso</a10:id>
-		<pubDate>Thu, 23 Nov 2017 18:31:01 +0100</pubDate>
+		<pubDate>Fri, 24 Nov 2017 08:31:05 +0100</pubDate>
 		<docs>http://albopop.it/comune/belpasso/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3664496</guid>
+			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3664496</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 23 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 08 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3664496</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>RIMBORSO SOMME VERSATE ALLA TESORERIA COMUNALE . PRATICA N. 9066, CONCESSIONE EDILIZIA N. 132 / 2005, DITTA : MILAZZO SALVATORE E CARBONARO GRAZIA GIUSEPPA . </title>
+			<description>RIMBORSO SOMME VERSATE ALLA TESORERIA COMUNALE . PRATICA N. 9066, CONCESSIONE EDILIZIA N. 132 / 2005, DITTA : MILAZZO SALVATORE E CARBONARO GRAZIA GIUSEPPA . </description>
+			<a10:updated>2017-11-23T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3664137</guid>
 			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3664137</link>
@@ -284,17 +295,6 @@
 			<title>INTERVENTI DI MANUTENZIONE NEI LOCALI DEL MUSEO “V.BRUNO”. FORNITURA E COLLOCAZIONE DI UN INFISSO IN ALLUMINIO. DITTA MEDIA SRL DI BELPASSO. IMPEGNO DI SPESA. CIG Z4120CF8B9 </title>
 			<description>INTERVENTI DI MANUTENZIONE NEI LOCALI DEL MUSEO “V.BRUNO”. FORNITURA E COLLOCAZIONE DI UN INFISSO IN ALLUMINIO. DITTA MEDIA SRL DI BELPASSO. IMPEGNO DI SPESA. CIG Z4120CF8B9 </description>
 			<a10:updated>2017-11-22T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3656333</guid>
-			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3656333</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 20 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 05 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3656333</category>
-			<category domain="http://albopop.it/specs#item-category-type">VERBALE UFFICIO CONTROLLO VERBALI</category>
-			<title>REGOLAMENTO COMUNALE BILANCIO PARTECIPATO </title>
-			<description>REGOLAMENTO COMUNALE BILANCIO PARTECIPATO </description>
-			<a10:updated>2017-11-20T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>

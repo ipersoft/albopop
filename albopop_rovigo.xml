@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 23 Nov 2017 18:31:34 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 24 Nov 2017 08:31:31 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Thu, 23 Nov 2017 18:31:34 +0100</pubDate>
+		<pubDate>Fri, 24 Nov 2017 08:31:31 +0100</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -132,6 +132,17 @@
 			<a10:updated>2017-11-23T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3068769</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3068769</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 24 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 25 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3068769</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI ATTI DIVERSI</category>
+			<title> AVVISO DI DEPOSITO ATTI NELLA CASA DEL COMUNE - ELENCO N. EL0000126124 DEL 23/11/2017 - 50 NOMINATIVI VARI </title>
+			<description> AVVISO DI DEPOSITO ATTI NELLA CASA DEL COMUNE - ELENCO N. EL0000126124 DEL 23/11/2017 - 50 NOMINATIVI VARI </description>
+			<a10:updated>2017-11-24T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3068606</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3068606</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 23 Nov 2017 01:00:00 +0100</category>
@@ -217,17 +228,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
 			<title>PRESA D'ATTO CORREZIONE IBAN PER DUE BENEFICIARI IN ELENCO NON PARTE INTEGRANTE E NON PUBBLICABILE DI CUI ALLA DETERMINA N. 2162/2017, AI FINI DEL PAGAMENTO DEL CONTRIBUTO REGIONALE IMPEGNATIVA DI CURA DOMICILIARE ICDB I° SEMESTRE 2017 E ICDM II° TRIMESTRE 2017” </title>
 			<description>PRESA D'ATTO CORREZIONE IBAN PER DUE BENEFICIARI IN ELENCO NON PARTE INTEGRANTE E NON PUBBLICABILE DI CUI ALLA DETERMINA N. 2162/2017, AI FINI DEL PAGAMENTO DEL CONTRIBUTO REGIONALE IMPEGNATIVA DI CURA DOMICILIARE ICDB I° SEMESTRE 2017 E ICDM II° TRIMESTRE 2017” </description>
-			<a10:updated>2017-11-22T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3062188</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3062188</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 22 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 23 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3062188</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI ATTI DIVERSI</category>
-			<title>RICHIESTA DI DEPOSITO E AFFISSIONE ALL'ALBO COMUNALE_AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE DEL22/11/2017 </title>
-			<description>RICHIESTA DI DEPOSITO E AFFISSIONE ALL'ALBO COMUNALE_AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE DEL22/11/2017 </description>
 			<a10:updated>2017-11-22T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
