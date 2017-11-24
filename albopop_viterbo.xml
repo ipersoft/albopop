@@ -5,7 +5,7 @@
 		<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Viterbo</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 24 Nov 2017 11:31:01 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 24 Nov 2017 12:31:07 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Viterbo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Viterbo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Viterbo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_viterbo</a10:id>
-		<pubDate>Fri, 24 Nov 2017 11:31:01 +0100</pubDate>
+		<pubDate>Fri, 24 Nov 2017 12:31:07 +0100</pubDate>
 		<docs>http://albopop.it/comune/viterbo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3665744</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3665744</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 24 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3665744</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI </category>
+			<title>AVVISO DI GARA PER LA VENDITA DI N. 2 LOTTI OGNUNO COMPOSTO DA UN VEICOLO OGGETTO DI CONFISCA AMMINISTRATIVA EMESSO DALL'AGENZIA DEL DEMANIO. </title>
+			<description>AVVISO DI GARA PER LA VENDITA DI N. 2 LOTTI OGNUNO COMPOSTO DA UN VEICOLO OGGETTO DI CONFISCA AMMINISTRATIVA EMESSO DALL'AGENZIA DEL DEMANIO. </description>
+			<a10:updated>2017-11-24T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3665443</guid>
 			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3665443</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERA DELIBERA GIUNTA</category>
 			<title>DELIBERAZIONE G.C. N. 454/2016 "TIROCINI FORMATIVI PER SOGGETTI EX TITOLARI DI ATTIVITA' DI IMPRESA - DETERMINAZIONI" - MODIFICA DESTINAZIONE FINANZIAMENTO </title>
 			<description>DELIBERAZIONE G.C. N. 454/2016 "TIROCINI FORMATIVI PER SOGGETTI EX TITOLARI DI ATTIVITA' DI IMPRESA - DETERMINAZIONI" - MODIFICA DESTINAZIONE FINANZIAMENTO </description>
-			<a10:updated>2017-11-24T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3664232</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3664232</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 24 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 09 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3664232</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERA DELIBERA GIUNTA</category>
-			<title>IMPOSTA DI SOGGIORNO - DETERMINAZIONE DELLE ALIQUOTE PER L'ANNO 2018 </title>
-			<description>IMPOSTA DI SOGGIORNO - DETERMINAZIONE DELLE ALIQUOTE PER L'ANNO 2018 </description>
 			<a10:updated>2017-11-24T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
