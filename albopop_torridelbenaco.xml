@@ -5,7 +5,7 @@
 		<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Torri del Benaco</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 24 Nov 2017 12:32:11 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 24 Nov 2017 13:32:07 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Torri del Benaco</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Verona</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Torri del Benaco</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_torridelbenaco</a10:id>
-		<pubDate>Fri, 24 Nov 2017 12:32:11 +0100</pubDate>
+		<pubDate>Fri, 24 Nov 2017 13:32:07 +0100</pubDate>
 		<docs>http://albopop.it/comune/torridelbenaco/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3666205</guid>
+			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3666205</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 24 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 09 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3666205</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
+			<title>VARIANTE N.1 AL PIANO DI ASSETTO DEL TERRITORIO - P.A.T. - PRESA D'ATTO PRESENTAZIONE DEGLI ESITI DELLA V.A.S. </title>
+			<description>VARIANTE N.1 AL PIANO DI ASSETTO DEL TERRITORIO - P.A.T. - PRESA D'ATTO PRESENTAZIONE DEGLI ESITI DELLA V.A.S. </description>
+			<a10:updated>2017-11-24T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3665811</guid>
 			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3665811</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISO 30 GIORNI</category>
 			<title>VERBALE SORTEGGIO AGIBILITA' PRESENTATE NEL MESE DI OTTOBRE 2017 </title>
 			<description>VERBALE SORTEGGIO AGIBILITA' PRESENTATE NEL MESE DI OTTOBRE 2017 </description>
-			<a10:updated>2017-11-17T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3652011</guid>
-			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3652011</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 17 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 17 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3652011</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISO 30 GIORNI</category>
-			<title>VERBALE SORTEGGIO PRATICHE SISMICHE PRESENTATE NEL MESE DI OTTOBRE 2017 </title>
-			<description>VERBALE SORTEGGIO PRATICHE SISMICHE PRESENTATE NEL MESE DI OTTOBRE 2017 </description>
 			<a10:updated>2017-11-17T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
