@@ -5,7 +5,7 @@
 		<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bitonto</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 24 Nov 2017 18:30:35 +0100</lastBuildDate>
+		<lastBuildDate>Sat, 25 Nov 2017 08:30:40 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bitonto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Bari</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bitonto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bitonto</a10:id>
-		<pubDate>Fri, 24 Nov 2017 18:30:35 +0100</pubDate>
+		<pubDate>Sat, 25 Nov 2017 08:30:40 +0100</pubDate>
 		<docs>http://albopop.it/comune/bitonto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -74,17 +74,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
 			<title>DIVIETO DI SOSTA CON RIMOZIONE PARALLELAMENTE AL CIV. 44 DI VIA ISONZO - PER CONSENTIRE L'ENTRATA E USCITA DEI VEICOLI </title>
 			<description>DIVIETO DI SOSTA CON RIMOZIONE PARALLELAMENTE AL CIV. 44 DI VIA ISONZO - PER CONSENTIRE L'ENTRATA E USCITA DEI VEICOLI </description>
-			<a10:updated>2017-11-23T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3663947</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3663947</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 23 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 24 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3663947</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISI ALTRI ENTI</category>
-			<title>AGENZIA DELLE ENTRATE - RISCOSSIONE: ART. 60 DPR N. 600/73 E ART. 26 DPR N. 602/73. AVVISO DI DEPOSITO ATTO NELLA CASA COMUNALE: N. 1 ELENCO RELATIVO A DIVERSI CONTRIBUENTI. </title>
-			<description>AGENZIA DELLE ENTRATE - RISCOSSIONE: ART. 60 DPR N. 600/73 E ART. 26 DPR N. 602/73. AVVISO DI DEPOSITO ATTO NELLA CASA COMUNALE: N. 1 ELENCO RELATIVO A DIVERSI CONTRIBUENTI. </description>
 			<a10:updated>2017-11-23T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
@@ -295,6 +284,17 @@
 			<title>VIA G.D. ROGADEO - DIVIETO DI CIRCOLAZIONE NELLA GIORNATA DI SABATO 25/11/2017 - DALLE ORE 7,00 ALLE ORE 13,00 </title>
 			<description>VIA G.D. ROGADEO - DIVIETO DI CIRCOLAZIONE NELLA GIORNATA DI SABATO 25/11/2017 - DALLE ORE 7,00 ALLE ORE 13,00 </description>
 			<a10:updated>2017-11-22T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3659323</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3659323</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 21 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 06 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3659323</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
+			<title>Ordinanza di demolizione opere abusive </title>
+			<description>Ordinanza di demolizione opere abusive </description>
+			<a10:updated>2017-11-21T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
