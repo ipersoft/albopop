@@ -5,7 +5,7 @@
 		<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bernareggio</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 25 Nov 2017 09:30:59 +0100</lastBuildDate>
+		<lastBuildDate>Sat, 25 Nov 2017 10:31:02 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bernareggio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bernareggio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bernareggio</a10:id>
-		<pubDate>Sat, 25 Nov 2017 09:30:59 +0100</pubDate>
+		<pubDate>Sat, 25 Nov 2017 10:31:02 +0100</pubDate>
 		<docs>http://albopop.it/comune/bernareggio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3679748</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3679748</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 25 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 28 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3679748</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI OGGETTI RITROVATI</category>
+			<title>1^ PUBBLICAZIONE DI OGGETTI E VALORI RITROVATI: COLLANA “STROLLI” DOTATA DI CIONDOLO CON PIETRA DI COLORE VIOLA </title>
+			<description>1^ PUBBLICAZIONE DI OGGETTI E VALORI RITROVATI: COLLANA “STROLLI” DOTATA DI CIONDOLO CON PIETRA DI COLORE VIOLA </description>
+			<a10:updated>2017-11-25T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3666448</guid>
 			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3666448</link>
@@ -284,17 +295,6 @@
 			<title>CIG ZF8209A6F5 - AVVIO PROCEDURE DI GARA E APPROVAZIONE DOCUMENTAZIONE PER L'INCARICO PROFESSIONALE PER LA VERIFICA DELL’IDONEITÀ STATICA DELLE N. 4 TORRI FARO PRESSO IL CAMPO DI CALCIO DI VIA EUROPA </title>
 			<description>CIG ZF8209A6F5 - AVVIO PROCEDURE DI GARA E APPROVAZIONE DOCUMENTAZIONE PER L'INCARICO PROFESSIONALE PER LA VERIFICA DELL’IDONEITÀ STATICA DELLE N. 4 TORRI FARO PRESSO IL CAMPO DI CALCIO DI VIA EUROPA </description>
 			<a10:updated>2017-11-17T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3650784</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3650784</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 16 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 01 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3650784</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>CIG: ZD720BD3CB - APPROVAZIONE CAPITOLATO SPECIALE D'APPALTO ED INDIZIONE PROCEDURA SELETTIVA DEL CONTRAENTE MEDIANTE RDO FORMULATA MEDIANTE PIATTAFORMA DI E-PROCUREMENT MEPA PER L'AFFIDAMENTO DEL SERVIZIO DI ELABORAZIONE, STAMPA, IMBUSTAMENTO, POSTALIZZAZIONE E RENDICONTAZIONE ESITI RELATIVA AI VERBALI DI CONTESTAZIONE ELEVATI DALLA POLIZIA LOCALE DI BERNAREGGIO E AICURZIO PER IL TRIENNIO 2018-2020 </title>
-			<description>CIG: ZD720BD3CB - APPROVAZIONE CAPITOLATO SPECIALE D'APPALTO ED INDIZIONE PROCEDURA SELETTIVA DEL CONTRAENTE MEDIANTE RDO FORMULATA MEDIANTE PIATTAFORMA DI E-PROCUREMENT MEPA PER L'AFFIDAMENTO DEL SERVIZIO DI ELABORAZIONE, STAMPA, IMBUSTAMENTO, POSTALIZZAZIONE E RENDICONTAZIONE ESITI RELATIVA AI VERBALI DI CONTESTAZIONE ELEVATI DALLA POLIZIA LOCALE DI BERNAREGGIO E AICURZIO PER IL TRIENNIO 2018-2020 </description>
-			<a10:updated>2017-11-16T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
