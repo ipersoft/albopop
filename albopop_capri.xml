@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 27 Nov 2017 16:31:14 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 27 Nov 2017 17:31:35 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Mon, 27 Nov 2017 16:31:14 +0100</pubDate>
+		<pubDate>Mon, 27 Nov 2017 17:31:35 +0100</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3073112</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3073112</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 27 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 12 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3073112</category>
+			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DI GIUNTA DELIBERA DI GIUNTA</category>
+			<title>COMUNE DI CAPRI C/ ASPERULA STELLINA S.N.C. DI ALBA E SILVIO STAIANO – RICORSO AL TAR CAMPANIA – NAPOLI - PER ANNULLAMENTO PREVIA SOSPENSIONE ORDINANZA N. 145 DEL 01/09/2017 E RISARCIMENTO DANNI - NOMINA LEGALE </title>
+			<description>COMUNE DI CAPRI C/ ASPERULA STELLINA S.N.C. DI ALBA E SILVIO STAIANO – RICORSO AL TAR CAMPANIA – NAPOLI - PER ANNULLAMENTO PREVIA SOSPENSIONE ORDINANZA N. 145 DEL 01/09/2017 E RISARCIMENTO DANNI - NOMINA LEGALE </description>
+			<a10:updated>2017-11-27T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3073021</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3073021</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>ACQUISTO ATTRAVERSO IL MEPA DI MOBILI E SCRIVANIE DESTINATI ALL'UFFICIO SEGRETERIA - CIG: Z6520E298C </title>
 			<description>ACQUISTO ATTRAVERSO IL MEPA DI MOBILI E SCRIVANIE DESTINATI ALL'UFFICIO SEGRETERIA - CIG: Z6520E298C </description>
-			<a10:updated>2017-11-24T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3069780</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3069780</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 24 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 09 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3069780</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>RICORSO SERGIO DEL VECCHIO - SENTENZA CONSIGLIO DI STATO N. 4459/2017 – R.G. N. 10074/2015 – IMPEGNATIVA DI SPESA PER LIQUIDAZIONE COMPENSI ALL’ARCHITETTO LUCIA PULCINI </title>
-			<description>RICORSO SERGIO DEL VECCHIO - SENTENZA CONSIGLIO DI STATO N. 4459/2017 – R.G. N. 10074/2015 – IMPEGNATIVA DI SPESA PER LIQUIDAZIONE COMPENSI ALL’ARCHITETTO LUCIA PULCINI </description>
 			<a10:updated>2017-11-24T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
