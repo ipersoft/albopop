@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 27 Nov 2017 13:31:13 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 27 Nov 2017 14:31:20 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Mon, 27 Nov 2017 13:31:13 +0100</pubDate>
+		<pubDate>Mon, 27 Nov 2017 14:31:20 +0100</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3072655</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3072655</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 27 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 12 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3072655</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
+			<title>APPROVAZIONE CONTRATTO DI LOCAZIONE ALLOGGIO E.R.P. DI PROPRIETÀ COMUNALE, SITO A ROVIGO, FRAZIONE BOARA POLESINE, VIA CURTATONE N. 165 - PRIMO PIANO - CENSITO AL CATASTO DI ROVIGO, FG. 6 - PARTICELLA 70, SUB N. 20 E CONTESTUALE REVOCA DELLA DETERMINAZIONE DIRIGENZIALE N. 1731 DEL 16/08/2017 </title>
+			<description>APPROVAZIONE CONTRATTO DI LOCAZIONE ALLOGGIO E.R.P. DI PROPRIETÀ COMUNALE, SITO A ROVIGO, FRAZIONE BOARA POLESINE, VIA CURTATONE N. 165 - PRIMO PIANO - CENSITO AL CATASTO DI ROVIGO, FG. 6 - PARTICELLA 70, SUB N. 20 E CONTESTUALE REVOCA DELLA DETERMINAZIONE DIRIGENZIALE N. 1731 DEL 16/08/2017 </description>
+			<a10:updated>2017-11-27T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3072492</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3072492</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE AVVISI DI DEPOSITO</category>
 			<title>AVVISO DI DEPOSITO ATTO NELLA CASA DEL COMUNE SIG. CHEN BINGKAI (CRON. MESSI 2158) </title>
 			<description>AVVISO DI DEPOSITO ATTO NELLA CASA DEL COMUNE SIG. CHEN BINGKAI (CRON. MESSI 2158) </description>
-			<a10:updated>2017-11-24T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3070489</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3070489</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 24 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 02 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3070489</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE AVVISI DI DEPOSITO</category>
-			<title>AVVISO DI DEPOSITO ATTO NELLA CASA DEL COMUNE SIG. CIOBOTARU LILIANA (CRON. MESSI 2209) </title>
-			<description>AVVISO DI DEPOSITO ATTO NELLA CASA DEL COMUNE SIG. CIOBOTARU LILIANA (CRON. MESSI 2209) </description>
 			<a10:updated>2017-11-24T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
