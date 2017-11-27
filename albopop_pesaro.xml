@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 27 Nov 2017 11:30:43 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 27 Nov 2017 12:30:49 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Mon, 27 Nov 2017 11:30:43 +0100</pubDate>
+		<pubDate>Mon, 27 Nov 2017 12:30:49 +0100</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/823914</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/823914</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 27 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 12 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">823914</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>PROCEDURA DI ACCREDITAMENTO DEL COMUNE DI PESARO PRESSO LA REGIONE MARCHE PER LA FORMAZIONE PROFESSIONALE: ADOZIONE DEL DISPOSITIVO, DEFINIZIONE DEL MODELLO ORGANIZZATIVO, INDIVIDUAZIONE DELLE RESPONSABILITA’ DI PROCESSO, NOMINA DEI RESPONSABILI DELLA QUALITA’ </title>
+			<description>PROCEDURA DI ACCREDITAMENTO DEL COMUNE DI PESARO PRESSO LA REGIONE MARCHE PER LA FORMAZIONE PROFESSIONALE: ADOZIONE DEL DISPOSITIVO, DEFINIZIONE DEL MODELLO ORGANIZZATIVO, INDIVIDUAZIONE DELLE RESPONSABILITA’ DI PROCESSO, NOMINA DEI RESPONSABILI DELLA QUALITA’ </description>
+			<a10:updated>2017-11-27T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/823824</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/823824</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
 			<title>VARIAZIONE DI BILANCIO DI COMPETENZA DELL’ORGANO ESECUTIVO, AI SENSI DELL’ART. 175, C.5-BIS, C), TUEL. </title>
 			<description>VARIAZIONE DI BILANCIO DI COMPETENZA DELL’ORGANO ESECUTIVO, AI SENSI DELL’ART. 175, C.5-BIS, C), TUEL. </description>
-			<a10:updated>2017-11-24T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/823308</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/823308</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 24 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 09 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">823308</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>VARIAZIONI DI PEG AI SENSI DELL’ART.175 TUEL. </title>
-			<description>VARIAZIONI DI PEG AI SENSI DELL’ART.175 TUEL. </description>
 			<a10:updated>2017-11-24T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
