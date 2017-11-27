@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 27 Nov 2017 14:30:45 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 27 Nov 2017 15:30:40 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Mon, 27 Nov 2017 14:30:45 +0100</pubDate>
+		<pubDate>Mon, 27 Nov 2017 15:30:40 +0100</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3072729</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3072729</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 27 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 12 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3072729</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>INTERVENTI MANUTENTIVI STRAORDINARI STRADE COMUNALI – CIG: ZAC1E74D3D </title>
+			<description>INTERVENTI MANUTENTIVI STRAORDINARI STRADE COMUNALI – CIG: ZAC1E74D3D </description>
+			<a10:updated>2017-11-27T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3071225</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3071225</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>ELIMINAZIONE DEI VINCOLI CONVENZIONALI NELL’AMBITO DEL PIANO DI ZONA LEGGE 167/1962 </title>
 			<description>ELIMINAZIONE DEI VINCOLI CONVENZIONALI NELL’AMBITO DEL PIANO DI ZONA LEGGE 167/1962 </description>
-			<a10:updated>2017-11-20T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3047945</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3047945</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 20 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 05 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3047945</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>PROCEDURA APERTA PER L’ASSEGNAZIONE IN CONCESSIONE DI AREE PER IL POSIZIONAMENTO DI CASSONETTI PER LA RACCOLTA DI INDUMENTI ED ACCESSORI USATI (C.E.R. 20.01.10 - 20.01.11) - AGGIUDICAZIONE DEFINITIVA </title>
-			<description>PROCEDURA APERTA PER L’ASSEGNAZIONE IN CONCESSIONE DI AREE PER IL POSIZIONAMENTO DI CASSONETTI PER LA RACCOLTA DI INDUMENTI ED ACCESSORI USATI (C.E.R. 20.01.10 - 20.01.11) - AGGIUDICAZIONE DEFINITIVA </description>
 			<a10:updated>2017-11-20T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
