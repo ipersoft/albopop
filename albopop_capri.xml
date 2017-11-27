@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 27 Nov 2017 10:31:16 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 27 Nov 2017 11:31:28 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Mon, 27 Nov 2017 10:31:16 +0100</pubDate>
+		<pubDate>Mon, 27 Nov 2017 11:31:28 +0100</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3072053</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3072053</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 27 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 12 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3072053</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>AVVISO PUBBLICO PER LA INDIVIDUAZIONE DI UN PROGETTO ARTISTICO PER I GIORNI 30, 31 DICEMBRE 2017, 1° GENNAIO 2018 – DICHIARAZIONE DI DECADENZA PER INADEMPIMENTO DELLA DITTA ELLEGI PROMOZIONI TURISTICHE DI GIANMARCO BALESTRIERI ED AFFIDAMENTO DEI SERVIZI ALLA DITTA JET SET CAPRI PRIVILEGE S.R.L. IMPEGNATIVA DI SPESA. CIG.Z1820D6645 </title>
+			<description>AVVISO PUBBLICO PER LA INDIVIDUAZIONE DI UN PROGETTO ARTISTICO PER I GIORNI 30, 31 DICEMBRE 2017, 1° GENNAIO 2018 – DICHIARAZIONE DI DECADENZA PER INADEMPIMENTO DELLA DITTA ELLEGI PROMOZIONI TURISTICHE DI GIANMARCO BALESTRIERI ED AFFIDAMENTO DEI SERVIZI ALLA DITTA JET SET CAPRI PRIVILEGE S.R.L. IMPEGNATIVA DI SPESA. CIG.Z1820D6645 </description>
+			<a10:updated>2017-11-27T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3071849</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3071849</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
 			<title>INSTALLAZIONE, GUARDIANIA, MANUTENZIONE E RIMOZIONE DELLA BARRIERA GALLEGGIANTE A PROTEZIONE DELLA BALNEAZIONE NELLA RADA DI MARINA GRANDE. LIQUIDAZIONE DEL SALDO IN FAVORE DELLA DITTA "GRUPPO ORMEGGIATORI DEL PORTO COOP. A R.L." DI CAPRI. </title>
 			<description>INSTALLAZIONE, GUARDIANIA, MANUTENZIONE E RIMOZIONE DELLA BARRIERA GALLEGGIANTE A PROTEZIONE DELLA BALNEAZIONE NELLA RADA DI MARINA GRANDE. LIQUIDAZIONE DEL SALDO IN FAVORE DELLA DITTA "GRUPPO ORMEGGIATORI DEL PORTO COOP. A R.L." DI CAPRI. </description>
-			<a10:updated>2017-11-23T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3068618</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3068618</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 23 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 08 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3068618</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
-			<title>SOMMINISTRAZIONE DI LAVORO TEMPORANEO ESPLETATO DA UN OPERAIO DI CATEGORIA B, POSIZIONE ECONOMICA 1. LIQUIDAZIONE DELLA FATTURA DELLA DITTA "RANDSTAD ITALIA S.p.A. UNIPERSONALE" DI MILANO PER LE PRESTAZIONI SVOLTE DAL 1.10.2017 AL 31.10.2017. </title>
-			<description>SOMMINISTRAZIONE DI LAVORO TEMPORANEO ESPLETATO DA UN OPERAIO DI CATEGORIA B, POSIZIONE ECONOMICA 1. LIQUIDAZIONE DELLA FATTURA DELLA DITTA "RANDSTAD ITALIA S.p.A. UNIPERSONALE" DI MILANO PER LE PRESTAZIONI SVOLTE DAL 1.10.2017 AL 31.10.2017. </description>
 			<a10:updated>2017-11-23T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
