@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 28 Nov 2017 15:31:08 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 28 Nov 2017 16:31:33 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Tue, 28 Nov 2017 15:31:08 +0100</pubDate>
+		<pubDate>Tue, 28 Nov 2017 16:31:33 +0100</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3685775</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3685775</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 28 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 06 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3685775</category>
+			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>PUBBLICAZIONI ANNO 2017 N. 322 PERA ALESSANDRO LUCCHESI GIULIA </title>
+			<description>PUBBLICAZIONI ANNO 2017 N. 322 PERA ALESSANDRO LUCCHESI GIULIA </description>
+			<a10:updated>2017-11-28T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3685717</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3685717</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 28 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 06 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3685717</category>
+			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>PUBBLICAZIONI ANNO 2017 N. 321 FRANCESCHINI GIOVANNI GIANNESCHI IACOPINA </title>
+			<description>PUBBLICAZIONI ANNO 2017 N. 321 FRANCESCHINI GIOVANNI GIANNESCHI IACOPINA </description>
+			<a10:updated>2017-11-28T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3685652</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3685652</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 28 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 13 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3685652</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>FIERA DI SAN ANSANO - FRAZIONE SAN GEMIGNANO DI MORIANO: MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE ED ALLA SOSTA IN PIAZZA DEL POPOLO E VIA VOLPI NEI GIORNI 30 NOVEMBRE E 1 DICEMBRE 2017. </title>
+			<description>FIERA DI SAN ANSANO - FRAZIONE SAN GEMIGNANO DI MORIANO: MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE ED ALLA SOSTA IN PIAZZA DEL POPOLO E VIA VOLPI NEI GIORNI 30 NOVEMBRE E 1 DICEMBRE 2017. </description>
+			<a10:updated>2017-11-28T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3685569</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3685569</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">CONVOCAZIONI</category>
 			<title>CONVOCAZIONE D'URGENZA COMMISSIONE CONSILIARE LAVORI PUBBLICI PER GIOVEDI' 30/11/2017 ORE 21.00. </title>
 			<description>CONVOCAZIONE D'URGENZA COMMISSIONE CONSILIARE LAVORI PUBBLICI PER GIOVEDI' 30/11/2017 ORE 21.00. </description>
-			<a10:updated>2017-11-27T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3681319</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3681319</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 27 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 12 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3681319</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>INTEGRAZIONE ORDINANZA N. 1964/2017 VIALE PUCCINI, FRAZ. S. ANNA: MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE SULLA PISTA CICLABILE. PERIODO: 27 NOVEMBRE 2017 - 7 DICEMBRE 2017 ORARIO 8:30-17:00. </title>
-			<description>INTEGRAZIONE ORDINANZA N. 1964/2017 VIALE PUCCINI, FRAZ. S. ANNA: MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE SULLA PISTA CICLABILE. PERIODO: 27 NOVEMBRE 2017 - 7 DICEMBRE 2017 ORARIO 8:30-17:00. </description>
-			<a10:updated>2017-11-27T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3681317</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3681317</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 27 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 12 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3681317</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>VIA ROMA,CENTRO STORICO,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE,PER IL 27/11/2017. </title>
-			<description>VIA ROMA,CENTRO STORICO,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE,PER IL 27/11/2017. </description>
-			<a10:updated>2017-11-27T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3681124</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3681124</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 27 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 12 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3681124</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>VIA CITTADELLA,CENTRO STORICO,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE,PER IL 30/11/2017 DALLE ORE 14,00 ALLE ORE 19,00. </title>
-			<description>VIA CITTADELLA,CENTRO STORICO,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE,PER IL 30/11/2017 DALLE ORE 14,00 ALLE ORE 19,00. </description>
 			<a10:updated>2017-11-27T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
