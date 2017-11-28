@@ -5,7 +5,7 @@
 		<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Viterbo</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 28 Nov 2017 09:31:27 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 28 Nov 2017 10:31:04 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Viterbo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Viterbo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Viterbo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_viterbo</a10:id>
-		<pubDate>Tue, 28 Nov 2017 09:31:27 +0100</pubDate>
+		<pubDate>Tue, 28 Nov 2017 10:31:04 +0100</pubDate>
 		<docs>http://albopop.it/comune/viterbo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3684055</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3684055</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 28 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 29 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3684055</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI </category>
+			<title>AVVISO DI DEPOSITO ATTI - POSTE ITALIANE. </title>
+			<description>AVVISO DI DEPOSITO ATTI - POSTE ITALIANE. </description>
+			<a10:updated>2017-11-28T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3683517</guid>
 			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3683517</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
 			<title>DETERMINAZIONI N. 4492/2017 E 4503/2017 - AFFIDAMENTO SERVIZI VARI CONCERTO BANDA DELLA POLIZIA DI STATO 28 OTTOBRE 2017 TEATRO COMUNALE DELL'UNIONE - MODIFICA. </title>
 			<description>DETERMINAZIONI N. 4492/2017 E 4503/2017 - AFFIDAMENTO SERVIZI VARI CONCERTO BANDA DELLA POLIZIA DI STATO 28 OTTOBRE 2017 TEATRO COMUNALE DELL'UNIONE - MODIFICA. </description>
-			<a10:updated>2017-11-27T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3680894</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3680894</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 27 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 12 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3680894</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
-			<title>CORSO FORMAZIONE ASSISTENTE FAMILIARE - INTEGRAZIONE DETERMINAZIONE N. 3052/2017- CIG Z1C1F5B91C </title>
-			<description>CORSO FORMAZIONE ASSISTENTE FAMILIARE - INTEGRAZIONE DETERMINAZIONE N. 3052/2017- CIG Z1C1F5B91C </description>
 			<a10:updated>2017-11-27T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
