@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 28 Nov 2017 14:30:36 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 28 Nov 2017 15:30:39 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Tue, 28 Nov 2017 14:30:36 +0100</pubDate>
+		<pubDate>Tue, 28 Nov 2017 15:30:39 +0100</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3685551</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3685551</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 28 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 13 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3685551</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI RILASCIO PERMESSO DI COSTRUIRE</category>
+			<title>RIF.0031613/2017 - ROBERTI - PERMESSO DI COSTRUIRE VIA FONTANINO N. 2 CONCESIO </title>
+			<description>RIF.0031613/2017 - ROBERTI - PERMESSO DI COSTRUIRE VIA FONTANINO N. 2 CONCESIO </description>
+			<a10:updated>2017-11-28T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3682714</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3682714</link>
@@ -284,17 +295,6 @@
 			<title>MESSO COMUNALE: NOTIFICA N. 748/2017 DEL 21/11/2017 DI ZHANG YAOJIAN </title>
 			<description>MESSO COMUNALE: NOTIFICA N. 748/2017 DEL 21/11/2017 DI ZHANG YAOJIAN </description>
 			<a10:updated>2017-11-22T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3658326</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3658326</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 21 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 06 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3658326</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>AFFIDAMENTO DEL SERVIZIO DI AGGIORNAMENTO DELLA BANCA DATI IMU E TASI E DELLA PRODUZIONE DEI CONTEGGI RELATIVI AI TRIBUTI PER IL MESE DI DICEMBRE. ASSUNZIONE IMPEGNO DI SPESA. </title>
-			<description>AFFIDAMENTO DEL SERVIZIO DI AGGIORNAMENTO DELLA BANCA DATI IMU E TASI E DELLA PRODUZIONE DEI CONTEGGI RELATIVI AI TRIBUTI PER IL MESE DI DICEMBRE. ASSUNZIONE IMPEGNO DI SPESA. </description>
-			<a10:updated>2017-11-21T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
