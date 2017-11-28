@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 28 Nov 2017 17:30:58 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 28 Nov 2017 18:31:11 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Tue, 28 Nov 2017 17:30:58 +0100</pubDate>
+		<pubDate>Tue, 28 Nov 2017 18:31:11 +0100</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3686093</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3686093</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 28 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 13 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3686093</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>RELAZIONE N° 12/2017 – TRIBUTI COMUNALI – COSTITUZIONE NEI GIUDIZI AVANTI LA COMMISSIONE TRIBUTARIA PROVINCIALE DI LUCCA E LA COMMISSIONE TRIBUTARIA REGIONALE DELLA TOSCANA IN RELAZIONE AI RICORSI PRESENTATI DAI CONTRIBUENTI – APPROVAZIONE </title>
+			<description>RELAZIONE N° 12/2017 – TRIBUTI COMUNALI – COSTITUZIONE NEI GIUDIZI AVANTI LA COMMISSIONE TRIBUTARIA PROVINCIALE DI LUCCA E LA COMMISSIONE TRIBUTARIA REGIONALE DELLA TOSCANA IN RELAZIONE AI RICORSI PRESENTATI DAI CONTRIBUENTI – APPROVAZIONE </description>
+			<a10:updated>2017-11-28T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3685886</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3685886</link>
@@ -284,17 +295,6 @@
 			<title>REGIONE TOSCANA - SETTORE GENIO CIVILE TOSCANA NORD DI LUCCA: T.U. N. 1775 DELL'11.12.1933 N. 80/2015, D.G.R.T. N. 1341 DEL 29/12/2015: DITTA RENOWA POWER S.R.L. - ISTANZA PER VARIANTE NON SOSTANZIALE IN CORSO D'OPERA CONSISTENTE NELLA SOSTITUZIONE DELLA TURBINA KAPLAN AD ASSE VERTICALE PREVISTA NELLA CONCESSIONE CON TURBINA KAPLAN AD ASSE INCLINATO E MODIFICHE DEL FABBRICATO DENOMINATO PUBBLICO CONDOTTO IN LOCALITA' PONTE A MORIANO - AVVISO </title>
 			<description>REGIONE TOSCANA - SETTORE GENIO CIVILE TOSCANA NORD DI LUCCA: T.U. N. 1775 DELL'11.12.1933 N. 80/2015, D.G.R.T. N. 1341 DEL 29/12/2015: DITTA RENOWA POWER S.R.L. - ISTANZA PER VARIANTE NON SOSTANZIALE IN CORSO D'OPERA CONSISTENTE NELLA SOSTITUZIONE DELLA TURBINA KAPLAN AD ASSE VERTICALE PREVISTA NELLA CONCESSIONE CON TURBINA KAPLAN AD ASSE INCLINATO E MODIFICHE DEL FABBRICATO DENOMINATO PUBBLICO CONDOTTO IN LOCALITA' PONTE A MORIANO - AVVISO </description>
 			<a10:updated>2017-11-28T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3681671</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3681671</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 27 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 05 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3681671</category>
-			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO</category>
-			<title>PUBBLICAZIONI ANNO 2017 N. 317 DELL'AGNELLO DARIO PAOLICCHI IRENE </title>
-			<description>PUBBLICAZIONI ANNO 2017 N. 317 DELL'AGNELLO DARIO PAOLICCHI IRENE </description>
-			<a10:updated>2017-11-27T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
