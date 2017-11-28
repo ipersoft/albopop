@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 28 Nov 2017 08:31:43 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 28 Nov 2017 09:33:02 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Tue, 28 Nov 2017 08:31:43 +0100</pubDate>
+		<pubDate>Tue, 28 Nov 2017 09:33:02 +0100</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3073631</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3073631</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 28 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 06 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3073631</category>
+			<category domain="http://albopop.it/specs#item-category-type">ACCERTAMENTO</category>
+			<title>PUBBLICAZIONE DI NOTIFICA AI SENSI DELL'ART.60 DEL D.P.R. 600/73 A CARICO DI SCHININA MARIA CDA MANGIABOVE </title>
+			<description>PUBBLICAZIONE DI NOTIFICA AI SENSI DELL'ART.60 DEL D.P.R. 600/73 A CARICO DI SCHININA MARIA CDA MANGIABOVE </description>
+			<a10:updated>2017-11-28T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3073250</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3073250</link>
@@ -284,17 +295,6 @@
 			<title>PUBBLICAZIONE ART.60 A CARICO DI MASSARI LORENZO </title>
 			<description>PUBBLICAZIONE ART.60 A CARICO DI MASSARI LORENZO </description>
 			<a10:updated>2017-11-27T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3070877</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3070877</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 24 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 09 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3070877</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERA DI CONSIGLIO</category>
-			<title>DEL.G.M. N° 55/17 - PROGETTO DEFINITIVO DEL COLLEGAMENTO VIARIO CON CARATTERISTICHE AUTOSTRADALI COMPRESO TRA LO SVINCOLO DELLA S.S. 514 "DI CHIARAMONTE" CON LA S.S. 115 E LO SVINCOLO DELLA S.S. 194 "RAGUSANA" CON LA S.S. 114 - PRESA D'ATTO DELL'APPROVAZIONE DEFINITIVA E REITERAZIONE DEI VINCOLI PREORDINATI ALL'ESPROPIO (PROPOSTA DI DELIBERAZIONE DI GIUNTA MUNICIPALE N. 440 DEL 26.10.2017) </title>
-			<description>DEL.G.M. N° 55/17 - PROGETTO DEFINITIVO DEL COLLEGAMENTO VIARIO CON CARATTERISTICHE AUTOSTRADALI COMPRESO TRA LO SVINCOLO DELLA S.S. 514 "DI CHIARAMONTE" CON LA S.S. 115 E LO SVINCOLO DELLA S.S. 194 "RAGUSANA" CON LA S.S. 114 - PRESA D'ATTO DELL'APPROVAZIONE DEFINITIVA E REITERAZIONE DEI VINCOLI PREORDINATI ALL'ESPROPIO (PROPOSTA DI DELIBERAZIONE DI GIUNTA MUNICIPALE N. 440 DEL 26.10.2017) </description>
-			<a10:updated>2017-11-24T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
