@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 29 Nov 2017 14:31:41 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 29 Nov 2017 15:31:19 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Wed, 29 Nov 2017 14:31:41 +0100</pubDate>
+		<pubDate>Wed, 29 Nov 2017 15:31:19 +0100</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3077048</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3077048</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 29 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 14 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3077048</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI ATTI DIVERSI</category>
+			<title>AVVISO DI ESITO GARA RELATIVO ALL'APPALTO "ADEGUAMENTO DELLE MASSE FILTRANTI DEI FILTRI B.A.C. DI POLESINE ACQUE SPA - CIG 7181371ECF" </title>
+			<description>AVVISO DI ESITO GARA RELATIVO ALL'APPALTO "ADEGUAMENTO DELLE MASSE FILTRANTI DEI FILTRI B.A.C. DI POLESINE ACQUE SPA - CIG 7181371ECF" </description>
+			<a10:updated>2017-11-29T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3076662</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3076662</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
 			<title>LIQUIDAZIONE E PAGAMENTO DELL'IMPORTO DI €. 217,00 PER RIMBORSI RELATIVI AL SERVIZIO DI TRASPORTO SCOLASTICO - ANNO 2017 – 4° TRANCHE (CONTESTUALE TRATTENUTA PER PAGAMENTO RETTA NIDO) - </title>
 			<description>LIQUIDAZIONE E PAGAMENTO DELL'IMPORTO DI €. 217,00 PER RIMBORSI RELATIVI AL SERVIZIO DI TRASPORTO SCOLASTICO - ANNO 2017 – 4° TRANCHE (CONTESTUALE TRATTENUTA PER PAGAMENTO RETTA NIDO) - </description>
-			<a10:updated>2017-11-28T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3074940</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3074940</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 28 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 13 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3074940</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>LIQUIDAZIONE RIMBORSO DEPOSITO CAUZIONALE PER RISTRUTTURAZIONE RECINZIONE, VIA F. FILZI, 2 - SCIA U.T. 865/16. </title>
-			<description>LIQUIDAZIONE RIMBORSO DEPOSITO CAUZIONALE PER RISTRUTTURAZIONE RECINZIONE, VIA F. FILZI, 2 - SCIA U.T. 865/16. </description>
 			<a10:updated>2017-11-28T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
