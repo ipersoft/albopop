@@ -5,7 +5,7 @@
 		<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Canosa di Puglia</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 29 Nov 2017 12:31:12 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 29 Nov 2017 13:31:20 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Canosa di Puglia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Barletta-Andria-Trani</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Canosa di Puglia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_canosadipuglia</a10:id>
-		<pubDate>Wed, 29 Nov 2017 12:31:12 +0100</pubDate>
+		<pubDate>Wed, 29 Nov 2017 13:31:20 +0100</pubDate>
 		<docs>http://albopop.it/comune/canosadipuglia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3688284</guid>
+			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3688284</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 29 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 30 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3688284</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI E DEPOSITI AVVISO DI DEPOSITO</category>
+			<title>AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE. AFFISSIONE PER UN GIORNO </title>
+			<description>AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE. AFFISSIONE PER UN GIORNO </description>
+			<a10:updated>2017-11-29T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3687233</guid>
 			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3687233</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
 			<title>RATEIZZAZIONE AVVISO ACCERTAMENTO N. 1034 IMU 2012_ COD. CONT. 19089. </title>
 			<description>RATEIZZAZIONE AVVISO ACCERTAMENTO N. 1034 IMU 2012_ COD. CONT. 19089. </description>
-			<a10:updated>2017-11-25T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3679992</guid>
-			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3679992</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 25 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 10 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3679992</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
-			<title>Liquidazione prestazione lavoro straordinario e maneggio valore effettuate dal personale del III° Settore relativo al mese di ottobre 2017. </title>
-			<description>Liquidazione prestazione lavoro straordinario e maneggio valore effettuate dal personale del III° Settore relativo al mese di ottobre 2017. </description>
 			<a10:updated>2017-11-25T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
