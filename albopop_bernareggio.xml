@@ -5,7 +5,7 @@
 		<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bernareggio</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 29 Nov 2017 11:31:10 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 29 Nov 2017 12:30:52 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bernareggio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bernareggio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bernareggio</a10:id>
-		<pubDate>Wed, 29 Nov 2017 11:31:10 +0100</pubDate>
+		<pubDate>Wed, 29 Nov 2017 12:30:52 +0100</pubDate>
 		<docs>http://albopop.it/comune/bernareggio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3687685</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3687685</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 29 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 14 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3687685</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZE</category>
+			<title>ISTITUZIONE SENSO UNICO ALTERNATO GESTITO DA MOVIERI IN VIA S. GIACOMO N 6 DALLE ORE 7.30 ALLE ORE 14.00 DEL 02/12/2017 </title>
+			<description>ISTITUZIONE SENSO UNICO ALTERNATO GESTITO DA MOVIERI IN VIA S. GIACOMO N 6 DALLE ORE 7.30 ALLE ORE 14.00 DEL 02/12/2017 </description>
+			<a10:updated>2017-11-29T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3686783</guid>
 			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3686783</link>
@@ -284,17 +295,6 @@
 			<title>APPROVAZIONE SCHEMA DI CONTRATTO PER LA CESSIONE IN PROPRIETA' DI AREA - GIA’ CONCESSA IN DIRITTO DI SUPERFICIE - IN ZONA P.I.P. (PIANO INSEDIAMENTI PRODUTTIVI) ALLA SOCIETÀ COOPERATIVA LAVORO E PRODUZIONE S.R.L. PER AZIONI E SUCCESSIVAMENTE ASSEGNATA ALLA DITTA INDIVIDUALE FACMA DI MAGNI ROBERTO IN COMUNE DI BERNAREGGIO </title>
 			<description>APPROVAZIONE SCHEMA DI CONTRATTO PER LA CESSIONE IN PROPRIETA' DI AREA - GIA’ CONCESSA IN DIRITTO DI SUPERFICIE - IN ZONA P.I.P. (PIANO INSEDIAMENTI PRODUTTIVI) ALLA SOCIETÀ COOPERATIVA LAVORO E PRODUZIONE S.R.L. PER AZIONI E SUCCESSIVAMENTE ASSEGNATA ALLA DITTA INDIVIDUALE FACMA DI MAGNI ROBERTO IN COMUNE DI BERNAREGGIO </description>
 			<a10:updated>2017-11-27T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3666448</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3666448</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 24 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 01 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3666448</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI</category>
-			<title>CONVOCAZIONE CONSIGLIO COMUNALE IL GIORNO 30 NOVEMBRE 2017 ORE 20,30 PRESSO AUDITORIUM PALAZZO COMUNALE VIA PERTINI 46, ANGOLO VIA MORSELLI </title>
-			<description>CONVOCAZIONE CONSIGLIO COMUNALE IL GIORNO 30 NOVEMBRE 2017 ORE 20,30 PRESSO AUDITORIUM PALAZZO COMUNALE VIA PERTINI 46, ANGOLO VIA MORSELLI </description>
-			<a10:updated>2017-11-24T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
