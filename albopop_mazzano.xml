@@ -5,7 +5,7 @@
 		<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mazzano</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 29 Nov 2017 16:31:39 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 29 Nov 2017 17:31:49 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mazzano</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mazzano</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mazzano</a10:id>
-		<pubDate>Wed, 29 Nov 2017 16:31:39 +0100</pubDate>
+		<pubDate>Wed, 29 Nov 2017 17:31:49 +0100</pubDate>
 		<docs>http://albopop.it/comune/mazzano/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3689368</guid>
+			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3689368</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 29 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 14 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3689368</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO AVVISO GENERICO</category>
+			<title>AVVISO DI AGGIUDICAZIONE DELLA GARA PER L'AFFIDAMENTO DEL SERVIZIO DI TRASPORTO SCOLASTICO PER IL PERIODO 1° OTTOBRE 2017 - 30 GIUGNO 2021 </title>
+			<description>AVVISO DI AGGIUDICAZIONE DELLA GARA PER L'AFFIDAMENTO DEL SERVIZIO DI TRASPORTO SCOLASTICO PER IL PERIODO 1° OTTOBRE 2017 - 30 GIUGNO 2021 </description>
+			<a10:updated>2017-11-29T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3686604</guid>
 			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3686604</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
 			<title>DETERMINAZIONE A CONTRATTARE E AFFIDAMENTO DIRETTO AI SENSI DELL’ART. 36 DEL D.LGS. 18 APRILE 2016, N. 50, DEL SERVIZIO DI RILEVAZIONE PRESENZE DEL PERSONALE DELL’AGGREGAZIONE DEI COMUNI DI MAZZANO, NUVOLERA E NUVOLENTO ALLA SOCIETA’ MAD SRL – PERIODO DAL 01.01.2018 AL 31.12.2020. </title>
 			<description>DETERMINAZIONE A CONTRATTARE E AFFIDAMENTO DIRETTO AI SENSI DELL’ART. 36 DEL D.LGS. 18 APRILE 2016, N. 50, DEL SERVIZIO DI RILEVAZIONE PRESENZE DEL PERSONALE DELL’AGGREGAZIONE DEI COMUNI DI MAZZANO, NUVOLERA E NUVOLENTO ALLA SOCIETA’ MAD SRL – PERIODO DAL 01.01.2018 AL 31.12.2020. </description>
-			<a10:updated>2017-11-20T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3655913</guid>
-			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3655913</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 20 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 05 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3655913</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
-			<title>DETERMINAZIONE A CONTRATTARE ED AFFIDAMENTO DIRETTO, AI SENSI DELL'ART.36, COMMA 2 LETTERA A) DEL D.LGS 18.4.2016 N.50 DELLA FORNITURA DI MATERIALE DI CONSUMO PER I SERVIZI DEMOGRAFICI </title>
-			<description>DETERMINAZIONE A CONTRATTARE ED AFFIDAMENTO DIRETTO, AI SENSI DELL'ART.36, COMMA 2 LETTERA A) DEL D.LGS 18.4.2016 N.50 DELLA FORNITURA DI MATERIALE DI CONSUMO PER I SERVIZI DEMOGRAFICI </description>
 			<a10:updated>2017-11-20T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
