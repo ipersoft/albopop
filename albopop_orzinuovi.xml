@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 30 Nov 2017 16:30:48 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 30 Nov 2017 17:30:48 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Thu, 30 Nov 2017 16:30:48 +0100</pubDate>
+		<pubDate>Thu, 30 Nov 2017 17:30:48 +0100</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3079522</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3079522</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 30 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3079522</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
+			<title>SOSPENSIONE UTILIZZO POSTEGGIO N. 88 PER L’ESERCIZIO DELL’ATTIVITÀ DI COMMERCIO SU AREA PUBBLICA NEL MERCATO SETTIMANALE DEL VENERDI' DA PARTE DELLA DITTA INDIVIDUALE S.C. </title>
+			<description>SOSPENSIONE UTILIZZO POSTEGGIO N. 88 PER L’ESERCIZIO DELL’ATTIVITÀ DI COMMERCIO SU AREA PUBBLICA NEL MERCATO SETTIMANALE DEL VENERDI' DA PARTE DELLA DITTA INDIVIDUALE S.C. </description>
+			<a10:updated>2017-11-30T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3079470</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3079470</link>
@@ -284,17 +295,6 @@
 			<title>INTERVENTI MANUTENTIVI STRAORDINARI STRADE COMUNALI – CIG: ZAC1E74D3D </title>
 			<description>INTERVENTI MANUTENTIVI STRAORDINARI STRADE COMUNALI – CIG: ZAC1E74D3D </description>
 			<a10:updated>2017-11-27T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3071328</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3071328</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 30 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3071328</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI AVVISO</category>
-			<title>ISTANZA CONCESSIONE PER DERIVAZIONE DI ACQUE SOTTERRANEE DA POZZO VARIAZIONE D'USO DA ZOOTECNICO AD USO ZOOTECNICO E ANTINCENDIO IN COMUNE DI ORZINUOVI PRESENTATA DALL'AZIENDA AGRICOLA TOMASONI LORENZO, ALESSANDRO E C. </title>
-			<description>ISTANZA CONCESSIONE PER DERIVAZIONE DI ACQUE SOTTERRANEE DA POZZO VARIAZIONE D'USO DA ZOOTECNICO AD USO ZOOTECNICO E ANTINCENDIO IN COMUNE DI ORZINUOVI PRESENTATA DALL'AZIENDA AGRICOLA TOMASONI LORENZO, ALESSANDRO E C. </description>
-			<a10:updated>2017-11-30T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
