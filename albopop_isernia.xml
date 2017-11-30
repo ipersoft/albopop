@@ -5,7 +5,7 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 30 Nov 2017 17:31:40 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 30 Nov 2017 18:31:53 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Isernia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>Thu, 30 Nov 2017 17:31:40 +0100</pubDate>
+		<pubDate>Thu, 30 Nov 2017 18:31:53 +0100</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3692832</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3692832</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 30 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3692832</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
+			<title>INCREMENTO ORE LAVORATIVE DIPENDENTI PART-TIME (DELIBERA DI GIUNTA COMUNALE N.160/2017) </title>
+			<description>INCREMENTO ORE LAVORATIVE DIPENDENTI PART-TIME (DELIBERA DI GIUNTA COMUNALE N.160/2017) </description>
+			<a10:updated>2017-11-30T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3692307</guid>
 			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3692307</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
 			<title>[AMBITO TERRITORIALE SOCIALE] AVVISO “HOME CARE PREMIUM 2014” PER L’ADESIONE E LA GESTIONE DI PROGETTI INNOVATIVI E SPERIMENTALI DI ASSISTENZA DOMICILIARE. LIQUIDAZIONE ALLA COOPERATIVA LAI DELLE FATTURE RELATIVE ALLE “PRESTAZIONI SOCIO ASSISTENZIALI INTEGRATIVE EROGATE NEL PERIODO APRILE-GIUGNO 2017. </title>
 			<description>[AMBITO TERRITORIALE SOCIALE] AVVISO “HOME CARE PREMIUM 2014” PER L’ADESIONE E LA GESTIONE DI PROGETTI INNOVATIVI E SPERIMENTALI DI ASSISTENZA DOMICILIARE. LIQUIDAZIONE ALLA COOPERATIVA LAI DELLE FATTURE RELATIVE ALLE “PRESTAZIONI SOCIO ASSISTENZIALI INTEGRATIVE EROGATE NEL PERIODO APRILE-GIUGNO 2017. </description>
-			<a10:updated>2017-11-28T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3684544</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3684544</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 28 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 13 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3684544</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
-			<title>[AMBITO TERRITORIALE SOCIALE] AVVISO “HOME CARE PREMIUM 2014” PER L’ADESIONE E LA GESTIONE DI PROGETTI INNOVATIVI E SPERIMENTALI DI ASSISTENZA DOMICILIARE. LIQUIDAZIONE ALLA COOPERATIVA SOCIALE NUOVASSISTENZA ONLUS DELLE FATTURE RELATIVE ALLE “PRESTAZIONI SOCIO ASSISTENZIALI INTEGRATIVE EROGATE NEL PERIODO APRILE-GIUGNO 2017. </title>
-			<description>[AMBITO TERRITORIALE SOCIALE] AVVISO “HOME CARE PREMIUM 2014” PER L’ADESIONE E LA GESTIONE DI PROGETTI INNOVATIVI E SPERIMENTALI DI ASSISTENZA DOMICILIARE. LIQUIDAZIONE ALLA COOPERATIVA SOCIALE NUOVASSISTENZA ONLUS DELLE FATTURE RELATIVE ALLE “PRESTAZIONI SOCIO ASSISTENZIALI INTEGRATIVE EROGATE NEL PERIODO APRILE-GIUGNO 2017. </description>
 			<a10:updated>2017-11-28T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
