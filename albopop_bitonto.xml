@@ -5,7 +5,7 @@
 		<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bitonto</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 30 Nov 2017 11:30:38 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 30 Nov 2017 12:30:35 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bitonto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Bari</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bitonto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bitonto</a10:id>
-		<pubDate>Thu, 30 Nov 2017 11:30:38 +0100</pubDate>
+		<pubDate>Thu, 30 Nov 2017 12:30:35 +0100</pubDate>
 		<docs>http://albopop.it/comune/bitonto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3690954</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3690954</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 30 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3690954</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
+			<title>VIA DI VAGNO (GIA' VIA PALOMBAIO) CIVV.142/148 DIVIETO DI SOSTA CON RIMOZIONE PER OPERAZIONI DI MANUTENZIONE ORDINARIA E STRAORDINARIA IMMOBILE DAL 04 AL 22/12/2017 - IMPRESA EDILE SCHIAVINO COSTRUZIONI DI SCHIAVINO VINCENZO </title>
+			<description>VIA DI VAGNO (GIA' VIA PALOMBAIO) CIVV.142/148 DIVIETO DI SOSTA CON RIMOZIONE PER OPERAZIONI DI MANUTENZIONE ORDINARIA E STRAORDINARIA IMMOBILE DAL 04 AL 22/12/2017 - IMPRESA EDILE SCHIAVINO COSTRUZIONI DI SCHIAVINO VINCENZO </description>
+			<a10:updated>2017-11-30T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3690430</guid>
 			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3690430</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">BANDI DI GARA BANDI DI GARA ALTRI ENTI</category>
 			<title>CITTA' METROPOLITANA DI BARI : BANDO DI GARA D'APPALTO: INTERVENTI DI MANUTENZIONE STRAORDINARIA SULLA RETE STRADALE DELLA CITTA' METROPOLITANA DI BARI . CIG: 7275062315 CUP: C97H17000890003 . </title>
 			<description>CITTA' METROPOLITANA DI BARI : BANDO DI GARA D'APPALTO: INTERVENTI DI MANUTENZIONE STRAORDINARIA SULLA RETE STRADALE DELLA CITTA' METROPOLITANA DI BARI . CIG: 7275062315 CUP: C97H17000890003 . </description>
-			<a10:updated>2017-11-28T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3683388</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3683388</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 28 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 13 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3683388</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
-			<title>VIA XXV APRILE TRATTO VIE G.PPE MODUGNO/KENNEDY DVIETO DI CIRCOLAZIONE E SOSTA AMBO I LATI I GG. 29 E 30/11/2017 ORE 7/17 E COMUNQUE SINO AL TERMINE DEI LAVORI DI SOSTITUZIONE MANUTENZIONE COSTRUZIONE RETI GAS - DITTA GEA DI PROVETTA ANNA MARIA </title>
-			<description>VIA XXV APRILE TRATTO VIE G.PPE MODUGNO/KENNEDY DVIETO DI CIRCOLAZIONE E SOSTA AMBO I LATI I GG. 29 E 30/11/2017 ORE 7/17 E COMUNQUE SINO AL TERMINE DEI LAVORI DI SOSTITUZIONE MANUTENZIONE COSTRUZIONE RETI GAS - DITTA GEA DI PROVETTA ANNA MARIA </description>
 			<a10:updated>2017-11-28T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
