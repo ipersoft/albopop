@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 01 Dec 2017 09:30:55 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 01 Dec 2017 10:31:08 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Fri, 01 Dec 2017 09:30:55 +0100</pubDate>
+		<pubDate>Fri, 01 Dec 2017 10:31:08 +0100</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/827319</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/827319</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 01 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 09 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">827319</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO ATTI E AVVISI DIVERSI</category>
+			<title>A RICHIESTA DELL'AGENZIA DELLE ENTRATE DI PESARO E URBINO AVVISO DI DEPOSITO DOCUMENTO N. I00758/2017 </title>
+			<description>A RICHIESTA DELL'AGENZIA DELLE ENTRATE DI PESARO E URBINO AVVISO DI DEPOSITO DOCUMENTO N. I00758/2017 </description>
+			<a10:updated>2017-12-01T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/827288</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/827288</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 01 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 16 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">827288</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>CONFERIMENTO INCARICO A TITOLO GRATUITO AL DIPENDENTE COMUNALE IN QUIESCENZA, MANUELA CASSIANI </title>
+			<description>CONFERIMENTO INCARICO A TITOLO GRATUITO AL DIPENDENTE COMUNALE IN QUIESCENZA, MANUELA CASSIANI </description>
+			<a10:updated>2017-12-01T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/827285</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/827285</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 01 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 16 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">827285</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>RICORSO AVANTI AL TAR MARCHE PROMOSSO DA SOC. COOP. CULT. E COOP. SOC. LAB. – ATTO DI MOTIVI AGGIUNTI AL RICORSO R.G. 500/2017 (PROT. 100061/17) – COSTITUZIONE IN GIUDIZIO E NOMINA AVVOCATI DIFENSORI. </title>
+			<description>RICORSO AVANTI AL TAR MARCHE PROMOSSO DA SOC. COOP. CULT. E COOP. SOC. LAB. – ATTO DI MOTIVI AGGIUNTI AL RICORSO R.G. 500/2017 (PROT. 100061/17) – COSTITUZIONE IN GIUDIZIO E NOMINA AVVOCATI DIFENSORI. </description>
+			<a10:updated>2017-12-01T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/827114</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/827114</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>DEPOSITO CAUZIONALE A FAVORE DI TELEPASS S.P.A. RELATIVO AL RILASCIO DI N. 1 NUOVA VIACARD CON TELEPASS PER PAGAMENTO PEDAGGI AUTOSTRADALI. </title>
 			<description>DEPOSITO CAUZIONALE A FAVORE DI TELEPASS S.P.A. RELATIVO AL RILASCIO DI N. 1 NUOVA VIACARD CON TELEPASS PER PAGAMENTO PEDAGGI AUTOSTRADALI. </description>
-			<a10:updated>2017-11-29T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/825862</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/825862</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 29 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 14 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">825862</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>LAVORI DI RISTRUTTURAZIONE DELL’AUDITORIUM DELLA SCUOLA MEDIA DANTE ALIGHIERI SITA A PESARO IN VIA GATTONI – 2° CORPO LAVORI: OPERE DI RIQUALIFICAZIONE ENERGETICA E ADEGUAMENTO ALLE NORME. ASSUNZIONE IMPEGNO DI SPESA PER AUMENTO POTENZA CONTATORE </title>
-			<description>LAVORI DI RISTRUTTURAZIONE DELL’AUDITORIUM DELLA SCUOLA MEDIA DANTE ALIGHIERI SITA A PESARO IN VIA GATTONI – 2° CORPO LAVORI: OPERE DI RIQUALIFICAZIONE ENERGETICA E ADEGUAMENTO ALLE NORME. ASSUNZIONE IMPEGNO DI SPESA PER AUMENTO POTENZA CONTATORE </description>
-			<a10:updated>2017-11-29T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/825859</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/825859</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 29 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 14 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">825859</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>CONTRIBUTO AL CE. I. S. – CENTRO ITALIANO DI SOLIDARIETA’ PER PROGETTI REALIZZATI A FAVORE DEL PROCESSO DI INTEGRAZIONE TRA CITTADINI PROVENIENTI DA DIVERSE CULTURE NEL TERRITORIO DELL’ATS1 </title>
-			<description>CONTRIBUTO AL CE. I. S. – CENTRO ITALIANO DI SOLIDARIETA’ PER PROGETTI REALIZZATI A FAVORE DEL PROCESSO DI INTEGRAZIONE TRA CITTADINI PROVENIENTI DA DIVERSE CULTURE NEL TERRITORIO DELL’ATS1 </description>
-			<a10:updated>2017-11-29T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/825841</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/825841</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 29 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 14 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">825841</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>PROMOZIONE EVENTI NATALE 2017. </title>
-			<description>PROMOZIONE EVENTI NATALE 2017. </description>
 			<a10:updated>2017-11-29T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
