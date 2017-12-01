@@ -5,7 +5,7 @@
 		<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bernareggio</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 01 Dec 2017 12:33:31 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 01 Dec 2017 13:31:06 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bernareggio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bernareggio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bernareggio</a10:id>
-		<pubDate>Fri, 01 Dec 2017 12:33:31 +0100</pubDate>
+		<pubDate>Fri, 01 Dec 2017 13:31:06 +0100</pubDate>
 		<docs>http://albopop.it/comune/bernareggio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3694879</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3694879</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 01 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 03 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3694879</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI</category>
+			<title>POSTA CERTIFICATA: PROCEDURA DI MOBILITA' ESTERNA VOLONTARIA PER LA COPERTURA DI N. 1 POSTO DI ISTRUTTORE DIRETTIVO TECNICO CAT. D/1. TRASMISSIONE BANDO E DOMANDA DI PARTECIPAZIONE </title>
+			<description>POSTA CERTIFICATA: PROCEDURA DI MOBILITA' ESTERNA VOLONTARIA PER LA COPERTURA DI N. 1 POSTO DI ISTRUTTORE DIRETTIVO TECNICO CAT. D/1. TRASMISSIONE BANDO E DOMANDA DI PARTECIPAZIONE </description>
+			<a10:updated>2017-12-01T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3694011</guid>
 			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3694011</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>CIG Z732094070 - AGGIUDICAZIONE SERVIZIO DI GESTIONE CONTABILITA' IVA ED ADEMPIMENTI CONNESSI PER IL TRIENNIO 2018/2020 TRAMITE PROCEDURA SELETTIVA DEL CONTRAENTE MEDIANTE RDO IN MEPA. </title>
 			<description>CIG Z732094070 - AGGIUDICAZIONE SERVIZIO DI GESTIONE CONTABILITA' IVA ED ADEMPIMENTI CONNESSI PER IL TRIENNIO 2018/2020 TRAMITE PROCEDURA SELETTIVA DEL CONTRAENTE MEDIANTE RDO IN MEPA. </description>
-			<a10:updated>2017-11-28T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3684310</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3684310</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 28 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 13 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3684310</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>CIG: Z3A11BBB08 - MANUTENZIONE STRAORDINARIA AUTOMEZZI IN DOTAZIONE AI SERVIZI SOCIALI </title>
-			<description>CIG: Z3A11BBB08 - MANUTENZIONE STRAORDINARIA AUTOMEZZI IN DOTAZIONE AI SERVIZI SOCIALI </description>
 			<a10:updated>2017-11-28T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
