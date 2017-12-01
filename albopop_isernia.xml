@@ -5,7 +5,7 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 01 Dec 2017 13:31:33 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 01 Dec 2017 14:31:15 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Isernia</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>Fri, 01 Dec 2017 13:31:33 +0100</pubDate>
+		<pubDate>Fri, 01 Dec 2017 14:31:15 +0100</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -52,6 +52,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
 			<title>[AMBITO TERRITORIALE SOCIALE] DETERMINAZIONE A CONTRARRE EX ART. 192 TUEL - AFFIDAMENTO DELLE ATTIVITÀ DEL SERVIZIO DENOMINATO "SERVIZIO SOCIALE PROFESSIONALE" - PERIODO DAL 01.01.2018 AL 31.12.2018 NOMIN A COMMISSIONE DI GARA - CIG [7264906615] </title>
 			<description>[AMBITO TERRITORIALE SOCIALE] DETERMINAZIONE A CONTRARRE EX ART. 192 TUEL - AFFIDAMENTO DELLE ATTIVITÀ DEL SERVIZIO DENOMINATO "SERVIZIO SOCIALE PROFESSIONALE" - PERIODO DAL 01.01.2018 AL 31.12.2018 NOMIN A COMMISSIONE DI GARA - CIG [7264906615] </description>
+			<a10:updated>2017-12-01T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3695735</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3695735</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 01 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 16 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3695735</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA CONSIGLIO COMUNALE</category>
+			<title>VARIAZIONI AL BILANCIO DI PREVISIONE FINANZIARIO 2017-2019 </title>
+			<description>VARIAZIONI AL BILANCIO DI PREVISIONE FINANZIARIO 2017-2019 </description>
 			<a10:updated>2017-12-01T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
 			<title>IMPEGNO DI SPESA PER ACQUISTO VESTIARIO E STIVALI PER PERSONALE ADDETTO ALL'IMPIANTISTICA SPORTIVA. DITTA: MILANO FERRAMENTA DI ISERNIA. </title>
 			<description>IMPEGNO DI SPESA PER ACQUISTO VESTIARIO E STIVALI PER PERSONALE ADDETTO ALL'IMPIANTISTICA SPORTIVA. DITTA: MILANO FERRAMENTA DI ISERNIA. </description>
-			<a10:updated>2017-11-28T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3685083</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3685083</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 28 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 13 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3685083</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
-			<title>[AMBITO TERRITORIALE SOCIALE] AVVISO “HOME CARE PREMIUM 2014” PER L’ADESIONE E LA GESTIONE DI PROGETTI INNOVATIVI E SPERIMENTALI DI ASSISTENZA DOMICILIARE. LIQUIDAZIONE ALLA FUTURA COOPERATIVA SOCIALE “PRESTAZIONI SOCIO ASSISTENZIALI INTEGRATIVE EROGATE NEL PERIODO APRILE-GIUGNO 2017. </title>
-			<description>[AMBITO TERRITORIALE SOCIALE] AVVISO “HOME CARE PREMIUM 2014” PER L’ADESIONE E LA GESTIONE DI PROGETTI INNOVATIVI E SPERIMENTALI DI ASSISTENZA DOMICILIARE. LIQUIDAZIONE ALLA FUTURA COOPERATIVA SOCIALE “PRESTAZIONI SOCIO ASSISTENZIALI INTEGRATIVE EROGATE NEL PERIODO APRILE-GIUGNO 2017. </description>
 			<a10:updated>2017-11-28T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

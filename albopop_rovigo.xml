@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 01 Dec 2017 13:31:34 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 01 Dec 2017 14:31:16 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Fri, 01 Dec 2017 13:31:34 +0100</pubDate>
+		<pubDate>Fri, 01 Dec 2017 14:31:16 +0100</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3081700</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3081700</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 01 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 16 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3081700</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
+			<title>ASSEGNAZIONE ALLOGGIO IN EMERGENZA ABITATIVA EX ART 11 DELLA L.R. 10/1996 SITO A ROVIGO IN VIA VERONESE N. 12 </title>
+			<description>ASSEGNAZIONE ALLOGGIO IN EMERGENZA ABITATIVA EX ART 11 DELLA L.R. 10/1996 SITO A ROVIGO IN VIA VERONESE N. 12 </description>
+			<a10:updated>2017-12-01T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3081607</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3081607</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
 			<title>LIQUIDAZIONE SPESA AFFERENTE LA REGISTRAZIONE DEL CONTRATTO REP. N. 128 DEL 07/11/2017 DI LOCAZIONE DELL'ALLOGGIO E.R.P. DI PROPRIETÀ DEL COMUNE DI ROVIGO SITO IN FRAZIONE DI GRIGNANO POLESINE VIA SCOLO VALDENTRO 46 - PIANO TERRA - CON ANNESSO GARAGE </title>
 			<description>LIQUIDAZIONE SPESA AFFERENTE LA REGISTRAZIONE DEL CONTRATTO REP. N. 128 DEL 07/11/2017 DI LOCAZIONE DELL'ALLOGGIO E.R.P. DI PROPRIETÀ DEL COMUNE DI ROVIGO SITO IN FRAZIONE DI GRIGNANO POLESINE VIA SCOLO VALDENTRO 46 - PIANO TERRA - CON ANNESSO GARAGE </description>
-			<a10:updated>2017-12-01T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3080051</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3080051</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 01 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 16 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3080051</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE ORDINANZE</category>
-			<title>ORDINANZA DIRIGENZIALE PER BONIFICA COPERTURA IN ETERNIT DEL GARAGE SITO IN VIA CANOVA, 8 – ROVIGO </title>
-			<description>ORDINANZA DIRIGENZIALE PER BONIFICA COPERTURA IN ETERNIT DEL GARAGE SITO IN VIA CANOVA, 8 – ROVIGO </description>
 			<a10:updated>2017-12-01T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
