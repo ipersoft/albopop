@@ -5,7 +5,7 @@
 		<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bernareggio</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 01 Dec 2017 10:31:20 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 01 Dec 2017 11:31:02 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bernareggio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bernareggio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bernareggio</a10:id>
-		<pubDate>Fri, 01 Dec 2017 10:31:20 +0100</pubDate>
+		<pubDate>Fri, 01 Dec 2017 11:31:02 +0100</pubDate>
 		<docs>http://albopop.it/comune/bernareggio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3694011</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3694011</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 01 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 16 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3694011</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZE</category>
+			<title>MODIFICA ORARIO DI APERTURA AL PUBBLICO DEL SETTORE 4 - URBANISTICA ED EDILIZIA PRIVATA - ECOLOGIA ED SUAP A DECORRERE DAL 04/12/2017 </title>
+			<description>MODIFICA ORARIO DI APERTURA AL PUBBLICO DEL SETTORE 4 - URBANISTICA ED EDILIZIA PRIVATA - ECOLOGIA ED SUAP A DECORRERE DAL 04/12/2017 </description>
+			<a10:updated>2017-12-01T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3693823</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3693823</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 01 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 02 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3693823</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI</category>
+			<title>SI TRASMETTE BANDO DI CONCORSO PER ISTRUTTORE AMMINISTRATIVO CAT C </title>
+			<description>SI TRASMETTE BANDO DI CONCORSO PER ISTRUTTORE AMMINISTRATIVO CAT C </description>
+			<a10:updated>2017-12-01T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3691803</guid>
 			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3691803</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>CIG: Z3A11BBB08 - MANUTENZIONE STRAORDINARIA AUTOMEZZI IN DOTAZIONE AI SERVIZI SOCIALI </title>
 			<description>CIG: Z3A11BBB08 - MANUTENZIONE STRAORDINARIA AUTOMEZZI IN DOTAZIONE AI SERVIZI SOCIALI </description>
-			<a10:updated>2017-11-28T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3684307</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3684307</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 28 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 13 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3684307</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>PRESA D’ATTO RENDICONTO AL PIANO FINANZIARIO TARI ANNO 2016 </title>
-			<description>PRESA D’ATTO RENDICONTO AL PIANO FINANZIARIO TARI ANNO 2016 </description>
-			<a10:updated>2017-11-28T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3684304</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3684304</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 28 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 13 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3684304</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>SERVIZI SOCIALI CONFERITI AD OFFERTASOCIALE AZIENDA TERRITORIALE PER I SERVIZI ALLA PERSONA - LIQUIDAZIONE 3^ QUOTA ANNO 2017 </title>
-			<description>SERVIZI SOCIALI CONFERITI AD OFFERTASOCIALE AZIENDA TERRITORIALE PER I SERVIZI ALLA PERSONA - LIQUIDAZIONE 3^ QUOTA ANNO 2017 </description>
 			<a10:updated>2017-11-28T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
