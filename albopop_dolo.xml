@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 02 Dec 2017 18:30:40 +0100</lastBuildDate>
+		<lastBuildDate>Sun, 03 Dec 2017 08:30:41 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Sat, 02 Dec 2017 18:30:40 +0100</pubDate>
+		<pubDate>Sun, 03 Dec 2017 08:30:41 +0100</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -74,17 +74,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>LIQUIDAZIONE AL MOLINO CAV. LUCARDA SRL FATTURA NR. FPA-2015-21 DEL 5.11.2017 (PROT. N. 30056/2017) PER FORNITURA IL 5.11.2017 N. 4 CORONE D’ALLORO PER CELEBRAZIONI CIVILI A DOLO IN OCCASIONE DEL IV NOVEMBRE 2017 - DT. INCARICO 534/2017 (C.I.G. ZF71E4C8B2) </title>
 			<description>LIQUIDAZIONE AL MOLINO CAV. LUCARDA SRL FATTURA NR. FPA-2015-21 DEL 5.11.2017 (PROT. N. 30056/2017) PER FORNITURA IL 5.11.2017 N. 4 CORONE D’ALLORO PER CELEBRAZIONI CIVILI A DOLO IN OCCASIONE DEL IV NOVEMBRE 2017 - DT. INCARICO 534/2017 (C.I.G. ZF71E4C8B2) </description>
-			<a10:updated>2017-12-01T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3695111</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3695111</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 01 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 02 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3695111</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISO GENERICO</category>
-			<title>POSTA CERTIFICATA: PROT.: D325_30112017 - COMUNE: DOLO - RICHIESTA AFFISSIONE ALL ALBO PRETORIO ON-LINE AI SENSI DELL ART. 60 C.P.C. </title>
-			<description>POSTA CERTIFICATA: PROT.: D325_30112017 - COMUNE: DOLO - RICHIESTA AFFISSIONE ALL ALBO PRETORIO ON-LINE AI SENSI DELL ART. 60 C.P.C. </description>
 			<a10:updated>2017-12-01T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
@@ -294,6 +283,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>IMPEGNO DI SPESA PER EROGAZIONE CONTRIBUTO “BUONO-LIBRI” PER L’A.S. 2017-2018 </title>
 			<description>IMPEGNO DI SPESA PER EROGAZIONE CONTRIBUTO “BUONO-LIBRI” PER L’A.S. 2017-2018 </description>
+			<a10:updated>2017-11-29T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3688321</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3688321</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 29 Nov 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 14 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3688321</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>INTERVENTO DI MANUTENZIONE DEL MURO DI SOSTEGNO POSTO TRA LA “RAMPA DEL CRISTO” E LA S.R.. 11. AFFIDAMENTO ALLA DITTA MEGRA S.R.L. DI CAMPONOGARA (VE). </title>
+			<description>INTERVENTO DI MANUTENZIONE DEL MURO DI SOSTEGNO POSTO TRA LA “RAMPA DEL CRISTO” E LA S.R.. 11. AFFIDAMENTO ALLA DITTA MEGRA S.R.L. DI CAMPONOGARA (VE). </description>
 			<a10:updated>2017-11-29T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
