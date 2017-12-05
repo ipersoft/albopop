@@ -5,7 +5,7 @@
 		<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Busnago</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 05 Dec 2017 13:31:39 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 05 Dec 2017 14:31:33 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Busnago</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Busnago</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_busnago</a10:id>
-		<pubDate>Tue, 05 Dec 2017 13:31:39 +0100</pubDate>
+		<pubDate>Tue, 05 Dec 2017 14:31:33 +0100</pubDate>
 		<docs>http://albopop.it/comune/busnago/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3703086</guid>
+			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3703086</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 05 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 30 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3703086</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI PUBBLICI AVVISO BANDO DI MOBILITÀ ESTERNA</category>
+			<title>COMUNE DI MERLINO: AVVISO DI MOBILITA' ESTERNA PER LA COPERTURA DI UN POSTO A TEMPO PIENO DI ISTRUTTORE AMMINISTRATIVO CONTABILE - CAT. C - AL QUALE ATTRIBUIRE LA POSIZIONE ORGANIZZATIVA </title>
+			<description>COMUNE DI MERLINO: AVVISO DI MOBILITA' ESTERNA PER LA COPERTURA DI UN POSTO A TEMPO PIENO DI ISTRUTTORE AMMINISTRATIVO CONTABILE - CAT. C - AL QUALE ATTRIBUIRE LA POSIZIONE ORGANIZZATIVA </description>
+			<a10:updated>2017-12-05T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3703085</guid>
+			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3703085</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 05 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 12 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3703085</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI PUBBLICI AVVISO BANDO DI MOBILITÀ ESTERNA</category>
+			<title>COMUNE DI BOVEZZO: AVVISO MOBILITÀ GEOMETRA </title>
+			<description>COMUNE DI BOVEZZO: AVVISO MOBILITÀ GEOMETRA </description>
+			<a10:updated>2017-12-05T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3699843</guid>
 			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3699843</link>
@@ -273,28 +295,6 @@
 			<title>COMUNE DI DESIO. AVVISO DI MOBILITÀ VOLONTARIA </title>
 			<description>COMUNE DI DESIO. AVVISO DI MOBILITÀ VOLONTARIA </description>
 			<a10:updated>2017-11-30T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3689364</guid>
-			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3689364</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 29 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 14 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3689364</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DETERMINAZIONE DEI RESPONSABILI</category>
-			<title>IMPEGNO DI SPESA PER L’ACQUISTO DI TESSERE VIACARD PER LA POLIZIA LOCALE </title>
-			<description>IMPEGNO DI SPESA PER L’ACQUISTO DI TESSERE VIACARD PER LA POLIZIA LOCALE </description>
-			<a10:updated>2017-11-29T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3689362</guid>
-			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3689362</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 29 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 14 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3689362</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DETERMINAZIONE DEI RESPONSABILI</category>
-			<title>AFFIDAMENTO INCARICO PER ATTIVAZIONE DEL SUPPORTO INFORMATICO (FRONT-OFFICE E BACK-OFFICE) PER LA GESTIONE DELLO SPORTELLO UNICO PER L’EDILIZIA (SUE). IMPEGNO DI SPESA. </title>
-			<description>AFFIDAMENTO INCARICO PER ATTIVAZIONE DEL SUPPORTO INFORMATICO (FRONT-OFFICE E BACK-OFFICE) PER LA GESTIONE DELLO SPORTELLO UNICO PER L’EDILIZIA (SUE). IMPEGNO DI SPESA. </description>
-			<a10:updated>2017-11-29T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
