@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 05 Dec 2017 16:30:44 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 05 Dec 2017 17:30:41 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Tue, 05 Dec 2017 16:30:44 +0100</pubDate>
+		<pubDate>Tue, 05 Dec 2017 17:30:41 +0100</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3703865</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3703865</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 05 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 20 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3703865</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title> LAVORI DI ASFALTATURA DI ALCUNE STRADE COMUNALI – IMPEGNO DI SPESA E AFFIDAMENTO LAVORI DITTA T. D. M. 2 S.R.L.S. </title>
+			<description> LAVORI DI ASFALTATURA DI ALCUNE STRADE COMUNALI – IMPEGNO DI SPESA E AFFIDAMENTO LAVORI DITTA T. D. M. 2 S.R.L.S. </description>
+			<a10:updated>2017-12-05T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3703523</guid>
 			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3703523</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>LIQUIDAZIONE DI SPESA SOCIETA’ COOPERATIVA CULTURE FATTURA N. 1047/FE/2017 (PROT. N. 28776/2017) SERVIZIO ASSISTENZA AL PUBBLICO E REFERENCE BIBLIOGRAFICO C/O BIBLIOTECA COMUNALE PERIODO AGOSTO – SETTEMBRE 2017 – DT. INCARICO N. 674/2017 (C.I.G. Z921ED283B) </title>
 			<description>LIQUIDAZIONE DI SPESA SOCIETA’ COOPERATIVA CULTURE FATTURA N. 1047/FE/2017 (PROT. N. 28776/2017) SERVIZIO ASSISTENZA AL PUBBLICO E REFERENCE BIBLIOGRAFICO C/O BIBLIOTECA COMUNALE PERIODO AGOSTO – SETTEMBRE 2017 – DT. INCARICO N. 674/2017 (C.I.G. Z921ED283B) </description>
-			<a10:updated>2017-12-01T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3695293</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3695293</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 01 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 16 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3695293</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>LIQUIDAZIONE DI SPESA ARCHIMEDE SOCIETA’ COOPERATIVA FATTURA NR. FATTPA 17_17 DEL 30.10.2017 (PROT. N. 29636/2017) PER ‘ACCONTO SU ‘RIFACIMENTO SITO INTERNET WWW.COMUNE.DOLO.VE.IT’ (C.I.G. Z6A1F3B4D6)' – DT. INCARICO E IMPEGNO N. 812/2017 </title>
-			<description>LIQUIDAZIONE DI SPESA ARCHIMEDE SOCIETA’ COOPERATIVA FATTURA NR. FATTPA 17_17 DEL 30.10.2017 (PROT. N. 29636/2017) PER ‘ACCONTO SU ‘RIFACIMENTO SITO INTERNET WWW.COMUNE.DOLO.VE.IT’ (C.I.G. Z6A1F3B4D6)' – DT. INCARICO E IMPEGNO N. 812/2017 </description>
 			<a10:updated>2017-12-01T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
