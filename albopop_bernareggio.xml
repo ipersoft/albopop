@@ -5,7 +5,7 @@
 		<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bernareggio</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 05 Dec 2017 09:31:08 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 05 Dec 2017 10:30:56 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bernareggio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bernareggio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bernareggio</a10:id>
-		<pubDate>Tue, 05 Dec 2017 09:31:08 +0100</pubDate>
+		<pubDate>Tue, 05 Dec 2017 10:30:56 +0100</pubDate>
 		<docs>http://albopop.it/comune/bernareggio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3701414</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3701414</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 05 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 05 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3701414</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI</category>
+			<title>AVVISO DI SELEZIONE PER LA FORMAZIONE DI UNA GRADUATORIA PER L’ASSUNZIONE A TEMPO PIENO ED INDETERMINATO, MEDIANTE MOBILITA’ ESTERNA VOLONTARIA AI SENSI DELL’ART. 30 DEL D. LGS 165/2001, DI N. 1 DI AGENTE POLIZIA LOCALE CAT. C, CCNL REGIONI ED ENTI LOCALI, PRESSO IL SETTORE ASSOCIATO N. 6 POLIZIA LOCALE </title>
+			<description>AVVISO DI SELEZIONE PER LA FORMAZIONE DI UNA GRADUATORIA PER L’ASSUNZIONE A TEMPO PIENO ED INDETERMINATO, MEDIANTE MOBILITA’ ESTERNA VOLONTARIA AI SENSI DELL’ART. 30 DEL D. LGS 165/2001, DI N. 1 DI AGENTE POLIZIA LOCALE CAT. C, CCNL REGIONI ED ENTI LOCALI, PRESSO IL SETTORE ASSOCIATO N. 6 POLIZIA LOCALE </description>
+			<a10:updated>2017-12-05T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3698361</guid>
 			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3698361</link>
@@ -284,17 +295,6 @@
 			<title>CONVOCAZIONE COMMISSIONE APPALTI OPERE PUBBLICHE PER IL GIORNO 7 DICEMBRE 2017 ALLE ORE 16,00 </title>
 			<description>CONVOCAZIONE COMMISSIONE APPALTI OPERE PUBBLICHE PER IL GIORNO 7 DICEMBRE 2017 ALLE ORE 16,00 </description>
 			<a10:updated>2017-11-29T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3685618</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3685618</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 28 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 13 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3685618</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>CIG Z39209FFAF - AFFIDAMENTO DEL SERVIZIO DI STIPULA ATTO NOTARILE DI COMPRAVENDITA, SPESE DI REGISTRAZIONE E TRASCRIZIONE NEI REGISTRI IMMOBILIARI RELATIVAMENTE AL MAPP. 694 FG.18 DI PARTE CORTILIZIA DELL’IMMOBILE “ADELAIDE E VITTORINO VERONELLI”, A SEGUITO DI FRAZIONAMENTO E TIPO MAPPALE. </title>
-			<description>CIG Z39209FFAF - AFFIDAMENTO DEL SERVIZIO DI STIPULA ATTO NOTARILE DI COMPRAVENDITA, SPESE DI REGISTRAZIONE E TRASCRIZIONE NEI REGISTRI IMMOBILIARI RELATIVAMENTE AL MAPP. 694 FG.18 DI PARTE CORTILIZIA DELL’IMMOBILE “ADELAIDE E VITTORINO VERONELLI”, A SEGUITO DI FRAZIONAMENTO E TIPO MAPPALE. </description>
-			<a10:updated>2017-11-28T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
