@@ -5,7 +5,7 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 05 Dec 2017 08:31:25 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 05 Dec 2017 09:31:51 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Isernia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>Tue, 05 Dec 2017 08:31:25 +0100</pubDate>
+		<pubDate>Tue, 05 Dec 2017 09:31:51 +0100</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3700851</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3700851</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 05 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 20 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3700851</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
+			<title>Impegno e liquidazione spesa per registrazione sentenza del Giudice Pace Isernia n. 198.2017 - Esposito Francesca </title>
+			<description>Impegno e liquidazione spesa per registrazione sentenza del Giudice Pace Isernia n. 198.2017 - Esposito Francesca </description>
+			<a10:updated>2017-12-05T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3700748</guid>
 			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3700748</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA GIUNTA COMUNALE</category>
 			<title>Lavori di somma urgenza per la pulizia strade comunali e lavori sulla rete fognaria comunale a seguito del nubifragio dovuto alle avverse condizioni metereologiche del giorno 10 settembre 2017. Approvazione dei lavori secondo le modalità di cui all’art. 163 del D.Lgs 50/2016 ed all’art. 191 del D.Lgs 267/2000. </title>
 			<description>Lavori di somma urgenza per la pulizia strade comunali e lavori sulla rete fognaria comunale a seguito del nubifragio dovuto alle avverse condizioni metereologiche del giorno 10 settembre 2017. Approvazione dei lavori secondo le modalità di cui all’art. 163 del D.Lgs 50/2016 ed all’art. 191 del D.Lgs 267/2000. </description>
-			<a10:updated>2017-11-30T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3690031</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3690031</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 30 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3690031</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA GIUNTA COMUNALE</category>
-			<title>Concessione del patrocinio e della sala dell'Auditorium "Unità d'Italia" alla Pro Loco "Città di Isernia" per serata Telethon (16 dicembre 2017) </title>
-			<description>Concessione del patrocinio e della sala dell'Auditorium "Unità d'Italia" alla Pro Loco "Città di Isernia" per serata Telethon (16 dicembre 2017) </description>
 			<a10:updated>2017-11-30T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
