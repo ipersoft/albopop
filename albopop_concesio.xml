@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 05 Dec 2017 10:30:37 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 05 Dec 2017 11:30:37 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Tue, 05 Dec 2017 10:30:37 +0100</pubDate>
+		<pubDate>Tue, 05 Dec 2017 11:30:37 +0100</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3701679</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3701679</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 05 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 20 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3701679</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>DETERMINAZIONE A CONTRATTARE MEDIANTE PROCEDURA SUL MERCATO ELETTRONICO DELLA PUBBLICA AMMINISTRAZIONE (SINTEL) PER L'AFFIDAMENTO DEL SERVIZIO DI TRASPORTO CON DUE CONDUCENTI PER LA VISITA AI MERCATINI DI NATALE DI BRESSANONE PROGRAMMATA PER IL 17/12/2017 (CIG Z3D20E1CCE). </title>
+			<description>DETERMINAZIONE A CONTRATTARE MEDIANTE PROCEDURA SUL MERCATO ELETTRONICO DELLA PUBBLICA AMMINISTRAZIONE (SINTEL) PER L'AFFIDAMENTO DEL SERVIZIO DI TRASPORTO CON DUE CONDUCENTI PER LA VISITA AI MERCATINI DI NATALE DI BRESSANONE PROGRAMMATA PER IL 17/12/2017 (CIG Z3D20E1CCE). </description>
+			<a10:updated>2017-12-05T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3699378</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3699378</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERA DI CONSIGLIO</category>
 			<title>ESAME ED APPROVAZIONE DELLA BOZZA DI CONVENZIONE E DELEGA ALLA COMUNITÀ MONTANA DI VALLE TROMPIA PER LA GESTIONE IN FORMA ASSOCIATA DEL SERVIZIO DI MANUTENZIONE DEL RETICOLO IDRICO MINORE . </title>
 			<description>ESAME ED APPROVAZIONE DELLA BOZZA DI CONVENZIONE E DELEGA ALLA COMUNITÀ MONTANA DI VALLE TROMPIA PER LA GESTIONE IN FORMA ASSOCIATA DEL SERVIZIO DI MANUTENZIONE DEL RETICOLO IDRICO MINORE . </description>
-			<a10:updated>2017-12-01T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3693780</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3693780</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 01 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 16 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3693780</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERA DI CONSIGLIO</category>
-			<title>APPROVAZIONE SCHEMA DI CONVENZIONE E DELL'ANNESSO REGOLAMENTO PER LO SVOLGIMENTO DELLE ATTIVITA’ DELLA CENTRALE UNICA DI COMMITTENZA “AREA VASTA BRESCIA”, CON LA PROVINCIA DI BRESCIA E LA COMUNITA' MONTANA V.T., ARTT. 37- 38 DEL D. LEGISLATIVO N.50/2016 E S.M.I.. </title>
-			<description>APPROVAZIONE SCHEMA DI CONVENZIONE E DELL'ANNESSO REGOLAMENTO PER LO SVOLGIMENTO DELLE ATTIVITA’ DELLA CENTRALE UNICA DI COMMITTENZA “AREA VASTA BRESCIA”, CON LA PROVINCIA DI BRESCIA E LA COMUNITA' MONTANA V.T., ARTT. 37- 38 DEL D. LEGISLATIVO N.50/2016 E S.M.I.. </description>
 			<a10:updated>2017-12-01T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
