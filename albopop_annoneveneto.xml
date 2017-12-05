@@ -5,7 +5,7 @@
 		<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Annone Veneto</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 04 Dec 2017 18:31:43 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 05 Dec 2017 08:30:50 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Annone Veneto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Annone Veneto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_annoneveneto</a10:id>
-		<pubDate>Mon, 04 Dec 2017 18:31:43 +0100</pubDate>
+		<pubDate>Tue, 05 Dec 2017 08:30:50 +0100</pubDate>
 		<docs>http://albopop.it/comune/annoneveneto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3700719</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3700719</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 05 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 01 Nov 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3700719</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
+			<title>COMUNE DI MIGLIONICO - AVVISO DI ESUMAZIONI/ESTUMULAZIONI ORDINARIA NEL CIMITERO DI MIGLIONICO. </title>
+			<description>COMUNE DI MIGLIONICO - AVVISO DI ESUMAZIONI/ESTUMULAZIONI ORDINARIA NEL CIMITERO DI MIGLIONICO. </description>
+			<a10:updated>2017-12-05T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3700717</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3700717</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 05 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 05 Dec 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3700717</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
+			<title>COMUNE DI VETRALLA - ESTUMULAZIONI ORDINARIE DI SALME DA EFFETTUARSI NEL II° BRACCIO DEL CIMITERO COMUNALE. </title>
+			<description>COMUNE DI VETRALLA - ESTUMULAZIONI ORDINARIE DI SALME DA EFFETTUARSI NEL II° BRACCIO DEL CIMITERO COMUNALE. </description>
+			<a10:updated>2017-12-05T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3700470</guid>
 			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3700470</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
 			<title>VARIAZIONI URGENTI AL BILANCIO DI PREVISIONE 2017-2019 (FINE NOVEMBRE 2017) </title>
 			<description>VARIAZIONI URGENTI AL BILANCIO DI PREVISIONE 2017-2019 (FINE NOVEMBRE 2017) </description>
-			<a10:updated>2017-12-01T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3695252</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3695252</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 01 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 16 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3695252</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>VARIAZIONI URGENTI AL BILANCIO DI PREVISIONE 2017-2019 </title>
-			<description>VARIAZIONI URGENTI AL BILANCIO DI PREVISIONE 2017-2019 </description>
-			<a10:updated>2017-12-01T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3693568</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3693568</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 01 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 16 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3693568</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>RIMBORSO SPESE PER IL GRUPPO COMUNALE VOLONTARI DELLA PROTEZIONE CIVILE - IMPEGNO DI SPESA </title>
-			<description>RIMBORSO SPESE PER IL GRUPPO COMUNALE VOLONTARI DELLA PROTEZIONE CIVILE - IMPEGNO DI SPESA </description>
 			<a10:updated>2017-12-01T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
