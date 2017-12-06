@@ -5,7 +5,7 @@
 		<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Torri del Benaco</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 06 Dec 2017 17:31:58 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 06 Dec 2017 18:31:58 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Torri del Benaco</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Verona</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Torri del Benaco</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_torridelbenaco</a10:id>
-		<pubDate>Wed, 06 Dec 2017 17:31:58 +0100</pubDate>
+		<pubDate>Wed, 06 Dec 2017 18:31:58 +0100</pubDate>
 		<docs>http://albopop.it/comune/torridelbenaco/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3707659</guid>
+			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3707659</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 06 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 21 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3707659</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
+			<title>NOMINA FUNZIONARIO RESPONSABILE TRIBUTI VARI </title>
+			<description>NOMINA FUNZIONARIO RESPONSABILE TRIBUTI VARI </description>
+			<a10:updated>2017-12-06T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3707656</guid>
+			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3707656</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 06 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 21 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3707656</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
+			<title>DITTA GIRELLI LUIGI - ISTANZA DI CONCESSIONE IDRAULICA PER L'OCCUPAZIONE DI UN'AREA DEMANIALE DI MQ. 36,00 AD USO PONTILE D'APPRODO IN LOC. FRADER – PARERE DI MASSIMA. </title>
+			<description>DITTA GIRELLI LUIGI - ISTANZA DI CONCESSIONE IDRAULICA PER L'OCCUPAZIONE DI UN'AREA DEMANIALE DI MQ. 36,00 AD USO PONTILE D'APPRODO IN LOC. FRADER – PARERE DI MASSIMA. </description>
+			<a10:updated>2017-12-06T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3707610</guid>
+			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3707610</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 06 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 21 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3707610</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
+			<title>LIQUIDAZIONE SALARIO ACCESSORIO AI RESPONSABILI DI POSIZIONE ORGANIZZATIVA. </title>
+			<description>LIQUIDAZIONE SALARIO ACCESSORIO AI RESPONSABILI DI POSIZIONE ORGANIZZATIVA. </description>
+			<a10:updated>2017-12-06T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3706997</guid>
 			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3706997</link>
@@ -262,39 +295,6 @@
 			<title>AVVISO MOBILITÀ VOLONTARIA ISTRUTTORE AMMINISTRATIVO CAT. C - ERRATA CORRIGE </title>
 			<description>AVVISO MOBILITÀ VOLONTARIA ISTRUTTORE AMMINISTRATIVO CAT. C - ERRATA CORRIGE </description>
 			<a10:updated>2017-12-02T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3694829</guid>
-			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3694829</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 01 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 16 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3694829</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
-			<title>ORDINANZA CONTINGIBILE E URGENTE PER IL POSIZIONAMENTO TEMPORANEO DI MODULI GALLEGGIANTI NEL PORTO DI TORRI DEL BENACO. </title>
-			<description>ORDINANZA CONTINGIBILE E URGENTE PER IL POSIZIONAMENTO TEMPORANEO DI MODULI GALLEGGIANTI NEL PORTO DI TORRI DEL BENACO. </description>
-			<a10:updated>2017-12-01T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3694827</guid>
-			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3694827</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 01 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 31 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3694827</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISO 30 GIORNI</category>
-			<title>AVVISO DI DEPOSITO NELLA CASA COMUNALE DI UN ATTO A NOME DI CARISSIMI ALBERTO </title>
-			<description>AVVISO DI DEPOSITO NELLA CASA COMUNALE DI UN ATTO A NOME DI CARISSIMI ALBERTO </description>
-			<a10:updated>2017-12-01T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3694241</guid>
-			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3694241</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 01 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 16 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3694241</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>LIQUIDAZIONE COMPONENTI ACCESSORI AL PEROSNALE DELL'AREA CONTABILE. DICEMBRE 2017 </title>
-			<description>LIQUIDAZIONE COMPONENTI ACCESSORI AL PEROSNALE DELL'AREA CONTABILE. DICEMBRE 2017 </description>
-			<a10:updated>2017-12-01T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
