@@ -5,7 +5,7 @@
 		<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Canosa di Puglia</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 05 Dec 2017 18:31:08 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 06 Dec 2017 08:31:02 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Canosa di Puglia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Barletta-Andria-Trani</category>
@@ -16,22 +16,11 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Canosa di Puglia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_canosadipuglia</a10:id>
-		<pubDate>Tue, 05 Dec 2017 18:31:08 +0100</pubDate>
+		<pubDate>Wed, 06 Dec 2017 08:31:02 +0100</pubDate>
 		<docs>http://albopop.it/comune/canosadipuglia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
-		<item>
-			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3698955</guid>
-			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3698955</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 04 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 05 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3698955</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI E DEPOSITI AVVISO DI DEPOSITO</category>
-			<title>POSTA CERTIFICATA: PROT.: B619_30112017 - COMUNE: CANOSA DI PUGLIA - RICHIESTA AFFISSIONE ALL ALBO PRETORIO ON-LINE AI SENSI DELL ART. 60 C.P.C. </title>
-			<description>POSTA CERTIFICATA: PROT.: B619_30112017 - COMUNE: CANOSA DI PUGLIA - RICHIESTA AFFISSIONE ALL ALBO PRETORIO ON-LINE AI SENSI DELL ART. 60 C.P.C. </description>
-			<a10:updated>2017-12-04T00:00:00+01:00</a10:updated>
-		</item>
 		<item>
 			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3698664</guid>
 			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3698664</link>
@@ -294,6 +283,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
 			<title>A.S. 2017/2018 - Liquidazione cedole librarie </title>
 			<description>A.S. 2017/2018 - Liquidazione cedole librarie </description>
+			<a10:updated>2017-12-01T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3696094</guid>
+			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3696094</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 01 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 16 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3696094</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
+			<title>Rimborso cedola libraria al Comune di Margherita di Savoia </title>
+			<description>Rimborso cedola libraria al Comune di Margherita di Savoia </description>
 			<a10:updated>2017-12-01T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
