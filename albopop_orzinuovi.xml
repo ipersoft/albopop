@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 06 Dec 2017 11:30:42 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 06 Dec 2017 12:30:59 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Wed, 06 Dec 2017 11:30:42 +0100</pubDate>
+		<pubDate>Wed, 06 Dec 2017 12:30:59 +0100</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3088670</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3088670</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 06 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 19 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3088670</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI BANDO</category>
+			<title>AVVISO PUBBLICO DI MOBILITA’ VOLONTARIA PER LA COPERTURA A TEMPO PIENO ED INDETERMINATO DI N. 1 POSTO DI AGENTE DI POLIZIA LOCALE CATEGORIA C </title>
+			<description>AVVISO PUBBLICO DI MOBILITA’ VOLONTARIA PER LA COPERTURA A TEMPO PIENO ED INDETERMINATO DI N. 1 POSTO DI AGENTE DI POLIZIA LOCALE CATEGORIA C </description>
+			<a10:updated>2017-12-06T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3088344</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3088344</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
 			<title>ASSEGNAZIONE CONTRIBUTI AD ENTI RELIGIOSI AI SENSI DELLA L.R. 11 MARZO 2005, N° 12 E S.M.I. </title>
 			<description>ASSEGNAZIONE CONTRIBUTI AD ENTI RELIGIOSI AI SENSI DELLA L.R. 11 MARZO 2005, N° 12 E S.M.I. </description>
-			<a10:updated>2017-12-01T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3081246</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3081246</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 01 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3081246</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>EROGAZIONE CONTRIBUTO ECONOMICO ALLA “ASSOCIAZIONE COMMERCIO &amp; MESTIERI” DI ORZINUOVI PER LE ATTIVITA’ SVOLTE SUL TERRITORIO </title>
-			<description>EROGAZIONE CONTRIBUTO ECONOMICO ALLA “ASSOCIAZIONE COMMERCIO &amp; MESTIERI” DI ORZINUOVI PER LE ATTIVITA’ SVOLTE SUL TERRITORIO </description>
 			<a10:updated>2017-12-01T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

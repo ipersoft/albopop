@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 06 Dec 2017 11:31:35 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 06 Dec 2017 12:31:44 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Wed, 06 Dec 2017 11:31:35 +0100</pubDate>
+		<pubDate>Wed, 06 Dec 2017 12:31:44 +0100</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3088773</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3088773</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 06 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 21 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3088773</category>
+			<category domain="http://albopop.it/specs#item-category-type">DLC DELIBERA DI CONSIGLIO</category>
+			<title>VARIAZIONE AL BILANCIO DI PREVISIONE 2017/2019 </title>
+			<description>VARIAZIONE AL BILANCIO DI PREVISIONE 2017/2019 </description>
+			<a10:updated>2017-12-06T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3088593</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3088593</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 06 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 14 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3088593</category>
+			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>PUBBLICAZIONI DI MATRIMONIO DI XHELILAJ EDUART E MURANO AMALIA </title>
+			<description>PUBBLICAZIONI DI MATRIMONIO DI XHELILAJ EDUART E MURANO AMALIA </description>
+			<a10:updated>2017-12-06T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3085894</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3085894</link>
@@ -273,28 +295,6 @@
 			<title>POSTA CERTIFICATA: PROT. 1978 + GRADUATORIA DEFINITIVA </title>
 			<description>POSTA CERTIFICATA: PROT. 1978 + GRADUATORIA DEFINITIVA </description>
 			<a10:updated>2017-12-01T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3079520</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3079520</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 30 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3079520</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
-			<title>AVVISO DI RILASCIO PERMESSO DI COSTRUIRE N. 2017/0403 (SUAP 900.2017) INTESTATO A CAMATTINI MECCANICA SRL PER INTERVENTO DI VARIANTE CON AMPLIAMENTO AL PERMESSO DI COSTRUIRE N. 2016/0165 </title>
-			<description>AVVISO DI RILASCIO PERMESSO DI COSTRUIRE N. 2017/0403 (SUAP 900.2017) INTESTATO A CAMATTINI MECCANICA SRL PER INTERVENTO DI VARIANTE CON AMPLIAMENTO AL PERMESSO DI COSTRUIRE N. 2016/0165 </description>
-			<a10:updated>2017-11-30T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3078650</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3078650</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 30 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 02 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3078650</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
-			<title>AVVISO PER LA SISTEMAZIONE A TRATT. PRIVATA DELLA RIV.7 IN COLLECCHIO -PUBBLICAZIONE AVVISO </title>
-			<description>AVVISO PER LA SISTEMAZIONE A TRATT. PRIVATA DELLA RIV.7 IN COLLECCHIO -PUBBLICAZIONE AVVISO </description>
-			<a10:updated>2017-11-30T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
