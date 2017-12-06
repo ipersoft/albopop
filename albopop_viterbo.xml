@@ -5,7 +5,7 @@
 		<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Viterbo</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 06 Dec 2017 09:31:00 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 06 Dec 2017 10:30:58 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Viterbo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Viterbo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Viterbo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_viterbo</a10:id>
-		<pubDate>Wed, 06 Dec 2017 09:31:00 +0100</pubDate>
+		<pubDate>Wed, 06 Dec 2017 10:30:58 +0100</pubDate>
 		<docs>http://albopop.it/comune/viterbo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3704768</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3704768</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 06 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 21 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3704768</category>
+			<category domain="http://albopop.it/specs#item-category-type">ELENCO ABUSI EDILIZI </category>
+			<title>PROSPETTI ELENCHI ABUSI EDILIZI MESE DI DICEMBRE N.393 E 393/BIS D.P.R. 380/2001 E S.M.I. </title>
+			<description>PROSPETTI ELENCHI ABUSI EDILIZI MESE DI DICEMBRE N.393 E 393/BIS D.P.R. 380/2001 E S.M.I. </description>
+			<a10:updated>2017-12-06T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3704535</guid>
 			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3704535</link>
@@ -284,17 +295,6 @@
 			<title>AVVISO PUBBLICO PER LA RICERCA DI UN IMMOBILE IN LOCAZIONE PASSIVA AD USO UFFICI ED AMBULATORI NELL'AMBITO DEL COMUNE DI MONTEFIASCONE EMESSO DALL'AZIENDA SANITARIA LOCALE (ASL) DI VITERBO. </title>
 			<description>AVVISO PUBBLICO PER LA RICERCA DI UN IMMOBILE IN LOCAZIONE PASSIVA AD USO UFFICI ED AMBULATORI NELL'AMBITO DEL COMUNE DI MONTEFIASCONE EMESSO DALL'AZIENDA SANITARIA LOCALE (ASL) DI VITERBO. </description>
 			<a10:updated>2017-11-28T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3681223</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3681223</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 27 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 12 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3681223</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI </category>
-			<title>DETERMINA R.U. 2064 DEL 17/11/2017 RELATIVA ALLE MODIFICHE APPORTATE AD EDIFICIO SU ISTANZA DEI SIGG.RI LA PAGLIA ALESSANDRO E ROBERTO. </title>
-			<description>DETERMINA R.U. 2064 DEL 17/11/2017 RELATIVA ALLE MODIFICHE APPORTATE AD EDIFICIO SU ISTANZA DEI SIGG.RI LA PAGLIA ALESSANDRO E ROBERTO. </description>
-			<a10:updated>2017-11-27T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
