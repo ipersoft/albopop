@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 06 Dec 2017 12:31:44 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 06 Dec 2017 13:31:49 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Wed, 06 Dec 2017 12:31:44 +0100</pubDate>
+		<pubDate>Wed, 06 Dec 2017 13:31:49 +0100</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3088861</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3088861</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 06 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 21 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3088861</category>
+			<category domain="http://albopop.it/specs#item-category-type">DLC DELIBERA DI CONSIGLIO</category>
+			<title>ISTITUZIONE DEL SERVIZIO ‘MAI DA SOLI’ - SPORTELLO DI ASSISTENZA E SUPPORTO PER VITTIME DI REATI ED ALTRI ILLECITI – APPROVAZIONE PROGETTO DI FUNZIONAMENTO </title>
+			<description>ISTITUZIONE DEL SERVIZIO ‘MAI DA SOLI’ - SPORTELLO DI ASSISTENZA E SUPPORTO PER VITTIME DI REATI ED ALTRI ILLECITI – APPROVAZIONE PROGETTO DI FUNZIONAMENTO </description>
+			<a10:updated>2017-12-06T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3088859</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3088859</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 06 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 21 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3088859</category>
+			<category domain="http://albopop.it/specs#item-category-type">DLC DELIBERA DI CONSIGLIO</category>
+			<title>SDEMANIALIZZAZIONE DI RELITTO STRADALE A OZZANO TARO </title>
+			<description>SDEMANIALIZZAZIONE DI RELITTO STRADALE A OZZANO TARO </description>
+			<a10:updated>2017-12-06T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3088857</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3088857</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 06 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 21 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3088857</category>
+			<category domain="http://albopop.it/specs#item-category-type">DLC DELIBERA DI CONSIGLIO</category>
+			<title>REGOLAMENTO PER LA PREVENZIONE E IL CONTRASTO DELLE PATOLOGIE E DELLE PROBLEMATICHE LEGATE AL GIOCO D'AZZARDO LECITO - APPROVAZIONE </title>
+			<description>REGOLAMENTO PER LA PREVENZIONE E IL CONTRASTO DELLE PATOLOGIE E DELLE PROBLEMATICHE LEGATE AL GIOCO D'AZZARDO LECITO - APPROVAZIONE </description>
+			<a10:updated>2017-12-06T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3088773</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3088773</link>
@@ -262,39 +295,6 @@
 			<title>SEDE MUNICIPALE DI PIAZZA REPUBBLICA, 1 – IMPEGNO DI SPESA PER LA MANUTENZIONE DELL’IMPIANTO ELEVATORE - AFFIDAMENTO DIRETTO ALLA DITTA ELMAN S.R.L. CON SEDE IN VIA NAZIONALE, 7 – COLLECCHIO – C. FISCALE/P.IVA 00485070346. CIG Z4220F8ECF. </title>
 			<description>SEDE MUNICIPALE DI PIAZZA REPUBBLICA, 1 – IMPEGNO DI SPESA PER LA MANUTENZIONE DELL’IMPIANTO ELEVATORE - AFFIDAMENTO DIRETTO ALLA DITTA ELMAN S.R.L. CON SEDE IN VIA NAZIONALE, 7 – COLLECCHIO – C. FISCALE/P.IVA 00485070346. CIG Z4220F8ECF. </description>
 			<a10:updated>2017-11-30T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3079817</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3079817</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 30 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3079817</category>
-			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
-			<title>COSTITUZIONE DEFINITIVA DEL FONDO DELLE RISORSE DECENTRATE PER L’ANNO 2017 </title>
-			<description>COSTITUZIONE DEFINITIVA DEL FONDO DELLE RISORSE DECENTRATE PER L’ANNO 2017 </description>
-			<a10:updated>2017-11-30T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3079815</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3079815</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 30 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3079815</category>
-			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
-			<title>ESECUZIONE ACCORDO TRANSATTIVO RELATIVO ALLA SENTENZA DELLA CORTE DI APPELLO DI BOLOGNA N. 699/2017 – RIPRISTINO RAPPORTO DI LAVORO DI SILVIA MALPELI E IMPEGNO DI SPESA </title>
-			<description>ESECUZIONE ACCORDO TRANSATTIVO RELATIVO ALLA SENTENZA DELLA CORTE DI APPELLO DI BOLOGNA N. 699/2017 – RIPRISTINO RAPPORTO DI LAVORO DI SILVIA MALPELI E IMPEGNO DI SPESA </description>
-			<a10:updated>2017-11-30T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3079691</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3079691</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 01 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 31 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3079691</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
-			<title>POSTA CERTIFICATA: PROT. 1978 + GRADUATORIA DEFINITIVA </title>
-			<description>POSTA CERTIFICATA: PROT. 1978 + GRADUATORIA DEFINITIVA </description>
-			<a10:updated>2017-12-01T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
