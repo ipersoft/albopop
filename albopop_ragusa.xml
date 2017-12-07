@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 07 Dec 2017 17:31:31 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 07 Dec 2017 18:32:03 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Thu, 07 Dec 2017 17:31:31 +0100</pubDate>
+		<pubDate>Thu, 07 Dec 2017 18:32:03 +0100</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3092588</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3092588</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 07 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3092588</category>
+			<category domain="http://albopop.it/specs#item-category-type">ACCERTAMENTO</category>
+			<title>PUBBLICAZIONE DI NOTIFICA AI SENSI DELL'ART. 60 DEL D.P.R. 600/73 A CARICO DI AM HOLDING SRL CSO MAZZINI 210 </title>
+			<description>PUBBLICAZIONE DI NOTIFICA AI SENSI DELL'ART. 60 DEL D.P.R. 600/73 A CARICO DI AM HOLDING SRL CSO MAZZINI 210 </description>
+			<a10:updated>2017-12-07T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3092474</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3092474</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
 			<title>INTEGRAZIONE IMPEGNO DI SPESA N. 325 DELLA DETERMINAZIONE DIRIGENZIALE N. 260 DEL 23/02/2017 PER I SERVIZI COMPLEMENTARI PER FUNZIONAMENTO CANILE SANITARIO COMUNALE ALLA DITTA PENSIERI BESTIALI A.S.D. </title>
 			<description>INTEGRAZIONE IMPEGNO DI SPESA N. 325 DELLA DETERMINAZIONE DIRIGENZIALE N. 260 DEL 23/02/2017 PER I SERVIZI COMPLEMENTARI PER FUNZIONAMENTO CANILE SANITARIO COMUNALE ALLA DITTA PENSIERI BESTIALI A.S.D. </description>
-			<a10:updated>2017-12-07T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3091928</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3091928</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 07 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 06 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3091928</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISO</category>
-			<title>PUBBLICAZIONE MANIFESTO DEI CANDIDATI ELETTI ELEZIONE DEL PRESIDENTE DELLA REGIONE E DELL'ASSEMBLEA REGIONALE SICILIANA DEL 5 NOVEMBRE 2017 </title>
-			<description>PUBBLICAZIONE MANIFESTO DEI CANDIDATI ELETTI ELEZIONE DEL PRESIDENTE DELLA REGIONE E DELL'ASSEMBLEA REGIONALE SICILIANA DEL 5 NOVEMBRE 2017 </description>
 			<a10:updated>2017-12-07T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
