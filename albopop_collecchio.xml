@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 06 Dec 2017 18:31:51 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 07 Dec 2017 08:31:20 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Wed, 06 Dec 2017 18:31:51 +0100</pubDate>
+		<pubDate>Thu, 07 Dec 2017 08:31:20 +0100</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3089975</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3089975</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 07 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 22 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3089975</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO ON LINE ORDINANZE E AVVISI</category>
+			<title>MODIFICHE TEMPORANEE ALLA VIABILITA’ IN VIA LISBONA A COLLECCHIO PER LAVORI DI COMPLETAMENTO MARCIAPIEDI </title>
+			<description>MODIFICHE TEMPORANEE ALLA VIABILITA’ IN VIA LISBONA A COLLECCHIO PER LAVORI DI COMPLETAMENTO MARCIAPIEDI </description>
+			<a10:updated>2017-12-07T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3088861</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3088861</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
 			<title>LAVORI DI TOMBINATURA FOSSO STRADA BALESTRIERI. – APPROVAZIONE DEL PROGETTO ESECUTIVO, IMPEGNO DI SPESA ED AFFIDAMENTO LAVORI ALLA DITTA GALVANI GIORGIO S.N.C. DI SAN PANCRAZIO CON SEDE IN P.ZZLE FARABOLI N° 19/A – CF/P.IVA: 01843480342 - CIG: Z4520C446A – CUP G98H17000010004. </title>
 			<description>LAVORI DI TOMBINATURA FOSSO STRADA BALESTRIERI. – APPROVAZIONE DEL PROGETTO ESECUTIVO, IMPEGNO DI SPESA ED AFFIDAMENTO LAVORI ALLA DITTA GALVANI GIORGIO S.N.C. DI SAN PANCRAZIO CON SEDE IN P.ZZLE FARABOLI N° 19/A – CF/P.IVA: 01843480342 - CIG: Z4520C446A – CUP G98H17000010004. </description>
-			<a10:updated>2017-11-30T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3079860</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3079860</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 30 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3079860</category>
-			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
-			<title>SEDE MUNICIPALE DI PIAZZA REPUBBLICA, 1 – IMPEGNO DI SPESA PER LA MANUTENZIONE DELL’IMPIANTO ELEVATORE - AFFIDAMENTO DIRETTO ALLA DITTA ELMAN S.R.L. CON SEDE IN VIA NAZIONALE, 7 – COLLECCHIO – C. FISCALE/P.IVA 00485070346. CIG Z4220F8ECF. </title>
-			<description>SEDE MUNICIPALE DI PIAZZA REPUBBLICA, 1 – IMPEGNO DI SPESA PER LA MANUTENZIONE DELL’IMPIANTO ELEVATORE - AFFIDAMENTO DIRETTO ALLA DITTA ELMAN S.R.L. CON SEDE IN VIA NAZIONALE, 7 – COLLECCHIO – C. FISCALE/P.IVA 00485070346. CIG Z4220F8ECF. </description>
 			<a10:updated>2017-11-30T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
