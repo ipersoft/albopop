@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 07 Dec 2017 09:30:59 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 07 Dec 2017 10:30:47 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Thu, 07 Dec 2017 09:30:59 +0100</pubDate>
+		<pubDate>Thu, 07 Dec 2017 10:30:47 +0100</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3708236</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3708236</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 07 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 22 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3708236</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>LIQUIDAZIONE FATTURA CONTRATTO ASSISTENZA INFORMATICA SECONDO SEMESTRE 2017 – DITTA SAIES S.R.L. </title>
+			<description>LIQUIDAZIONE FATTURA CONTRATTO ASSISTENZA INFORMATICA SECONDO SEMESTRE 2017 – DITTA SAIES S.R.L. </description>
+			<a10:updated>2017-12-07T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3707459</guid>
 			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3707459</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DELIBERAZIONE DI GIUNTA COMUNALE</category>
 			<title>APPROVAZIONE RELAZIONE FINALE SUI PROGETTI “I.C.I. AREE EDIFICABILI” E I.C.I. FABBRICATI” ESERCIZIO 2013 </title>
 			<description>APPROVAZIONE RELAZIONE FINALE SUI PROGETTI “I.C.I. AREE EDIFICABILI” E I.C.I. FABBRICATI” ESERCIZIO 2013 </description>
-			<a10:updated>2017-12-05T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3701968</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3701968</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 05 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 20 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3701968</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DELIBERAZIONE DI GIUNTA COMUNALE</category>
-			<title>INDIVIDUAZIONE DELEGAZIONE TRATTANTE DI PARTE PUBBLICA PER SESSIONE NEGOZIALE CCDI 2017 - 2020 AI SENSI ART. 10 C.C.N.L. 1.04.1999 </title>
-			<description>INDIVIDUAZIONE DELEGAZIONE TRATTANTE DI PARTE PUBBLICA PER SESSIONE NEGOZIALE CCDI 2017 - 2020 AI SENSI ART. 10 C.C.N.L. 1.04.1999 </description>
 			<a10:updated>2017-12-05T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
