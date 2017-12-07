@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 07 Dec 2017 08:31:19 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 07 Dec 2017 09:32:09 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Thu, 07 Dec 2017 08:31:19 +0100</pubDate>
+		<pubDate>Thu, 07 Dec 2017 09:32:09 +0100</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3090033</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3090033</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 07 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 22 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3090033</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE TITOLI EDILIZI RILASCIATI</category>
+			<title>CONCESSIONE A SANATORIA (CONDONO EDILIZIO EX LEGGE 47/85) N. 113 DEL 07/12/2017 - RIF. UT 4983/1986 - RELATIVO ALLA COSTRUZIONE DI UN'ADIACENZA ADIBITA A GARAGE E CANTINE, RISTRUTTURAZIONE DELL'ABITAZIONE ED AMPLIAMENTO DELLA STESSA AL PIANO TERRA, CON RICAVO DI CUCINA E W.C., IN VIA BUSOVECCHIO N. 49/C, ROVIGO. </title>
+			<description>CONCESSIONE A SANATORIA (CONDONO EDILIZIO EX LEGGE 47/85) N. 113 DEL 07/12/2017 - RIF. UT 4983/1986 - RELATIVO ALLA COSTRUZIONE DI UN'ADIACENZA ADIBITA A GARAGE E CANTINE, RISTRUTTURAZIONE DELL'ABITAZIONE ED AMPLIAMENTO DELLA STESSA AL PIANO TERRA, CON RICAVO DI CUCINA E W.C., IN VIA BUSOVECCHIO N. 49/C, ROVIGO. </description>
+			<a10:updated>2017-12-07T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3089173</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3089173</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
 			<title>IMPEGNO DI SPESA PER CAST ARTISTICO 'OPERA LIRICA "TOSCA” DI G. PUCCINI STAGIONE LIRICA 2017 </title>
 			<description>IMPEGNO DI SPESA PER CAST ARTISTICO 'OPERA LIRICA "TOSCA” DI G. PUCCINI STAGIONE LIRICA 2017 </description>
-			<a10:updated>2017-12-05T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3087122</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3087122</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 05 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 20 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3087122</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DELIBERE DI CONSIGLIO</category>
-			<title>APPROVAZIONE VERBALE DEL 27.10.2017 </title>
-			<description>APPROVAZIONE VERBALE DEL 27.10.2017 </description>
 			<a10:updated>2017-12-05T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
