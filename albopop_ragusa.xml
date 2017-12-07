@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 07 Dec 2017 10:31:46 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 07 Dec 2017 11:31:30 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Thu, 07 Dec 2017 10:31:46 +0100</pubDate>
+		<pubDate>Thu, 07 Dec 2017 11:31:30 +0100</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3090532</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3090532</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 07 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3090532</category>
+			<category domain="http://albopop.it/specs#item-category-type">ACCERTAMENTO</category>
+			<title>PUBBLICAZIONE ART.60 A CARICO DI DINATALE ROSARIO, ECHI HASSEN, LACOGNATA ALICE, FERDJANI JAMEL, CILIA GIOVANNA, CASSISI ROCCO, DISTEFANO ROSARIO,GULINO CARMELA, FERRISI FORTUNATO, ALONGI ROSA, PARRINO ALESSANDRA, CAMPAGNOLO MARIA, LA COGNATA CARMELO, RUSSO SALVATORE, AMAMOU FOUED, FILAJ SALI, DINATALE ROSARIO, ATIA SALEM, SALONIA GIUSEPPINA, BEN MBAREK AKRAM, PLATANIA GIUSEPPINA, BEN ABDENNABI JAMEL, GUARDIANO GINA, CAMPO VINCENZO, CAPPELLO GIUSEPPE, FARINATO GIOVANNI </title>
+			<description>PUBBLICAZIONE ART.60 A CARICO DI DINATALE ROSARIO, ECHI HASSEN, LACOGNATA ALICE, FERDJANI JAMEL, CILIA GIOVANNA, CASSISI ROCCO, DISTEFANO ROSARIO,GULINO CARMELA, FERRISI FORTUNATO, ALONGI ROSA, PARRINO ALESSANDRA, CAMPAGNOLO MARIA, LA COGNATA CARMELO, RUSSO SALVATORE, AMAMOU FOUED, FILAJ SALI, DINATALE ROSARIO, ATIA SALEM, SALONIA GIUSEPPINA, BEN MBAREK AKRAM, PLATANIA GIUSEPPINA, BEN ABDENNABI JAMEL, GUARDIANO GINA, CAMPO VINCENZO, CAPPELLO GIUSEPPE, FARINATO GIOVANNI </description>
+			<a10:updated>2017-12-07T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3090444</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3090444</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">AVVISO CARTELLE ESATTORIALI ART. 140</category>
 			<title>PUBBLICAZIONE ART.140 A CARICO DI MARINO NUNZIO ED ALTRI </title>
 			<description>PUBBLICAZIONE ART.140 A CARICO DI MARINO NUNZIO ED ALTRI </description>
-			<a10:updated>2017-12-06T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3087975</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3087975</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 06 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 07 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3087975</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISO CARTELLE ESATTORIALI ART. 140</category>
-			<title>PUBBLICAZIONE ART.140 A CARICO DI GARRAFA GIUSEPPE ED ALTRI </title>
-			<description>PUBBLICAZIONE ART.140 A CARICO DI GARRAFA GIUSEPPE ED ALTRI </description>
 			<a10:updated>2017-12-06T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
