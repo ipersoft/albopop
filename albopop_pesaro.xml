@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 09 Dec 2017 09:30:49 +0100</lastBuildDate>
+		<lastBuildDate>Sat, 09 Dec 2017 10:30:43 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Sat, 09 Dec 2017 09:30:49 +0100</pubDate>
+		<pubDate>Sat, 09 Dec 2017 10:30:43 +0100</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/831957</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/831957</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 09 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 18 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">831957</category>
+			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO RICHIESTA PUBBLICAZIONE MATRIMONIO ALBO</category>
+			<title>PUBBLICAZIONI DI MATRIMONIO DI MENEGHINI LORENZO E BERNARDIS MANUELA </title>
+			<description>PUBBLICAZIONI DI MATRIMONIO DI MENEGHINI LORENZO E BERNARDIS MANUELA </description>
+			<a10:updated>2017-12-09T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/831934</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/831934</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>COMUNE DI CORIANO - RECUPERO SPESE DI NOTIFICA PER ACCERTAMENTI IMU </title>
 			<description>COMUNE DI CORIANO - RECUPERO SPESE DI NOTIFICA PER ACCERTAMENTI IMU </description>
-			<a10:updated>2017-12-07T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/831320</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/831320</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 07 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 22 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">831320</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>PROGETTO EUROPEO LIFE SEC-ADAPT; ACCERTAMENTO ENTRATA E IMPEGNO DI SPESA PER MATERIALE PUBBLICITARIO E RIMBORSO SPESE VIAGGIO. </title>
-			<description>PROGETTO EUROPEO LIFE SEC-ADAPT; ACCERTAMENTO ENTRATA E IMPEGNO DI SPESA PER MATERIALE PUBBLICITARIO E RIMBORSO SPESE VIAGGIO. </description>
 			<a10:updated>2017-12-07T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
