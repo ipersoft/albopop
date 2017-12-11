@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 11 Dec 2017 08:33:42 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 11 Dec 2017 09:31:50 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Mon, 11 Dec 2017 08:33:42 +0100</pubDate>
+		<pubDate>Mon, 11 Dec 2017 09:31:50 +0100</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3712370</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3712370</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 11 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 09 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3712370</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI E BANDI VARI</category>
+			<title>PROLUNGAMENTO FOGNATURA NERA VIA DI S.ALESSIO- PUBBLICAZIONE AVVISI AI CREDITORI - PROT. GEAL N. 985 </title>
+			<description>PROLUNGAMENTO FOGNATURA NERA VIA DI S.ALESSIO- PUBBLICAZIONE AVVISI AI CREDITORI - PROT. GEAL N. 985 </description>
+			<a10:updated>2017-12-11T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3712369</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3712369</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 11 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 09 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3712369</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI E BANDI VARI</category>
+			<title>GEAL - PROLUNGAMENTO FOGNATURA VIA DELLA CHIESA E VIA DEL BOZZONE-PUBBLICAZIONE AVVISI AI CREDITORI - PROT. GEAL N. 984 </title>
+			<description>GEAL - PROLUNGAMENTO FOGNATURA VIA DELLA CHIESA E VIA DEL BOZZONE-PUBBLICAZIONE AVVISI AI CREDITORI - PROT. GEAL N. 984 </description>
+			<a10:updated>2017-12-11T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3712185</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3712185</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 11 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 26 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3712185</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONVOCAZIONI</category>
+			<title> CONVOCAZIONE D'URGENZA DELLA COMMISSIONE CONSILIARE PER LE POLITICHE DI BILANCIO E SVILUPPO ECONOMICO DEL TERRITORIO PER MARTEDÌ 12 DICEMBRE ORE 8.30 </title>
+			<description> CONVOCAZIONE D'URGENZA DELLA COMMISSIONE CONSILIARE PER LE POLITICHE DI BILANCIO E SVILUPPO ECONOMICO DEL TERRITORIO PER MARTEDÌ 12 DICEMBRE ORE 8.30 </description>
+			<a10:updated>2017-12-11T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3711968</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3711968</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
 			<title>VIA S.GEMMA GALGANI,CENTRO STORICO,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE,DAL 11/12/2017 AL 14/12/2017. </title>
 			<description>VIA S.GEMMA GALGANI,CENTRO STORICO,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE,DAL 11/12/2017 AL 14/12/2017. </description>
-			<a10:updated>2017-12-07T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3709484</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3709484</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 07 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 22 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3709484</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>VIA DEI BACCHETTONI, CENTRO STORICO, ISTITUZIONE DEL DIVIETO DI SOSTA CON RIMOZIONE COTTA PER IL GIORNO 13 DICEMBRE 2017 DALLE ORE 8:30 ALLE ORE 11:30. </title>
-			<description>VIA DEI BACCHETTONI, CENTRO STORICO, ISTITUZIONE DEL DIVIETO DI SOSTA CON RIMOZIONE COTTA PER IL GIORNO 13 DICEMBRE 2017 DALLE ORE 8:30 ALLE ORE 11:30. </description>
-			<a10:updated>2017-12-07T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3709481</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3709481</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 07 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 22 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3709481</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>PROCEDURA NEGOZIATA AI SENSI DELL’ART. 36, C.2 LETT. C) DEL D.LGS. N. 50/2016 E S.M. PER L'AFFIDAMENTO DEI LAVORI RELATIVI AL PROGETTO DI INNOVAZIONE URBANA REGIONE TOSCANA POR FESR 2014-2020 ASSE 6 URBANO – QUARTIERI SOCIAL SANT'ANNA” - COMPLETAMENTO DEL PERCORSO CICLOPEDONALE IN VIALE PUCCINI NEL TRATTO TRA VIA VECCHI PARDINI E VIALE EINAUDI - CIG 7271544BED- SOSTITUZIONE COMPONENTE DEL SEGGIO DI GARA </title>
-			<description>PROCEDURA NEGOZIATA AI SENSI DELL’ART. 36, C.2 LETT. C) DEL D.LGS. N. 50/2016 E S.M. PER L'AFFIDAMENTO DEI LAVORI RELATIVI AL PROGETTO DI INNOVAZIONE URBANA REGIONE TOSCANA POR FESR 2014-2020 ASSE 6 URBANO – QUARTIERI SOCIAL SANT'ANNA” - COMPLETAMENTO DEL PERCORSO CICLOPEDONALE IN VIALE PUCCINI NEL TRATTO TRA VIA VECCHI PARDINI E VIALE EINAUDI - CIG 7271544BED- SOSTITUZIONE COMPONENTE DEL SEGGIO DI GARA </description>
-			<a10:updated>2017-12-07T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3708191</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3708191</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 07 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 22 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3708191</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>PROROGA ORDINANZA N.2039 DEL 6/12/2017,MODIFCHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE IN VIA SARZANESE,FRAZIONE DI S.ANNA,FINO AL 13/12/2017. </title>
-			<description>PROROGA ORDINANZA N.2039 DEL 6/12/2017,MODIFCHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE IN VIA SARZANESE,FRAZIONE DI S.ANNA,FINO AL 13/12/2017. </description>
 			<a10:updated>2017-12-07T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
