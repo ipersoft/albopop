@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 11 Dec 2017 12:33:26 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 11 Dec 2017 13:31:52 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Mon, 11 Dec 2017 12:33:26 +0100</pubDate>
+		<pubDate>Mon, 11 Dec 2017 13:31:52 +0100</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3094239</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3094239</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 11 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 26 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3094239</category>
+			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
+			<title>NOLEGGIO MACCHINE FOTOCOPIATRICI IN DOTAZIONE AL SETTORE I - SEGRETERIA ED AFFARI GENERALI - LIQUIDAZIONE FATTURE IN FAVORE DELLA DITTA RICOH ITALIA SRL CIG: ZE71C8D9BF </title>
+			<description>NOLEGGIO MACCHINE FOTOCOPIATRICI IN DOTAZIONE AL SETTORE I - SEGRETERIA ED AFFARI GENERALI - LIQUIDAZIONE FATTURE IN FAVORE DELLA DITTA RICOH ITALIA SRL CIG: ZE71C8D9BF </description>
+			<a10:updated>2017-12-11T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3094099</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3094099</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DI GIUNTA DELIBERA DI GIUNTA</category>
 			<title>PRELEVAMENTO DAL FONDO DI RISERVA </title>
 			<description>PRELEVAMENTO DAL FONDO DI RISERVA </description>
-			<a10:updated>2017-12-07T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3091728</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3091728</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 07 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 22 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3091728</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DI GIUNTA DELIBERA DI GIUNTA</category>
-			<title>APPROVAZIONE INIZIATIVA, PROGETTO PRELIMINARE, NOMINA R.U.P. E CONFERIMENYO MANDATO AL LEGALE RAPPRESENTANTE DEL COMUNE DI CAPRI PER LA PRODUZIONE ALLA REGIONE CAMPANIA DELL'ISTANZA DI FINANAZIAMENTO DELLA PIANIFICAZIONE DI EMERGENZA COMUNALE- AVVISO PUBBLICO APPROVATO CON DECR. DIRG. N.74 DEL 30.08.2017 DELLA DIREZIONE GENERALE 9,PUBBLICATO SUL BURC N.66 DEL 4.06.2017 E COME SUCCESSIVAMENTE MODIFICATO DAL DECR. DIR. N.,121 DEL 20.10.2017 DELLA STESSA DIR. GEN., PUBBLICATO SUL BURC N.76. </title>
-			<description>APPROVAZIONE INIZIATIVA, PROGETTO PRELIMINARE, NOMINA R.U.P. E CONFERIMENYO MANDATO AL LEGALE RAPPRESENTANTE DEL COMUNE DI CAPRI PER LA PRODUZIONE ALLA REGIONE CAMPANIA DELL'ISTANZA DI FINANAZIAMENTO DELLA PIANIFICAZIONE DI EMERGENZA COMUNALE- AVVISO PUBBLICO APPROVATO CON DECR. DIRG. N.74 DEL 30.08.2017 DELLA DIREZIONE GENERALE 9,PUBBLICATO SUL BURC N.66 DEL 4.06.2017 E COME SUCCESSIVAMENTE MODIFICATO DAL DECR. DIR. N.,121 DEL 20.10.2017 DELLA STESSA DIR. GEN., PUBBLICATO SUL BURC N.76. </description>
 			<a10:updated>2017-12-07T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
