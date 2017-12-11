@@ -5,7 +5,7 @@
 		<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bitonto</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 11 Dec 2017 10:30:37 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 11 Dec 2017 11:31:38 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bitonto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Bari</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bitonto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bitonto</a10:id>
-		<pubDate>Mon, 11 Dec 2017 10:30:37 +0100</pubDate>
+		<pubDate>Mon, 11 Dec 2017 11:31:38 +0100</pubDate>
 		<docs>http://albopop.it/comune/bitonto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3713148</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3713148</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 11 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 26 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3713148</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISI COMUNALI</category>
+			<title>AVVISO DI GARA : AFFIDAMENTO DEI LAVORI DI MANUTENZIONE ORDINARIA ALBERATURE DEL CAPOLUOGO E DELLE FRAZIONI . </title>
+			<description>AVVISO DI GARA : AFFIDAMENTO DEI LAVORI DI MANUTENZIONE ORDINARIA ALBERATURE DEL CAPOLUOGO E DELLE FRAZIONI . </description>
+			<a10:updated>2017-12-11T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3712817</guid>
 			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3712817</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
 			<title>VIA G. MATTEOTTI - CIVV. 37/49 DIVIETO DI SOSTA CON RIMOZIONE ILl 09/12/2017 - PER VENDITA STRAORDINARIA "MASTRANGELO" </title>
 			<description>VIA G. MATTEOTTI - CIVV. 37/49 DIVIETO DI SOSTA CON RIMOZIONE ILl 09/12/2017 - PER VENDITA STRAORDINARIA "MASTRANGELO" </description>
-			<a10:updated>2017-12-06T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3704426</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3704426</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 06 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 21 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3704426</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
-			<title>VIA F. APORTI - PIAZZA MOROSINI E PIAZZA MINERVA - DIVIETO DI CIRCOLAZIONE E SOSTA CON RIMOZIONE - IL GIORNO 13/12/2017 PER FALO' DI SANTA LUCIA - "RE PAMPANELLE" </title>
-			<description>VIA F. APORTI - PIAZZA MOROSINI E PIAZZA MINERVA - DIVIETO DI CIRCOLAZIONE E SOSTA CON RIMOZIONE - IL GIORNO 13/12/2017 PER FALO' DI SANTA LUCIA - "RE PAMPANELLE" </description>
 			<a10:updated>2017-12-06T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

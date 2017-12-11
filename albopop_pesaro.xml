@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 11 Dec 2017 10:30:57 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 11 Dec 2017 11:32:53 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Mon, 11 Dec 2017 10:30:57 +0100</pubDate>
+		<pubDate>Mon, 11 Dec 2017 11:32:53 +0100</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/832353</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/832353</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 11 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 26 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">832353</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>CONTRATTO DI CONCESSIONE IN COMODATO ALLA FONDAZIONE PER LA LOTTA CONTRO L'INFARTO ONLUS DI LOCALI SITI AL CIVICO N. 18/A DEL COMPLESSO IMMOBILIARE DI VIA PETRARCA. </title>
+			<description>CONTRATTO DI CONCESSIONE IN COMODATO ALLA FONDAZIONE PER LA LOTTA CONTRO L'INFARTO ONLUS DI LOCALI SITI AL CIVICO N. 18/A DEL COMPLESSO IMMOBILIARE DI VIA PETRARCA. </description>
+			<a10:updated>2017-12-11T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/832332</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/832332</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>CONCESSIONE IN USO ALLA DITTA GALLERY HOLDING S.P.A. DI UNO SPAZIO ESPOSITIVO SUL MURO ESTERNO DI PALAZZO GRADARI ATTIGUO AL CIVICO N. 20 DI VIA ROSSINI COSTITUITO DA UNA VETRINETTA DA ADIBIRE A MOSTRA DI OGGETTISTICA PER ABBIGLIAMENTO. ASSUNZIONE ACCERTAMENTO ENTRATA. </title>
 			<description>CONCESSIONE IN USO ALLA DITTA GALLERY HOLDING S.P.A. DI UNO SPAZIO ESPOSITIVO SUL MURO ESTERNO DI PALAZZO GRADARI ATTIGUO AL CIVICO N. 20 DI VIA ROSSINI COSTITUITO DA UNA VETRINETTA DA ADIBIRE A MOSTRA DI OGGETTISTICA PER ABBIGLIAMENTO. ASSUNZIONE ACCERTAMENTO ENTRATA. </description>
-			<a10:updated>2017-12-07T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/831795</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/831795</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 07 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 22 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">831795</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>DITTA GRUPPO INFORMATICA E SERVIZI G.I.E.S. S.R.L. AFFIDAMENTO SERVIZIO DI ASSISTENZA "A TEMPO" SU APPLICATIVI BABYLON E ISHTAR - ASSUNZIONE IMPEGNO DI SPESA CIG Z991F0D859 </title>
-			<description>DITTA GRUPPO INFORMATICA E SERVIZI G.I.E.S. S.R.L. AFFIDAMENTO SERVIZIO DI ASSISTENZA "A TEMPO" SU APPLICATIVI BABYLON E ISHTAR - ASSUNZIONE IMPEGNO DI SPESA CIG Z991F0D859 </description>
 			<a10:updated>2017-12-07T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
