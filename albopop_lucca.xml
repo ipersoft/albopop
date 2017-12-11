@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 11 Dec 2017 13:31:43 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 11 Dec 2017 14:32:53 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Mon, 11 Dec 2017 13:31:43 +0100</pubDate>
+		<pubDate>Mon, 11 Dec 2017 14:32:53 +0100</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3714170</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3714170</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 11 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 26 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3714170</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRO</category>
+			<title>ANNULLAMENTO SEDUTA DI CONSIGLIO COMUNALE DI LUNEDÌ 11 DICEMBRE 2017 PER ALLERTA METEO </title>
+			<description>ANNULLAMENTO SEDUTA DI CONSIGLIO COMUNALE DI LUNEDÌ 11 DICEMBRE 2017 PER ALLERTA METEO </description>
+			<a10:updated>2017-12-11T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3713582</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3713582</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
 			<title>ORDINANZA CONTINGIBILE ED URGENTE PER L'ABBATTIMENTO DI DUE IPPOCASTANI NEL GIARDINO DELLA SCUOLA GIOVANNI PASCOLI E DI UN TIGLIO SULLA CORTINA DELLE MURA URBANE IN CORRISPONDENZA DI VIA BUIAMONTI. </title>
 			<description>ORDINANZA CONTINGIBILE ED URGENTE PER L'ABBATTIMENTO DI DUE IPPOCASTANI NEL GIARDINO DELLA SCUOLA GIOVANNI PASCOLI E DI UN TIGLIO SULLA CORTINA DELLE MURA URBANE IN CORRISPONDENZA DI VIA BUIAMONTI. </description>
-			<a10:updated>2017-12-07T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3709861</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3709861</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 07 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 22 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3709861</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>FIERA DELL’IMMACOLATA -FRAZIONE SALTOCCHIO : MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE E ALLA SOSTA IN VIA DELLA CHIESA DI SALTOCCHIO E VIABILITA' LIMITROFE IL GIORNO 8 DICEMBRE 2017. </title>
-			<description>FIERA DELL’IMMACOLATA -FRAZIONE SALTOCCHIO : MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE E ALLA SOSTA IN VIA DELLA CHIESA DI SALTOCCHIO E VIABILITA' LIMITROFE IL GIORNO 8 DICEMBRE 2017. </description>
 			<a10:updated>2017-12-07T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
