@@ -5,7 +5,7 @@
 		<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Felino</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 12 Dec 2017 08:30:44 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 12 Dec 2017 09:31:03 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Felino</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Felino</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_felino</a10:id>
-		<pubDate>Tue, 12 Dec 2017 08:30:44 +0100</pubDate>
+		<pubDate>Tue, 12 Dec 2017 09:31:03 +0100</pubDate>
 		<docs>http://albopop.it/comune/felino/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3095337</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3095337</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 12 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 13 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3095337</category>
+			<category domain="http://albopop.it/specs#item-category-type">A005 ORDINANZE E AVVISI</category>
+			<title>ATTIVAZIONE CENTRO OPERATIVO COMUNALE (COC) PER EVENTO ALLERTA IDRAULICA ED IDROGEOLOGICA </title>
+			<description>ATTIVAZIONE CENTRO OPERATIVO COMUNALE (COC) PER EVENTO ALLERTA IDRAULICA ED IDROGEOLOGICA </description>
+			<a10:updated>2017-12-12T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3091136</guid>
 			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3091136</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
 			<title>DELIBERA DI GIUNTA REGIONALE N. 831 DEL 12/06/2017 “MODALITÀ APPLICATIVE DEL DIVIETO ALLE SALE GIOCO E ALLE SALE SCOMMESSE E ALLA NUOVA INSTALLAZIONE DI APPARECCHI PER IL GIOCO DI AZZARDO LECITO. INDIVIDUAZIONE DEI LUOGHI SENSIBILI E RELATIVI PERCORSI. </title>
 			<description>DELIBERA DI GIUNTA REGIONALE N. 831 DEL 12/06/2017 “MODALITÀ APPLICATIVE DEL DIVIETO ALLE SALE GIOCO E ALLE SALE SCOMMESSE E ALLA NUOVA INSTALLAZIONE DI APPARECCHI PER IL GIOCO DI AZZARDO LECITO. INDIVIDUAZIONE DEI LUOGHI SENSIBILI E RELATIVI PERCORSI. </description>
-			<a10:updated>2017-12-11T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3090716</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3090716</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 11 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 26 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3090716</category>
-			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
-			<title>ABBONAMENTI A PERIODICI BIBLIOTECA COMUNALE 2017-2018. </title>
-			<description>ABBONAMENTI A PERIODICI BIBLIOTECA COMUNALE 2017-2018. </description>
 			<a10:updated>2017-12-11T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
