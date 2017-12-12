@@ -5,7 +5,7 @@
 		<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/igrid/1210528</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Celle di Bulgheria</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 12 Dec 2017 13:30:37 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 12 Dec 2017 14:30:35 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Celle di Bulgheria</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Salerno</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Celle di Bulgheria</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_celledibulgheria</a10:id>
-		<pubDate>Tue, 12 Dec 2017 13:30:37 +0100</pubDate>
+		<pubDate>Tue, 12 Dec 2017 14:30:35 +0100</pubDate>
 		<docs>http://albopop.it/comune/celledibulgheria/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/3097117</guid>
+			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/3097117</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 12 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 27 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3097117</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
+			<title>LIQUIDAZIONE DI SPESA ALLA DITTA SRA SRL DI POLLA PER PRELIEVO TRASPORTO CONFERIMENTO E SMALTIMENTO INGOMBRANTI A TUTTO IL 30/11/2017 CIG Z251CD5D65 </title>
+			<description>LIQUIDAZIONE DI SPESA ALLA DITTA SRA SRL DI POLLA PER PRELIEVO TRASPORTO CONFERIMENTO E SMALTIMENTO INGOMBRANTI A TUTTO IL 30/11/2017 CIG Z251CD5D65 </description>
+			<a10:updated>2017-12-12T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/3096278</guid>
 			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/3096278</link>
@@ -228,17 +239,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>LIQUIDAZIONE DI SPESA PER SPESE POSTALI CONTI DI CREDITO. CIG ZB01D82F6D </title>
 			<description>LIQUIDAZIONE DI SPESA PER SPESE POSTALI CONTI DI CREDITO. CIG ZB01D82F6D </description>
-			<a10:updated>2017-12-07T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/3092216</guid>
-			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/3092216</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 07 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 22 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3092216</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>LIQUIDAZIONE COMPENSO PER TIROCINI FORMATIVI ANNO 2017. </title>
-			<description>LIQUIDAZIONE COMPENSO PER TIROCINI FORMATIVI ANNO 2017. </description>
 			<a10:updated>2017-12-07T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
