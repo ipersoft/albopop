@@ -5,7 +5,7 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 12 Dec 2017 15:31:26 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 12 Dec 2017 16:31:12 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Isernia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>Tue, 12 Dec 2017 15:31:26 +0100</pubDate>
+		<pubDate>Tue, 12 Dec 2017 16:31:12 +0100</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3718655</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3718655</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 12 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 27 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3718655</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
+			<title>ULTERIORE INTEGRAZIONE LIQUIDAZIONE LAVORO STRAORDINARIO PRESTATO DAI DIPENDENTI DELLA P.M. (PERIODO GIUGNO-SETTEMBRE 2017) </title>
+			<description>ULTERIORE INTEGRAZIONE LIQUIDAZIONE LAVORO STRAORDINARIO PRESTATO DAI DIPENDENTI DELLA P.M. (PERIODO GIUGNO-SETTEMBRE 2017) </description>
+			<a10:updated>2017-12-12T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3718249</guid>
 			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3718249</link>
@@ -284,17 +295,6 @@
 			<title>APPROVAZIONE STIMA ACCERTAMENTO CONTABILE DI CONSUMI IDRICI, ACQUE REFLUE E DEPURAZIONE PER L'ANNO 2017.- </title>
 			<description>APPROVAZIONE STIMA ACCERTAMENTO CONTABILE DI CONSUMI IDRICI, ACQUE REFLUE E DEPURAZIONE PER L'ANNO 2017.- </description>
 			<a10:updated>2017-12-07T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3707343</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3707343</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 06 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 21 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3707343</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
-			<title>Liquidazione servizi di pulizia di bagni pubblici, del sottopassaggio ferroviario , della biblioteca comunale, nonché di apertura, chiusura e pulizia del cimitero di Castelromano. Ditta IL TRIANGOLO. </title>
-			<description>Liquidazione servizi di pulizia di bagni pubblici, del sottopassaggio ferroviario , della biblioteca comunale, nonché di apertura, chiusura e pulizia del cimitero di Castelromano. Ditta IL TRIANGOLO. </description>
-			<a10:updated>2017-12-06T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>

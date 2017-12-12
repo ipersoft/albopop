@@ -5,7 +5,7 @@
 		<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Busnago</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 12 Dec 2017 15:31:08 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 12 Dec 2017 16:31:01 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Busnago</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Busnago</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_busnago</a10:id>
-		<pubDate>Tue, 12 Dec 2017 15:31:08 +0100</pubDate>
+		<pubDate>Tue, 12 Dec 2017 16:31:01 +0100</pubDate>
 		<docs>http://albopop.it/comune/busnago/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3718466</guid>
+			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3718466</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 12 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 08 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3718466</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI PUBBLICI AVVISO BANDO DI MOBILITÀ ESTERNA</category>
+			<title>COMUNE DI BESANA IN BRIANZA: AVVISI DI MOBILITA' PER UN POSTO DI AGENTE DI POLIZIA LOCALE E UNO SPECIALISTA TECNICO D.3 </title>
+			<description>COMUNE DI BESANA IN BRIANZA: AVVISI DI MOBILITA' PER UN POSTO DI AGENTE DI POLIZIA LOCALE E UNO SPECIALISTA TECNICO D.3 </description>
+			<a10:updated>2017-12-12T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3714282</guid>
 			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3714282</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DETERMINAZIONE DEI RESPONSABILI</category>
 			<title>CENTRO DIURNO L'OFFICINA DELL'ESPERIENZE - MINORI GG GG - INTEGRAZIONE IMPEGNO DI SPESA E ACCERTAMENTO ENTRATA DAL COMUNE DI VAPRIO D'ADDA FINO AL MESE DI DICEMBRE 2017. </title>
 			<description>CENTRO DIURNO L'OFFICINA DELL'ESPERIENZE - MINORI GG GG - INTEGRAZIONE IMPEGNO DI SPESA E ACCERTAMENTO ENTRATA DAL COMUNE DI VAPRIO D'ADDA FINO AL MESE DI DICEMBRE 2017. </description>
-			<a10:updated>2017-12-04T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3699404</guid>
-			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3699404</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 04 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 19 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3699404</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DETERMINAZIONE DEI RESPONSABILI</category>
-			<title>CENTRO DIURNO L'OFFICINA DELLE ESPERIENZE – INTEGRAZIONE IMPEGNO DI SPESA PER PROSIEGUO PROGETTO EDUCATIVO MINORI A.M. E S.M. FINO A DICEMBRE 2017. </title>
-			<description>CENTRO DIURNO L'OFFICINA DELLE ESPERIENZE – INTEGRAZIONE IMPEGNO DI SPESA PER PROSIEGUO PROGETTO EDUCATIVO MINORI A.M. E S.M. FINO A DICEMBRE 2017. </description>
 			<a10:updated>2017-12-04T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
