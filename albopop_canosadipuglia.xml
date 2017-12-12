@@ -5,7 +5,7 @@
 		<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Canosa di Puglia</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 12 Dec 2017 17:31:10 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 12 Dec 2017 18:31:17 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Canosa di Puglia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Barletta-Andria-Trani</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Canosa di Puglia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_canosadipuglia</a10:id>
-		<pubDate>Tue, 12 Dec 2017 17:31:10 +0100</pubDate>
+		<pubDate>Tue, 12 Dec 2017 18:31:17 +0100</pubDate>
 		<docs>http://albopop.it/comune/canosadipuglia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3719278</guid>
+			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3719278</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 12 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 22 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3719278</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI E DEPOSITI RENDE NOTO</category>
+			<title>REVISIONE SEMESTRALE DELLE LISTE ELETTORALI </title>
+			<description>REVISIONE SEMESTRALE DELLE LISTE ELETTORALI </description>
+			<a10:updated>2017-12-12T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3717518</guid>
 			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3717518</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
 			<title>ASSUNZIONE SPESA PER ACQUISTO PACCHETTO DI N. 30 ORE TRAMITE TRATTATIVA DIRETTA SUL PEMA DA STUDIO K. CIG. Z68212F7DD. </title>
 			<description>ASSUNZIONE SPESA PER ACQUISTO PACCHETTO DI N. 30 ORE TRAMITE TRATTATIVA DIRETTA SUL PEMA DA STUDIO K. CIG. Z68212F7DD. </description>
-			<a10:updated>2017-12-11T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3715156</guid>
-			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3715156</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 11 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 26 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3715156</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
-			<title>Provvedimento di decadenza dall’assegnazione di un alloggio di E.R.P. sito in Via Ugo La Malfa n.14/8 nei confronti del sig.L.C.D. identificato, per ragioni di tutela della privacy, in forma anonima. </title>
-			<description>Provvedimento di decadenza dall’assegnazione di un alloggio di E.R.P. sito in Via Ugo La Malfa n.14/8 nei confronti del sig.L.C.D. identificato, per ragioni di tutela della privacy, in forma anonima. </description>
 			<a10:updated>2017-12-11T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
