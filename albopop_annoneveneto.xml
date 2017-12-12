@@ -5,7 +5,7 @@
 		<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Annone Veneto</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 12 Dec 2017 09:31:20 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 12 Dec 2017 10:31:09 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Annone Veneto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Annone Veneto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_annoneveneto</a10:id>
-		<pubDate>Tue, 12 Dec 2017 09:31:20 +0100</pubDate>
+		<pubDate>Tue, 12 Dec 2017 10:31:09 +0100</pubDate>
 		<docs>http://albopop.it/comune/annoneveneto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3716047</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3716047</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 12 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 27 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3716047</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>CONTRIBUTI ECONOMICI PER IL PAGAMENTO DELLA TASSA SUI RIFIUTI (TARI) - ANNO 2017 </title>
+			<description>CONTRIBUTI ECONOMICI PER IL PAGAMENTO DELLA TASSA SUI RIFIUTI (TARI) - ANNO 2017 </description>
+			<a10:updated>2017-12-12T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3715443</guid>
 			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3715443</link>
@@ -284,17 +295,6 @@
 			<title>AFFIDAMENTO ALLO STUDIO TECNICO ZANET-SCORZON DELL'INCARICO DI PROGETTAZIONE DEFINITIVA/ESECUTIVA DEI LAVORI DI REALIZZAZIONE DELLA COPERTURA DELLE TRIBUNE DEGLI IMPIANTI SPORTIVI. IMPEGNO DI SPESA </title>
 			<description>AFFIDAMENTO ALLO STUDIO TECNICO ZANET-SCORZON DELL'INCARICO DI PROGETTAZIONE DEFINITIVA/ESECUTIVA DEI LAVORI DI REALIZZAZIONE DELLA COPERTURA DELLE TRIBUNE DEGLI IMPIANTI SPORTIVI. IMPEGNO DI SPESA </description>
 			<a10:updated>2017-12-06T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3702613</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3702613</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 05 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 20 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3702613</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>ASSEGNAZIONE LOCULO ALLA SIGNORA BORTOLUS LORENA. </title>
-			<description>ASSEGNAZIONE LOCULO ALLA SIGNORA BORTOLUS LORENA. </description>
-			<a10:updated>2017-12-05T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
