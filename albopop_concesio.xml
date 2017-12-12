@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 12 Dec 2017 10:30:36 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 12 Dec 2017 11:30:40 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Tue, 12 Dec 2017 10:30:36 +0100</pubDate>
+		<pubDate>Tue, 12 Dec 2017 11:30:40 +0100</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3716456</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3716456</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 12 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 20 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3716456</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI AVVISO</category>
+			<title>RICHIESTA PUBBLICAZIONE ALL'ALBO AVVISO DI CONVOCAZIONE ASSEMBLEA COMUNITARIA PER IL GIORNO 20 DICEMBRE P.V. ORE 17:30 </title>
+			<description>RICHIESTA PUBBLICAZIONE ALL'ALBO AVVISO DI CONVOCAZIONE ASSEMBLEA COMUNITARIA PER IL GIORNO 20 DICEMBRE P.V. ORE 17:30 </description>
+			<a10:updated>2017-12-12T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3716223</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3716223</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 12 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 11 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3716223</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI AVVISO</category>
+			<title>BANDO MOBILITÀ AREA DEMOGRAFICA - SCADENZA 11/01/2018 </title>
+			<description>BANDO MOBILITÀ AREA DEMOGRAFICA - SCADENZA 11/01/2018 </description>
+			<a10:updated>2017-12-12T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3716222</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3716222</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 12 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 08 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3716222</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI AVVISO</category>
+			<title>BANDO DI MOBILITÀ AGENTE DI POLIZIA LOCALE – CATEGORIA C – A TEMPO PIENO ED INDETERMINATO - PRESSO AREA POLIZIA LOCALE - SCADENZA 08/01/2018 </title>
+			<description>BANDO DI MOBILITÀ AGENTE DI POLIZIA LOCALE – CATEGORIA C – A TEMPO PIENO ED INDETERMINATO - PRESSO AREA POLIZIA LOCALE - SCADENZA 08/01/2018 </description>
+			<a10:updated>2017-12-12T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3716101</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3716101</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>INTEGRAZIONE IMPEGNO DI SPESA PER IL COMODATO D'USO DEI DISPENSER PER CARTA , ASCIUGAMANI E DISPENSER SAPONE CON LA DITTA PAREDES PER UN NUOVO ORDINE DI CARTA E SAPONE LIQUIDO ( CIGZ631D8208E) </title>
 			<description>INTEGRAZIONE IMPEGNO DI SPESA PER IL COMODATO D'USO DEI DISPENSER PER CARTA , ASCIUGAMANI E DISPENSER SAPONE CON LA DITTA PAREDES PER UN NUOVO ORDINE DI CARTA E SAPONE LIQUIDO ( CIGZ631D8208E) </description>
-			<a10:updated>2017-12-07T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3710819</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3710819</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 07 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 22 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3710819</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>AGGIUDICAZIONE PROCEDURA IN SINTEL ED ASSUNZIONE IMPEGNIO DI SPESA A FAVORE DELLA DITTA ECM PER I LAVORI A CARATTERE DURGENZA PER LA SISTEMAZIONWE DEL COANCELLO DEL CIMITERO DELLA PIEVE ( CIG Z3320C0B99) </title>
-			<description>AGGIUDICAZIONE PROCEDURA IN SINTEL ED ASSUNZIONE IMPEGNIO DI SPESA A FAVORE DELLA DITTA ECM PER I LAVORI A CARATTERE DURGENZA PER LA SISTEMAZIONWE DEL COANCELLO DEL CIMITERO DELLA PIEVE ( CIG Z3320C0B99) </description>
-			<a10:updated>2017-12-07T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3710768</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3710768</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 07 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 22 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3710768</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>AGGIUDICAZIONE OFFERTA IN SINTEL PER LA MANUTENZIONE ORDINARIA E STRAORDINARIA DEI VEICOLI DIESEL DI PROPRIETA' DI QUESTO ENTE ( CIG Z4F1FA5793) </title>
-			<description>AGGIUDICAZIONE OFFERTA IN SINTEL PER LA MANUTENZIONE ORDINARIA E STRAORDINARIA DEI VEICOLI DIESEL DI PROPRIETA' DI QUESTO ENTE ( CIG Z4F1FA5793) </description>
-			<a10:updated>2017-12-07T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3710647</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3710647</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 07 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 22 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3710647</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>AGGIUDICAZIONE GARE PER LAVORI DI TINTEGGIATURA PRESSO DIVERSI EDIFICI COMUNAI ( CIG ZA320A9CB2) </title>
-			<description>AGGIUDICAZIONE GARE PER LAVORI DI TINTEGGIATURA PRESSO DIVERSI EDIFICI COMUNAI ( CIG ZA320A9CB2) </description>
 			<a10:updated>2017-12-07T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

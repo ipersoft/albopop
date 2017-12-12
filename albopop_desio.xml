@@ -5,7 +5,7 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/igrid/1233682</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Desio</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 12 Dec 2017 10:30:38 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 12 Dec 2017 11:30:42 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Desio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Desio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_desio</a10:id>
-		<pubDate>Tue, 12 Dec 2017 10:30:38 +0100</pubDate>
+		<pubDate>Tue, 12 Dec 2017 11:30:42 +0100</pubDate>
 		<docs>http://albopop.it/comune/desio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3716327</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3716327</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 12 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 27 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3716327</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
+			<title>ORDINANZA DI CONFISCA ED AUTORIZZAZIONE ALL’ALIENAZIONE - ART. 27, COMMA 5 L.R. N. 6/2010 -. </title>
+			<description>ORDINANZA DI CONFISCA ED AUTORIZZAZIONE ALL’ALIENAZIONE - ART. 27, COMMA 5 L.R. N. 6/2010 -. </description>
+			<a10:updated>2017-12-12T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3713954</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3713954</link>
@@ -228,17 +239,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>APPROVAZIONE SCHEMA DI CONVENZIONE QUADRO PER LA FRUIBILITA' TELEMATICA DELLE BANCHE DATI DELL'ISTITUTO NAZIONALE DELLA PREVIDENZA SOCIALE (INPS) AI SENSI DELL'ART. 58 DECRETO LEGISLATIVO 07/03/2005, N. 82 DAL 01/12/2017 AL 30/11/2020 </title>
 			<description>APPROVAZIONE SCHEMA DI CONVENZIONE QUADRO PER LA FRUIBILITA' TELEMATICA DELLE BANCHE DATI DELL'ISTITUTO NAZIONALE DELLA PREVIDENZA SOCIALE (INPS) AI SENSI DELL'ART. 58 DECRETO LEGISLATIVO 07/03/2005, N. 82 DAL 01/12/2017 AL 30/11/2020 </description>
-			<a10:updated>2017-12-04T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3698911</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3698911</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 04 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 19 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3698911</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>AZIONI DI CONTRASTO AL GIOCO D'AZZARDO PATOLOGICO: PROGETTO "GASTONE" - IMPEGNO DI SPESA </title>
-			<description>AZIONI DI CONTRASTO AL GIOCO D'AZZARDO PATOLOGICO: PROGETTO "GASTONE" - IMPEGNO DI SPESA </description>
 			<a10:updated>2017-12-04T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
