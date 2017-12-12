@@ -5,7 +5,7 @@
 		<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Viterbo</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 12 Dec 2017 12:34:54 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 12 Dec 2017 13:31:01 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Viterbo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Viterbo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Viterbo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_viterbo</a10:id>
-		<pubDate>Tue, 12 Dec 2017 12:34:54 +0100</pubDate>
+		<pubDate>Tue, 12 Dec 2017 13:31:01 +0100</pubDate>
 		<docs>http://albopop.it/comune/viterbo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3717691</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3717691</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 12 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 13 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3717691</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI </category>
+			<title>AVVISO DEPOSITO ATTI CASA COMUNALE ELENCO N. 1 </title>
+			<description>AVVISO DEPOSITO ATTI CASA COMUNALE ELENCO N. 1 </description>
+			<a10:updated>2017-12-12T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3714037</guid>
 			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3714037</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONI SENZA IMPEGNO DI SPESA</category>
 			<title>OO.U.P. PIANO PARTICOLAREGGIATO ZONA D1 IN LOC. ACQUA ROSSA (1° STRALCIO) - UTERIORI PROVVEDIMENTI IN ORDINE ALLA NOMINA DEL COLLAUDATORE. </title>
 			<description>OO.U.P. PIANO PARTICOLAREGGIATO ZONA D1 IN LOC. ACQUA ROSSA (1° STRALCIO) - UTERIORI PROVVEDIMENTI IN ORDINE ALLA NOMINA DEL COLLAUDATORE. </description>
-			<a10:updated>2017-12-07T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3709348</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3709348</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 07 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 22 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3709348</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
-			<title>DICHIARAZIONE EFFICACIA ALL'AGGIUDICAZIONE DEFINITIVA DELLA PROCEDURA DI GARA APERTA PER L'AFFIDAMENTO DEL SERVIZIO DI SUPPORTO E AFFIANCAMENTO AGLI UFFICI TRIBUTARI PER LO SVOLGIMENTO DELLE ATTIVITA' DI GESTIONE ORDINARIA DEI TRIBUTI, DI RECUPERO DELL'EVASIONE FISCALE E DI ATTIVITA' ACCESSORIE. DETERMINAZIONE N. 1719 DEL 20/04/2016. CIG. 6736206D08. </title>
-			<description>DICHIARAZIONE EFFICACIA ALL'AGGIUDICAZIONE DEFINITIVA DELLA PROCEDURA DI GARA APERTA PER L'AFFIDAMENTO DEL SERVIZIO DI SUPPORTO E AFFIANCAMENTO AGLI UFFICI TRIBUTARI PER LO SVOLGIMENTO DELLE ATTIVITA' DI GESTIONE ORDINARIA DEI TRIBUTI, DI RECUPERO DELL'EVASIONE FISCALE E DI ATTIVITA' ACCESSORIE. DETERMINAZIONE N. 1719 DEL 20/04/2016. CIG. 6736206D08. </description>
 			<a10:updated>2017-12-07T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
