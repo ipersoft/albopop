@@ -5,7 +5,7 @@
 		<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bernareggio</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 12 Dec 2017 11:31:26 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 12 Dec 2017 12:35:49 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bernareggio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bernareggio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bernareggio</a10:id>
-		<pubDate>Tue, 12 Dec 2017 11:31:26 +0100</pubDate>
+		<pubDate>Tue, 12 Dec 2017 12:35:49 +0100</pubDate>
 		<docs>http://albopop.it/comune/bernareggio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3717304</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3717304</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 12 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 27 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3717304</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZE</category>
+			<title>ISTITUZIONE SENSO UNICO ALTERNATO IN VIA PERTINI ALTEZZA CIVICO 34 NEI GIORNI 14 15 DICEMBRE DALLE ORE 08.00 ALLE ORE 19.00 PER POTATURA PIOPPI SCUOLA SECONDARIA DI PRIMO GRADO LEONARDO DA VINCI </title>
+			<description>ISTITUZIONE SENSO UNICO ALTERNATO IN VIA PERTINI ALTEZZA CIVICO 34 NEI GIORNI 14 15 DICEMBRE DALLE ORE 08.00 ALLE ORE 19.00 PER POTATURA PIOPPI SCUOLA SECONDARIA DI PRIMO GRADO LEONARDO DA VINCI </description>
+			<a10:updated>2017-12-12T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3714205</guid>
 			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3714205</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>CIG:ZAC2109F84 - SPETTACOLO TEATRALE ORGANIZZATO DALLA BIBLIOTECA IN OCCASIONE DELL'EPIFANIA INTITOLATO "TRECOLLI" </title>
 			<description>CIG:ZAC2109F84 - SPETTACOLO TEATRALE ORGANIZZATO DALLA BIBLIOTECA IN OCCASIONE DELL'EPIFANIA INTITOLATO "TRECOLLI" </description>
-			<a10:updated>2017-12-06T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3704385</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3704385</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 06 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 21 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3704385</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>CIG: Z2120F82F9 - AFFIDAMENTO INSERIMENTO DISABILE IN CSE ANNO 2018 TRAMITE LA PIATTAFORMA REGIONALE DI E-PROCUREMENT SINTEL </title>
-			<description>CIG: Z2120F82F9 - AFFIDAMENTO INSERIMENTO DISABILE IN CSE ANNO 2018 TRAMITE LA PIATTAFORMA REGIONALE DI E-PROCUREMENT SINTEL </description>
 			<a10:updated>2017-12-06T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
