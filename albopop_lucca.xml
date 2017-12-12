@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 11 Dec 2017 18:31:22 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 12 Dec 2017 08:31:14 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Mon, 11 Dec 2017 18:31:22 +0100</pubDate>
+		<pubDate>Tue, 12 Dec 2017 08:31:14 +0100</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -64,6 +64,17 @@
 			<title>CONVOCAZIONE DELLA COMMISSIONE CONSILIARE POLITICHE FORMATIVE, GIOVANILI E DI GENERE, CULTURA E SPORT PER MARTEDÌ 19 DICEMBRE 2017 ORE 16.30 </title>
 			<description>CONVOCAZIONE DELLA COMMISSIONE CONSILIARE POLITICHE FORMATIVE, GIOVANILI E DI GENERE, CULTURA E SPORT PER MARTEDÌ 19 DICEMBRE 2017 ORE 16.30 </description>
 			<a10:updated>2017-12-11T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3713464</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3713464</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 12 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 27 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3713464</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI E BANDI VARI</category>
+			<title>T.U. N.1775/1933 DOMANDA DI UTILIZZAZIONE DI ACQUA PUBBLICA PRESENTATA DALLA DITTA VILA S. STEFANO SOCIETA' AGRICOLA SRL- PRATICA 5984 </title>
+			<description>T.U. N.1775/1933 DOMANDA DI UTILIZZAZIONE DI ACQUA PUBBLICA PRESENTATA DALLA DITTA VILA S. STEFANO SOCIETA' AGRICOLA SRL- PRATICA 5984 </description>
+			<a10:updated>2017-12-12T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3713249</guid>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">CONVOCAZIONI</category>
 			<title>CONVOCAZIONE COMMISSIONE PRESIDENTI GRUPPI CONSILIARI PER GIOVEDI' 14 DICEMBRE 2017 ORE 08.45 </title>
 			<description>CONVOCAZIONE COMMISSIONE PRESIDENTI GRUPPI CONSILIARI PER GIOVEDI' 14 DICEMBRE 2017 ORE 08.45 </description>
-			<a10:updated>2017-12-07T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3710102</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3710102</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 07 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 22 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3710102</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>ORDINANZA CONTINGIBILE ED URGENTE PER L'ABBATTIMENTO DI DUE IPPOCASTANI NEL GIARDINO DELLA SCUOLA GIOVANNI PASCOLI E DI UN TIGLIO SULLA CORTINA DELLE MURA URBANE IN CORRISPONDENZA DI VIA BUIAMONTI. </title>
-			<description>ORDINANZA CONTINGIBILE ED URGENTE PER L'ABBATTIMENTO DI DUE IPPOCASTANI NEL GIARDINO DELLA SCUOLA GIOVANNI PASCOLI E DI UN TIGLIO SULLA CORTINA DELLE MURA URBANE IN CORRISPONDENZA DI VIA BUIAMONTI. </description>
 			<a10:updated>2017-12-07T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
