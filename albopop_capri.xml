@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 13 Dec 2017 17:31:41 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 13 Dec 2017 18:31:52 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Wed, 13 Dec 2017 17:31:41 +0100</pubDate>
+		<pubDate>Wed, 13 Dec 2017 18:31:52 +0100</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3100473</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3100473</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 13 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 28 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3100473</category>
+			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DI CONSIGLIO DELIBERE DI CONSIGLIO</category>
+			<title>ADEMPIMENTI PRELIMINARI AI SENSI DELL’ART. 21 DEL REGOLAMENTO PER IL FUNZIONAMENTO DEL CONSIGLIO COMUNALE </title>
+			<description>ADEMPIMENTI PRELIMINARI AI SENSI DELL’ART. 21 DEL REGOLAMENTO PER IL FUNZIONAMENTO DEL CONSIGLIO COMUNALE </description>
+			<a10:updated>2017-12-13T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3099578</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3099578</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">AVVISO PUBBLICAZIONE AVVISO</category>
 			<title>AFFISSIONE VERBALE DI ACCERTAMENTO P.M. N.733Z/V </title>
 			<description>AFFISSIONE VERBALE DI ACCERTAMENTO P.M. N.733Z/V </description>
-			<a10:updated>2017-12-11T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3095157</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3095157</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 11 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 26 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3095157</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISO PUBBLICAZIONE AVVISO</category>
-			<title>AFFISSIONE VERBALE DI ACCERTAMENTO N.849Z/V </title>
-			<description>AFFISSIONE VERBALE DI ACCERTAMENTO N.849Z/V </description>
 			<a10:updated>2017-12-11T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

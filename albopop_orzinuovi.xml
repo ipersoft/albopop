@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 13 Dec 2017 17:30:40 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 13 Dec 2017 18:31:15 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Wed, 13 Dec 2017 17:30:40 +0100</pubDate>
+		<pubDate>Wed, 13 Dec 2017 18:31:15 +0100</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3100522</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3100522</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 13 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 28 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3100522</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>COMPENSAZIONE IMU E TASI </title>
+			<description>COMPENSAZIONE IMU E TASI </description>
+			<a10:updated>2017-12-13T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3100465</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3100465</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 13 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 12 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3100465</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI AVVIO DI PROCEDIMENTO</category>
+			<title>PROVVEDIMENTO CANCELLAZIONE ANAGRAFICA DROZDOVA G. </title>
+			<description>PROVVEDIMENTO CANCELLAZIONE ANAGRAFICA DROZDOVA G. </description>
+			<a10:updated>2017-12-13T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3100445</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3100445</link>
@@ -273,28 +295,6 @@
 			<title>APPROVAZIONE SECONDO STATO DI AVANZAMENTO PER LAVORI DI RIFACIMENTO CON ADEGUAMENTO E MESSA A NORMA DELLE COPERTURE IMMOBILI COMUNALI DI VIA VOLTA N° 7 E VIA CAVALLOTTI N° 36 - CUP: J51H16000060004 – CIG: 6740780B9E. </title>
 			<description>APPROVAZIONE SECONDO STATO DI AVANZAMENTO PER LAVORI DI RIFACIMENTO CON ADEGUAMENTO E MESSA A NORMA DELLE COPERTURE IMMOBILI COMUNALI DI VIA VOLTA N° 7 E VIA CAVALLOTTI N° 36 - CUP: J51H16000060004 – CIG: 6740780B9E. </description>
 			<a10:updated>2017-12-12T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3094970</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3094970</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 11 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 26 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3094970</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>IMPEGNO DI SPESA PER IL FUNZIONAMENTO DELLO SPORTELLO DENOMINATO ORIENTALAB” GESTITO DA LA NUVOLA SOCIETA’ COOPERATIVA SOCIALE IMPRESA SOCIALE ONLUS DI ORZINUOVI. PROTOCOLLO D’INTESA PER GLI ANNI 2018 E 2019. CIG ZBC2133C96. </title>
-			<description>IMPEGNO DI SPESA PER IL FUNZIONAMENTO DELLO SPORTELLO DENOMINATO ORIENTALAB” GESTITO DA LA NUVOLA SOCIETA’ COOPERATIVA SOCIALE IMPRESA SOCIALE ONLUS DI ORZINUOVI. PROTOCOLLO D’INTESA PER GLI ANNI 2018 E 2019. CIG ZBC2133C96. </description>
-			<a10:updated>2017-12-11T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3094967</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3094967</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 11 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 10 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3094967</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI AVVIO DI PROCEDIMENTO</category>
-			<title>PROVVEDIMENTO CANCELLAZIONE ANAGRAFICA BOLDICI N. </title>
-			<description>PROVVEDIMENTO CANCELLAZIONE ANAGRAFICA BOLDICI N. </description>
-			<a10:updated>2017-12-11T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
