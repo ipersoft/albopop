@@ -5,7 +5,7 @@
 		<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mazzano</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 13 Dec 2017 12:31:30 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 13 Dec 2017 13:31:27 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mazzano</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mazzano</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mazzano</a10:id>
-		<pubDate>Wed, 13 Dec 2017 12:31:30 +0100</pubDate>
+		<pubDate>Wed, 13 Dec 2017 13:31:27 +0100</pubDate>
 		<docs>http://albopop.it/comune/mazzano/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3721316</guid>
+			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3721316</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 13 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 28 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3721316</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
+			<title>PRESA D'ATTO PARTECIPAZIONE DI N. 2 DIPENDENTI AL SEMINARIO DI AGGIORNAMENTO ORGANIZZATO DA ACB SUL TEMA: "I CRITERI AMBIENTALI MINIMI CAM PER L'EDILIZIA" </title>
+			<description>PRESA D'ATTO PARTECIPAZIONE DI N. 2 DIPENDENTI AL SEMINARIO DI AGGIORNAMENTO ORGANIZZATO DA ACB SUL TEMA: "I CRITERI AMBIENTALI MINIMI CAM PER L'EDILIZIA" </description>
+			<a10:updated>2017-12-13T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3721022</guid>
 			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3721022</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERE DI GIUNTA COMUNALE</category>
 			<title>SESTA VARIAZIONE DA APPORTARE AGLI STANZIAMENTI DEL BILANCIO DI PREVISIONE FINANZIARIO 2017/2019 - VARIAZIONE D'URGENZA AI SENSI DELL'ARTICOLO 175, COMMA 4, DEL DECRETO LEGISLATIVO 18 AGOSTO 2000, N. 267 - ESAME E APPROVAZIONE. </title>
 			<description>SESTA VARIAZIONE DA APPORTARE AGLI STANZIAMENTI DEL BILANCIO DI PREVISIONE FINANZIARIO 2017/2019 - VARIAZIONE D'URGENZA AI SENSI DELL'ARTICOLO 175, COMMA 4, DEL DECRETO LEGISLATIVO 18 AGOSTO 2000, N. 267 - ESAME E APPROVAZIONE. </description>
-			<a10:updated>2017-11-29T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3686507</guid>
-			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3686507</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 29 Nov 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 14 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3686507</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERE DI GIUNTA COMUNALE</category>
-			<title>APPROVAZIONE DELLO SCHEMA DI BILANCIO DI PREVISIONE FINANZIARIO 2018/2020. </title>
-			<description>APPROVAZIONE DELLO SCHEMA DI BILANCIO DI PREVISIONE FINANZIARIO 2018/2020. </description>
 			<a10:updated>2017-11-29T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
