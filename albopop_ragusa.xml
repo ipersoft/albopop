@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 13 Dec 2017 08:31:37 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 13 Dec 2017 09:31:47 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,55 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Wed, 13 Dec 2017 08:31:37 +0100</pubDate>
+		<pubDate>Wed, 13 Dec 2017 09:31:47 +0100</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3098228</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3098228</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 13 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 21 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3098228</category>
+			<category domain="http://albopop.it/specs#item-category-type">ACCERTAMENTO</category>
+			<title>PUBBLICAZIONE ART.60 A CARICO DI GAETANO DOMINANTE, GIOVANNI TUMINO, NUNZIATA OCCHIPINTI, ROSARIO INGALLINA, MARIA MARABITA </title>
+			<description>PUBBLICAZIONE ART.60 A CARICO DI GAETANO DOMINANTE, GIOVANNI TUMINO, NUNZIATA OCCHIPINTI, ROSARIO INGALLINA, MARIA MARABITA </description>
+			<a10:updated>2017-12-13T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3098227</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3098227</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 13 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 02 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3098227</category>
+			<category domain="http://albopop.it/specs#item-category-type">VERBALI VERBALE </category>
+			<title>PUBBLICAZIONE ART.143 C.P.C. A CARICO DI VALLONE FRANCESCO </title>
+			<description>PUBBLICAZIONE ART.143 C.P.C. A CARICO DI VALLONE FRANCESCO </description>
+			<a10:updated>2017-12-13T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3098226</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3098226</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 13 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 02 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3098226</category>
+			<category domain="http://albopop.it/specs#item-category-type">VERBALI VERBALE </category>
+			<title>PUBBLICAZIONE ART.143 C.P.C. A CARICO DI VINDIGNI GIOVANNI </title>
+			<description>PUBBLICAZIONE ART.143 C.P.C. A CARICO DI VINDIGNI GIOVANNI </description>
+			<a10:updated>2017-12-13T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3098225</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3098225</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 13 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 02 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3098225</category>
+			<category domain="http://albopop.it/specs#item-category-type">VERBALI VERBALE </category>
+			<title>PUBBLICAZIONE ART.143 C.P.C. A CARICO DI BATTAGLIA EMANUELA </title>
+			<description>PUBBLICAZIONE ART.143 C.P.C. A CARICO DI BATTAGLIA EMANUELA </description>
+			<a10:updated>2017-12-13T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3097914</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3097914</link>
@@ -250,50 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
 			<title>IMPEGNO DI SPESA PER ACQUISTO DI UNO STRUMENTO "TARGA SYSTEM 4.0 MOBILE" PER IL RILIEVO DELLE INFRAZIONI AL CODICE DELLA STRADA - AFFIDAMENTO DIRETTO TRAMITE MECATO ELETTRONICO (MEPA) CIG: ZAC212F3A4 </title>
 			<description>IMPEGNO DI SPESA PER ACQUISTO DI UNO STRUMENTO "TARGA SYSTEM 4.0 MOBILE" PER IL RILIEVO DELLE INFRAZIONI AL CODICE DELLA STRADA - AFFIDAMENTO DIRETTO TRAMITE MECATO ELETTRONICO (MEPA) CIG: ZAC212F3A4 </description>
-			<a10:updated>2017-12-12T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3096561</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3096561</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 12 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 19 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3096561</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
-			<title>RIMBORSO AI SENSI DELL'ART. 20, COMMA 5, L.R. 30/2000 ALL'UNICREDIT S.P.A. PER PERMESSI FRUITI DAL CONSIGLIERE COMUNALE NEI PERIODI APRILE - MAGGIO 2017 E LUGLIO-AGOSTO 2017. </title>
-			<description>RIMBORSO AI SENSI DELL'ART. 20, COMMA 5, L.R. 30/2000 ALL'UNICREDIT S.P.A. PER PERMESSI FRUITI DAL CONSIGLIERE COMUNALE NEI PERIODI APRILE - MAGGIO 2017 E LUGLIO-AGOSTO 2017. </description>
-			<a10:updated>2017-12-12T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3096559</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3096559</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 12 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 19 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3096559</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
-			<title>RIMBORSO AI SENSI DELL'ART. 20, COMMA 5, DELLA L.R. 30/2000 ALLA DITTA NEW SERVICE S.R.L. PER PERMESSI FRUITI DAL CONSIGLIERE COMUNALE ZAARA FEDERICO NEL PERIODO GIUGNO- LUGLIO- AGOSTO 2017. </title>
-			<description>RIMBORSO AI SENSI DELL'ART. 20, COMMA 5, DELLA L.R. 30/2000 ALLA DITTA NEW SERVICE S.R.L. PER PERMESSI FRUITI DAL CONSIGLIERE COMUNALE ZAARA FEDERICO NEL PERIODO GIUGNO- LUGLIO- AGOSTO 2017. </description>
-			<a10:updated>2017-12-12T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3096565</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3096565</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 12 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 20 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3096565</category>
-			<category domain="http://albopop.it/specs#item-category-type">ACCERTAMENTO</category>
-			<title>PUBBLICAZIONE ART.60 A CARICO DI KERKAR OMRANE, YOU CAR, DIGRANDI SALVATORE, AYAT NOUREDDINE, ROYAL SRL, SAADAOUI ALI', FIRRITO TIZIANA, TRIBASTONE GIORGIO, CACA ROLAND, MAZZONE CORINNE, OTTAVIANO CLAUDIO, C.A.R. CONCESS. AUTOMEZZI RICAMBI DI RISO I., OCCHIPINTI ROSA, DAVI' GIUSEPPE, MIGLIORISI THOMAS, CORALLO ROSALIA, KAPE INGRID, SITTINIERI GIOVANNI, GIALLONGO GIOVANNI, SAHLI HAMDI, </title>
-			<description>PUBBLICAZIONE ART.60 A CARICO DI KERKAR OMRANE, YOU CAR, DIGRANDI SALVATORE, AYAT NOUREDDINE, ROYAL SRL, SAADAOUI ALI', FIRRITO TIZIANA, TRIBASTONE GIORGIO, CACA ROLAND, MAZZONE CORINNE, OTTAVIANO CLAUDIO, C.A.R. CONCESS. AUTOMEZZI RICAMBI DI RISO I., OCCHIPINTI ROSA, DAVI' GIUSEPPE, MIGLIORISI THOMAS, CORALLO ROSALIA, KAPE INGRID, SITTINIERI GIOVANNI, GIALLONGO GIOVANNI, SAHLI HAMDI, </description>
-			<a10:updated>2017-12-12T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3096557</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3096557</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 12 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 19 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3096557</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
-			<title>AFFIDAMENTO INCARICO ALLA DITTA CAT SRL ATTIVITÀ EXTRA DI RIPARAZIONE, REINSTALLAZIONE E CONFIGURAZIONE DI DIVERSI PONTI RADIO. CIG: Z31213472A </title>
-			<description>AFFIDAMENTO INCARICO ALLA DITTA CAT SRL ATTIVITÀ EXTRA DI RIPARAZIONE, REINSTALLAZIONE E CONFIGURAZIONE DI DIVERSI PONTI RADIO. CIG: Z31213472A </description>
 			<a10:updated>2017-12-12T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
