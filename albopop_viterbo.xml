@@ -5,7 +5,7 @@
 		<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Viterbo</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 12 Dec 2017 18:31:03 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 13 Dec 2017 08:30:57 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Viterbo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Viterbo</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Viterbo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_viterbo</a10:id>
-		<pubDate>Tue, 12 Dec 2017 18:31:03 +0100</pubDate>
+		<pubDate>Wed, 13 Dec 2017 08:30:57 +0100</pubDate>
 		<docs>http://albopop.it/comune/viterbo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3719302</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3719302</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 12 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 27 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3719302</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE ORDINANZA SINDACALE</category>
+			<title>VIA DEL BOTTALONE N.10 - ISTITUZIONE DI UNO STALLO DI SOSTA PER VEICOLI A SERVIZIO DI PERSONE DIVERSAMENTE ABILI. </title>
+			<description>VIA DEL BOTTALONE N.10 - ISTITUZIONE DI UNO STALLO DI SOSTA PER VEICOLI A SERVIZIO DI PERSONE DIVERSAMENTE ABILI. </description>
+			<a10:updated>2017-12-12T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3719300</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3719300</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 12 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 27 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3719300</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE ORDINANZA SINDACALE</category>
+			<title>VIA ANGUSTA, 2 - ISTITUZIONE DI UNO STALLO DI SOSTA RISERVATO AL TITOLARE DI CONTRASSEGNO DI PARCHEGGIO PER DISABILI N. 1846 </title>
+			<description>VIA ANGUSTA, 2 - ISTITUZIONE DI UNO STALLO DI SOSTA RISERVATO AL TITOLARE DI CONTRASSEGNO DI PARCHEGGIO PER DISABILI N. 1846 </description>
+			<a10:updated>2017-12-12T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3718425</guid>
 			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3718425</link>
@@ -75,17 +97,6 @@
 			<title>AVVISO DEPOSITO ATTI CASA COMUNALE ELENCO N. 1 </title>
 			<description>AVVISO DEPOSITO ATTI CASA COMUNALE ELENCO N. 1 </description>
 			<a10:updated>2017-12-12T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3714037</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3714037</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 11 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 12 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3714037</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI </category>
-			<title>AVVISO DEPOSITO ATTI CASA COMUNALE EL000134944 </title>
-			<description>AVVISO DEPOSITO ATTI CASA COMUNALE EL000134944 </description>
-			<a10:updated>2017-12-11T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3714034</guid>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
 			<title>MANUTENZIONE E RIMOZIONE CON TRASPORTO A DISCARICA DI ELEMENTI DI ARREDAMENTO PERICOLOSI E VETUSTI PRESENTI NELL'ISTITUTO COMPRENSIVO PIO FEDI - DETERMINAZIONI IN MERITO ALL'AFFIDAMENTO E ALL'IMPEGNO DELLA SPESA - CIG Z8C211446F. </title>
 			<description>MANUTENZIONE E RIMOZIONE CON TRASPORTO A DISCARICA DI ELEMENTI DI ARREDAMENTO PERICOLOSI E VETUSTI PRESENTI NELL'ISTITUTO COMPRENSIVO PIO FEDI - DETERMINAZIONI IN MERITO ALL'AFFIDAMENTO E ALL'IMPEGNO DELLA SPESA - CIG Z8C211446F. </description>
-			<a10:updated>2017-12-07T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3709358</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3709358</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 07 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 22 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3709358</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
-			<title>DITTA ALBIATI S.R.L.- ALBERI DI NATALE PER LE FRAZIONI- AFFIDAMENTO E IMPEGNO DI SPESA- CIG Z3C20E66DC </title>
-			<description>DITTA ALBIATI S.R.L.- ALBERI DI NATALE PER LE FRAZIONI- AFFIDAMENTO E IMPEGNO DI SPESA- CIG Z3C20E66DC </description>
 			<a10:updated>2017-12-07T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
