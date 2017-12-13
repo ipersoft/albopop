@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 13 Dec 2017 09:31:41 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 13 Dec 2017 10:32:30 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Wed, 13 Dec 2017 09:31:41 +0100</pubDate>
+		<pubDate>Wed, 13 Dec 2017 10:32:30 +0100</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3098529</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3098529</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 13 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 28 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3098529</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
+			<title>PRESA D'ATTO DELLA CESSIONE E DEL SUBENTRO NEL CONTRATTO DI CONCESSIONE IN USO DELL'AREA DI PROPRIETÀ COMUNALE SITA A ROVIGO, FRAZIONE DI BOARA POLESINE, VIA PESCHIERA, PRESSO L'IMPIANTO SPORTIVO COMUNALE PER STAZIONE RADIO BASE, CENSITO AL N.C.T. DI ROVIGO, CENSUARIO DI BOARA POLESINE, FG. 6 - PARTICELLA 397 - DALLA SOCIETÀ WIND TELECOMUNICAZIONI S.P.A. ALLA SOCIETÀ GALATA S.P.A - REP. N. 14 DEL 04/09/2013 </title>
+			<description>PRESA D'ATTO DELLA CESSIONE E DEL SUBENTRO NEL CONTRATTO DI CONCESSIONE IN USO DELL'AREA DI PROPRIETÀ COMUNALE SITA A ROVIGO, FRAZIONE DI BOARA POLESINE, VIA PESCHIERA, PRESSO L'IMPIANTO SPORTIVO COMUNALE PER STAZIONE RADIO BASE, CENSITO AL N.C.T. DI ROVIGO, CENSUARIO DI BOARA POLESINE, FG. 6 - PARTICELLA 397 - DALLA SOCIETÀ WIND TELECOMUNICAZIONI S.P.A. ALLA SOCIETÀ GALATA S.P.A - REP. N. 14 DEL 04/09/2013 </description>
+			<a10:updated>2017-12-13T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3098379</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3098379</link>
@@ -284,17 +295,6 @@
 			<title>ACCERTAMENTO E IMPEGNO INCASSI SPETTACOLO VIVA MOMIX SVOLTOSI PRESSO IL TEATRO SOCIALE L'11 E IL 12 NOVEMBRE 2017 IN COLLABORAZIONE CON L'ASSOCIAZIONE ARTEVEN DI MESTRE. </title>
 			<description>ACCERTAMENTO E IMPEGNO INCASSI SPETTACOLO VIVA MOMIX SVOLTOSI PRESSO IL TEATRO SOCIALE L'11 E IL 12 NOVEMBRE 2017 IN COLLABORAZIONE CON L'ASSOCIAZIONE ARTEVEN DI MESTRE. </description>
 			<a10:updated>2017-12-12T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3094640</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3094640</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 11 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 27 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3094640</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>ASSUNZIONE IMPEGNO DI SPESA PER RIPARTIZIONE INCENTIVI COLLEGATI ALLA PRODUTTIVITÀ/PERFORMANCE DEI DIPENDENTI PER L'ANNO 2015. </title>
-			<description>ASSUNZIONE IMPEGNO DI SPESA PER RIPARTIZIONE INCENTIVI COLLEGATI ALLA PRODUTTIVITÀ/PERFORMANCE DEI DIPENDENTI PER L'ANNO 2015. </description>
-			<a10:updated>2017-12-11T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>

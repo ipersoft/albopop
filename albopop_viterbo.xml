@@ -5,7 +5,7 @@
 		<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Viterbo</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 13 Dec 2017 09:31:04 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 13 Dec 2017 10:31:36 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Viterbo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Viterbo</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Viterbo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_viterbo</a10:id>
-		<pubDate>Wed, 13 Dec 2017 09:31:04 +0100</pubDate>
+		<pubDate>Wed, 13 Dec 2017 10:31:36 +0100</pubDate>
 		<docs>http://albopop.it/comune/viterbo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3720122</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3720122</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 13 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 28 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3720122</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DECRETO SINDACALE</category>
+			<title>DECRETO DI NOMINA SOSTITUZIONE SEGRETARIO GENERALE. </title>
+			<description>DECRETO DI NOMINA SOSTITUZIONE SEGRETARIO GENERALE. </description>
+			<a10:updated>2017-12-13T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3720124</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3720124</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 13 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 19 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3720124</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONVOCAZIONE CONSIGLIO </category>
+			<title>CONVOCAZIONE CONSIGLIO COMUNALE - O.D.G. AGGIUNTIVO - PROT. 7451/2017. </title>
+			<description>CONVOCAZIONE CONSIGLIO COMUNALE - O.D.G. AGGIUNTIVO - PROT. 7451/2017. </description>
+			<a10:updated>2017-12-13T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3719529</guid>
 			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3719529</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONI SENZA IMPEGNO DI SPESA</category>
 			<title>GRADUATORIA PER ASSEGNAZIONE ALLOGGI DI ERP DI CUI AL BANDO DEL 15/07/2009 AGGIORNATA CON LE DOMANDE PERVENUTE AL 30/06/2017 - PUBBLICAZIONE. </title>
 			<description>GRADUATORIA PER ASSEGNAZIONE ALLOGGI DI ERP DI CUI AL BANDO DEL 15/07/2009 AGGIORNATA CON LE DOMANDE PERVENUTE AL 30/06/2017 - PUBBLICAZIONE. </description>
-			<a10:updated>2017-12-07T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3709395</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3709395</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 07 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 22 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3709395</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONI SENZA IMPEGNO DI SPESA</category>
-			<title>LAVORI DI RIQUALIFICAZIONE DELL'AREA A PARCHEGGIO SITA IN VIA S. ANTONIO A VITERBO. - AUTORIZZAZIONE AL SUBAPPALTO - DITTA ORTANA ASFALTI S.R.L. CON SEDE IN ROMA (RM) VIA COSTANTINIANA N° 14 P.IVA 00575930565 - CIG 6921113BF. </title>
-			<description>LAVORI DI RIQUALIFICAZIONE DELL'AREA A PARCHEGGIO SITA IN VIA S. ANTONIO A VITERBO. - AUTORIZZAZIONE AL SUBAPPALTO - DITTA ORTANA ASFALTI S.R.L. CON SEDE IN ROMA (RM) VIA COSTANTINIANA N° 14 P.IVA 00575930565 - CIG 6921113BF. </description>
-			<a10:updated>2017-12-07T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3709385</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3709385</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 07 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 22 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3709385</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONI SENZA IMPEGNO DI SPESA</category>
-			<title>AFFIDAMENTO DELLE ATTIVITA' STRUMENTALI E DI SUPPORTO IN MATERIA DI GESTIONE DELLE SANZIONI AMMINISTRATIVE AL CODICE DELLA STRADA ELEVATE DAL DIPENDENTE CORPO DI POLIZIA LOCALE. MODIFICA PERCORSO INSERIMENTO RDO SU MEPA. CIG:Z25208D231 </title>
-			<description>AFFIDAMENTO DELLE ATTIVITA' STRUMENTALI E DI SUPPORTO IN MATERIA DI GESTIONE DELLE SANZIONI AMMINISTRATIVE AL CODICE DELLA STRADA ELEVATE DAL DIPENDENTE CORPO DI POLIZIA LOCALE. MODIFICA PERCORSO INSERIMENTO RDO SU MEPA. CIG:Z25208D231 </description>
 			<a10:updated>2017-12-07T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
