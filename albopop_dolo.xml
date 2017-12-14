@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 14 Dec 2017 17:30:54 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 14 Dec 2017 18:30:46 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Thu, 14 Dec 2017 17:30:54 +0100</pubDate>
+		<pubDate>Thu, 14 Dec 2017 18:30:46 +0100</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3727924</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3727924</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 14 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 29 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3727924</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>SISTEMAZIONE CONTRIBUTIVA EX DIPENDENTE M. O. CESSATO DAL SERVIZIO IN DATA 30.11.2000 </title>
+			<description>SISTEMAZIONE CONTRIBUTIVA EX DIPENDENTE M. O. CESSATO DAL SERVIZIO IN DATA 30.11.2000 </description>
+			<a10:updated>2017-12-14T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3727920</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3727920</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 14 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 29 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3727920</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>IMPEGNO SOMMA PER PAGAMENTO SIAE </title>
+			<description>IMPEGNO SOMMA PER PAGAMENTO SIAE </description>
+			<a10:updated>2017-12-14T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3727915</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3727915</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 14 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 29 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3727915</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>INTEGRAZIONE SERVIZIO DI ASSISTENZA AL PUBBLICO E REFERENCE BIBLIOGRAFICO PRESSO LA BIBLIOTECA COMUNALE . CIG Z921ED283B </title>
+			<description>INTEGRAZIONE SERVIZIO DI ASSISTENZA AL PUBBLICO E REFERENCE BIBLIOGRAFICO PRESSO LA BIBLIOTECA COMUNALE . CIG Z921ED283B </description>
+			<a10:updated>2017-12-14T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3727086</guid>
 			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3727086</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>IMPEGNO E LIQUIDAZIONE CONTRIBUTO ECONOMICO PER EMERGENZA ABITATIVA. DICEMBRE 2017 </title>
 			<description>IMPEGNO E LIQUIDAZIONE CONTRIBUTO ECONOMICO PER EMERGENZA ABITATIVA. DICEMBRE 2017 </description>
-			<a10:updated>2017-12-13T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3720469</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3720469</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 13 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 28 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3720469</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>IMPEGNO CON LA CITTÀ METROPOLITANA DI VENEZIA PER IL RILASCIO DI TESSERE DI RICONOSCIMENTO PER AGEVOLAZIONI SUI MEZZI DI TRASPORTO PUBBLICO LOCALE A FASCE DI UTENTI DEBOLI. ANNO 2017. </title>
-			<description>IMPEGNO CON LA CITTÀ METROPOLITANA DI VENEZIA PER IL RILASCIO DI TESSERE DI RICONOSCIMENTO PER AGEVOLAZIONI SUI MEZZI DI TRASPORTO PUBBLICO LOCALE A FASCE DI UTENTI DEBOLI. ANNO 2017. </description>
-			<a10:updated>2017-12-13T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3720466</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3720466</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 13 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 28 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3720466</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>DELIBERAZIONE DI GIUNTA REGIONALE VENETO N. 1088/2017. ECCEZIONALI EVENTI ATMOSFERICI VERIFICATISI L'8 LUGLIO 2015 CHE HANNO COLPITO IL VENETO NEI TERRITORI DEI COMUNI DI DOLO,MIRA E PIANIGA. UTILIZZO DELLE RISORSE AFFLUITE SUL CONTO CORRENTE REGIONALE ISTITUITO PER L'EMERGENZA TORNADO 8.7.2015” IMPEGNO E LIQUIDAZIONE </title>
-			<description>DELIBERAZIONE DI GIUNTA REGIONALE VENETO N. 1088/2017. ECCEZIONALI EVENTI ATMOSFERICI VERIFICATISI L'8 LUGLIO 2015 CHE HANNO COLPITO IL VENETO NEI TERRITORI DEI COMUNI DI DOLO,MIRA E PIANIGA. UTILIZZO DELLE RISORSE AFFLUITE SUL CONTO CORRENTE REGIONALE ISTITUITO PER L'EMERGENZA TORNADO 8.7.2015” IMPEGNO E LIQUIDAZIONE </description>
-			<a10:updated>2017-12-13T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3720388</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3720388</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 13 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 21 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3720388</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISO GENERICO</category>
-			<title>AVVISO DI DEPOSITO 2 ATTI MESSO COMUNALE: CRON. N. 1592, ATTO T6301LA03357- CRON. N.1593 , ATTO T6301LA03378 </title>
-			<description>AVVISO DI DEPOSITO 2 ATTI MESSO COMUNALE: CRON. N. 1592, ATTO T6301LA03357- CRON. N.1593 , ATTO T6301LA03378 </description>
 			<a10:updated>2017-12-13T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
