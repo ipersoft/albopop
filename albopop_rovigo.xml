@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 13 Dec 2017 18:31:51 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 14 Dec 2017 08:31:31 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Wed, 13 Dec 2017 18:31:51 +0100</pubDate>
+		<pubDate>Thu, 14 Dec 2017 08:31:31 +0100</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -154,6 +154,17 @@
 			<a10:updated>2017-12-13T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3099220</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3099220</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 14 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 15 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3099220</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI ATTI DIVERSI</category>
+			<title>AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE_ELENCO N.142599 DEL 13/12/2017_N. 22 NOMINATIVI VARI </title>
+			<description>AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE_ELENCO N.142599 DEL 13/12/2017_N. 22 NOMINATIVI VARI </description>
+			<a10:updated>2017-12-14T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3098986</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3098986</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 13 Dec 2017 01:00:00 +0100</category>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
 			<title>GESTIONE LUNA PARK OTTOBRE RODIGINO 2017 - ACCERTAMENTO DEPOSITI CAUZIONALI </title>
 			<description>GESTIONE LUNA PARK OTTOBRE RODIGINO 2017 - ACCERTAMENTO DEPOSITI CAUZIONALI </description>
-			<a10:updated>2017-12-12T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3097637</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3097637</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 12 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 27 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3097637</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>DETERMINA DI IMPEGNO PER LA FORNITURA DI MATERIALE ELETTRICO DA INSTALLARE NEGLI IMPIANTI SPORTIVI COMUNALI DALLA DITTA MEROLA ELETTROFORNITURE DI MEROLA VALENTINA &amp; C. S.A.S DI ROVIGO. </title>
-			<description>DETERMINA DI IMPEGNO PER LA FORNITURA DI MATERIALE ELETTRICO DA INSTALLARE NEGLI IMPIANTI SPORTIVI COMUNALI DALLA DITTA MEROLA ELETTROFORNITURE DI MEROLA VALENTINA &amp; C. S.A.S DI ROVIGO. </description>
 			<a10:updated>2017-12-12T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

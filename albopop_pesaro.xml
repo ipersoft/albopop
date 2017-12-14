@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 13 Dec 2017 18:31:16 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 14 Dec 2017 08:30:41 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Wed, 13 Dec 2017 18:31:16 +0100</pubDate>
+		<pubDate>Thu, 14 Dec 2017 08:30:41 +0100</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -118,17 +118,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALBO SELEZIONI CONCORSI - ALBO</category>
 			<title>AVVISO DI ESPERIMENTO DELLA PROCEDURA DI MOBILITÀ FRA ENTI, AI SENSI DELL’ART.30 DEL D.LGS. 165/01 CATEGORIA GIURIDICA D1 - COMUNICAZIONE DATA E LUOGO DI SVOLGIMENTO DEL COLLOQUIO </title>
 			<description>AVVISO DI ESPERIMENTO DELLA PROCEDURA DI MOBILITÀ FRA ENTI, AI SENSI DELL’ART.30 DEL D.LGS. 165/01 CATEGORIA GIURIDICA D1 - COMUNICAZIONE DATA E LUOGO DI SVOLGIMENTO DEL COLLOQUIO </description>
-			<a10:updated>2017-12-13T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/835465</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/835465</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 13 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 13 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">835465</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALBO SELEZIONI CONCORSI - ALBO</category>
-			<title>AVVISO DI ESPERIMENTO DELLA PROCEDURA DI MOBILITÀ FRA ENTI, AI SENSI DELL’ART.30 DEL D.LGS. 165/01 CATEGORIA GIURIDICA C1, CON PRIORITÀ PER IL PERSONALE IN POSIZIONE DI COMANDO PRESSO IL COMUNE DI PESARO - COMUNICAZIONE DATA E LUOGO DI SVOLGIMENTO DEL COLLOQUIO </title>
-			<description>AVVISO DI ESPERIMENTO DELLA PROCEDURA DI MOBILITÀ FRA ENTI, AI SENSI DELL’ART.30 DEL D.LGS. 165/01 CATEGORIA GIURIDICA C1, CON PRIORITÀ PER IL PERSONALE IN POSIZIONE DI COMANDO PRESSO IL COMUNE DI PESARO - COMUNICAZIONE DATA E LUOGO DI SVOLGIMENTO DEL COLLOQUIO </description>
 			<a10:updated>2017-12-13T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
@@ -294,6 +283,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>CONTRATTO DI LOCAZIONE AD USO NON ABITATIVO CON LE ASS.NI CIRCOLO LEGAMBIENTE PESARO “IL RAGUSELLO” E UNICEF COMITATO PROV.LE DI PESARO E URBINO PER L’USO DELLA STANZA N. 17 POSTA ALL'INTERNO DEL COMPENDIO IMMOBILIARE EX-FERROTEL DENOMINATO “CASA DELLE ASSOCIAZIONI”. ASSUNZIONE ACCERTAMENTO ENTRATA. </title>
 			<description>CONTRATTO DI LOCAZIONE AD USO NON ABITATIVO CON LE ASS.NI CIRCOLO LEGAMBIENTE PESARO “IL RAGUSELLO” E UNICEF COMITATO PROV.LE DI PESARO E URBINO PER L’USO DELLA STANZA N. 17 POSTA ALL'INTERNO DEL COMPENDIO IMMOBILIARE EX-FERROTEL DENOMINATO “CASA DELLE ASSOCIAZIONI”. ASSUNZIONE ACCERTAMENTO ENTRATA. </description>
+			<a10:updated>2017-12-13T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/835225</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/835225</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 13 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 28 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">835225</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>FONDO DESTINATO AGLI INQUILINI MOROSI INCOLPEVOLI (FONDO 2016): APPROVAZIONE GRADUATORIA </title>
+			<description>FONDO DESTINATO AGLI INQUILINI MOROSI INCOLPEVOLI (FONDO 2016): APPROVAZIONE GRADUATORIA </description>
 			<a10:updated>2017-12-13T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
