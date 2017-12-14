@@ -5,7 +5,7 @@
 		<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Busnago</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 14 Dec 2017 15:31:07 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 14 Dec 2017 16:31:14 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Busnago</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Busnago</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_busnago</a10:id>
-		<pubDate>Thu, 14 Dec 2017 15:31:07 +0100</pubDate>
+		<pubDate>Thu, 14 Dec 2017 16:31:14 +0100</pubDate>
 		<docs>http://albopop.it/comune/busnago/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3726893</guid>
+			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3726893</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 14 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 29 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3726893</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DELIBERA DI GIUNTA </category>
+			<title>APPROVAZIONE RENDICONTO E RIPARTO SPESE DI GESTIONE SCUOLA MEDIA, MENSA E DIREZIONE DIDATTICA ISTITUTO COMPRENSIVO BUSNAGO-RONCELLO A.S. 2016-2018 </title>
+			<description>APPROVAZIONE RENDICONTO E RIPARTO SPESE DI GESTIONE SCUOLA MEDIA, MENSA E DIREZIONE DIDATTICA ISTITUTO COMPRENSIVO BUSNAGO-RONCELLO A.S. 2016-2018 </description>
+			<a10:updated>2017-12-14T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3726738</guid>
 			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3726738</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DETERMINAZIONE DEI RESPONSABILI</category>
 			<title>EMERGENZA ABITATIVA – CONTRIBUTO ECONOMICO AL NUCLEO FAMILIARE G.G. </title>
 			<description>EMERGENZA ABITATIVA – CONTRIBUTO ECONOMICO AL NUCLEO FAMILIARE G.G. </description>
-			<a10:updated>2017-12-11T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3713787</guid>
-			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3713787</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 11 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 26 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3713787</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DETERMINAZIONE DEI RESPONSABILI</category>
-			<title>RIMBORSO SPESE A DIPENDENTI VARI - MESE DI NOVEMBRE 2017. </title>
-			<description>RIMBORSO SPESE A DIPENDENTI VARI - MESE DI NOVEMBRE 2017. </description>
 			<a10:updated>2017-12-11T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
