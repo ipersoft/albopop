@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 15 Dec 2017 10:31:51 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 15 Dec 2017 11:34:13 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Fri, 15 Dec 2017 10:31:51 +0100</pubDate>
+		<pubDate>Fri, 15 Dec 2017 11:34:13 +0100</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3104225</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3104225</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 15 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 23 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3104225</category>
+			<category domain="http://albopop.it/specs#item-category-type">ACCERTAMENTO</category>
+			<title>PUBBLICAZIONE ART.60 A CARICO DI NUOVA EUROSYSTEM SRL, RAGUSAB FOOD SRL, FORNARO NADIA, LEO CAR SRL, SARACENO SAMJA, CHERNENKO NATALIYA, LAVORE SERGIO, GULINO GIUSEPPE, FRASCA ALESSANDRA, CICCIARELLA GIORGIA, GOLEMI CLIRIM, SORTINO ALDO, AMATO CONCETTA, LICITRA LETIZIA, PIOTROWSKI KAMIL, BANCHI GIOVANNA, EL OUARDI RIDHA, </title>
+			<description>PUBBLICAZIONE ART.60 A CARICO DI NUOVA EUROSYSTEM SRL, RAGUSAB FOOD SRL, FORNARO NADIA, LEO CAR SRL, SARACENO SAMJA, CHERNENKO NATALIYA, LAVORE SERGIO, GULINO GIUSEPPE, FRASCA ALESSANDRA, CICCIARELLA GIORGIA, GOLEMI CLIRIM, SORTINO ALDO, AMATO CONCETTA, LICITRA LETIZIA, PIOTROWSKI KAMIL, BANCHI GIOVANNA, EL OUARDI RIDHA, </description>
+			<a10:updated>2017-12-15T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3104041</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3104041</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI GIUNTA</category>
 			<title>DEL. G.M. N° 515/17 - RICORSO ALLA COMMISSIONE TRIBUTARIA PROVINCIALE DI RAGUSA AVVERSO AVVISO DI ACCERTAMENTO N. TYZ0TC100615/207 PER L'ANNO 2013 DELL'AGENZIA DELLE ENTRATE DI RAGUSA - AUTORIZZAZIONE AD AGIRE. </title>
 			<description>DEL. G.M. N° 515/17 - RICORSO ALLA COMMISSIONE TRIBUTARIA PROVINCIALE DI RAGUSA AVVERSO AVVISO DI ACCERTAMENTO N. TYZ0TC100615/207 PER L'ANNO 2013 DELL'AGENZIA DELLE ENTRATE DI RAGUSA - AUTORIZZAZIONE AD AGIRE. </description>
-			<a10:updated>2017-12-14T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3102107</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3102107</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 14 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 29 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3102107</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DEL G.M. N° 514/17 - APPROVAZIONE ACCORDO DI COLLABORAZIONE E MANUTENZIONE DELLO SPAZIO VERDE DENOMINATO "PARTICELLA 624" SITO A RAGUSA. DELIBERA CONSILIARE N. 7 DEL 27/01/2012. </title>
-			<description>DEL G.M. N° 514/17 - APPROVAZIONE ACCORDO DI COLLABORAZIONE E MANUTENZIONE DELLO SPAZIO VERDE DENOMINATO "PARTICELLA 624" SITO A RAGUSA. DELIBERA CONSILIARE N. 7 DEL 27/01/2012. </description>
 			<a10:updated>2017-12-14T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

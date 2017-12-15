@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 15 Dec 2017 10:30:55 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 15 Dec 2017 11:31:20 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Fri, 15 Dec 2017 10:30:55 +0100</pubDate>
+		<pubDate>Fri, 15 Dec 2017 11:31:20 +0100</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3729673</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3729673</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 15 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 30 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3729673</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
+			<title>DECADENZA DALL’ASSEGNAZIONE DELL’ALLOGGIO DI ERP – VIA CIMITERO N.20 SIG.__. </title>
+			<description>DECADENZA DALL’ASSEGNAZIONE DELL’ALLOGGIO DI ERP – VIA CIMITERO N.20 SIG.__. </description>
+			<a10:updated>2017-12-15T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3728940</guid>
 			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3728940</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>INTERVENTO PER L’INSTALLAZIONE DI UNA RINGHIERA PRESSO IL CIMITERO DI DOLO CAPOLUOGO. AFFIDAMENTO ALLA DITTA I.M.M.M.E.S. S.R.L. DI CAMPAGNA LUPIA (VE). </title>
 			<description>INTERVENTO PER L’INSTALLAZIONE DI UNA RINGHIERA PRESSO IL CIMITERO DI DOLO CAPOLUOGO. AFFIDAMENTO ALLA DITTA I.M.M.M.E.S. S.R.L. DI CAMPAGNA LUPIA (VE). </description>
-			<a10:updated>2017-12-14T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3724369</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3724369</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 14 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 29 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3724369</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>SERVIZIO PER LA REVISIONE DELL'AUTOCARRO FIAT FIORINO, DI PROPRIETÀ COMUNALE, TARGATO EJ840YR. AFFIDAMENTO ALLA DITTA CENTRO AUTORIPARAZIONI LEVORATO ILARIO S.R.L. DI DOLO (VE). </title>
-			<description>SERVIZIO PER LA REVISIONE DELL'AUTOCARRO FIAT FIORINO, DI PROPRIETÀ COMUNALE, TARGATO EJ840YR. AFFIDAMENTO ALLA DITTA CENTRO AUTORIPARAZIONI LEVORATO ILARIO S.R.L. DI DOLO (VE). </description>
 			<a10:updated>2017-12-14T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
