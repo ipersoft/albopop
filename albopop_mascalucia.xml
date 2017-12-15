@@ -5,7 +5,7 @@
 		<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mascalucia</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 15 Dec 2017 08:31:38 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 15 Dec 2017 09:31:48 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mascalucia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mascalucia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mascalucia</a10:id>
-		<pubDate>Fri, 15 Dec 2017 08:31:38 +0100</pubDate>
+		<pubDate>Fri, 15 Dec 2017 09:31:48 +0100</pubDate>
 		<docs>http://albopop.it/comune/mascalucia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3103675</guid>
+			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3103675</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 15 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 23 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3103675</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI STATO CIVILE (STC) PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>PUBBLICAZIONE DI MATRIMONIO SPAMPINATO VINCENZO / MARINO EGLE SILVIA </title>
+			<description>PUBBLICAZIONE DI MATRIMONIO SPAMPINATO VINCENZO / MARINO EGLE SILVIA </description>
+			<a10:updated>2017-12-15T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3103280</guid>
 			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3103280</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
 			<title>GESTIONE INTEGRATA DEI RIFIUTI - NOVEMBRE 2017 </title>
 			<description>GESTIONE INTEGRATA DEI RIFIUTI - NOVEMBRE 2017 </description>
-			<a10:updated>2017-12-13T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3099802</guid>
-			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3099802</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 13 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 28 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3099802</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
-			<title>LIQUIDAZIONE SOMME PER LA PUBBLICAZIONE DELL'ESTRATTO DEL BANDO DI GARA PER L’AFFIDAMENTO DEI SERVIZI: 1) SERVIZIO DI ASSISTENZA IGIENICO PERSONALE E PER IL SERVIZIO PER L'AUTONOMIA E LA COMUNICAZIONE PERSONALE DEGLI ALUNNI CON HANDICAP FISICI O SENSORIALI; 2) SERVIZIO DI POTENZIAMENTO SERVIZIO SOCIALE PROFESSIONALE; 3)SERVIZI RISPONDENTI A ESIGENZE STRUMENTALI ALL'ATTIVITÀ DELL'ENTE, A COOPERATIVA SOCIALE DI TIPO “B” G.U.R.S. CON SEDE IN VIA CALTANISSETTA 2/E PALERMO PARTITA IVA 02711070827 </title>
-			<description>LIQUIDAZIONE SOMME PER LA PUBBLICAZIONE DELL'ESTRATTO DEL BANDO DI GARA PER L’AFFIDAMENTO DEI SERVIZI: 1) SERVIZIO DI ASSISTENZA IGIENICO PERSONALE E PER IL SERVIZIO PER L'AUTONOMIA E LA COMUNICAZIONE PERSONALE DEGLI ALUNNI CON HANDICAP FISICI O SENSORIALI; 2) SERVIZIO DI POTENZIAMENTO SERVIZIO SOCIALE PROFESSIONALE; 3)SERVIZI RISPONDENTI A ESIGENZE STRUMENTALI ALL'ATTIVITÀ DELL'ENTE, A COOPERATIVA SOCIALE DI TIPO “B” G.U.R.S. CON SEDE IN VIA CALTANISSETTA 2/E PALERMO PARTITA IVA 02711070827 </description>
 			<a10:updated>2017-12-13T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

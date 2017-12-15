@@ -5,7 +5,7 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 15 Dec 2017 08:31:30 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 15 Dec 2017 09:31:45 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Isernia</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>Fri, 15 Dec 2017 08:31:30 +0100</pubDate>
+		<pubDate>Fri, 15 Dec 2017 09:31:45 +0100</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3728454</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3728454</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 15 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 30 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3728454</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
+			<title>FORNITURA CARBURANTI AUTOVEICOLI COMUNALI DITTA TAMOIL ITALIA S.p.A. - LIQUIDAZIONE FATTURA N. DA17094521.- </title>
+			<description>FORNITURA CARBURANTI AUTOVEICOLI COMUNALI DITTA TAMOIL ITALIA S.p.A. - LIQUIDAZIONE FATTURA N. DA17094521.- </description>
+			<a10:updated>2017-12-15T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3728356</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3728356</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 15 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 30 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3728356</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
+			<title>FORNITURA CARBURANTI AUTOVEICOLI COMUNALI DITTA TAMOIL ITALIA S.p.A. - LIQUIDAZIONE FATTURA N. DA17091014.- </title>
+			<description>FORNITURA CARBURANTI AUTOVEICOLI COMUNALI DITTA TAMOIL ITALIA S.p.A. - LIQUIDAZIONE FATTURA N. DA17091014.- </description>
+			<a10:updated>2017-12-15T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3728217</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3728217</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 15 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 30 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3728217</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
+			<title>FORNITURA CARBURANTI AUTOVEICOLI COMUNALI DITTA TAMOIL ITALIA S.p.A. - LIQUIDAZIONE FATTURA N. DA17083586.- </title>
+			<description>FORNITURA CARBURANTI AUTOVEICOLI COMUNALI DITTA TAMOIL ITALIA S.p.A. - LIQUIDAZIONE FATTURA N. DA17083586.- </description>
+			<a10:updated>2017-12-15T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3726497</guid>
 			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3726497</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
 			<title>AFFIDAMENTO SERVIZIO DI LEASING DI PERSONAL COMPUTER PER IL I° e II° SETTORE dell’Ente - DITTA C2 Srl - ORDINE DIRETTO ACQUISTO MEPA. </title>
 			<description>AFFIDAMENTO SERVIZIO DI LEASING DI PERSONAL COMPUTER PER IL I° e II° SETTORE dell’Ente - DITTA C2 Srl - ORDINE DIRETTO ACQUISTO MEPA. </description>
-			<a10:updated>2017-12-13T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3721153</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3721153</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 13 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 28 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3721153</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
-			<title>[AMBITO TERRITORIALE SOCIALE] PIANO SOCIALE DI ZONA. FNA 2015-SERVZIO ASSISTENZA DOMICILIARE. LIQUIDAZIONE DELLE FATTURE ALLA FUTURA COOPERATIVA SOCIALE - PERIODO OTTOBRE 2017. </title>
-			<description>[AMBITO TERRITORIALE SOCIALE] PIANO SOCIALE DI ZONA. FNA 2015-SERVZIO ASSISTENZA DOMICILIARE. LIQUIDAZIONE DELLE FATTURE ALLA FUTURA COOPERATIVA SOCIALE - PERIODO OTTOBRE 2017. </description>
-			<a10:updated>2017-12-13T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3721151</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3721151</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 13 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 28 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3721151</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
-			<title>[AMBITO TERRITORIALE SOCIALE] PIANO SOCIALE DI ZONA. FNA 2015-SERVZIO ASSISTENZA DOMICILIARE. LIQUIDAZIONE DELLE FATTURE ALLA CASI SOCIETÀ COOPERATIVA SOCIALE - PERIODO NOVEMBRE 2017. </title>
-			<description>[AMBITO TERRITORIALE SOCIALE] PIANO SOCIALE DI ZONA. FNA 2015-SERVZIO ASSISTENZA DOMICILIARE. LIQUIDAZIONE DELLE FATTURE ALLA CASI SOCIETÀ COOPERATIVA SOCIALE - PERIODO NOVEMBRE 2017. </description>
-			<a10:updated>2017-12-13T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3721029</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3721029</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 13 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 28 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3721029</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
-			<title>Utenza energia elettrica presso il cimitero di Isernia capoluogo - Liquidazione di spesa Ditta " ENEL Energia S.p.A." – ottobre e novembre 2017 - C.I.G. Z1D1D1B7FE. </title>
-			<description>Utenza energia elettrica presso il cimitero di Isernia capoluogo - Liquidazione di spesa Ditta " ENEL Energia S.p.A." – ottobre e novembre 2017 - C.I.G. Z1D1D1B7FE. </description>
 			<a10:updated>2017-12-13T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
