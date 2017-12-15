@@ -5,7 +5,7 @@
 		<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/igrid/1210528</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Celle di Bulgheria</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 15 Dec 2017 13:30:35 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 15 Dec 2017 14:30:35 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Celle di Bulgheria</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Salerno</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Celle di Bulgheria</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_celledibulgheria</a10:id>
-		<pubDate>Fri, 15 Dec 2017 13:30:35 +0100</pubDate>
+		<pubDate>Fri, 15 Dec 2017 14:30:35 +0100</pubDate>
 		<docs>http://albopop.it/comune/celledibulgheria/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/3105260</guid>
+			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/3105260</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 15 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 30 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3105260</category>
+			<category domain="http://albopop.it/specs#item-category-type">BANDI E AVVISI CONVOCAZIONI</category>
+			<title>INTEGRAZIONE CONVOCAZIONE CONSIGLIO COMUNALE PER IL GIORNO 18/12/2017 </title>
+			<description>INTEGRAZIONE CONVOCAZIONE CONSIGLIO COMUNALE PER IL GIORNO 18/12/2017 </description>
+			<a10:updated>2017-12-15T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/3102204</guid>
 			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/3102204</link>
@@ -229,17 +240,6 @@
 			<title>DETERMINA DI AFFIDAMENTO PER FORNITURA PANETTONI NATALIZI ANNO 2017 - CIG: ZBE2126A53 </title>
 			<description>DETERMINA DI AFFIDAMENTO PER FORNITURA PANETTONI NATALIZI ANNO 2017 - CIG: ZBE2126A53 </description>
 			<a10:updated>2017-12-13T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/3097862</guid>
-			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/3097862</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 12 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 27 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3097862</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>INDIRIZZO RESPONSABILE DEL PERSONALE ASSUNZIONE PERSONALE A TEMPO DETERMINATO GRADUATORIA COMUNI LIMITROFI </title>
-			<description>INDIRIZZO RESPONSABILE DEL PERSONALE ASSUNZIONE PERSONALE A TEMPO DETERMINATO GRADUATORIA COMUNI LIMITROFI </description>
-			<a10:updated>2017-12-12T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
