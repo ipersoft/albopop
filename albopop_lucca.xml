@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 15 Dec 2017 15:31:59 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 15 Dec 2017 16:31:51 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Fri, 15 Dec 2017 15:31:59 +0100</pubDate>
+		<pubDate>Fri, 15 Dec 2017 16:31:51 +0100</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3732179</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3732179</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 15 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 30 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3732179</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBI</category>
+			<title>CONVOCAZIONE DELLA COMMISSIONE SPECIALE SULLA SICUREZZA NEI LUOGHI DI LAVORO PER GIOVEDI' 21 DICEMBRE ALLE ORE 18.00 </title>
+			<description>CONVOCAZIONE DELLA COMMISSIONE SPECIALE SULLA SICUREZZA NEI LUOGHI DI LAVORO PER GIOVEDI' 21 DICEMBRE ALLE ORE 18.00 </description>
+			<a10:updated>2017-12-15T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3732086</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3732086</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>AFFIDAMENTO BIENNALE DEL SERVIZIO DI PRELIEVO, TRASPORTO, MESSA IN SICUREZZA, CUSTODIA, DEMOLIZIONE E RADIAZIONE DAL PUBBLICO REGISTRO AUTOMOBILISTICO DEI VEICOLI FUORI USO ABBANDONATI SU AREA PUBBLICA DEL TERRITORIO COMUNALE DI LUCCA, AI SENSI DELL'ART. 30 DEL D. LGS. 163/2006 E S.M.I., DEL D.M. 460/1999 E DEL D. LGS. 209/2003 CORRETTO ED INTEGRATO DAL D. LGS. 149/2006 – INTEGRAZIONE DELLA SPESA – FAMIGLIA 11 “ALTRO”) CIG: Z9318C2F08 </title>
 			<description>AFFIDAMENTO BIENNALE DEL SERVIZIO DI PRELIEVO, TRASPORTO, MESSA IN SICUREZZA, CUSTODIA, DEMOLIZIONE E RADIAZIONE DAL PUBBLICO REGISTRO AUTOMOBILISTICO DEI VEICOLI FUORI USO ABBANDONATI SU AREA PUBBLICA DEL TERRITORIO COMUNALE DI LUCCA, AI SENSI DELL'ART. 30 DEL D. LGS. 163/2006 E S.M.I., DEL D.M. 460/1999 E DEL D. LGS. 209/2003 CORRETTO ED INTEGRATO DAL D. LGS. 149/2006 – INTEGRAZIONE DELLA SPESA – FAMIGLIA 11 “ALTRO”) CIG: Z9318C2F08 </description>
-			<a10:updated>2017-12-15T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3730002</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3730002</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 15 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 30 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3730002</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>UFFICI COMUNALI: LIQUIDAZIONE LAVORO STRAORDINARIO PER PRESTAZIONI RELATIVE AL MESE DI OTTOBRE 2017. </title>
-			<description>UFFICI COMUNALI: LIQUIDAZIONE LAVORO STRAORDINARIO PER PRESTAZIONI RELATIVE AL MESE DI OTTOBRE 2017. </description>
 			<a10:updated>2017-12-15T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
