@@ -5,7 +5,7 @@
 		<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mascalucia</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 15 Dec 2017 12:32:16 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 15 Dec 2017 13:31:36 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mascalucia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mascalucia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mascalucia</a10:id>
-		<pubDate>Fri, 15 Dec 2017 12:32:16 +0100</pubDate>
+		<pubDate>Fri, 15 Dec 2017 13:31:36 +0100</pubDate>
 		<docs>http://albopop.it/comune/mascalucia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3105060</guid>
+			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3105060</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 15 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 22 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3105060</category>
+			<category domain="http://albopop.it/specs#item-category-type">COMMISSIONI CONSILIARI CONVOCAZIONE II COMMISSIONE CONSILIARE</category>
+			<title>CONVOCAZIONE SEDUTE SECONDA COMMISSIONE DAL 18 AL 22 DICEMBRE 2017. </title>
+			<description>CONVOCAZIONE SEDUTE SECONDA COMMISSIONE DAL 18 AL 22 DICEMBRE 2017. </description>
+			<a10:updated>2017-12-15T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3104515</guid>
 			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3104515</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
 			<title>RICOVERO DISABILE S.S.M. LIQUIDAZIONE PERIODO: NOVEMBRE 2017. BENEFICIARIO: ASSOCIAZIONE ALBA ONLUS- MASCALUCIA. PARTITA IVA: IT03450780873 VIA ETNEA 340B-95030-MASCALUCIA(CT) </title>
 			<description>RICOVERO DISABILE S.S.M. LIQUIDAZIONE PERIODO: NOVEMBRE 2017. BENEFICIARIO: ASSOCIAZIONE ALBA ONLUS- MASCALUCIA. PARTITA IVA: IT03450780873 VIA ETNEA 340B-95030-MASCALUCIA(CT) </description>
-			<a10:updated>2017-12-13T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3099937</guid>
-			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3099937</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 13 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 28 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3099937</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
-			<title> LIQUIDAZIONE RETTA DI RICOVERO ANZIANI S.G.- S. C.- M.G. SETTEMBRE - OTTOBRE 2017 DITTA: A.RI.A.L. “VILLA CRISTINA”– MASCALUCIA. PARTITA IVA: IT03320380870 SEDE: VIA WAGNER 44 – 95030 - MASCALUCIA (CT) </title>
-			<description> LIQUIDAZIONE RETTA DI RICOVERO ANZIANI S.G.- S. C.- M.G. SETTEMBRE - OTTOBRE 2017 DITTA: A.RI.A.L. “VILLA CRISTINA”– MASCALUCIA. PARTITA IVA: IT03320380870 SEDE: VIA WAGNER 44 – 95030 - MASCALUCIA (CT) </description>
 			<a10:updated>2017-12-13T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

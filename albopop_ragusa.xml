@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 15 Dec 2017 12:32:18 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 15 Dec 2017 13:31:38 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Fri, 15 Dec 2017 12:32:18 +0100</pubDate>
+		<pubDate>Fri, 15 Dec 2017 13:31:38 +0100</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3104885</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3104885</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 15 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 30 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3104885</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA SINDACALI</category>
+			<title>DET.SIND. N° 60/17 - AUTORIZZAZIONE ALLA DIPENDENTE APARO FRANCESCA ALL'ESPLETAMENTO DI CORSI DI SOSTEGNO E FORMAZIONE PER ADULTI. </title>
+			<description>DET.SIND. N° 60/17 - AUTORIZZAZIONE ALLA DIPENDENTE APARO FRANCESCA ALL'ESPLETAMENTO DI CORSI DI SOSTEGNO E FORMAZIONE PER ADULTI. </description>
+			<a10:updated>2017-12-15T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3104704</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3104704</link>
@@ -284,17 +295,6 @@
 			<title>RETTIFICA DETRMINAZIONE N. 2286 DEL 13/12/2017 - DETERMINAZIONE A CONTRARE (ART. 192 TUEL) PRESTITO ORDINARIO CON LA CASSA DD.PP. S.P.A. PER L'ESECUZIONE DEI LAVORI DI COPERTURA CON TENSOSTRUTTURA CAMPO DA TENNIS C.DA GESUITI A MARINA DI RAGUSA </title>
 			<description>RETTIFICA DETRMINAZIONE N. 2286 DEL 13/12/2017 - DETERMINAZIONE A CONTRARE (ART. 192 TUEL) PRESTITO ORDINARIO CON LA CASSA DD.PP. S.P.A. PER L'ESECUZIONE DEI LAVORI DI COPERTURA CON TENSOSTRUTTURA CAMPO DA TENNIS C.DA GESUITI A MARINA DI RAGUSA </description>
 			<a10:updated>2017-12-15T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3103286</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3103286</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 14 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 21 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3103286</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
-			<title>RINNOVO N. 450 LICENZE ANTIVIRUS PER SERVER E PDL DELL'ENTE. CIG: ZC0214FACC </title>
-			<description>RINNOVO N. 450 LICENZE ANTIVIRUS PER SERVER E PDL DELL'ENTE. CIG: ZC0214FACC </description>
-			<a10:updated>2017-12-14T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>

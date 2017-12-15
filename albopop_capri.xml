@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 15 Dec 2017 12:32:14 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 15 Dec 2017 13:31:35 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Fri, 15 Dec 2017 12:32:14 +0100</pubDate>
+		<pubDate>Fri, 15 Dec 2017 13:31:35 +0100</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3104928</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3104928</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 15 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 30 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3104928</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>APPROVAZIONE PREVENTIVO DELLA DITTA FABRIACART S.R.L. DA FABRIANO (AN) PER ACQUISTO CARTA E MATERIALE DI CANCELLERIA TRAMITE IL MEPA. CIG Z2B21436BE </title>
+			<description>APPROVAZIONE PREVENTIVO DELLA DITTA FABRIACART S.R.L. DA FABRIANO (AN) PER ACQUISTO CARTA E MATERIALE DI CANCELLERIA TRAMITE IL MEPA. CIG Z2B21436BE </description>
+			<a10:updated>2017-12-15T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3104496</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3104496</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">AVVISO PUBBLICAZIONE AVVISO</category>
 			<title>AVVISO RILASCIO PERMESSO DI COSTRUIRE SIGG.RI OLIVIERO/GALLO </title>
 			<description>AVVISO RILASCIO PERMESSO DI COSTRUIRE SIGG.RI OLIVIERO/GALLO </description>
-			<a10:updated>2017-12-13T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3098278</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3098278</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 13 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 28 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3098278</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
-			<title>NOLEGGIO DEL COPIATORE DIGITALE MATRICOLA E204RB63237. LIQUIDAZIONE DELLE FATTURE DELLA DITTA "RICOH ITALIA S.R.L." DI MILANO PER L'ADDEBITAMENTO DEI COSTI DEL CANONE RELATIVO AL PERIODO DAL 1.12.2017 AL 28.2.2018 E DELLE COPIE A COLORI DAL 1.9.2017 AL 30.11.2017. </title>
-			<description>NOLEGGIO DEL COPIATORE DIGITALE MATRICOLA E204RB63237. LIQUIDAZIONE DELLE FATTURE DELLA DITTA "RICOH ITALIA S.R.L." DI MILANO PER L'ADDEBITAMENTO DEI COSTI DEL CANONE RELATIVO AL PERIODO DAL 1.12.2017 AL 28.2.2018 E DELLE COPIE A COLORI DAL 1.9.2017 AL 30.11.2017. </description>
 			<a10:updated>2017-12-13T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
