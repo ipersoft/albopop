@@ -5,7 +5,7 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 15 Dec 2017 14:31:27 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 15 Dec 2017 15:32:04 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Isernia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>Fri, 15 Dec 2017 14:31:27 +0100</pubDate>
+		<pubDate>Fri, 15 Dec 2017 15:32:04 +0100</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3732093</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3732093</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 15 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 30 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3732093</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
+			<title>Accordo quadro per servizi inerenti la manutenzione del verde pubblico comunale anni 2016/2017. Variazione di esigibilità. </title>
+			<description>Accordo quadro per servizi inerenti la manutenzione del verde pubblico comunale anni 2016/2017. Variazione di esigibilità. </description>
+			<a10:updated>2017-12-15T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3730350</guid>
 			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3730350</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA GIUNTA COMUNALE</category>
 			<title>Concessione del patrocinio e della sala dell'Auditorium "Unità d'Italia" per Convegno "Nativi Europei" (12 dicembre 2017) </title>
 			<description>Concessione del patrocinio e della sala dell'Auditorium "Unità d'Italia" per Convegno "Nativi Europei" (12 dicembre 2017) </description>
-			<a10:updated>2017-12-13T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3721328</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3721328</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 13 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 28 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3721328</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA GIUNTA COMUNALE</category>
-			<title>accordo 06-07-2017 - adozione moduli unificati e standardizzati per la presentazione delle segnalazioni, comunicazioni e istanze in materia di attività commerciali e assimilate e in materia edilizia – presa d’atto -. </title>
-			<description>accordo 06-07-2017 - adozione moduli unificati e standardizzati per la presentazione delle segnalazioni, comunicazioni e istanze in materia di attività commerciali e assimilate e in materia edilizia – presa d’atto -. </description>
 			<a10:updated>2017-12-13T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
