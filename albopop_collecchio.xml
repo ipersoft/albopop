@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 16 Dec 2017 12:31:34 +0100</lastBuildDate>
+		<lastBuildDate>Sat, 16 Dec 2017 13:31:19 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Sat, 16 Dec 2017 12:31:34 +0100</pubDate>
+		<pubDate>Sat, 16 Dec 2017 13:31:19 +0100</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3106067</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3106067</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 16 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 24 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3106067</category>
+			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>PUBBLICAZIONI DI MATRIMONIO RELATIVO A MIZIA RICCARDO E TREMOLADA DANIELA </title>
+			<description>PUBBLICAZIONI DI MATRIMONIO RELATIVO A MIZIA RICCARDO E TREMOLADA DANIELA </description>
+			<a10:updated>2017-12-16T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3104457</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3104457</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
 			<title>AFFIDAMENTO DIRETTO ALLA DITTA SANI RINO SRL CON SEDE IN VIALE ALDO MORO 13/B A FELINO (PR) P.IVA 02566400343 LAVORI DI SISTEMAZIONE PAVIMENTAZIONE PISTA CICLO-PEDONALE IN GAIANO –ULTERIORE AFFIDAMENTO CODICE CIG Z672138BA5 </title>
 			<description>AFFIDAMENTO DIRETTO ALLA DITTA SANI RINO SRL CON SEDE IN VIALE ALDO MORO 13/B A FELINO (PR) P.IVA 02566400343 LAVORI DI SISTEMAZIONE PAVIMENTAZIONE PISTA CICLO-PEDONALE IN GAIANO –ULTERIORE AFFIDAMENTO CODICE CIG Z672138BA5 </description>
-			<a10:updated>2017-12-14T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3103415</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3103415</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 14 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 29 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3103415</category>
-			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
-			<title>AFFIDAMENTO SERVIZIO NOTARILE DI ACCETTAZIONE D’EREDITA’ CON BENEFICIO DI INVENTARIO DEL PROF. ALINOVI MARIO A FAVORE DEL NOTAIO SPAGNA MUSSO STEFANO – CIG Z7C2077DE3 </title>
-			<description>AFFIDAMENTO SERVIZIO NOTARILE DI ACCETTAZIONE D’EREDITA’ CON BENEFICIO DI INVENTARIO DEL PROF. ALINOVI MARIO A FAVORE DEL NOTAIO SPAGNA MUSSO STEFANO – CIG Z7C2077DE3 </description>
 			<a10:updated>2017-12-14T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
