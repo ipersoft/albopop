@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 18 Dec 2017 12:30:47 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 18 Dec 2017 13:30:43 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Mon, 18 Dec 2017 12:30:47 +0100</pubDate>
+		<pubDate>Mon, 18 Dec 2017 13:30:43 +0100</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3735508</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3735508</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 18 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 02 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3735508</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>LIQUIDAZIONE FATTURA A VEGA CARBURANTI S.P.A. PER LA FORNITURA DI CARBURANTE PER AUTOTRAZIONE – PERIODO NOVEMBRE 2017. </title>
+			<description>LIQUIDAZIONE FATTURA A VEGA CARBURANTI S.P.A. PER LA FORNITURA DI CARBURANTE PER AUTOTRAZIONE – PERIODO NOVEMBRE 2017. </description>
+			<a10:updated>2017-12-18T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3735341</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3735341</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 18 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 02 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3735341</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>LIQUIDAZIONE FATTURA N. 16369 DEL 30.11.2017 DITTA GRAFICHE GASPARI DI GASPARI TERESA S.R.L. DI GRANAROLO DELL’EMILIA (BO) </title>
+			<description>LIQUIDAZIONE FATTURA N. 16369 DEL 30.11.2017 DITTA GRAFICHE GASPARI DI GASPARI TERESA S.R.L. DI GRANAROLO DELL’EMILIA (BO) </description>
+			<a10:updated>2017-12-18T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3735337</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3735337</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 18 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 02 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3735337</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>LIQUIDAZIONE FATTURA N. 6400051781 DEL 30.11.2017 DITTA SODEXO ITALIA S.P.A. DI CINISELLO BALSAMO (MI) </title>
+			<description>LIQUIDAZIONE FATTURA N. 6400051781 DEL 30.11.2017 DITTA SODEXO ITALIA S.P.A. DI CINISELLO BALSAMO (MI) </description>
+			<a10:updated>2017-12-18T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3734472</guid>
 			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3734472</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>PROSECUZIONE PERCORSO DI LETTURA PRESSO LA BIBLIOTECA E ACQUISTO VOLUMI. CIG ZED2140510 </title>
 			<description>PROSECUZIONE PERCORSO DI LETTURA PRESSO LA BIBLIOTECA E ACQUISTO VOLUMI. CIG ZED2140510 </description>
-			<a10:updated>2017-12-14T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3725283</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3725283</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 14 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 29 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3725283</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>IMPEGNO DI SPESA PER REALIZZAZIONE N. 3 SPETTACOLI PER GLI STUDENTI DELL’ISTITUTO COMPRENSIVO DI DOLO - CODICE CIG Z7A213F0DA. </title>
-			<description>IMPEGNO DI SPESA PER REALIZZAZIONE N. 3 SPETTACOLI PER GLI STUDENTI DELL’ISTITUTO COMPRENSIVO DI DOLO - CODICE CIG Z7A213F0DA. </description>
-			<a10:updated>2017-12-14T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3725148</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3725148</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 14 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 19 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3725148</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISO GENERICO</category>
-			<title>RICHIESTA PUBBLICAZIONE AVVISO DI MOBILITA' CAT D.3 (EX 8 Q.F.) FUNZIONARIO AMMINISTRATIVO CONTABILE. </title>
-			<description>RICHIESTA PUBBLICAZIONE AVVISO DI MOBILITA' CAT D.3 (EX 8 Q.F.) FUNZIONARIO AMMINISTRATIVO CONTABILE. </description>
-			<a10:updated>2017-12-14T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3725145</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3725145</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 14 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 29 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3725145</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>IMPEGNO DI SPESA E LIQUIDAZIONE CONTRIBUTO FORFETTARIO, A PARTNERS OPERATIVI DIVERSI, A RIMBORSO SPESE PER L’ORGANIZZAZIONE E GESTIONE DI QUATTRO INCONTRI DI FORMAZIONE E SENSIBILIZZAZIONE DEL TERRITORIO DELLA RIVIERA DEL BRENTA, QUALE ATTIVITÀ DI IMPLEMENTAZIONE SU BASE LOCALE DEL PROGETTO “ALLEANZA PER LE FAMIGLIE DELLA RIVIERA DEL BRENTA”, ELABORATO DAGLI ADERENTI ALL’ACCORDO VOLONTARIO PER LA CREAZIONE DI UN’”ALLEANZA PER LE FAMIGLIE” APPROVATO CON DELIBERA DI G.C. N.31/2016. </title>
-			<description>IMPEGNO DI SPESA E LIQUIDAZIONE CONTRIBUTO FORFETTARIO, A PARTNERS OPERATIVI DIVERSI, A RIMBORSO SPESE PER L’ORGANIZZAZIONE E GESTIONE DI QUATTRO INCONTRI DI FORMAZIONE E SENSIBILIZZAZIONE DEL TERRITORIO DELLA RIVIERA DEL BRENTA, QUALE ATTIVITÀ DI IMPLEMENTAZIONE SU BASE LOCALE DEL PROGETTO “ALLEANZA PER LE FAMIGLIE DELLA RIVIERA DEL BRENTA”, ELABORATO DAGLI ADERENTI ALL’ACCORDO VOLONTARIO PER LA CREAZIONE DI UN’”ALLEANZA PER LE FAMIGLIE” APPROVATO CON DELIBERA DI G.C. N.31/2016. </description>
 			<a10:updated>2017-12-14T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

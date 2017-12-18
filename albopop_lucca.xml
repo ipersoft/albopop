@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 18 Dec 2017 12:31:16 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 18 Dec 2017 13:31:23 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Mon, 18 Dec 2017 12:31:16 +0100</pubDate>
+		<pubDate>Mon, 18 Dec 2017 13:31:23 +0100</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3735401</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3735401</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 18 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 02 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3735401</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>UFFICIO DI SUPPORTO AL SINDACO (UFFICIO DI GABINETTO) – ASSUNZIONE DI COLLABORATORI ESTERNI </title>
+			<description>UFFICIO DI SUPPORTO AL SINDACO (UFFICIO DI GABINETTO) – ASSUNZIONE DI COLLABORATORI ESTERNI </description>
+			<a10:updated>2017-12-18T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3735296</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3735296</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 18 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 02 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3735296</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>DETERMINAZIONE A CONTRARRE PER L'ASSUNZIONE DI UN PRESTITO FLESSIBILE DI € 120.000,00 CON LA CASSA DEPOSITI E PRESTITI S.P.A. </title>
+			<description>DETERMINAZIONE A CONTRARRE PER L'ASSUNZIONE DI UN PRESTITO FLESSIBILE DI € 120.000,00 CON LA CASSA DEPOSITI E PRESTITI S.P.A. </description>
+			<a10:updated>2017-12-18T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3734421</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3734421</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">CONVOCAZIONI</category>
 			<title>SEDUTA CONSIGLIO COMUNALE DEL 21/12/2017, CONVOCAZIONE TRASMISSIONE ORDINE DEL GIORNO </title>
 			<description>SEDUTA CONSIGLIO COMUNALE DEL 21/12/2017, CONVOCAZIONE TRASMISSIONE ORDINE DEL GIORNO </description>
-			<a10:updated>2017-12-15T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3730617</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3730617</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 15 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 30 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3730617</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title> U.O.5.1 – INTERVENTI RETE VARCHI E VIDEOSORVEGLIANZA URBANA PIAZZALE SAN DONATO - AFFIDAMENTO LAVORI. CIG Z8D213D794 FAMIGLIA ATTI 03 </title>
-			<description> U.O.5.1 – INTERVENTI RETE VARCHI E VIDEOSORVEGLIANZA URBANA PIAZZALE SAN DONATO - AFFIDAMENTO LAVORI. CIG Z8D213D794 FAMIGLIA ATTI 03 </description>
-			<a10:updated>2017-12-15T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3730614</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3730614</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 15 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 30 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3730614</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>DIPENDENTI COMUNALI - LIQUIDAZIONE RIMBORSO SPESE PER MISSIONI OTTOBRE 2017 </title>
-			<description>DIPENDENTI COMUNALI - LIQUIDAZIONE RIMBORSO SPESE PER MISSIONI OTTOBRE 2017 </description>
 			<a10:updated>2017-12-15T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
