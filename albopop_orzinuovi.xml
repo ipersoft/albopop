@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 18 Dec 2017 16:31:02 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 18 Dec 2017 17:30:44 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Mon, 18 Dec 2017 16:31:02 +0100</pubDate>
+		<pubDate>Mon, 18 Dec 2017 17:30:44 +0100</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3108603</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3108603</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 18 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 17 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3108603</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI AVVIO DI PROCEDIMENTO</category>
+			<title>PROVVEDIMENTO DI CANCELLAZIONE ANAGRAFICA PEZZOLA A. </title>
+			<description>PROVVEDIMENTO DI CANCELLAZIONE ANAGRAFICA PEZZOLA A. </description>
+			<a10:updated>2017-12-18T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3108475</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3108475</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 18 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 17 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3108475</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI AVVIO DI PROCEDIMENTO</category>
+			<title>PROVVEDIMENTO DI CANCELLAZIONE ANAGRAFICA PEZZOLA D. </title>
+			<description>PROVVEDIMENTO DI CANCELLAZIONE ANAGRAFICA PEZZOLA D. </description>
+			<a10:updated>2017-12-18T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3108473</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3108473</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 18 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 02 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3108473</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>CIG Z89212D794 E CIG ZAB212D7EB IMPEGNO DI SPESA PER L’ACQUISTO DI MATERIALE LIBRARIO PER ADULTI, BAMBINI E RAGAZZI PER LA BIBLIOTECA COMUNALE ANNO 2017 </title>
+			<description>CIG Z89212D794 E CIG ZAB212D7EB IMPEGNO DI SPESA PER L’ACQUISTO DI MATERIALE LIBRARIO PER ADULTI, BAMBINI E RAGAZZI PER LA BIBLIOTECA COMUNALE ANNO 2017 </description>
+			<a10:updated>2017-12-18T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3108362</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3108362</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
 			<title>CONCESSIONE DEL PATROCINIO COMUNALE PER LA RAPPRESENTAZIONE TEATRO DIALETTALE DELLA COMMEDIA “TAT LA VA LA GATO AL LART CHE LA GA LASO AL SO SGRIFI” A CURA DELLA COMPAGNIA TEATRALE AMATORIALE “LA CONIOLESE” </title>
 			<description>CONCESSIONE DEL PATROCINIO COMUNALE PER LA RAPPRESENTAZIONE TEATRO DIALETTALE DELLA COMMEDIA “TAT LA VA LA GATO AL LART CHE LA GA LASO AL SO SGRIFI” A CURA DELLA COMPAGNIA TEATRALE AMATORIALE “LA CONIOLESE” </description>
-			<a10:updated>2017-12-15T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3104392</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3104392</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 15 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 29 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3104392</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>CONCESSIONE DEL PATROCINIO COMUNALE PER L’INIZIATIVA “CONCERTO DI NATALE” ALL’ASSOCIAZIONE BANDA MUSICALE CITTÀ DI ORZINUOVI </title>
-			<description>CONCESSIONE DEL PATROCINIO COMUNALE PER L’INIZIATIVA “CONCERTO DI NATALE” ALL’ASSOCIAZIONE BANDA MUSICALE CITTÀ DI ORZINUOVI </description>
-			<a10:updated>2017-12-15T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3104389</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3104389</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 15 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 29 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3104389</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>CONCESSIONE PATROCINIO COMUNALE PER SERATA DEDICATA AD ALDA MERINI </title>
-			<description>CONCESSIONE PATROCINIO COMUNALE PER SERATA DEDICATA AD ALDA MERINI </description>
-			<a10:updated>2017-12-15T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3104386</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3104386</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 15 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 29 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3104386</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>EROGAZIONE CONTRIBUTO ECONOMICO ALLA PARROCCHIA DI SAN GIORGIO MARTIRE OVANENGO </title>
-			<description>EROGAZIONE CONTRIBUTO ECONOMICO ALLA PARROCCHIA DI SAN GIORGIO MARTIRE OVANENGO </description>
 			<a10:updated>2017-12-15T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

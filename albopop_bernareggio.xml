@@ -5,7 +5,7 @@
 		<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bernareggio</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 18 Dec 2017 16:31:27 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 18 Dec 2017 17:30:55 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bernareggio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bernareggio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bernareggio</a10:id>
-		<pubDate>Mon, 18 Dec 2017 16:31:27 +0100</pubDate>
+		<pubDate>Mon, 18 Dec 2017 17:30:55 +0100</pubDate>
 		<docs>http://albopop.it/comune/bernareggio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3736532</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3736532</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 18 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 02 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3736532</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZE</category>
+			<title>REVOCA ORDINANZA 42/2016 E SUCCESSIVE PER RIPRISTINO DELLA CIRCOLAZIONE LUNGO VIA DANTE DEL COMUNE DI BERNAREGGIO DAL 22/12/2017 </title>
+			<description>REVOCA ORDINANZA 42/2016 E SUCCESSIVE PER RIPRISTINO DELLA CIRCOLAZIONE LUNGO VIA DANTE DEL COMUNE DI BERNAREGGIO DAL 22/12/2017 </description>
+			<a10:updated>2017-12-18T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3735433</guid>
 			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3735433</link>
@@ -284,17 +295,6 @@
 			<title>POSTA CERTIFICATA: CONVOCAZIONE ASSEMBLEA GENERALE 21.12.2017 ORE 9,30 - RICHIESTA PUBBLICAZIONE </title>
 			<description>POSTA CERTIFICATA: CONVOCAZIONE ASSEMBLEA GENERALE 21.12.2017 ORE 9,30 - RICHIESTA PUBBLICAZIONE </description>
 			<a10:updated>2017-12-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3731998</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3731998</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 15 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 30 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3731998</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZE</category>
-			<title>DIVIETO DI ESERCIZIO ABUSIVO DI ATTIVITA’ DI SOMMINISTRAZIONE ALIMENTI E BEVANDE IN VIA PRINETTI N.42 A BERNAREGGIO </title>
-			<description>DIVIETO DI ESERCIZIO ABUSIVO DI ATTIVITA’ DI SOMMINISTRAZIONE ALIMENTI E BEVANDE IN VIA PRINETTI N.42 A BERNAREGGIO </description>
-			<a10:updated>2017-12-15T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
