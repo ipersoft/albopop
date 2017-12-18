@@ -5,7 +5,7 @@
 		<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Felino</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 18 Dec 2017 13:30:44 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 18 Dec 2017 14:30:51 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Felino</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Felino</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_felino</a10:id>
-		<pubDate>Mon, 18 Dec 2017 13:30:44 +0100</pubDate>
+		<pubDate>Mon, 18 Dec 2017 14:30:51 +0100</pubDate>
 		<docs>http://albopop.it/comune/felino/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3107740</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3107740</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 18 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 28 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3107740</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
+			<title>COMMISSIONE MANDAMENTALE PER I GIUDICI POPOLARI BIENNIO 2018 2019- ELENCHI E VERBALI </title>
+			<description>COMMISSIONE MANDAMENTALE PER I GIUDICI POPOLARI BIENNIO 2018 2019- ELENCHI E VERBALI </description>
+			<a10:updated>2017-12-18T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3107571</guid>
 			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3107571</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
 			<title>LAVORI DI RIQUALIFICAZIONE ENERGETICA DELLA SCUOLA SECONDARIA DI PRIMO GRADO “S. SOLARI” DI FELINO - CODICE CUP F41E15000270004 – CODICE CIG 690096152B. APPROVAZIONE SAL N. 2 E CERTIFICATO DI PAGAMENTO N. 2. </title>
 			<description>LAVORI DI RIQUALIFICAZIONE ENERGETICA DELLA SCUOLA SECONDARIA DI PRIMO GRADO “S. SOLARI” DI FELINO - CODICE CUP F41E15000270004 – CODICE CIG 690096152B. APPROVAZIONE SAL N. 2 E CERTIFICATO DI PAGAMENTO N. 2. </description>
-			<a10:updated>2017-12-11T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3090726</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3090726</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 11 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 26 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3090726</category>
-			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
-			<title>INCARICO DI PRESTAZIONE PROFESSIONALE PER ATTIVITA' DI COORDINAMENTO PEDAGOGICO SERVIZI PRIMA INFANZIA ANNI EDUCATIVI 2017/2018-2018/2019. </title>
-			<description>INCARICO DI PRESTAZIONE PROFESSIONALE PER ATTIVITA' DI COORDINAMENTO PEDAGOGICO SERVIZI PRIMA INFANZIA ANNI EDUCATIVI 2017/2018-2018/2019. </description>
 			<a10:updated>2017-12-11T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

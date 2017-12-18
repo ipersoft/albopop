@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 18 Dec 2017 13:30:49 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 18 Dec 2017 14:30:52 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Mon, 18 Dec 2017 13:30:49 +0100</pubDate>
+		<pubDate>Mon, 18 Dec 2017 14:30:52 +0100</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3107879</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3107879</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 18 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 02 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3107879</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>FORNITURA E REVISIONE DISPOSITIVI ANTINCENDIO – CIG: Z792110381 </title>
+			<description>FORNITURA E REVISIONE DISPOSITIVI ANTINCENDIO – CIG: Z792110381 </description>
+			<a10:updated>2017-12-18T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3106776</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3106776</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>IMPEGNO DI SPESA PER COSTI COMUNI, GENERALI E DIRETTI PER L’ORGANIZZAZIONE E FUNZIONAMENTO DELLA CENTRALE UNICA DI COMMITTENZA ISTITUITA PRESSO L’UNIONE DEI COMUNI LOMBARDA B.B.O. DI ORZINUOVI (BS) – 2° SEMESTRE 2017 </title>
 			<description>IMPEGNO DI SPESA PER COSTI COMUNI, GENERALI E DIRETTI PER L’ORGANIZZAZIONE E FUNZIONAMENTO DELLA CENTRALE UNICA DI COMMITTENZA ISTITUITA PRESSO L’UNIONE DEI COMUNI LOMBARDA B.B.O. DI ORZINUOVI (BS) – 2° SEMESTRE 2017 </description>
-			<a10:updated>2017-12-14T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3101555</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3101555</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 14 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 29 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3101555</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>EROGAZIONE CONTRIBUTO ECONOMICO ALLA ASSOCIAZIONE CULTURALE “L’IMPRONTA”. </title>
-			<description>EROGAZIONE CONTRIBUTO ECONOMICO ALLA ASSOCIAZIONE CULTURALE “L’IMPRONTA”. </description>
 			<a10:updated>2017-12-14T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
