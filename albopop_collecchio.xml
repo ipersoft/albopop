@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 18 Dec 2017 10:31:55 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 18 Dec 2017 11:31:44 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Mon, 18 Dec 2017 10:31:55 +0100</pubDate>
+		<pubDate>Mon, 18 Dec 2017 11:31:44 +0100</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3107170</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3107170</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 18 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 02 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3107170</category>
+			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
+			<title>VARIAZIONE COMPENSATIVA TRA CAPITOLI DI SPESA APPARTENTENTI ALLO STESSO MACROAGGREGATO -19/2017 </title>
+			<description>VARIAZIONE COMPENSATIVA TRA CAPITOLI DI SPESA APPARTENTENTI ALLO STESSO MACROAGGREGATO -19/2017 </description>
+			<a10:updated>2017-12-18T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3106067</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3106067</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
 			<title>COMPARTO AGROALIMENTARE “ I FILAGNI” – RICOGNIZIONE AREE PREVISTE IN CESSIONE IN ATTUAZIONE ALLE CONVENZIONI URBANISTICHE SOTTOSCRITTE PER L’AMPLIAMENTO DEL COMPARTO. </title>
 			<description>COMPARTO AGROALIMENTARE “ I FILAGNI” – RICOGNIZIONE AREE PREVISTE IN CESSIONE IN ATTUAZIONE ALLE CONVENZIONI URBANISTICHE SOTTOSCRITTE PER L’AMPLIAMENTO DEL COMPARTO. </description>
-			<a10:updated>2017-12-14T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3103417</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3103417</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 14 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 29 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3103417</category>
-			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
-			<title>AFFIDAMENTO DIRETTO ALLA DITTA SANI RINO SRL CON SEDE IN VIALE ALDO MORO 13/B A FELINO (PR) P.IVA 02566400343 LAVORI DI SISTEMAZIONE PAVIMENTAZIONE PISTA CICLO-PEDONALE IN GAIANO –ULTERIORE AFFIDAMENTO CODICE CIG Z672138BA5 </title>
-			<description>AFFIDAMENTO DIRETTO ALLA DITTA SANI RINO SRL CON SEDE IN VIALE ALDO MORO 13/B A FELINO (PR) P.IVA 02566400343 LAVORI DI SISTEMAZIONE PAVIMENTAZIONE PISTA CICLO-PEDONALE IN GAIANO –ULTERIORE AFFIDAMENTO CODICE CIG Z672138BA5 </description>
 			<a10:updated>2017-12-14T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 18 Dec 2017 10:30:50 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 18 Dec 2017 11:30:57 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Mon, 18 Dec 2017 10:30:50 +0100</pubDate>
+		<pubDate>Mon, 18 Dec 2017 11:30:57 +0100</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/838617</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/838617</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 18 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 02 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">838617</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO ATTI E AVVISI DIVERSI</category>
+			<title>PUBBLICAZIONE AI SENSI DELLA L.R. 34/92, ART 61 DELLE AUTORIZZAZIONI PAESAGGISTICHE RILASCIATE DALLA N. 52 ALLA N. 57 </title>
+			<description>PUBBLICAZIONE AI SENSI DELLA L.R. 34/92, ART 61 DELLE AUTORIZZAZIONI PAESAGGISTICHE RILASCIATE DALLA N. 52 ALLA N. 57 </description>
+			<a10:updated>2017-12-18T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/838567</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/838567</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 18 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 02 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">838567</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PUBBLICAZIONI RICHIESTE DA SOGGETTI ESTERNI</category>
+			<title>ORDINANZA N.65/2017 - LAVORI DI MANUTENZIONE STRAORDINARIA DELLE OPERE D'ARTE DEL PORTO </title>
+			<description>ORDINANZA N.65/2017 - LAVORI DI MANUTENZIONE STRAORDINARIA DELLE OPERE D'ARTE DEL PORTO </description>
+			<a10:updated>2017-12-18T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/838563</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/838563</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 18 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 02 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">838563</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO ATTI E AVVISI DIVERSI</category>
+			<title>PUBBLICAZIONE AI SENSI DELLA L.R. 34/92, ART 61-ACCERTAMENTO COMPATIBILITÀ PAESAGGISTICA N. 321 DEL 24/11/2017 </title>
+			<description>PUBBLICAZIONE AI SENSI DELLA L.R. 34/92, ART 61-ACCERTAMENTO COMPATIBILITÀ PAESAGGISTICA N. 321 DEL 24/11/2017 </description>
+			<a10:updated>2017-12-18T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/838540</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/838540</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
 			<title>MORBIDI MICHELE IMPRESA EDILE ARTIGIANA - VIA CORRIDONI N. 4 - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </title>
 			<description>MORBIDI MICHELE IMPRESA EDILE ARTIGIANA - VIA CORRIDONI N. 4 - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </description>
-			<a10:updated>2017-12-15T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/837837</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/837837</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 15 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 30 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">837837</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
-			<title>GENNARI FRANCESCO - VIALE MARSALA - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </title>
-			<description>GENNARI FRANCESCO - VIALE MARSALA - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </description>
-			<a10:updated>2017-12-15T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/837834</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/837834</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 15 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 30 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">837834</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
-			<title>F.G. COSTRUZIONI - VIA DE SANCTIS N. 13 - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </title>
-			<description>F.G. COSTRUZIONI - VIA DE SANCTIS N. 13 - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </description>
-			<a10:updated>2017-12-15T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/837742</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/837742</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 15 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 24 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">837742</category>
-			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO RICHIESTA PUBBLICAZIONE MATRIMONIO ALBO</category>
-			<title>PUBBLICAZIONI DI MATRIMONIO DI CASTELLUCCI MARCO E DAMIANI ROBERTA </title>
-			<description>PUBBLICAZIONI DI MATRIMONIO DI CASTELLUCCI MARCO E DAMIANI ROBERTA </description>
 			<a10:updated>2017-12-15T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
