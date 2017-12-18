@@ -5,7 +5,7 @@
 		<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Viterbo</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 18 Dec 2017 09:31:25 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 18 Dec 2017 10:30:53 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Viterbo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Viterbo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Viterbo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_viterbo</a10:id>
-		<pubDate>Mon, 18 Dec 2017 09:31:25 +0100</pubDate>
+		<pubDate>Mon, 18 Dec 2017 10:30:53 +0100</pubDate>
 		<docs>http://albopop.it/comune/viterbo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3733691</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3733691</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 18 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 02 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3733691</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI VARI </category>
+			<title>NULLA OSTA VINCOLO IDROGEOLOGICO PROIETTI ANGELO-BIOFARMING SOCIETA' AGRICOLA-AUTORIZZAZIONE 21/17 </title>
+			<description>NULLA OSTA VINCOLO IDROGEOLOGICO PROIETTI ANGELO-BIOFARMING SOCIETA' AGRICOLA-AUTORIZZAZIONE 21/17 </description>
+			<a10:updated>2017-12-18T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3731057</guid>
 			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3731057</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
 			<title>MANUTENZIONE E RIMOZIONE CON TRASPORTO A DISCARICA DI ELEMENTI DI ARREDAMENTO PERICOLOSI E VETUSTI PRESENTI NELL'ISTITUTO COMPRENSIVO FANTAPPIE' SCUOLA DELL'INFANZIA SAN SISTO - DETERMINAZIONI IN MERITO ALL'AFFIDAMENTO E ALL'IMPEGNO DELLA SPESA - CIG Z7620E5B3B. </title>
 			<description>MANUTENZIONE E RIMOZIONE CON TRASPORTO A DISCARICA DI ELEMENTI DI ARREDAMENTO PERICOLOSI E VETUSTI PRESENTI NELL'ISTITUTO COMPRENSIVO FANTAPPIE' SCUOLA DELL'INFANZIA SAN SISTO - DETERMINAZIONI IN MERITO ALL'AFFIDAMENTO E ALL'IMPEGNO DELLA SPESA - CIG Z7620E5B3B. </description>
-			<a10:updated>2017-12-14T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3725856</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3725856</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 14 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 29 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3725856</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
-			<title>ACQUISTO TRAMITE IL MEPA DI NASTRI PER STAMPATE IN DOTAZIONE AI SERVIZI DEMOGRAFICI - CIG ZC020D131C </title>
-			<description>ACQUISTO TRAMITE IL MEPA DI NASTRI PER STAMPATE IN DOTAZIONE AI SERVIZI DEMOGRAFICI - CIG ZC020D131C </description>
 			<a10:updated>2017-12-14T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
