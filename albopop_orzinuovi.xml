@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 19 Dec 2017 08:30:50 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 19 Dec 2017 09:30:58 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Tue, 19 Dec 2017 08:30:50 +0100</pubDate>
+		<pubDate>Tue, 19 Dec 2017 09:30:58 +0100</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3109214</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3109214</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 19 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 19 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3109214</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI AVVISO</category>
+			<title>MOBILITA' AGENTE E TECNICO </title>
+			<description>MOBILITA' AGENTE E TECNICO </description>
+			<a10:updated>2017-12-19T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3109212</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3109212</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 19 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 03 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3109212</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>SERVIZIO DI MANUTENZIONE CANCELLI E PORTE AUTOMATIZZATE A SERVIZIO DEGLI IMMOBILI COMUNALI – PERIODO 01.01.2018 – 31.08.2018 – CIG: Z82216008A </title>
+			<description>SERVIZIO DI MANUTENZIONE CANCELLI E PORTE AUTOMATIZZATE A SERVIZIO DEGLI IMMOBILI COMUNALI – PERIODO 01.01.2018 – 31.08.2018 – CIG: Z82216008A </description>
+			<a10:updated>2017-12-19T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3108603</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3108603</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
 			<title>CONCESSIONE DEL PATROCINIO COMUNALE AL “GRUPPO CORALE FRANCO MARGOLA” PER CONCERTO DAL TITOLO “VOCI DALLE NAVATE” </title>
 			<description>CONCESSIONE DEL PATROCINIO COMUNALE AL “GRUPPO CORALE FRANCO MARGOLA” PER CONCERTO DAL TITOLO “VOCI DALLE NAVATE” </description>
-			<a10:updated>2017-12-15T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3104398</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3104398</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 15 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 29 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3104398</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>CONCESSIONE DEL PATROCINIO COMUNALE PER L’INIZIATIVA “CONCERTO DI NATALE” ALL’ASSOCIAZIONE FUORI DI QUINTA </title>
-			<description>CONCESSIONE DEL PATROCINIO COMUNALE PER L’INIZIATIVA “CONCERTO DI NATALE” ALL’ASSOCIAZIONE FUORI DI QUINTA </description>
-			<a10:updated>2017-12-15T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3104395</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3104395</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 15 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 29 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3104395</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>CONCESSIONE DEL PATROCINIO COMUNALE PER LA RAPPRESENTAZIONE TEATRO DIALETTALE DELLA COMMEDIA “TAT LA VA LA GATO AL LART CHE LA GA LASO AL SO SGRIFI” A CURA DELLA COMPAGNIA TEATRALE AMATORIALE “LA CONIOLESE” </title>
-			<description>CONCESSIONE DEL PATROCINIO COMUNALE PER LA RAPPRESENTAZIONE TEATRO DIALETTALE DELLA COMMEDIA “TAT LA VA LA GATO AL LART CHE LA GA LASO AL SO SGRIFI” A CURA DELLA COMPAGNIA TEATRALE AMATORIALE “LA CONIOLESE” </description>
 			<a10:updated>2017-12-15T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 19 Dec 2017 08:31:31 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 19 Dec 2017 09:31:42 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Tue, 19 Dec 2017 08:31:31 +0100</pubDate>
+		<pubDate>Tue, 19 Dec 2017 09:31:42 +0100</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3737480</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3737480</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 19 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 03 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3737480</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>VIA MONTEGRAPPA,FRAZIONE DI S.CONCORDIO IN C/A,MODIFICHE TEMPORANEE ALLA SOSTA,PER IL 22/12/2017. </title>
+			<description>VIA MONTEGRAPPA,FRAZIONE DI S.CONCORDIO IN C/A,MODIFICHE TEMPORANEE ALLA SOSTA,PER IL 22/12/2017. </description>
+			<a10:updated>2017-12-19T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3737478</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3737478</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 19 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 03 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3737478</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>PROROGA ORDINANZA N. 1961 DEL 23/11/2017,VIA S.GIORGIO,CENTRO STORICO,MODIFICHE TEMPORANE ALLA SOSTA,FINO AL 31/01/2018 </title>
+			<description>PROROGA ORDINANZA N. 1961 DEL 23/11/2017,VIA S.GIORGIO,CENTRO STORICO,MODIFICHE TEMPORANE ALLA SOSTA,FINO AL 31/01/2018 </description>
+			<a10:updated>2017-12-19T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3737476</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3737476</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 19 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 03 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3737476</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>VIA FRANCESCHINI - FRAZIONE DI SAN DONATO: CHIUSURA AL TRANSITO VEICOLARE FINO AL GIORNO 23 DICEMBRE 2017 PER INTERVENTO DI RIPARAZIONE DELLA CONDOTTA FOGNARIA DN 500, A SEGUITO DI CEDIMENTO. </title>
+			<description>VIA FRANCESCHINI - FRAZIONE DI SAN DONATO: CHIUSURA AL TRANSITO VEICOLARE FINO AL GIORNO 23 DICEMBRE 2017 PER INTERVENTO DI RIPARAZIONE DELLA CONDOTTA FOGNARIA DN 500, A SEGUITO DI CEDIMENTO. </description>
+			<a10:updated>2017-12-19T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3736234</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3736234</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>U.O.5.1. - INCARICO PROFESSIONALE PER LA REDAZIONE DEL PIANO DI CARATTERIZZAZIONE ED ANALISI DI RISCHIO DELL'AREA POSTA ALL'INTERNO DELLA EX CASERMA LORENZINI - APPROVAZIONE DELLA SPESA E AFFIDAMENTO INCARICO CIG Z9E20D8772 (FAMIGLIA 08 INCARICHI INDIVIDUALI ESTERNI) </title>
 			<description>U.O.5.1. - INCARICO PROFESSIONALE PER LA REDAZIONE DEL PIANO DI CARATTERIZZAZIONE ED ANALISI DI RISCHIO DELL'AREA POSTA ALL'INTERNO DELLA EX CASERMA LORENZINI - APPROVAZIONE DELLA SPESA E AFFIDAMENTO INCARICO CIG Z9E20D8772 (FAMIGLIA 08 INCARICHI INDIVIDUALI ESTERNI) </description>
-			<a10:updated>2017-12-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3732485</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3732485</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 16 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 31 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3732485</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>U.O. 2.3 - ASSEGNAZIONE DI ALLOGGIO DIL EILIC.A. 001700840207 PER MOBILITA' CONTENUTO: (MOBILITA' FAMIGLIA 11 "ALTRO") </title>
-			<description>U.O. 2.3 - ASSEGNAZIONE DI ALLOGGIO DIL EILIC.A. 001700840207 PER MOBILITA' CONTENUTO: (MOBILITA' FAMIGLIA 11 "ALTRO") </description>
-			<a10:updated>2017-12-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3732482</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3732482</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 16 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 31 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3732482</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>U.O. 2.3 - ASSEGNAZIONE ORDINARIA DI ALLOGGIO DI EDILIZIA RESIDENZIALE PUBBLICA POSTO NEL COMUNE DI LUCCA. CONTENUTO: (ASSEGNAZIONE DA GRADUATORIA DEFINITIVA BANDO 2016 - POSIZIONE N. 36 - FAMIGLIA 11 "ALTRO") </title>
-			<description>U.O. 2.3 - ASSEGNAZIONE ORDINARIA DI ALLOGGIO DI EDILIZIA RESIDENZIALE PUBBLICA POSTO NEL COMUNE DI LUCCA. CONTENUTO: (ASSEGNAZIONE DA GRADUATORIA DEFINITIVA BANDO 2016 - POSIZIONE N. 36 - FAMIGLIA 11 "ALTRO") </description>
-			<a10:updated>2017-12-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3732479</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3732479</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 16 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 31 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3732479</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>OGGETTO: U.O. 2.1 - 2° INTEGRAZIONE DETERMINA DIRIGENZIALE N° 1055 DEL 09/06/2017 - (CONTENUTO&gt;MODIFICA ELENCO STRUTTURE UTILIZZATE DAL COMUNE DI LUCCA PER L'OSPITALITA' TEMPORANEA DI MINORI- FAMIGLIA 11 "ALTRO") </title>
-			<description>OGGETTO: U.O. 2.1 - 2° INTEGRAZIONE DETERMINA DIRIGENZIALE N° 1055 DEL 09/06/2017 - (CONTENUTO&gt;MODIFICA ELENCO STRUTTURE UTILIZZATE DAL COMUNE DI LUCCA PER L'OSPITALITA' TEMPORANEA DI MINORI- FAMIGLIA 11 "ALTRO") </description>
 			<a10:updated>2017-12-16T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
