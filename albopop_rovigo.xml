@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 19 Dec 2017 15:31:16 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 19 Dec 2017 16:31:15 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,55 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Tue, 19 Dec 2017 15:31:16 +0100</pubDate>
+		<pubDate>Tue, 19 Dec 2017 16:31:15 +0100</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3111273</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3111273</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 19 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 03 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3111273</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
+			<title>AFFIDAMENTO, DOPO TRATTATIVA DIRETTA SUL MEPA, EX ART.36, COMMA 2, LETT. A) DEL D.LGS. 50/2016, DELLA FORNITURA ARREDI ED ELEMENTI DI ARREDO PER UFFICI VARI DELL'ENTE. </title>
+			<description>AFFIDAMENTO, DOPO TRATTATIVA DIRETTA SUL MEPA, EX ART.36, COMMA 2, LETT. A) DEL D.LGS. 50/2016, DELLA FORNITURA ARREDI ED ELEMENTI DI ARREDO PER UFFICI VARI DELL'ENTE. </description>
+			<a10:updated>2017-12-19T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3111240</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3111240</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 19 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 03 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3111240</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
+			<title>IMPEGNO DI SPESA PER LE SPESE POSTALI DELLA MACCHINA AFFRANCATRICE DM220 IN DOTAZIONE AL SERVIZIO ARCHIVISTICO A SEGUITO DELL'ADESIONE AL SERVIZIO “AFFRANCAPOSTA” CON PAGAMENTO POSTICIPATO PREVISTO PER LE PUBBLICHE AMMINISTRAZIONI – CIG: Z4921241F7 </title>
+			<description>IMPEGNO DI SPESA PER LE SPESE POSTALI DELLA MACCHINA AFFRANCATRICE DM220 IN DOTAZIONE AL SERVIZIO ARCHIVISTICO A SEGUITO DELL'ADESIONE AL SERVIZIO “AFFRANCAPOSTA” CON PAGAMENTO POSTICIPATO PREVISTO PER LE PUBBLICHE AMMINISTRAZIONI – CIG: Z4921241F7 </description>
+			<a10:updated>2017-12-19T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3111237</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3111237</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 19 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 03 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3111237</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
+			<title>ACQUISTO STAMPATI PER SPEDIRE COMUNICAZIONI CONNESSE ALLA NOTIFICA DEGLI ATTI GIUDIZIARI A MEZZO DEL SERVIZIO POSTALE – IMPEGNO DI SPESA </title>
+			<description>ACQUISTO STAMPATI PER SPEDIRE COMUNICAZIONI CONNESSE ALLA NOTIFICA DEGLI ATTI GIUDIZIARI A MEZZO DEL SERVIZIO POSTALE – IMPEGNO DI SPESA </description>
+			<a10:updated>2017-12-19T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3111234</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3111234</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 19 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 03 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3111234</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
+			<title>IMPEGNO DELLA SPESA PER LAVORI DI “MANUTENZIONE STRAORDINARIA DI STRADE BIANCHE COMUNALI: VIA STOPAZZINE E VIA ARZERINI” ED AFFIDAMENTO DIRETTO DEI LAVORI ALLA DITTA GEO FORNITURE DI CANATO NICOLA, CON SEDE AD ADRIA (RO). (CIG: ZD6214F6EC). </title>
+			<description>IMPEGNO DELLA SPESA PER LAVORI DI “MANUTENZIONE STRAORDINARIA DI STRADE BIANCHE COMUNALI: VIA STOPAZZINE E VIA ARZERINI” ED AFFIDAMENTO DIRETTO DEI LAVORI ALLA DITTA GEO FORNITURE DI CANATO NICOLA, CON SEDE AD ADRIA (RO). (CIG: ZD6214F6EC). </description>
+			<a10:updated>2017-12-19T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3110855</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3110855</link>
@@ -250,50 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
 			<title>NOMINA COMMISSIONE PER LA VALUTAZIONE DELLE DOMANDE PERVENUTE A SEGUITO DELL’AVVISO DI MOBILITÀ ESTERNA EX ART. 30 D.LGS. 165/2001 E SUCCESSIVE MODIFICHE PER LA COPERTURA DI N. 2 POSTI DI ASSISTENTE SOCIALE SETTORE POLITICHE SOCIALI E PER LA FAMIGLIA/CASA/LAVORO, VOLONTARIATO, PARI OPPORTUNITÀ, SUSSIDIARIETÀ ED ASSOCIAZIONISMO, ISTRUZIONE, UNIVERSITÀ, SPORT E POLITICHE GIOVANILI. </title>
 			<description>NOMINA COMMISSIONE PER LA VALUTAZIONE DELLE DOMANDE PERVENUTE A SEGUITO DELL’AVVISO DI MOBILITÀ ESTERNA EX ART. 30 D.LGS. 165/2001 E SUCCESSIVE MODIFICHE PER LA COPERTURA DI N. 2 POSTI DI ASSISTENTE SOCIALE SETTORE POLITICHE SOCIALI E PER LA FAMIGLIA/CASA/LAVORO, VOLONTARIATO, PARI OPPORTUNITÀ, SUSSIDIARIETÀ ED ASSOCIAZIONISMO, ISTRUZIONE, UNIVERSITÀ, SPORT E POLITICHE GIOVANILI. </description>
-			<a10:updated>2017-12-18T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3107798</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3107798</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 18 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 02 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3107798</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>"LAVORI DI RIQUALIFICAZIONE DEI PARAMENTI ESTERNI DEL TEATRO SOCIALE DI ROVIGO . II STRALCIO”. LIQUIDAZIONE SALDO INCARICO COORDINAMENTO SICUREZZA IN FASE DI PROGETTAZIONE ED ESECUZIONE LAVORI ALLA SOCIETA’ MASSARENTE ARCHITETTURA SRL CON SEDE A ROVIGO. SMARTCIG: ZD40BB6797; CUP: G12I10000110009. </title>
-			<description>"LAVORI DI RIQUALIFICAZIONE DEI PARAMENTI ESTERNI DEL TEATRO SOCIALE DI ROVIGO . II STRALCIO”. LIQUIDAZIONE SALDO INCARICO COORDINAMENTO SICUREZZA IN FASE DI PROGETTAZIONE ED ESECUZIONE LAVORI ALLA SOCIETA’ MASSARENTE ARCHITETTURA SRL CON SEDE A ROVIGO. SMARTCIG: ZD40BB6797; CUP: G12I10000110009. </description>
-			<a10:updated>2017-12-18T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3107720</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3107720</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 18 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 02 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3107720</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>MANUTENZIONE STRAORDINARIA SCUOLE MATERNE DI PROPRIETA’ COMUNALE. LIQUIDAZIONE FATTURA DITTE: - POMARO PAOLO SPURGO POZZI NERI LENDINARA - SMARTCIG Z811FD5BEF; - IMPIANTI IDRAULICI SCHIESARI DI SCHIESARI IVANO ROVIGO - SMARTCIG ZD81FD5BDA. </title>
-			<description>MANUTENZIONE STRAORDINARIA SCUOLE MATERNE DI PROPRIETA’ COMUNALE. LIQUIDAZIONE FATTURA DITTE: - POMARO PAOLO SPURGO POZZI NERI LENDINARA - SMARTCIG Z811FD5BEF; - IMPIANTI IDRAULICI SCHIESARI DI SCHIESARI IVANO ROVIGO - SMARTCIG ZD81FD5BDA. </description>
-			<a10:updated>2017-12-18T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3107719</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3107719</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 18 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 19 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3107719</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI ATTI DIVERSI</category>
-			<title>AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE_ELENCO N.145335 DEL 18/12/2017_N. 50 NOMINATIVI VARI </title>
-			<description>AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE_ELENCO N.145335 DEL 18/12/2017_N. 50 NOMINATIVI VARI </description>
-			<a10:updated>2017-12-18T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3107696</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3107696</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 18 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 02 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3107696</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>QUOTA ISCRIZIONE ALBO AVVOCATI DI ROVIGO ANNO 2017. LIQUIDAZIONE SPESA </title>
-			<description>QUOTA ISCRIZIONE ALBO AVVOCATI DI ROVIGO ANNO 2017. LIQUIDAZIONE SPESA </description>
 			<a10:updated>2017-12-18T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
