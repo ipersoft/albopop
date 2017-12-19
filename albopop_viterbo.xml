@@ -5,7 +5,7 @@
 		<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Viterbo</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 18 Dec 2017 18:30:53 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 19 Dec 2017 08:30:55 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Viterbo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Viterbo</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Viterbo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_viterbo</a10:id>
-		<pubDate>Mon, 18 Dec 2017 18:30:53 +0100</pubDate>
+		<pubDate>Tue, 19 Dec 2017 08:30:55 +0100</pubDate>
 		<docs>http://albopop.it/comune/viterbo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -42,6 +42,17 @@
 			<title>ELENCO DETERMINE DIRIGENZIALI DI AUTORIZZAZIONE PAESAGGISTICA EMESSE SETTEMBRE E OTTOBRE 2017 </title>
 			<description>ELENCO DETERMINE DIRIGENZIALI DI AUTORIZZAZIONE PAESAGGISTICA EMESSE SETTEMBRE E OTTOBRE 2017 </description>
 			<a10:updated>2017-12-18T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3735597</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3735597</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 19 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 01 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3735597</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DECRETO SINDACALE</category>
+			<title>DECRETO SOSTITUZIONE SEGRETARIO GENERALE 14 DICEMBRE 2017 - 31 GENNAIO 2018. </title>
+			<description>DECRETO SOSTITUZIONE SEGRETARIO GENERALE 14 DICEMBRE 2017 - 31 GENNAIO 2018. </description>
+			<a10:updated>2017-12-19T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3735233</guid>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
 			<title>AMMINISTRATORI DI SOSTEGNO E TUTORI DELEGATI DAL SINDACO ANNO 2017- IMPEGNO SPESA </title>
 			<description>AMMINISTRATORI DI SOSTEGNO E TUTORI DELEGATI DAL SINDACO ANNO 2017- IMPEGNO SPESA </description>
-			<a10:updated>2017-12-14T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3725870</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3725870</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 14 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 29 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3725870</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONI DI ACCERTAMENTO</category>
-			<title>SIG.RA FERRAZZANI FERNANDA MARIA. IMMOBILE IN VIA DEL GHIRLANDAIO N. 1 IMPRESA "RICCI COSTRUZIONI". EDILIZIA RESIDENZIALE AGEVOLATA-CONVENZIONATA. RIMOZIONE VINCOLO PREZZO MASSIMO DI CESSIONE ALLOGGIO. PEEP COMPRENSORIO C5 LOC. S. BARBARA. </title>
-			<description>SIG.RA FERRAZZANI FERNANDA MARIA. IMMOBILE IN VIA DEL GHIRLANDAIO N. 1 IMPRESA "RICCI COSTRUZIONI". EDILIZIA RESIDENZIALE AGEVOLATA-CONVENZIONATA. RIMOZIONE VINCOLO PREZZO MASSIMO DI CESSIONE ALLOGGIO. PEEP COMPRENSORIO C5 LOC. S. BARBARA. </description>
 			<a10:updated>2017-12-14T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
