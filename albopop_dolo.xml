@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 19 Dec 2017 11:30:52 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 19 Dec 2017 12:30:57 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Tue, 19 Dec 2017 11:30:52 +0100</pubDate>
+		<pubDate>Tue, 19 Dec 2017 12:30:57 +0100</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3738701</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3738701</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 19 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 03 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3738701</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>FORNITURA DEL VESTIARIO E DEI D.P.I. NECESSARI ALLO SVOLGIMENTO DELL'ATTIVITÀ LAVORATIVA DEL PERSONALE DEL SETTORE LL.PP. – ANNO 2017. AFFIDAMENTO ALLA DITTA SIKURA S.R.L. DI CHIRIGNAGO VENEZIA. </title>
+			<description>FORNITURA DEL VESTIARIO E DEI D.P.I. NECESSARI ALLO SVOLGIMENTO DELL'ATTIVITÀ LAVORATIVA DEL PERSONALE DEL SETTORE LL.PP. – ANNO 2017. AFFIDAMENTO ALLA DITTA SIKURA S.R.L. DI CHIRIGNAGO VENEZIA. </description>
+			<a10:updated>2017-12-19T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3738452</guid>
 			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3738452</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
 			<title>ISTITUZIONE TEMPORANEA DEL DIVIETO DI TRANSITO E SOSTA IN VIA E. TITO, NEL CAPOLUOGO, SUL TRATTO DI STRADA COMPRESO TRA VIA BADOERA E VIA CARREZZIOI. PROROGA ORDINANZA N. 41 DEL 09/11/2017. </title>
 			<description>ISTITUZIONE TEMPORANEA DEL DIVIETO DI TRANSITO E SOSTA IN VIA E. TITO, NEL CAPOLUOGO, SUL TRATTO DI STRADA COMPRESO TRA VIA BADOERA E VIA CARREZZIOI. PROROGA ORDINANZA N. 41 DEL 09/11/2017. </description>
-			<a10:updated>2017-12-14T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3725933</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3725933</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 14 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 29 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3725933</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>PRESA D’ATTO DI DIMISSIONI VOLONTARIE DELLA DIPENDENTE A TEMPO DETERMINATO B. C. </title>
-			<description>PRESA D’ATTO DI DIMISSIONI VOLONTARIE DELLA DIPENDENTE A TEMPO DETERMINATO B. C. </description>
 			<a10:updated>2017-12-14T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
