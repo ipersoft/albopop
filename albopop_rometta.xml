@@ -5,7 +5,7 @@
 		<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rometta</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 19 Dec 2017 13:31:25 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 19 Dec 2017 14:31:25 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rometta</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Messina</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rometta</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rometta</a10:id>
-		<pubDate>Tue, 19 Dec 2017 13:31:25 +0100</pubDate>
+		<pubDate>Tue, 19 Dec 2017 14:31:25 +0100</pubDate>
 		<docs>http://albopop.it/comune/rometta/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3739973</guid>
+			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3739973</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 19 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 27 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3739973</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO PUBBLICO</category>
+			<title>PUBBLICAZIONE DI MATRIMONIO. </title>
+			<description>PUBBLICAZIONE DI MATRIMONIO. </description>
+			<a10:updated>2017-12-19T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3739492</guid>
 			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3739492</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>CONTRIBUTO ALL'ISTITUTO COMPRENSIVO DI SAPONARA PER L'ACQUISTO DI MATERIALE DI PULIZIA E IGIENE - IMPEGNO E LIQUIDAZIONE CONTRIBUTO. </title>
 			<description>CONTRIBUTO ALL'ISTITUTO COMPRENSIVO DI SAPONARA PER L'ACQUISTO DI MATERIALE DI PULIZIA E IGIENE - IMPEGNO E LIQUIDAZIONE CONTRIBUTO. </description>
-			<a10:updated>2017-12-18T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3734083</guid>
-			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3734083</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 18 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 02 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3734083</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>FESTA DELL'ALBERO 2017 - FORNITURA TARGHETTE IDENTIFICATIVE INCISE – LIQUIDAZIONE FATTURA DITTA SERIFAST </title>
-			<description>FESTA DELL'ALBERO 2017 - FORNITURA TARGHETTE IDENTIFICATIVE INCISE – LIQUIDAZIONE FATTURA DITTA SERIFAST </description>
 			<a10:updated>2017-12-18T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
