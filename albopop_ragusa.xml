@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 19 Dec 2017 09:31:57 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 19 Dec 2017 10:31:44 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Tue, 19 Dec 2017 09:31:57 +0100</pubDate>
+		<pubDate>Tue, 19 Dec 2017 10:31:44 +0100</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3109423</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3109423</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 19 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 20 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3109423</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO CARTELLE ESATTORIALI ART. 140</category>
+			<title>PUBBLICAZIONE ART.140 A CARICO DI CALCATERRA MARCO </title>
+			<description>PUBBLICAZIONE ART.140 A CARICO DI CALCATERRA MARCO </description>
+			<a10:updated>2017-12-19T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3109422</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3109422</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 19 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 20 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3109422</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO CARTELLE ESATTORIALI ART. 140</category>
+			<title>PUBBLICAZIONE ART.140 A CARICO DI AGGIUS VELLA ANTONINO </title>
+			<description>PUBBLICAZIONE ART.140 A CARICO DI AGGIUS VELLA ANTONINO </description>
+			<a10:updated>2017-12-19T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3109326</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3109326</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
 			<title>AUTORIZZAZIONE LAVORO STRAORDINARIO PERSONALE SETTORE X TRIBUTI ANNO 2017 - IMPEGNO SPESA </title>
 			<description>AUTORIZZAZIONE LAVORO STRAORDINARIO PERSONALE SETTORE X TRIBUTI ANNO 2017 - IMPEGNO SPESA </description>
-			<a10:updated>2017-12-19T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3109148</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3109148</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 19 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 26 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3109148</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
-			<title>MISSIONE DEL SINDACO ING. FEDERICO PICCITTO A ROMA NEI GIORNI 18 E 19 DICEMBRE 2017. </title>
-			<description>MISSIONE DEL SINDACO ING. FEDERICO PICCITTO A ROMA NEI GIORNI 18 E 19 DICEMBRE 2017. </description>
-			<a10:updated>2017-12-19T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3109146</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3109146</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 19 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 26 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3109146</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
-			<title>ACCERTAMENTO IN ENTRATA DELL'ADDIZIONALE TRIBUTO PROVINCIALE PER L'ESERCIZIO DELLE FUNZIONI DI TUTELA, PROTEZIONE E IGIENE DELL'AMBIENTE, ART. 1, C 666 L 147/2013 E IMPEGNO SPESA PER RIVERSAMENTO TRIBUTO AL LIBERO CONSORZIO COMUNALE DI RAGUSA </title>
-			<description>ACCERTAMENTO IN ENTRATA DELL'ADDIZIONALE TRIBUTO PROVINCIALE PER L'ESERCIZIO DELLE FUNZIONI DI TUTELA, PROTEZIONE E IGIENE DELL'AMBIENTE, ART. 1, C 666 L 147/2013 E IMPEGNO SPESA PER RIVERSAMENTO TRIBUTO AL LIBERO CONSORZIO COMUNALE DI RAGUSA </description>
 			<a10:updated>2017-12-19T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
