@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 20 Dec 2017 12:31:42 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 20 Dec 2017 13:31:32 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,55 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Wed, 20 Dec 2017 12:31:42 +0100</pubDate>
+		<pubDate>Wed, 20 Dec 2017 13:31:32 +0100</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3743507</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3743507</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 04 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3743507</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>PIAZZA S.GIUSTO,PIAZZA VENTI SETTEMBRE,CENTRO STORICO,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE,IL 27/12/2017. </title>
+			<description>PIAZZA S.GIUSTO,PIAZZA VENTI SETTEMBRE,CENTRO STORICO,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE,IL 27/12/2017. </description>
+			<a10:updated>2017-12-20T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3743505</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3743505</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 04 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3743505</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>VIA SP24 DI S.ALESSIO,FRAZIONE DI S.ALESSIO,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE,DAL 28/12/2017 AL 29/12/2017. </title>
+			<description>VIA SP24 DI S.ALESSIO,FRAZIONE DI S.ALESSIO,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE,DAL 28/12/2017 AL 29/12/2017. </description>
+			<a10:updated>2017-12-20T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3743503</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3743503</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 04 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3743503</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>VIA DEL SUFFRAGIO,VIA S.CROCE,PIAZZA BERNARDINI,CENTRO STORICO,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE ED ALLA SOSTA,PER IL 29/12/2017. </title>
+			<description>VIA DEL SUFFRAGIO,VIA S.CROCE,PIAZZA BERNARDINI,CENTRO STORICO,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE ED ALLA SOSTA,PER IL 29/12/2017. </description>
+			<a10:updated>2017-12-20T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3743501</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3743501</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 04 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3743501</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>ORDINANZA 2131/2017 - VIA PER CORTE CASSANDORI - FRAZIONE DI S.QUIRICO DI MORIANO: REVOCA DEL PUNTO 2) RELATIVO ALL'ISTITUZIONE DI IMPIANTO SEMAFORICO, E MODIFICA PARZIALE DEL PUNTO 1) CON ISTITUZIONE DEL DIVIETO DI TRANSITO IN ORARIO 08:30 - 17:00, ECCETTO MEZZI DI SOCCORSO. </title>
+			<description>ORDINANZA 2131/2017 - VIA PER CORTE CASSANDORI - FRAZIONE DI S.QUIRICO DI MORIANO: REVOCA DEL PUNTO 2) RELATIVO ALL'ISTITUZIONE DI IMPIANTO SEMAFORICO, E MODIFICA PARZIALE DEL PUNTO 1) CON ISTITUZIONE DEL DIVIETO DI TRANSITO IN ORARIO 08:30 - 17:00, ECCETTO MEZZI DI SOCCORSO. </description>
+			<a10:updated>2017-12-20T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3743383</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3743383</link>
@@ -250,50 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>U.O. 2.2 – RICOVERO IN RSA IL SOLE DI ALTOPASCIO (AI SENSI DELLA DGRT N. 995 DEL 11/10/2016 E DELLA DELIBERAZIONE DELLA CONFERENZA INTEGRATA DEI SINDACI DELLA PIANA DI LUCCA DEL 23/11/2016) – QUOTA SOCIALE DA PARTE DEL COMUNE DI LUCCA (FAMIGLIA 11: ALTRO) </title>
 			<description>U.O. 2.2 – RICOVERO IN RSA IL SOLE DI ALTOPASCIO (AI SENSI DELLA DGRT N. 995 DEL 11/10/2016 E DELLA DELIBERAZIONE DELLA CONFERENZA INTEGRATA DEI SINDACI DELLA PIANA DI LUCCA DEL 23/11/2016) – QUOTA SOCIALE DA PARTE DEL COMUNE DI LUCCA (FAMIGLIA 11: ALTRO) </description>
-			<a10:updated>2017-12-20T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3741808</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3741808</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 04 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3741808</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>CONTRIBUTI PER PROGETTI INDIVIDUALI PERSONALIZZATI ANNO 2017 (CONTENUTO DELL'ATTO: APPROVAZIONE DELLA SPESA E LIQUIDAZIONE AI BENEFICIARI - FAMIGLIA 09 "BENEFICI ECONOMICI) </title>
-			<description>CONTRIBUTI PER PROGETTI INDIVIDUALI PERSONALIZZATI ANNO 2017 (CONTENUTO DELL'ATTO: APPROVAZIONE DELLA SPESA E LIQUIDAZIONE AI BENEFICIARI - FAMIGLIA 09 "BENEFICI ECONOMICI) </description>
-			<a10:updated>2017-12-20T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3741805</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3741805</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 04 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3741805</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>U.O.2.1 - ATTIVITA' EXTRASCOLASTICHE PER SOGGETTI DISABILI - ACCERTAMENTO FONDI DEDICATI TRASFERITI DA AZIENDA USL A VALERE FONDO NON AUTOSUFFICIENZA - MODALITA' DI CONDUZIONE </title>
-			<description>U.O.2.1 - ATTIVITA' EXTRASCOLASTICHE PER SOGGETTI DISABILI - ACCERTAMENTO FONDI DEDICATI TRASFERITI DA AZIENDA USL A VALERE FONDO NON AUTOSUFFICIENZA - MODALITA' DI CONDUZIONE </description>
-			<a10:updated>2017-12-20T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3741802</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3741802</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 04 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3741802</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>U.O. 2.2 – APPALTO VILLA SANTA MARIA – INTEGRAZIONE DELLA SOMMA RELATIVA AL 5% IVA FINO AL 31 DICEMBRE 2017 (FAMIGLIA 11: ALTRO) </title>
-			<description>U.O. 2.2 – APPALTO VILLA SANTA MARIA – INTEGRAZIONE DELLA SOMMA RELATIVA AL 5% IVA FINO AL 31 DICEMBRE 2017 (FAMIGLIA 11: ALTRO) </description>
-			<a10:updated>2017-12-20T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3741799</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3741799</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 04 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3741799</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title> U.O. 2.2. - RESTITUZIONE SOMME VERSATE PER COMPARTECIPAZIONE RETTE DI RICOVERO: IMPEGNO DI SPESA E LIQUIDAZIONE (FAMIGLIA 11: ALTRO) </title>
-			<description> U.O. 2.2. - RESTITUZIONE SOMME VERSATE PER COMPARTECIPAZIONE RETTE DI RICOVERO: IMPEGNO DI SPESA E LIQUIDAZIONE (FAMIGLIA 11: ALTRO) </description>
 			<a10:updated>2017-12-20T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
