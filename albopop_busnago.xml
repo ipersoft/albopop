@@ -5,7 +5,7 @@
 		<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Busnago</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 20 Dec 2017 17:31:00 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 20 Dec 2017 18:31:07 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Busnago</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Busnago</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_busnago</a10:id>
-		<pubDate>Wed, 20 Dec 2017 17:31:00 +0100</pubDate>
+		<pubDate>Wed, 20 Dec 2017 18:31:07 +0100</pubDate>
 		<docs>http://albopop.it/comune/busnago/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3744940</guid>
+			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3744940</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 28 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3744940</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO AVVISO DI DEPOSITO DI ATTI PRESSO LA CASA COMUNALE </category>
+			<title>AVVISO DI DEPOSITO ATTI PRESSO LA CASA COMUNALE - ATTO DESTINATO AL SIG. DIAKHOUMP DANE </title>
+			<description>AVVISO DI DEPOSITO ATTI PRESSO LA CASA COMUNALE - ATTO DESTINATO AL SIG. DIAKHOUMP DANE </description>
+			<a10:updated>2017-12-20T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3744544</guid>
 			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3744544</link>
@@ -284,17 +295,6 @@
 			<title>PROVINCIA DI MONZA E DELLA BRIANZA. RIAPERTURA TERMINI AVVISO PUBBLICO DESIGNAZIONE COMPONENTI COMMISSIONE ELETTORALE CIRCONDARIALE DI MONZA E RELATIVE SOTTOCOMMISSIONI ELETTORALI CIRCONDARIALI: VIMERCATE, DESIO 2 E DESIO 3 </title>
 			<description>PROVINCIA DI MONZA E DELLA BRIANZA. RIAPERTURA TERMINI AVVISO PUBBLICO DESIGNAZIONE COMPONENTI COMMISSIONE ELETTORALE CIRCONDARIALE DI MONZA E RELATIVE SOTTOCOMMISSIONI ELETTORALI CIRCONDARIALI: VIMERCATE, DESIO 2 E DESIO 3 </description>
 			<a10:updated>2017-12-14T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3722424</guid>
-			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3722424</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 13 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 28 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3722424</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DETERMINAZIONE DEI RESPONSABILI</category>
-			<title>FORNITURA MATERIALE DI CANCELLERIA PER SERVIZIO EDILIZIA PRIVATA ED URBANISTICA </title>
-			<description>FORNITURA MATERIALE DI CANCELLERIA PER SERVIZIO EDILIZIA PRIVATA ED URBANISTICA </description>
-			<a10:updated>2017-12-13T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
