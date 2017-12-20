@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 20 Dec 2017 10:31:22 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 20 Dec 2017 11:31:40 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Wed, 20 Dec 2017 10:31:22 +0100</pubDate>
+		<pubDate>Wed, 20 Dec 2017 11:31:40 +0100</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3112683</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3112683</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 28 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3112683</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO PUBBLICAZIONE AVVISO</category>
+			<title>AVVISO DI DEPOSITO DI N.7 ATTI NELLA CASA COMUNALE </title>
+			<description>AVVISO DI DEPOSITO DI N.7 ATTI NELLA CASA COMUNALE </description>
+			<a10:updated>2017-12-20T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3112613</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3112613</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 31 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3112613</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO PUBBLICAZIONE AVVISO</category>
+			<title>ORARI APERTURA VILLA LYSIS DICEMBRE 2017 / GENNAIO 2018 </title>
+			<description>ORARI APERTURA VILLA LYSIS DICEMBRE 2017 / GENNAIO 2018 </description>
+			<a10:updated>2017-12-20T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3112611</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3112611</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 04 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3112611</category>
+			<category domain="http://albopop.it/specs#item-category-type">GARE,BANDI,CONCORSI GARE, BANDI,CONCORSI</category>
+			<title>VERBALE DI APERTURA OFFERTE. LAVORI PER IL COMPLETAMENTO DELL'IMPIANTO DI PUBBLICA ILLUMINAZIONE DI VIA PROV.LE MARINA PICCOLA </title>
+			<description>VERBALE DI APERTURA OFFERTE. LAVORI PER IL COMPLETAMENTO DELL'IMPIANTO DI PUBBLICA ILLUMINAZIONE DI VIA PROV.LE MARINA PICCOLA </description>
+			<a10:updated>2017-12-20T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3112255</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3112255</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>INTERVENTI DI STRAORDINARIA MANUTENZIONE, DI RIQUALIFICAZIONE CON RESTAURO CONSERVATIVO DELLE AREE DEL CIMITERO ACATTOLICO - APPROVAZIONE DEL PROGETTO ESECUTIVO - AVVIO PROCEDURE SCELTA DEL CONTRAENTE AI SENSI ART.36 CO.2 LETT.A) E ISTITUZIONE UFFICIO DELLA D.L. </title>
 			<description>INTERVENTI DI STRAORDINARIA MANUTENZIONE, DI RIQUALIFICAZIONE CON RESTAURO CONSERVATIVO DELLE AREE DEL CIMITERO ACATTOLICO - APPROVAZIONE DEL PROGETTO ESECUTIVO - AVVIO PROCEDURE SCELTA DEL CONTRAENTE AI SENSI ART.36 CO.2 LETT.A) E ISTITUZIONE UFFICIO DELLA D.L. </description>
-			<a10:updated>2017-12-18T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3108656</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3108656</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 18 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 02 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3108656</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>Acquisto sul MEPA di armadi in metallo - ditta Partenufficio di A. Fenizia.- </title>
-			<description>Acquisto sul MEPA di armadi in metallo - ditta Partenufficio di A. Fenizia.- </description>
-			<a10:updated>2017-12-18T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3108653</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3108653</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 18 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 02 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3108653</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>SENTENZA GIUDICE DI PACE N. 10/2017 – IMPEGNATIVA DI SPESA IN FAVORE DELL’AVVOCATO STEFANO PALOMBELLA </title>
-			<description>SENTENZA GIUDICE DI PACE N. 10/2017 – IMPEGNATIVA DI SPESA IN FAVORE DELL’AVVOCATO STEFANO PALOMBELLA </description>
-			<a10:updated>2017-12-18T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3108650</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3108650</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 18 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 02 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3108650</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
-			<title>LIQUIDAZIONE FATTURA ALLA DITTA MAGGIOLI S.P.A. PER ATTIVITA' TECNICA DI FORMAZIONE ON SITE - PIATTAFORMA APPLICATIVA SICR@WEB - AREA DEMOGRAFICI - J-DEMOS. CIG ZF9201092C </title>
-			<description>LIQUIDAZIONE FATTURA ALLA DITTA MAGGIOLI S.P.A. PER ATTIVITA' TECNICA DI FORMAZIONE ON SITE - PIATTAFORMA APPLICATIVA SICR@WEB - AREA DEMOGRAFICI - J-DEMOS. CIG ZF9201092C </description>
 			<a10:updated>2017-12-18T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

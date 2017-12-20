@@ -5,7 +5,7 @@
 		<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Busnago</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 20 Dec 2017 10:30:59 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 20 Dec 2017 11:31:22 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Busnago</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Busnago</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_busnago</a10:id>
-		<pubDate>Wed, 20 Dec 2017 10:30:59 +0100</pubDate>
+		<pubDate>Wed, 20 Dec 2017 11:31:22 +0100</pubDate>
 		<docs>http://albopop.it/comune/busnago/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3742561</guid>
+			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3742561</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 21 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3742561</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI PUBBLICI AGENZIA DELLE ENTRATE - RISCOSSIONE. AVVISO DI DEPOSITO DI ATTI NELLA CASA COMUNALE</category>
+			<title>AGENZIA DELLE ENTRATE RISCOSSIONE. RICHIESTA DI PUBBLICAZIONE AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE - N. ELENCO: YN00584/181217-02 </title>
+			<description>AGENZIA DELLE ENTRATE RISCOSSIONE. RICHIESTA DI PUBBLICAZIONE AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE - N. ELENCO: YN00584/181217-02 </description>
+			<a10:updated>2017-12-20T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3740087</guid>
 			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3740087</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DETERMINAZIONE DEI RESPONSABILI</category>
 			<title>INSERIMENTO IN STRUTTURA DI LUNGA DEGENZA UTENTE K.P. - IMPEGNO DI SPESA PER ASSEGNAZIONE CONTRIBUTO. </title>
 			<description>INSERIMENTO IN STRUTTURA DI LUNGA DEGENZA UTENTE K.P. - IMPEGNO DI SPESA PER ASSEGNAZIONE CONTRIBUTO. </description>
-			<a10:updated>2017-12-13T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3722420</guid>
-			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3722420</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 13 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 28 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3722420</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DETERMINAZIONE DEI RESPONSABILI</category>
-			<title>AUMENTO IMPEGNO DI SPESA PER ASSISTENZA INFORMATICA ANNO 2017 </title>
-			<description>AUMENTO IMPEGNO DI SPESA PER ASSISTENZA INFORMATICA ANNO 2017 </description>
 			<a10:updated>2017-12-13T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

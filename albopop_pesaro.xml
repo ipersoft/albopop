@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 20 Dec 2017 10:30:44 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 20 Dec 2017 11:30:56 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Wed, 20 Dec 2017 10:30:44 +0100</pubDate>
+		<pubDate>Wed, 20 Dec 2017 11:30:56 +0100</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/840970</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/840970</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 21 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">840970</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PUBBLICAZIONI RICHIESTE DA SOGGETTI ESTERNI</category>
+			<title>AVVISO DI DEPOSITO - ART. 26 DPR 602/73, ART. 60 DPR 600/73, ART. 140 CPC - IRREPERIBILI - ELENCO N.1 DEL 19/12/2017 </title>
+			<description>AVVISO DI DEPOSITO - ART. 26 DPR 602/73, ART. 60 DPR 600/73, ART. 140 CPC - IRREPERIBILI - ELENCO N.1 DEL 19/12/2017 </description>
+			<a10:updated>2017-12-20T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/840832</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/840832</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>AFFIDAMENTO SERVIZIO DI COPERTURA ASSICURATIVA DEI RISCHI DELL’AMMINISTRAZIONE COMUNALE DALLE ORE 24 DEL 31.12.2017 ALLE ORE 24 DEL 31.12.2020. LOTTO N. 1 CIG: 7259612556 - LOTTO N. 2 CIG: 7259624F3A - LOTTO N. 3 CIG: 72596325D7 - LOTTO N. 4 CIG: 72596379F6 - LOTTO N. 5 CIG: 7259642E15 - LOTTO N. 6 CIG: 7259644FBB - LOTTO N. 7 CIG: 7259647239 - NOMINA SEGGIO DI GARA. </title>
 			<description>AFFIDAMENTO SERVIZIO DI COPERTURA ASSICURATIVA DEI RISCHI DELL’AMMINISTRAZIONE COMUNALE DALLE ORE 24 DEL 31.12.2017 ALLE ORE 24 DEL 31.12.2020. LOTTO N. 1 CIG: 7259612556 - LOTTO N. 2 CIG: 7259624F3A - LOTTO N. 3 CIG: 72596325D7 - LOTTO N. 4 CIG: 72596379F6 - LOTTO N. 5 CIG: 7259642E15 - LOTTO N. 6 CIG: 7259644FBB - LOTTO N. 7 CIG: 7259647239 - NOMINA SEGGIO DI GARA. </description>
-			<a10:updated>2017-12-19T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/840189</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/840189</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 19 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 03 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">840189</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>ASSEGNAZIONE IN LOCAZIONE DI ALLOGGIO COMUNALE AI SENSI DEL REGOLAMENTO PER L’EROGAZIONE DEI SERVIZI SOCIO ASSISTENZIALI DI CUI AL VERBALE COMMISSIONE CASA DEL 18/12/2017 </title>
-			<description>ASSEGNAZIONE IN LOCAZIONE DI ALLOGGIO COMUNALE AI SENSI DEL REGOLAMENTO PER L’EROGAZIONE DEI SERVIZI SOCIO ASSISTENZIALI DI CUI AL VERBALE COMMISSIONE CASA DEL 18/12/2017 </description>
 			<a10:updated>2017-12-19T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
