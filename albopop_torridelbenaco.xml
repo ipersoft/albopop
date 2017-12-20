@@ -5,7 +5,7 @@
 		<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Torri del Benaco</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 20 Dec 2017 13:31:51 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 20 Dec 2017 14:31:24 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Torri del Benaco</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Verona</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Torri del Benaco</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_torridelbenaco</a10:id>
-		<pubDate>Wed, 20 Dec 2017 13:31:51 +0100</pubDate>
+		<pubDate>Wed, 20 Dec 2017 14:31:24 +0100</pubDate>
 		<docs>http://albopop.it/comune/torridelbenaco/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3744156</guid>
+			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3744156</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 04 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3744156</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISO</category>
+			<title>INTERDIZIONE E CAUTA NAVIGAZIONE NEL LAGO DI GARDA A LAZISE, SPECCHIO ACQUEO ANTISTANTE IL LUNGOLAGO MARCONI, INTERESSATO DALLO SPETTACOLO PIROTECNICO DENOMINATO "NATALE A LAZISE - SANTO STEFANO" MARTEDÌ 26 DICEMBRE 2017. TRASMISSIONE ORDINANZA N. 490 DEL 20.10.2017. </title>
+			<description>INTERDIZIONE E CAUTA NAVIGAZIONE NEL LAGO DI GARDA A LAZISE, SPECCHIO ACQUEO ANTISTANTE IL LUNGOLAGO MARCONI, INTERESSATO DALLO SPETTACOLO PIROTECNICO DENOMINATO "NATALE A LAZISE - SANTO STEFANO" MARTEDÌ 26 DICEMBRE 2017. TRASMISSIONE ORDINANZA N. 490 DEL 20.10.2017. </description>
+			<a10:updated>2017-12-20T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3742740</guid>
 			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3742740</link>
@@ -284,17 +295,6 @@
 			<title>ACQUISTO AUTOVETTURA PER IL SERVIZIO COMUNALE DI PROTEZIONE CIVILE - DETERMINA A CONTRARRE CIG: Z302140907 </title>
 			<description>ACQUISTO AUTOVETTURA PER IL SERVIZIO COMUNALE DI PROTEZIONE CIVILE - DETERMINA A CONTRARRE CIG: Z302140907 </description>
 			<a10:updated>2017-12-15T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3722408</guid>
-			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3722408</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 13 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 28 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3722408</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>LIQUIDAZIONE DELL’ACCONTO DEL 20% DELL’IMPORTO CONTRATTUALE DEL 2° E 3° STRALCIO DEL POLO SCOLASTICO IN VIA MAZZINI – AUTORIMESSA INTERRATA E SCUOLA PRIMARIA ALLA DITTA “CONSORZIO ARTIGIANI ROMAGNOLO S.C.”. CIG 653294980E CUP D11C07000000004 </title>
-			<description>LIQUIDAZIONE DELL’ACCONTO DEL 20% DELL’IMPORTO CONTRATTUALE DEL 2° E 3° STRALCIO DEL POLO SCOLASTICO IN VIA MAZZINI – AUTORIMESSA INTERRATA E SCUOLA PRIMARIA ALLA DITTA “CONSORZIO ARTIGIANI ROMAGNOLO S.C.”. CIG 653294980E CUP D11C07000000004 </description>
-			<a10:updated>2017-12-13T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
