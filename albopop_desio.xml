@@ -5,7 +5,7 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/igrid/1233682</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Desio</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 21 Dec 2017 12:30:46 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 21 Dec 2017 13:30:40 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Desio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Desio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_desio</a10:id>
-		<pubDate>Thu, 21 Dec 2017 12:30:46 +0100</pubDate>
+		<pubDate>Thu, 21 Dec 2017 13:30:40 +0100</pubDate>
 		<docs>http://albopop.it/comune/desio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3747584</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3747584</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 21 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 05 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3747584</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
+			<title>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE ED OCCUPAZIONE DI SPAZI ED AREE PUBBLICHE, PER LA RISOLUZIONE DELLE INTERFERENZE CON METROTRANVIA E I GASDOTTI DI RETIPIU, IN VIA EUROPA </title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE ED OCCUPAZIONE DI SPAZI ED AREE PUBBLICHE, PER LA RISOLUZIONE DELLE INTERFERENZE CON METROTRANVIA E I GASDOTTI DI RETIPIU, IN VIA EUROPA </description>
+			<a10:updated>2017-12-21T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3747582</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3747582</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 21 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 05 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3747582</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
+			<title>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE ALL'INTERNO DELLE AREE DESTINATE AD OSPITARE I MERCATI SETTIMANALI </title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE ALL'INTERNO DELLE AREE DESTINATE AD OSPITARE I MERCATI SETTIMANALI </description>
+			<a10:updated>2017-12-21T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3747577</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3747577</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 21 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 05 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3747577</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
+			<title>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE ED OCCUPAZIONE TEMPORANEA DI SPAZI ED AREA PUBBLICA IN PIAZZA MARTIRI DI FOSSOLI </title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE ED OCCUPAZIONE TEMPORANEA DI SPAZI ED AREA PUBBLICA IN PIAZZA MARTIRI DI FOSSOLI </description>
+			<a10:updated>2017-12-21T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3743236</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3743236</link>
@@ -206,39 +239,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>CONCESSIONE DEL SERVIZIO ILLUMINAZIONE VOTIVA PRESSO I CIMITERI COMUNALI. AUTORIZZAZIONE DILAZIONE PAGAMENTI - </title>
 			<description>CONCESSIONE DEL SERVIZIO ILLUMINAZIONE VOTIVA PRESSO I CIMITERI COMUNALI. AUTORIZZAZIONE DILAZIONE PAGAMENTI - </description>
-			<a10:updated>2017-12-19T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3740516</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3740516</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 19 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 03 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3740516</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>SOSTITUZIONE DEI CONTROSOFFITTI DELL’AUDITORUM PRESSO LA SCUOLA SECONDARIA PERTINI (B/1587 – 1° LOTTO). APPROVAZIONE MODALITA’ APPALTO LAVORI E ASSUNZIONE IMPEGNO DI SPESA (€ 100.000,00). CUP G42B17002800004 – CIG: 7307549C31 </title>
-			<description>SOSTITUZIONE DEI CONTROSOFFITTI DELL’AUDITORUM PRESSO LA SCUOLA SECONDARIA PERTINI (B/1587 – 1° LOTTO). APPROVAZIONE MODALITA’ APPALTO LAVORI E ASSUNZIONE IMPEGNO DI SPESA (€ 100.000,00). CUP G42B17002800004 – CIG: 7307549C31 </description>
-			<a10:updated>2017-12-19T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3740514</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3740514</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 19 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 03 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3740514</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>FORNITURA DI SEGNALETICA VERTICALE STRADALE PER INTERVENTI DI MANUTENZIONE IN AMMINISTRAZIONE DIRETTA – DETERMINA A CONTRARRE ED AFFIDAMENTO DELLA FORNITURA AL CENTRO COLORE COLOMBO SNC DI A. &amp; L. COLOMBO – ASSUNZIONE IMPEGNO DI SPESA € 1.790,00 OLTRE IVA – CIG Z252125A94 </title>
-			<description>FORNITURA DI SEGNALETICA VERTICALE STRADALE PER INTERVENTI DI MANUTENZIONE IN AMMINISTRAZIONE DIRETTA – DETERMINA A CONTRARRE ED AFFIDAMENTO DELLA FORNITURA AL CENTRO COLORE COLOMBO SNC DI A. &amp; L. COLOMBO – ASSUNZIONE IMPEGNO DI SPESA € 1.790,00 OLTRE IVA – CIG Z252125A94 </description>
-			<a10:updated>2017-12-19T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3740512</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3740512</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 19 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 03 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3740512</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>INTERVENTI DI MANUTENZIONE ORDINARIA EDIFICI RESIDENZIALI DEL PATRIMONIO COMUNALE IN LOCAZIONE – OPERE EDILI ANNO 2017 (G_04_2017) . APPROVAZIONE DEL PROGETTO, DETERMINA A CONTRARRE E AFFIDAMENTO DEI LAVORI ALLA SOCIETA’ “MANUTEC TEAM S.R.L.” CON SEDE LEGALE IN DESIO (MB) - VIA VERCELLI, 12 - C.F. E P.I. 10086830964 – ASSUNZIONE IMPEGNO DI SPESA € 35.900,00= OLTRE IVA 10%. CIG ZF5213C391 </title>
-			<description>INTERVENTI DI MANUTENZIONE ORDINARIA EDIFICI RESIDENZIALI DEL PATRIMONIO COMUNALE IN LOCAZIONE – OPERE EDILI ANNO 2017 (G_04_2017) . APPROVAZIONE DEL PROGETTO, DETERMINA A CONTRARRE E AFFIDAMENTO DEI LAVORI ALLA SOCIETA’ “MANUTEC TEAM S.R.L.” CON SEDE LEGALE IN DESIO (MB) - VIA VERCELLI, 12 - C.F. E P.I. 10086830964 – ASSUNZIONE IMPEGNO DI SPESA € 35.900,00= OLTRE IVA 10%. CIG ZF5213C391 </description>
 			<a10:updated>2017-12-19T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
