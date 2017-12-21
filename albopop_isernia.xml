@@ -5,7 +5,7 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 21 Dec 2017 15:31:53 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 21 Dec 2017 16:31:24 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Isernia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>Thu, 21 Dec 2017 15:31:53 +0100</pubDate>
+		<pubDate>Thu, 21 Dec 2017 16:31:24 +0100</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3748820</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3748820</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 21 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 05 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3748820</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
+			<title>ATTO IMPEGNO DI SPESA PER ACQUISTO TONER E CARTUCCE PER SERVIZI DEMOGRAFICI </title>
+			<description>ATTO IMPEGNO DI SPESA PER ACQUISTO TONER E CARTUCCE PER SERVIZI DEMOGRAFICI </description>
+			<a10:updated>2017-12-21T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3748359</guid>
 			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3748359</link>
@@ -284,17 +295,6 @@
 			<title>Istituzione delle Isole Pedonali in occasione delle festività natalizie - Direttiva della Giunta Comunale - Modifiche transitorie della circolazione stradale nei giorni 17 e 23 dicembre 2017. </title>
 			<description>Istituzione delle Isole Pedonali in occasione delle festività natalizie - Direttiva della Giunta Comunale - Modifiche transitorie della circolazione stradale nei giorni 17 e 23 dicembre 2017. </description>
 			<a10:updated>2017-12-20T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3739953</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3739953</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 19 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 03 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3739953</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ESITO DI GARA</category>
-			<title>ESITO DI GARA RELATIVO ALL’AFFIDAMENTO DI ATTIVITÀ TECNICHE SPECIALISTICHE VOLTE AL MIGLIORAMENTO DELL’EFFICIENZA DELLE RETI IDRICHE COMUNALI DI ISERNIA, CASTELPIZZUTO, CARPINONE, MACCHIA D’ISERNIA, PESCHE E PETTORANELLO DI MOLISE. . IMPORTO A BASE D’ASTA € 404.711,40 CIG 69308817EE –CUP J64H14000750002 - PUBBLICAZIONE ALBO PRETORIO. </title>
-			<description>ESITO DI GARA RELATIVO ALL’AFFIDAMENTO DI ATTIVITÀ TECNICHE SPECIALISTICHE VOLTE AL MIGLIORAMENTO DELL’EFFICIENZA DELLE RETI IDRICHE COMUNALI DI ISERNIA, CASTELPIZZUTO, CARPINONE, MACCHIA D’ISERNIA, PESCHE E PETTORANELLO DI MOLISE. . IMPORTO A BASE D’ASTA € 404.711,40 CIG 69308817EE –CUP J64H14000750002 - PUBBLICAZIONE ALBO PRETORIO. </description>
-			<a10:updated>2017-12-19T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
