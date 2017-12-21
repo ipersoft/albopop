@@ -5,7 +5,7 @@
 		<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Annone Veneto</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 21 Dec 2017 16:30:54 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 21 Dec 2017 17:31:00 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Annone Veneto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Annone Veneto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_annoneveneto</a10:id>
-		<pubDate>Thu, 21 Dec 2017 16:30:54 +0100</pubDate>
+		<pubDate>Thu, 21 Dec 2017 17:31:00 +0100</pubDate>
 		<docs>http://albopop.it/comune/annoneveneto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3749072</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3749072</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 21 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 31 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3749072</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI AVVISO</category>
+			<title>COMUNE DI RESANA - AVVISO PER LA COPERTURA, A TEMPO PIENO ED INDETERMINATO, DI N. 1 POSTO DI ISTRUTTORE AMMINISTRATIVO - CAT. C MEDIANTE MOBILITÀ VOLONTARIA, AI SENSI DELL'ART. 30 DEL D.LGS. 30.3.2001 N. 165 </title>
+			<description>COMUNE DI RESANA - AVVISO PER LA COPERTURA, A TEMPO PIENO ED INDETERMINATO, DI N. 1 POSTO DI ISTRUTTORE AMMINISTRATIVO - CAT. C MEDIANTE MOBILITÀ VOLONTARIA, AI SENSI DELL'ART. 30 DEL D.LGS. 30.3.2001 N. 165 </description>
+			<a10:updated>2017-12-21T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3748985</guid>
 			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3748985</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
 			<title>SERVIZI A DOMANDA INDIVIDUALE - TASSO COPERTURA ANNO 2018 </title>
 			<description>SERVIZI A DOMANDA INDIVIDUALE - TASSO COPERTURA ANNO 2018 </description>
-			<a10:updated>2017-12-14T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3724152</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3724152</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 14 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 29 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3724152</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>DESTINAZIONE DEI PROVENTI DERIVANTI DALLE SANZIONI AMMINISTRATIVE PECUNIARIE PREVISTE DAL CODICE DELLA STRADA - ESERCIZIO 2018 </title>
-			<description>DESTINAZIONE DEI PROVENTI DERIVANTI DALLE SANZIONI AMMINISTRATIVE PECUNIARIE PREVISTE DAL CODICE DELLA STRADA - ESERCIZIO 2018 </description>
 			<a10:updated>2017-12-14T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
