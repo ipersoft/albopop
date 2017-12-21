@@ -5,7 +5,7 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 21 Dec 2017 11:31:46 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 21 Dec 2017 12:31:34 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Isernia</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>Thu, 21 Dec 2017 11:31:46 +0100</pubDate>
+		<pubDate>Thu, 21 Dec 2017 12:31:34 +0100</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3747217</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3747217</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 21 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 05 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3747217</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA GIUNTA COMUNALE</category>
+			<title>Impianto natatorio comunale-Modifica ed integrazioni alla deliberazione di Giunta comunale n. 39/2016. </title>
+			<description>Impianto natatorio comunale-Modifica ed integrazioni alla deliberazione di Giunta comunale n. 39/2016. </description>
+			<a10:updated>2017-12-21T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3747215</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3747215</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 21 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 05 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3747215</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA GIUNTA COMUNALE</category>
+			<title>Concessione del patrocinio e della sala conferenze dell'Auditorium "Unità d'Italia" alla A.S.D. Nuova Atletica Isernia (16 dicembre 2017) </title>
+			<description>Concessione del patrocinio e della sala conferenze dell'Auditorium "Unità d'Italia" alla A.S.D. Nuova Atletica Isernia (16 dicembre 2017) </description>
+			<a10:updated>2017-12-21T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3746923</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3746923</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 21 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 05 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3746923</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DECRETI</category>
+			<title>POSTA CERTIFICATA: REGIONE MOLISE GIUNTA REGIONALE - 21/12/2017 - 0147522 - DECRETO ADESIONE EGAM </title>
+			<description>POSTA CERTIFICATA: REGIONE MOLISE GIUNTA REGIONALE - 21/12/2017 - 0147522 - DECRETO ADESIONE EGAM </description>
+			<a10:updated>2017-12-21T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3746371</guid>
 			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3746371</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA GIUNTA COMUNALE</category>
 			<title>Donazione di n.20 glucometri - Accettazione – </title>
 			<description>Donazione di n.20 glucometri - Accettazione – </description>
-			<a10:updated>2017-12-19T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3739064</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3739064</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 19 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 03 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3739064</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA GIUNTA COMUNALE</category>
-			<title>Concessione del patrocinio e della sala dell'Auditorium "Unità d'Italia" all''Ist. Comp.vo S. Giovanni Bosco per Concerto di Natale (18 dicembre 2017) </title>
-			<description>Concessione del patrocinio e della sala dell'Auditorium "Unità d'Italia" all''Ist. Comp.vo S. Giovanni Bosco per Concerto di Natale (18 dicembre 2017) </description>
-			<a10:updated>2017-12-19T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3739060</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3739060</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 19 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 03 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3739060</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA GIUNTA COMUNALE</category>
-			<title>“Ausiliari della Sicurezza Scolastica” .Nuovo progetto, direttive sull' accordo e le modalità di svolgimento del servizio di volontariato davanti ai plessi scolastici di competenza comunale </title>
-			<description>“Ausiliari della Sicurezza Scolastica” .Nuovo progetto, direttive sull' accordo e le modalità di svolgimento del servizio di volontariato davanti ai plessi scolastici di competenza comunale </description>
-			<a10:updated>2017-12-19T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3739058</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3739058</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 19 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 03 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3739058</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA GIUNTA COMUNALE</category>
-			<title>Costituzione della delegazione trattante di parte pubblica e formulazione delle linee di indirizzo nella contrattazione collettiva decentrata integrativa (Personale delle categorie ai sensi del CCNL 22 gennaio 2004). </title>
-			<description>Costituzione della delegazione trattante di parte pubblica e formulazione delle linee di indirizzo nella contrattazione collettiva decentrata integrativa (Personale delle categorie ai sensi del CCNL 22 gennaio 2004). </description>
 			<a10:updated>2017-12-19T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
