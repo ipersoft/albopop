@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 22 Dec 2017 10:31:36 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 22 Dec 2017 11:31:39 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Fri, 22 Dec 2017 10:31:36 +0100</pubDate>
+		<pubDate>Fri, 22 Dec 2017 11:31:39 +0100</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3119569</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3119569</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 22 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 06 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3119569</category>
+			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
+			<title>SENTENZA CONSIGLIO DI STATO N. 4459/2017 – SERGIO DEL VECCHIO + ALTRI/ COMUNE DI CAPRI – LIQUIDAZIONE SALDO IN FAVORE DELL’AVVOCATO GIANCARLO MARINIELLO </title>
+			<description>SENTENZA CONSIGLIO DI STATO N. 4459/2017 – SERGIO DEL VECCHIO + ALTRI/ COMUNE DI CAPRI – LIQUIDAZIONE SALDO IN FAVORE DELL’AVVOCATO GIANCARLO MARINIELLO </description>
+			<a10:updated>2017-12-22T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3119457</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3119457</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 22 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 06 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3119457</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>Presa atto degli effetti delle Determine 1072 e 1073 del 18/12/2017.- </title>
+			<description>Presa atto degli effetti delle Determine 1072 e 1073 del 18/12/2017.- </description>
+			<a10:updated>2017-12-22T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3118752</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3118752</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>Avviso OIV - presa d'atto comunicazione domande pervenute. </title>
 			<description>Avviso OIV - presa d'atto comunicazione domande pervenute. </description>
-			<a10:updated>2017-12-20T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3113359</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3113359</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 04 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3113359</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>sentenza 8022 go - sez. lavoro. adempimenti cat.d </title>
-			<description>sentenza 8022 go - sez. lavoro. adempimenti cat.d </description>
-			<a10:updated>2017-12-20T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3113356</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3113356</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 04 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3113356</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
-			<title>SENTENZA DEL T.A.R. CAMPANIA DI NAPOLI N. 3011/2015 – SOCIETA’ CAPRI CRUISE SRL / COMUNE DI CAPRI - LIQUIDAZIONE SPESE DI GIUDIZIO IN FAVORE DELLA SOCIETA’ CAPRI CRUISE S.R.L. </title>
-			<description>SENTENZA DEL T.A.R. CAMPANIA DI NAPOLI N. 3011/2015 – SOCIETA’ CAPRI CRUISE SRL / COMUNE DI CAPRI - LIQUIDAZIONE SPESE DI GIUDIZIO IN FAVORE DELLA SOCIETA’ CAPRI CRUISE S.R.L. </description>
 			<a10:updated>2017-12-20T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
