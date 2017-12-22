@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 22 Dec 2017 13:31:00 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 22 Dec 2017 14:31:08 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Fri, 22 Dec 2017 13:31:00 +0100</pubDate>
+		<pubDate>Fri, 22 Dec 2017 14:31:08 +0100</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3120973</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3120973</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 22 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 06 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3120973</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO PUBBLICAZIONE AVVISO</category>
+			<title>AVVISO DEPOSITO ALBO SCRUTATORI DI SEGGIO ELETTORALE </title>
+			<description>AVVISO DEPOSITO ALBO SCRUTATORI DI SEGGIO ELETTORALE </description>
+			<a10:updated>2017-12-22T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3120860</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3120860</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 22 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 06 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3120860</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>LIQUIDAZIONE SPESE DI REGISTRAZIONE IN FAVORE DELL’AGENZIA DELLE ENTRATE - SENTENZA CIVILE N. 000000117/2017 DEL 14/12/2017 – FIORENTINO GIUSEPPA / COMUNE DI CAPRI </title>
+			<description>LIQUIDAZIONE SPESE DI REGISTRAZIONE IN FAVORE DELL’AGENZIA DELLE ENTRATE - SENTENZA CIVILE N. 000000117/2017 DEL 14/12/2017 – FIORENTINO GIUSEPPA / COMUNE DI CAPRI </description>
+			<a10:updated>2017-12-22T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3120857</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3120857</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 22 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 06 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3120857</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO PUBBLICAZIONE AVVISO</category>
+			<title>AVVISO RILASCIO PERMESSO DI COSTUIRE - POSTE ITALIANE </title>
+			<description>AVVISO RILASCIO PERMESSO DI COSTUIRE - POSTE ITALIANE </description>
+			<a10:updated>2017-12-22T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3120527</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3120527</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>"ADOTTA UN LIBRO" PREMIO MARIA LAURA DI PIETRO - IX EDIZIONE - ACQUISTO ATTRAVERSO LO STRUMENTO DEL MEPA MATERIALE LIBRERIE FELTRINELLI SRL. CIG. Z3D216CE78 </title>
 			<description>"ADOTTA UN LIBRO" PREMIO MARIA LAURA DI PIETRO - IX EDIZIONE - ACQUISTO ATTRAVERSO LO STRUMENTO DEL MEPA MATERIALE LIBRERIE FELTRINELLI SRL. CIG. Z3D216CE78 </description>
-			<a10:updated>2017-12-21T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3115459</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3115459</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 21 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 22 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3115459</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISO PUBBLICAZIONE AVVISO</category>
-			<title>AVVISO DI DEPOSITO DI N.1 ATTO NELLA CASA COMUNALE </title>
-			<description>AVVISO DI DEPOSITO DI N.1 ATTO NELLA CASA COMUNALE </description>
-			<a10:updated>2017-12-21T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3115457</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3115457</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 21 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 29 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3115457</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISO PUBBLICAZIONE AVVISO</category>
-			<title>AVVISO DI DEPOSITO DI N.1 ATTO NELLA CASA COMUNALE </title>
-			<description>AVVISO DI DEPOSITO DI N.1 ATTO NELLA CASA COMUNALE </description>
-			<a10:updated>2017-12-21T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3115275</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3115275</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 21 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 05 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3115275</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>ACQUISTO DI MATERIALE LUDICO-RICREATIVO PER ORGANIZZAZIONE TORNEI DI NATALE - FORUM DEI GIOVANI DI CAPRI - CIG: Z1F216CC44 </title>
-			<description>ACQUISTO DI MATERIALE LUDICO-RICREATIVO PER ORGANIZZAZIONE TORNEI DI NATALE - FORUM DEI GIOVANI DI CAPRI - CIG: Z1F216CC44 </description>
 			<a10:updated>2017-12-21T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
