@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 22 Dec 2017 11:31:39 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 22 Dec 2017 12:32:07 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Fri, 22 Dec 2017 11:31:39 +0100</pubDate>
+		<pubDate>Fri, 22 Dec 2017 12:32:07 +0100</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3120155</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3120155</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 22 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 06 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3120155</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>INDENNITA' DI PRESENZA AMMINISTRATORI GENNAIO-DICEMBRE 2017 IMPEGNATIVA DI SPESA </title>
+			<description>INDENNITA' DI PRESENZA AMMINISTRATORI GENNAIO-DICEMBRE 2017 IMPEGNATIVA DI SPESA </description>
+			<a10:updated>2017-12-22T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3119569</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3119569</link>
@@ -284,17 +295,6 @@
 			<title>PROCEDURA APERTA PER L'AFFIDAMENTO DEL CONTRATTO DI CONCESSIONE IN FINANZA DI PROGETTO AI SENSI DELL'ART.183. COMMI 1 E 14,DEL D.LGS 50/2016 AD OGGETTO LA PROGETTAZIONE DEFINITIVA/ ESECUTIVA, LA COSTRUZIONE E LA GESTIONE DI UN NUOVO IMPIANTO POLIVALENTE CON ANNESSA PISCINA CON COPERTURA APRIBILE ED ADEGUAMENTO DELLE PREESISTENTI STRUTTURA DEL PALAZZETTO IN LOCALITA' SAN COSTANZO. – ULTERIORE PROROGA DELLA SCADENZA PER LA PRESENTAZIONE DELLE OFFERTE </title>
 			<description>PROCEDURA APERTA PER L'AFFIDAMENTO DEL CONTRATTO DI CONCESSIONE IN FINANZA DI PROGETTO AI SENSI DELL'ART.183. COMMI 1 E 14,DEL D.LGS 50/2016 AD OGGETTO LA PROGETTAZIONE DEFINITIVA/ ESECUTIVA, LA COSTRUZIONE E LA GESTIONE DI UN NUOVO IMPIANTO POLIVALENTE CON ANNESSA PISCINA CON COPERTURA APRIBILE ED ADEGUAMENTO DELLE PREESISTENTI STRUTTURA DEL PALAZZETTO IN LOCALITA' SAN COSTANZO. – ULTERIORE PROROGA DELLA SCADENZA PER LA PRESENTAZIONE DELLE OFFERTE </description>
 			<a10:updated>2017-12-21T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3113575</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3113575</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 04 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3113575</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>Avviso OIV - presa d'atto comunicazione domande pervenute. </title>
-			<description>Avviso OIV - presa d'atto comunicazione domande pervenute. </description>
-			<a10:updated>2017-12-20T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
