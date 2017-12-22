@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 22 Dec 2017 12:32:07 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 22 Dec 2017 13:31:00 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Fri, 22 Dec 2017 12:32:07 +0100</pubDate>
+		<pubDate>Fri, 22 Dec 2017 13:31:00 +0100</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3120712</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3120712</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 22 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 26 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3120712</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
+			<title>POSTA CERTIFICATA: AVVISO DI MOBILITÀ INDETTO DA ER.GO (AZIENDA REGIONALE PER IL DIRITTO AGLI STUDI SUPERIORI DELLA REGIONE EMILIA ROMAGNA) CAT. C </title>
+			<description>POSTA CERTIFICATA: AVVISO DI MOBILITÀ INDETTO DA ER.GO (AZIENDA REGIONALE PER IL DIRITTO AGLI STUDI SUPERIORI DELLA REGIONE EMILIA ROMAGNA) CAT. C </description>
+			<a10:updated>2017-12-22T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3120028</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3120028</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
 			<title>SERVIZIO DI REFEZIONE SCOLASTICA . INTEGRAZIONE IMPEGNI DI SPESA ANNO 2017 A FAVORE DI CAMST SCRL </title>
 			<description>SERVIZIO DI REFEZIONE SCOLASTICA . INTEGRAZIONE IMPEGNI DI SPESA ANNO 2017 A FAVORE DI CAMST SCRL </description>
-			<a10:updated>2017-12-18T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3108582</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3108582</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 18 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 02 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3108582</category>
-			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
-			<title>IMPEGNO E LIQUIDAZIONE CONTRIBUTO ALLA PARROCCHIA SAN PROSPERO DI COLLECCHIO PER ATTIVITA’ SOCIO-RICREATIVE PER BAMBINI E RAGAZZI </title>
-			<description>IMPEGNO E LIQUIDAZIONE CONTRIBUTO ALLA PARROCCHIA SAN PROSPERO DI COLLECCHIO PER ATTIVITA’ SOCIO-RICREATIVE PER BAMBINI E RAGAZZI </description>
 			<a10:updated>2017-12-18T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
