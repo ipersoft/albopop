@@ -5,7 +5,7 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 23 Dec 2017 18:31:30 +0100</lastBuildDate>
+		<lastBuildDate>Sun, 24 Dec 2017 08:31:08 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Isernia</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>Sat, 23 Dec 2017 18:31:30 +0100</pubDate>
+		<pubDate>Sun, 24 Dec 2017 08:31:08 +0100</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -41,28 +41,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZE</category>
 			<title>Istituzione delle Isole Pedonali in occasione delle festività natalizie - Direttiva della Giunta Comunale - Modifiche transitorie della circolazione stradale nei giorni 17 e 23 dicembre 2017 - integrazione ordinanza n° 178 del 12.12.2017. </title>
 			<description>Istituzione delle Isole Pedonali in occasione delle festività natalizie - Direttiva della Giunta Comunale - Modifiche transitorie della circolazione stradale nei giorni 17 e 23 dicembre 2017 - integrazione ordinanza n° 178 del 12.12.2017. </description>
-			<a10:updated>2017-12-22T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3752343</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3752343</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 22 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 23 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3752343</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO DEPOSITO ATTI</category>
-			<title>PUBBLICAZIONE ATTI CIOBAN EMANUEL DANUT </title>
-			<description>PUBBLICAZIONE ATTI CIOBAN EMANUEL DANUT </description>
-			<a10:updated>2017-12-22T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3752341</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3752341</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 22 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 23 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3752341</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO DEPOSITO ATTI</category>
-			<title>PUBBLICAZIONE ATTI ATI AGENCY TRAVEL </title>
-			<description>PUBBLICAZIONE ATTI ATI AGENCY TRAVEL </description>
 			<a10:updated>2017-12-22T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
@@ -294,6 +272,28 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
 			<title>Impegno di spesa per pagamento utenza energia elettrica per le scuole elementari. DITTA : ENEL ENERGIA. CIG: 6975495891. </title>
 			<description>Impegno di spesa per pagamento utenza energia elettrica per le scuole elementari. DITTA : ENEL ENERGIA. CIG: 6975495891. </description>
+			<a10:updated>2017-12-21T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3746361</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3746361</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 21 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 05 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3746361</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
+			<title>Impegno di spesa per fornitura di gas naturale : "Casa dello studente" (ditta: ESTRA ENERGIE SPA) CIG :697978197C </title>
+			<description>Impegno di spesa per fornitura di gas naturale : "Casa dello studente" (ditta: ESTRA ENERGIE SPA) CIG :697978197C </description>
+			<a10:updated>2017-12-21T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3746359</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3746359</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 21 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 05 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3746359</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
+			<title>liquidazione di spesa per utenze metano per l'asilo nido comunale - ditta Estra Energie Srl per il mese di ottobre 2017- CIG 697978197C. </title>
+			<description>liquidazione di spesa per utenze metano per l'asilo nido comunale - ditta Estra Energie Srl per il mese di ottobre 2017- CIG 697978197C. </description>
 			<a10:updated>2017-12-21T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

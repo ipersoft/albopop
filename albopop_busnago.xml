@@ -5,7 +5,7 @@
 		<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Busnago</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 23 Dec 2017 18:31:18 +0100</lastBuildDate>
+		<lastBuildDate>Sun, 24 Dec 2017 08:30:54 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Busnago</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Busnago</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_busnago</a10:id>
-		<pubDate>Sat, 23 Dec 2017 18:31:18 +0100</pubDate>
+		<pubDate>Sun, 24 Dec 2017 08:30:54 +0100</pubDate>
 		<docs>http://albopop.it/comune/busnago/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -41,17 +41,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO PRATICHE EDILIZIE PERMESSO DI COSTRUIRE</category>
 			<title>PERMESSO DI COSTRUIRE N. 11/17 </title>
 			<description>PERMESSO DI COSTRUIRE N. 11/17 </description>
-			<a10:updated>2017-12-22T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3750887</guid>
-			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3750887</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 22 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 23 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3750887</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI PUBBLICI AGENZIA DELLE ENTRATE - RISCOSSIONE. AVVISO DI DEPOSITO DI ATTI NELLA CASA COMUNALE</category>
-			<title>POSTEITALIANE PER CONTO DI AGENZIA DELLE ENTRATE-RISCOSSIONE. PUBBLICAZIONE AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE N. ELENCO : EL000150461 DEL 21/12/2017 </title>
-			<description>POSTEITALIANE PER CONTO DI AGENZIA DELLE ENTRATE-RISCOSSIONE. PUBBLICAZIONE AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE N. ELENCO : EL000150461 DEL 21/12/2017 </description>
 			<a10:updated>2017-12-22T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
@@ -294,6 +283,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DETERMINAZIONE DEI RESPONSABILI</category>
 			<title>IMPEGNO PER POLO CATASTALE QUOTA ASSOCIATIVA ANNO 2017 </title>
 			<description>IMPEGNO PER POLO CATASTALE QUOTA ASSOCIATIVA ANNO 2017 </description>
+			<a10:updated>2017-12-16T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3732761</guid>
+			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3732761</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 16 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 31 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3732761</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DETERMINAZIONE DEI RESPONSABILI</category>
+			<title>ACCERTAMENTO PER REGOLAZIONE A CREDITO POLIZZA INFORTUNI </title>
+			<description>ACCERTAMENTO PER REGOLAZIONE A CREDITO POLIZZA INFORTUNI </description>
 			<a10:updated>2017-12-16T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
