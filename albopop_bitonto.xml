@@ -5,7 +5,7 @@
 		<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bitonto</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 27 Dec 2017 13:30:45 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 27 Dec 2017 14:30:36 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bitonto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Bari</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bitonto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bitonto</a10:id>
-		<pubDate>Wed, 27 Dec 2017 13:30:45 +0100</pubDate>
+		<pubDate>Wed, 27 Dec 2017 14:30:36 +0100</pubDate>
 		<docs>http://albopop.it/comune/bitonto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3756988</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3756988</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 27 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 25 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3756988</category>
+			<category domain="http://albopop.it/specs#item-category-type">BANDI DI GARA BANDI DI GARA DEL COMUNE</category>
+			<title>AVVISO DI GARA TRAMITE M.E.P.A. </title>
+			<description>AVVISO DI GARA TRAMITE M.E.P.A. </description>
+			<a10:updated>2017-12-27T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3756987</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3756987</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 27 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 11 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3756987</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISI ALTRI ENTI</category>
+			<title>ATTIVITA' DI PUBBLICIZZAZIONE DEGLI ELENCHI DI PARTICELLE OGGETTO DI VARIAZIONI CULTURALI AI SENSI DELL'ART. 2 COMMA 33 D.L. 3/10/2006 </title>
+			<description>ATTIVITA' DI PUBBLICIZZAZIONE DEGLI ELENCHI DI PARTICELLE OGGETTO DI VARIAZIONI CULTURALI AI SENSI DELL'ART. 2 COMMA 33 D.L. 3/10/2006 </description>
+			<a10:updated>2017-12-27T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3756787</guid>
 			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3756787</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI RESPONSABILI DEI SERVIZI (DAL 6-03-2015) 01 - SERVIZIO ORGANIZZAZIONE</category>
 			<title>Dipendenti collocati in quiescenza – Fornitura di n. 8 targhe personalizzate. Affidamento fornitura e impegno spesa </title>
 			<description>Dipendenti collocati in quiescenza – Fornitura di n. 8 targhe personalizzate. Affidamento fornitura e impegno spesa </description>
-			<a10:updated>2017-12-27T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3756071</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3756071</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 27 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 11 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3756071</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI RESPONSABILI DEI SERVIZI (DAL 6-03-2015) 06 - SERVIZIO TRIBUTI</category>
-			<title>RICONOSCIMENTO RIMBORSI IN FAVORE DI DIVERSI CONTRIBUENTE PER VERSAMENTI ALLO STATO IN MISURA SUPERIORE AL DOVUTO A TITOLO DI IMU (CODICE 3919). </title>
-			<description>RICONOSCIMENTO RIMBORSI IN FAVORE DI DIVERSI CONTRIBUENTE PER VERSAMENTI ALLO STATO IN MISURA SUPERIORE AL DOVUTO A TITOLO DI IMU (CODICE 3919). </description>
-			<a10:updated>2017-12-27T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3756069</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3756069</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 27 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 11 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3756069</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI RESPONSABILI DEI SERVIZI (DAL 6-03-2015) 05 - SERVIZIO RAGIONERIA</category>
-			<title>Revoca del provvedimento n.1447/2017 avente ad oggetto: "Realizzazione progetto “Ecosistema” presso le scuole dell’infanzia statali. Cig: Z9621548B3”. </title>
-			<description>Revoca del provvedimento n.1447/2017 avente ad oggetto: "Realizzazione progetto “Ecosistema” presso le scuole dell’infanzia statali. Cig: Z9621548B3”. </description>
 			<a10:updated>2017-12-27T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
