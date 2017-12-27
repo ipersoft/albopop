@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 27 Dec 2017 11:30:46 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 27 Dec 2017 12:31:02 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Wed, 27 Dec 2017 11:30:46 +0100</pubDate>
+		<pubDate>Wed, 27 Dec 2017 12:31:02 +0100</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3755994</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3755994</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 27 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 11 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3755994</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
+			<title>ISTITUZIONE SENSO UNICO ALTERNATO IN VIA MORETTO DAL 27.12.17 AL 31.1.2018 </title>
+			<description>ISTITUZIONE SENSO UNICO ALTERNATO IN VIA MORETTO DAL 27.12.17 AL 31.1.2018 </description>
+			<a10:updated>2017-12-27T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3753676</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3753676</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI AVVISO DI DEPOSITO - EQUITALIA 8 GG</category>
 			<title>AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE A NOME DI RISTOVIC ALEKSANDAR E ATTESTAZIONE DI AFFISSIONE DAL 19/12/2017 AL 27/12/2017 </title>
 			<description>AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE A NOME DI RISTOVIC ALEKSANDAR E ATTESTAZIONE DI AFFISSIONE DAL 19/12/2017 AL 27/12/2017 </description>
-			<a10:updated>2017-12-19T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3739124</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3739124</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 19 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 19 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3739124</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI AVVISO</category>
-			<title>COMUNE DI CAPRIOLO- SCADENZA MOBILITA' 19.01.2018 </title>
-			<description>COMUNE DI CAPRIOLO- SCADENZA MOBILITA' 19.01.2018 </description>
 			<a10:updated>2017-12-19T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
