@@ -5,7 +5,7 @@
 		<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Torri del Benaco</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 27 Dec 2017 15:31:52 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 27 Dec 2017 16:32:53 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Torri del Benaco</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Verona</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Torri del Benaco</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_torridelbenaco</a10:id>
-		<pubDate>Wed, 27 Dec 2017 15:31:52 +0100</pubDate>
+		<pubDate>Wed, 27 Dec 2017 16:32:53 +0100</pubDate>
 		<docs>http://albopop.it/comune/torridelbenaco/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3757788</guid>
+			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3757788</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 27 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 26 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3757788</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONCORSI PUBBLICI AVVISI DI MOBILITA'</category>
+			<title>COMUNE DI SOAVE: AVVISO DI MOBILITA ESTERNA PER AGENTE DI POLIZIA LOCALE CAT C - A TEMPO PIENO E INDETERMINATO - RICHIESTA PUBBLICAZIONE E DIVULGAZIONE </title>
+			<description>COMUNE DI SOAVE: AVVISO DI MOBILITA ESTERNA PER AGENTE DI POLIZIA LOCALE CAT C - A TEMPO PIENO E INDETERMINATO - RICHIESTA PUBBLICAZIONE E DIVULGAZIONE </description>
+			<a10:updated>2017-12-27T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3755745</guid>
 			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3755745</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>DITTA GARDEN DELLE ROSE SRL. SERVIZI DI SFALCIO E PULIZIA CIGLI STRADALI ED AREECOMUNALI E DI POTATURA PIANTE IN PARCHI E GIARDINI COMUNALI TRIENNIO 2016/18. ARRPOVAZIONE STATO D'AVANZAMENTO N.02 E LIQUIDAZIONE CERTIFICATO DI PAGAMENTO N.02 ANNO 2017. </title>
 			<description>DITTA GARDEN DELLE ROSE SRL. SERVIZI DI SFALCIO E PULIZIA CIGLI STRADALI ED AREECOMUNALI E DI POTATURA PIANTE IN PARCHI E GIARDINI COMUNALI TRIENNIO 2016/18. ARRPOVAZIONE STATO D'AVANZAMENTO N.02 E LIQUIDAZIONE CERTIFICATO DI PAGAMENTO N.02 ANNO 2017. </description>
-			<a10:updated>2017-12-20T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3744746</guid>
-			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3744746</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 04 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3744746</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>DITTA GENTILE SAS. LAVORI DI MANUTENZIONE DELLE STRADE COMUNALI TRIENNIO 2016/18. APPROVAZIONE STATO D'AVANZAMENTO N.02 E LIQUIDAZIONE CERTIFICATO DI PAGAMENTO N.02 ANNO 2017. </title>
-			<description>DITTA GENTILE SAS. LAVORI DI MANUTENZIONE DELLE STRADE COMUNALI TRIENNIO 2016/18. APPROVAZIONE STATO D'AVANZAMENTO N.02 E LIQUIDAZIONE CERTIFICATO DI PAGAMENTO N.02 ANNO 2017. </description>
 			<a10:updated>2017-12-20T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
