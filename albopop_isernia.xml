@@ -5,7 +5,7 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 27 Dec 2017 18:31:31 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 28 Dec 2017 08:31:26 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Isernia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>Wed, 27 Dec 2017 18:31:31 +0100</pubDate>
+		<pubDate>Thu, 28 Dec 2017 08:31:26 +0100</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3755458</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3755458</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 28 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 12 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3755458</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO AVVISO</category>
+			<title>AVVISO PUBBLICO ALIENAZIONE DI TERRENI E RELITTI STRADALI DEL PATRIMONIO COMUNALE, INSERITI NEL PIANO DELLE ALIENAZIONI E VALORIZZAZIONI ANNO 2017. RICHIESTA MANIFESTAZIONI DI INTERESSE.PUBBLICAZIONE DELL'AVVISO PUBBLICO ALL'ALBO PRETORIO/ TRASPARENZA E SUL SITO INTERNET DEL COMUNE PER 15 GG CONSECUTIVI A FAR DATA DAL 28-12-2017. </title>
+			<description>AVVISO PUBBLICO ALIENAZIONE DI TERRENI E RELITTI STRADALI DEL PATRIMONIO COMUNALE, INSERITI NEL PIANO DELLE ALIENAZIONI E VALORIZZAZIONI ANNO 2017. RICHIESTA MANIFESTAZIONI DI INTERESSE.PUBBLICAZIONE DELL'AVVISO PUBBLICO ALL'ALBO PRETORIO/ TRASPARENZA E SUL SITO INTERNET DEL COMUNE PER 15 GG CONSECUTIVI A FAR DATA DAL 28-12-2017. </description>
+			<a10:updated>2017-12-28T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3753061</guid>
 			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3753061</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
 			<title>Impegno di spesa per fornitura di gas naturale : "Casa dello studente" (ditta: ESTRA ENERGIE SPA) CIG :697978197C </title>
 			<description>Impegno di spesa per fornitura di gas naturale : "Casa dello studente" (ditta: ESTRA ENERGIE SPA) CIG :697978197C </description>
-			<a10:updated>2017-12-21T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3746359</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3746359</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 21 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 05 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3746359</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
-			<title>liquidazione di spesa per utenze metano per l'asilo nido comunale - ditta Estra Energie Srl per il mese di ottobre 2017- CIG 697978197C. </title>
-			<description>liquidazione di spesa per utenze metano per l'asilo nido comunale - ditta Estra Energie Srl per il mese di ottobre 2017- CIG 697978197C. </description>
 			<a10:updated>2017-12-21T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
