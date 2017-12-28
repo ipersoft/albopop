@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 28 Dec 2017 16:30:43 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 28 Dec 2017 17:30:56 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Thu, 28 Dec 2017 16:30:43 +0100</pubDate>
+		<pubDate>Thu, 28 Dec 2017 17:30:56 +0100</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3763918</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3763918</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 28 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 12 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3763918</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>EROGAZIONE DI UN CONTRIBUTO ECONOMICO IN ATTUAZIONE DELL'INZIATIVA PER IL CONTRASTO DELLA MOROSITA' INCOLPEVOLE DI CUI ALLE D.G.R. 2648/2014 E 5644/2016 - MATR. 219.973.17 </title>
+			<description>EROGAZIONE DI UN CONTRIBUTO ECONOMICO IN ATTUAZIONE DELL'INZIATIVA PER IL CONTRASTO DELLA MOROSITA' INCOLPEVOLE DI CUI ALLE D.G.R. 2648/2014 E 5644/2016 - MATR. 219.973.17 </description>
+			<a10:updated>2017-12-28T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3763528</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3763528</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>ASSUNZIONE IMPEGNO DI SPESA A FAVORE DELLA DITTA PAXFILM PER LA PROIEZIONE DEL FILM D'ANIMAZIONE "ZOOTROPOLIS". </title>
 			<description>ASSUNZIONE IMPEGNO DI SPESA A FAVORE DELLA DITTA PAXFILM PER LA PROIEZIONE DEL FILM D'ANIMAZIONE "ZOOTROPOLIS". </description>
-			<a10:updated>2017-12-28T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3761781</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3761781</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 28 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 12 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3761781</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>AFFIDAMENTO, MEDIANTE PIATTAFORMA SINTEL, DEL SERVIZIO DI ASSISTENZA PER LA FORNITURA DI ACQUA E BOCCIONI ALLE SCUOLE DELL'INFANZIA DEL TERRITORIO COMUNALE- CIG 202169D79-. </title>
-			<description>AFFIDAMENTO, MEDIANTE PIATTAFORMA SINTEL, DEL SERVIZIO DI ASSISTENZA PER LA FORNITURA DI ACQUA E BOCCIONI ALLE SCUOLE DELL'INFANZIA DEL TERRITORIO COMUNALE- CIG 202169D79-. </description>
 			<a10:updated>2017-12-28T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
