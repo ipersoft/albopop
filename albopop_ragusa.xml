@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 28 Dec 2017 13:31:29 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 28 Dec 2017 14:32:53 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Thu, 28 Dec 2017 13:31:29 +0100</pubDate>
+		<pubDate>Thu, 28 Dec 2017 14:32:53 +0100</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3126652</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3126652</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 28 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 12 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3126652</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA SINDACALI</category>
+			<title>DET.SIND. N° 62/17 - NOMINA AUSILIARIO DEL TRAFFICO - SIG. ATTARDO DAVIDE, GUASTELLA FABIO, MARRAS FRANCESCO E TUMINO GIOVANNI - LEGGE 15.05.1997, N. 127 ART. 17 COMMA 132 E LEGGE 23,12,1999, N. 488 ART. 68. </title>
+			<description>DET.SIND. N° 62/17 - NOMINA AUSILIARIO DEL TRAFFICO - SIG. ATTARDO DAVIDE, GUASTELLA FABIO, MARRAS FRANCESCO E TUMINO GIOVANNI - LEGGE 15.05.1997, N. 127 ART. 17 COMMA 132 E LEGGE 23,12,1999, N. 488 ART. 68. </description>
+			<a10:updated>2017-12-28T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3126572</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3126572</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
 			<title>MOBILITÀ ESTERNA VOLONTARIA AI SENSI DELL’ART. 30 DEL D.LGS. N. 165/2001 E DELL’ART. 42 DEL R.O.U.S. PER LA COPERTURA DI N.3 POSTI DI ISTRUTTORE AREA CONTABILE. IMMISSIONE NELLA DOTAZIONE ORGANICA DEL COMUNE DI RAGUSA DEL DIPENDENTE BELLASSAI GIOVANNI. </title>
 			<description>MOBILITÀ ESTERNA VOLONTARIA AI SENSI DELL’ART. 30 DEL D.LGS. N. 165/2001 E DELL’ART. 42 DEL R.O.U.S. PER LA COPERTURA DI N.3 POSTI DI ISTRUTTORE AREA CONTABILE. IMMISSIONE NELLA DOTAZIONE ORGANICA DEL COMUNE DI RAGUSA DEL DIPENDENTE BELLASSAI GIOVANNI. </description>
-			<a10:updated>2017-12-28T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3124790</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3124790</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 28 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 04 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3124790</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
-			<title>APPROVAZIONE SCHEMA DI CONVENZIONE EX ART. 14 DEL C.C.N.L. 2004, TRA IL COMUNE DI RAGUSA E IL LIBERO CONSORZIO COMUNALE DI RAGUSA – DIPENDENTE BATTAGLIA MARCO. </title>
-			<description>APPROVAZIONE SCHEMA DI CONVENZIONE EX ART. 14 DEL C.C.N.L. 2004, TRA IL COMUNE DI RAGUSA E IL LIBERO CONSORZIO COMUNALE DI RAGUSA – DIPENDENTE BATTAGLIA MARCO. </description>
 			<a10:updated>2017-12-28T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
