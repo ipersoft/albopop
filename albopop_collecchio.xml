@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 28 Dec 2017 14:32:49 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 28 Dec 2017 15:35:35 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Thu, 28 Dec 2017 14:32:49 +0100</pubDate>
+		<pubDate>Thu, 28 Dec 2017 15:35:35 +0100</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3127102</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3127102</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 28 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 12 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3127102</category>
+			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
+			<title>PARTECIPAZIONE ALLA SPESA PER LE ATTIVITA’ DI PROTEZIONE CIVILE DELL’UNIONE PEDEMONTANA PARMENSE . IMPEGNO DI SPESA. </title>
+			<description>PARTECIPAZIONE ALLA SPESA PER LE ATTIVITA’ DI PROTEZIONE CIVILE DELL’UNIONE PEDEMONTANA PARMENSE . IMPEGNO DI SPESA. </description>
+			<a10:updated>2017-12-28T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3124038</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3124038</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DLG DELIBERA DI GIUNTA</category>
 			<title>AUTORIZZAZIONE ALLA DELEGAZIONE TRATTANTE A SOTTOSCRIVERE IL CONTRATTO DECENTRATO – PARTE ECONOMICA - E L’UTILIZZO DELLE RISORSE PER L’ANNO 2017- </title>
 			<description>AUTORIZZAZIONE ALLA DELEGAZIONE TRATTANTE A SOTTOSCRIVERE IL CONTRATTO DECENTRATO – PARTE ECONOMICA - E L’UTILIZZO DELLE RISORSE PER L’ANNO 2017- </description>
-			<a10:updated>2017-12-19T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3109527</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3109527</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 19 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 03 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3109527</category>
-			<category domain="http://albopop.it/specs#item-category-type">DLG DELIBERA DI GIUNTA</category>
-			<title>CESSIONE DI CAPACITA’ ASSUNZIONALE ALL’UNIONE PEDEMONTANA PARMENSE - DETERMINAZIONI IN MERITO </title>
-			<description>CESSIONE DI CAPACITA’ ASSUNZIONALE ALL’UNIONE PEDEMONTANA PARMENSE - DETERMINAZIONI IN MERITO </description>
 			<a10:updated>2017-12-19T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
