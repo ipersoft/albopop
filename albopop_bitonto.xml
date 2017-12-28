@@ -5,7 +5,7 @@
 		<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bitonto</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 28 Dec 2017 11:30:41 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 28 Dec 2017 12:30:36 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bitonto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Bari</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bitonto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bitonto</a10:id>
-		<pubDate>Thu, 28 Dec 2017 11:30:41 +0100</pubDate>
+		<pubDate>Thu, 28 Dec 2017 12:30:36 +0100</pubDate>
 		<docs>http://albopop.it/comune/bitonto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3760706</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3760706</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 28 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 26 Jun 2018 02:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3760706</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
+			<title>VIA ANCONA CIV.20 SINO A VIA S. CALIA E DAL CIV.21 AL 29 (ZONA CANTIERE) DIVIETO DI SOSTA CON RIMOZIONE DAL 01/01 AL 30/06/2018 ORE 7/17,30 PER OPERAZIONI DI COSTRUZIONE DI UN FABBRICATO PER CIVILI ABITAZIONI - IMPRESA EDILE C.T.E. DI CHIDDO GIUSEPPE </title>
+			<description>VIA ANCONA CIV.20 SINO A VIA S. CALIA E DAL CIV.21 AL 29 (ZONA CANTIERE) DIVIETO DI SOSTA CON RIMOZIONE DAL 01/01 AL 30/06/2018 ORE 7/17,30 PER OPERAZIONI DI COSTRUZIONE DI UN FABBRICATO PER CIVILI ABITAZIONI - IMPRESA EDILE C.T.E. DI CHIDDO GIUSEPPE </description>
+			<a10:updated>2017-12-28T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3760412</guid>
 			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3760412</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI 09 - UFFICIO DI PIANO</category>
 			<title>PIANO SOCIALE DI ZONA. ATTUAZIONE DEL PRO.V.I. SECONDA ANNUALITÀ. CODICE PRATICA N. E2NJQ21. LIQUIDAZIONE OTTOBRE E NOVEMBRE 2017. </title>
 			<description>PIANO SOCIALE DI ZONA. ATTUAZIONE DEL PRO.V.I. SECONDA ANNUALITÀ. CODICE PRATICA N. E2NJQ21. LIQUIDAZIONE OTTOBRE E NOVEMBRE 2017. </description>
-			<a10:updated>2017-12-27T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3757860</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3757860</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 27 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 11 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3757860</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI 09 - UFFICIO DI PIANO</category>
-			<title>PIANO SOCIALE DI ZONA. ATTUAZIONE DEL PRO.V.I. SECONDA ANNUALITÀ. CODICE PRATICA N. 9W1FNF5. LIQUIDAZIONE IMPIANTO E MESI DI OTTOBRE E NOVEMBRE 2017. </title>
-			<description>PIANO SOCIALE DI ZONA. ATTUAZIONE DEL PRO.V.I. SECONDA ANNUALITÀ. CODICE PRATICA N. 9W1FNF5. LIQUIDAZIONE IMPIANTO E MESI DI OTTOBRE E NOVEMBRE 2017. </description>
 			<a10:updated>2017-12-27T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
