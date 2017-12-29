@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 28 Dec 2017 18:30:51 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 29 Dec 2017 08:30:46 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Thu, 28 Dec 2017 18:30:51 +0100</pubDate>
+		<pubDate>Fri, 29 Dec 2017 08:30:46 +0100</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -220,6 +220,17 @@
 			<a10:updated>2017-12-28T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/845694</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/845694</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 29 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 27 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">845694</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PUBBLICAZIONI RICHIESTE DA SOGGETTI ESTERNI</category>
+			<title>AVVISO - PUBBLICIZZAZIONE DEI NUOVI DATI CENSUARI DELLE PARTICELLE CATASTALI OGGETTO DI VARIAZIONI COLTURALI </title>
+			<description>AVVISO - PUBBLICIZZAZIONE DEI NUOVI DATI CENSUARI DELLE PARTICELLE CATASTALI OGGETTO DI VARIAZIONI COLTURALI </description>
+			<a10:updated>2017-12-29T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/845506</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/845506</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 27 Dec 2017 01:00:00 +0100</category>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>ASSUNZIONE A TEMPO DETERMINATO E PIENO DI DUE EDUCATRICI 1ª INFANZIA E N.2 MAESTRE SCUOLA MATERNA (CATEGORIA C POSIZIONE ECONOMICA C1) PER LE ESIGENZE DEL SERVIZIO POLITICHE EDUCATIVE. </title>
 			<description>ASSUNZIONE A TEMPO DETERMINATO E PIENO DI DUE EDUCATRICI 1ª INFANZIA E N.2 MAESTRE SCUOLA MATERNA (CATEGORIA C POSIZIONE ECONOMICA C1) PER LE ESIGENZE DEL SERVIZIO POLITICHE EDUCATIVE. </description>
-			<a10:updated>2017-12-27T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/844688</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/844688</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 27 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 11 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">844688</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>RETTIFICA IMPEGNI DI SPESA ASSUNTI CON DETERMINAZIONE NR.3242/2017 RELATIVI ALLA PUBBLICITA’ PER LA GARA A PROCEDURA APERTA PER LA PROSECUZIONE DEL PROGETTO SPRAR 2018-2020 </title>
-			<description>RETTIFICA IMPEGNI DI SPESA ASSUNTI CON DETERMINAZIONE NR.3242/2017 RELATIVI ALLA PUBBLICITA’ PER LA GARA A PROCEDURA APERTA PER LA PROSECUZIONE DEL PROGETTO SPRAR 2018-2020 </description>
 			<a10:updated>2017-12-27T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
