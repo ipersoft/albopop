@@ -5,7 +5,7 @@
 		<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mascalucia</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 29 Dec 2017 08:31:21 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 29 Dec 2017 09:31:56 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mascalucia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mascalucia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mascalucia</a10:id>
-		<pubDate>Fri, 29 Dec 2017 08:31:21 +0100</pubDate>
+		<pubDate>Fri, 29 Dec 2017 09:31:56 +0100</pubDate>
 		<docs>http://albopop.it/comune/mascalucia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3128496</guid>
+			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3128496</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 29 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 05 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3128496</category>
+			<category domain="http://albopop.it/specs#item-category-type">COMMISSIONI CONSILIARI CONVOCAZIONE I COMMISSIONE CONSILIARE</category>
+			<title>CONVOCAZIONE SEDUTE PRIMA COMMISSIONE DAL 2 AL 5 GENNAIO 2018 </title>
+			<description>CONVOCAZIONE SEDUTE PRIMA COMMISSIONE DAL 2 AL 5 GENNAIO 2018 </description>
+			<a10:updated>2017-12-29T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3128023</guid>
 			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3128023</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE SINDACALE</category>
 			<title>NOMINA ORGANISMO UNICO DI VALUTAZIONE - PRIMO TRIMESTRE 2018 </title>
 			<description>NOMINA ORGANISMO UNICO DI VALUTAZIONE - PRIMO TRIMESTRE 2018 </description>
-			<a10:updated>2017-12-28T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3126963</guid>
-			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3126963</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 28 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 12 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3126963</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>ATTO DI INDIRIZZO - DEMOCRAZIA PARTECIPATA ANNO 2017 - AVVIO ATTIVITÀ PER LA REALIZZAZIONE DEL PROGETTO “CENTRO DI AGGREGAZIONE GIOVANILE” - INDIVIDUAZIONE DELLA STRUTTURA. </title>
-			<description>ATTO DI INDIRIZZO - DEMOCRAZIA PARTECIPATA ANNO 2017 - AVVIO ATTIVITÀ PER LA REALIZZAZIONE DEL PROGETTO “CENTRO DI AGGREGAZIONE GIOVANILE” - INDIVIDUAZIONE DELLA STRUTTURA. </description>
 			<a10:updated>2017-12-28T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
