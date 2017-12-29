@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 29 Dec 2017 14:30:51 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 29 Dec 2017 15:30:47 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Fri, 29 Dec 2017 14:30:51 +0100</pubDate>
+		<pubDate>Fri, 29 Dec 2017 15:30:47 +0100</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3769914</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3769914</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 29 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 12 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3769914</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI AVVISO</category>
+			<title>AVVISO PUBBLICO DI MOBILITÀ ESTERNA PER LA COPERTURA DI N. 1 POSTO DI ISTRUTTORE TECNICO A TEMPO PIENO E INDETERMINATO CAT. C1- SCADENZA PRESENTAZIONE DAOMANDA 12/01/2018 </title>
+			<description>AVVISO PUBBLICO DI MOBILITÀ ESTERNA PER LA COPERTURA DI N. 1 POSTO DI ISTRUTTORE TECNICO A TEMPO PIENO E INDETERMINATO CAT. C1- SCADENZA PRESENTAZIONE DAOMANDA 12/01/2018 </description>
+			<a10:updated>2017-12-29T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3766864</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3766864</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>IMPEGNO DI SPESA PER LA MANUTENZIONE STRAORIDNARIA DELLO SPARGISALE E SABBIA DI PROPRIETA' COMUNALE ( CIG Z2F213FEF4) </title>
 			<description>IMPEGNO DI SPESA PER LA MANUTENZIONE STRAORIDNARIA DELLO SPARGISALE E SABBIA DI PROPRIETA' COMUNALE ( CIG Z2F213FEF4) </description>
-			<a10:updated>2017-12-28T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3762572</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3762572</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 28 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 12 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3762572</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>AGGIUDICAZIONE PROEDURA IN SINTEL PER I LAVORI DI ADEGUAMENTO IMPAINTO ANTINCENDIO PRESSO LA BIBLIOTECA COMUNALE ( CIG ZA82137FC0) </title>
-			<description>AGGIUDICAZIONE PROEDURA IN SINTEL PER I LAVORI DI ADEGUAMENTO IMPAINTO ANTINCENDIO PRESSO LA BIBLIOTECA COMUNALE ( CIG ZA82137FC0) </description>
 			<a10:updated>2017-12-28T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
