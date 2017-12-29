@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 29 Dec 2017 15:31:10 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 29 Dec 2017 16:30:51 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Fri, 29 Dec 2017 15:31:10 +0100</pubDate>
+		<pubDate>Fri, 29 Dec 2017 16:30:51 +0100</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/848617</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/848617</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 29 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 29 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">848617</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO ATTI E AVVISI DIVERSI</category>
+			<title>DATI RELATIVI AGLI IMMOBILI E ALLE OPERE REALIZZATE ABUSIVAMENTE SUL TERRITORIO COMUNALE - INTEGRAZIONE ELENCO RAPPORTI NOVEMBRE 2017 - DPR 380/2001 </title>
+			<description>DATI RELATIVI AGLI IMMOBILI E ALLE OPERE REALIZZATE ABUSIVAMENTE SUL TERRITORIO COMUNALE - INTEGRAZIONE ELENCO RAPPORTI NOVEMBRE 2017 - DPR 380/2001 </description>
+			<a10:updated>2017-12-29T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/848587</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/848587</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALBO PUBBLICAZIONI RICHIESTE DA SOGGETTI ESTERNI</category>
 			<title>AVVISO DI DEPOSITO - ART. 140 CPC, ART.26 DPR 602/1973, ART. 60 DPR 600/1973, - ELENCO 143 / N.10 - 11 </title>
 			<description>AVVISO DI DEPOSITO - ART. 140 CPC, ART.26 DPR 602/1973, ART. 60 DPR 600/1973, - ELENCO 143 / N.10 - 11 </description>
-			<a10:updated>2017-12-28T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/846025</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/846025</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 28 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 12 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">846025</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALBO ATTI E AVVISI DIVERSI</category>
-			<title>ORGANIZZAZIONE INTERNA SERVIZIO POLITICHE SOCIALI - ATTRIBUZIONE SPECIFICHE RESPONSABILITÀ - ANNO 2017. </title>
-			<description>ORGANIZZAZIONE INTERNA SERVIZIO POLITICHE SOCIALI - ATTRIBUZIONE SPECIFICHE RESPONSABILITÀ - ANNO 2017. </description>
 			<a10:updated>2017-12-28T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
