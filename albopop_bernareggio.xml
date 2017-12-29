@@ -5,7 +5,7 @@
 		<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bernareggio</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 29 Dec 2017 09:31:21 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 29 Dec 2017 10:35:04 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bernareggio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bernareggio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bernareggio</a10:id>
-		<pubDate>Fri, 29 Dec 2017 09:31:21 +0100</pubDate>
+		<pubDate>Fri, 29 Dec 2017 10:35:04 +0100</pubDate>
 		<docs>http://albopop.it/comune/bernareggio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3766537</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3766537</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 29 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 30 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3766537</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI</category>
+			<title>AVVISO DEPOSITO AI SENSI ART 60 : NOTIFICA N. 650/2017 DEL 27/12/2017 </title>
+			<description>AVVISO DEPOSITO AI SENSI ART 60 : NOTIFICA N. 650/2017 DEL 27/12/2017 </description>
+			<a10:updated>2017-12-29T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3763315</guid>
 			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3763315</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>VERSAMENTO CONTRIBUTI DI GARA A FAVORE DELLA CENTRALE UNICA DI COMMITTENZA DELLA PROVINCIA DI MONZA E BRIANZA PER AFFIDAMENTO DELLA GESTIONE DEL CENTRO POLIFUNZIONALE "ADELAIDE E VITTORINO VERONELLI" </title>
 			<description>VERSAMENTO CONTRIBUTI DI GARA A FAVORE DELLA CENTRALE UNICA DI COMMITTENZA DELLA PROVINCIA DI MONZA E BRIANZA PER AFFIDAMENTO DELLA GESTIONE DEL CENTRO POLIFUNZIONALE "ADELAIDE E VITTORINO VERONELLI" </description>
-			<a10:updated>2017-12-28T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3758997</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3758997</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 28 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 12 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3758997</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>CIG. 726094408B – AFFIDAMENTO IN CONCESSIONE DEL SERVIZIO DI ACCERTAMENTO E RISCOSSIONE, ANCHE COATTIVA, DELL'IMPOSTA COMUNALE SULLA PUBBLICITA', DEI DIRITTI SULLE PUBBLICHE AFFISSIONI, COMPRESA LA MATERIALE AFFISSIONE DEI MANIFESTI - PERIODO 01/01/2018-31/12/2020 – AGGIUDICAZIONE PROVVISORIA </title>
-			<description>CIG. 726094408B – AFFIDAMENTO IN CONCESSIONE DEL SERVIZIO DI ACCERTAMENTO E RISCOSSIONE, ANCHE COATTIVA, DELL'IMPOSTA COMUNALE SULLA PUBBLICITA', DEI DIRITTI SULLE PUBBLICHE AFFISSIONI, COMPRESA LA MATERIALE AFFISSIONE DEI MANIFESTI - PERIODO 01/01/2018-31/12/2020 – AGGIUDICAZIONE PROVVISORIA </description>
 			<a10:updated>2017-12-28T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
