@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 29 Dec 2017 10:36:03 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 29 Dec 2017 11:36:18 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Fri, 29 Dec 2017 10:36:03 +0100</pubDate>
+		<pubDate>Fri, 29 Dec 2017 11:36:18 +0100</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3767120</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3767120</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 29 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 13 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3767120</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>VEGLIONE DI SAN SILVESTRO 2017: MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE ED ALLA SOSTA IN PIAZZA SAN MARTINO E VIABILITÀ LIMITROFE IN OCCASIONE DEL TRADIZIONALE VEGLIONE DI FINE ANNO, A PARTIRE DALLE ORE 18:00 DEL GIORNO 31 DICEMBRE 2017 ALLE ORE 04:00 DEL GIORNO 1 GENNAIO 2018. </title>
+			<description>VEGLIONE DI SAN SILVESTRO 2017: MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE ED ALLA SOSTA IN PIAZZA SAN MARTINO E VIABILITÀ LIMITROFE IN OCCASIONE DEL TRADIZIONALE VEGLIONE DI FINE ANNO, A PARTIRE DALLE ORE 18:00 DEL GIORNO 31 DICEMBRE 2017 ALLE ORE 04:00 DEL GIORNO 1 GENNAIO 2018. </description>
+			<a10:updated>2017-12-29T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3765832</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3765832</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>(TIT I - PEG 2017) LAVORI DI ORDINARIA MANUTENZIONE PRESSO LE SCUOLE DELL'INFANZIA DEGLI ISTITUTI COMPRENSIVI DI LUCCA 3 E 5. APPROVAZIONE DELLA SPESA E AFFIDAMENTO DEI LAVORI. CIG: Z81217D5EA (FAMIGLIA ATTI: DD UNICA AFFIDAMENTO LL.SS.FF) </title>
 			<description>(TIT I - PEG 2017) LAVORI DI ORDINARIA MANUTENZIONE PRESSO LE SCUOLE DELL'INFANZIA DEGLI ISTITUTI COMPRENSIVI DI LUCCA 3 E 5. APPROVAZIONE DELLA SPESA E AFFIDAMENTO DEI LAVORI. CIG: Z81217D5EA (FAMIGLIA ATTI: DD UNICA AFFIDAMENTO LL.SS.FF) </description>
-			<a10:updated>2017-12-28T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3763221</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3763221</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 28 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 12 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3763221</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>(TIT I PEG 2017)LAVORI DI MANUTENZIONE ORDINARIA PRESSO LA SCUOLA PRIMARIA NIERI DI PONTE A MORIANO - ISTITUTO COMPRENSIVO LUCCA 5. APPROVAZIONE PROGETTODEFINITIVO/ESECUTIVO, IMPEGNO SPESA E AFFIDAMENTO LAVORI. CIG: Z22217D6C8 - ZD4217D6B7 - Z58217D6A1 (FAMIGLIA ATTI: DD UNICA AFFIDAMENTO LL.SS.FF) </title>
-			<description>(TIT I PEG 2017)LAVORI DI MANUTENZIONE ORDINARIA PRESSO LA SCUOLA PRIMARIA NIERI DI PONTE A MORIANO - ISTITUTO COMPRENSIVO LUCCA 5. APPROVAZIONE PROGETTODEFINITIVO/ESECUTIVO, IMPEGNO SPESA E AFFIDAMENTO LAVORI. CIG: Z22217D6C8 - ZD4217D6B7 - Z58217D6A1 (FAMIGLIA ATTI: DD UNICA AFFIDAMENTO LL.SS.FF) </description>
 			<a10:updated>2017-12-28T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
