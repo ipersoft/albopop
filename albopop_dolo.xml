@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 29 Dec 2017 11:33:50 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 29 Dec 2017 12:33:19 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Fri, 29 Dec 2017 11:33:50 +0100</pubDate>
+		<pubDate>Fri, 29 Dec 2017 12:33:19 +0100</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3767694</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3767694</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 29 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 13 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3767694</category>
+			<category domain="http://albopop.it/specs#item-category-type">DECRETI DECRETO</category>
+			<title>AFFIDAMENTO DELLE FUNZIONI DI CUI ALL'ART. 107 DEL T.U.E.L. 267/2000 AI RESPONSABILI DEGLI UFFICI E SERVIZI A DECORRERE DALL’1.01.2018 </title>
+			<description>AFFIDAMENTO DELLE FUNZIONI DI CUI ALL'ART. 107 DEL T.U.E.L. 267/2000 AI RESPONSABILI DEGLI UFFICI E SERVIZI A DECORRERE DALL’1.01.2018 </description>
+			<a10:updated>2017-12-29T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3767494</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3767494</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 29 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 28 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3767494</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO GENERICO</category>
+			<title>RICHIESTA PUBBLICAZIONE ALBO CAMBIAMENTO COGNOME </title>
+			<description>RICHIESTA PUBBLICAZIONE ALBO CAMBIAMENTO COGNOME </description>
+			<a10:updated>2017-12-29T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3766322</guid>
 			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3766322</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>LIQUIDAZIONE ALLA CITTA' METROPOLITANA DI VENEZIA DEL TRIBUTO PER L'ESERCIZIO DELLE FUNZIONI DI TUTELA, PROTEZIONE ED IGIENE AMBIENTALE RISCOSSO FINO AL 15/12/2017 – ANNO 2016 </title>
 			<description>LIQUIDAZIONE ALLA CITTA' METROPOLITANA DI VENEZIA DEL TRIBUTO PER L'ESERCIZIO DELLE FUNZIONI DI TUTELA, PROTEZIONE ED IGIENE AMBIENTALE RISCOSSO FINO AL 15/12/2017 – ANNO 2016 </description>
-			<a10:updated>2017-12-28T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3761953</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3761953</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 28 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 12 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3761953</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>LIQUIDAZIONE FATTURA A MAGGIOLI SPA RIVALSA SPESE POSTALI SPEDIZIONE SECONDO INVIO BOLLETTE TARI ESERCIZIO 2017 – COD CIG ZB71D9F64A </title>
-			<description>LIQUIDAZIONE FATTURA A MAGGIOLI SPA RIVALSA SPESE POSTALI SPEDIZIONE SECONDO INVIO BOLLETTE TARI ESERCIZIO 2017 – COD CIG ZB71D9F64A </description>
-			<a10:updated>2017-12-28T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3761950</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3761950</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 28 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 12 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3761950</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>LIQUIDAZIONE ALLA CITTA' METROPOLITANA DI VENEZIA DEL TRIBUTO PER L'ESERCIZIO DELLE FUNZIONI DI TUTELA, PROTEZIONE ED IGIENE AMBIENTALE RISCOSSO FINO AL 15/12/2017 – ANNO 2017 </title>
-			<description>LIQUIDAZIONE ALLA CITTA' METROPOLITANA DI VENEZIA DEL TRIBUTO PER L'ESERCIZIO DELLE FUNZIONI DI TUTELA, PROTEZIONE ED IGIENE AMBIENTALE RISCOSSO FINO AL 15/12/2017 – ANNO 2017 </description>
 			<a10:updated>2017-12-28T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
