@@ -5,7 +5,7 @@
 		<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Torri del Benaco</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 30 Dec 2017 09:31:54 +0100</lastBuildDate>
+		<lastBuildDate>Sat, 30 Dec 2017 10:31:22 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Torri del Benaco</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Verona</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Torri del Benaco</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_torridelbenaco</a10:id>
-		<pubDate>Sat, 30 Dec 2017 09:31:54 +0100</pubDate>
+		<pubDate>Sat, 30 Dec 2017 10:31:22 +0100</pubDate>
 		<docs>http://albopop.it/comune/torridelbenaco/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3771380</guid>
+			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3771380</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 30 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 29 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3771380</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISO 30 GIORNI</category>
+			<title>AVVISO DI MOBILITA' ESTERNA PER AGENTE DI POLIZIA LOCALE CAT C- A TEMPO PIENO E INDETERMINATO - ERRATA CORRIGE PROT. N. 22956 DEL 27.12.2017 - RICHIESTA DI PUBBLICAZIONE E DIVULGAZIONE - </title>
+			<description>AVVISO DI MOBILITA' ESTERNA PER AGENTE DI POLIZIA LOCALE CAT C- A TEMPO PIENO E INDETERMINATO - ERRATA CORRIGE PROT. N. 22956 DEL 27.12.2017 - RICHIESTA DI PUBBLICAZIONE E DIVULGAZIONE - </description>
+			<a10:updated>2017-12-30T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3768204</guid>
 			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3768204</link>
@@ -284,17 +295,6 @@
 			<title>ACQUISTO ADESIVI PER RACCOLTA RAMAGLIE ANNO 2018. CIG. Z1D2168427 </title>
 			<description>ACQUISTO ADESIVI PER RACCOLTA RAMAGLIE ANNO 2018. CIG. Z1D2168427 </description>
 			<a10:updated>2017-12-21T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3744764</guid>
-			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3744764</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 20 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 04 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3744764</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>AUMENTO IMPEGNO DI SPESA DETERMINA N.562 DEL 03/11/2017 PER ASSISTENZA AL CENTRALINO TELEFONICO DITTA TEEA NETWORK. </title>
-			<description>AUMENTO IMPEGNO DI SPESA DETERMINA N.562 DEL 03/11/2017 PER ASSISTENZA AL CENTRALINO TELEFONICO DITTA TEEA NETWORK. </description>
-			<a10:updated>2017-12-20T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
