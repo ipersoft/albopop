@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 29 Dec 2017 18:31:32 +0100</lastBuildDate>
+		<lastBuildDate>Sat, 30 Dec 2017 08:31:54 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Fri, 29 Dec 2017 18:31:32 +0100</pubDate>
+		<pubDate>Sat, 30 Dec 2017 08:31:54 +0100</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3770797</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3770797</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 29 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 13 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3770797</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>RETTIFICA DETERMINAZIONE 2549/2017 RELATIVA AL PATTO DI COLLABORAZIONE PER LA RIVITALIZZAZIONE DELLA EX SCUOLA ELEMENTARE DI PIAGGIONE. </title>
+			<description>RETTIFICA DETERMINAZIONE 2549/2017 RELATIVA AL PATTO DI COLLABORAZIONE PER LA RIVITALIZZAZIONE DELLA EX SCUOLA ELEMENTARE DI PIAGGIONE. </description>
+			<a10:updated>2017-12-29T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3770791</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3770791</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>RIF. PT 2017-2019 N. 28) PROGETTO DI INNOVAZIONE URBANA, 2014-2020 QUARTIERI SOCIAL S.ANNA – OPERAZIONE “RIQUALIFICAZIONE DEL FABBRICATO  PIAZZALE SFORZA” - ID UTENTE  530. PROCEDURA NEGOZIATA AI SENSI DEGLI ART. 36, COMMA 2, LETTERA C) DEL D.LGS. N.50/2016 E S.M.I. AGGIUDICAZIONE DEFINITIVA ED EFFICACE . CUP: J61B15000490001   CIG : 7219120E45.                        FAMIGLIA ATTI 02 </title>
 			<description>RIF. PT 2017-2019 N. 28) PROGETTO DI INNOVAZIONE URBANA, 2014-2020 QUARTIERI SOCIAL S.ANNA – OPERAZIONE “RIQUALIFICAZIONE DEL FABBRICATO  PIAZZALE SFORZA” - ID UTENTE  530. PROCEDURA NEGOZIATA AI SENSI DEGLI ART. 36, COMMA 2, LETTERA C) DEL D.LGS. N.50/2016 E S.M.I. AGGIUDICAZIONE DEFINITIVA ED EFFICACE . CUP: J61B15000490001   CIG : 7219120E45.                        FAMIGLIA ATTI 02 </description>
-			<a10:updated>2017-12-29T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3770584</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3770584</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 29 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 13 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3770584</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>BIBLIOTECA CIVICA AGORA'. DIRITTI SIAE ABBONAMENTO ANNO 2017. APPROVAZIONE DELLA SPESA. (FAMIGLIA 07) </title>
-			<description>BIBLIOTECA CIVICA AGORA'. DIRITTI SIAE ABBONAMENTO ANNO 2017. APPROVAZIONE DELLA SPESA. (FAMIGLIA 07) </description>
 			<a10:updated>2017-12-29T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
