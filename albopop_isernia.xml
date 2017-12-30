@@ -5,7 +5,7 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 30 Dec 2017 08:32:03 +0100</lastBuildDate>
+		<lastBuildDate>Sat, 30 Dec 2017 09:31:39 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Isernia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>Sat, 30 Dec 2017 08:32:03 +0100</pubDate>
+		<pubDate>Sat, 30 Dec 2017 09:31:39 +0100</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3771140</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3771140</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 30 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 14 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3771140</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
+			<title>[AMBITO TERRITORIALE SOCIALE] PROROGA TECNICA AL 31.12.2017 DELLE ATTIVITÀ DI CUI AL "SERVIZIO DI ASSISTENZA TUTELARE DI BASE" E CONTESTUALE ACCERTAMENTO E IMPEGNO DI SPESA PERIODO II SEMESTRE 2017. </title>
+			<description>[AMBITO TERRITORIALE SOCIALE] PROROGA TECNICA AL 31.12.2017 DELLE ATTIVITÀ DI CUI AL "SERVIZIO DI ASSISTENZA TUTELARE DI BASE" E CONTESTUALE ACCERTAMENTO E IMPEGNO DI SPESA PERIODO II SEMESTRE 2017. </description>
+			<a10:updated>2017-12-30T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3770881</guid>
 			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3770881</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
 			<title>Utenze TELECOM attivate dall’Area tecnica. liquidazione fatture 5° bimestre 2017 – C.I.G. nr. Z671DC3ABC </title>
 			<description>Utenze TELECOM attivate dall’Area tecnica. liquidazione fatture 5° bimestre 2017 – C.I.G. nr. Z671DC3ABC </description>
-			<a10:updated>2017-12-22T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3750822</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3750822</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 22 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 06 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3750822</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
-			<title>Impegno di spesa per la fornitura di energia elettrica – Servizio Idrico Integrato - Soc. ENEL ENERGIA - P.I. nr. 06655971007 - CIG derivato nr. 6975495891. </title>
-			<description>Impegno di spesa per la fornitura di energia elettrica – Servizio Idrico Integrato - Soc. ENEL ENERGIA - P.I. nr. 06655971007 - CIG derivato nr. 6975495891. </description>
 			<a10:updated>2017-12-22T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
