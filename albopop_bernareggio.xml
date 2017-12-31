@@ -5,7 +5,7 @@
 		<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bernareggio</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 30 Dec 2017 18:31:28 +0100</lastBuildDate>
+		<lastBuildDate>Sun, 31 Dec 2017 08:30:53 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bernareggio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bernareggio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bernareggio</a10:id>
-		<pubDate>Sat, 30 Dec 2017 18:31:28 +0100</pubDate>
+		<pubDate>Sun, 31 Dec 2017 08:30:53 +0100</pubDate>
 		<docs>http://albopop.it/comune/bernareggio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -154,28 +154,6 @@
 			<a10:updated>2017-12-29T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3766655</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3766655</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 29 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 30 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3766655</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI</category>
-			<title>DEPOSITO AI SENSI ART 60 NOTIFICA N. 641/2017 DEL 21/12/2017 - DITTA A.M. </title>
-			<description>DEPOSITO AI SENSI ART 60 NOTIFICA N. 641/2017 DEL 21/12/2017 - DITTA A.M. </description>
-			<a10:updated>2017-12-29T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3766537</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3766537</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 29 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 30 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3766537</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI</category>
-			<title>AVVISO DEPOSITO AI SENSI ART 60 : NOTIFICA N. 650/2017 DEL 27/12/2017 </title>
-			<description>AVVISO DEPOSITO AI SENSI ART 60 : NOTIFICA N. 650/2017 DEL 27/12/2017 </description>
-			<a10:updated>2017-12-29T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
 			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3763315</guid>
 			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3763315</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 28 Dec 2017 01:00:00 +0100</category>
@@ -294,6 +272,28 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI CONSIGLIO</category>
 			<title>APPROVAZIONE VERBALI DELIBERAZIONI ADOTTATE NELLE SEDUTE PRECEDENTI </title>
 			<description>APPROVAZIONE VERBALI DELIBERAZIONI ADOTTATE NELLE SEDUTE PRECEDENTI </description>
+			<a10:updated>2017-12-28T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3763151</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3763151</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 28 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 12 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3763151</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI CONSIGLIO</category>
+			<title>VERBALE DI SEDUTA DEL 20 DICEMBRE 2017 </title>
+			<description>VERBALE DI SEDUTA DEL 20 DICEMBRE 2017 </description>
+			<a10:updated>2017-12-28T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3763035</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3763035</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 28 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 12 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3763035</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
+			<title>BANDO PER L'ACCESSO AL FONDO DI TUTELA PER IL CONSUMO DI GAS DA PARTE DI FASCE DEBOLI DI UTENTI ANNO 2017. IMPEGNO DI SPESA ANNO CON CONTESTUALE VARIAZIONE AL BILANCIO DI PREVISIONE EPR IL TRIENNIO 2017/2019 CON CONTESTUALE VARIAZIONE AL BILANCIO DI RPEVISIONE PER IL TRIENNIO 2017/2019 TRA GLI STANZIAMENTI RIGUARDANTI IL FONDO PLURIENNALE VINCOLATO (FPV) AI SENSI DEL COMMA 5 QUATER DELL'ART. 175 DEL D. LGS. N. 267/2000 E S.M.I. </title>
+			<description>BANDO PER L'ACCESSO AL FONDO DI TUTELA PER IL CONSUMO DI GAS DA PARTE DI FASCE DEBOLI DI UTENTI ANNO 2017. IMPEGNO DI SPESA ANNO CON CONTESTUALE VARIAZIONE AL BILANCIO DI PREVISIONE EPR IL TRIENNIO 2017/2019 CON CONTESTUALE VARIAZIONE AL BILANCIO DI RPEVISIONE PER IL TRIENNIO 2017/2019 TRA GLI STANZIAMENTI RIGUARDANTI IL FONDO PLURIENNALE VINCOLATO (FPV) AI SENSI DEL COMMA 5 QUATER DELL'ART. 175 DEL D. LGS. N. 267/2000 E S.M.I. </description>
 			<a10:updated>2017-12-28T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
