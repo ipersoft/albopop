@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 02 Jan 2018 11:30:50 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 02 Jan 2018 12:30:42 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Tue, 02 Jan 2018 11:30:50 +0100</pubDate>
+		<pubDate>Tue, 02 Jan 2018 12:30:42 +0100</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3774004</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3774004</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 02 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 22 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3774004</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI DEPOSITO - ART. 143 C.P.C.</category>
+			<title>MESSO COMUNALE: NOTIFICA N. 4/2018 DEL 02/01/2018 - SCARICATA </title>
+			<description>MESSO COMUNALE: NOTIFICA N. 4/2018 DEL 02/01/2018 - SCARICATA </description>
+			<a10:updated>2018-01-02T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3773573</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3773573</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>DETERMINAZIONE A CONTRARRE PER L'AFFIDAMENTO DEL SERVIZIO DI ELABORAZIONE DELLE PRATICHE DSU/ISEE, BONUS ENERGIA, BONUS GAS E BONUS IDRICO, DAL 01/01/2018 AL 31/12/2018, NELLA GIORNATA DEL GIOVEDI'. CIG ZAF2183B89. </title>
 			<description>DETERMINAZIONE A CONTRARRE PER L'AFFIDAMENTO DEL SERVIZIO DI ELABORAZIONE DELLE PRATICHE DSU/ISEE, BONUS ENERGIA, BONUS GAS E BONUS IDRICO, DAL 01/01/2018 AL 31/12/2018, NELLA GIORNATA DEL GIOVEDI'. CIG ZAF2183B89. </description>
-			<a10:updated>2017-12-28T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3762576</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3762576</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 28 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 12 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3762576</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>ASSUNZIONE IMPEGNO DI SPESA PER LA FORNITURA DI CLORURO DI SODIO ( CIG Z37213FC35) </title>
-			<description>ASSUNZIONE IMPEGNO DI SPESA PER LA FORNITURA DI CLORURO DI SODIO ( CIG Z37213FC35) </description>
 			<a10:updated>2017-12-28T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
