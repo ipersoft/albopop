@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 02 Jan 2018 15:32:16 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 02 Jan 2018 16:31:31 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Tue, 02 Jan 2018 15:32:16 +0100</pubDate>
+		<pubDate>Tue, 02 Jan 2018 16:31:31 +0100</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3135508</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3135508</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 02 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 01 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3135508</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI ATTI DIVERSI</category>
+			<title>PUBBLICAZIONE DELL' AVVISO DI MOBILITA' ESTERNA PER LA COPERTURA DI N. 1 POSTO A TEMPO INDETERMINATO E PIENO DI OPERATORE PROFESSIONALE TECNICO (OPERAIO) CAT. B </title>
+			<description>PUBBLICAZIONE DELL' AVVISO DI MOBILITA' ESTERNA PER LA COPERTURA DI N. 1 POSTO A TEMPO INDETERMINATO E PIENO DI OPERATORE PROFESSIONALE TECNICO (OPERAIO) CAT. B </description>
+			<a10:updated>2018-01-02T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3134935</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3134935</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
 			<title>RIMBORSO ALLE IMPRESE PER PAGAMENTI NON DOVUTI IN RELAZIONE A SANZIONI AMMINISTRATIVE. IMPEGNO DI SPESA </title>
 			<description>RIMBORSO ALLE IMPRESE PER PAGAMENTI NON DOVUTI IN RELAZIONE A SANZIONI AMMINISTRATIVE. IMPEGNO DI SPESA </description>
-			<a10:updated>2018-01-02T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3133841</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3133841</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 02 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 17 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3133841</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>RIMBORSO AD ALTRE AMMINISTRAZIONI PER NOTIFICHE TRAMITE MESSI COMUNALI DEI VERBALI RELATIVI A SANZIONI AMMINISTRATIVE. IMPEGNO DI SPESA. </title>
-			<description>RIMBORSO AD ALTRE AMMINISTRAZIONI PER NOTIFICHE TRAMITE MESSI COMUNALI DEI VERBALI RELATIVI A SANZIONI AMMINISTRATIVE. IMPEGNO DI SPESA. </description>
 			<a10:updated>2018-01-02T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
