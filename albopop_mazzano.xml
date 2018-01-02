@@ -5,7 +5,7 @@
 		<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mazzano</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 02 Jan 2018 10:32:02 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 02 Jan 2018 11:32:36 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mazzano</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mazzano</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mazzano</a10:id>
-		<pubDate>Tue, 02 Jan 2018 10:32:02 +0100</pubDate>
+		<pubDate>Tue, 02 Jan 2018 11:32:36 +0100</pubDate>
 		<docs>http://albopop.it/comune/mazzano/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3773677</guid>
+			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3773677</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 02 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 17 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3773677</category>
+			<category domain="http://albopop.it/specs#item-category-type">BANDI DI MOBILITA'</category>
+			<title>AVVISO PUBBLICO PER LA COPERTURA DI UN POSTO A TEMPO PIENO E INDETERMINATO DI ISTRUTTORE TECNICO CAT. C TRAMITE PROCEDURA DI MOBILITÀ </title>
+			<description>AVVISO PUBBLICO PER LA COPERTURA DI UN POSTO A TEMPO PIENO E INDETERMINATO DI ISTRUTTORE TECNICO CAT. C TRAMITE PROCEDURA DI MOBILITÀ </description>
+			<a10:updated>2018-01-02T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3770626</guid>
 			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3770626</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
 			<title>AFFIDAMENTO INCARICO PER ASSISTENZA LEGALE NELL'APPELLO PROPOSTO DAL SIG. BONETTI MATTEO AVVERSO LA SENTENZA DEL GIUDICE DI PACE EX ARTT. 341 E 342 C.P.C. </title>
 			<description>AFFIDAMENTO INCARICO PER ASSISTENZA LEGALE NELL'APPELLO PROPOSTO DAL SIG. BONETTI MATTEO AVVERSO LA SENTENZA DEL GIUDICE DI PACE EX ARTT. 341 E 342 C.P.C. </description>
-			<a10:updated>2017-12-18T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3736675</guid>
-			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3736675</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 18 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 02 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3736675</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
-			<title>LIQUIDAZIONE DELLA SPESE DI GIUDIZIO – SENTENZA DEL GIUDICE DI PACE DI BRESCIA DOTT. CARLO GRIMALDI N. 1655/2017 DEL 25.10.2017 - RG N. 6273/2017. </title>
-			<description>LIQUIDAZIONE DELLA SPESE DI GIUDIZIO – SENTENZA DEL GIUDICE DI PACE DI BRESCIA DOTT. CARLO GRIMALDI N. 1655/2017 DEL 25.10.2017 - RG N. 6273/2017. </description>
 			<a10:updated>2017-12-18T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
