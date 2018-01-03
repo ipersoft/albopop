@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 03 Jan 2018 08:31:22 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 03 Jan 2018 09:31:30 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Wed, 03 Jan 2018 08:31:22 +0100</pubDate>
+		<pubDate>Wed, 03 Jan 2018 09:31:30 +0100</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3136286</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3136286</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 03 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 11 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3136286</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO PUBBLICAZIONE AVVISO</category>
+			<title>AVVISO DI DEPOSITO DI N.3 ATTI NELLA CASA COMUNALE </title>
+			<description>AVVISO DI DEPOSITO DI N.3 ATTI NELLA CASA COMUNALE </description>
+			<a10:updated>2018-01-03T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3136143</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3136143</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 03 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 11 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3136143</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO PUBBLICAZIONE AVVISO</category>
+			<title>AVVISO DI DEPOSITO DI N. 3 ATTI NELLE CASA COMUNALE </title>
+			<description>AVVISO DI DEPOSITO DI N. 3 ATTI NELLE CASA COMUNALE </description>
+			<a10:updated>2018-01-03T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3136115</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3136115</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>Lavori per rendere più funzionali, completi e sicuri i luoghi di fruizione turistica relativi alle aree oggetto degli interventi di adeguamento di Villa Lysis ai fini museali. Approvazione preventivo ed impegno di spesa. </title>
 			<description>Lavori per rendere più funzionali, completi e sicuri i luoghi di fruizione turistica relativi alle aree oggetto degli interventi di adeguamento di Villa Lysis ai fini museali. Approvazione preventivo ed impegno di spesa. </description>
-			<a10:updated>2017-12-29T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3130900</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3130900</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 29 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 13 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3130900</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>AGGIUDICAZIONE DEFINITIVA ALLA PRISMA COOPERATIVA SOCIALE PER AZIONI ONLUS DEI SERVIZI DI SISTEMA INFORMATIVO SOCIALE E SUPPORTO ALLA PROGETTAZIONE SOCIALE” PER L’AMBITO TERRITORIALE N34 COMUNI DI CAPRI E ANACAPRI, AI SENSI DELL’ART. 36, COMMA 2, LETTERA B) DEL D. LGS. 50/2016, CIG: 717814262A CUP: D41E17000230007 </title>
-			<description>AGGIUDICAZIONE DEFINITIVA ALLA PRISMA COOPERATIVA SOCIALE PER AZIONI ONLUS DEI SERVIZI DI SISTEMA INFORMATIVO SOCIALE E SUPPORTO ALLA PROGETTAZIONE SOCIALE” PER L’AMBITO TERRITORIALE N34 COMUNI DI CAPRI E ANACAPRI, AI SENSI DELL’ART. 36, COMMA 2, LETTERA B) DEL D. LGS. 50/2016, CIG: 717814262A CUP: D41E17000230007 </description>
-			<a10:updated>2017-12-29T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3130897</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3130897</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 29 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 13 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3130897</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>Aggiudicazione definitiva alla Prisma Cooperativa Sociale per Azioni ONLUS dei servizi rivolti ai minori di “Tutoraggio educativo” e dei “Servizi temporanei e territoriali” dell’Ambito Territoriale N34 per un periodo di 42 mesi CIG: 7178109AED CUP: D49D17001070007 </title>
-			<description>Aggiudicazione definitiva alla Prisma Cooperativa Sociale per Azioni ONLUS dei servizi rivolti ai minori di “Tutoraggio educativo” e dei “Servizi temporanei e territoriali” dell’Ambito Territoriale N34 per un periodo di 42 mesi CIG: 7178109AED CUP: D49D17001070007 </description>
 			<a10:updated>2017-12-29T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
