@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 03 Jan 2018 16:31:39 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 03 Jan 2018 17:31:38 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Wed, 03 Jan 2018 16:31:39 +0100</pubDate>
+		<pubDate>Wed, 03 Jan 2018 17:31:38 +0100</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3777306</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3777306</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 03 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 18 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3777306</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>IMPIANTI SEMAFORICI VEICOLARI E PEDONALI PRESENTI SUL TERRITORIO COMUNALE: LAVORI DI MANUTENZIONE ORDINARIA E "REPERIBILITÀ H24". PERIODO 2 GENNAIO 2018 - 31 DICEMBRE 2018. </title>
+			<description>IMPIANTI SEMAFORICI VEICOLARI E PEDONALI PRESENTI SUL TERRITORIO COMUNALE: LAVORI DI MANUTENZIONE ORDINARIA E "REPERIBILITÀ H24". PERIODO 2 GENNAIO 2018 - 31 DICEMBRE 2018. </description>
+			<a10:updated>2018-01-03T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3777068</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3777068</link>
@@ -284,17 +295,6 @@
 			<title>RAPPRESENTAZIONE DEL PRESEPE VIVENTE - SESTO DI MORIANO: MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE ED ALLA SOSTA IN VIA DELLA RUGA E VIA DELLA CHIESA DI SESTO DI MORIANO PER IL GIORNO 6 GENNAIO 2018 DALLE ORE 07:00 ALLE ORE 23:00. </title>
 			<description>RAPPRESENTAZIONE DEL PRESEPE VIVENTE - SESTO DI MORIANO: MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE ED ALLA SOSTA IN VIA DELLA RUGA E VIA DELLA CHIESA DI SESTO DI MORIANO PER IL GIORNO 6 GENNAIO 2018 DALLE ORE 07:00 ALLE ORE 23:00. </description>
 			<a10:updated>2018-01-03T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3775063</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3775063</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 02 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 17 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3775063</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI E BANDI VARI</category>
-			<title>AVVISO DI APPALTO AGGIUDICATO - AFFIDAMENTO LAVORI DI ORDINARIA MANUTENZIONE DA ESEGUIRSI PRESSO LE SCUOLE DELL'INFANZIA COMUNALI - ISTITUTO COMPRENSIVO LUCCA 4. </title>
-			<description>AVVISO DI APPALTO AGGIUDICATO - AFFIDAMENTO LAVORI DI ORDINARIA MANUTENZIONE DA ESEGUIRSI PRESSO LE SCUOLE DELL'INFANZIA COMUNALI - ISTITUTO COMPRENSIVO LUCCA 4. </description>
-			<a10:updated>2018-01-02T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
