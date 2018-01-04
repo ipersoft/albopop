@@ -5,7 +5,7 @@
 		<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Belpasso</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 04 Jan 2018 17:31:10 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 04 Jan 2018 18:32:09 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Belpasso</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Belpasso</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_belpasso</a10:id>
-		<pubDate>Thu, 04 Jan 2018 17:31:10 +0100</pubDate>
+		<pubDate>Thu, 04 Jan 2018 18:32:09 +0100</pubDate>
 		<docs>http://albopop.it/comune/belpasso/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3779602</guid>
+			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3779602</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 04 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 19 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3779602</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZA P.M. ORDINANZA PM</category>
+			<title>PARZIALE CHIUSURA TRATTO 3^RETTA DI LEVANTE PER LAVORI ACOSET </title>
+			<description>PARZIALE CHIUSURA TRATTO 3^RETTA DI LEVANTE PER LAVORI ACOSET </description>
+			<a10:updated>2018-01-04T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3779371</guid>
 			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3779371</link>
@@ -284,17 +295,6 @@
 			<title>INTERRAMENTO DI UNA CARCASSA BOVINA DI PROPRIETÀ DEL SIG. RABUAZZO SALVATORE NATO A MOTTA S. ANASTASIA 23/11/1951 E RESIDENTE IN BELPASSO, “C/DA FINOCCHIARA ” S.N.C.. </title>
 			<description>INTERRAMENTO DI UNA CARCASSA BOVINA DI PROPRIETÀ DEL SIG. RABUAZZO SALVATORE NATO A MOTTA S. ANASTASIA 23/11/1951 E RESIDENTE IN BELPASSO, “C/DA FINOCCHIARA ” S.N.C.. </description>
 			<a10:updated>2018-01-03T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3774722</guid>
-			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3774722</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 02 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 17 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3774722</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>MANUTENZIONE AUTOMEZZI COMUNALI. IMPEGNO DI SPESA E SCELTA DEI CONTRAENTI. CIG Z4B2176550 - Z7921764F7 </title>
-			<description>MANUTENZIONE AUTOMEZZI COMUNALI. IMPEGNO DI SPESA E SCELTA DEI CONTRAENTI. CIG Z4B2176550 - Z7921764F7 </description>
-			<a10:updated>2018-01-02T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
