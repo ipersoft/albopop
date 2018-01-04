@@ -5,7 +5,7 @@
 		<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Canosa di Puglia</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 04 Jan 2018 11:31:38 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 04 Jan 2018 12:31:42 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Canosa di Puglia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Barletta-Andria-Trani</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Canosa di Puglia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_canosadipuglia</a10:id>
-		<pubDate>Thu, 04 Jan 2018 11:31:38 +0100</pubDate>
+		<pubDate>Thu, 04 Jan 2018 12:31:42 +0100</pubDate>
 		<docs>http://albopop.it/comune/canosadipuglia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3778699</guid>
+			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3778699</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 04 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 19 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3778699</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
+			<title>MAGGIORI ONERI DI TRASPORTO DEI RIFIUTI ORGANICI E SCARTI DEL VERDE PERIODO GIUGNO 2014-DICEMBRE 2016. RICONOSCIMENTO LEGITTIMITÀ DEL DEBITO FUORI BILANCIO EX ART. 194, COMMA 1, LETT. E) DEL D. LGS. 267/2000 A FAVORE UNIONE ARO 2 BT. IMPEGNO E LIQUIDAZIONE DELLA SPESA. </title>
+			<description>MAGGIORI ONERI DI TRASPORTO DEI RIFIUTI ORGANICI E SCARTI DEL VERDE PERIODO GIUGNO 2014-DICEMBRE 2016. RICONOSCIMENTO LEGITTIMITÀ DEL DEBITO FUORI BILANCIO EX ART. 194, COMMA 1, LETT. E) DEL D. LGS. 267/2000 A FAVORE UNIONE ARO 2 BT. IMPEGNO E LIQUIDAZIONE DELLA SPESA. </description>
+			<a10:updated>2018-01-04T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3778277</guid>
 			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3778277</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
 			<title>RATEIZZAZIONE AVVISO ACCERTAMENTO N. 1350 IMU 2012 COD. UFF. 46683. </title>
 			<description>RATEIZZAZIONE AVVISO ACCERTAMENTO N. 1350 IMU 2012 COD. UFF. 46683. </description>
-			<a10:updated>2017-12-29T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3770662</guid>
-			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3770662</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 29 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 13 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3770662</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
-			<title>RATEIZZAZIONE AVVISO ACCERTAMENTO N. 1412 IMU 2012 COD. UFF. 16943. </title>
-			<description>RATEIZZAZIONE AVVISO ACCERTAMENTO N. 1412 IMU 2012 COD. UFF. 16943. </description>
 			<a10:updated>2017-12-29T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
