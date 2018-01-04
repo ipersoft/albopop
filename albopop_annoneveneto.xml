@@ -5,7 +5,7 @@
 		<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Annone Veneto</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 04 Jan 2018 14:30:55 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 04 Jan 2018 15:30:53 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Annone Veneto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Annone Veneto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_annoneveneto</a10:id>
-		<pubDate>Thu, 04 Jan 2018 14:30:55 +0100</pubDate>
+		<pubDate>Thu, 04 Jan 2018 15:30:53 +0100</pubDate>
 		<docs>http://albopop.it/comune/annoneveneto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3779227</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3779227</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 04 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 05 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3779227</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI AVVISO</category>
+			<title>ASVO SPA - AVVISO DI SELEZIONE PER LA FORMAZIONE DI UNA GRADUATORIA DALLA QUALE ATTINGERE PER L'INDIVIDUAZIONE DI UN ADDETTO ALL'UFFICIO COMUNICAZIONE A TEMPO DETERMINATO E A TEMPO PARZIALE NELLA SOCIETA' ASVO SPA </title>
+			<description>ASVO SPA - AVVISO DI SELEZIONE PER LA FORMAZIONE DI UNA GRADUATORIA DALLA QUALE ATTINGERE PER L'INDIVIDUAZIONE DI UN ADDETTO ALL'UFFICIO COMUNICAZIONE A TEMPO DETERMINATO E A TEMPO PARZIALE NELLA SOCIETA' ASVO SPA </description>
+			<a10:updated>2018-01-04T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3778668</guid>
 			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3778668</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>INTEGRAZIONE ALLE OPERE COMPLEMENTARI AI LAVORI DI "RIQUALIFICAZIONE ENERGETICA E ADEGUAMENTO DEL MAGAZZINO COMUNALE PER L'INSTALLAZIONE DI UN IMPIANTO FOTOVOLTAICO" - LIQUIDAZIONE </title>
 			<description>INTEGRAZIONE ALLE OPERE COMPLEMENTARI AI LAVORI DI "RIQUALIFICAZIONE ENERGETICA E ADEGUAMENTO DEL MAGAZZINO COMUNALE PER L'INSTALLAZIONE DI UN IMPIANTO FOTOVOLTAICO" - LIQUIDAZIONE </description>
-			<a10:updated>2017-12-29T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3766066</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3766066</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 29 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 13 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3766066</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>"SISTEMAZIONE DELL'INTERSEZIONE TRA LA S.P. N. 61 E VIA QUATTRO STRADE A SPADACENTA - 3° STRALCIO" - LIQUIDAZIONE DEL FONDO DI CUI ALL'ART. 93 DEL D.LGS. N. 163/2006 </title>
-			<description>"SISTEMAZIONE DELL'INTERSEZIONE TRA LA S.P. N. 61 E VIA QUATTRO STRADE A SPADACENTA - 3° STRALCIO" - LIQUIDAZIONE DEL FONDO DI CUI ALL'ART. 93 DEL D.LGS. N. 163/2006 </description>
 			<a10:updated>2017-12-29T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
