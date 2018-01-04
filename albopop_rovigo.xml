@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 04 Jan 2018 16:32:16 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 04 Jan 2018 17:31:30 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Thu, 04 Jan 2018 16:32:16 +0100</pubDate>
+		<pubDate>Thu, 04 Jan 2018 17:31:30 +0100</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3149536</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3149536</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 04 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 19 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3149536</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
+			<title>LIQUIDAZIONE FATTURA N. 525/2017 DEL 20/11/2017 PER LA PARTECIPAZIONE DEL DIRIGENTE ING. CAVALLARO MICHELE AL CORSO ORGANIZZATO DA CENTRO STUDI AMMINISTRATIVI A TREVISO IN DATA 27/10/2017. </title>
+			<description>LIQUIDAZIONE FATTURA N. 525/2017 DEL 20/11/2017 PER LA PARTECIPAZIONE DEL DIRIGENTE ING. CAVALLARO MICHELE AL CORSO ORGANIZZATO DA CENTRO STUDI AMMINISTRATIVI A TREVISO IN DATA 27/10/2017. </description>
+			<a10:updated>2018-01-04T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3149495</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3149495</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
 			<title>APPROVAZIONE SPESA PER ACQUISTO MATERIALE EDILE NECESSARIO A GARANTIRE LA SICUREZZA DI IMMOBILI DI PROPRIETÀ COMUNALE. CIG: Z6321516AD </title>
 			<description>APPROVAZIONE SPESA PER ACQUISTO MATERIALE EDILE NECESSARIO A GARANTIRE LA SICUREZZA DI IMMOBILI DI PROPRIETÀ COMUNALE. CIG: Z6321516AD </description>
-			<a10:updated>2018-01-04T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3148663</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3148663</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 04 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 19 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3148663</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>IMPEGNO DI SPESA DEBITO FUORI BILANCIO PER SPESE RELATIVE ALLE PARTI DI USO COMUNE - ANNO 2016 - DELL’IMMOBILE ADIBITO AD ARCHIVIO GENERALE PRESSO INTERPORTO DI ROVIGO S.P.A. </title>
-			<description>IMPEGNO DI SPESA DEBITO FUORI BILANCIO PER SPESE RELATIVE ALLE PARTI DI USO COMUNE - ANNO 2016 - DELL’IMMOBILE ADIBITO AD ARCHIVIO GENERALE PRESSO INTERPORTO DI ROVIGO S.P.A. </description>
 			<a10:updated>2018-01-04T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
