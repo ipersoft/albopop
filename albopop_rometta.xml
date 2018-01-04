@@ -5,7 +5,7 @@
 		<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rometta</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 04 Jan 2018 12:31:56 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 04 Jan 2018 13:32:27 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rometta</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Messina</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rometta</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rometta</a10:id>
-		<pubDate>Thu, 04 Jan 2018 12:31:56 +0100</pubDate>
+		<pubDate>Thu, 04 Jan 2018 13:32:27 +0100</pubDate>
 		<docs>http://albopop.it/comune/rometta/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3778930</guid>
+			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3778930</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 04 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 01 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3778930</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO PUBBLICO</category>
+			<title>FORMAZIONE DELLA LISTA DI LEVA DEI GIOVANI NATI NELL'ANNO 2001 </title>
+			<description>FORMAZIONE DELLA LISTA DI LEVA DEI GIOVANI NATI NELL'ANNO 2001 </description>
+			<a10:updated>2018-01-04T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3778160</guid>
 			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3778160</link>
@@ -282,17 +293,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>FORNITURA LEGNAME DA FALEGNAMERIA PER INTERVENTI DI MANUTENZIONE INFISSI LOCALI DEMANIALI - CIG. Z1C218588C - DETERMINA A CONTRATTARE - IMPEGNO SPESA </title>
 			<description>FORNITURA LEGNAME DA FALEGNAMERIA PER INTERVENTI DI MANUTENZIONE INFISSI LOCALI DEMANIALI - CIG. Z1C218588C - DETERMINA A CONTRATTARE - IMPEGNO SPESA </description>
-			<a10:updated>2018-01-02T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3773231</guid>
-			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3773231</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 02 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 17 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3773231</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>FORNITURA VERNICI ED ACCESSORI PER SERRAMENTI RELATIVI AD INTERVENTI DI MANUTENZIONE INFISSI LOCALI DEMANIALI - CIG. Z722185832 - DETERMINA A CONTRATTARE - IMPEGNO SPESA </title>
-			<description>FORNITURA VERNICI ED ACCESSORI PER SERRAMENTI RELATIVI AD INTERVENTI DI MANUTENZIONE INFISSI LOCALI DEMANIALI - CIG. Z722185832 - DETERMINA A CONTRATTARE - IMPEGNO SPESA </description>
 			<a10:updated>2018-01-02T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
