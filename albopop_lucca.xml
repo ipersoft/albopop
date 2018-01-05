@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 05 Jan 2018 13:31:35 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 05 Jan 2018 14:31:11 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Fri, 05 Jan 2018 13:31:35 +0100</pubDate>
+		<pubDate>Fri, 05 Jan 2018 14:31:11 +0100</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3781037</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3781037</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 05 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 20 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3781037</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONVOCAZIONI</category>
+			<title>CONVOCAZIONE IN FORMA CONGIUNTA DELLE COMMISSIONI BILANCIO E LAVORI PUBBLICI IL GIORNO MERCOLEDI' 10 GENNAIO ORE 14.00 </title>
+			<description>CONVOCAZIONE IN FORMA CONGIUNTA DELLE COMMISSIONI BILANCIO E LAVORI PUBBLICI IL GIORNO MERCOLEDI' 10 GENNAIO ORE 14.00 </description>
+			<a10:updated>2018-01-05T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3780509</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3780509</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI GIUNTA</category>
 			<title>POLITICHE DI PARTECIPAZIONE POPOLARE – CONCESSIONE DI CONTRIBUTI PER IL PROGETTO “QUARTIERI IN AZIONE”. </title>
 			<description>POLITICHE DI PARTECIPAZIONE POPOLARE – CONCESSIONE DI CONTRIBUTI PER IL PROGETTO “QUARTIERI IN AZIONE”. </description>
-			<a10:updated>2018-01-03T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3775857</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3775857</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 03 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 18 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3775857</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI CONSIGLIO</category>
-			<title>MOZIONE "OTTIMIZZAZIONE DELLA RETE DI PRIMO SOCCORSO DAE NEL TERRITORIO COMUNALE" </title>
-			<description>MOZIONE "OTTIMIZZAZIONE DELLA RETE DI PRIMO SOCCORSO DAE NEL TERRITORIO COMUNALE" </description>
 			<a10:updated>2018-01-03T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
