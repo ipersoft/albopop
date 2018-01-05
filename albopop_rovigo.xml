@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 05 Jan 2018 11:31:46 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 05 Jan 2018 12:31:16 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Fri, 05 Jan 2018 11:31:46 +0100</pubDate>
+		<pubDate>Fri, 05 Jan 2018 12:31:16 +0100</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3150105</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3150105</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 05 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 31 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3150105</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI ATTI DIVERSI</category>
+			<title>COMUNE DI VILLADOSE - AVVISO DI MOBILITÀ VOLONTARIA PER LA COPERTURA DI UN POSTO DI AGENTE DI POLIZIA LOCALE - CAT C - A TEMPO PIENO E INDETERMINATO </title>
+			<description>COMUNE DI VILLADOSE - AVVISO DI MOBILITÀ VOLONTARIA PER LA COPERTURA DI UN POSTO DI AGENTE DI POLIZIA LOCALE - CAT C - A TEMPO PIENO E INDETERMINATO </description>
+			<a10:updated>2018-01-05T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3150039</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3150039</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
 			<title>IMPEGNO DI SPESA ANNO 2018 CANONE DI LOCAZIONE RELATIVO ALL’IMMOBILE SITO IN ROVIGO, ZONA INDUSTRIALE DELLA FRAZIONE DI BORSEA, VIA DELLE INDUSTRIE, DI PROPRIETÀ DELLA SOCIETÀ INTERPORTO SPA, DESTINATO AD ARCHIVIO COMUNALE. </title>
 			<description>IMPEGNO DI SPESA ANNO 2018 CANONE DI LOCAZIONE RELATIVO ALL’IMMOBILE SITO IN ROVIGO, ZONA INDUSTRIALE DELLA FRAZIONE DI BORSEA, VIA DELLE INDUSTRIE, DI PROPRIETÀ DELLA SOCIETÀ INTERPORTO SPA, DESTINATO AD ARCHIVIO COMUNALE. </description>
-			<a10:updated>2018-01-04T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3148755</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3148755</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 04 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 19 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3148755</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>IMPEGNO DI SPESA ANNO 2018 CANONE DI LOCAZIONE RELATIVO ALL’IMMOBILE SITO IN ROVIGO VIA DELLA RESISTENZA N.4, DA DESTINARE A SEDE DEGLI UFFICI COMUNALI UFFICIO TRIBUTI DI PROPRIETÀ DELL'ISTITUTO RODIGINO DI ASSISTENZA SOCIALE - IRAS. </title>
-			<description>IMPEGNO DI SPESA ANNO 2018 CANONE DI LOCAZIONE RELATIVO ALL’IMMOBILE SITO IN ROVIGO VIA DELLA RESISTENZA N.4, DA DESTINARE A SEDE DEGLI UFFICI COMUNALI UFFICIO TRIBUTI DI PROPRIETÀ DELL'ISTITUTO RODIGINO DI ASSISTENZA SOCIALE - IRAS. </description>
 			<a10:updated>2018-01-04T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
