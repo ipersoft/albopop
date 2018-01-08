@@ -5,7 +5,7 @@
 		<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mascalucia</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 08 Jan 2018 13:31:49 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 08 Jan 2018 14:31:44 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mascalucia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mascalucia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mascalucia</a10:id>
-		<pubDate>Mon, 08 Jan 2018 13:31:49 +0100</pubDate>
+		<pubDate>Mon, 08 Jan 2018 14:31:44 +0100</pubDate>
 		<docs>http://albopop.it/comune/mascalucia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3151909</guid>
+			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3151909</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 08 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 23 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3151909</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
+			<title>CUC - PROCEDURA NEGOZIATA PER L'ESECUZIONE DEI LAVORI DI SMALTIMENTO DELLE ACQUE METEORICHE IN VIA SAN PAOLO E VIA DELL'AUTONOMIA </title>
+			<description>CUC - PROCEDURA NEGOZIATA PER L'ESECUZIONE DEI LAVORI DI SMALTIMENTO DELLE ACQUE METEORICHE IN VIA SAN PAOLO E VIA DELL'AUTONOMIA </description>
+			<a10:updated>2018-01-08T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3151380</guid>
 			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3151380</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">COMMISSIONI CONSILIARI CONVOCAZIONE III COMMISSIONE CONSILIARE</category>
 			<title>CONVOCAZIONE SEDUTE TERZA COMMISSIONE DAL 2 AL 5 GENNAIO 2018. </title>
 			<description>CONVOCAZIONE SEDUTE TERZA COMMISSIONE DAL 2 AL 5 GENNAIO 2018. </description>
-			<a10:updated>2018-01-08T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3150930</guid>
-			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3150930</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 08 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 16 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3150930</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DI STATO CIVILE (STC) PUBBLICAZIONI DI MATRIMONIO</category>
-			<title>PUBBLICAZIONE DI MATRIMONIO - LITRICO CARLO / COLOMBO SIMONA </title>
-			<description>PUBBLICAZIONE DI MATRIMONIO - LITRICO CARLO / COLOMBO SIMONA </description>
 			<a10:updated>2018-01-08T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
