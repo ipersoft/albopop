@@ -5,7 +5,7 @@
 		<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Annone Veneto</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 08 Jan 2018 10:30:58 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 08 Jan 2018 11:31:26 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Annone Veneto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Annone Veneto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_annoneveneto</a10:id>
-		<pubDate>Mon, 08 Jan 2018 10:30:58 +0100</pubDate>
+		<pubDate>Mon, 08 Jan 2018 11:31:26 +0100</pubDate>
 		<docs>http://albopop.it/comune/annoneveneto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3781751</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3781751</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 08 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3781751</category>
+			<category domain="http://albopop.it/specs#item-category-type">VARIANTI AVVISO</category>
+			<title>POSTA CERTIFICATA: PROTOCOLLO NR: 29818 - DEL 21/12/2017 - DVA - DIREZIONE GENERALE PER LE VALUTAZIONI E LE AUTORIZZAZIONI AMBIENTALI [ID_VIP: 3862] ISTANZA DI PRONUNCIA DI COMPATIBILITÀ AMBIENTALE ART. 23 DEL D.LGS. 152/2006 E SS.MM.II. - RELATIVA AL PROGETTO "RIFACIMENTO METANODOTTO MESTRE - TRIESTE, TRATTO CASALE SUL SILE - GONARS DN 400 E OPERE CONNESSE E IL "METANODOTTO MESTRE - TRIESTE INTERVENTI PER IL DECLASSAMENTO A 24 BAR E OPERE CONNESSE". PROPONENTE SOCIETÀ SNAM RETE GAS S.P.A.. C... </title>
+			<description>POSTA CERTIFICATA: PROTOCOLLO NR: 29818 - DEL 21/12/2017 - DVA - DIREZIONE GENERALE PER LE VALUTAZIONI E LE AUTORIZZAZIONI AMBIENTALI [ID_VIP: 3862] ISTANZA DI PRONUNCIA DI COMPATIBILITÀ AMBIENTALE ART. 23 DEL D.LGS. 152/2006 E SS.MM.II. - RELATIVA AL PROGETTO "RIFACIMENTO METANODOTTO MESTRE - TRIESTE, TRATTO CASALE SUL SILE - GONARS DN 400 E OPERE CONNESSE E IL "METANODOTTO MESTRE - TRIESTE INTERVENTI PER IL DECLASSAMENTO A 24 BAR E OPERE CONNESSE". PROPONENTE SOCIETÀ SNAM RETE GAS S.P.A.. C... </description>
+			<a10:updated>2018-01-08T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3781562</guid>
 			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3781562</link>
@@ -283,17 +293,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>INCARICO AL DOTT. VIDALI A. DELL'ESECUZIONE DELL'INDAGINE GEOGNOSTICA PER I LAVORI DI "AMPLIAMENTO DELLA SCUOLA DELL'INFANZIA DI LONCON ALICE GUARDA IL MONDO". LIQUIDAZIONE </title>
 			<description>INCARICO AL DOTT. VIDALI A. DELL'ESECUZIONE DELL'INDAGINE GEOGNOSTICA PER I LAVORI DI "AMPLIAMENTO DELLA SCUOLA DELL'INFANZIA DI LONCON ALICE GUARDA IL MONDO". LIQUIDAZIONE </description>
-			<a10:updated>2017-12-29T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3766291</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3766291</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 29 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 13 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3766291</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>VENDITA DI UN TERRENO IN VIA S. PERTINI - NOMINA COMMISSIONE DI GARA </title>
-			<description>VENDITA DI UN TERRENO IN VIA S. PERTINI - NOMINA COMMISSIONE DI GARA </description>
 			<a10:updated>2017-12-29T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
