@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 08 Jan 2018 08:31:33 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 08 Jan 2018 09:31:52 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Mon, 08 Jan 2018 08:31:33 +0100</pubDate>
+		<pubDate>Mon, 08 Jan 2018 09:31:52 +0100</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3781395</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3781395</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 08 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 16 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3781395</category>
+			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>PUBBLICAZIONI ANNO 2018 N. 1 MARTINI GIOVANNI MARIA ORLANDINI MARIA TERESA </title>
+			<description>PUBBLICAZIONI ANNO 2018 N. 1 MARTINI GIOVANNI MARIA ORLANDINI MARIA TERESA </description>
+			<a10:updated>2018-01-08T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3781037</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3781037</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI GIUNTA</category>
 			<title>SERVIZI A DOMANDA INDIVIDUALE: DETERMINAZIONE PERCENTUALE DI COPERTURA DEI COSTI DI GESTIONE PER L'ESERCIZIO 2018 - APPROVAZIONE. </title>
 			<description>SERVIZI A DOMANDA INDIVIDUALE: DETERMINAZIONE PERCENTUALE DI COPERTURA DEI COSTI DI GESTIONE PER L'ESERCIZIO 2018 - APPROVAZIONE. </description>
-			<a10:updated>2018-01-03T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3776433</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3776433</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 03 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 18 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3776433</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI GIUNTA</category>
-			<title>POLITICHE DI PARTECIPAZIONE POPOLARE – CONCESSIONE DI CONTRIBUTI PER IL PROGETTO “QUARTIERI IN AZIONE”. </title>
-			<description>POLITICHE DI PARTECIPAZIONE POPOLARE – CONCESSIONE DI CONTRIBUTI PER IL PROGETTO “QUARTIERI IN AZIONE”. </description>
 			<a10:updated>2018-01-03T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
