@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 08 Jan 2018 11:32:42 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 08 Jan 2018 12:32:38 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Mon, 08 Jan 2018 11:32:42 +0100</pubDate>
+		<pubDate>Mon, 08 Jan 2018 12:32:38 +0100</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3151601</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3151601</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 08 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 01 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3151601</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO</category>
+			<title>INDIZIONE CONCORSO PUBBLICO PER ESAMI PER LA COPERTURA A TEMPO PIENO ED INDETERMINATO DI N.2 POSTI DI ISTRUTTORE DIRETTIVO TECNICO CONTABILE - CATEGORIA GIURIDICA D1 - POSIZIONE ECONOMICA D1. (RIF. C3 2017) </title>
+			<description>INDIZIONE CONCORSO PUBBLICO PER ESAMI PER LA COPERTURA A TEMPO PIENO ED INDETERMINATO DI N.2 POSTI DI ISTRUTTORE DIRETTIVO TECNICO CONTABILE - CATEGORIA GIURIDICA D1 - POSIZIONE ECONOMICA D1. (RIF. C3 2017) </description>
+			<a10:updated>2018-01-08T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3151499</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3151499</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 08 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 23 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3151499</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA SINDACALI</category>
+			<title>DET.SIND. N° 02/18 - NOMINA DEL COMPONENTE DEL COMUNE DI RAGUSA IN SENO AL CONSORZIO PER LA RICERCA SULLA FILIERA LATTIERO-CASEARIA DI RAGUSA. </title>
+			<description>DET.SIND. N° 02/18 - NOMINA DEL COMPONENTE DEL COMUNE DI RAGUSA IN SENO AL CONSORZIO PER LA RICERCA SULLA FILIERA LATTIERO-CASEARIA DI RAGUSA. </description>
+			<a10:updated>2018-01-08T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3150414</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3150414</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI GIUNTA</category>
 			<title>DEL. G.M. N° 544/17 - ESAME PIANO URBANISTICO ATTUATIVO DEL PRG, PER LA COSTRUZIONE DI N. 17 (DICIASSETTE) ALLOGGI DI EDILIZIA ECONOMICA E POPOLARE, DA REALIZZARE SU TERRENI UBICATI A RAGUSA, C.DA SELVAGGIO IN ZONA APPOSITAMENTE DESTINATA DAL P.R.G. (C3 PER L'EDILIZIA ECOPNOMICA E POPOLARE). DITTA RESEDIL S.R.L. AMM.RE UNICO GIANLUCA CANZONIERI. </title>
 			<description>DEL. G.M. N° 544/17 - ESAME PIANO URBANISTICO ATTUATIVO DEL PRG, PER LA COSTRUZIONE DI N. 17 (DICIASSETTE) ALLOGGI DI EDILIZIA ECONOMICA E POPOLARE, DA REALIZZARE SU TERRENI UBICATI A RAGUSA, C.DA SELVAGGIO IN ZONA APPOSITAMENTE DESTINATA DAL P.R.G. (C3 PER L'EDILIZIA ECOPNOMICA E POPOLARE). DITTA RESEDIL S.R.L. AMM.RE UNICO GIANLUCA CANZONIERI. </description>
-			<a10:updated>2017-12-29T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3129794</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3129794</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 29 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 13 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3129794</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DEL. G.M. N° 545/17 - APPROVAZIONE PROGETTO ESECUTIVO "LAVORI DI SOSTITUZIONE CONTROSOFFITTO E INFISSI DELLA PISCINA COMUNALE". IMPORTO COMPLESSIVO € 250.000,00. </title>
-			<description>DEL. G.M. N° 545/17 - APPROVAZIONE PROGETTO ESECUTIVO "LAVORI DI SOSTITUZIONE CONTROSOFFITTO E INFISSI DELLA PISCINA COMUNALE". IMPORTO COMPLESSIVO € 250.000,00. </description>
-			<a10:updated>2017-12-29T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3129792</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3129792</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 29 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 13 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3129792</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DEL. G.M. N° 546/17 - APPROVAZIONE PROGETTO ESECUTIVO "INTERVENTI NECESSARI PER LA MESSA IN SICUREZZA ED IL MANTENIMENTO DELLE CONDIZIONI DI AGIBILITÀ DEGLI EDIFICI SCOLASTICI COMUNALI" IMPORTO € 200.000,00. </title>
-			<description>DEL. G.M. N° 546/17 - APPROVAZIONE PROGETTO ESECUTIVO "INTERVENTI NECESSARI PER LA MESSA IN SICUREZZA ED IL MANTENIMENTO DELLE CONDIZIONI DI AGIBILITÀ DEGLI EDIFICI SCOLASTICI COMUNALI" IMPORTO € 200.000,00. </description>
 			<a10:updated>2017-12-29T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
