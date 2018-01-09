@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 08 Jan 2018 18:31:08 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 09 Jan 2018 08:30:57 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Mon, 08 Jan 2018 18:31:08 +0100</pubDate>
+		<pubDate>Tue, 09 Jan 2018 08:30:57 +0100</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3152469</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3152469</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 09 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 22 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3152469</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI BANDO</category>
+			<title>BANDO MOBILITÀ VOLONTARIA PER LA COPERTURA DI UN POSTO DI ISTRUTTORE DIRETTIVO PRESSO IL SETTORE SERVIZIO RAGIONERIA TRIBUTI (CATEGORIA D1) CON RAPPORTO A TEMPO PIENO ED INDETERMINATO CON EVENTUALE RICONOSCIMENTO DI POSIZIONE ORGANIZZATIVA </title>
+			<description>BANDO MOBILITÀ VOLONTARIA PER LA COPERTURA DI UN POSTO DI ISTRUTTORE DIRETTIVO PRESSO IL SETTORE SERVIZIO RAGIONERIA TRIBUTI (CATEGORIA D1) CON RAPPORTO A TEMPO PIENO ED INDETERMINATO CON EVENTUALE RICONOSCIMENTO DI POSIZIONE ORGANIZZATIVA </description>
+			<a10:updated>2018-01-09T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3152353</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3152353</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI CONSIGLIO</category>
 			<title>APPROVAZIONE PIANO COMUNALE DELLE CESSIONI A FINI SOLIDARISTICI </title>
 			<description>APPROVAZIONE PIANO COMUNALE DELLE CESSIONI A FINI SOLIDARISTICI </description>
-			<a10:updated>2017-12-28T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3127561</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3127561</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 28 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 11 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3127561</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI CONSIGLIO</category>
-			<title>APPROVAZIONE VERBALI SEDUTA PRECEDENTE DELL' 11 OTTOBRE 2017 DAL N. 50 AL N. 56 </title>
-			<description>APPROVAZIONE VERBALI SEDUTA PRECEDENTE DELL' 11 OTTOBRE 2017 DAL N. 50 AL N. 56 </description>
 			<a10:updated>2017-12-28T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
