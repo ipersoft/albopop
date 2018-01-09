@@ -5,7 +5,7 @@
 		<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mazzano</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 09 Jan 2018 12:31:36 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 09 Jan 2018 13:31:33 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mazzano</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mazzano</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mazzano</a10:id>
-		<pubDate>Tue, 09 Jan 2018 12:31:36 +0100</pubDate>
+		<pubDate>Tue, 09 Jan 2018 13:31:33 +0100</pubDate>
 		<docs>http://albopop.it/comune/mazzano/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3785134</guid>
+			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3785134</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 09 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 29 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3785134</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI DI DEPOSITO ATTI NELLA CASA COMUNALE</category>
+			<title>PUBBLICAZIONE CANCELLAZIONE CITTADINO PER IRREPERIBILITA' </title>
+			<description>PUBBLICAZIONE CANCELLAZIONE CITTADINO PER IRREPERIBILITA' </description>
+			<a10:updated>2018-01-09T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3785133</guid>
+			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3785133</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 09 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 29 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3785133</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI DI DEPOSITO ATTI NELLA CASA COMUNALE</category>
+			<title>PUBBLICAZIONE CANCELLAZIONE CITTADINO PER IRREPERIBILITA' </title>
+			<description>PUBBLICAZIONE CANCELLAZIONE CITTADINO PER IRREPERIBILITA' </description>
+			<a10:updated>2018-01-09T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3785132</guid>
+			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3785132</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 09 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 29 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3785132</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI DI DEPOSITO ATTI NELLA CASA COMUNALE</category>
+			<title>PUBBLICAZIONE PROVVEDIMENTO DI CANCELLAZIONE ANAGRAFICA </title>
+			<description>PUBBLICAZIONE PROVVEDIMENTO DI CANCELLAZIONE ANAGRAFICA </description>
+			<a10:updated>2018-01-09T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3784532</guid>
 			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3784532</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERE DI GIUNTA COMUNALE</category>
 			<title>CUP J58E17000010004 - PROGETTO DI FATTIBILITA’ TECNICA ED ECONOMICA PER I LAVORI DI RIQUALIFICAZIONE DEL PARCO ANTOMELLI MEDIANTE REALIZZAZIONE DI PERCORSI DISTRIBUTIVI E NUOVO ARREDO URBANO. ESAME ED APPROVAZIONE. </title>
 			<description>CUP J58E17000010004 - PROGETTO DI FATTIBILITA’ TECNICA ED ECONOMICA PER I LAVORI DI RIQUALIFICAZIONE DEL PARCO ANTOMELLI MEDIANTE REALIZZAZIONE DI PERCORSI DISTRIBUTIVI E NUOVO ARREDO URBANO. ESAME ED APPROVAZIONE. </description>
-			<a10:updated>2017-12-29T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3765761</guid>
-			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3765761</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 29 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 13 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3765761</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERE DI GIUNTA COMUNALE</category>
-			<title>APPROVAZIONE ACCORDO DI COLLABORAZIONE TRA IL COMUNE DI MAZZANO ED IL POLITECNICO DI MILANO – DIPARTIMENTO DI ARCHITETTURA, INGEGNERIA DELLE COSTRUZIONI E AMBIENTE COSTRUITO – DEPARTMENT ARCHITECTURE, BUILT ENNVIRONMENT AND COSTRUCTION ENGINEERING A.B.C. PER I LAVORI DI RIQUALIFICAZIONE DEL SAGRATO DI MAZZANO E DELLE AREE LIMITROFE CON RECUPERO DEL FABBRICATO DI PROPRIETA’ COMUNALE ANTISTANTE - CUP J52F12000090004. </title>
-			<description>APPROVAZIONE ACCORDO DI COLLABORAZIONE TRA IL COMUNE DI MAZZANO ED IL POLITECNICO DI MILANO – DIPARTIMENTO DI ARCHITETTURA, INGEGNERIA DELLE COSTRUZIONI E AMBIENTE COSTRUITO – DEPARTMENT ARCHITECTURE, BUILT ENNVIRONMENT AND COSTRUCTION ENGINEERING A.B.C. PER I LAVORI DI RIQUALIFICAZIONE DEL SAGRATO DI MAZZANO E DELLE AREE LIMITROFE CON RECUPERO DEL FABBRICATO DI PROPRIETA’ COMUNALE ANTISTANTE - CUP J52F12000090004. </description>
-			<a10:updated>2017-12-29T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3765757</guid>
-			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3765757</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 29 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 13 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3765757</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERE DI GIUNTA COMUNALE</category>
-			<title>SCHEMA DI CONVENZIONE DI TIROCINIO PER ALTERNANZA SCUOLA LAVORO CON L'ISTITUTO D'ISTRUZIONE SUPERIORE "N. TARTAGLIA-M.OLIVIERI", CON SEDE A BRESCIA. ESAME ED APPROVAZIONE. </title>
-			<description>SCHEMA DI CONVENZIONE DI TIROCINIO PER ALTERNANZA SCUOLA LAVORO CON L'ISTITUTO D'ISTRUZIONE SUPERIORE "N. TARTAGLIA-M.OLIVIERI", CON SEDE A BRESCIA. ESAME ED APPROVAZIONE. </description>
-			<a10:updated>2017-12-29T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3765094</guid>
-			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3765094</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 29 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 13 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3765094</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>ORDINANZA MODIFICA TEMPORANEA ALLA VIABILITA' IN VARIE VIE DEL COMUNE DI NUVOLERA DAL GIORNO 02.01.2018 AL GIORNO 31.01.2018 </title>
-			<description>ORDINANZA MODIFICA TEMPORANEA ALLA VIABILITA' IN VARIE VIE DEL COMUNE DI NUVOLERA DAL GIORNO 02.01.2018 AL GIORNO 31.01.2018 </description>
 			<a10:updated>2017-12-29T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
