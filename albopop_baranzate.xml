@@ -5,7 +5,7 @@
 		<link>http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Baranzate</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 09 Jan 2018 16:30:55 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 09 Jan 2018 17:30:50 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Baranzate</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Milano</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Baranzate</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_baranzate</a10:id>
-		<pubDate>Tue, 09 Jan 2018 16:30:55 +0100</pubDate>
+		<pubDate>Tue, 09 Jan 2018 17:30:50 +0100</pubDate>
 		<docs>http://albopop.it/comune/baranzate/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -42,6 +42,17 @@
 			<title>RICHIESTA DI ASSEGNAZIONE IN COMANDO TEMPORANEO DELL'EX DIPENDENTE SIG. F.B.. </title>
 			<description>RICHIESTA DI ASSEGNAZIONE IN COMANDO TEMPORANEO DELL'EX DIPENDENTE SIG. F.B.. </description>
 			<a10:updated>2018-01-05T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3786133</guid>
+			<link>http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3786133</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 09 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 24 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3786133</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE </category>
+			<title>ORDINANZA N° 1/2018 - ISTITUZIONE DEL DIVIETO DI SOSTA CON RIMOZIONE FORZATA E DOPPIO SENSO ALTERNATO NEI TRATTI DI STRADA INTERESSATI DAI LAVORI, IN VIA C. BELGIOIOSO 13 E 20 E IN VIA TONALE, AL FINE DI CONSENTIRE L'ESECUZIONE DI N° 1 CAROTAGGIO E DI N° 2 PIEZOMETRI, DALLE ORE 6.00 DEL GIORNO 11 GENNAIO 2018 ALLE ORE 20.00 DEL 16 GENNAIO 2018 </title>
+			<description>ORDINANZA N° 1/2018 - ISTITUZIONE DEL DIVIETO DI SOSTA CON RIMOZIONE FORZATA E DOPPIO SENSO ALTERNATO NEI TRATTI DI STRADA INTERESSATI DAI LAVORI, IN VIA C. BELGIOIOSO 13 E 20 E IN VIA TONALE, AL FINE DI CONSENTIRE L'ESECUZIONE DI N° 1 CAROTAGGIO E DI N° 2 PIEZOMETRI, DALLE ORE 6.00 DEL GIORNO 11 GENNAIO 2018 ALLE ORE 20.00 DEL 16 GENNAIO 2018 </description>
+			<a10:updated>2018-01-09T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3782553</guid>
@@ -279,17 +290,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINA P.O. DETERMINA</category>
 			<title>IMPEGNO DI SPESA REFEZIONE REFEZIONE NIDO PER AUMENTO INDICE ISTAT </title>
 			<description>IMPEGNO DI SPESA REFEZIONE REFEZIONE NIDO PER AUMENTO INDICE ISTAT </description>
-			<a10:updated>2017-12-29T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3765650</guid>
-			<link>http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3765650</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 29 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 13 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3765650</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINA P.O. DETERMINA</category>
-			<title>MANUTENZIONE PROGRAMMATA E RIPARATIVA IMPIANTI DEGLI EDIFICI COMUNALI - 24 MESI" CIG: 7161606839 - CUP: C93G17000310004IMPEGNO DI SPESA PER INTERVENTI URGENTI DI RIPRISTINO DI MODESTE ENTITA' </title>
-			<description>MANUTENZIONE PROGRAMMATA E RIPARATIVA IMPIANTI DEGLI EDIFICI COMUNALI - 24 MESI" CIG: 7161606839 - CUP: C93G17000310004IMPEGNO DI SPESA PER INTERVENTI URGENTI DI RIPRISTINO DI MODESTE ENTITA' </description>
 			<a10:updated>2017-12-29T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
