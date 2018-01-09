@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 09 Jan 2018 10:31:54 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 09 Jan 2018 11:32:27 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Tue, 09 Jan 2018 10:31:54 +0100</pubDate>
+		<pubDate>Tue, 09 Jan 2018 11:32:27 +0100</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3152924</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3152924</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 09 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 17 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3152924</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO PUBBLICAZIONE AVVISO</category>
+			<title>AVVISO DI DEPOSITO DI N.2 ATTI NELLA CASA COMUNALE </title>
+			<description>AVVISO DI DEPOSITO DI N.2 ATTI NELLA CASA COMUNALE </description>
+			<a10:updated>2018-01-09T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3152817</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3152817</link>
@@ -281,17 +292,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
 			<title>ORDINANZA INGIUNZIONE DI APPLICAZIONE DELLE SANZIONI PECUNIARIE UBICAZIONE: LOCALITÀ M. GRANDE SPECCHI ACQUEI IN CDM AL COMUNE DI CAPRI NATANTE DI PROPRIETÀ: SIG. TRAMONTANA FERDINANDO </title>
 			<description>ORDINANZA INGIUNZIONE DI APPLICAZIONE DELLE SANZIONI PECUNIARIE UBICAZIONE: LOCALITÀ M. GRANDE SPECCHI ACQUEI IN CDM AL COMUNE DI CAPRI NATANTE DI PROPRIETÀ: SIG. TRAMONTANA FERDINANDO </description>
-			<a10:updated>2018-01-05T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3150312</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3150312</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 05 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 20 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3150312</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>ORDINANZA INGIUNZIONE DI APPLICAZIONE DELLE SANZIONI PECUNIARIE UBICAZIONE: LOCALITÀ M. GRANDE SPECCHI ACQUEI IN CDM AL COMUNE DI CAPRI NATANTE DI PROPRIETÀ: SIG. GARGIULO CIRO </title>
-			<description>ORDINANZA INGIUNZIONE DI APPLICAZIONE DELLE SANZIONI PECUNIARIE UBICAZIONE: LOCALITÀ M. GRANDE SPECCHI ACQUEI IN CDM AL COMUNE DI CAPRI NATANTE DI PROPRIETÀ: SIG. GARGIULO CIRO </description>
 			<a10:updated>2018-01-05T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
