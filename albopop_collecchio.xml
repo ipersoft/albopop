@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 09 Jan 2018 14:31:28 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 09 Jan 2018 15:31:29 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Tue, 09 Jan 2018 14:31:28 +0100</pubDate>
+		<pubDate>Tue, 09 Jan 2018 15:31:29 +0100</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3153795</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3153795</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 09 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 24 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3153795</category>
+			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
+			<title>SOTTOSCRIZIONE ABBONAMENTE A RIVISTE, PERIODICI E SERVIZI ON LINE - ANNO 2018 </title>
+			<description>SOTTOSCRIZIONE ABBONAMENTE A RIVISTE, PERIODICI E SERVIZI ON LINE - ANNO 2018 </description>
+			<a10:updated>2018-01-09T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3153490</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3153490</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DLC DELIBERA DI CONSIGLIO</category>
 			<title>MODIFICA AL REGOLAMENTO COMUNALE PER L'ISTITUZIONE E L'APPLICAZIONE DELLA TASSA SUI RIFIUTI (TARI) </title>
 			<description>MODIFICA AL REGOLAMENTO COMUNALE PER L'ISTITUZIONE E L'APPLICAZIONE DELLA TASSA SUI RIFIUTI (TARI) </description>
-			<a10:updated>2018-01-03T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3137348</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3137348</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 03 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 18 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3137348</category>
-			<category domain="http://albopop.it/specs#item-category-type">DLC DELIBERA DI CONSIGLIO</category>
-			<title>MODIFICA AL REGOLAMENTO COMUNALE PER L'APPLICAZIONE DELL'IMPOSTA MUNICIPALE PROPRIA (IMU) </title>
-			<description>MODIFICA AL REGOLAMENTO COMUNALE PER L'APPLICAZIONE DELL'IMPOSTA MUNICIPALE PROPRIA (IMU) </description>
 			<a10:updated>2018-01-03T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
