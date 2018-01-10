@@ -5,7 +5,7 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/igrid/1233682</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Desio</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 10 Jan 2018 13:30:42 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 10 Jan 2018 14:30:58 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Desio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Desio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_desio</a10:id>
-		<pubDate>Wed, 10 Jan 2018 13:30:42 +0100</pubDate>
+		<pubDate>Wed, 10 Jan 2018 14:30:58 +0100</pubDate>
 		<docs>http://albopop.it/comune/desio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3788265</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3788265</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 10 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 25 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3788265</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>INCARICO LEGALE PER COSTITUZIONE IN GIUDIZIO AUTORIZZATA CON DELIBERA G.C. N. 266/2018 E RELATIVO IMPEGNO DI SPESA – E. 5.075,20 </title>
+			<description>INCARICO LEGALE PER COSTITUZIONE IN GIUDIZIO AUTORIZZATA CON DELIBERA G.C. N. 266/2018 E RELATIVO IMPEGNO DI SPESA – E. 5.075,20 </description>
+			<a10:updated>2018-01-10T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3786326</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3786326</link>
@@ -228,17 +239,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>LIQUIDAZIONE QUOTA PARTE DEL CONTRIBUTO PER I LAVORI DI REALIZZAZIONE METROTRANVIA MILANO PARCO NORD – SEREGNO </title>
 			<description>LIQUIDAZIONE QUOTA PARTE DEL CONTRIBUTO PER I LAVORI DI REALIZZAZIONE METROTRANVIA MILANO PARCO NORD – SEREGNO </description>
-			<a10:updated>2018-01-03T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3776926</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3776926</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 03 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 18 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3776926</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>LAVORI DI FORNITURA E POSA IN OPERA DI TETTOIA DI COPERTURA (ZONA BAGNI MERCATO SUD DI VIA PRATI) - DETERMINA A CONTRARRE E AFFIDAMENTO LAVORI A LO SCIAME COOPERATIVA SOCIALE ONLUS - ASSUNZIONE IMPEGNO DI SPESA DI € 1.800,00= OLTRE IVA – CODICE CIG: Z9B2185294 </title>
-			<description>LAVORI DI FORNITURA E POSA IN OPERA DI TETTOIA DI COPERTURA (ZONA BAGNI MERCATO SUD DI VIA PRATI) - DETERMINA A CONTRARRE E AFFIDAMENTO LAVORI A LO SCIAME COOPERATIVA SOCIALE ONLUS - ASSUNZIONE IMPEGNO DI SPESA DI € 1.800,00= OLTRE IVA – CODICE CIG: Z9B2185294 </description>
 			<a10:updated>2018-01-03T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
