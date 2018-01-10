@@ -5,7 +5,7 @@
 		<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Torri del Benaco</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 10 Jan 2018 14:32:06 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 10 Jan 2018 15:32:05 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Torri del Benaco</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Verona</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Torri del Benaco</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_torridelbenaco</a10:id>
-		<pubDate>Wed, 10 Jan 2018 14:32:06 +0100</pubDate>
+		<pubDate>Wed, 10 Jan 2018 15:32:05 +0100</pubDate>
 		<docs>http://albopop.it/comune/torridelbenaco/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3788429</guid>
+			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3788429</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 10 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 09 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3788429</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISO 30 GIORNI</category>
+			<title>PROVVEDIMENTO DI CANCELLAZIONE ANAGRAFICA PER IRREPERIBILITA' DELLA FAMIGLIA DEL SIG. LUCHIAN ROMULUS NICOLAE </title>
+			<description>PROVVEDIMENTO DI CANCELLAZIONE ANAGRAFICA PER IRREPERIBILITA' DELLA FAMIGLIA DEL SIG. LUCHIAN ROMULUS NICOLAE </description>
+			<a10:updated>2018-01-10T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3788427</guid>
+			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3788427</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 10 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 09 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3788427</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISO 30 GIORNI</category>
+			<title>PROVVEDIMENTO DI CANCELLAZIONE ANAGRAFICA PER IRREPERIBILITA' DELLA SIG.RA BARRETT DOREEN YVONNE </title>
+			<description>PROVVEDIMENTO DI CANCELLAZIONE ANAGRAFICA PER IRREPERIBILITA' DELLA SIG.RA BARRETT DOREEN YVONNE </description>
+			<a10:updated>2018-01-10T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3787821</guid>
 			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3787821</link>
@@ -273,28 +295,6 @@
 			<title>COMUNE DI SOAVE: AVVISO DI MOBILITA ESTERNA PER AGENTE DI POLIZIA LOCALE CAT C - A TEMPO PIENO E INDETERMINATO - RICHIESTA PUBBLICAZIONE E DIVULGAZIONE </title>
 			<description>COMUNE DI SOAVE: AVVISO DI MOBILITA ESTERNA PER AGENTE DI POLIZIA LOCALE CAT C - A TEMPO PIENO E INDETERMINATO - RICHIESTA PUBBLICAZIONE E DIVULGAZIONE </description>
 			<a10:updated>2017-12-27T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3755745</guid>
-			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3755745</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 27 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 31 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3755745</category>
-			<category domain="http://albopop.it/specs#item-category-type">CONCORSI PUBBLICI CONCORSI A TEMPO INDETERMINATO</category>
-			<title>UNIONE MONTANA DEL BALDO-GARDA: BANDO DI CONCORSO PER LA COPERTURA DI N° 1 POSTO DI ISTRUTTORE DIRETTIVO TECNICO CAT. D A TEMPO PIENO E INDETERMINATO DA ASSEGNARE ALLA C.U.C. </title>
-			<description>UNIONE MONTANA DEL BALDO-GARDA: BANDO DI CONCORSO PER LA COPERTURA DI N° 1 POSTO DI ISTRUTTORE DIRETTIVO TECNICO CAT. D A TEMPO PIENO E INDETERMINATO DA ASSEGNARE ALLA C.U.C. </description>
-			<a10:updated>2017-12-27T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3754163</guid>
-			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3754163</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 23 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 22 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3754163</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISO 30 GIORNI</category>
-			<title>BANDO DI CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER LA COPERTURA DI N. 1 POSTO DI ISTRUTTORE DIRETTIVO-CONTABILE (CAT. D) A TEMPO PIENO ED INDETERMINATO PRESSO IL SETTORE AMMINISTRATIVO, SERVIZIO BILANCIO, PERSONALE, TRIBUTI, RISORSE INFORMATICHE [2017/0015121] </title>
-			<description>BANDO DI CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER LA COPERTURA DI N. 1 POSTO DI ISTRUTTORE DIRETTIVO-CONTABILE (CAT. D) A TEMPO PIENO ED INDETERMINATO PRESSO IL SETTORE AMMINISTRATIVO, SERVIZIO BILANCIO, PERSONALE, TRIBUTI, RISORSE INFORMATICHE [2017/0015121] </description>
-			<a10:updated>2017-12-23T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
