@@ -5,7 +5,7 @@
 		<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mazzano</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 10 Jan 2018 08:31:34 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 10 Jan 2018 09:31:45 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mazzano</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mazzano</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mazzano</a10:id>
-		<pubDate>Wed, 10 Jan 2018 08:31:34 +0100</pubDate>
+		<pubDate>Wed, 10 Jan 2018 09:31:45 +0100</pubDate>
 		<docs>http://albopop.it/comune/mazzano/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3786402</guid>
+			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3786402</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 10 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 18 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3786402</category>
+			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>PUBBLICAZIONE DI MATRIMONIO ANTONETTI-APOSTOLI </title>
+			<description>PUBBLICAZIONE DI MATRIMONIO ANTONETTI-APOSTOLI </description>
+			<a10:updated>2018-01-10T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3785134</guid>
 			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3785134</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERE DI GIUNTA COMUNALE</category>
 			<title>VARIAZIONE AL PIANO ESECUTIVO DI GESTIONE (PEG) 2017/2019 A SEGUITO DI APPROVAZIONE DELLA VARIAZIONE DI BILANCIO N. 7/2017 APPROVATA CON DELIBERAZIONE DI CONSIGLIO COMUNALE N. 39 DEL 27 NOVEMBRE 2017. </title>
 			<description>VARIAZIONE AL PIANO ESECUTIVO DI GESTIONE (PEG) 2017/2019 A SEGUITO DI APPROVAZIONE DELLA VARIAZIONE DI BILANCIO N. 7/2017 APPROVATA CON DELIBERAZIONE DI CONSIGLIO COMUNALE N. 39 DEL 27 NOVEMBRE 2017. </description>
-			<a10:updated>2017-12-29T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3765763</guid>
-			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3765763</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 29 Dec 2017 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 13 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3765763</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERE DI GIUNTA COMUNALE</category>
-			<title>CUP J58E17000010004 - PROGETTO DI FATTIBILITA’ TECNICA ED ECONOMICA PER I LAVORI DI RIQUALIFICAZIONE DEL PARCO ANTOMELLI MEDIANTE REALIZZAZIONE DI PERCORSI DISTRIBUTIVI E NUOVO ARREDO URBANO. ESAME ED APPROVAZIONE. </title>
-			<description>CUP J58E17000010004 - PROGETTO DI FATTIBILITA’ TECNICA ED ECONOMICA PER I LAVORI DI RIQUALIFICAZIONE DEL PARCO ANTOMELLI MEDIANTE REALIZZAZIONE DI PERCORSI DISTRIBUTIVI E NUOVO ARREDO URBANO. ESAME ED APPROVAZIONE. </description>
 			<a10:updated>2017-12-29T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
