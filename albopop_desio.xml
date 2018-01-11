@@ -5,7 +5,7 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/igrid/1233682</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Desio</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 11 Jan 2018 17:31:01 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 11 Jan 2018 18:30:39 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Desio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Desio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_desio</a10:id>
-		<pubDate>Thu, 11 Jan 2018 17:31:01 +0100</pubDate>
+		<pubDate>Thu, 11 Jan 2018 18:30:39 +0100</pubDate>
 		<docs>http://albopop.it/comune/desio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3792930</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3792930</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 11 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 26 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3792930</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
+			<title>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA PIRANDELLO IL RESPONSABILE DEL SETTORE </title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA PIRANDELLO IL RESPONSABILE DEL SETTORE </description>
+			<a10:updated>2018-01-11T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3792512</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3792512</link>
@@ -228,17 +239,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>IMPOSTA DI REGISTRO ANNO 2018 PER CONTRATTI A LIBERO MERCATO ED ERP </title>
 			<description>IMPOSTA DI REGISTRO ANNO 2018 PER CONTRATTI A LIBERO MERCATO ED ERP </description>
-			<a10:updated>2018-01-04T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3778829</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3778829</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 04 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 19 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3778829</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>ATTIVAZIONE TIROCINIO DELLE STUDENTESSE MELLONE MONICA E FORESTIERI SONIA, ALLIEVE DELLA SCUOLA IRIS (INSEGNAMENTO E RICERCA INDIVIDUO E SISTEMI S.R.L. - SCUOLA DI SPECIALIZZAZIONE IN PSICOTERAPIA) </title>
-			<description>ATTIVAZIONE TIROCINIO DELLE STUDENTESSE MELLONE MONICA E FORESTIERI SONIA, ALLIEVE DELLA SCUOLA IRIS (INSEGNAMENTO E RICERCA INDIVIDUO E SISTEMI S.R.L. - SCUOLA DI SPECIALIZZAZIONE IN PSICOTERAPIA) </description>
 			<a10:updated>2018-01-04T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
