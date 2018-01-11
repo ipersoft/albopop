@@ -5,7 +5,7 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/igrid/1233682</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Desio</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 10 Jan 2018 18:30:51 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 11 Jan 2018 08:30:51 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Desio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Desio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_desio</a10:id>
-		<pubDate>Wed, 10 Jan 2018 18:30:51 +0100</pubDate>
+		<pubDate>Thu, 11 Jan 2018 08:30:51 +0100</pubDate>
 		<docs>http://albopop.it/comune/desio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3789567</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3789567</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 11 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 26 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3789567</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
+			<title>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA LOMBARDIA IL RESPONSABILE DEL SETTORE </title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA LOMBARDIA IL RESPONSABILE DEL SETTORE </description>
+			<a10:updated>2018-01-11T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3788265</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3788265</link>
@@ -228,17 +239,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>AFFIDAMENTO ALL’AZIENDA SPECIALE CONSORTILE DESIO-BRIANZA DI SERVIZI RIVOLTI A SOGGETTI DISABILI, MINORI E FAMIGLIE – IMPEGNO DI SPESA ANNO 2018 - € 1.408.900,00 </title>
 			<description>AFFIDAMENTO ALL’AZIENDA SPECIALE CONSORTILE DESIO-BRIANZA DI SERVIZI RIVOLTI A SOGGETTI DISABILI, MINORI E FAMIGLIE – IMPEGNO DI SPESA ANNO 2018 - € 1.408.900,00 </description>
-			<a10:updated>2018-01-03T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3776928</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3776928</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 03 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 18 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3776928</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>LIQUIDAZIONE QUOTA PARTE DEL CONTRIBUTO PER I LAVORI DI REALIZZAZIONE METROTRANVIA MILANO PARCO NORD – SEREGNO </title>
-			<description>LIQUIDAZIONE QUOTA PARTE DEL CONTRIBUTO PER I LAVORI DI REALIZZAZIONE METROTRANVIA MILANO PARCO NORD – SEREGNO </description>
 			<a10:updated>2018-01-03T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

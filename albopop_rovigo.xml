@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 10 Jan 2018 18:31:46 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 11 Jan 2018 08:32:20 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Wed, 10 Jan 2018 18:31:46 +0100</pubDate>
+		<pubDate>Thu, 11 Jan 2018 08:32:20 +0100</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -275,17 +275,6 @@
 			<a10:updated>2018-01-09T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3153958</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3153958</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 09 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 10 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3153958</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE</category>
-			<title>AVVISO DI DEPOSITO ATTI NELLA CASA DEL COMUNE DEL 09/01/2017_DABIRE DABINE </title>
-			<description>AVVISO DI DEPOSITO ATTI NELLA CASA DEL COMUNE DEL 09/01/2017_DABIRE DABINE </description>
-			<a10:updated>2018-01-09T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3153897</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3153897</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 09 Jan 2018 01:00:00 +0100</category>
@@ -294,6 +283,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
 			<title>APPROVAZIONE ED IMPEGNO DI SPESA PER INDENNITA' DI ESPROPRIAZIONE NELL'AMBITO DELL'INTERVENTO DI REALIZZAZIONE ROTATORIA INTERSEZIONE VIALE TRE MARTIRI, VIA I. NIEVO, VIA DEI MILLE. CUP G11B17000300006 </title>
 			<description>APPROVAZIONE ED IMPEGNO DI SPESA PER INDENNITA' DI ESPROPRIAZIONE NELL'AMBITO DELL'INTERVENTO DI REALIZZAZIONE ROTATORIA INTERSEZIONE VIALE TRE MARTIRI, VIA I. NIEVO, VIA DEI MILLE. CUP G11B17000300006 </description>
+			<a10:updated>2018-01-09T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3153512</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3153512</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 09 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 17 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3153512</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE PUBBLICAZIONI MATRIMONIALI</category>
+			<title>PUBBLICAZIONE DI MATRIMONIO SANTI ENRICO MATTIA E ZAGATO ANNA </title>
+			<description>PUBBLICAZIONE DI MATRIMONIO SANTI ENRICO MATTIA E ZAGATO ANNA </description>
 			<a10:updated>2018-01-09T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
