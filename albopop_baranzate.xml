@@ -5,7 +5,7 @@
 		<link>http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Baranzate</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 11 Jan 2018 18:31:25 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 12 Jan 2018 08:30:53 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Baranzate</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Milano</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Baranzate</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_baranzate</a10:id>
-		<pubDate>Thu, 11 Jan 2018 18:31:25 +0100</pubDate>
+		<pubDate>Fri, 12 Jan 2018 08:30:53 +0100</pubDate>
 		<docs>http://albopop.it/comune/baranzate/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -75,17 +75,6 @@
 			<title>ISTITUZIONE DI DIVIETO DI SOSTA CON RIMOZIONE FORZATA IL 12 GENNAIO 2018 DALLE ORE 8.00 ALLE ORE 17.00, IN VIA F.LLI ROSSELLI 11 PER LAVORI EDILI. </title>
 			<description>ISTITUZIONE DI DIVIETO DI SOSTA CON RIMOZIONE FORZATA IL 12 GENNAIO 2018 DALLE ORE 8.00 ALLE ORE 17.00, IN VIA F.LLI ROSSELLI 11 PER LAVORI EDILI. </description>
 			<a10:updated>2018-01-11T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3788253</guid>
-			<link>http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3788253</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 10 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 11 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3788253</category>
-			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI </category>
-			<title>AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE N° EL 000130254 </title>
-			<description>AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE N° EL 000130254 </description>
-			<a10:updated>2018-01-10T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3786133</guid>
@@ -290,6 +279,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINA P.O. DETERMINA</category>
 			<title>CENTRO SPORTIVO COMUNALEMANUTENZIONE ORDINARIA ALLE TORRI FAROCIG: ZB621732BCAPPROVAZIONE INTERVENTO, IMPEGNO DI SPESA ED AFFIDAMENTO </title>
 			<description>CENTRO SPORTIVO COMUNALEMANUTENZIONE ORDINARIA ALLE TORRI FAROCIG: ZB621732BCAPPROVAZIONE INTERVENTO, IMPEGNO DI SPESA ED AFFIDAMENTO </description>
+			<a10:updated>2017-12-29T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3765648</guid>
+			<link>http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3765648</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 29 Dec 2017 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 13 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3765648</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINA P.O. DETERMINA</category>
+			<title>DOMANDA DI CONTRIBUTO PER IL SUPERAMENTO E L'ABBATTIMENTO DELLE BARRIERE ARCHITETTONICHE AI SENSI DELLA L. 09.01.1989 N. 13 E SS.MM. . ASSUNZIONE IMPEGNO DI SPESA FABBISOGNO COMPLESSIVO DELL'ENTE PER L'ANNO 2017 </title>
+			<description>DOMANDA DI CONTRIBUTO PER IL SUPERAMENTO E L'ABBATTIMENTO DELLE BARRIERE ARCHITETTONICHE AI SENSI DELLA L. 09.01.1989 N. 13 E SS.MM. . ASSUNZIONE IMPEGNO DI SPESA FABBISOGNO COMPLESSIVO DELL'ENTE PER L'ANNO 2017 </description>
 			<a10:updated>2017-12-29T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

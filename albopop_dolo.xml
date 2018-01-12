@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 11 Jan 2018 18:31:06 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 12 Jan 2018 08:30:43 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Thu, 11 Jan 2018 18:31:06 +0100</pubDate>
+		<pubDate>Fri, 12 Jan 2018 08:30:43 +0100</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3793221</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3793221</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 12 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 27 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3793221</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>SERVIZIO DI MANUTENZIONE SU EDIFICI, MANUFATTI ED AREE DI COMPETENZA COMUNALE. BIENNIO 2018/2019 – (OPERE DA IDRAULICO). AFFIDAMENTO ALLA DITTA F.LLI BOATO S.R.L. DI DOLO (VE). </title>
+			<description>SERVIZIO DI MANUTENZIONE SU EDIFICI, MANUFATTI ED AREE DI COMPETENZA COMUNALE. BIENNIO 2018/2019 – (OPERE DA IDRAULICO). AFFIDAMENTO ALLA DITTA F.LLI BOATO S.R.L. DI DOLO (VE). </description>
+			<a10:updated>2018-01-12T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3793041</guid>
 			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3793041</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">PERMESSI DI COSTRUIRE PERMESSO DI COSTRUIRE</category>
 			<title>AVVISO DI RILASCIO DI PERMESSO DI COSTRUIRE. </title>
 			<description>AVVISO DI RILASCIO DI PERMESSO DI COSTRUIRE. </description>
-			<a10:updated>2018-01-02T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3775010</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3775010</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 02 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 17 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3775010</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>PROROGA TEMPO UTILE INTERVENTO DI REALIZZAZIONE NUOVO BLOCCO OSSARI CIMITERO DI ARINO </title>
-			<description>PROROGA TEMPO UTILE INTERVENTO DI REALIZZAZIONE NUOVO BLOCCO OSSARI CIMITERO DI ARINO </description>
 			<a10:updated>2018-01-02T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
