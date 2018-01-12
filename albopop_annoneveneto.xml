@@ -5,7 +5,7 @@
 		<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Annone Veneto</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 12 Jan 2018 11:31:24 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 12 Jan 2018 12:31:05 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Annone Veneto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Annone Veneto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_annoneveneto</a10:id>
-		<pubDate>Fri, 12 Jan 2018 11:31:24 +0100</pubDate>
+		<pubDate>Fri, 12 Jan 2018 12:31:05 +0100</pubDate>
 		<docs>http://albopop.it/comune/annoneveneto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3794227</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3794227</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 12 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 27 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3794227</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>AFFIDAMENTO ALL'ARCH. MASIER LUCA DELL'INCARICO PER LO STUDIO DI FATTIBILITA' DI UN PERCORSO CICLO-TURISTICO LUNGO UN TRATTO DELLA S.P. 60. IMPEGNO DI SPESA </title>
+			<description>AFFIDAMENTO ALL'ARCH. MASIER LUCA DELL'INCARICO PER LO STUDIO DI FATTIBILITA' DI UN PERCORSO CICLO-TURISTICO LUNGO UN TRATTO DELLA S.P. 60. IMPEGNO DI SPESA </description>
+			<a10:updated>2018-01-12T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3794223</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3794223</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 12 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 27 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3794223</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>RIMBORSO SPESE PER IL GRUPPO COMUNALE VOLONTARI DELLA PROTEZIONE CIVILE - IMPEGNO DI SPESA </title>
+			<description>RIMBORSO SPESE PER IL GRUPPO COMUNALE VOLONTARI DELLA PROTEZIONE CIVILE - IMPEGNO DI SPESA </description>
+			<a10:updated>2018-01-12T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3794220</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3794220</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 12 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 27 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3794220</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>RIMBORSO SPESE PER IL GRUPPO COMUNALE VOLONTARI DELLA PROTEZIONE CIVILE - IMPEGNO DI SPESA </title>
+			<description>RIMBORSO SPESE PER IL GRUPPO COMUNALE VOLONTARI DELLA PROTEZIONE CIVILE - IMPEGNO DI SPESA </description>
+			<a10:updated>2018-01-12T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3794001</guid>
 			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3794001</link>
@@ -262,39 +295,6 @@
 			<title>FORNITURA ENERGIA ELETTRICA EDIFICI COMUNALI OTTOBRE-NOVEMBRE 2017 - LIQUIDAZIONE </title>
 			<description>FORNITURA ENERGIA ELETTRICA EDIFICI COMUNALI OTTOBRE-NOVEMBRE 2017 - LIQUIDAZIONE </description>
 			<a10:updated>2018-01-09T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3783431</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3783431</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 08 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 23 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3783431</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>LIQUIDAZIONE RETTA RICOVERO IN CASA DI RIPOSO SIG. P. R. – SETTEMBRE 2017 </title>
-			<description>LIQUIDAZIONE RETTA RICOVERO IN CASA DI RIPOSO SIG. P. R. – SETTEMBRE 2017 </description>
-			<a10:updated>2018-01-08T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3783428</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3783428</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 08 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 23 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3783428</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>LIQUIDAZIONE RETTA RICOVERO IN CASA DI RIPOSO SIG. P. R. – NOVEMBRE 2017 </title>
-			<description>LIQUIDAZIONE RETTA RICOVERO IN CASA DI RIPOSO SIG. P. R. – NOVEMBRE 2017 </description>
-			<a10:updated>2018-01-08T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3783053</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3783053</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 08 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 23 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3783053</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>CONTRIBUTI ECONOMICI ALLE FAMIGLIE PER IL PAGAMENTO DELLA TASSA SUI RIFIUTI (TARI) ANNO 2017 – ISTANZE IN DEROGA </title>
-			<description>CONTRIBUTI ECONOMICI ALLE FAMIGLIE PER IL PAGAMENTO DELLA TASSA SUI RIFIUTI (TARI) ANNO 2017 – ISTANZE IN DEROGA </description>
-			<a10:updated>2018-01-08T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
