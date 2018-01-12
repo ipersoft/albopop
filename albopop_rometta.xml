@@ -5,7 +5,7 @@
 		<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rometta</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 12 Jan 2018 12:31:41 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 12 Jan 2018 13:31:49 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rometta</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Messina</category>
@@ -16,11 +16,55 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rometta</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rometta</a10:id>
-		<pubDate>Fri, 12 Jan 2018 12:31:41 +0100</pubDate>
+		<pubDate>Fri, 12 Jan 2018 13:31:49 +0100</pubDate>
 		<docs>http://albopop.it/comune/rometta/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3794797</guid>
+			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3794797</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 12 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 27 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3794797</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
+			<title>FORNITURA GASOLIO DA RISCALDAMENTO IMPIANTI PLESSI SCOLASTICI - IMPEGNO SPESA E AFFIDAMENTO TRAMITE CONVENZIONE CONSIP. </title>
+			<description>FORNITURA GASOLIO DA RISCALDAMENTO IMPIANTI PLESSI SCOLASTICI - IMPEGNO SPESA E AFFIDAMENTO TRAMITE CONVENZIONE CONSIP. </description>
+			<a10:updated>2018-01-12T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3794795</guid>
+			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3794795</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 12 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 27 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3794795</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
+			<title>CONTRATTO DI TRANSAZIONE CON IL SIG BRIGUGLIO ANTONINO. LIQUIDAZIONE SOMME. </title>
+			<description>CONTRATTO DI TRANSAZIONE CON IL SIG BRIGUGLIO ANTONINO. LIQUIDAZIONE SOMME. </description>
+			<a10:updated>2018-01-12T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3794793</guid>
+			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3794793</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 12 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 27 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3794793</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
+			<title>SERVIZIO INVIO CORRISPONDENZA SMA - IMPEGNO SPESA E LIQUIDAZIONE </title>
+			<description>SERVIZIO INVIO CORRISPONDENZA SMA - IMPEGNO SPESA E LIQUIDAZIONE </description>
+			<a10:updated>2018-01-12T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3794791</guid>
+			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3794791</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 12 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 27 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3794791</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
+			<title>AREA BILANCIO E PROGRAMMAZIONE - PRENOTAZIONE IMPEGNO DI SPESA ECONOMALE ANNO 2018 </title>
+			<description>AREA BILANCIO E PROGRAMMAZIONE - PRENOTAZIONE IMPEGNO DI SPESA ECONOMALE ANNO 2018 </description>
+			<a10:updated>2018-01-12T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3790056</guid>
 			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3790056</link>
@@ -248,50 +292,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>FORNITURA SOFTWARE ED ASSISTENZA TECNICO INFORMATICA PC AREA TECNICA - DETERMINA A CONTRATTARE, IMPEGNO SPESA ED AFFIDAMENTO. </title>
 			<description>FORNITURA SOFTWARE ED ASSISTENZA TECNICO INFORMATICA PC AREA TECNICA - DETERMINA A CONTRATTARE, IMPEGNO SPESA ED AFFIDAMENTO. </description>
-			<a10:updated>2018-01-02T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3773274</guid>
-			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3773274</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 02 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 17 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3773274</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>AFFIDAMENTO INCARICO PROFESSIONALE MEDICO COMPETENTE AI SENSI DEL D.LGV. 81/08 E S.M.I. CIG: Z77218E0D9 </title>
-			<description>AFFIDAMENTO INCARICO PROFESSIONALE MEDICO COMPETENTE AI SENSI DEL D.LGV. 81/08 E S.M.I. CIG: Z77218E0D9 </description>
-			<a10:updated>2018-01-02T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3773272</guid>
-			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3773272</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 02 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 17 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3773272</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>AGGIORNAMENTO AUTOMATICO SU SERVER LOCALE E/O POSTAZIONE DI LAVORO - IMPEGNO SPESA E AFFIDAMENTO. </title>
-			<description>AGGIORNAMENTO AUTOMATICO SU SERVER LOCALE E/O POSTAZIONE DI LAVORO - IMPEGNO SPESA E AFFIDAMENTO. </description>
-			<a10:updated>2018-01-02T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3773270</guid>
-			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3773270</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 02 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 17 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3773270</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>TRIBUNALE DI MESSINA. OPPOSIZIONE DECRETO INGIUNTIVO PROMOSSO DA GRILLO DOMENICO TITOLARE DELL’OMONIMA DITTA. IMPEGNO SPESA A SEGUITO DI ACCORDO DI MEDIAZIONE. </title>
-			<description>TRIBUNALE DI MESSINA. OPPOSIZIONE DECRETO INGIUNTIVO PROMOSSO DA GRILLO DOMENICO TITOLARE DELL’OMONIMA DITTA. IMPEGNO SPESA A SEGUITO DI ACCORDO DI MEDIAZIONE. </description>
-			<a10:updated>2018-01-02T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3773268</guid>
-			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3773268</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 02 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 17 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3773268</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>SERVIZIO DI PRONTO INTERVENTO PER DISOTTURAZIONE POZZETTI E RETE FOGNARIA, IN VIA LIFIA, VESPUCCI, UMBERTO I° E SOTTOCASTELLO - CIG. Z17218CAE5 - IMPEGNO SPESA </title>
-			<description>SERVIZIO DI PRONTO INTERVENTO PER DISOTTURAZIONE POZZETTI E RETE FOGNARIA, IN VIA LIFIA, VESPUCCI, UMBERTO I° E SOTTOCASTELLO - CIG. Z17218CAE5 - IMPEGNO SPESA </description>
 			<a10:updated>2018-01-02T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
