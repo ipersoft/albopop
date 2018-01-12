@@ -5,7 +5,7 @@
 		<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Canosa di Puglia</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 12 Jan 2018 10:32:13 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 12 Jan 2018 11:32:03 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Canosa di Puglia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Barletta-Andria-Trani</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Canosa di Puglia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_canosadipuglia</a10:id>
-		<pubDate>Fri, 12 Jan 2018 10:32:13 +0100</pubDate>
+		<pubDate>Fri, 12 Jan 2018 11:32:03 +0100</pubDate>
 		<docs>http://albopop.it/comune/canosadipuglia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3794046</guid>
+			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3794046</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 12 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 27 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3794046</category>
+			<category domain="http://albopop.it/specs#item-category-type">DECRETI E ORDINANZE ORDINANZA DIRIGENZIALE</category>
+			<title>ORDINANZA REGOLAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE PER LAVORI DI EDILIZIA LIBERA IN VIA A. RACIOPPI DAL 18/01/2018 AL 18/03/2018. </title>
+			<description>ORDINANZA REGOLAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE PER LAVORI DI EDILIZIA LIBERA IN VIA A. RACIOPPI DAL 18/01/2018 AL 18/03/2018. </description>
+			<a10:updated>2018-01-12T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3791110</guid>
 			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3791110</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
 			<title>RATEIZZAZIONE AVVISO ACCERTAMENTO N. 1965 COD. UFF. 13335. </title>
 			<description>RATEIZZAZIONE AVVISO ACCERTAMENTO N. 1965 COD. UFF. 13335. </description>
-			<a10:updated>2018-01-09T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3783743</guid>
-			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3783743</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 09 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 24 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3783743</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
-			<title>RATEIZZAZIONE AVVISO ACCERTAMENTO N. 1061 IMU 2012 COD. UFF. 4214. </title>
-			<description>RATEIZZAZIONE AVVISO ACCERTAMENTO N. 1061 IMU 2012 COD. UFF. 4214. </description>
 			<a10:updated>2018-01-09T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
