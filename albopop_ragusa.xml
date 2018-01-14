@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 13 Jan 2018 18:31:29 +0100</lastBuildDate>
+		<lastBuildDate>Sun, 14 Jan 2018 08:31:23 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Sat, 13 Jan 2018 18:31:29 +0100</pubDate>
+		<pubDate>Sun, 14 Jan 2018 08:31:23 +0100</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -74,17 +74,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">AVVISO CARTELLA ESATTORIALE ART. 60 D.P.R. 600/73</category>
 			<title>PUBBLICAZIONE ART.60 A CARICO CASCONE SALVATORE &amp; C. SAS </title>
 			<description>PUBBLICAZIONE ART.60 A CARICO CASCONE SALVATORE &amp; C. SAS </description>
-			<a10:updated>2018-01-12T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3160509</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3160509</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 12 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 13 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3160509</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISO CARTELLE ESATTORIALI ART. 140</category>
-			<title>PUBBLICAZIONE ART.140 A CARICO DI PARISI MAURIZIO ED ALTRI </title>
-			<description>PUBBLICAZIONE ART.140 A CARICO DI PARISI MAURIZIO ED ALTRI </description>
 			<a10:updated>2018-01-12T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
@@ -294,6 +283,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
 			<title>AVVISO PUBBLICO AZIONE 4.1.3 - ASSE 4 "ENERGIA SOSTENIBILE E QUALITA' DELLA VITA" DEL PO FESR SICILIA 2014/2020. ADOZIONE DI SOLUZIONI TECNOLOGICHE PER LA RIDUZIONE DEI CONSUMI ENERGETICI DELLE RETI DI ILLUMINAZIONE PUBBLICA. NOMINA RUP, REO E COLLABORATORI. </title>
 			<description>AVVISO PUBBLICO AZIONE 4.1.3 - ASSE 4 "ENERGIA SOSTENIBILE E QUALITA' DELLA VITA" DEL PO FESR SICILIA 2014/2020. ADOZIONE DI SOLUZIONI TECNOLOGICHE PER LA RIDUZIONE DEI CONSUMI ENERGETICI DELLE RETI DI ILLUMINAZIONE PUBBLICA. NOMINA RUP, REO E COLLABORATORI. </description>
+			<a10:updated>2018-01-11T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3156605</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3156605</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 11 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 19 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3156605</category>
+			<category domain="http://albopop.it/specs#item-category-type">ACCERTAMENTO</category>
+			<title>PUBBLICAZIONE ART.60 A CARICO DI SITTINIERI GIUSEPPE </title>
+			<description>PUBBLICAZIONE ART.60 A CARICO DI SITTINIERI GIUSEPPE </description>
 			<a10:updated>2018-01-11T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

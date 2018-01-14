@@ -5,7 +5,7 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 13 Jan 2018 18:31:22 +0100</lastBuildDate>
+		<lastBuildDate>Sun, 14 Jan 2018 08:31:18 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Isernia</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>Sat, 13 Jan 2018 18:31:22 +0100</pubDate>
+		<pubDate>Sun, 14 Jan 2018 08:31:18 +0100</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -230,17 +230,6 @@
 			<a10:updated>2018-01-08T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3780069</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3780069</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 05 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 13 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3780069</category>
-			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO PUBBLICAZIONE DI MATRIMONIO</category>
-			<title>PUBBLICAZIONE DI MATRIMONIO DI TEANO MARCELLO E VILLARI MARTINA </title>
-			<description>PUBBLICAZIONE DI MATRIMONIO DI TEANO MARCELLO E VILLARI MARTINA </description>
-			<a10:updated>2018-01-05T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
 			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3779633</guid>
 			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3779633</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 04 Jan 2018 01:00:00 +0100</category>
@@ -293,6 +282,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZE</category>
 			<title>Divieto di sosta con rimozione forzata in C/so Garibaldi per l'esecuzione dei lavori di ammodernamento degli impianti di pubblica illuminazione, a far data dal 08.01.2018. </title>
 			<description>Divieto di sosta con rimozione forzata in C/so Garibaldi per l'esecuzione dei lavori di ammodernamento degli impianti di pubblica illuminazione, a far data dal 08.01.2018. </description>
+			<a10:updated>2018-01-03T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3776788</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3776788</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 03 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 18 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3776788</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZE</category>
+			<title>Divieto di transito temporaneo e di sosta con rimozione forzata in alcune vie e piazze cittadine per lo svolgimento della gara podistica non competitiva denominata "Correndo con la Befana 2018", il giorno 06 gennaio 2018. </title>
+			<description>Divieto di transito temporaneo e di sosta con rimozione forzata in alcune vie e piazze cittadine per lo svolgimento della gara podistica non competitiva denominata "Correndo con la Befana 2018", il giorno 06 gennaio 2018. </description>
 			<a10:updated>2018-01-03T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
