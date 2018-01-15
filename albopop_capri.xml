@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 15 Jan 2018 09:32:42 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 15 Jan 2018 10:37:56 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Mon, 15 Jan 2018 09:32:42 +0100</pubDate>
+		<pubDate>Mon, 15 Jan 2018 10:37:56 +0100</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3162367</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3162367</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 15 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 30 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3162367</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>INGIUNZIONE ALLA RIMOZIONE DI INSEGNA ABUSIVA IN PIAZZETTA I. CERIO - DITTA LOMAER S.A.S. </title>
+			<description>INGIUNZIONE ALLA RIMOZIONE DI INSEGNA ABUSIVA IN PIAZZETTA I. CERIO - DITTA LOMAER S.A.S. </description>
+			<a10:updated>2018-01-15T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3162292</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3162292</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 15 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 30 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3162292</category>
+			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
+			<title>CANONE CASELLA POSTALE APERTA PRESSO UFFICIO POSTALE DI CAPRI - ANNO 2017 - LIQUIDAZIONE FATTURA POSTE ITALIANE S.P.A. CIG: ZA01CD330D. </title>
+			<description>CANONE CASELLA POSTALE APERTA PRESSO UFFICIO POSTALE DI CAPRI - ANNO 2017 - LIQUIDAZIONE FATTURA POSTE ITALIANE S.P.A. CIG: ZA01CD330D. </description>
+			<a10:updated>2018-01-15T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3162057</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3162057</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DI CONSIGLIO DELIBERE DI CONSIGLIO</category>
 			<title>DEBITO FUORI BILANCIO - RICONOSCIMENTO </title>
 			<description>DEBITO FUORI BILANCIO - RICONOSCIMENTO </description>
-			<a10:updated>2018-01-10T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3155223</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3155223</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 10 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 25 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3155223</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DI CONSIGLIO DELIBERE DI CONSIGLIO</category>
-			<title>DEBITI FUORI BILANCIO, SIG.RA CACACE MARIA ROSARIA - RICONOSCIMENTO. </title>
-			<description>DEBITI FUORI BILANCIO, SIG.RA CACACE MARIA ROSARIA - RICONOSCIMENTO. </description>
-			<a10:updated>2018-01-10T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3155220</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3155220</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 10 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 25 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3155220</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DI CONSIGLIO DELIBERE DI CONSIGLIO</category>
-			<title>VARIAZIONE AL BILANCIO DI PREVISIONE 2017/2019 DELIBERA DI G.C. N. 205 DEL 28.11.2017 - RATIFICA </title>
-			<description>VARIAZIONE AL BILANCIO DI PREVISIONE 2017/2019 DELIBERA DI G.C. N. 205 DEL 28.11.2017 - RATIFICA </description>
 			<a10:updated>2018-01-10T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
