@@ -5,7 +5,7 @@
 		<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Canosa di Puglia</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 15 Jan 2018 12:31:55 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 15 Jan 2018 13:31:23 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Canosa di Puglia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Barletta-Andria-Trani</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Canosa di Puglia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_canosadipuglia</a10:id>
-		<pubDate>Mon, 15 Jan 2018 12:31:55 +0100</pubDate>
+		<pubDate>Mon, 15 Jan 2018 13:31:23 +0100</pubDate>
 		<docs>http://albopop.it/comune/canosadipuglia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3797663</guid>
+			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3797663</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 15 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 30 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3797663</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI E DEPOSITI RENDE NOTO</category>
+			<title>PERMESSO DI COSTRUIRE N.01 DEL 11/01/2018 RILASCIATO AL SIG. FIORAVANTE LUIGI IN QUALITA' DI LEGALE RAPPRESENTANTE DELLA DITTA "GI.SA. OLIVINICOLA S.N.C." PER LA VARIANTE AL PROGETTO PER LA COSTRUZIONE DI N. 2 OPIFICI INDUSTRIALI PER LA TRASFORMAZIONE BIOLOGICA E NON DI PRODOTTI AGRICOLI E DI UNA PALAZZINA UFFICI SITO IN CONTRADA "PIANA DEL SANGUE" NEL N.C.T. AL FG. 63 P.LLE 1204 E 1205 </title>
+			<description>PERMESSO DI COSTRUIRE N.01 DEL 11/01/2018 RILASCIATO AL SIG. FIORAVANTE LUIGI IN QUALITA' DI LEGALE RAPPRESENTANTE DELLA DITTA "GI.SA. OLIVINICOLA S.N.C." PER LA VARIANTE AL PROGETTO PER LA COSTRUZIONE DI N. 2 OPIFICI INDUSTRIALI PER LA TRASFORMAZIONE BIOLOGICA E NON DI PRODOTTI AGRICOLI E DI UNA PALAZZINA UFFICI SITO IN CONTRADA "PIANA DEL SANGUE" NEL N.C.T. AL FG. 63 P.LLE 1204 E 1205 </description>
+			<a10:updated>2018-01-15T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3795088</guid>
 			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3795088</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
 			<title>RATEIZZAZIONE AVVISO ACCERTAMENTO N. 1064 IMU 2012 COD. UFF. 4527. </title>
 			<description>RATEIZZAZIONE AVVISO ACCERTAMENTO N. 1064 IMU 2012 COD. UFF. 4527. </description>
-			<a10:updated>2018-01-09T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3783747</guid>
-			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3783747</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 09 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 24 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3783747</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
-			<title>RATEIZZAZIONE AVVISO ACCERTAMENTO N. 1037 IMU 2012 COD. UFF. 19164. </title>
-			<description>RATEIZZAZIONE AVVISO ACCERTAMENTO N. 1037 IMU 2012 COD. UFF. 19164. </description>
 			<a10:updated>2018-01-09T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

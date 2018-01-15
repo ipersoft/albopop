@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 15 Jan 2018 12:32:20 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 15 Jan 2018 13:31:37 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,43 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Mon, 15 Jan 2018 12:32:20 +0100</pubDate>
+		<pubDate>Mon, 15 Jan 2018 13:31:37 +0100</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3162997</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3162997</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 15 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3162997</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO PUBBLICAZIONE AVVISO</category>
+			<title>COMUNICAZIONE UFFICIO ANAGRAFE - ELEZIONI POLITICHE MARZO 2018 </title>
+			<description>COMUNICAZIONE UFFICIO ANAGRAFE - ELEZIONI POLITICHE MARZO 2018 </description>
+			<a10:updated>2018-01-15T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3162943</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3162943</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 15 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 30 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3162943</category>
+			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
+			<title>COMPARTECIPAZIONE TRASPORTO SCOLASTICO ALUNNI ISTITUTO AXEL MUNTHE – EROGAZIONE CONTRIBUTO ANNO SCOLASTICO 2017-2018 </title>
+			<description>COMPARTECIPAZIONE TRASPORTO SCOLASTICO ALUNNI ISTITUTO AXEL MUNTHE – EROGAZIONE CONTRIBUTO ANNO SCOLASTICO 2017-2018 </description>
+			<a10:updated>2018-01-15T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3162889</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3162889</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 15 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 30 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3162889</category>
+			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
+			<title>MAIONE WALLY C/ COMUNE DI CAPRI – APPELLO CAUTELARE DINANZI AL CONSIGLIO DI STATO AVVERSO L’ORDINANZA CAUTELARE DEL TAR CAMPANIA – NAPOLI N. 1882 DEL 29/11/2017 - COSTITUZIONE IN GIUDIZIO – LIQUIDAZIONE ACCONTO ALL’AVVOCATO RAFFAELLA VENIERO </title>
+			<description>MAIONE WALLY C/ COMUNE DI CAPRI – APPELLO CAUTELARE DINANZI AL CONSIGLIO DI STATO AVVERSO L’ORDINANZA CAUTELARE DEL TAR CAMPANIA – NAPOLI N. 1882 DEL 29/11/2017 - COSTITUZIONE IN GIUDIZIO – LIQUIDAZIONE ACCONTO ALL’AVVOCATO RAFFAELLA VENIERO </description>
+			<a10:updated>2018-01-15T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3162658</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3162658</link>
@@ -261,39 +293,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
 			<title>ARIA DI NATALE - INTEGRAZIONE PER SERVICE AUDIO - LUCI ED ELETTRICO EVENTI FESTIVITA' NATALIZIE. DITTA IMAGE DI CINQUE G. E MIRONE A. CIG. Z182160A35 </title>
 			<description>ARIA DI NATALE - INTEGRAZIONE PER SERVICE AUDIO - LUCI ED ELETTRICO EVENTI FESTIVITA' NATALIZIE. DITTA IMAGE DI CINQUE G. E MIRONE A. CIG. Z182160A35 </description>
-			<a10:updated>2018-01-10T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3155467</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3155467</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 10 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 31 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3155467</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISO PUBBLICAZIONE AVVISO</category>
-			<title>ELEZIONI POLITICHE 2018 - AVVISO ELETTORI TEMPORANEAMENTE ALL'ESTERO </title>
-			<description>ELEZIONI POLITICHE 2018 - AVVISO ELETTORI TEMPORANEAMENTE ALL'ESTERO </description>
-			<a10:updated>2018-01-10T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3155464</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3155464</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 10 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 25 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3155464</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
-			<title>ARIA DI NATALE - SERVICE AUDIO - LUCI ED ELETTRICO EVENTI 27,28, 29 DICEMBRE 2017 LIQUIDAZIONE FATTURA IN FAVORE DELLA DITTA IMAGE DI CINQUE G. E MIRONE A. CIG. Z182160A35 </title>
-			<description>ARIA DI NATALE - SERVICE AUDIO - LUCI ED ELETTRICO EVENTI 27,28, 29 DICEMBRE 2017 LIQUIDAZIONE FATTURA IN FAVORE DELLA DITTA IMAGE DI CINQUE G. E MIRONE A. CIG. Z182160A35 </description>
-			<a10:updated>2018-01-10T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3155462</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3155462</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 10 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 25 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3155462</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DI CONSIGLIO DELIBERE DI CONSIGLIO</category>
-			<title>VARIAZIONE AL BILANCIO DI PREVISIONE 2017/2019 DELIBERA G.C. N. 190 DEL 10.11.2017 - RATIFICA </title>
-			<description>VARIAZIONE AL BILANCIO DI PREVISIONE 2017/2019 DELIBERA G.C. N. 190 DEL 10.11.2017 - RATIFICA </description>
 			<a10:updated>2018-01-10T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
