@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 16 Jan 2018 15:31:41 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 16 Jan 2018 16:31:27 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Tue, 16 Jan 2018 15:31:41 +0100</pubDate>
+		<pubDate>Tue, 16 Jan 2018 16:31:27 +0100</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3165707</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3165707</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 16 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 16 Jan 2019 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3165707</category>
+			<category domain="http://albopop.it/specs#item-category-type">AUTORIZZAZIONI PAESAGGISTICHE AUTORIZZAZIONI PAESAGGISTICHE</category>
+			<title>TABELLA AUTORIZZAZIONI PAESAGGISTICHE GENNAIO 2018 </title>
+			<description>TABELLA AUTORIZZAZIONI PAESAGGISTICHE GENNAIO 2018 </description>
+			<a10:updated>2018-01-16T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3165632</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3165632</link>
@@ -283,17 +294,6 @@
 			<title>AVVISO DI DEPOSITO DI N.2 ATTI NELLA CASA COMUNALE </title>
 			<description>AVVISO DI DEPOSITO DI N.2 ATTI NELLA CASA COMUNALE </description>
 			<a10:updated>2018-01-12T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3159061</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3159061</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 11 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 26 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3159061</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
-			<title>LIQUIDAZIONE COMPENSO REVISORE DEI CONTI - SALDO ANNO 2017 </title>
-			<description>LIQUIDAZIONE COMPENSO REVISORE DEI CONTI - SALDO ANNO 2017 </description>
-			<a10:updated>2018-01-11T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
