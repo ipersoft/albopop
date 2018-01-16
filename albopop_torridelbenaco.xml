@@ -5,7 +5,7 @@
 		<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Torri del Benaco</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 16 Jan 2018 11:31:23 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 16 Jan 2018 13:31:44 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Torri del Benaco</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Verona</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Torri del Benaco</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_torridelbenaco</a10:id>
-		<pubDate>Tue, 16 Jan 2018 11:31:23 +0100</pubDate>
+		<pubDate>Tue, 16 Jan 2018 13:31:44 +0100</pubDate>
 		<docs>http://albopop.it/comune/torridelbenaco/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3800550</guid>
+			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3800550</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 16 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 31 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3800550</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PERMESSO DI COSTRUIRE</category>
+			<title>AVVISO RILASCIO PERMESSO DI COSTRUIRE N.224/2017 DITTA HOTEL PALME SRL </title>
+			<description>AVVISO RILASCIO PERMESSO DI COSTRUIRE N.224/2017 DITTA HOTEL PALME SRL </description>
+			<a10:updated>2018-01-16T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3798390</guid>
 			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3798390</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISO 30 GIORNI</category>
 			<title>ELEZIONI POLITICHE DI DOMENICA 4 MARZO 2018. MODELLO DI OPZIONE PER IL VOTO PER CORRISPONDENZA PER GLI ELETTORI TEMPORANEAMENTE ALL'ESTERO DA PRESENTARE ENTRO IL 31 GENNAIO 2018. </title>
 			<description>ELEZIONI POLITICHE DI DOMENICA 4 MARZO 2018. MODELLO DI OPZIONE PER IL VOTO PER CORRISPONDENZA PER GLI ELETTORI TEMPORANEAMENTE ALL'ESTERO DA PRESENTARE ENTRO IL 31 GENNAIO 2018. </description>
-			<a10:updated>2018-01-10T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3786600</guid>
-			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3786600</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 10 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 30 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3786600</category>
-			<category domain="http://albopop.it/specs#item-category-type">CONCORSI PUBBLICI AVVISI DI MOBILITA'</category>
-			<title>AVVISO DI MOBILITÀ ESTERNA PER LA COPERTURA DI UN POSTO DI ISTRUTTORE CONTABILE - AREA ECONOMICO-FINANZIARIAA TEMPO PIENO ED INDETERMINATO CATEGORIA C </title>
-			<description>AVVISO DI MOBILITÀ ESTERNA PER LA COPERTURA DI UN POSTO DI ISTRUTTORE CONTABILE - AREA ECONOMICO-FINANZIARIAA TEMPO PIENO ED INDETERMINATO CATEGORIA C </description>
 			<a10:updated>2018-01-10T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
