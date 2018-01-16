@@ -5,7 +5,7 @@
 		<link>http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Baranzate</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 16 Jan 2018 17:31:29 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 16 Jan 2018 18:30:49 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Baranzate</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Milano</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Baranzate</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_baranzate</a10:id>
-		<pubDate>Tue, 16 Jan 2018 17:31:29 +0100</pubDate>
+		<pubDate>Tue, 16 Jan 2018 18:30:49 +0100</pubDate>
 		<docs>http://albopop.it/comune/baranzate/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -108,6 +108,17 @@
 			<title>RICHIESTA DI ASSEGNAZIONE IN COMANDO TEMPORANEO DELL'EX DIPENDENTE SIG. F.B.. </title>
 			<description>RICHIESTA DI ASSEGNAZIONE IN COMANDO TEMPORANEO DELL'EX DIPENDENTE SIG. F.B.. </description>
 			<a10:updated>2018-01-05T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3801551</guid>
+			<link>http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3801551</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 16 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 31 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3801551</category>
+			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI </category>
+			<title>ISTITUZIONE DI UN SENSO UNICO ALTERNATO IN VIA SAURO, CON PROSECUZIONE IN VIA DON UBOLDI DEL COMUNE DI BOLLATE, A PARTIRE DALLE ORE 20.00 DEL 18 GENNAIO 2018 FINO A FINE LAVORI </title>
+			<description>ISTITUZIONE DI UN SENSO UNICO ALTERNATO IN VIA SAURO, CON PROSECUZIONE IN VIA DON UBOLDI DEL COMUNE DI BOLLATE, A PARTIRE DALLE ORE 20.00 DEL 18 GENNAIO 2018 FINO A FINE LAVORI </description>
+			<a10:updated>2018-01-16T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3796517</guid>
@@ -279,17 +290,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERA DELIBERA CONSIGLIO</category>
 			<title>MOZIONE PRESENTATA DAI CONSIGLIERI DEL GRUPPO CONSILIARE INSIEME PER BARANZATE FRANCO CESARATTO, VANESSA NICOLINI, MANUELA OCCHIPINTI E PIETRO PRISCIANDARO PER LA FORMAZIONE PARCHEGGI IN VIA N. SAURO </title>
 			<description>MOZIONE PRESENTATA DAI CONSIGLIERI DEL GRUPPO CONSILIARE INSIEME PER BARANZATE FRANCO CESARATTO, VANESSA NICOLINI, MANUELA OCCHIPINTI E PIETRO PRISCIANDARO PER LA FORMAZIONE PARCHEGGI IN VIA N. SAURO </description>
-			<a10:updated>2018-01-11T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3789810</guid>
-			<link>http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3789810</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 11 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 26 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3789810</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERA DELIBERA CONSIGLIO</category>
-			<title>LEGGE REGIONALE N. 7 DEL 2017 E SS.MM. - APPROVAZIONE DELL'ELABORATO DI DEFINIZIONE DEL CALCOLO DELLA SLP PER LE STRUTTURE RICETTIVE ALBERGHIERE COSTITUENTE ALLEGATO AL DOCUMENTO PGT 02 - DEFINIZIONI GENERALI DEL P.G.T. . </title>
-			<description>LEGGE REGIONALE N. 7 DEL 2017 E SS.MM. - APPROVAZIONE DELL'ELABORATO DI DEFINIZIONE DEL CALCOLO DELLA SLP PER LE STRUTTURE RICETTIVE ALBERGHIERE COSTITUENTE ALLEGATO AL DOCUMENTO PGT 02 - DEFINIZIONI GENERALI DEL P.G.T. . </description>
 			<a10:updated>2018-01-11T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
