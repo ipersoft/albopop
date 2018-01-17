@@ -5,7 +5,7 @@
 		<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Annone Veneto</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 17 Jan 2018 11:30:57 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 17 Jan 2018 12:30:55 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Annone Veneto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Annone Veneto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_annoneveneto</a10:id>
-		<pubDate>Wed, 17 Jan 2018 11:30:57 +0100</pubDate>
+		<pubDate>Wed, 17 Jan 2018 12:30:55 +0100</pubDate>
 		<docs>http://albopop.it/comune/annoneveneto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3803020</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3803020</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 17 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 01 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3803020</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI CONSIGLIO</category>
+			<title>CONVENZIONE TRA LA CITTA' METROPOLITANA DI VENEZIA E IL COMUNE DI ANNONE VENETO PER L'AVVIO DEL SIT METROPOLITANO </title>
+			<description>CONVENZIONE TRA LA CITTA' METROPOLITANA DI VENEZIA E IL COMUNE DI ANNONE VENETO PER L'AVVIO DEL SIT METROPOLITANO </description>
+			<a10:updated>2018-01-17T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3803016</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3803016</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 17 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 01 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3803016</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI CONSIGLIO</category>
+			<title>APPROVAZIONE DEL BILANCIO DI PREVISIONE 2018/2020 E DEI RELATIVI ALLEGATI. </title>
+			<description>APPROVAZIONE DEL BILANCIO DI PREVISIONE 2018/2020 E DEI RELATIVI ALLEGATI. </description>
+			<a10:updated>2018-01-17T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3802750</guid>
 			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3802750</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI AVVISO</category>
 			<title>AVVISO PER PER LA CONCESSIONE IN USO GRATUITO DI LOCALI COMUNALI </title>
 			<description>AVVISO PER PER LA CONCESSIONE IN USO GRATUITO DI LOCALI COMUNALI </description>
-			<a10:updated>2018-01-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3800734</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3800734</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 16 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 31 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3800734</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>IVALDIPROROGA APPALTO PER LA GESTIONE DEI SERVIZI CIMITERIALI COMUNALI FINO AL 31.12.2017 - IMPEGNO DI SPESA </title>
-			<description>IVALDIPROROGA APPALTO PER LA GESTIONE DEI SERVIZI CIMITERIALI COMUNALI FINO AL 31.12.2017 - IMPEGNO DI SPESA </description>
-			<a10:updated>2018-01-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3800731</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3800731</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 16 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 31 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3800731</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>RESOCONTOQUOTA PER ISCRIZIONE AL SEMINARIO DI FORMAZIONE "LE ATTIVITÀ DI PUBBLICO SPETTACOLO ALLA LUCE DELLA CIRCOLARE 555/OP/0001991/2014/1". IMPEGNO DI SPESA </title>
-			<description>RESOCONTOQUOTA PER ISCRIZIONE AL SEMINARIO DI FORMAZIONE "LE ATTIVITÀ DI PUBBLICO SPETTACOLO ALLA LUCE DELLA CIRCOLARE 555/OP/0001991/2014/1". IMPEGNO DI SPESA </description>
 			<a10:updated>2018-01-16T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
