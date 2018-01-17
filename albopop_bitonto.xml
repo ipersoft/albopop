@@ -5,7 +5,7 @@
 		<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bitonto</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 17 Jan 2018 17:30:34 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 17 Jan 2018 18:30:42 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bitonto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Bari</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bitonto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bitonto</a10:id>
-		<pubDate>Wed, 17 Jan 2018 17:30:34 +0100</pubDate>
+		<pubDate>Wed, 17 Jan 2018 18:30:42 +0100</pubDate>
 		<docs>http://albopop.it/comune/bitonto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3804519</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3804519</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 17 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 01 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3804519</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI RESPONSABILI DEI SERVIZI (DAL 6-03-2015) 10 - SERVIZIO CULTURA, BENI STORICI, PARTECIPAZIONE ATTIVA</category>
+			<title>SERVIZIO DI SUPPORTO TECNICO PER RENDICONTAZIONE DI PROGETTI FINANZIATI DALLA REGIONE PUGLIA - FONDI EUROPEI. AFFIDAMENTO COOP EOS CIG N. ZA2214095C. </title>
+			<description>SERVIZIO DI SUPPORTO TECNICO PER RENDICONTAZIONE DI PROGETTI FINANZIATI DALLA REGIONE PUGLIA - FONDI EUROPEI. AFFIDAMENTO COOP EOS CIG N. ZA2214095C. </description>
+			<a10:updated>2018-01-17T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3804427</guid>
 			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3804427</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERA DI GIUNTA</category>
 			<title>ATTO DI CITAZIONE IN OPPOSIZIONE AD INGIUNZIONE FISCALE DI PAGAMENTO DINANZI AL G.D.P. DI BARI DA PARTE DI BANCO DI NAPOLI S.P.A. RESISTENZA IN GIUDIZIO. </title>
 			<description>ATTO DI CITAZIONE IN OPPOSIZIONE AD INGIUNZIONE FISCALE DI PAGAMENTO DINANZI AL G.D.P. DI BARI DA PARTE DI BANCO DI NAPOLI S.P.A. RESISTENZA IN GIUDIZIO. </description>
-			<a10:updated>2018-01-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3799971</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3799971</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 16 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 30 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3799971</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERA DI GIUNTA</category>
-			<title>ESERCIZIO PROVVISORIO. PRELEVAMENTO DAL FONDO DI RISERVA PER L’ANNO 2018 (ARTT. 166 E 176, D.LGS. 18 AGOSTO 2000, N. 267). </title>
-			<description>ESERCIZIO PROVVISORIO. PRELEVAMENTO DAL FONDO DI RISERVA PER L’ANNO 2018 (ARTT. 166 E 176, D.LGS. 18 AGOSTO 2000, N. 267). </description>
 			<a10:updated>2018-01-16T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
