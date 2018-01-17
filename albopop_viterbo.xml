@@ -5,7 +5,7 @@
 		<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Viterbo</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 17 Jan 2018 09:31:03 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 17 Jan 2018 10:31:34 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Viterbo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Viterbo</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Viterbo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_viterbo</a10:id>
-		<pubDate>Wed, 17 Jan 2018 09:31:03 +0100</pubDate>
+		<pubDate>Wed, 17 Jan 2018 10:31:34 +0100</pubDate>
 		<docs>http://albopop.it/comune/viterbo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3802273</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3802273</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 17 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 01 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3802273</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI </category>
+			<title>VINCOLO IDROGEOLOGICO RELATIVO ALLARICHIESTA DI AUTORIZZAZIONE ALLO SCARICO DI REFLUI DOMESTICI CON SUBIRRIGAZIONE PRESENTATO DAL SIG. COLESANTI LUIGI. </title>
+			<description>VINCOLO IDROGEOLOGICO RELATIVO ALLARICHIESTA DI AUTORIZZAZIONE ALLO SCARICO DI REFLUI DOMESTICI CON SUBIRRIGAZIONE PRESENTATO DAL SIG. COLESANTI LUIGI. </description>
+			<a10:updated>2018-01-17T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3802270</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3802270</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 17 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 01 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3802270</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI </category>
+			<title>VINCOLO IDROGEOLOGICO RELATIVO ALLA REALIZZAZIONE, IN SANATORIA, DI UNA PISCINA PRESENTATO DAL SIG. SENSI MASSIMILIANO. </title>
+			<description>VINCOLO IDROGEOLOGICO RELATIVO ALLA REALIZZAZIONE, IN SANATORIA, DI UNA PISCINA PRESENTATO DAL SIG. SENSI MASSIMILIANO. </description>
+			<a10:updated>2018-01-17T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3802119</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3802119</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 17 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 01 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3802119</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE ORDINANZA DIRIGENZIALE</category>
+			<title>ISTITUZIONE DI DIVIETO DI SOSTA CON RIMOZIONE COATTIVA PER LAVORI DI SEGNALETICA STRADALE </title>
+			<description>ISTITUZIONE DI DIVIETO DI SOSTA CON RIMOZIONE COATTIVA PER LAVORI DI SEGNALETICA STRADALE </description>
+			<a10:updated>2018-01-17T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3801820</guid>
 			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3801820</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
 			<title>SISTEMAZIONE URGENTE SACELLO DEI CADUTI </title>
 			<description>SISTEMAZIONE URGENTE SACELLO DEI CADUTI </description>
-			<a10:updated>2018-01-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3799879</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3799879</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 16 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 31 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3799879</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
-			<title>PARROCCHIA S.GIOVANNI BATTISTA - PARTECIPAZIONE ALLA SPESA PER EVENTI NATALIZI, IN COLLABORAZIONE CON IL CENTRO POLIVALENTE TERZA ETA' " LA TORRE" BAGNAIA. </title>
-			<description>PARROCCHIA S.GIOVANNI BATTISTA - PARTECIPAZIONE ALLA SPESA PER EVENTI NATALIZI, IN COLLABORAZIONE CON IL CENTRO POLIVALENTE TERZA ETA' " LA TORRE" BAGNAIA. </description>
-			<a10:updated>2018-01-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3799877</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3799877</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 16 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 31 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3799877</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
-			<title>AVIS - PARTECIPAZIONE ALLA SPESA PER " VEGLIONE DEL DONATORE 2017 -IN COLLABORAZIONE CON IL CENTRO POLIVALENTE TERZA ETA' S.BARBARA . </title>
-			<description>AVIS - PARTECIPAZIONE ALLA SPESA PER " VEGLIONE DEL DONATORE 2017 -IN COLLABORAZIONE CON IL CENTRO POLIVALENTE TERZA ETA' S.BARBARA . </description>
-			<a10:updated>2018-01-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3799873</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3799873</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 16 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 31 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3799873</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
-			<title>INIZIATIVE VOLTE ALLA VALORIZZAZIONE DEGLI ELEMENTI CULTURALI PRESENTI NELLE FRAZIONI ANNUALITA' 2017. IMPEGNO DI SPESA </title>
-			<description>INIZIATIVE VOLTE ALLA VALORIZZAZIONE DEGLI ELEMENTI CULTURALI PRESENTI NELLE FRAZIONI ANNUALITA' 2017. IMPEGNO DI SPESA </description>
 			<a10:updated>2018-01-16T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
