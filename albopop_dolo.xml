@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 16 Jan 2018 18:30:40 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 17 Jan 2018 08:30:47 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Tue, 16 Jan 2018 18:30:40 +0100</pubDate>
+		<pubDate>Wed, 17 Jan 2018 08:30:47 +0100</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3801845</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3801845</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 17 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 01 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3801845</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>LIQUIDAZIONE FATTURA N. 12/02 DEL 15/12/2017. DITTA F.LLI BOATO S.R.L. DI DOLO (VE). </title>
+			<description>LIQUIDAZIONE FATTURA N. 12/02 DEL 15/12/2017. DITTA F.LLI BOATO S.R.L. DI DOLO (VE). </description>
+			<a10:updated>2018-01-17T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3801843</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3801843</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 17 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 01 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3801843</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>IMPEGNO E LIQUIDAZIONE CONTRIBUTO ANAC NUMERO GARA 5435271 </title>
+			<description>IMPEGNO E LIQUIDAZIONE CONTRIBUTO ANAC NUMERO GARA 5435271 </description>
+			<a10:updated>2018-01-17T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3801840</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3801840</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 17 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 01 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3801840</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>IMPEGNO PER CANONE DI SERVIZIO DI IGIENE URBANA, SPAZZAMENTO, DERATTIZZAZIONE, DISINFESTAZIONE, TRATTAMENTO-SMALTIMENTO R.S.U. ANNO 2018 - VERITAS S.P.A. </title>
+			<description>IMPEGNO PER CANONE DI SERVIZIO DI IGIENE URBANA, SPAZZAMENTO, DERATTIZZAZIONE, DISINFESTAZIONE, TRATTAMENTO-SMALTIMENTO R.S.U. ANNO 2018 - VERITAS S.P.A. </description>
+			<a10:updated>2018-01-17T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3801513</guid>
 			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3801513</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>DELIBERAZIONE DI GIUNTA REGIONALE VENETO N. 1858/2015. PROROGA DEL TERMINE DI ULTIMAZIONE DEI LAVORI PER LA REALIZZAZIONE DI INTERVENTI DI RIPRISTINO DEI DANNI DELLE ABITAZIONI A SEGUITO DEGLI EVENTI ATMOSFERICI ECCEZIONALI DEL 08/07/2015 CHE HANNO COLPITO IL TERRITORIO DELLA RIVIERA DEL BRENTA; ANTONIO PIVA E AMEDEO PIVA IN QUALITÀ DI SOCI DELLA DITTA DUEPI S.N.C. – ID: 196 – (DOMANDA DI CONTRIBUTO PROT. 5211 DEL 26/02/16). </title>
 			<description>DELIBERAZIONE DI GIUNTA REGIONALE VENETO N. 1858/2015. PROROGA DEL TERMINE DI ULTIMAZIONE DEI LAVORI PER LA REALIZZAZIONE DI INTERVENTI DI RIPRISTINO DEI DANNI DELLE ABITAZIONI A SEGUITO DEGLI EVENTI ATMOSFERICI ECCEZIONALI DEL 08/07/2015 CHE HANNO COLPITO IL TERRITORIO DELLA RIVIERA DEL BRENTA; ANTONIO PIVA E AMEDEO PIVA IN QUALITÀ DI SOCI DELLA DITTA DUEPI S.N.C. – ID: 196 – (DOMANDA DI CONTRIBUTO PROT. 5211 DEL 26/02/16). </description>
-			<a10:updated>2018-01-12T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3794563</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3794563</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 12 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 27 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3794563</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>IMPEGNO DI SPESA PER TRASFERIMENTO SOMME ALL’ISTITUTO COMPRENSIVO DI DOLO PER SPESE FUNZIONAMENTO UFFICI ANNO 2018 </title>
-			<description>IMPEGNO DI SPESA PER TRASFERIMENTO SOMME ALL’ISTITUTO COMPRENSIVO DI DOLO PER SPESE FUNZIONAMENTO UFFICI ANNO 2018 </description>
-			<a10:updated>2018-01-12T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3794011</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3794011</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 12 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 27 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3794011</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
-			<title>IRROGAZIONE DELLA SANZIONE PECUNIARIA AI SENSI DELL’ARTICOLO 37 DEL DPR 380/2001. </title>
-			<description>IRROGAZIONE DELLA SANZIONE PECUNIARIA AI SENSI DELL’ARTICOLO 37 DEL DPR 380/2001. </description>
-			<a10:updated>2018-01-12T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3793846</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3793846</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 12 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 27 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3793846</category>
-			<category domain="http://albopop.it/specs#item-category-type">PERMESSI DI COSTRUIRE PERMESSO DI COSTRUIRE</category>
-			<title>AVVISO DI RILASCIO DI PERMESSO DI COSTRUIRE. </title>
-			<description>AVVISO DI RILASCIO DI PERMESSO DI COSTRUIRE. </description>
 			<a10:updated>2018-01-12T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
