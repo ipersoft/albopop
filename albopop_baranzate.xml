@@ -5,7 +5,7 @@
 		<link>http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Baranzate</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 17 Jan 2018 12:30:58 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 17 Jan 2018 13:30:46 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Baranzate</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Milano</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Baranzate</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_baranzate</a10:id>
-		<pubDate>Wed, 17 Jan 2018 12:30:58 +0100</pubDate>
+		<pubDate>Wed, 17 Jan 2018 13:30:46 +0100</pubDate>
 		<docs>http://albopop.it/comune/baranzate/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3803420</guid>
+			<link>http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3803420</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 17 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 01 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3803420</category>
+			<category domain="http://albopop.it/specs#item-category-type">DELIBERA DELIBERA GIUNTA</category>
+			<title>CONCESSIONE CONTRIBUTO ECONOMICO ALL'ASSOCIAZIONE SPORTIVA DILETTANTISTICA GRUPPO DEL CAMMINO DI BARANZATE </title>
+			<description>CONCESSIONE CONTRIBUTO ECONOMICO ALL'ASSOCIAZIONE SPORTIVA DILETTANTISTICA GRUPPO DEL CAMMINO DI BARANZATE </description>
+			<a10:updated>2018-01-17T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3793441</guid>
 			<link>http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3793441</link>
@@ -280,17 +291,6 @@
 			<title>ESTENSIONE AL TERRITORIO DELLA CITTA' METROPOLITANA DI MILANO DEL SERVIZIO DI BIKE SHARING - APPROVAZIONE SCHEMA DI ACCORDO OPERATIVO </title>
 			<description>ESTENSIONE AL TERRITORIO DELLA CITTA' METROPOLITANA DI MILANO DEL SERVIZIO DI BIKE SHARING - APPROVAZIONE SCHEMA DI ACCORDO OPERATIVO </description>
 			<a10:updated>2018-01-05T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3789816</guid>
-			<link>http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3789816</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 11 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 26 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3789816</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERA DELIBERA CONSIGLIO</category>
-			<title>RISPOSTA ALL' INTERROGAZIONE AI SENSI DEGLI ARTT. 58 E 59 DEL REGOLAMENTO DEL CONSIGLIO COMUNALE </title>
-			<description>RISPOSTA ALL' INTERROGAZIONE AI SENSI DEGLI ARTT. 58 E 59 DEL REGOLAMENTO DEL CONSIGLIO COMUNALE </description>
-			<a10:updated>2018-01-11T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
