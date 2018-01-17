@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 17 Jan 2018 08:30:37 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 17 Jan 2018 09:30:51 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Wed, 17 Jan 2018 08:30:37 +0100</pubDate>
+		<pubDate>Wed, 17 Jan 2018 09:30:51 +0100</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3801899</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3801899</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 17 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 06 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3801899</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI DEPOSITO - ART. 143 C.P.C.</category>
+			<title>MESSO COMUNALE: NOTIFICA N. 20/2018 DEL 17/01/2018 DI QADAR ALTAF </title>
+			<description>MESSO COMUNALE: NOTIFICA N. 20/2018 DEL 17/01/2018 DI QADAR ALTAF </description>
+			<a10:updated>2018-01-17T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3800635</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3800635</link>
@@ -280,17 +291,6 @@
 			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 10 Jan 2018 01:00:00 +0100</category>
 			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 23 Feb 2018 01:00:00 +0100</category>
 			<category domain="http://albopop.it/specs#item-category-uid">3786741</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI AVVISO</category>
-			<title>ACB INVIO MASSIVO DI BANDI COMUNE DI BORGOSATOLLO - COMUNE DI BORGO SAN GIACOMO - COMUNE DI RONCADELLE </title>
-			<description>ACB INVIO MASSIVO DI BANDI COMUNE DI BORGOSATOLLO - COMUNE DI BORGO SAN GIACOMO - COMUNE DI RONCADELLE </description>
-			<a10:updated>2018-01-10T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3786740</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3786740</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 10 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 29 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3786740</category>
 			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI AVVISO</category>
 			<title>ACB INVIO MASSIVO DI BANDI COMUNE DI BORGOSATOLLO - COMUNE DI BORGO SAN GIACOMO - COMUNE DI RONCADELLE </title>
 			<description>ACB INVIO MASSIVO DI BANDI COMUNE DI BORGOSATOLLO - COMUNE DI BORGO SAN GIACOMO - COMUNE DI RONCADELLE </description>
