@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 18 Jan 2018 15:31:37 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 18 Jan 2018 16:32:06 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Thu, 18 Jan 2018 15:31:37 +0100</pubDate>
+		<pubDate>Thu, 18 Jan 2018 16:32:06 +0100</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3170142</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3170142</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 18 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 05 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3170142</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO AVVISO PUBBLICO</category>
+			<title>MANIFESTAZIONE DI INTERESSE- AVVISO PUBBLICO- ELENCO LOTTI PASCOLIVI 2018 </title>
+			<description>MANIFESTAZIONE DI INTERESSE- AVVISO PUBBLICO- ELENCO LOTTI PASCOLIVI 2018 </description>
+			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3169715</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3169715</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI GIUNTA</category>
 			<title>DEL. G.M. N° 01/18 - ATTO DI CITAZIONE PER RISARCIMENTO DANNI AVANTI AL GIUDICE DI PACE DI RAGUSA. SIG. BOCCHIERI GIUSEPPE / COMUNE DI RAGUSA - AUTORIZZAZIONE A STARE IN GIUDIZIO. </title>
 			<description>DEL. G.M. N° 01/18 - ATTO DI CITAZIONE PER RISARCIMENTO DANNI AVANTI AL GIUDICE DI PACE DI RAGUSA. SIG. BOCCHIERI GIUSEPPE / COMUNE DI RAGUSA - AUTORIZZAZIONE A STARE IN GIUDIZIO. </description>
-			<a10:updated>2018-01-17T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3166665</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3166665</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 17 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 24 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3166665</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
-			<title>LIQUIDAZIONE SENTENZA N. 322/17 – GIUDIZIO GIUDICE DI PACE DI RAGUSA N. 757/2014 R.G. SIG. RA TICLI CARMELA / COMUNE DI RAGUSA. </title>
-			<description>LIQUIDAZIONE SENTENZA N. 322/17 – GIUDIZIO GIUDICE DI PACE DI RAGUSA N. 757/2014 R.G. SIG. RA TICLI CARMELA / COMUNE DI RAGUSA. </description>
 			<a10:updated>2018-01-17T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
