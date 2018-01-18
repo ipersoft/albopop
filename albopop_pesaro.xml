@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 17 Jan 2018 18:30:56 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 18 Jan 2018 08:31:01 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Wed, 17 Jan 2018 18:30:56 +0100</pubDate>
+		<pubDate>Thu, 18 Jan 2018 08:31:01 +0100</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -31,6 +31,16 @@
 			<title>VIA MASTROGIORGIO - CARICO E SCARICO - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI </title>
 			<description>VIA MASTROGIORGIO - CARICO E SCARICO - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI </description>
 			<a10:updated>2018-01-17T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/862756</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/862756</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 18 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">862756</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISI E MANIFESTI ELETTORALI</category>
+			<title>ELEZIONI POLITICHE DEL 04/03/2018 - MANIFESTO DI CONVOCAZIONE DEI COMIZI ELETTORALI </title>
+			<description>ELEZIONI POLITICHE DEL 04/03/2018 - MANIFESTO DI CONVOCAZIONE DEI COMIZI ELETTORALI </description>
+			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/862625</guid>
@@ -283,17 +293,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI CONSIGLIO</category>
 			<title>APPROVAZIONE DEL BILANCIO DI PREVISIONE FINANZIARIO 2018/2020 (ART.151 DEL D.LGS. N.267/2000 E ART.10 DEL D.LGS. N.118/2011). </title>
 			<description>APPROVAZIONE DEL BILANCIO DI PREVISIONE FINANZIARIO 2018/2020 (ART.151 DEL D.LGS. N.267/2000 E ART.10 DEL D.LGS. N.118/2011). </description>
-			<a10:updated>2018-01-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/862123</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/862123</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 16 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 31 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">862123</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>APPROVAZIONE DEL VERBALE DELLA CONFERENZA DI SERVIZI DECISORIA - EX ART. 14, C. 2, LEGGE N. 241/90 - DEL 07/12/2017 E CONCLUSIONE DEL PROCEDIMENTO UNICO RELATIVO AL PROGETTO PER LA REALIZZAZIONE DI NUOVA STAZIONE RADIO BASE - ISTANZA DI AUTORIZZAZIONE AI SENSI DEL D. LGS. 259/2003 ART.87 - PER I GESTORI TELECOM ITALIA SPA E INWIT SPA DA REALIZZARSI IN COMUNE DI PESARO, VIA SERRA N. 69, LOCALITÀ VILLA FASTIGGI – NOME SITO: PS9C VILLA FASTIGGI 2. DITTA: INWIT S.P.A. </title>
-			<description>APPROVAZIONE DEL VERBALE DELLA CONFERENZA DI SERVIZI DECISORIA - EX ART. 14, C. 2, LEGGE N. 241/90 - DEL 07/12/2017 E CONCLUSIONE DEL PROCEDIMENTO UNICO RELATIVO AL PROGETTO PER LA REALIZZAZIONE DI NUOVA STAZIONE RADIO BASE - ISTANZA DI AUTORIZZAZIONE AI SENSI DEL D. LGS. 259/2003 ART.87 - PER I GESTORI TELECOM ITALIA SPA E INWIT SPA DA REALIZZARSI IN COMUNE DI PESARO, VIA SERRA N. 69, LOCALITÀ VILLA FASTIGGI – NOME SITO: PS9C VILLA FASTIGGI 2. DITTA: INWIT S.P.A. </description>
 			<a10:updated>2018-01-16T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
