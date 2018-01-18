@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 18 Jan 2018 16:30:52 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 18 Jan 2018 17:30:57 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Thu, 18 Jan 2018 16:30:52 +0100</pubDate>
+		<pubDate>Thu, 18 Jan 2018 17:30:57 +0100</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/863954</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/863954</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 18 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 02 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">863954</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>EROGAZIONE GRATUITA LIBRI DI TESTO SCUOLA PRIMARIA ANNO 2018. PRENOTAZIONE IMPEGNO DI SPESA </title>
+			<description>EROGAZIONE GRATUITA LIBRI DI TESTO SCUOLA PRIMARIA ANNO 2018. PRENOTAZIONE IMPEGNO DI SPESA </description>
+			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/863892</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/863892</link>
@@ -283,17 +294,6 @@
 			<title>ELEZIONI POLITICHE DEL 04/03/2018 - MANIFESTO DI CONVOCAZIONE DEI COMIZI ELETTORALI </title>
 			<description>ELEZIONI POLITICHE DEL 04/03/2018 - MANIFESTO DI CONVOCAZIONE DEI COMIZI ELETTORALI </description>
 			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/862625</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/862625</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 17 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 01 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">862625</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>PROCEDURA N. 77/2017 DI CONCORSO DEI CREDITORI DELLA SOCIETA' GRUPPO CMV S.N.C. DI “CMV SERVIZI SRL” CON SEDE IN VERUCCHIO (RN) – DOMANDA DI AMMISSIONE AL PASSIVO PER CREDITI – TASI – IMU – ICI </title>
-			<description>PROCEDURA N. 77/2017 DI CONCORSO DEI CREDITORI DELLA SOCIETA' GRUPPO CMV S.N.C. DI “CMV SERVIZI SRL” CON SEDE IN VERUCCHIO (RN) – DOMANDA DI AMMISSIONE AL PASSIVO PER CREDITI – TASI – IMU – ICI </description>
-			<a10:updated>2018-01-17T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
