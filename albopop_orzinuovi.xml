@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 18 Jan 2018 12:31:15 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 18 Jan 2018 13:30:44 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Thu, 18 Jan 2018 12:31:15 +0100</pubDate>
+		<pubDate>Thu, 18 Jan 2018 13:30:44 +0100</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3169650</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3169650</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 18 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 02 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3169650</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>ACCERTAMENTO DI ENTRATA GETTONI PESA PUBBLICA ANNO 2018 </title>
+			<description>ACCERTAMENTO DI ENTRATA GETTONI PESA PUBBLICA ANNO 2018 </description>
+			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3169217</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3169217</link>
@@ -280,17 +291,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>IMPEGNO DI SPESA INTEGRAZIONE RETTA SIG. M.P. “COMUNITÀ SOCIO SANITARIA ENRICO E LAURA NOLLI-ONLUS”. ANNO 2018 </title>
 			<description>IMPEGNO DI SPESA INTEGRAZIONE RETTA SIG. M.P. “COMUNITÀ SOCIO SANITARIA ENRICO E LAURA NOLLI-ONLUS”. ANNO 2018 </description>
-			<a10:updated>2018-01-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3164366</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3164366</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 16 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 31 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3164366</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>GESTIONE SERVIZIO DI ASSISTENZA DOMICILIARE (SAD). ACCERTAMENTO ENTRATA E IMPEGNO DI SPESA A FAVORE DI UNIONE BBO ANNO 2018. </title>
-			<description>GESTIONE SERVIZIO DI ASSISTENZA DOMICILIARE (SAD). ACCERTAMENTO ENTRATA E IMPEGNO DI SPESA A FAVORE DI UNIONE BBO ANNO 2018. </description>
 			<a10:updated>2018-01-16T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
