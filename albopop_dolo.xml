@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 18 Jan 2018 08:30:59 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 18 Jan 2018 09:31:04 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Thu, 18 Jan 2018 08:30:59 +0100</pubDate>
+		<pubDate>Thu, 18 Jan 2018 09:31:04 +0100</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3804897</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3804897</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 18 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 02 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3804897</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title> LIQUIDAZIONE DITTA CRISTOFORETTI SERVIZI ENERGIA S.P.A. PER LE OPERAZIONI DI ACCENSIONE, CONDUZIONE, MANUTENZIONE VERIFICHE PERIODICHE DEGLI IMPIANTI DI CONDIZIONAMENTO DELLE SEDI DEGLI UFFICI MUNICIPALI DI VIA CAIROLI, DI VIA COMUNETTO E LE SEDI DELL’UNIONE DEI COMUNI CITTÀ RIVERA DEL BRENTA DI VIA RIZZO, DELLA SEDE DELLA POLIZIA LOCALE DI PIAZZETTA DEI STORTI E DEGLI UFFICI DEL GIUDICE DI PACE DI PIAZZETTA DEI STORTI. </title>
+			<description> LIQUIDAZIONE DITTA CRISTOFORETTI SERVIZI ENERGIA S.P.A. PER LE OPERAZIONI DI ACCENSIONE, CONDUZIONE, MANUTENZIONE VERIFICHE PERIODICHE DEGLI IMPIANTI DI CONDIZIONAMENTO DELLE SEDI DEGLI UFFICI MUNICIPALI DI VIA CAIROLI, DI VIA COMUNETTO E LE SEDI DELL’UNIONE DEI COMUNI CITTÀ RIVERA DEL BRENTA DI VIA RIZZO, DELLA SEDE DELLA POLIZIA LOCALE DI PIAZZETTA DEI STORTI E DEGLI UFFICI DEL GIUDICE DI PACE DI PIAZZETTA DEI STORTI. </description>
+			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3804793</guid>
 			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3804793</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>LIQUIDAZIONE LAVORO STRAORDINARIO EFFETTUATO DAL PERSONALE DIPENDENTE NEL MESE DI NOVEMBRE 2017 E ARRETRATI A SEGUITO DELL’APPLICAZIONE DELLE PROGRESSIONI ECONOMICHE ORIZZONTALI DAL 01.01.2017 </title>
 			<description>LIQUIDAZIONE LAVORO STRAORDINARIO EFFETTUATO DAL PERSONALE DIPENDENTE NEL MESE DI NOVEMBRE 2017 E ARRETRATI A SEGUITO DELL’APPLICAZIONE DELLE PROGRESSIONI ECONOMICHE ORIZZONTALI DAL 01.01.2017 </description>
-			<a10:updated>2018-01-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3800563</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3800563</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 16 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 31 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3800563</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
-			<title>ISTITUZIONE TEMPORANEA DEL DIVIETO DI TRANSITO E SOSTA IN VIA MODIGLIANI, PICASSO,VECELLIO, CONCORDIA, FIORESE E CA’ TRON. </title>
-			<description>ISTITUZIONE TEMPORANEA DEL DIVIETO DI TRANSITO E SOSTA IN VIA MODIGLIANI, PICASSO,VECELLIO, CONCORDIA, FIORESE E CA’ TRON. </description>
 			<a10:updated>2018-01-16T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
