@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 18 Jan 2018 11:32:42 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 18 Jan 2018 12:32:22 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Thu, 18 Jan 2018 11:32:42 +0100</pubDate>
+		<pubDate>Thu, 18 Jan 2018 12:32:22 +0100</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3169342</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3169342</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 18 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 02 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3169342</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE PERMESSI DI COSTRUIRE</category>
+			<title>PERMESSO DI COSTRUIRE IN ACCERTAMENTO DI CONFORMITÀ EX ART. 36 DPR 380/2001, N. 3 DEL 18/01/2018 PER AVER ESEGUITO LAVORI DI AMPLIAMENTO AI SENSI DELLA LR 14/09 IN DIFFORMITÀ DAL P. DI C. N. 46/07 - UT 847/06 E SCIA UT 582/16, ESCLUSIVAMENTE PER IL FABBRICATO 3 IN VIA P. MARONCELLI - ROVIGO. </title>
+			<description>PERMESSO DI COSTRUIRE IN ACCERTAMENTO DI CONFORMITÀ EX ART. 36 DPR 380/2001, N. 3 DEL 18/01/2018 PER AVER ESEGUITO LAVORI DI AMPLIAMENTO AI SENSI DELLA LR 14/09 IN DIFFORMITÀ DAL P. DI C. N. 46/07 - UT 847/06 E SCIA UT 582/16, ESCLUSIVAMENTE PER IL FABBRICATO 3 IN VIA P. MARONCELLI - ROVIGO. </description>
+			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3168974</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3168974</link>
@@ -282,17 +293,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
 			<title>LIQUIDAZIONE FATTURA PER FORNITURA SEGNALETICA STRADALE RELATIVA ALLE MISURE ANTI-INQUINAMENTO ALLA DITTA SERENISSIMA SRL </title>
 			<description>LIQUIDAZIONE FATTURA PER FORNITURA SEGNALETICA STRADALE RELATIVA ALLE MISURE ANTI-INQUINAMENTO ALLA DITTA SERENISSIMA SRL </description>
-			<a10:updated>2018-01-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3165300</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3165300</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 16 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 31 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3165300</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>LIQUIDAZIONE SPESA PER UTILIZZO PLATEATICO AREA CENSER - LUNA PARK OTTOBRE 2017 </title>
-			<description>LIQUIDAZIONE SPESA PER UTILIZZO PLATEATICO AREA CENSER - LUNA PARK OTTOBRE 2017 </description>
 			<a10:updated>2018-01-16T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

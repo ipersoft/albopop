@@ -5,7 +5,7 @@
 		<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Annone Veneto</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 18 Jan 2018 11:31:22 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 18 Jan 2018 12:31:28 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Annone Veneto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Annone Veneto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_annoneveneto</a10:id>
-		<pubDate>Thu, 18 Jan 2018 11:31:22 +0100</pubDate>
+		<pubDate>Thu, 18 Jan 2018 12:31:28 +0100</pubDate>
 		<docs>http://albopop.it/comune/annoneveneto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3806576</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3806576</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 18 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 02 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3806576</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>ELEZIONI POLITICHE DEL 4 MARZO 2018 – ACQUISTO MODULISTICA – IMPEGNO DI SPESA. </title>
+			<description>ELEZIONI POLITICHE DEL 4 MARZO 2018 – ACQUISTO MODULISTICA – IMPEGNO DI SPESA. </description>
+			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3806211</guid>
 			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3806211</link>
@@ -282,17 +293,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">VARIANTI AVVISO</category>
 			<title>POSTA CERTIFICATA: RICHIESTA DI PUBBLICAZIONE AVVISO DI MOBILITA' VOLONTARIA. ISTRUTTORE DIRETTIVO AMMINISTRATIVO. </title>
 			<description>POSTA CERTIFICATA: RICHIESTA DI PUBBLICAZIONE AVVISO DI MOBILITA' VOLONTARIA. ISTRUTTORE DIRETTIVO AMMINISTRATIVO. </description>
-			<a10:updated>2018-01-17T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3802440</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3802440</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 17 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 01 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3802440</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>ASSEGNAZIONE CONTRIBUTO ALL'ISTITUTO COMPRENSIVO "I. NIEVO" PER I PROGETTI DIDATTICI - ANNO SCOLASTICO 2017-2018. IMPEGNO DI SPESA </title>
-			<description>ASSEGNAZIONE CONTRIBUTO ALL'ISTITUTO COMPRENSIVO "I. NIEVO" PER I PROGETTI DIDATTICI - ANNO SCOLASTICO 2017-2018. IMPEGNO DI SPESA </description>
 			<a10:updated>2018-01-17T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
