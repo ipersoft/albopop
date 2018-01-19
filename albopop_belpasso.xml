@@ -5,7 +5,7 @@
 		<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Belpasso</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 18 Jan 2018 18:31:14 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 19 Jan 2018 08:30:58 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Belpasso</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Belpasso</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_belpasso</a10:id>
-		<pubDate>Thu, 18 Jan 2018 18:31:14 +0100</pubDate>
+		<pubDate>Fri, 19 Jan 2018 08:30:58 +0100</pubDate>
 		<docs>http://albopop.it/comune/belpasso/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -96,17 +96,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title> AFFRANCAZIONE LIVELLO, LOTTO DI TERRENO IN AGRO DI BELPASSO IN N.C.T. FOG. 39 MAPPALE 564. </title>
 			<description> AFFRANCAZIONE LIVELLO, LOTTO DI TERRENO IN AGRO DI BELPASSO IN N.C.T. FOG. 39 MAPPALE 564. </description>
-			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3806534</guid>
-			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3806534</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 18 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 18 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3806534</category>
-			<category domain="http://albopop.it/specs#item-category-type">DECRETO DECRETO REGIONALE</category>
-			<title>D.A. 17/GAB DEL 03.01.18 . VERIFICA DI ASSOGGETTABILITA' A VAS DITTA LA TORRETTA S.R.L. </title>
-			<description>D.A. 17/GAB DEL 03.01.18 . VERIFICA DI ASSOGGETTABILITA' A VAS DITTA LA TORRETTA S.R.L. </description>
 			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
@@ -293,6 +282,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">ELENCO ELENCO VIOLAZIONI</category>
 			<title> ELENCO DELLE VIOLAZIONI IN EDILIZIA COMUNICATO DAL FUNZIONARIO TECNICO AI SENSI DELL'ART.31C.7 DEL DPR 380/2001. </title>
 			<description> ELENCO DELLE VIOLAZIONI IN EDILIZIA COMUNICATO DAL FUNZIONARIO TECNICO AI SENSI DELL'ART.31C.7 DEL DPR 380/2001. </description>
+			<a10:updated>2018-01-15T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3797555</guid>
+			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3797555</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 15 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 30 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3797555</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>ACQUISIZIONE OPERE EDILIZIE ABUSIVE IN BELPASSO, “C.DA EDERE”, STRADA COM.LE ABBADESSA S.N. - FG. 21, P.LLA 66 - RIF.TO ORD.ZE DEM.NE NN:13/2016, 14/2016, 47/2016 E 33/2017 - DITTA: D'ANDREA STEFANIA CARMELA </title>
+			<description>ACQUISIZIONE OPERE EDILIZIE ABUSIVE IN BELPASSO, “C.DA EDERE”, STRADA COM.LE ABBADESSA S.N. - FG. 21, P.LLA 66 - RIF.TO ORD.ZE DEM.NE NN:13/2016, 14/2016, 47/2016 E 33/2017 - DITTA: D'ANDREA STEFANIA CARMELA </description>
 			<a10:updated>2018-01-15T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
