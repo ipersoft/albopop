@@ -5,7 +5,7 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 19 Jan 2018 12:32:51 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 19 Jan 2018 13:31:38 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Isernia</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>Fri, 19 Jan 2018 12:32:51 +0100</pubDate>
+		<pubDate>Fri, 19 Jan 2018 13:31:38 +0100</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3810319</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3810319</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 19 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 03 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3810319</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
+			<title>ATTO DI LIQUIDAZIONE di spesa per Pagamento utenza ENERGIA ELETTRICA scuole elementari. PERIODO dicembre 2017 DITTA ENEL ENERGIA CIG: 6975495891. </title>
+			<description>ATTO DI LIQUIDAZIONE di spesa per Pagamento utenza ENERGIA ELETTRICA scuole elementari. PERIODO dicembre 2017 DITTA ENEL ENERGIA CIG: 6975495891. </description>
+			<a10:updated>2018-01-19T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3810317</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3810317</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 19 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 03 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3810317</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
+			<title>ATTO DI LIQUIDAZIONE DI SPESA Per pagamento utenza gas naturale mensa e servizi scolastici DITTA ESTRA ENERGIE SPA- CIG: 697978197C -Periodo: novembre 2017 </title>
+			<description>ATTO DI LIQUIDAZIONE DI SPESA Per pagamento utenza gas naturale mensa e servizi scolastici DITTA ESTRA ENERGIE SPA- CIG: 697978197C -Periodo: novembre 2017 </description>
+			<a10:updated>2018-01-19T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3809252</guid>
 			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3809252</link>
@@ -271,28 +293,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
 			<title>Impegno di spesa per pagamento utenza energia elettrica per la sala espositiva. Ditta ENEL ENERGIA- CIG: 6975495891. </title>
 			<description>Impegno di spesa per pagamento utenza energia elettrica per la sala espositiva. Ditta ENEL ENERGIA- CIG: 6975495891. </description>
-			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3806453</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3806453</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 18 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 02 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3806453</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
-			<title>Impegno di spesa per fornitura di gas naturale scuole elementari. DITTA: ESTRA ENERGIE SPA) CIG :697978197C </title>
-			<description>Impegno di spesa per fornitura di gas naturale scuole elementari. DITTA: ESTRA ENERGIE SPA) CIG :697978197C </description>
-			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3806449</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3806449</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 18 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 02 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3806449</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
-			<title>FORNITURA CARBURANTI E MATERIALE DI CONSUMO AUTOMEZZI COMUNALI - DITTA BOCCIA ALESSANDRO GESTORE TAMOIL - IMPEGNO DI SPESA per l'anno 2018. </title>
-			<description>FORNITURA CARBURANTI E MATERIALE DI CONSUMO AUTOMEZZI COMUNALI - DITTA BOCCIA ALESSANDRO GESTORE TAMOIL - IMPEGNO DI SPESA per l'anno 2018. </description>
 			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
