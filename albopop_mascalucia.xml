@@ -5,7 +5,7 @@
 		<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mascalucia</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 19 Jan 2018 09:31:42 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 19 Jan 2018 10:31:35 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mascalucia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mascalucia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mascalucia</a10:id>
-		<pubDate>Fri, 19 Jan 2018 09:31:42 +0100</pubDate>
+		<pubDate>Fri, 19 Jan 2018 10:31:35 +0100</pubDate>
 		<docs>http://albopop.it/comune/mascalucia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3170916</guid>
+			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3170916</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 19 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 26 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3170916</category>
+			<category domain="http://albopop.it/specs#item-category-type">COMMISSIONI CONSILIARI CONVOCAZIONE I COMMISSIONE CONSILIARE</category>
+			<title>CONVOCAZIONE SEDUTE PRIMA COMMISSIONE DAL 22 AL 26 GENNAIO 2018 </title>
+			<description>CONVOCAZIONE SEDUTE PRIMA COMMISSIONE DAL 22 AL 26 GENNAIO 2018 </description>
+			<a10:updated>2018-01-19T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3170915</guid>
+			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3170915</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 19 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 03 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3170915</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRE PUBBLICAZIONI CONCESSIONE EDILIZIA</category>
+			<title>PERMESSO DI COSTRUIRE N. 001/2018 LO FARO CARMELO &amp; C. PRATCA EDILIZIA N. 95/08 RINNOVO </title>
+			<description>PERMESSO DI COSTRUIRE N. 001/2018 LO FARO CARMELO &amp; C. PRATCA EDILIZIA N. 95/08 RINNOVO </description>
+			<a10:updated>2018-01-19T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3170625</guid>
 			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3170625</link>
@@ -271,28 +293,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
 			<title>IMPEGNO SPESA RETRIBUZIONE DI POSIZIONE E RISULTATO AI CAPI AREA GENNAIO 2018 </title>
 			<description>IMPEGNO SPESA RETRIBUZIONE DI POSIZIONE E RISULTATO AI CAPI AREA GENNAIO 2018 </description>
-			<a10:updated>2018-01-17T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3167199</guid>
-			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3167199</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 17 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 01 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3167199</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
-			<title>LIQUIDAZIONE PER LA PUBBLICAZIONE DELL'ESTRATTO DEL BANDO DI GARA PER L’AFFIDAMENTO DEL SERVIZIO DI REFEZIONE SCOLASTICA – ANNO 2018. G.U.R.S. CON SEDE IN VIA CALTANISSETTA 2/E PALERMO PARTITA IVA 02711070827. </title>
-			<description>LIQUIDAZIONE PER LA PUBBLICAZIONE DELL'ESTRATTO DEL BANDO DI GARA PER L’AFFIDAMENTO DEL SERVIZIO DI REFEZIONE SCOLASTICA – ANNO 2018. G.U.R.S. CON SEDE IN VIA CALTANISSETTA 2/E PALERMO PARTITA IVA 02711070827. </description>
-			<a10:updated>2018-01-17T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3167197</guid>
-			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3167197</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 17 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 01 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3167197</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
-			<title>LIQUIDAZIONE PROGETTO INTEGRATO D.S.M. INSERIMENTO SOCIO ASSISTENZIALE MESE DI DICEMBRE 2017. </title>
-			<description>LIQUIDAZIONE PROGETTO INTEGRATO D.S.M. INSERIMENTO SOCIO ASSISTENZIALE MESE DI DICEMBRE 2017. </description>
 			<a10:updated>2018-01-17T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

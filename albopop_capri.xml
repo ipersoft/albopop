@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 19 Jan 2018 09:31:40 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 19 Jan 2018 10:31:34 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Fri, 19 Jan 2018 09:31:40 +0100</pubDate>
+		<pubDate>Fri, 19 Jan 2018 10:31:34 +0100</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3171025</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3171025</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 19 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 03 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3171025</category>
+			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
+			<title>RINNOVO PEC UFFICI COMUNALI, CONSIGLIERI COMUNALI E COMPONENTI DELLA GIUNTA ATTRAVERSO LO STRUMENTO DEL MEPA LIQIDAZIONE FATTURA IN FAVORE DELLA DITTA ASCOM MULTISERVICE GROUP SRL CIG: Z2821475AA </title>
+			<description>RINNOVO PEC UFFICI COMUNALI, CONSIGLIERI COMUNALI E COMPONENTI DELLA GIUNTA ATTRAVERSO LO STRUMENTO DEL MEPA LIQIDAZIONE FATTURA IN FAVORE DELLA DITTA ASCOM MULTISERVICE GROUP SRL CIG: Z2821475AA </description>
+			<a10:updated>2018-01-19T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3170639</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3170639</link>
@@ -282,17 +293,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">AVVISO PUBBLICAZIONE AVVISO</category>
 			<title>AFFISSIONE VERBALE DI ACCERTAMENTO PM N.429Z/V </title>
 			<description>AFFISSIONE VERBALE DI ACCERTAMENTO PM N.429Z/V </description>
-			<a10:updated>2018-01-17T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3166783</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3166783</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 17 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 01 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3166783</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISO PUBBLICAZIONE AVVISO</category>
-			<title>AFFISSIONE VERBALE DI ACCERTAMENTO PM N.448Z/V </title>
-			<description>AFFISSIONE VERBALE DI ACCERTAMENTO PM N.448Z/V </description>
 			<a10:updated>2018-01-17T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

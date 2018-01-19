@@ -5,7 +5,7 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 19 Jan 2018 09:31:39 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 19 Jan 2018 10:31:33 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Isernia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>Fri, 19 Jan 2018 09:31:39 +0100</pubDate>
+		<pubDate>Fri, 19 Jan 2018 10:31:33 +0100</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3809252</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3809252</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 19 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 03 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3809252</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
+			<title>Esibizione bandistica Banda musicale "Città di Castelpetroso" - Liquidazione di spesa per contributi all'Associazione culturale artistica musicale "MusicArt" </title>
+			<description>Esibizione bandistica Banda musicale "Città di Castelpetroso" - Liquidazione di spesa per contributi all'Associazione culturale artistica musicale "MusicArt" </description>
+			<a10:updated>2018-01-19T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3808719</guid>
 			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3808719</link>
@@ -282,17 +293,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
 			<title>Liquidazione spese tecniche per l’attività di supporto al Responsabile del Procedimento progettazione definitiva Scuola Elementare e Materna S.P.Celestino Ing. Emanuela Sassi con sede in Isernia in Via Umbria Centro Commercio e Affari-C.F.SSSMNL76R59E335N-P.IVA n.00850740945. </title>
 			<description>Liquidazione spese tecniche per l’attività di supporto al Responsabile del Procedimento progettazione definitiva Scuola Elementare e Materna S.P.Celestino Ing. Emanuela Sassi con sede in Isernia in Via Umbria Centro Commercio e Affari-C.F.SSSMNL76R59E335N-P.IVA n.00850740945. </description>
-			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3806334</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3806334</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 18 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 02 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3806334</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
-			<title>Oggetto: Liquidazione spese tecniche per l’attività di supporto al Responsabile del Procedimento progettazione definitiva Scuola Elementare e Materna S.P.Celestino Ing. Gerardo Papa con sede in Isernia in Via Beethoven n.13-C.F.PPAGRD70R19F839B-P.IVA n.00878600949. </title>
-			<description>Oggetto: Liquidazione spese tecniche per l’attività di supporto al Responsabile del Procedimento progettazione definitiva Scuola Elementare e Materna S.P.Celestino Ing. Gerardo Papa con sede in Isernia in Via Beethoven n.13-C.F.PPAGRD70R19F839B-P.IVA n.00878600949. </description>
 			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
