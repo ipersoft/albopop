@@ -5,7 +5,7 @@
 		<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bernareggio</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 19 Jan 2018 13:31:19 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 19 Jan 2018 14:31:03 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bernareggio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bernareggio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bernareggio</a10:id>
-		<pubDate>Fri, 19 Jan 2018 13:31:19 +0100</pubDate>
+		<pubDate>Fri, 19 Jan 2018 14:31:03 +0100</pubDate>
 		<docs>http://albopop.it/comune/bernareggio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3810703</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3810703</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 19 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 03 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3810703</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
+			<title>BONUS IDRICO ANNO 2016 - PRESA D'ATTO DOMANDE PERVENUTE ENTRO IL 31 DICEMBRE 2017 E APPROVAZIONE DELLA GRADUTAORIA </title>
+			<description>BONUS IDRICO ANNO 2016 - PRESA D'ATTO DOMANDE PERVENUTE ENTRO IL 31 DICEMBRE 2017 E APPROVAZIONE DELLA GRADUTAORIA </description>
+			<a10:updated>2018-01-19T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3807698</guid>
 			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3807698</link>
@@ -279,17 +290,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
 			<title>INDIRIZZO IN MERITO ALLA CONCESSIONE DELLA GESTIONE DEI LOCALI ED ATTREZZATURE AD USO SPORTIVO DEL CENTRO CIVICO DI VILLANOVA A SEGUITO DI AVVISO PUBBLICO </title>
 			<description>INDIRIZZO IN MERITO ALLA CONCESSIONE DELLA GESTIONE DEI LOCALI ED ATTREZZATURE AD USO SPORTIVO DEL CENTRO CIVICO DI VILLANOVA A SEGUITO DI AVVISO PUBBLICO </description>
-			<a10:updated>2018-01-10T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3788444</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3788444</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 10 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 25 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3788444</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>APPROVAZIONE CONVENZIONE CON LA COOPERATIVA SOCIALE MILLEMANI ONLUS PER INSERIMENTO SOGGETTI DISABILI - ANNO 2018 </title>
-			<description>APPROVAZIONE CONVENZIONE CON LA COOPERATIVA SOCIALE MILLEMANI ONLUS PER INSERIMENTO SOGGETTI DISABILI - ANNO 2018 </description>
 			<a10:updated>2018-01-10T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
