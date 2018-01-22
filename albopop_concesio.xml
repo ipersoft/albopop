@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Sun, 21 Jan 2018 18:30:36 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jan 2018 08:30:41 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Sun, 21 Jan 2018 18:30:36 +0100</pubDate>
+		<pubDate>Mon, 22 Jan 2018 08:30:41 +0100</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -162,6 +162,17 @@
 			<a10:updated>2018-01-17T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3802768</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3802768</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 22 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 06 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3802768</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
+			<title>ISTITUZIONE TEMPORANEA RESTINGIMENTO DI VIA GRAMSCI (INTERSEZIONE CON VIA MANZONI) E CHIUSURA DI VIA MANZONI FINO AL CIV. 4. </title>
+			<description>ISTITUZIONE TEMPORANEA RESTINGIMENTO DI VIA GRAMSCI (INTERSEZIONE CON VIA MANZONI) E CHIUSURA DI VIA MANZONI FINO AL CIV. 4. </description>
+			<a10:updated>2018-01-22T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3802461</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3802461</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 17 Jan 2018 01:00:00 +0100</category>
@@ -279,17 +290,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>PAGAMENTO QUOTA A CARICO DEL COMUNE DI CONCESIO DELLE SPESE DEL CENTRO PER L'IMPIEGO DI SAREZZO. ANNO 2017. </title>
 			<description>PAGAMENTO QUOTA A CARICO DEL COMUNE DI CONCESIO DELLE SPESE DEL CENTRO PER L'IMPIEGO DI SAREZZO. ANNO 2017. </description>
-			<a10:updated>2018-01-15T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3798000</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3798000</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 15 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 12 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3798000</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI AVVISO</category>
-			<title>ACB INVIO MASSIVO DI BANDI - COMUNE DI CATEGNATO - COMUNE DI CASTENEDOLO - COMUNE DI REZZATO - COMUNE DI MONTIRNE </title>
-			<description>ACB INVIO MASSIVO DI BANDI - COMUNE DI CATEGNATO - COMUNE DI CASTENEDOLO - COMUNE DI REZZATO - COMUNE DI MONTIRNE </description>
 			<a10:updated>2018-01-15T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
