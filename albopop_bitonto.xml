@@ -5,7 +5,7 @@
 		<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bitonto</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 22 Jan 2018 12:30:33 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jan 2018 13:30:38 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bitonto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Bari</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bitonto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bitonto</a10:id>
-		<pubDate>Mon, 22 Jan 2018 12:30:33 +0100</pubDate>
+		<pubDate>Mon, 22 Jan 2018 13:30:38 +0100</pubDate>
 		<docs>http://albopop.it/comune/bitonto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3813556</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3813556</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 22 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3813556</category>
+			<category domain="http://albopop.it/specs#item-category-type">BANDI DI GARA ESITI DI GARA CENTRALE UNICA DI COMMITTENZA</category>
+			<title>CENTRALE UNICA DI COMMITTENZA – UFFICIO COMUNE – PER IL COMUNE DI BITONTO: ESITO GARA AFFIDAMENTO IN CONCESSIONE MEDIANTE PROCEDURA APERTA EX ART. 60 D. LGS. 50/2016 DEL SERVIZIO DI GESTIONE DEL “FABLAB POLIBA” PRESSO IL “CENTRO TECNOLOGICO INTERPROVINCIALE DI FABBRICAZIONE DIGITALE” SITO NELLA ZONA ARTIGIANALE DEL COMUNE DI BITONTO (BA) – CIG 7053288D60 </title>
+			<description>CENTRALE UNICA DI COMMITTENZA – UFFICIO COMUNE – PER IL COMUNE DI BITONTO: ESITO GARA AFFIDAMENTO IN CONCESSIONE MEDIANTE PROCEDURA APERTA EX ART. 60 D. LGS. 50/2016 DEL SERVIZIO DI GESTIONE DEL “FABLAB POLIBA” PRESSO IL “CENTRO TECNOLOGICO INTERPROVINCIALE DI FABBRICAZIONE DIGITALE” SITO NELLA ZONA ARTIGIANALE DEL COMUNE DI BITONTO (BA) – CIG 7053288D60 </description>
+			<a10:updated>2018-01-22T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3812642</guid>
 			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3812642</link>
@@ -281,17 +291,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI 04 - SERVIZIO LEGALE E CONTENZIOSO</category>
 			<title>LIQUIDAZIONE FRANCHIGIA ALLA ZURICH INSURANCE PLC. </title>
 			<description>LIQUIDAZIONE FRANCHIGIA ALLA ZURICH INSURANCE PLC. </description>
-			<a10:updated>2018-01-17T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3804206</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3804206</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 17 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 01 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3804206</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI 12 - SERVIZIO LAVORI PUBBLICI</category>
-			<title>LAVORI DI RIMOZIONE INTONACO IN FASE DI DISTACCO NEL CHIOSTRO ED ALTRI INTERVENTI SUL LASTRICO SOLARE DELL’EDIFICIO SEDE DELLA SCUOLA “DON MILANI” NEL CENTRO ANTICO – LIQUIDAZIONE </title>
-			<description>LAVORI DI RIMOZIONE INTONACO IN FASE DI DISTACCO NEL CHIOSTRO ED ALTRI INTERVENTI SUL LASTRICO SOLARE DELL’EDIFICIO SEDE DELLA SCUOLA “DON MILANI” NEL CENTRO ANTICO – LIQUIDAZIONE </description>
 			<a10:updated>2018-01-17T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
