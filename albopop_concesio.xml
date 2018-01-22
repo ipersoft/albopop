@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 22 Jan 2018 09:30:42 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jan 2018 10:30:52 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Mon, 22 Jan 2018 09:30:42 +0100</pubDate>
+		<pubDate>Mon, 22 Jan 2018 10:30:52 +0100</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3812376</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3812376</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 22 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 19 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3812376</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI AVVISO</category>
+			<title>ACB BANDO - COMUNE DI VOBARNO SCADENZA 19/02/2018 </title>
+			<description>ACB BANDO - COMUNE DI VOBARNO SCADENZA 19/02/2018 </description>
+			<a10:updated>2018-01-22T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3810012</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3810012</link>
@@ -165,7 +176,7 @@
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3802768</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3802768</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 22 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 06 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 03 Feb 2018 01:00:00 +0100</category>
 			<category domain="http://albopop.it/specs#item-category-uid">3802768</category>
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
 			<title>ISTITUZIONE TEMPORANEA RESTINGIMENTO DI VIA GRAMSCI (INTERSEZIONE CON VIA MANZONI) E CHIUSURA DI VIA MANZONI FINO AL CIV. 4. </title>
@@ -241,7 +252,7 @@
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3799999</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3799999</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 16 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 31 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 31 Dec 2018 01:00:00 +0100</category>
 			<category domain="http://albopop.it/specs#item-category-uid">3799999</category>
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
 			<title>ISTITUZIONE TEMPORANEA SENSO UNICO IN VIA LODRONE CON IMMISSIONE IN PIAZZA I° MAGGIO. PROROGA </title>
@@ -280,17 +291,6 @@
 			<title>COMUNE DI BORNO - AVVISO ESPLORATIVO MOBILITÀ VOLONTARIA ESTERNA - SCADENZA 13/02/2018 </title>
 			<description>COMUNE DI BORNO - AVVISO ESPLORATIVO MOBILITÀ VOLONTARIA ESTERNA - SCADENZA 13/02/2018 </description>
 			<a10:updated>2018-01-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3798541</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3798541</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 15 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 30 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3798541</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>PAGAMENTO QUOTA A CARICO DEL COMUNE DI CONCESIO DELLE SPESE DEL CENTRO PER L'IMPIEGO DI SAREZZO. ANNO 2017. </title>
-			<description>PAGAMENTO QUOTA A CARICO DEL COMUNE DI CONCESIO DELLE SPESE DEL CENTRO PER L'IMPIEGO DI SAREZZO. ANNO 2017. </description>
-			<a10:updated>2018-01-15T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>

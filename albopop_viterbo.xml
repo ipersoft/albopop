@@ -5,7 +5,7 @@
 		<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Viterbo</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 22 Jan 2018 09:31:04 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jan 2018 10:31:16 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Viterbo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Viterbo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Viterbo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_viterbo</a10:id>
-		<pubDate>Mon, 22 Jan 2018 09:31:04 +0100</pubDate>
+		<pubDate>Mon, 22 Jan 2018 10:31:16 +0100</pubDate>
 		<docs>http://albopop.it/comune/viterbo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3812364</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3812364</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 22 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 06 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3812364</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE ORDINANZA DIRIGENZIALE</category>
+			<title>SOC. RESIDENZA DEL TEATRO SRL - CESSAZIONE ATTIVITA' DI PUBBLICO ESERCIZIO PER LA SOMMINISTRAZIONE DI ALIMENTI E BEVANDE IN PIAZZA VERDI 13 </title>
+			<description>SOC. RESIDENZA DEL TEATRO SRL - CESSAZIONE ATTIVITA' DI PUBBLICO ESERCIZIO PER LA SOMMINISTRAZIONE DI ALIMENTI E BEVANDE IN PIAZZA VERDI 13 </description>
+			<a10:updated>2018-01-22T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3811824</guid>
 			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3811824</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
 			<title>UTENZA DEL SERVIZIO TELEMATICO RELATIVA ALL'ACCESSO AGLI ARCHIVI DELLA MOTORIZZAZIONE CIVILE. TERZO TRIMESTRE ANNO 2017 </title>
 			<description>UTENZA DEL SERVIZIO TELEMATICO RELATIVA ALL'ACCESSO AGLI ARCHIVI DELLA MOTORIZZAZIONE CIVILE. TERZO TRIMESTRE ANNO 2017 </description>
-			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3807032</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3807032</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 18 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 02 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3807032</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
-			<title>RISARCIMENTO DANNI PER SINISTRO DEL 19/11/2016. DANNEGGIAMENTO GUARD RAIL STRADA TUSCANESE KM 0,750. NS. RIF. RCAR N. 026/2016. INCASSO BONIFICO A PARZIALE TACITAZIONE. </title>
-			<description>RISARCIMENTO DANNI PER SINISTRO DEL 19/11/2016. DANNEGGIAMENTO GUARD RAIL STRADA TUSCANESE KM 0,750. NS. RIF. RCAR N. 026/2016. INCASSO BONIFICO A PARZIALE TACITAZIONE. </description>
 			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
