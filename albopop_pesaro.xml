@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 22 Jan 2018 18:31:09 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 23 Jan 2018 08:30:52 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Mon, 22 Jan 2018 18:31:09 +0100</pubDate>
+		<pubDate>Tue, 23 Jan 2018 08:30:52 +0100</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/865901</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/865901</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 23 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 12 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">865901</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISI E MANIFESTI ELETTORALI</category>
+			<title>MANIFESTO - VOTO DOMICILIARE PER ELETTORI AFFETTI DA INFERMITÀ CHE NE RENDANO IMPOSSIBILE L’ALLONTANAMENTO DALL’ABITAZIONE </title>
+			<description>MANIFESTO - VOTO DOMICILIARE PER ELETTORI AFFETTI DA INFERMITÀ CHE NE RENDANO IMPOSSIBILE L’ALLONTANAMENTO DALL’ABITAZIONE </description>
+			<a10:updated>2018-01-23T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/865679</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/865679</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
 			<title>URBINATI LUCA - STRADA DEI PELATI - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </title>
 			<description>URBINATI LUCA - STRADA DEI PELATI - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </description>
-			<a10:updated>2018-01-19T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/864117</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/864117</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 19 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 03 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">864117</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
-			<title>SERVIZIO MANUTENZIONI - VIA ANDREANI - RIPRISTINO FOGNATURA DANNEGGIATA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </title>
-			<description>SERVIZIO MANUTENZIONI - VIA ANDREANI - RIPRISTINO FOGNATURA DANNEGGIATA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </description>
 			<a10:updated>2018-01-19T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
