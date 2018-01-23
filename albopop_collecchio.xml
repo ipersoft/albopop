@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 23 Jan 2018 12:35:55 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 23 Jan 2018 13:31:48 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Tue, 23 Jan 2018 12:35:55 +0100</pubDate>
+		<pubDate>Tue, 23 Jan 2018 13:31:48 +0100</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3175580</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3175580</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 23 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 07 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3175580</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO ON LINE ORDINANZE E AVVISI</category>
+			<title>LEGGE N. 689/191 ART. 18 – ORDINANZA INGIUNZIONE PER PAGAMENTO SANZIONE AMMINISTRATIVA A CARICO DEL SIG. TANDURELLA ANTONIO EMANUELE, LOC. GAIANO - COLLECCHIO (PR), VIA NAZIONALE 42, OBBLIGATO IN SOLIDO CON L’AZIENDA ANGOLO DELLA FRUTTA SRLS </title>
+			<description>LEGGE N. 689/191 ART. 18 – ORDINANZA INGIUNZIONE PER PAGAMENTO SANZIONE AMMINISTRATIVA A CARICO DEL SIG. TANDURELLA ANTONIO EMANUELE, LOC. GAIANO - COLLECCHIO (PR), VIA NAZIONALE 42, OBBLIGATO IN SOLIDO CON L’AZIENDA ANGOLO DELLA FRUTTA SRLS </description>
+			<a10:updated>2018-01-23T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3172387</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3172387</link>
@@ -282,17 +293,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
 			<title>INCARICHI LIBERA PROFESSIONE PRESSO FARMACIA COMUNALE </title>
 			<description>INCARICHI LIBERA PROFESSIONE PRESSO FARMACIA COMUNALE </description>
-			<a10:updated>2018-01-17T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3167466</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3167466</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 17 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 01 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3167466</category>
-			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
-			<title>NECROLOGIO SU GAZZETTA DI PARMA. IMPEGNO DI SPESA – CIG ZBD21B44E6 </title>
-			<description>NECROLOGIO SU GAZZETTA DI PARMA. IMPEGNO DI SPESA – CIG ZBD21B44E6 </description>
 			<a10:updated>2018-01-17T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

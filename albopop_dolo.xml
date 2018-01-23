@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 23 Jan 2018 12:32:46 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 23 Jan 2018 13:30:53 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Tue, 23 Jan 2018 12:32:46 +0100</pubDate>
+		<pubDate>Tue, 23 Jan 2018 13:30:53 +0100</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3816343</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3816343</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 23 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 12 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3816343</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO GENERICO</category>
+			<title>VOTO A DOMICILIO PER GLI ELETTORI IN DIPENDENZA DI APPARECCHIATURE ELETTROMEDICALI -ELEZIONI POLITICHE DEL 04.03.2018 </title>
+			<description>VOTO A DOMICILIO PER GLI ELETTORI IN DIPENDENZA DI APPARECCHIATURE ELETTROMEDICALI -ELEZIONI POLITICHE DEL 04.03.2018 </description>
+			<a10:updated>2018-01-23T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3816339</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3816339</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 23 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 07 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3816339</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>LIQUIDAZIONE FATTURA N. 5 DEL 11/01/2018. DITTA SERVIZI ECOLOGICI SCANFERLA DI DOLO (VE). </title>
+			<description>LIQUIDAZIONE FATTURA N. 5 DEL 11/01/2018. DITTA SERVIZI ECOLOGICI SCANFERLA DI DOLO (VE). </description>
+			<a10:updated>2018-01-23T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3815819</guid>
 			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3815819</link>
@@ -270,28 +292,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>LIQUIDAZIONE TRATTAMENTO R.S.U. MESI DI OTTOBRE E NOVEMBRE 2017 - VERITAS S.P.A. </title>
 			<description>LIQUIDAZIONE TRATTAMENTO R.S.U. MESI DI OTTOBRE E NOVEMBRE 2017 - VERITAS S.P.A. </description>
-			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3806667</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3806667</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 18 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 02 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3806667</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>GESTIONE IN FORMA ASSOCIATA SOVRA COMUNALE DEL SERVIZIO DI CUSTODIA DEI CANI RANDAGI PRESSO IL CANILE/RIFUGIO/CENTRO BENESSERE DI MIRA (VE) - LIQUIDAZIONE MESI NOVEMBRE-DICEMBRE 2017 - ENTE NAZIONALE PROTEZIONE ANIMALI - ENPA. </title>
-			<description>GESTIONE IN FORMA ASSOCIATA SOVRA COMUNALE DEL SERVIZIO DI CUSTODIA DEI CANI RANDAGI PRESSO IL CANILE/RIFUGIO/CENTRO BENESSERE DI MIRA (VE) - LIQUIDAZIONE MESI NOVEMBRE-DICEMBRE 2017 - ENTE NAZIONALE PROTEZIONE ANIMALI - ENPA. </description>
-			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3806189</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3806189</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 18 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 02 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3806189</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
-			<title>ORDINANZA DI DEMOLIZIONE E RIPRISTINO DELLO STATO DEI LUOGHI AI SENSI DEGLI ARTICOLI 31 DEL D.P.R. 380/2001 E DEGLI ARTICOLI 92 DELLA EX L.R. 61/1985. </title>
-			<description>ORDINANZA DI DEMOLIZIONE E RIPRISTINO DELLO STATO DEI LUOGHI AI SENSI DEGLI ARTICOLI 31 DEL D.P.R. 380/2001 E DEGLI ARTICOLI 92 DELLA EX L.R. 61/1985. </description>
 			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
