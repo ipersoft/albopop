@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 23 Jan 2018 16:30:45 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 23 Jan 2018 17:30:51 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Tue, 23 Jan 2018 16:30:45 +0100</pubDate>
+		<pubDate>Tue, 23 Jan 2018 17:30:51 +0100</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3817195</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3817195</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 23 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 07 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3817195</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title> SERVIZIO DI FORNITURA CALORE. LIQUIDAZIONE SECONDA RATA ALLA DITTA CRISTOFORETTI SERVIZI ENERGIA S.P.A. PER LA STAGIONE TERMICA 2017/2018. </title>
+			<description> SERVIZIO DI FORNITURA CALORE. LIQUIDAZIONE SECONDA RATA ALLA DITTA CRISTOFORETTI SERVIZI ENERGIA S.P.A. PER LA STAGIONE TERMICA 2017/2018. </description>
+			<a10:updated>2018-01-23T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3817139</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3817139</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 23 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 07 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3817139</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>LIQUIDAZIONE FATTURA N. 40 DEL 29/12/2017 DITTA MARZARO IMPIANTI DI MARZARO ROBERTO </title>
+			<description>LIQUIDAZIONE FATTURA N. 40 DEL 29/12/2017 DITTA MARZARO IMPIANTI DI MARZARO ROBERTO </description>
+			<a10:updated>2018-01-23T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3817135</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3817135</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 23 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 07 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3817135</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>LIQUIDAZIONE FATTURA N° 01 DEL 08/01/2018. DITTA MEGRA S.R.L. DI CAMPONAGARA (VE). </title>
+			<description>LIQUIDAZIONE FATTURA N° 01 DEL 08/01/2018. DITTA MEGRA S.R.L. DI CAMPONAGARA (VE). </description>
+			<a10:updated>2018-01-23T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3816978</guid>
 			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3816978</link>
@@ -261,38 +294,6 @@
 			<title>LIQUIDAZIONE FATTURA N. 6400056730 DEL 31.12.2017 DITTA SODEXO ITALIA S.P.A. DI CINISELLO BALSAMO (MI) </title>
 			<description>LIQUIDAZIONE FATTURA N. 6400056730 DEL 31.12.2017 DITTA SODEXO ITALIA S.P.A. DI CINISELLO BALSAMO (MI) </description>
 			<a10:updated>2018-01-19T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3809236</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3809236</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 19 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 03 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3809236</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>LIQUIDAZIONE FATTURA ALLA DITTA SETTIMO SERVICE S.N.C. DI STRA (VE) PER TAGLIANDO AUTOVEICOLO CITROEN JUMPER IN DOTAZIONE AL SETTORE SERVIZI SOCIALI. </title>
-			<description>LIQUIDAZIONE FATTURA ALLA DITTA SETTIMO SERVICE S.N.C. DI STRA (VE) PER TAGLIANDO AUTOVEICOLO CITROEN JUMPER IN DOTAZIONE AL SETTORE SERVIZI SOCIALI. </description>
-			<a10:updated>2018-01-19T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3807901</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3807901</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 18 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 02 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3807901</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>SERVIZIO DI MANUTENZIONE DEGLI IMPIANTI SEMAFORICI E DELLA SEGNALETICA STRADALE LUMINOSA DI COMPETENZA COMUNALE. BIENNIO 2018/2019. AFFIDAMENTO ALLA DITTA LA SEMAFORICA S.R.L. DI PADOVA. </title>
-			<description>SERVIZIO DI MANUTENZIONE DEGLI IMPIANTI SEMAFORICI E DELLA SEGNALETICA STRADALE LUMINOSA DI COMPETENZA COMUNALE. BIENNIO 2018/2019. AFFIDAMENTO ALLA DITTA LA SEMAFORICA S.R.L. DI PADOVA. </description>
-			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3807653</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3807653</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 18 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3807653</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISO GENERICO</category>
-			<title>CONVOCAZIONE DEI COMIZI ELETTORALI -ELEZIONI POLITICHE 4 MARZO 2018-. </title>
-			<description>CONVOCAZIONE DEI COMIZI ELETTORALI -ELEZIONI POLITICHE 4 MARZO 2018-. </description>
-			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
