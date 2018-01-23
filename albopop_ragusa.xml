@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 23 Jan 2018 15:31:41 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 23 Jan 2018 16:32:44 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Tue, 23 Jan 2018 15:31:41 +0100</pubDate>
+		<pubDate>Tue, 23 Jan 2018 16:32:44 +0100</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3176123</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3176123</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 23 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 31 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3176123</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONVOCAZIONI CONVOCAZIONE 1^ COMMISSIONE</category>
+			<title>CONVOCAZIONE COMMISSIONE 1 AFFARI GENERALI PER GIORNO 31.01.2018 ALLE ORE 10,00. </title>
+			<description>CONVOCAZIONE COMMISSIONE 1 AFFARI GENERALI PER GIORNO 31.01.2018 ALLE ORE 10,00. </description>
+			<a10:updated>2018-01-23T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3176122</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3176122</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 23 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 31 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3176122</category>
+			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO ATTO DI MATRIMONIO</category>
+			<title>PUBBLICAZIONE ATTO DI MATRIMONIO A NOME DI BUFFA ANTONINO E FRASCA MARIACONCETTA </title>
+			<description>PUBBLICAZIONE ATTO DI MATRIMONIO A NOME DI BUFFA ANTONINO E FRASCA MARIACONCETTA </description>
+			<a10:updated>2018-01-23T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3175877</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3175877</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
 			<title>LIQUIDAZIONE SPESE ACQUISTO MATERIALE DI CONSUMO STAMPATI E VARIE CAP. 1377.9 </title>
 			<description>LIQUIDAZIONE SPESE ACQUISTO MATERIALE DI CONSUMO STAMPATI E VARIE CAP. 1377.9 </description>
-			<a10:updated>2018-01-22T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3173027</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3173027</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 22 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 29 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3173027</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
-			<title>LIQUIDAZIONE SPESE ACQUISTO MATERIALE DI CONSUMO, STAMPATI E VARIE (CAP. 1377.1) </title>
-			<description>LIQUIDAZIONE SPESE ACQUISTO MATERIALE DI CONSUMO, STAMPATI E VARIE (CAP. 1377.1) </description>
-			<a10:updated>2018-01-22T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3173025</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3173025</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 22 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 29 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3173025</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
-			<title>LIQUIDAZIONE SPESE DI ACQUISTO MATERIALE DI CONSUMO, STAMPATI E VARIE (CAP. 1377.5) </title>
-			<description>LIQUIDAZIONE SPESE DI ACQUISTO MATERIALE DI CONSUMO, STAMPATI E VARIE (CAP. 1377.5) </description>
 			<a10:updated>2018-01-22T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
