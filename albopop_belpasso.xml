@@ -5,7 +5,7 @@
 		<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Belpasso</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 23 Jan 2018 10:31:13 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 23 Jan 2018 12:34:16 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Belpasso</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Belpasso</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_belpasso</a10:id>
-		<pubDate>Tue, 23 Jan 2018 10:31:13 +0100</pubDate>
+		<pubDate>Tue, 23 Jan 2018 12:34:16 +0100</pubDate>
 		<docs>http://albopop.it/comune/belpasso/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3815493</guid>
+			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3815493</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 23 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 07 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3815493</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>RETTIFICA PARZIALE DETERMINAZIONE DIRIGENZIALE N.168 DEL 15.11.2017. PROCEDURA APERTA PER L'APPALTO DEL SERVIZIO DI TRASPORTO GRATUITO ALUNNI DELLE SCUOLE PRIMARIE E SECONDARIE DI PRIMO GRADO. PERIODO 2018 / 2020. DETERMINA A CONTRATTARE E APPROVAZIONE ATTI DI GARA </title>
+			<description>RETTIFICA PARZIALE DETERMINAZIONE DIRIGENZIALE N.168 DEL 15.11.2017. PROCEDURA APERTA PER L'APPALTO DEL SERVIZIO DI TRASPORTO GRATUITO ALUNNI DELLE SCUOLE PRIMARIE E SECONDARIE DI PRIMO GRADO. PERIODO 2018 / 2020. DETERMINA A CONTRATTARE E APPROVAZIONE ATTI DI GARA </description>
+			<a10:updated>2018-01-23T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3813752</guid>
 			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3813752</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>SERVIZIO DI PULIZIA LOCALI ED UFFICI COMUNALI - LIQUIDAZIONE DI SPESE - DITTA LOUIS S.R.L. S. LUCIA DEL MELA (ME) CIG: 6932577F81 </title>
 			<description>SERVIZIO DI PULIZIA LOCALI ED UFFICI COMUNALI - LIQUIDAZIONE DI SPESE - DITTA LOUIS S.R.L. S. LUCIA DEL MELA (ME) CIG: 6932577F81 </description>
-			<a10:updated>2018-01-22T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3813510</guid>
-			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3813510</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 22 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 06 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3813510</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>ATTIVAZIONE SERVIZIO APP MUNICIPIUM. LIQUIDAZIONE SPESE . CIG Z2B2027645 </title>
-			<description>ATTIVAZIONE SERVIZIO APP MUNICIPIUM. LIQUIDAZIONE SPESE . CIG Z2B2027645 </description>
 			<a10:updated>2018-01-22T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
