@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 23 Jan 2018 17:31:52 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 23 Jan 2018 18:32:02 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Tue, 23 Jan 2018 17:31:52 +0100</pubDate>
+		<pubDate>Tue, 23 Jan 2018 18:32:02 +0100</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3176476</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3176476</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 23 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 07 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3176476</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
+			<title>LIQUIDAZIONE FATTURA ELETTRONICA 18/3 DEL 20/12/2017, EMESSA DALLA DITTA CADSIT SRL PER NOLEGGIO DI TRE LICENZE ANNUALI DEL SOFTWARE AUTOCAD LT </title>
+			<description>LIQUIDAZIONE FATTURA ELETTRONICA 18/3 DEL 20/12/2017, EMESSA DALLA DITTA CADSIT SRL PER NOLEGGIO DI TRE LICENZE ANNUALI DEL SOFTWARE AUTOCAD LT </description>
+			<a10:updated>2018-01-23T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3176430</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3176430</link>
@@ -280,17 +291,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DELIBERE DI GIUNTA</category>
 			<title>DOMENICHE ECOLOGICHE PER LA SENSIBILIZZAZIONE DELLA POPOLAZIONE ALLA RIDUZIONE DELL'UTILIZZO DEI VEICOLI A MOTORE IN RELAZIONE AI FENOMENI DI INQUINAMENTO ATMOSFERICO </title>
 			<description>DOMENICHE ECOLOGICHE PER LA SENSIBILIZZAZIONE DELLA POPOLAZIONE ALLA RIDUZIONE DELL'UTILIZZO DEI VEICOLI A MOTORE IN RELAZIONE AI FENOMENI DI INQUINAMENTO ATMOSFERICO </description>
-			<a10:updated>2018-01-19T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3171933</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3171933</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 19 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 03 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3171933</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DELIBERE DI GIUNTA</category>
-			<title>PIANO DI RECUPERO DI INIZIATIVA PRIVATA IN APPLICAZIONE ART.3 DELLA L.R. N. 13/2011, IN ROVIGO VIA MARTIRI DI BELFIORE – DITTA MARFIN SRL – VARIANTE ART. 8 N.T.A. - APPROVAZIONE. </title>
-			<description>PIANO DI RECUPERO DI INIZIATIVA PRIVATA IN APPLICAZIONE ART.3 DELLA L.R. N. 13/2011, IN ROVIGO VIA MARTIRI DI BELFIORE – DITTA MARFIN SRL – VARIANTE ART. 8 N.T.A. - APPROVAZIONE. </description>
 			<a10:updated>2018-01-19T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

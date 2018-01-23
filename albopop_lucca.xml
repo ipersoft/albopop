@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 23 Jan 2018 17:31:34 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 23 Jan 2018 18:31:57 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Tue, 23 Jan 2018 17:31:34 +0100</pubDate>
+		<pubDate>Tue, 23 Jan 2018 18:31:57 +0100</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3817379</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3817379</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 23 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 07 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3817379</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>MANUTENZIONE ORDINARIA DEL RETICOLO DEI CANALI EX IRRIGATORI PER L'ANNO 2017. APPROVAZIONE DEL VERBALE NUOVI PREZZI CIG: ZE320111F3. (CONTENUTO: FAMIGLIA 05 "ATTI INERENTI E CONSEGUENTI GLI AFFIDAMENTI DI LL.SS.FF."). </title>
+			<description>MANUTENZIONE ORDINARIA DEL RETICOLO DEI CANALI EX IRRIGATORI PER L'ANNO 2017. APPROVAZIONE DEL VERBALE NUOVI PREZZI CIG: ZE320111F3. (CONTENUTO: FAMIGLIA 05 "ATTI INERENTI E CONSEGUENTI GLI AFFIDAMENTI DI LL.SS.FF."). </description>
+			<a10:updated>2018-01-23T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3816977</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3816977</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>AUTORITA' PER IL SERVIZIO DI GESTIONE INTEGRATA DEI RIFIUTI URBANI NELL'AMBITO TERRITORIALE OTTIMALE TOSCANA COSTA - IMPEGNO E LIQUIDAZIONE DELLA SPESA RELATIVA ALLA QUOTA DI PARTECIPAZIONE ANNO 2018. </title>
 			<description>AUTORITA' PER IL SERVIZIO DI GESTIONE INTEGRATA DEI RIFIUTI URBANI NELL'AMBITO TERRITORIALE OTTIMALE TOSCANA COSTA - IMPEGNO E LIQUIDAZIONE DELLA SPESA RELATIVA ALLA QUOTA DI PARTECIPAZIONE ANNO 2018. </description>
-			<a10:updated>2018-01-22T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3813049</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3813049</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 22 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 06 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3813049</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>VIA DELL'OLIVO,CENTRO STORICO,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE,DAL 26/01/2018 AL 30/01/2018. </title>
-			<description>VIA DELL'OLIVO,CENTRO STORICO,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE,DAL 26/01/2018 AL 30/01/2018. </description>
 			<a10:updated>2018-01-22T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
