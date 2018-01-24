@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 24 Jan 2018 15:31:12 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 24 Jan 2018 16:31:23 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Wed, 24 Jan 2018 15:31:12 +0100</pubDate>
+		<pubDate>Wed, 24 Jan 2018 16:31:23 +0100</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3178621</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3178621</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 24 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 01 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3178621</category>
+			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>PUBBLICAZIONI DI MATRIMONIO MAZZOLI FEDERICO E ALINOVI EMANUELA </title>
+			<description>PUBBLICAZIONI DI MATRIMONIO MAZZOLI FEDERICO E ALINOVI EMANUELA </description>
+			<a10:updated>2018-01-24T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3176714</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3176714</link>
@@ -281,17 +292,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
 			<title>AFFIDAMENTO A BAYER S.P.A. (CIG: Z2921AC9AB), EFAS S.P.A. (CIG: Z5721B72F1) DI FORNITURA DI FARMACI, PARAFARMACI E ALTRI GENERI IN VENDITA PRESSO LA FARMACIA COMUNALE </title>
 			<description>AFFIDAMENTO A BAYER S.P.A. (CIG: Z2921AC9AB), EFAS S.P.A. (CIG: Z5721B72F1) DI FORNITURA DI FARMACI, PARAFARMACI E ALTRI GENERI IN VENDITA PRESSO LA FARMACIA COMUNALE </description>
-			<a10:updated>2018-01-17T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3167470</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3167470</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 17 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 01 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3167470</category>
-			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
-			<title>LAVORI DI RISTRUTTURAZIONE SPOGLIATOI E RIFACIMENTO CAMPO IN ERBA SINTETICA CON AMPLIAMENTO PER CALCIO A 7 PRESSO IL CENTRO SPORTIVO COMUNALE “B. MAINARDI” DI COLLECCHIO. IMPEGNO DI SPESA PER VERIFICA FINALE DEI LAVORI A FAVORE DEL CONI EMILIA ROMAGNA - CIG: ZD021AEFD1 </title>
-			<description>LAVORI DI RISTRUTTURAZIONE SPOGLIATOI E RIFACIMENTO CAMPO IN ERBA SINTETICA CON AMPLIAMENTO PER CALCIO A 7 PRESSO IL CENTRO SPORTIVO COMUNALE “B. MAINARDI” DI COLLECCHIO. IMPEGNO DI SPESA PER VERIFICA FINALE DEI LAVORI A FAVORE DEL CONI EMILIA ROMAGNA - CIG: ZD021AEFD1 </description>
 			<a10:updated>2018-01-17T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

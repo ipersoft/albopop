@@ -5,7 +5,7 @@
 		<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bernareggio</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 24 Jan 2018 15:30:57 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 24 Jan 2018 16:31:04 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bernareggio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bernareggio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bernareggio</a10:id>
-		<pubDate>Wed, 24 Jan 2018 15:30:57 +0100</pubDate>
+		<pubDate>Wed, 24 Jan 2018 16:31:04 +0100</pubDate>
 		<docs>http://albopop.it/comune/bernareggio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3819861</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3819861</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 24 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 08 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3819861</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
+			<title>APPROVAZIONE ELENCO PROVVISORIO RESIDUI PRESUNTI ALLA DATA DELL' 1.01.2018 E CONTESTUALE VARIAZIONE DI CASSA AL BILANCIO 2018 </title>
+			<description>APPROVAZIONE ELENCO PROVVISORIO RESIDUI PRESUNTI ALLA DATA DELL' 1.01.2018 E CONTESTUALE VARIAZIONE DI CASSA AL BILANCIO 2018 </description>
+			<a10:updated>2018-01-24T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3819858</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3819858</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 24 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 08 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3819858</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
+			<title>PIANO TRIENNALE DI PREVENZIONE DELLA CORRUZIONE E PER LA TRASPARENZA 2018 - 2020 - PRIMO ESAME </title>
+			<description>PIANO TRIENNALE DI PREVENZIONE DELLA CORRUZIONE E PER LA TRASPARENZA 2018 - 2020 - PRIMO ESAME </description>
+			<a10:updated>2018-01-24T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3819644</guid>
 			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3819644</link>
@@ -271,28 +293,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>ASSEGNAZIONE FONDO ECONOMALE ESERCIZIO 2018. </title>
 			<description>ASSEGNAZIONE FONDO ECONOMALE ESERCIZIO 2018. </description>
-			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3806273</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3806273</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 18 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 19 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3806273</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI</category>
-			<title>POSTA CERTIFICATA: RETTIFICA BANDO MOBILITÀ VOLONTARIA ISTRUTTORE AMM.VO BIBLIOTECARIO CAT.C </title>
-			<description>POSTA CERTIFICATA: RETTIFICA BANDO MOBILITÀ VOLONTARIA ISTRUTTORE AMM.VO BIBLIOTECARIO CAT.C </description>
-			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3806140</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3806140</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 18 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 14 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3806140</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI</category>
-			<title>TRASMISSIONE AVVISO PUBBLICO PER LA COSTITUZIONE DI UN RAPPORTO DI LAVORO SUBORDINATO A TEMPO DETERMINATO E PIENO MEDIANTE CONTRATTO EX ART. 110, COMMA 1, DEL D.LGS. N. 267/2000, PER LA COPERTURA DI UNA POSIZIONE DIRIGENZIALE IN DOTAZIONE ORGANICA CON INCARICO DI “DIRIGENTE DEL SETTORE PIANIFICAZIONE E GESTIONE DEL TERRITORIO” </title>
-			<description>TRASMISSIONE AVVISO PUBBLICO PER LA COSTITUZIONE DI UN RAPPORTO DI LAVORO SUBORDINATO A TEMPO DETERMINATO E PIENO MEDIANTE CONTRATTO EX ART. 110, COMMA 1, DEL D.LGS. N. 267/2000, PER LA COPERTURA DI UNA POSIZIONE DIRIGENZIALE IN DOTAZIONE ORGANICA CON INCARICO DI “DIRIGENTE DEL SETTORE PIANIFICAZIONE E GESTIONE DEL TERRITORIO” </description>
 			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
