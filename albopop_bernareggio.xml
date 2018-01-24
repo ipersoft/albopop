@@ -5,7 +5,7 @@
 		<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bernareggio</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 24 Jan 2018 08:31:01 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 24 Jan 2018 09:31:17 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bernareggio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bernareggio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bernareggio</a10:id>
-		<pubDate>Wed, 24 Jan 2018 08:31:01 +0100</pubDate>
+		<pubDate>Wed, 24 Jan 2018 09:31:17 +0100</pubDate>
 		<docs>http://albopop.it/comune/bernareggio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3817711</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3817711</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 24 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 24 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3817711</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI</category>
+			<title>POSTA CERTIFICATA: AVVISO DI MOBILITÀ VOLONTARIA AI SENSI DELL'ART. 30 DEL D.LGS. N. 165/2001 PER LA COPERTURA DI N. 1 </title>
+			<description>POSTA CERTIFICATA: AVVISO DI MOBILITÀ VOLONTARIA AI SENSI DELL'ART. 30 DEL D.LGS. N. 165/2001 PER LA COPERTURA DI N. 1 </description>
+			<a10:updated>2018-01-24T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3816160</guid>
 			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3816160</link>
@@ -279,17 +290,6 @@
 			<title>AVVISO DI MOBILITA' PER LA COPERTURA A TEMPO INDETERMINATO DI UN POSTO DI COLLABORATORE AI SERVIZI DI SUPPORTO - CAT. B3 – DA DESTINARE ALL’AREA AFFARI GENERALI/SERVIZI DEMOGRAFICI – SEC (SOTTOCOMMISSIONE ELETTORALE CIRCONDARIALE). </title>
 			<description>AVVISO DI MOBILITA' PER LA COPERTURA A TEMPO INDETERMINATO DI UN POSTO DI COLLABORATORE AI SERVIZI DI SUPPORTO - CAT. B3 – DA DESTINARE ALL’AREA AFFARI GENERALI/SERVIZI DEMOGRAFICI – SEC (SOTTOCOMMISSIONE ELETTORALE CIRCONDARIALE). </description>
 			<a10:updated>2018-01-17T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3796215</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3796215</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 15 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 30 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3796215</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>VARIAZIONI TRA GLI STANZIAMENTI RIGUARDANTI IL FONDO PLURIENNALE VINCOLATO E GLI STANZIAMENTI CORRELATI, IN TERMINI DI COMPETENZA E DI CASSA - VARIAZIONI AL BILANCIO DI PREVISIONE 2018/2020 DAL N. 1 AL N. 12 </title>
-			<description>VARIAZIONI TRA GLI STANZIAMENTI RIGUARDANTI IL FONDO PLURIENNALE VINCOLATO E GLI STANZIAMENTI CORRELATI, IN TERMINI DI COMPETENZA E DI CASSA - VARIAZIONI AL BILANCIO DI PREVISIONE 2018/2020 DAL N. 1 AL N. 12 </description>
-			<a10:updated>2018-01-15T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>

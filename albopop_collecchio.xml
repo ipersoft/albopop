@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 24 Jan 2018 08:31:19 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 24 Jan 2018 09:31:38 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Wed, 24 Jan 2018 08:31:19 +0100</pubDate>
+		<pubDate>Wed, 24 Jan 2018 09:31:38 +0100</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3176714</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3176714</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 24 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3176714</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO ON LINE AVVISI ELETTORALI</category>
+			<title>ELENCO CITTADINI NATI NELL'ANNO 2000, CHE NON AVRANNO COMPIUTO 18 ANNI IL GIORNO 04/03/2018, E CHE PERTANTO NON POTRANNO VOTARE ALLE ELEZIONI POLITICHE </title>
+			<description>ELENCO CITTADINI NATI NELL'ANNO 2000, CHE NON AVRANNO COMPIUTO 18 ANNI IL GIORNO 04/03/2018, E CHE PERTANTO NON POTRANNO VOTARE ALLE ELEZIONI POLITICHE </description>
+			<a10:updated>2018-01-24T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3175580</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3175580</link>
@@ -282,17 +292,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
 			<title>LAVORI DI RISTRUTTURAZIONE SPOGLIATOI E RIFACIMENTO CAMPO IN ERBA SINTETICA CON AMPLIAMENTO PER CALCIO A 7 PRESSO IL CENTRO SPORTIVO COMUNALE “B. MAINARDI” DI COLLECCHIO. IMPEGNO DI SPESA PER VERIFICA FINALE DEI LAVORI A FAVORE DEL CONI EMILIA ROMAGNA - CIG: ZD021AEFD1 </title>
 			<description>LAVORI DI RISTRUTTURAZIONE SPOGLIATOI E RIFACIMENTO CAMPO IN ERBA SINTETICA CON AMPLIAMENTO PER CALCIO A 7 PRESSO IL CENTRO SPORTIVO COMUNALE “B. MAINARDI” DI COLLECCHIO. IMPEGNO DI SPESA PER VERIFICA FINALE DEI LAVORI A FAVORE DEL CONI EMILIA ROMAGNA - CIG: ZD021AEFD1 </description>
-			<a10:updated>2018-01-17T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3167468</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3167468</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 17 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 01 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3167468</category>
-			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
-			<title>INCARICHI LIBERA PROFESSIONE PRESSO FARMACIA COMUNALE </title>
-			<description>INCARICHI LIBERA PROFESSIONE PRESSO FARMACIA COMUNALE </description>
 			<a10:updated>2018-01-17T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

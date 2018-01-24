@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 24 Jan 2018 08:30:51 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 24 Jan 2018 09:31:00 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Wed, 24 Jan 2018 08:30:51 +0100</pubDate>
+		<pubDate>Wed, 24 Jan 2018 09:31:00 +0100</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/867185</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/867185</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 24 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 02 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">867185</category>
+			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO RICHIESTA PUBBLICAZIONE MATRIMONIO ALBO</category>
+			<title>PUBBLICAZIONI DI MATRIMONIO DI PAOLINI ALESSANDRO E LUGLI LUCIA </title>
+			<description>PUBBLICAZIONI DI MATRIMONIO DI PAOLINI ALESSANDRO E LUGLI LUCIA </description>
+			<a10:updated>2018-01-24T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/867141</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/867141</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALBO PUBBLICAZIONI RICHIESTE DA SOGGETTI ESTERNI</category>
 			<title>AVVISO - SELEZIONE OPERATORI QUALIFICATI PER PROCEDURA DI GARA PER AFFIDAMENTO GESTIONE DEL SERVIZIO DI PRELIEVO, TRASPORTO, MESSA IN SICUREZZA, DEMOLIZIONE E RADIAZIONE DAL PUBBLICO REGISTRO AUTOMOBILISTICO AMBITO TERRITORIALE DELLE PROVINCE DI ANCONA - DI ASCOLI PICENO, FERMO, MACERATA, PESARO E URBINO </title>
 			<description>AVVISO - SELEZIONE OPERATORI QUALIFICATI PER PROCEDURA DI GARA PER AFFIDAMENTO GESTIONE DEL SERVIZIO DI PRELIEVO, TRASPORTO, MESSA IN SICUREZZA, DEMOLIZIONE E RADIAZIONE DAL PUBBLICO REGISTRO AUTOMOBILISTICO AMBITO TERRITORIALE DELLE PROVINCE DI ANCONA - DI ASCOLI PICENO, FERMO, MACERATA, PESARO E URBINO </description>
-			<a10:updated>2018-01-22T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/865488</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/865488</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 22 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 06 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">865488</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALBO PUBBLICAZIONI RICHIESTE DA SOGGETTI ESTERNI</category>
-			<title>AUTORIZZAZIONE N. 207/2018 - ABBATTIMENTO PIANTE TUTELATE PUBBLICHE IN VIA MILANO E VIA LUNGOFOGLIA CABOTO </title>
-			<description>AUTORIZZAZIONE N. 207/2018 - ABBATTIMENTO PIANTE TUTELATE PUBBLICHE IN VIA MILANO E VIA LUNGOFOGLIA CABOTO </description>
 			<a10:updated>2018-01-22T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
