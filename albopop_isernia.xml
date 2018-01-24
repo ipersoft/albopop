@@ -5,7 +5,7 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 24 Jan 2018 12:31:24 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 24 Jan 2018 13:31:53 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Isernia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>Wed, 24 Jan 2018 12:31:24 +0100</pubDate>
+		<pubDate>Wed, 24 Jan 2018 13:31:53 +0100</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3819051</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3819051</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 24 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 08 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3819051</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
+			<title> impegno di spesa per utenze TELECOM e ADSL per la sede del centro sociale "Sabino D'Acunto"CIGZ671DC3ABC. </title>
+			<description> impegno di spesa per utenze TELECOM e ADSL per la sede del centro sociale "Sabino D'Acunto"CIGZ671DC3ABC. </description>
+			<a10:updated>2018-01-24T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3818937</guid>
 			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3818937</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
 			<title>ATTO DI LIQUIDAZIONE DI SPESA -Pagamento utenza ENERGIA ELETTRICA Biblioteca comunale, Museo e AREA ARCHEOLOGICA- Periodo :- dicembre 2017 CIG: 6975495891. </title>
 			<description>ATTO DI LIQUIDAZIONE DI SPESA -Pagamento utenza ENERGIA ELETTRICA Biblioteca comunale, Museo e AREA ARCHEOLOGICA- Periodo :- dicembre 2017 CIG: 6975495891. </description>
-			<a10:updated>2018-01-23T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3817339</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3817339</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 23 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 07 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3817339</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
-			<title>liquidazione di spesa per utenze metano per l'asilo nido comunale - ditta Estra Energie Srl per il mese di Novembre 2017- CIG 697978197C. </title>
-			<description>liquidazione di spesa per utenze metano per l'asilo nido comunale - ditta Estra Energie Srl per il mese di Novembre 2017- CIG 697978197C. </description>
 			<a10:updated>2018-01-23T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
