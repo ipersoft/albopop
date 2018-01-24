@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 23 Jan 2018 18:30:46 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 24 Jan 2018 08:30:47 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Tue, 23 Jan 2018 18:30:46 +0100</pubDate>
+		<pubDate>Wed, 24 Jan 2018 08:30:47 +0100</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3817491</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3817491</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 24 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 08 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3817491</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>IMPEGNO E LIQUIDAZIONE CONTRIBUTI ECONOMICI UNA TANTUM UTENTI VARI. GENNAIO 2018. </title>
+			<description>IMPEGNO E LIQUIDAZIONE CONTRIBUTI ECONOMICI UNA TANTUM UTENTI VARI. GENNAIO 2018. </description>
+			<a10:updated>2018-01-24T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3817288</guid>
 			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3817288</link>
@@ -282,17 +293,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">AVVISO GENERICO</category>
 			<title>ELENCO DEI CITTADINI CHE, PUR ESSENDO COMPRESI NELLE LISTE ELETTORALI, NON AVRANNO COMPIUTO, NEL PRIMO GIORNO FISSATO PER LE ELEZIONI, IL DICIOTTESIMO ANNO D'ETA'. -ELEZIONI POLITICHE 4 MARZO 2018-. </title>
 			<description>ELENCO DEI CITTADINI CHE, PUR ESSENDO COMPRESI NELLE LISTE ELETTORALI, NON AVRANNO COMPIUTO, NEL PRIMO GIORNO FISSATO PER LE ELEZIONI, IL DICIOTTESIMO ANNO D'ETA'. -ELEZIONI POLITICHE 4 MARZO 2018-. </description>
-			<a10:updated>2018-01-19T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3809812</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3809812</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 19 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 03 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3809812</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>ELEZIONI DELLA CAMERA DEI DEPUTATI E DEL SENATO DELLA REPUBBLICA 4 MARZO 2018 - IMPEGNO DI SPESA PER IL SERVIZIO DI PULIZIA DEI LOCALI SEDE DI SEGGIO GIUSTA CONTRATTO REP. N. 2921 / RACC. N. 142 DEL 19.04.2012 – CODICE CIG Z3321BBD8F </title>
-			<description>ELEZIONI DELLA CAMERA DEI DEPUTATI E DEL SENATO DELLA REPUBBLICA 4 MARZO 2018 - IMPEGNO DI SPESA PER IL SERVIZIO DI PULIZIA DEI LOCALI SEDE DI SEGGIO GIUSTA CONTRATTO REP. N. 2921 / RACC. N. 142 DEL 19.04.2012 – CODICE CIG Z3321BBD8F </description>
 			<a10:updated>2018-01-19T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

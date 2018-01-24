@@ -5,7 +5,7 @@
 		<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Viterbo</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 23 Jan 2018 18:30:59 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 24 Jan 2018 08:30:53 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Viterbo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Viterbo</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Viterbo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_viterbo</a10:id>
-		<pubDate>Tue, 23 Jan 2018 18:30:59 +0100</pubDate>
+		<pubDate>Wed, 24 Jan 2018 08:30:53 +0100</pubDate>
 		<docs>http://albopop.it/comune/viterbo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -53,6 +53,17 @@
 			<title>ORARIO CDI APERTURA UFFICIO ELETTORALE PER RILASCIO CERTIFICATI ISCRIZIONE LISTE ELETTORALI E PER ADEMPIMENTI RELATIVI ALLA PRESENTAZIONE DELLE CANDIDATURE ELEZIONI POLITICHE DI DOMENICA 3 MARZO 2018 </title>
 			<description>ORARIO CDI APERTURA UFFICIO ELETTORALE PER RILASCIO CERTIFICATI ISCRIZIONE LISTE ELETTORALI E PER ADEMPIMENTI RELATIVI ALLA PRESENTAZIONE DELLE CANDIDATURE ELEZIONI POLITICHE DI DOMENICA 3 MARZO 2018 </description>
 			<a10:updated>2018-01-23T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3817051</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3817051</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 24 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 01 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3817051</category>
+			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO </category>
+			<title>PUBBLICAZIONE DI MATRIMONIO N. 13/2018 VOSLOBAN - TEPES DAL 24/01/2018 </title>
+			<description>PUBBLICAZIONE DI MATRIMONIO N. 13/2018 VOSLOBAN - TEPES DAL 24/01/2018 </description>
+			<a10:updated>2018-01-24T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3816478</guid>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
 			<title>ATTRIBUZIONE POSIZIONE ORGANIZZATIVA ANNO 2018 - SERVIZI DEMOGRAFICI - SIG.RA DANIELA SEGATORI </title>
 			<description>ATTRIBUZIONE POSIZIONE ORGANIZZATIVA ANNO 2018 - SERVIZI DEMOGRAFICI - SIG.RA DANIELA SEGATORI </description>
-			<a10:updated>2018-01-23T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3815327</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3815327</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 23 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 07 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3815327</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
-			<title>ATTRIBUZIONE POSIZIONE ORGANIZZATIVA ANNO 2018 - SERVIZI INFORMATICI - DOTT.SSA TIZIANA FRACASSINI </title>
-			<description>ATTRIBUZIONE POSIZIONE ORGANIZZATIVA ANNO 2018 - SERVIZI INFORMATICI - DOTT.SSA TIZIANA FRACASSINI </description>
 			<a10:updated>2018-01-23T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
