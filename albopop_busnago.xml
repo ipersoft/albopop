@@ -5,7 +5,7 @@
 		<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Busnago</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 24 Jan 2018 10:31:01 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 24 Jan 2018 11:31:13 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Busnago</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Busnago</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_busnago</a10:id>
-		<pubDate>Wed, 24 Jan 2018 10:31:01 +0100</pubDate>
+		<pubDate>Wed, 24 Jan 2018 11:31:13 +0100</pubDate>
 		<docs>http://albopop.it/comune/busnago/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3818509</guid>
+			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3818509</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 24 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 23 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3818509</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DOMANDA DI CAMBIAMENTO DEL COGNOME O DEL NOME</category>
+			<title>AVVISO DI AVER PRESENTATO DOMANDA DI CAMBIAMENTO NOME E DECRETO CAMBIAMENTO NOME MALDONADO ALESSANDRO E MALDONADO ELISA </title>
+			<description>AVVISO DI AVER PRESENTATO DOMANDA DI CAMBIAMENTO NOME E DECRETO CAMBIAMENTO NOME MALDONADO ALESSANDRO E MALDONADO ELISA </description>
+			<a10:updated>2018-01-24T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3813748</guid>
 			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3813748</link>
@@ -281,17 +292,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DETERMINAZIONE DEI RESPONSABILI</category>
 			<title>L.R. 32/2014: IMPEGNO DI SPESA PER LE FINALITÀ DI CUI ALL'ART. 5, COMMA 10 LETT. C) </title>
 			<description>L.R. 32/2014: IMPEGNO DI SPESA PER LE FINALITÀ DI CUI ALL'ART. 5, COMMA 10 LETT. C) </description>
-			<a10:updated>2018-01-13T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3795532</guid>
-			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3795532</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 13 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 28 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3795532</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DETERMINAZIONE DEI RESPONSABILI</category>
-			<title>F.A.V. - FONDO AREE VERDI: IMPEGNO DI SPESA PER LE FINALITÀ DI CUI ALL'ART. 43 DELLA L.R. 12/2005 </title>
-			<description>F.A.V. - FONDO AREE VERDI: IMPEGNO DI SPESA PER LE FINALITÀ DI CUI ALL'ART. 43 DELLA L.R. 12/2005 </description>
 			<a10:updated>2018-01-13T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

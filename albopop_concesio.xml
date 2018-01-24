@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 24 Jan 2018 10:30:35 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 24 Jan 2018 11:30:37 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Wed, 24 Jan 2018 10:30:35 +0100</pubDate>
+		<pubDate>Wed, 24 Jan 2018 11:30:37 +0100</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3818347</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3818347</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 24 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 13 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3818347</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI DEPOSITO - ART. 143 C.P.C.</category>
+			<title>MESSO COMUNALE: NOTIFICA N. 26/2018 DEL 23/01/2018 DI LODA GRAZIANO </title>
+			<description>MESSO COMUNALE: NOTIFICA N. 26/2018 DEL 23/01/2018 DI LODA GRAZIANO </description>
+			<a10:updated>2018-01-24T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3818049</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3818049</link>
@@ -278,17 +289,6 @@
 			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 17 Jan 2018 01:00:00 +0100</category>
 			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 17 Feb 2018 01:00:00 +0100</category>
 			<category domain="http://albopop.it/specs#item-category-uid">3804242</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI AVVISO</category>
-			<title>ACB- INVIO MASSIVO COMUNE DI ISEO - COMUNE DI CALVISANO - COMUNE DI REZZATO </title>
-			<description>ACB- INVIO MASSIVO COMUNE DI ISEO - COMUNE DI CALVISANO - COMUNE DI REZZATO </description>
-			<a10:updated>2018-01-17T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3804241</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3804241</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 17 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 16 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3804241</category>
 			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI AVVISO</category>
 			<title>ACB- INVIO MASSIVO COMUNE DI ISEO - COMUNE DI CALVISANO - COMUNE DI REZZATO </title>
 			<description>ACB- INVIO MASSIVO COMUNE DI ISEO - COMUNE DI CALVISANO - COMUNE DI REZZATO </description>

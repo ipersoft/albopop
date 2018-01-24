@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 24 Jan 2018 10:31:14 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 24 Jan 2018 11:31:28 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Wed, 24 Jan 2018 10:31:14 +0100</pubDate>
+		<pubDate>Wed, 24 Jan 2018 11:31:28 +0100</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3177515</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3177515</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 24 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 01 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3177515</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO PUBBLICAZIONE AVVISO</category>
+			<title>AVVISO DI DEPOSITO DI N.2 ATTI NELLA CASA COMUNALE </title>
+			<description>AVVISO DI DEPOSITO DI N.2 ATTI NELLA CASA COMUNALE </description>
+			<a10:updated>2018-01-24T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3176584</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3176584</link>
@@ -282,17 +293,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
 			<title>MANUTENZIONE DEL MANTO ERBOSO DEL CAMPO DI CALCIO DI "SAN COSTANZO" E DI PALAZZO A MARE. LIQUIDAZIONE DELLA FATTURA DELLA DITTA "AZIENDA AGRICOLA MAISTO LUIGI S.R.L. UNIPERSONALE" DI MELITO DI NAPOLI (NA). </title>
 			<description>MANUTENZIONE DEL MANTO ERBOSO DEL CAMPO DI CALCIO DI "SAN COSTANZO" E DI PALAZZO A MARE. LIQUIDAZIONE DELLA FATTURA DELLA DITTA "AZIENDA AGRICOLA MAISTO LUIGI S.R.L. UNIPERSONALE" DI MELITO DI NAPOLI (NA). </description>
-			<a10:updated>2018-01-19T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3170637</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3170637</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 19 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 03 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3170637</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
-			<title>FORNITURA DI CALZATURE SPECIALI ORTOPEDICHE E CON PLANTARE PER UN DIPENDENTE IN SERVIZIO NEL CIMITERO COMUNALE. LIQUIDAZIONE DELLA FATTURA DELLA DITTA "ORTOPEDIA MERIDIONALE DI ZUNGRI S. &amp; C. S.A.S." DI NAPOLI. </title>
-			<description>FORNITURA DI CALZATURE SPECIALI ORTOPEDICHE E CON PLANTARE PER UN DIPENDENTE IN SERVIZIO NEL CIMITERO COMUNALE. LIQUIDAZIONE DELLA FATTURA DELLA DITTA "ORTOPEDIA MERIDIONALE DI ZUNGRI S. &amp; C. S.A.S." DI NAPOLI. </description>
 			<a10:updated>2018-01-19T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
