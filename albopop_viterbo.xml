@@ -5,7 +5,7 @@
 		<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Viterbo</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 24 Jan 2018 16:30:49 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 24 Jan 2018 17:30:53 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Viterbo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Viterbo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Viterbo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_viterbo</a10:id>
-		<pubDate>Wed, 24 Jan 2018 16:30:49 +0100</pubDate>
+		<pubDate>Wed, 24 Jan 2018 17:30:53 +0100</pubDate>
 		<docs>http://albopop.it/comune/viterbo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3820278</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3820278</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 24 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 26 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3820278</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONVOCAZIONE COMMISSIONE </category>
+			<title>CONVOCAZIONE III° COMMISSIONE CONSILIARE 26/01/2018 </title>
+			<description>CONVOCAZIONE III° COMMISSIONE CONSILIARE 26/01/2018 </description>
+			<a10:updated>2018-01-24T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3819694</guid>
 			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3819694</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
 			<title>ATTRIBUZIONE RETRIBUZIONE DI RISULTATO ANNO 2016 ALLA DOTT.SSA TIZIANA CELESTINI - TITOLARE DELLA POSIZIONE ORGANIZZATIVA INDIVIDUATA NEL SERVIZIO GESTIONE E SVILUPPO DEL PERSONALE, PROTOCOLLO GENERALE </title>
 			<description>ATTRIBUZIONE RETRIBUZIONE DI RISULTATO ANNO 2016 ALLA DOTT.SSA TIZIANA CELESTINI - TITOLARE DELLA POSIZIONE ORGANIZZATIVA INDIVIDUATA NEL SERVIZIO GESTIONE E SVILUPPO DEL PERSONALE, PROTOCOLLO GENERALE </description>
-			<a10:updated>2018-01-23T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3815369</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3815369</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 23 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 07 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3815369</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
-			<title>ATTRIBUZIONE RETRIBUZIONE DI RISULTATO ANNO 2016 ALLA DOTT.SSA ANNA MARIA BRANCHER - TITOLARE DELLA POSIZIONE ORGANIZZATIVA INDIVIDUATA NEL SERVIZIO LEGALE E CONTENZIOSO, GESTIONE CONTRATTI ASSICURATIVI E AFFARI AMMINISTRATIVI </title>
-			<description>ATTRIBUZIONE RETRIBUZIONE DI RISULTATO ANNO 2016 ALLA DOTT.SSA ANNA MARIA BRANCHER - TITOLARE DELLA POSIZIONE ORGANIZZATIVA INDIVIDUATA NEL SERVIZIO LEGALE E CONTENZIOSO, GESTIONE CONTRATTI ASSICURATIVI E AFFARI AMMINISTRATIVI </description>
 			<a10:updated>2018-01-23T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
