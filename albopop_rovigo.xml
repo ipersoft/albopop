@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 24 Jan 2018 13:31:54 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 24 Jan 2018 14:31:55 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Wed, 24 Jan 2018 13:31:54 +0100</pubDate>
+		<pubDate>Wed, 24 Jan 2018 14:31:55 +0100</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3178226</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3178226</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 24 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 08 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3178226</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
+			<title>LIQUIDAZIONE DEBITO FUORI BILANCIO PER SPESE DI GESTIONE E MANUTENZIONE ORDINARIA ANNO 2016 DELL’IMMOBILE ADIBITO AD ARCHIVIO GENERALE PRESSO INTERPORTO DI ROVIGO A FAVORE DELLA SOCIETÀ INTERPORTO DI ROVIGO S.P.A. </title>
+			<description>LIQUIDAZIONE DEBITO FUORI BILANCIO PER SPESE DI GESTIONE E MANUTENZIONE ORDINARIA ANNO 2016 DELL’IMMOBILE ADIBITO AD ARCHIVIO GENERALE PRESSO INTERPORTO DI ROVIGO A FAVORE DELLA SOCIETÀ INTERPORTO DI ROVIGO S.P.A. </description>
+			<a10:updated>2018-01-24T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3178162</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3178162</link>
@@ -282,16 +293,6 @@
 			<title> INDIVIDUAZIONE “VARIANTI VERDI” PER LA RICLASSIFICAZIONE DI AREE EDIFICABILI AI SENSI ART. 7 LEGGE REGIONALE 4/2015 - AVVISO </title>
 			<description> INDIVIDUAZIONE “VARIANTI VERDI” PER LA RICLASSIFICAZIONE DI AREE EDIFICABILI AI SENSI ART. 7 LEGGE REGIONALE 4/2015 - AVVISO </description>
 			<a10:updated>2018-01-23T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3172748</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3172748</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 22 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3172748</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI ATTI DIVERSI</category>
-			<title>AVVISO D'ASTA AD UNICO INCANTO PER L'APPALTO DELLA RIVENDITA ORDINARIA GENERI DI MONOPOLIO N. 54 IN ROVIGO CON ANNESSA RICEVITORIA LOTTO RO 2204, VIALE TRIESTE N. 36 </title>
-			<description>AVVISO D'ASTA AD UNICO INCANTO PER L'APPALTO DELLA RIVENDITA ORDINARIA GENERI DI MONOPOLIO N. 54 IN ROVIGO CON ANNESSA RICEVITORIA LOTTO RO 2204, VIALE TRIESTE N. 36 </description>
-			<a10:updated>2018-01-22T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
