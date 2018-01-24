@@ -5,7 +5,7 @@
 		<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Sgurgola</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 24 Jan 2018 17:30:51 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 24 Jan 2018 18:30:43 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Sgurgola</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Frosinone</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Sgurgola</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_sgurgola</a10:id>
-		<pubDate>Wed, 24 Jan 2018 17:30:51 +0100</pubDate>
+		<pubDate>Wed, 24 Jan 2018 18:30:43 +0100</pubDate>
 		<docs>http://albopop.it/comune/sgurgola/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3178756</guid>
+			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3178756</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 24 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 08 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3178756</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI PUBBLICI AVVISO PUBBLICO</category>
+			<title>VOTO DOMICILIARE PER ELETTORI AFFETTI DA INFERMITÀ CHE NE RENDANO IMPOSSIBILE L'ALLONTANAMENTO DALL'ABITAZIONE </title>
+			<description>VOTO DOMICILIARE PER ELETTORI AFFETTI DA INFERMITÀ CHE NE RENDANO IMPOSSIBILE L'ALLONTANAMENTO DALL'ABITAZIONE </description>
+			<a10:updated>2018-01-24T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3178754</guid>
+			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3178754</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 24 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 08 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3178754</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI PUBBLICI AVVISO PUBBLICO</category>
+			<title>ORARI APERTURA UFFICIO ELETTORALE ELEZIONI POLITICHE E REGIONALI DEL 4 MARZO 2018 </title>
+			<description>ORARI APERTURA UFFICIO ELETTORALE ELEZIONI POLITICHE E REGIONALI DEL 4 MARZO 2018 </description>
+			<a10:updated>2018-01-24T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3174926</guid>
 			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3174926</link>
@@ -273,28 +295,6 @@
 			<title>VERBALE N. 408 DEL 21.12.2017 IMPEGNO DI SPESA GESTIONE UFFICIO DELLO STATO CIVILE. </title>
 			<description>VERBALE N. 408 DEL 21.12.2017 IMPEGNO DI SPESA GESTIONE UFFICIO DELLO STATO CIVILE. </description>
 			<a10:updated>2018-01-15T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3162810</guid>
-			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3162810</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 15 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 30 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3162810</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINA</category>
-			<title>VERBALE N. 390 DEL 11/12/2017 MANUTENZIONE AUTOMEZZI COMUNALI IMPEGNO DITTA MARINI </title>
-			<description>VERBALE N. 390 DEL 11/12/2017 MANUTENZIONE AUTOMEZZI COMUNALI IMPEGNO DITTA MARINI </description>
-			<a10:updated>2018-01-15T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3161061</guid>
-			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3161061</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 12 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 27 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3161061</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERA DI CONSIGLIO DELIBERA DI C. C. </category>
-			<title>VERBALE N. 37 DEL 28/12/2017 DISTRETTO SOCIO ASSISTENZIALE "A" APPROVAZIONE SCHEMA DI CONVENZIONE AI SENSI DELL'ART. 30 DEL D.LGSVO N.267/2000 PER LA GESTIONE ASSOCIATA DELLE MATERIE SOCIALI, SOCIO ASSISTENZIALI E SOCIO SANITARIE TRA I COMUNI DEL DISTRETTO SOCIO ASSISTENZIALE "A" </title>
-			<description>VERBALE N. 37 DEL 28/12/2017 DISTRETTO SOCIO ASSISTENZIALE "A" APPROVAZIONE SCHEMA DI CONVENZIONE AI SENSI DELL'ART. 30 DEL D.LGSVO N.267/2000 PER LA GESTIONE ASSOCIATA DELLE MATERIE SOCIALI, SOCIO ASSISTENZIALI E SOCIO SANITARIE TRA I COMUNI DEL DISTRETTO SOCIO ASSISTENZIALE "A" </description>
-			<a10:updated>2018-01-12T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
