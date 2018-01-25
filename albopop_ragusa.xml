@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 25 Jan 2018 08:31:34 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 25 Jan 2018 09:31:53 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Thu, 25 Jan 2018 08:31:34 +0100</pubDate>
+		<pubDate>Thu, 25 Jan 2018 09:31:53 +0100</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3179027</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3179027</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 25 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 01 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3179027</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
+			<title>MISSIONE A PALERMO, MERCOLEDÌ 24 GENNAIO 2018, DEL SINDACO ING. FEDERICO PICCITTO, DEL DIRIGENTE DEL SETTORE V ING. MICHELE SCARPULLA E DELL'AGENTE DI P.M. SIG. CORRADO NOTO. </title>
+			<description>MISSIONE A PALERMO, MERCOLEDÌ 24 GENNAIO 2018, DEL SINDACO ING. FEDERICO PICCITTO, DEL DIRIGENTE DEL SETTORE V ING. MICHELE SCARPULLA E DELL'AGENTE DI P.M. SIG. CORRADO NOTO. </description>
+			<a10:updated>2018-01-25T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3178379</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3178379</link>
@@ -284,17 +295,6 @@
 			<title>CONFERIMENTO INCARICO DI POSIZIONE ORGANIZZATIVA DEL SETTORE VI -ING. PICCITTO GIUSEPPE - "SERVIZIO IDRICO INTEGRATO” ANNO 2018. </title>
 			<description>CONFERIMENTO INCARICO DI POSIZIONE ORGANIZZATIVA DEL SETTORE VI -ING. PICCITTO GIUSEPPE - "SERVIZIO IDRICO INTEGRATO” ANNO 2018. </description>
 			<a10:updated>2018-01-24T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3176472</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3176472</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 23 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 12 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3176472</category>
-			<category domain="http://albopop.it/specs#item-category-type">VERBALI VERBALE INFRAZIONE AL C.S.</category>
-			<title>NOTIFICA AI SENSI DELL'ART. 143 DEL C.P.C. A CARICO DI GIUDICE ANTONINO C/DA RIMMAUDO </title>
-			<description>NOTIFICA AI SENSI DELL'ART. 143 DEL C.P.C. A CARICO DI GIUDICE ANTONINO C/DA RIMMAUDO </description>
-			<a10:updated>2018-01-23T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
