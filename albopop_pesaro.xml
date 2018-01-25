@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 25 Jan 2018 13:30:44 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 25 Jan 2018 14:30:49 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Thu, 25 Jan 2018 13:30:44 +0100</pubDate>
+		<pubDate>Thu, 25 Jan 2018 14:30:49 +0100</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/868494</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/868494</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 25 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 09 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">868494</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PUBBLICAZIONI RICHIESTE DA SOGGETTI ESTERNI</category>
+			<title>AUTORIZZAZIONE N. 352/2018 - ABBATTIMENTO DI PIANTE TUTELATE PUBBLICHE NEL PARCO XXV APRILE </title>
+			<description>AUTORIZZAZIONE N. 352/2018 - ABBATTIMENTO DI PIANTE TUTELATE PUBBLICHE NEL PARCO XXV APRILE </description>
+			<a10:updated>2018-01-25T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/868454</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/868454</link>
@@ -282,17 +293,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>IMPOSTA DI BOLLO ASSOLTA IN MODO VIRUTALE SU CONCESSIONI E AUTORIZZAZIONI RILASCIATE DAL COMANDO DI POLIZIA MUNICIPALE. MODALITA' DI VERSAMENTO A FAVORE DELL'AGENZIA DELLE ENTRATE DI PESARO - ESERCIZIO 2018 </title>
 			<description>IMPOSTA DI BOLLO ASSOLTA IN MODO VIRUTALE SU CONCESSIONI E AUTORIZZAZIONI RILASCIATE DAL COMANDO DI POLIZIA MUNICIPALE. MODALITA' DI VERSAMENTO A FAVORE DELL'AGENZIA DELLE ENTRATE DI PESARO - ESERCIZIO 2018 </description>
-			<a10:updated>2018-01-23T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/867082</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/867082</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 23 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 07 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">867082</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>ASSUNZIONE IMPEGNO DI SPESA PER L'ACQUISTO DI ETICHETTE AUTOADESIVE NECESSARIE PER LE ELEZIONI POLITICHE DI DOMENICA 4 MARZO 2018 </title>
-			<description>ASSUNZIONE IMPEGNO DI SPESA PER L'ACQUISTO DI ETICHETTE AUTOADESIVE NECESSARIE PER LE ELEZIONI POLITICHE DI DOMENICA 4 MARZO 2018 </description>
 			<a10:updated>2018-01-23T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
