@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 25 Jan 2018 17:31:27 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 25 Jan 2018 18:32:03 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Thu, 25 Jan 2018 17:31:27 +0100</pubDate>
+		<pubDate>Thu, 25 Jan 2018 18:32:03 +0100</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3181083</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3181083</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 25 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 09 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3181083</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>AGGIORNAMENTO ALBO AVVOCATI FINALIZZATO ALL’AFFIDAMENTO DI INCARICHI LEGALI - DOMANDE DI ISCRIZIONE PERVENUTE ENTRO IL 31/12/2017 </title>
+			<description>AGGIORNAMENTO ALBO AVVOCATI FINALIZZATO ALL’AFFIDAMENTO DI INCARICHI LEGALI - DOMANDE DI ISCRIZIONE PERVENUTE ENTRO IL 31/12/2017 </description>
+			<a10:updated>2018-01-25T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3181080</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3181080</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 25 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 09 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3181080</category>
+			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
+			<title>LIQUIDAZIONE LAVORO STRAORDINARIO AI DIPENDENTI DEL SETTORE VI - URBANISTICA ED EDILIZIA PRIVATA - PER L'ANNO 2017. </title>
+			<description>LIQUIDAZIONE LAVORO STRAORDINARIO AI DIPENDENTI DEL SETTORE VI - URBANISTICA ED EDILIZIA PRIVATA - PER L'ANNO 2017. </description>
+			<a10:updated>2018-01-25T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3180264</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3180264</link>
@@ -271,28 +293,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
 			<title>RPARAZIONE DEI TAVOLI DELLA MENSA SCOLASTICA DELLA SCUOLA ELEMENTARE "IV NOVEMBRE". LIQUIDAZIONE DELLA FATTURA DELLA DITTA "ARTE LEGNO DI FAIELLA MASSIMO" DI CAPRI. </title>
 			<description>RPARAZIONE DEI TAVOLI DELLA MENSA SCOLASTICA DELLA SCUOLA ELEMENTARE "IV NOVEMBRE". LIQUIDAZIONE DELLA FATTURA DELLA DITTA "ARTE LEGNO DI FAIELLA MASSIMO" DI CAPRI. </description>
-			<a10:updated>2018-01-23T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3176580</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3176580</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 23 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 07 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3176580</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
-			<title>ACQUISTO SUL MERCATO ELETTRONICO DELLA "CONSIP S.p.A." DI CANCELLERIA PER GLI UFFICI DEL SETTORE IV - LAVORI PUBBLICI. LIQUIDAZIONE DELLA FATTURA DELLA DITTA "PARTENUFFICIO DI FENIZIA ANTONIO S.R.L." DI NAPOLI. </title>
-			<description>ACQUISTO SUL MERCATO ELETTRONICO DELLA "CONSIP S.p.A." DI CANCELLERIA PER GLI UFFICI DEL SETTORE IV - LAVORI PUBBLICI. LIQUIDAZIONE DELLA FATTURA DELLA DITTA "PARTENUFFICIO DI FENIZIA ANTONIO S.R.L." DI NAPOLI. </description>
-			<a10:updated>2018-01-23T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3176578</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3176578</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 23 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 07 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3176578</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
-			<title>LIQUIDAZIONE DELLE COMPETENZE PER LAVORO STRAORDINARIO ESPLETATO DAI DIPENDENTI DEL SETTORE IV - LAVORI PUBBLICI NEL PERIODO DAL 1.7.2017 AL 31.12.2017. </title>
-			<description>LIQUIDAZIONE DELLE COMPETENZE PER LAVORO STRAORDINARIO ESPLETATO DAI DIPENDENTI DEL SETTORE IV - LAVORI PUBBLICI NEL PERIODO DAL 1.7.2017 AL 31.12.2017. </description>
 			<a10:updated>2018-01-23T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
