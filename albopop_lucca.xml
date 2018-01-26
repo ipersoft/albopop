@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 26 Jan 2018 15:31:05 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 26 Jan 2018 16:31:27 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Fri, 26 Jan 2018 15:31:05 +0100</pubDate>
+		<pubDate>Fri, 26 Jan 2018 16:31:27 +0100</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3826433</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3826433</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 26 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 10 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3826433</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>VIA TITO GIOVANNI MARCHETTI - FRAZIONE DI SAN VITO: REALIZZAZIONE DI N. 1 STALLO RISERVATO AI PORTATORI DI HANDICAP E DI N. 23 STALLI AUTO GENERICI NELL'AREA A PARCHEGGIO POSTA A MARGINE DI VIA MARCHETTI ANTISTANTE L'ACCESSO ALLA SCUOLA PRIMARIA L. DONATELLI, A PARTIRE DAL GIORNO 29 GENNAIO 2018 </title>
+			<description>VIA TITO GIOVANNI MARCHETTI - FRAZIONE DI SAN VITO: REALIZZAZIONE DI N. 1 STALLO RISERVATO AI PORTATORI DI HANDICAP E DI N. 23 STALLI AUTO GENERICI NELL'AREA A PARCHEGGIO POSTA A MARGINE DI VIA MARCHETTI ANTISTANTE L'ACCESSO ALLA SCUOLA PRIMARIA L. DONATELLI, A PARTIRE DAL GIORNO 29 GENNAIO 2018 </description>
+			<a10:updated>2018-01-26T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3826415</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3826415</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>ACCETTAZIONE IN POSIZIONE DI COMANDO AI SENSI DELL'ART. 30, COMMA 2-SEXIES, DEL D. LGS. N. 165/2001 PRESSO IL NOSTRO ENTE DI UNA DIPENDENTE A TEMPO INDETERMINATO DEL COMUNE DI BRESCIA </title>
 			<description>ACCETTAZIONE IN POSIZIONE DI COMANDO AI SENSI DELL'ART. 30, COMMA 2-SEXIES, DEL D. LGS. N. 165/2001 PRESSO IL NOSTRO ENTE DI UNA DIPENDENTE A TEMPO INDETERMINATO DEL COMUNE DI BRESCIA </description>
-			<a10:updated>2018-01-25T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3823090</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3823090</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 25 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 09 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3823090</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>U.O.5.1 – INTERVENTI DI RIPRISTINO RETE VARCHI E VIDEOSORVEGLIANZA URBANA IN SEGUITO A EVENTI ATMOSFERICI- AFFIDAMENTO LAVORI. CIG ZEC21D8D2E FAMIGLIA ATTI 03 </title>
-			<description>U.O.5.1 – INTERVENTI DI RIPRISTINO RETE VARCHI E VIDEOSORVEGLIANZA URBANA IN SEGUITO A EVENTI ATMOSFERICI- AFFIDAMENTO LAVORI. CIG ZEC21D8D2E FAMIGLIA ATTI 03 </description>
 			<a10:updated>2018-01-25T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
