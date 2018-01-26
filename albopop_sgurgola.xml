@@ -5,7 +5,7 @@
 		<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Sgurgola</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 26 Jan 2018 10:30:51 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 26 Jan 2018 11:30:50 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Sgurgola</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Frosinone</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Sgurgola</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_sgurgola</a10:id>
-		<pubDate>Fri, 26 Jan 2018 10:30:51 +0100</pubDate>
+		<pubDate>Fri, 26 Jan 2018 11:30:50 +0100</pubDate>
 		<docs>http://albopop.it/comune/sgurgola/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3181833</guid>
+			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3181833</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 26 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 10 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3181833</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINA</category>
+			<title>VERBALE N. 426 DEL 21.12.2017 IMPEGNO SPESA AVV. ENRICO MICHETTI RICORSO AL TAR DEL LAZIO </title>
+			<description>VERBALE N. 426 DEL 21.12.2017 IMPEGNO SPESA AVV. ENRICO MICHETTI RICORSO AL TAR DEL LAZIO </description>
+			<a10:updated>2018-01-26T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3178756</guid>
 			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3178756</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINA</category>
 			<title>VERBALE-N. 410 DEL 21.12.2017 ORGANISMO INDIPENDENTE DI VALUTAZIONE (OIV). IMPEGNO DI SPESA COMPENSO COMPONENTE ANNO 2017. </title>
 			<description>VERBALE-N. 410 DEL 21.12.2017 ORGANISMO INDIPENDENTE DI VALUTAZIONE (OIV). IMPEGNO DI SPESA COMPENSO COMPONENTE ANNO 2017. </description>
-			<a10:updated>2018-01-15T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3162938</guid>
-			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3162938</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 15 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 30 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3162938</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINA</category>
-			<title>VERBALE N. 408 DEL 21.12.2017 IMPEGNO DI SPESA GESTIONE UFFICIO DELLO STATO CIVILE. </title>
-			<description>VERBALE N. 408 DEL 21.12.2017 IMPEGNO DI SPESA GESTIONE UFFICIO DELLO STATO CIVILE. </description>
 			<a10:updated>2018-01-15T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

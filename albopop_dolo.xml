@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 26 Jan 2018 10:30:48 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 26 Jan 2018 11:30:47 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Fri, 26 Jan 2018 10:30:48 +0100</pubDate>
+		<pubDate>Fri, 26 Jan 2018 11:30:47 +0100</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3824767</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3824767</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 26 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3824767</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO GENERICO</category>
+			<title>MANIFESTAZIONE D'INTERESSE PER LA RICLASSIFICAZIONE DI AREE EDIFICABILI DA RENDERE INEDIFICABILI (ART.7 DELLA LEGGE REGIONALE N. 4/2015). </title>
+			<description>MANIFESTAZIONE D'INTERESSE PER LA RICLASSIFICAZIONE DI AREE EDIFICABILI DA RENDERE INEDIFICABILI (ART.7 DELLA LEGGE REGIONALE N. 4/2015). </description>
+			<a10:updated>2018-01-26T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3821964</guid>
 			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3821964</link>
@@ -283,17 +293,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>ELEZIONI DELLA CAMERA DEI DEPUTATI E DEL SENATO DELLA REPUBBLICA 4 MARZO 2018 - IMPEGNO DI SPESA COMPENSI DA CORRISPONDERE AI COMPONENTI DEGLI UFFICI ELETTORALI DI SEZIONE </title>
 			<description>ELEZIONI DELLA CAMERA DEI DEPUTATI E DEL SENATO DELLA REPUBBLICA 4 MARZO 2018 - IMPEGNO DI SPESA COMPENSI DA CORRISPONDERE AI COMPONENTI DEGLI UFFICI ELETTORALI DI SEZIONE </description>
-			<a10:updated>2018-01-23T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3817279</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3817279</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 23 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 07 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3817279</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>QUANTIFICAZIONE E RIPARTIZIONE TRA I COMUNI DELLE SPESE PER ATTIVITÀ E DELLE SPESE DI FUNZIONAMENTO DELLA IV S.E.C., PRIMO E SECONDO SEMESTRE 2017 E LIQUIDAZIONE RIMBORSI SPESE AI COMPONENTI DELLA SOTTOCOMMISSIONE E GETTONE PRESENZA ALLA SEGRETARIA </title>
-			<description>QUANTIFICAZIONE E RIPARTIZIONE TRA I COMUNI DELLE SPESE PER ATTIVITÀ E DELLE SPESE DI FUNZIONAMENTO DELLA IV S.E.C., PRIMO E SECONDO SEMESTRE 2017 E LIQUIDAZIONE RIMBORSI SPESE AI COMPONENTI DELLA SOTTOCOMMISSIONE E GETTONE PRESENZA ALLA SEGRETARIA </description>
 			<a10:updated>2018-01-23T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
