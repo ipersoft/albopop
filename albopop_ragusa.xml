@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 26 Jan 2018 08:31:46 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 26 Jan 2018 09:31:46 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Fri, 26 Jan 2018 08:31:46 +0100</pubDate>
+		<pubDate>Fri, 26 Jan 2018 09:31:46 +0100</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3181218</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3181218</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 26 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 02 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3181218</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
+			<title>PROCEDURA APERTA PER IL SERVIZIO DI SOSTEGNO EDUCATIVO DOMICILIARE IN FAVORE DI FAMIGLIE IN DIFFICOLTA' CON FIGLI MINORI.CIG.7274941F37.PROVVEDIMENTO CHE DETERMINA LE ESCLUSIONI DALLA PROCEDURA DI AFFIDAMENTO E LE AMMISSIONI ALL'ESITO DELLA VERIFICA DELLA DOCUMENTAZIONE ATTESTANTE L'ASSENZA DEI MOTIVI DI ESCLUSIONE DI CUI ALL'ARTICOLO 80, NONCHÈ LA SUSSISTENZA DEI REQUISITI ECONOMICO-FINANZIARI E TECNICO-PROFESSIONALI.ART.29 C.1 DEL D.LGS N.50/2016. </title>
+			<description>PROCEDURA APERTA PER IL SERVIZIO DI SOSTEGNO EDUCATIVO DOMICILIARE IN FAVORE DI FAMIGLIE IN DIFFICOLTA' CON FIGLI MINORI.CIG.7274941F37.PROVVEDIMENTO CHE DETERMINA LE ESCLUSIONI DALLA PROCEDURA DI AFFIDAMENTO E LE AMMISSIONI ALL'ESITO DELLA VERIFICA DELLA DOCUMENTAZIONE ATTESTANTE L'ASSENZA DEI MOTIVI DI ESCLUSIONE DI CUI ALL'ARTICOLO 80, NONCHÈ LA SUSSISTENZA DEI REQUISITI ECONOMICO-FINANZIARI E TECNICO-PROFESSIONALI.ART.29 C.1 DEL D.LGS N.50/2016. </description>
+			<a10:updated>2018-01-26T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3180910</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3180910</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI GIUDIZIARI ATTO GIUDIZIARIO</category>
 			<title>PUBBLICAZIONE ART.143 C.P.C. A CARICO DI PIGNATELLI SALVATRICE </title>
 			<description>PUBBLICAZIONE ART.143 C.P.C. A CARICO DI PIGNATELLI SALVATRICE </description>
-			<a10:updated>2018-01-24T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3178037</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3178037</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 24 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 13 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3178037</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI GIUDIZIARI ATTO GIUDIZIARIO</category>
-			<title>PUBBLICAZIONE ART.143 C.P.C. A CARICO DI GULISANO ALFIO DOMENICO </title>
-			<description>PUBBLICAZIONE ART.143 C.P.C. A CARICO DI GULISANO ALFIO DOMENICO </description>
 			<a10:updated>2018-01-24T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
