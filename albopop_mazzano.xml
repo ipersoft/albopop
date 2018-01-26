@@ -5,7 +5,7 @@
 		<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mazzano</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 26 Jan 2018 16:31:44 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 26 Jan 2018 17:31:36 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mazzano</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mazzano</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mazzano</a10:id>
-		<pubDate>Fri, 26 Jan 2018 16:31:44 +0100</pubDate>
+		<pubDate>Fri, 26 Jan 2018 17:31:36 +0100</pubDate>
 		<docs>http://albopop.it/comune/mazzano/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3826595</guid>
+			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3826595</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 26 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 20 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3826595</category>
+			<category domain="http://albopop.it/specs#item-category-type">BANDI DI MOBILITA'</category>
+			<title>BANDO DI MOBILITÀ VOLONTARIA AI SENSI DELL’ART. 30 D.LGS. N. 165/2001 E S.M.I. PER LA COPERTURA DI N. 1 POSTO, A TEMPO PIENO (36 ORE) ED INDETERMINATO, DI ISTRUTTORE TECNICO PRESSO L’UFFICIO TECNICO COMUNALE – CAT. C. </title>
+			<description>BANDO DI MOBILITÀ VOLONTARIA AI SENSI DELL’ART. 30 D.LGS. N. 165/2001 E S.M.I. PER LA COPERTURA DI N. 1 POSTO, A TEMPO PIENO (36 ORE) ED INDETERMINATO, DI ISTRUTTORE TECNICO PRESSO L’UFFICIO TECNICO COMUNALE – CAT. C. </description>
+			<a10:updated>2018-01-26T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3824657</guid>
 			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3824657</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERE DI CONSIGLIO COMUNALE</category>
 			<title>PROGRAMMA DEGLI INCARICHI DI COLLABORAZIONE AUTONOMA DA AFFIDARE NELL'ANNO 2018 A SOGGETTI ESTRANEI ALL'AMMINISTRAZIONE. ESAME ED APPROVAZIONE. </title>
 			<description>PROGRAMMA DEGLI INCARICHI DI COLLABORAZIONE AUTONOMA DA AFFIDARE NELL'ANNO 2018 A SOGGETTI ESTRANEI ALL'AMMINISTRAZIONE. ESAME ED APPROVAZIONE. </description>
-			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3806601</guid>
-			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3806601</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 18 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 02 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3806601</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERE DI CONSIGLIO COMUNALE</category>
-			<title>VERIFICA DELLA QUANTITA' E QUALITA' DI AREE E FABBRICATI DA DESTINARSI ALLA RESIDENZA, ALLE ATTIVITA' PRODUTTIVE E TERZIARIE - AI SENSI DELLA LEGGE 18 APRILE 1962, N. 167, 22 OTTOBRE 1971, N. 865 E 5 AGOSTO 1978 N. 457 - CHE POTRANNO ESSERE CEDUTI IN PROPRIETA' O IN DIRITTO DI SUPERFICIE </title>
-			<description>VERIFICA DELLA QUANTITA' E QUALITA' DI AREE E FABBRICATI DA DESTINARSI ALLA RESIDENZA, ALLE ATTIVITA' PRODUTTIVE E TERZIARIE - AI SENSI DELLA LEGGE 18 APRILE 1962, N. 167, 22 OTTOBRE 1971, N. 865 E 5 AGOSTO 1978 N. 457 - CHE POTRANNO ESSERE CEDUTI IN PROPRIETA' O IN DIRITTO DI SUPERFICIE </description>
 			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
