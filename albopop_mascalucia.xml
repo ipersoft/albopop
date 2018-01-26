@@ -5,7 +5,7 @@
 		<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mascalucia</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 26 Jan 2018 12:31:27 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 26 Jan 2018 13:31:26 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mascalucia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mascalucia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mascalucia</a10:id>
-		<pubDate>Fri, 26 Jan 2018 12:31:27 +0100</pubDate>
+		<pubDate>Fri, 26 Jan 2018 13:31:26 +0100</pubDate>
 		<docs>http://albopop.it/comune/mascalucia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3182448</guid>
+			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3182448</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 26 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 10 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3182448</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRE PUBBLICAZIONI CONCESSIONE EDILIZIA</category>
+			<title>AUTORIZZAZIONE ALLO SCARICO N. 13/2018 D'ANTONI CLAUDIO PRATICA SANATORIA N. 2399/86 </title>
+			<description>AUTORIZZAZIONE ALLO SCARICO N. 13/2018 D'ANTONI CLAUDIO PRATICA SANATORIA N. 2399/86 </description>
+			<a10:updated>2018-01-26T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3181424</guid>
 			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3181424</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
 			<title>SERVIZIO DI SELEZIONE DEI RIFIUTI URBANI PROVENIENTE DALLA RACCOLTA DIFFERENZIATA – MESE DI NOVEMBRE 2017- DITTA: SICULA TRASPORTI S.R.L. </title>
 			<description>SERVIZIO DI SELEZIONE DEI RIFIUTI URBANI PROVENIENTE DALLA RACCOLTA DIFFERENZIATA – MESE DI NOVEMBRE 2017- DITTA: SICULA TRASPORTI S.R.L. </description>
-			<a10:updated>2018-01-25T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3180812</guid>
-			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3180812</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 25 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 09 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3180812</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
-			<title>COSTI SOSTENUTI PER IL CONFERIMENTO NELLE PIATTAFORME DI SMALTIMENTO E RECUPERO DEI RIFIUTI URBANI PROVENIENTE DALLA RACCOLTA DIFFERENZIATA – OTTOBRE E NOVEMBRE 2017 - DITTA: AUTO DEMOLIZIONI EXPRESS S.R.L. – MISTERBIANCO (CT) - </title>
-			<description>COSTI SOSTENUTI PER IL CONFERIMENTO NELLE PIATTAFORME DI SMALTIMENTO E RECUPERO DEI RIFIUTI URBANI PROVENIENTE DALLA RACCOLTA DIFFERENZIATA – OTTOBRE E NOVEMBRE 2017 - DITTA: AUTO DEMOLIZIONI EXPRESS S.R.L. – MISTERBIANCO (CT) - </description>
 			<a10:updated>2018-01-25T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
