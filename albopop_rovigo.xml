@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 26 Jan 2018 14:31:24 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 26 Jan 2018 15:31:10 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Fri, 26 Jan 2018 14:31:24 +0100</pubDate>
+		<pubDate>Fri, 26 Jan 2018 15:31:10 +0100</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3182782</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3182782</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 26 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 10 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3182782</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE ORDINANZE</category>
+			<title>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE IN VIA PASCOLI PER INTERVENTO URGENTE SU DISPERSIONE GAS METANO DA PARTE DELLA DITTA GAGGIO S.A.S. PER CONTO DI AP RETI GAS ROVIGO FINO AL 05/02/2018 </title>
+			<description>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE IN VIA PASCOLI PER INTERVENTO URGENTE SU DISPERSIONE GAS METANO DA PARTE DELLA DITTA GAGGIO S.A.S. PER CONTO DI AP RETI GAS ROVIGO FINO AL 05/02/2018 </description>
+			<a10:updated>2018-01-26T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3182668</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3182668</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
 			<title>STAGIONE LIRICA 2018 SESSIONE PRIMAVERILE. REALIZZAZIONE OPERA LIRICA “LA TRAVIATA”. IMPEGNO DI SPESA PER SERVIZIO DI ORCHESTRA. </title>
 			<description>STAGIONE LIRICA 2018 SESSIONE PRIMAVERILE. REALIZZAZIONE OPERA LIRICA “LA TRAVIATA”. IMPEGNO DI SPESA PER SERVIZIO DI ORCHESTRA. </description>
-			<a10:updated>2018-01-26T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3181777</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3181777</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 26 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 10 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3181777</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE PERMESSI DI COSTRUIRE</category>
-			<title>PERMESSO DI COSTRUIRE IN ACCERTAMENTO DI CONFORMITÀ EX ART. 36 DPR 380/2001, N. 6 DEL 26/01/2018 - RIF. UT 1076/2017, PER L'ESECUZIONE DI LAVORI DI AMPLIAMENTO AI SENSI DELLA L.R. 14/09 E MODIFICHE INTERNE SUL FABBRICATO SITO IN VIA G. MATTEOTTI N. 15 - ROVIGO. </title>
-			<description>PERMESSO DI COSTRUIRE IN ACCERTAMENTO DI CONFORMITÀ EX ART. 36 DPR 380/2001, N. 6 DEL 26/01/2018 - RIF. UT 1076/2017, PER L'ESECUZIONE DI LAVORI DI AMPLIAMENTO AI SENSI DELLA L.R. 14/09 E MODIFICHE INTERNE SUL FABBRICATO SITO IN VIA G. MATTEOTTI N. 15 - ROVIGO. </description>
 			<a10:updated>2018-01-26T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
