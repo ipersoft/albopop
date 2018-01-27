@@ -5,7 +5,7 @@
 		<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mascalucia</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 26 Jan 2018 18:31:36 +0100</lastBuildDate>
+		<lastBuildDate>Sat, 27 Jan 2018 08:31:25 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mascalucia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mascalucia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mascalucia</a10:id>
-		<pubDate>Fri, 26 Jan 2018 18:31:36 +0100</pubDate>
+		<pubDate>Sat, 27 Jan 2018 08:31:25 +0100</pubDate>
 		<docs>http://albopop.it/comune/mascalucia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3182962</guid>
+			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3182962</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 26 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3182962</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRE PUBBLICAZIONI AVVISI ELETTORALI</category>
+			<title>ELEZIONE DELLA CAMERA DEI DEPUTATI E DEL SENATO DELLA REPUBBLICA - VERBALE NON 18NNI </title>
+			<description>ELEZIONE DELLA CAMERA DEI DEPUTATI E DEL SENATO DELLA REPUBBLICA - VERBALE NON 18NNI </description>
+			<a10:updated>2018-01-26T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3182609</guid>
 			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3182609</link>
@@ -283,17 +293,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
 			<title>LIQUIDAZIONE, ACQUISTO DI D.P.I. PER IL PERSONALE OPERAISTICO E INSEGNEDI SICUREZZA PER LOCALI PUBBLICI, SALDO DELLA FORNITURA. </title>
 			<description>LIQUIDAZIONE, ACQUISTO DI D.P.I. PER IL PERSONALE OPERAISTICO E INSEGNEDI SICUREZZA PER LOCALI PUBBLICI, SALDO DELLA FORNITURA. </description>
-			<a10:updated>2018-01-25T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3180820</guid>
-			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3180820</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 25 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 09 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3180820</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
-			<title>PROGETTO DI MANUTENZIONE STRAORDINARIA DEL PALAZZETTO DELLO SPORT. APPROVAZIONE - AUTORIZZAZIONE VARIAZIONE CONTRATTUALE EX ART. 106 D.LEGISL. 50/2016. CUP J64H16001150004 CIG 70198660AF </title>
-			<description>PROGETTO DI MANUTENZIONE STRAORDINARIA DEL PALAZZETTO DELLO SPORT. APPROVAZIONE - AUTORIZZAZIONE VARIAZIONE CONTRATTUALE EX ART. 106 D.LEGISL. 50/2016. CUP J64H16001150004 CIG 70198660AF </description>
 			<a10:updated>2018-01-25T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
