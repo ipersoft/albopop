@@ -5,7 +5,7 @@
 		<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Sgurgola</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 29 Jan 2018 09:30:51 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 29 Jan 2018 10:31:01 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Sgurgola</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Frosinone</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Sgurgola</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_sgurgola</a10:id>
-		<pubDate>Mon, 29 Jan 2018 09:30:51 +0100</pubDate>
+		<pubDate>Mon, 29 Jan 2018 10:31:01 +0100</pubDate>
 		<docs>http://albopop.it/comune/sgurgola/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3184071</guid>
+			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3184071</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 29 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 13 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3184071</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINA</category>
+			<title>VERBALE N.--344 DEL 17.10.2017 PROGETTO ESTATE COMUNE TRA MUSICA E CULTURA. LIQUIDAZIONE FATTURE E RIMBORSO SPESE PER ORGANIZZAZIONE MANIFESTAZIONI </title>
+			<description>VERBALE N.--344 DEL 17.10.2017 PROGETTO ESTATE COMUNE TRA MUSICA E CULTURA. LIQUIDAZIONE FATTURE E RIMBORSO SPESE PER ORGANIZZAZIONE MANIFESTAZIONI </description>
+			<a10:updated>2018-01-29T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3182926</guid>
 			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3182926</link>
@@ -281,17 +292,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINA</category>
 			<title>VERBALE N. 404 DEL 21.12.2017 IMPEGNO DI SPESA PER ACQUISTO MODULO POPOLAMENTO ANPR </title>
 			<description>VERBALE N. 404 DEL 21.12.2017 IMPEGNO DI SPESA PER ACQUISTO MODULO POPOLAMENTO ANPR </description>
-			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3169708</guid>
-			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3169708</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 18 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 02 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3169708</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINA</category>
-			<title>VERBALE N. 407 DEL 21.12.2017 IMPEGNO SPESA GESTIONE SERVIZIO MENSA SCOLASTICA </title>
-			<description>VERBALE N. 407 DEL 21.12.2017 IMPEGNO SPESA GESTIONE SERVIZIO MENSA SCOLASTICA </description>
 			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
