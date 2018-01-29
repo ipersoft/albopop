@@ -5,7 +5,7 @@
 		<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Canosa di Puglia</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 29 Jan 2018 15:31:16 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 29 Jan 2018 16:31:00 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Canosa di Puglia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Barletta-Andria-Trani</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Canosa di Puglia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_canosadipuglia</a10:id>
-		<pubDate>Mon, 29 Jan 2018 15:31:16 +0100</pubDate>
+		<pubDate>Mon, 29 Jan 2018 16:31:00 +0100</pubDate>
 		<docs>http://albopop.it/comune/canosadipuglia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3829729</guid>
+			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3829729</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 29 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 13 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3829729</category>
+			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DI GIUNTA</category>
+			<title>LINEE PROGRAMMATICHE DI MANDATO 2017 - 2022 - APPROVAZIONE. PRESENTAZIONE AL CONSIGLIO COMUNALE AI SENSI DELL’ART. 46, 3° COMMA, DEL D.LGS. 18/08/2000 N. 267. </title>
+			<description>LINEE PROGRAMMATICHE DI MANDATO 2017 - 2022 - APPROVAZIONE. PRESENTAZIONE AL CONSIGLIO COMUNALE AI SENSI DELL’ART. 46, 3° COMMA, DEL D.LGS. 18/08/2000 N. 267. </description>
+			<a10:updated>2018-01-29T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3828990</guid>
 			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3828990</link>
@@ -282,17 +293,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
 			<title>Autorizzazione all'avv. Michele di Donna, a conferire incarico ad un Notaio per l'acquisizione del certificato attestante le risultanze delle visure catastali e dei registri immobiliari, nell'ambio del giudizio rubricato al n. R.G.285/2017 c/Bleu s.r.l.. Assunzione spesa per pagamento spese. </title>
 			<description>Autorizzazione all'avv. Michele di Donna, a conferire incarico ad un Notaio per l'acquisizione del certificato attestante le risultanze delle visure catastali e dei registri immobiliari, nell'ambio del giudizio rubricato al n. R.G.285/2017 c/Bleu s.r.l.. Assunzione spesa per pagamento spese. </description>
-			<a10:updated>2018-01-26T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3826521</guid>
-			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3826521</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 26 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 10 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3826521</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
-			<title>Assunzione spesa per abbonamento banca dati Juris Data on -line </title>
-			<description>Assunzione spesa per abbonamento banca dati Juris Data on -line </description>
 			<a10:updated>2018-01-26T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
