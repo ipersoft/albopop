@@ -5,7 +5,7 @@
 		<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mascalucia</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 29 Jan 2018 10:32:18 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 29 Jan 2018 11:34:55 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mascalucia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mascalucia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mascalucia</a10:id>
-		<pubDate>Mon, 29 Jan 2018 10:32:18 +0100</pubDate>
+		<pubDate>Mon, 29 Jan 2018 11:34:55 +0100</pubDate>
 		<docs>http://albopop.it/comune/mascalucia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3184442</guid>
+			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3184442</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 29 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 13 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3184442</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
+			<title>LIQUIDAZIONE 1° ACCONTO PER LA REDAZIONE DEL RAPPORTO PRELIMINARE AMBIENTALE PER LA VERIFICA A VAS DEL PIANO PARTICOLAREGGIATO DEL CENTRO STORICO DI MASSANNUNZIATA IN VARIANTE AL P.R.G. DEL COMUNE DI MASCALUCIA. DITTA: ING. PENNISI ROSARIO LUCA </title>
+			<description>LIQUIDAZIONE 1° ACCONTO PER LA REDAZIONE DEL RAPPORTO PRELIMINARE AMBIENTALE PER LA VERIFICA A VAS DEL PIANO PARTICOLAREGGIATO DEL CENTRO STORICO DI MASSANNUNZIATA IN VARIANTE AL P.R.G. DEL COMUNE DI MASCALUCIA. DITTA: ING. PENNISI ROSARIO LUCA </description>
+			<a10:updated>2018-01-29T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3182962</guid>
 			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3182962</link>
@@ -282,17 +293,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
 			<title>ASSEGNAZIONE ORTI SOCIALI LIBERI NEL COMUNE DI MASCALUCIA. </title>
 			<description>ASSEGNAZIONE ORTI SOCIALI LIBERI NEL COMUNE DI MASCALUCIA. </description>
-			<a10:updated>2018-01-25T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3180822</guid>
-			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3180822</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 25 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 09 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3180822</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
-			<title>LIQUIDAZIONE, ACQUISTO DI D.P.I. PER IL PERSONALE OPERAISTICO E INSEGNEDI SICUREZZA PER LOCALI PUBBLICI, SALDO DELLA FORNITURA. </title>
-			<description>LIQUIDAZIONE, ACQUISTO DI D.P.I. PER IL PERSONALE OPERAISTICO E INSEGNEDI SICUREZZA PER LOCALI PUBBLICI, SALDO DELLA FORNITURA. </description>
 			<a10:updated>2018-01-25T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 29 Jan 2018 10:30:47 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 29 Jan 2018 11:31:07 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Mon, 29 Jan 2018 10:30:47 +0100</pubDate>
+		<pubDate>Mon, 29 Jan 2018 11:31:07 +0100</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3828263</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3828263</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 29 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 13 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3828263</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DECRETO</category>
+			<title>CONCESSIONE DEL PATROCINIO ONEROSO A FAVORE DELLA FATTORIA DIDATTICA CASCINA VALSORDA PER L'ORGANIZZAZIONE E LA PROMOZIONE DI UN CORSO DI RICONOSCIMENTO DELLE PIANTE SELVATICHE COMMESTIBILI. </title>
+			<description>CONCESSIONE DEL PATROCINIO ONEROSO A FAVORE DELLA FATTORIA DIDATTICA CASCINA VALSORDA PER L'ORGANIZZAZIONE E LA PROMOZIONE DI UN CORSO DI RICONOSCIMENTO DELLE PIANTE SELVATICHE COMMESTIBILI. </description>
+			<a10:updated>2018-01-29T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3828259</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3828259</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 29 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 13 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3828259</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA SINDACALE</category>
+			<title>MISURE DI PREVENZIONE E SICUREZZA IN OCCASIONE DELLA MANIFESTAZIONE DENOMINATA "IL CARNEVALE DI CONCESIO 2018" </title>
+			<description>MISURE DI PREVENZIONE E SICUREZZA IN OCCASIONE DELLA MANIFESTAZIONE DENOMINATA "IL CARNEVALE DI CONCESIO 2018" </description>
+			<a10:updated>2018-01-29T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3827526</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3827526</link>
@@ -232,11 +254,11 @@
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3820158</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3820158</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 24 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 08 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 11 Feb 2018 01:00:00 +0100</category>
 			<category domain="http://albopop.it/specs#item-category-uid">3820158</category>
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
-			<title>Il Carnevale di Concesio 2018 </title>
-			<description>Il Carnevale di Concesio 2018 </description>
+			<title>IL CARNEVALE DI CONCESIO 2018 </title>
+			<description>IL CARNEVALE DI CONCESIO 2018 </description>
 			<a10:updated>2018-01-24T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
@@ -271,28 +293,6 @@
 			<title>RICHIESTA DI DEPOSITO ATTI AI SENSI DELL'ART. 143 DEL C.P.C. DA PARTE DI POSTE ITALIANE PER CONTO DI AGENZIA ENTRATE RISCOSSIONE: VEDI ELENCO ALLEGATO </title>
 			<description>RICHIESTA DI DEPOSITO ATTI AI SENSI DELL'ART. 143 DEL C.P.C. DA PARTE DI POSTE ITALIANE PER CONTO DI AGENZIA ENTRATE RISCOSSIONE: VEDI ELENCO ALLEGATO </description>
 			<a10:updated>2018-01-24T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3817748</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3817748</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 24 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 08 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3817748</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI RILASCIO PERMESSO DI COSTRUIRE</category>
-			<title>ERRATA CORRIGE PERMESSO DI COSTRUIRE N. 281/2017 MARCHESI DI MARCHESI ROBERTO </title>
-			<description>ERRATA CORRIGE PERMESSO DI COSTRUIRE N. 281/2017 MARCHESI DI MARCHESI ROBERTO </description>
-			<a10:updated>2018-01-24T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3817012</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3817012</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 23 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 24 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3817012</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI AVVISO</category>
-			<title>AVVISO DI MOBILITÀ VOLONTARIA PER LA COPERTURA DI N. 1 AMMINISTRATORE ISTRUTTIVO CONTABILE CAT. C - SCADENZA 24/02/2018 </title>
-			<description>AVVISO DI MOBILITÀ VOLONTARIA PER LA COPERTURA DI N. 1 AMMINISTRATORE ISTRUTTIVO CONTABILE CAT. C - SCADENZA 24/02/2018 </description>
-			<a10:updated>2018-01-23T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
