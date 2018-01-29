@@ -5,7 +5,7 @@
 		<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bernareggio</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 29 Jan 2018 13:31:16 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 29 Jan 2018 14:31:13 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bernareggio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bernareggio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bernareggio</a10:id>
-		<pubDate>Mon, 29 Jan 2018 13:31:16 +0100</pubDate>
+		<pubDate>Mon, 29 Jan 2018 14:31:13 +0100</pubDate>
 		<docs>http://albopop.it/comune/bernareggio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3829230</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3829230</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 29 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3829230</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI</category>
+			<title>POSTA CERTIFICATA: AVVISO PUBBLICO DI MOBILITÀ ESTERNA AI SENSI DELL'ART. 30, D.LGS. N. 165/2001 E S.M.I. PER LA COPERTURA DI N. 1 POSTO DI COLLABORATORE AMMINISTRATIVO DI CATEGORIA B, POSIZIONE D'ACCESSO B.3, AMBITO AMMINISTRATIVO, A TEMPO PIENO ED INDETERMINATO </title>
+			<description>POSTA CERTIFICATA: AVVISO PUBBLICO DI MOBILITÀ ESTERNA AI SENSI DELL'ART. 30, D.LGS. N. 165/2001 E S.M.I. PER LA COPERTURA DI N. 1 POSTO DI COLLABORATORE AMMINISTRATIVO DI CATEGORIA B, POSIZIONE D'ACCESSO B.3, AMBITO AMMINISTRATIVO, A TEMPO PIENO ED INDETERMINATO </description>
+			<a10:updated>2018-01-29T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3829056</guid>
 			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3829056</link>
@@ -282,17 +292,6 @@
 			<title>BONUS IDRICO ANNO 2016 - PRESA D'ATTO DOMANDE PERVENUTE ENTRO IL 31 DICEMBRE 2017 E APPROVAZIONE DELLA GRADUTAORIA </title>
 			<description>BONUS IDRICO ANNO 2016 - PRESA D'ATTO DOMANDE PERVENUTE ENTRO IL 31 DICEMBRE 2017 E APPROVAZIONE DELLA GRADUTAORIA </description>
 			<a10:updated>2018-01-19T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3807698</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3807698</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 18 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 02 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3807698</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>AVVISO DI SELEZIONE PER LA FORMAZIONE DI UNA GRADUATORIA PER L’ASSUNZIONE A TEMPO PIENO ED INDETERMINATO, MEDIANTE MOBILITA’ ESTERNA VOLONTARIA AI SENSI DELL’ART. 30 DEL D. LGS 165/2001, DI N. 1 DI AGENTE POLIZIA LOCALE CAT. C, CCNL REGIONI ED ENTI LOCALI, PRESSO IL SETTORE ASSOCIATO N. 6 POLIZIA LOCALE – APPROVAZIONE GRADUATORIA FINALE </title>
-			<description>AVVISO DI SELEZIONE PER LA FORMAZIONE DI UNA GRADUATORIA PER L’ASSUNZIONE A TEMPO PIENO ED INDETERMINATO, MEDIANTE MOBILITA’ ESTERNA VOLONTARIA AI SENSI DELL’ART. 30 DEL D. LGS 165/2001, DI N. 1 DI AGENTE POLIZIA LOCALE CAT. C, CCNL REGIONI ED ENTI LOCALI, PRESSO IL SETTORE ASSOCIATO N. 6 POLIZIA LOCALE – APPROVAZIONE GRADUATORIA FINALE </description>
-			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
