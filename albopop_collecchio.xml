@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Sun, 28 Jan 2018 18:31:41 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 29 Jan 2018 08:31:31 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Sun, 28 Jan 2018 18:31:41 +0100</pubDate>
+		<pubDate>Mon, 29 Jan 2018 08:31:31 +0100</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -74,17 +74,6 @@
 			<title>LEGGE N. 689/191 ART. 18 – ORDINANZA INGIUNZIONE PER PAGAMENTO SANZIONE AMMINISTRATIVA A CARICO DEL SIG. TANDURELLA ANTONIO EMANUELE, LOC. GAIANO - COLLECCHIO (PR), VIA NAZIONALE 42, OBBLIGATO IN SOLIDO CON L’AZIENDA ANGOLO DELLA FRUTTA SRLS </title>
 			<description>LEGGE N. 689/191 ART. 18 – ORDINANZA INGIUNZIONE PER PAGAMENTO SANZIONE AMMINISTRATIVA A CARICO DEL SIG. TANDURELLA ANTONIO EMANUELE, LOC. GAIANO - COLLECCHIO (PR), VIA NAZIONALE 42, OBBLIGATO IN SOLIDO CON L’AZIENDA ANGOLO DELLA FRUTTA SRLS </description>
 			<a10:updated>2018-01-23T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3172387</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3172387</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 20 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 28 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3172387</category>
-			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO PUBBLICAZIONI DI MATRIMONIO</category>
-			<title>PUBBLICAZIONI DI MATRIMONIOO LAINA' NICOLAS E PIETRALUNGA MARIA CHIARA </title>
-			<description>PUBBLICAZIONI DI MATRIMONIOO LAINA' NICOLAS E PIETRALUNGA MARIA CHIARA </description>
-			<a10:updated>2018-01-20T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3171961</guid>
@@ -292,6 +281,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
 			<title>AFFIDAMENTO ALL’AGENZIA PER L’ENERGIA E LO SVILUPPO SOSTENIBILE AESS DI MODENA (CF/P.IVA 02574910366) DEL SERVIZIO DI ASSISTENZA ALL’ESECUZIONE DEL CONTRATTO DEL SERVIZIO DI GESTIONE GLOBALE DELL’ILLUMINAZIONE PUBBLICA A COLLECCHIO. CIG ZD021BBEB2 </title>
 			<description>AFFIDAMENTO ALL’AGENZIA PER L’ENERGIA E LO SVILUPPO SOSTENIBILE AESS DI MODENA (CF/P.IVA 02574910366) DEL SERVIZIO DI ASSISTENZA ALL’ESECUZIONE DEL CONTRATTO DEL SERVIZIO DI GESTIONE GLOBALE DELL’ILLUMINAZIONE PUBBLICA A COLLECCHIO. CIG ZD021BBEB2 </description>
+			<a10:updated>2018-01-17T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3167474</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3167474</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 17 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 01 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3167474</category>
+			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
+			<title>AFFIDAMENTO A MEDELA ITALIA S.R.L. (CIG: Z5021B7013), DI FORNITURA DI SERVIZI DI NOLEGGIO TIRALATTE </title>
+			<description>AFFIDAMENTO A MEDELA ITALIA S.R.L. (CIG: Z5021B7013), DI FORNITURA DI SERVIZI DI NOLEGGIO TIRALATTE </description>
 			<a10:updated>2018-01-17T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
