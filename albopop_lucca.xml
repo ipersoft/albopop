@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 30 Jan 2018 08:31:43 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 30 Jan 2018 09:31:37 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Tue, 30 Jan 2018 08:31:43 +0100</pubDate>
+		<pubDate>Tue, 30 Jan 2018 09:31:37 +0100</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3830524</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3830524</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 30 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 14 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3830524</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>VIA S.CROCE,CENTRO STORICO - MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE PER IL GIORNO 05/02/2018. </title>
+			<description>VIA S.CROCE,CENTRO STORICO - MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE PER IL GIORNO 05/02/2018. </description>
+			<a10:updated>2018-01-30T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3830522</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3830522</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 30 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 14 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3830522</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>VIA FILLUNGO,CENTRO STORICO - MODIFCHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE PER IL GIORNO 12/02/2018. </title>
+			<description>VIA FILLUNGO,CENTRO STORICO - MODIFCHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE PER IL GIORNO 12/02/2018. </description>
+			<a10:updated>2018-01-30T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3829746</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3829746</link>
@@ -272,27 +294,6 @@
 			<title>QUALITÀ DELL’ARIA AMBIENTE - PROVVEDIMENTO PER LA RIDUZIONE DEL RISCHIO DI SUPERAMENTO DEL VALORE LIMITE GIORNALIERO DELLE POLVERI SOTTILI (PM10). DIVIETO DI UTILIZZO DI LEGNA DA ARDERE PER IL RISCALDAMENTO DOMESTICO DEGLI EDIFICI </title>
 			<description>QUALITÀ DELL’ARIA AMBIENTE - PROVVEDIMENTO PER LA RIDUZIONE DEL RISCHIO DI SUPERAMENTO DEL VALORE LIMITE GIORNALIERO DELLE POLVERI SOTTILI (PM10). DIVIETO DI UTILIZZO DI LEGNA DA ARDERE PER IL RISCALDAMENTO DOMESTICO DEGLI EDIFICI </description>
 			<a10:updated>2018-01-29T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3826846</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3826846</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 27 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3826846</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI E BANDI VARI</category>
-			<title>VERBALE DI CONSTATAZIONE DELLO STATO DEL VEICOLO ABBANDONATO SU AREA PRIVATA- CICLOMOTORE PIAGGIO APE 50 </title>
-			<description>VERBALE DI CONSTATAZIONE DELLO STATO DEL VEICOLO ABBANDONATO SU AREA PRIVATA- CICLOMOTORE PIAGGIO APE 50 </description>
-			<a10:updated>2018-01-27T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3826741</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3826741</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 27 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 11 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3826741</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>U.O. 2.3. - SETTORE POLITICHE SOCIALI - CONVENZIONE TRA L'AMMINISTRAZIONE COMUNALE DI LUCCA, E.R.P. LUCCA S.R.L. E L'AZIENDA USL TOSCANA NORD OVEST PER LA GESTIONE DI N.2 UNITA' ABITATIVE ALL'INTERNO DEL PROGETTO “ABITARE SUPPORTATO IN COMUNE”. APPROVAZIONE. </title>
-			<description>U.O. 2.3. - SETTORE POLITICHE SOCIALI - CONVENZIONE TRA L'AMMINISTRAZIONE COMUNALE DI LUCCA, E.R.P. LUCCA S.R.L. E L'AZIENDA USL TOSCANA NORD OVEST PER LA GESTIONE DI N.2 UNITA' ABITATIVE ALL'INTERNO DEL PROGETTO “ABITARE SUPPORTATO IN COMUNE”. APPROVAZIONE. </description>
-			<a10:updated>2018-01-27T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
