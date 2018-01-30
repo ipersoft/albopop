@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 30 Jan 2018 09:32:08 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 30 Jan 2018 10:32:46 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Tue, 30 Jan 2018 09:32:08 +0100</pubDate>
+		<pubDate>Tue, 30 Jan 2018 10:32:46 +0100</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3187123</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3187123</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 30 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 14 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3187123</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONCESSIONI CONCESSIONE EDILIZIA</category>
+			<title>CONCESSIONE EDILIZIA N.143/2017 - PICCOLO SANTA </title>
+			<description>CONCESSIONE EDILIZIA N.143/2017 - PICCOLO SANTA </description>
+			<a10:updated>2018-01-30T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3185190</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3185190</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI GIUDIZIARI ATTO GIUDIZIARIO</category>
 			<title>PUBBLICAZIONE ART. 143 C.P.C. A CARICO DI SANTONOCITO MORENA </title>
 			<description>PUBBLICAZIONE ART. 143 C.P.C. A CARICO DI SANTONOCITO MORENA </description>
-			<a10:updated>2018-01-29T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3184906</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3184906</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 29 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 30 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3184906</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISO CARTELLE ESATTORIALI ART. 140</category>
-			<title>PUBBLICAZIONE ART.140 A CARICO DI SANIBLEA ONLUS C/O IACONO NATALIA LEGALE RAPPRESENTANTE ED ALTRI </title>
-			<description>PUBBLICAZIONE ART.140 A CARICO DI SANIBLEA ONLUS C/O IACONO NATALIA LEGALE RAPPRESENTANTE ED ALTRI </description>
 			<a10:updated>2018-01-29T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

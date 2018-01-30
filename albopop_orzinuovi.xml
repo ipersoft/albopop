@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 30 Jan 2018 09:30:47 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 30 Jan 2018 10:31:34 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Tue, 30 Jan 2018 09:30:47 +0100</pubDate>
+		<pubDate>Tue, 30 Jan 2018 10:31:34 +0100</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3187198</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3187198</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 30 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 14 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3187198</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>SERVIZIO DI MANUTENZIONE SISTEMA INFORMATIVO SICRAWEB 2018 2019 2020 – IMPEGNO DI SPESA ANNO 2020. CIG ZAB214F61E. </title>
+			<description>SERVIZIO DI MANUTENZIONE SISTEMA INFORMATIVO SICRAWEB 2018 2019 2020 – IMPEGNO DI SPESA ANNO 2020. CIG ZAB214F61E. </description>
+			<a10:updated>2018-01-30T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3186985</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3186985</link>
@@ -281,17 +292,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
 			<title>ORDINANZA NR 3 PER POSA DI UN DOSSO ARTIFICIALE GIALLO-NERO CON ISTITUZIONE LIMITE DI VELOCITA' DI 40 KM/H NEI 50 METRI ANTECEDENTI LA POSA DEL DOSSO, IN VIA CARDUCCI NR 1 </title>
 			<description>ORDINANZA NR 3 PER POSA DI UN DOSSO ARTIFICIALE GIALLO-NERO CON ISTITUZIONE LIMITE DI VELOCITA' DI 40 KM/H NEI 50 METRI ANTECEDENTI LA POSA DEL DOSSO, IN VIA CARDUCCI NR 1 </description>
-			<a10:updated>2018-01-23T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3176064</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3176064</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 23 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 07 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3176064</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
-			<title>ORDINANZA NR 2 DI DIVIETO DI TRANSITO AI VEICOLI DI MASSA COMPLESSIVA (A PIENO CARICO) SUPERIORE A 60 TONNELLATE, SUL CAVALCAVIA DI VIA CESARINA, DAL 16/01/2018 </title>
-			<description>ORDINANZA NR 2 DI DIVIETO DI TRANSITO AI VEICOLI DI MASSA COMPLESSIVA (A PIENO CARICO) SUPERIORE A 60 TONNELLATE, SUL CAVALCAVIA DI VIA CESARINA, DAL 16/01/2018 </description>
 			<a10:updated>2018-01-23T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
