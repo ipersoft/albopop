@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 29 Jan 2018 18:31:34 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 30 Jan 2018 08:31:53 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Mon, 29 Jan 2018 18:31:34 +0100</pubDate>
+		<pubDate>Tue, 30 Jan 2018 08:31:53 +0100</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -42,6 +42,17 @@
 			<title>PRENOTAZIONE SPESA PER IL SERVIZIO DI APPRONTAMENTO TABELLONI ELETTORALI, MONTAGGIO PALCHETTO E SUCCESSIVO DISALLESTIMENTO -ELEZIONI POLITICHE 04/03/2018 – CIG N. Z0E21D6CCC </title>
 			<description>PRENOTAZIONE SPESA PER IL SERVIZIO DI APPRONTAMENTO TABELLONI ELETTORALI, MONTAGGIO PALCHETTO E SUCCESSIVO DISALLESTIMENTO -ELEZIONI POLITICHE 04/03/2018 – CIG N. Z0E21D6CCC </description>
 			<a10:updated>2018-01-29T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3184817</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3184817</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 30 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 31 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3184817</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI ATTI DIVERSI</category>
+			<title>AVVISO DI DEPOSITO ATTI NELLA CASA DEL COMUNE_ELENCO N. 172300 DEL 29/01/2018_N. 50 NOMINATIVI VARI </title>
+			<description>AVVISO DI DEPOSITO ATTI NELLA CASA DEL COMUNE_ELENCO N. 172300 DEL 29/01/2018_N. 50 NOMINATIVI VARI </description>
+			<a10:updated>2018-01-30T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3184319</guid>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
 			<title>LIQUIDAZIONE FATTURA N. 19 DEL 30.11.2017 DELLA DITTA "SILLA" S.A.S. - FILIALE DI ROVIGO- PER LA FORNITURA DI MATERIALE INERTE PER IMPIANTO SPORTIVO. </title>
 			<description>LIQUIDAZIONE FATTURA N. 19 DEL 30.11.2017 DELLA DITTA "SILLA" S.A.S. - FILIALE DI ROVIGO- PER LA FORNITURA DI MATERIALE INERTE PER IMPIANTO SPORTIVO. </description>
-			<a10:updated>2018-01-26T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3182255</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3182255</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 26 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 10 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3182255</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>LIQUIDAZIONE FATTURA N.23 DEL 20.12.2017 DELLA DITTA "SILLA" S.A.S. - FILIALE DI ROVIGO- PER LA FORNITURA DI MATERIALE PER TINTEGGIATURA PARETI DEI LOCALI DEGLI IMPIANTI SPORTIVI COMUNALI. </title>
-			<description>LIQUIDAZIONE FATTURA N.23 DEL 20.12.2017 DELLA DITTA "SILLA" S.A.S. - FILIALE DI ROVIGO- PER LA FORNITURA DI MATERIALE PER TINTEGGIATURA PARETI DEI LOCALI DEGLI IMPIANTI SPORTIVI COMUNALI. </description>
 			<a10:updated>2018-01-26T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
