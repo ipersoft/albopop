@@ -5,7 +5,7 @@
 		<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Sgurgola</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 30 Jan 2018 13:30:57 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 30 Jan 2018 14:31:21 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Sgurgola</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Frosinone</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Sgurgola</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_sgurgola</a10:id>
-		<pubDate>Tue, 30 Jan 2018 13:30:57 +0100</pubDate>
+		<pubDate>Tue, 30 Jan 2018 14:31:21 +0100</pubDate>
 		<docs>http://albopop.it/comune/sgurgola/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3188336</guid>
+			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3188336</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 30 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 14 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3188336</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DELIBERE DI GIUNTA</category>
+			<title>VERBALE N. 05 DEL 30/01/2018 SPORT IN/E MOVIMENTO APPROVAZIONE PROGETTO E RICHIESTA ALLA REGIONE LAZIO </title>
+			<description>VERBALE N. 05 DEL 30/01/2018 SPORT IN/E MOVIMENTO APPROVAZIONE PROGETTO E RICHIESTA ALLA REGIONE LAZIO </description>
+			<a10:updated>2018-01-30T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3188082</guid>
 			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3188082</link>
@@ -281,17 +292,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINA</category>
 			<title>VERBALE N. 417 DEL 21.12.2017 IMPEGNO DI SPESA PER CONTRIBUTO ASSOCIAZIONE DI VOLONTARIATO SAN LEONARDO SOCCORSO </title>
 			<description>VERBALE N. 417 DEL 21.12.2017 IMPEGNO DI SPESA PER CONTRIBUTO ASSOCIAZIONE DI VOLONTARIATO SAN LEONARDO SOCCORSO </description>
-			<a10:updated>2018-01-19T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3170854</guid>
-			<link>http://sgurgola.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3170854</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 19 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 03 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3170854</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINA</category>
-			<title>VERBALE D. 384 DEL 27/11/2017 ACQUISTO SALE MARINO PER STRADE COMUNALI ASSUNZIONE IMPEGNO DI SPESA </title>
-			<description>VERBALE D. 384 DEL 27/11/2017 ACQUISTO SALE MARINO PER STRADE COMUNALI ASSUNZIONE IMPEGNO DI SPESA </description>
 			<a10:updated>2018-01-19T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

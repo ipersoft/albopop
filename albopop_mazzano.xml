@@ -5,7 +5,7 @@
 		<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mazzano</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 30 Jan 2018 13:31:48 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 30 Jan 2018 14:32:29 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mazzano</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mazzano</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mazzano</a10:id>
-		<pubDate>Tue, 30 Jan 2018 13:31:48 +0100</pubDate>
+		<pubDate>Tue, 30 Jan 2018 14:32:29 +0100</pubDate>
 		<docs>http://albopop.it/comune/mazzano/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3832267</guid>
+			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3832267</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 30 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 14 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3832267</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>ORDINANZA N° 5 - 2018 I CHIUSURA TEMPORANEA DEL TRANSITO VEICOLARE IN ALCUNE VIE IN OCCASIONE DEL FESTEGGIAMENTO DEL CARNEVALE IN DATA 11.02.2018 </title>
+			<description>ORDINANZA N° 5 - 2018 I CHIUSURA TEMPORANEA DEL TRANSITO VEICOLARE IN ALCUNE VIE IN OCCASIONE DEL FESTEGGIAMENTO DEL CARNEVALE IN DATA 11.02.2018 </description>
+			<a10:updated>2018-01-30T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3832017</guid>
 			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3832017</link>
@@ -282,17 +293,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERE DI GIUNTA COMUNALE</category>
 			<title>CONFERIMENTO INCARICO DI ASSISTENZA LEGALE PER AZIONE DI RECUPERO CREDITO ATTRAVERSO INTERVENTO NELLA PROCEDURA ESECUTIVA IMMOBILIARE N.1227/2016 PENDENTE AVANTI AL TRIBUNALE DI BRESCIA NEI CONFRONTI DELLA FONDAZIONE GIACOMINI MEO ONLUS </title>
 			<description>CONFERIMENTO INCARICO DI ASSISTENZA LEGALE PER AZIONE DI RECUPERO CREDITO ATTRAVERSO INTERVENTO NELLA PROCEDURA ESECUTIVA IMMOBILIARE N.1227/2016 PENDENTE AVANTI AL TRIBUNALE DI BRESCIA NEI CONFRONTI DELLA FONDAZIONE GIACOMINI MEO ONLUS </description>
-			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3806850</guid>
-			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3806850</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 18 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 02 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3806850</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERE DI GIUNTA COMUNALE</category>
-			<title>SCHEMA DI ACCORDO PER LA DEFINIZIONE DEI RAPPORTI CON IL COMUNE DI COLLEBEATO PER L’UTILIZZO DELLA GRADUATORIA CONCORSUALE DI ISTRUTTORE TECNICO - CAT. C. ESAME ED APPROVAZIONE </title>
-			<description>SCHEMA DI ACCORDO PER LA DEFINIZIONE DEI RAPPORTI CON IL COMUNE DI COLLEBEATO PER L’UTILIZZO DELLA GRADUATORIA CONCORSUALE DI ISTRUTTORE TECNICO - CAT. C. ESAME ED APPROVAZIONE </description>
 			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
