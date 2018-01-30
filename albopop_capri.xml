@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 30 Jan 2018 15:31:43 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 30 Jan 2018 16:31:31 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Tue, 30 Jan 2018 15:31:43 +0100</pubDate>
+		<pubDate>Tue, 30 Jan 2018 16:31:31 +0100</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3188719</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3188719</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 30 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 14 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3188719</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>Ordinanza Ingiunzione di applicazione delle sanzioni pecuniarie. Località M.Grande specchi acquei in CDM al Comune di Capri. </title>
+			<description>Ordinanza Ingiunzione di applicazione delle sanzioni pecuniarie. Località M.Grande specchi acquei in CDM al Comune di Capri. </description>
+			<a10:updated>2018-01-30T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3188647</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3188647</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 30 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 14 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3188647</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>Ordinanza Ingiunzione di applicazione delle sanzioni pecuniarie. Località M.Grande specchi acquei in CDM al Comune di Capri </title>
+			<description>Ordinanza Ingiunzione di applicazione delle sanzioni pecuniarie. Località M.Grande specchi acquei in CDM al Comune di Capri </description>
+			<a10:updated>2018-01-30T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3188573</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3188573</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 30 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 14 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3188573</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>Ordinanza Ingiunzione di applicazione delle sanzioni pecuniarie. Località M. Grande specchi acquei in CDM al Comune di Capri. </title>
+			<description>Ordinanza Ingiunzione di applicazione delle sanzioni pecuniarie. Località M. Grande specchi acquei in CDM al Comune di Capri. </description>
+			<a10:updated>2018-01-30T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3188264</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3188264</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
 			<title>LIQUIDAZIONE FATTURE ALLA COOP. SOCIALE ICARO ONLUS - LOTTO B - D2 – CENTRO SOCIALE POLIFUNZIONALE - COMUNI DI CAPRI ED ANACAPRI – PERIODO DICEMBRE 2017 </title>
 			<description>LIQUIDAZIONE FATTURE ALLA COOP. SOCIALE ICARO ONLUS - LOTTO B - D2 – CENTRO SOCIALE POLIFUNZIONALE - COMUNI DI CAPRI ED ANACAPRI – PERIODO DICEMBRE 2017 </description>
-			<a10:updated>2018-01-29T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3184659</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3184659</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 29 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 13 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3184659</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>ADESIONE ALL'ASSOCIAZIONE NAZIONALE UFFICIALI DI STATO CIVILE E DI ANAGRAFE (ANUSCA) - VERSAMENTO QUOTA ASSOCIATIVA ANNO 2018. CIG Z7F21E873C </title>
-			<description>ADESIONE ALL'ASSOCIAZIONE NAZIONALE UFFICIALI DI STATO CIVILE E DI ANAGRAFE (ANUSCA) - VERSAMENTO QUOTA ASSOCIATIVA ANNO 2018. CIG Z7F21E873C </description>
-			<a10:updated>2018-01-29T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3184512</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3184512</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 29 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 13 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3184512</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
-			<title>LIQUIDAZIONE FATTURE ALLA COOP. SOCIALE ICARO ONLUS - LOTTO B - D7 – ASISSTENZA DOMICILIARE DISABILI - COMUNI DI CAPRI ED ANACAPRI – PERIODO DICEMBRE 2017 </title>
-			<description>LIQUIDAZIONE FATTURE ALLA COOP. SOCIALE ICARO ONLUS - LOTTO B - D7 – ASISSTENZA DOMICILIARE DISABILI - COMUNI DI CAPRI ED ANACAPRI – PERIODO DICEMBRE 2017 </description>
-			<a10:updated>2018-01-29T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3184438</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3184438</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 29 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 13 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3184438</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>COLLABORAZIONE ISTITUZIONALE ALL'INIZIATIVA PROPOSTA DALL'ISTITUTO COMPRENSIVO "I. NIEVO" IN OCCASIONE DELLA GIORNATA DELLA MEMORIA PER NOLEGGIO PELLICOLA "IL SACCHETTO DI BIGLIE" IMPEGNATIVA DI SPESA IN FAVORE DELLA DITTA DAEDALUS CAPRIMAZE SRLS CIG.:Z1321E3142 </title>
-			<description>COLLABORAZIONE ISTITUZIONALE ALL'INIZIATIVA PROPOSTA DALL'ISTITUTO COMPRENSIVO "I. NIEVO" IN OCCASIONE DELLA GIORNATA DELLA MEMORIA PER NOLEGGIO PELLICOLA "IL SACCHETTO DI BIGLIE" IMPEGNATIVA DI SPESA IN FAVORE DELLA DITTA DAEDALUS CAPRIMAZE SRLS CIG.:Z1321E3142 </description>
 			<a10:updated>2018-01-29T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
