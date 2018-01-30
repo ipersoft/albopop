@@ -5,7 +5,7 @@
 		<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Busnago</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 30 Jan 2018 10:31:55 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 30 Jan 2018 11:31:08 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Busnago</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Busnago</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_busnago</a10:id>
-		<pubDate>Tue, 30 Jan 2018 10:31:55 +0100</pubDate>
+		<pubDate>Tue, 30 Jan 2018 11:31:08 +0100</pubDate>
 		<docs>http://albopop.it/comune/busnago/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3831335</guid>
+			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3831335</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 30 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3831335</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI PUBBLICI AVVISO BANDO DI MOBILITÀ ESTERNA</category>
+			<title>COMUNE DI BUCCINASCO: AVVISO PUBBLICO DI MOBILITÀ ESTERNA AI SENSI DELLART. 30, D.LGS. N. 165/2001 E S.M.I. PER LA COPERTURA DI N. 1 POSTO DI COLLABORATORE AMMINISTRATIVO DI CATEGORIA B, POSIZIONE ACCESSO B.3, AMBITO AMMINISTRATIVO, A TEMPO PIENO ED INDET </title>
+			<description>COMUNE DI BUCCINASCO: AVVISO PUBBLICO DI MOBILITÀ ESTERNA AI SENSI DELLART. 30, D.LGS. N. 165/2001 E S.M.I. PER LA COPERTURA DI N. 1 POSTO DI COLLABORATORE AMMINISTRATIVO DI CATEGORIA B, POSIZIONE ACCESSO B.3, AMBITO AMMINISTRATIVO, A TEMPO PIENO ED INDET </description>
+			<a10:updated>2018-01-30T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3830911</guid>
 			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3830911</link>
@@ -282,17 +292,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DETERMINAZIONE DEI RESPONSABILI</category>
 			<title>ABBONAMENTO ALLA RIVISTA "PERSONALE NEWS".--IMPEGNO DI SPESA ANNO 2018. </title>
 			<description>ABBONAMENTO ALLA RIVISTA "PERSONALE NEWS".--IMPEGNO DI SPESA ANNO 2018. </description>
-			<a10:updated>2018-01-29T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3829376</guid>
-			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3829376</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 29 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 13 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3829376</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DEL COMUNE DI BUSNAGO DETERMINAZIONE DEI RESPONSABILI</category>
-			<title>PARTECIPAZIONE GIORNATA DI STUDIO PROMOSSA DA FONDAZIONE DE IURE PUBLICO “I NUOVI REGIMI AMMINISTRATIVI IN EDILIZIA E URBANISTICA” - DIPENDENTE GEOM. ANTONELLA D’ANGELO. </title>
-			<description>PARTECIPAZIONE GIORNATA DI STUDIO PROMOSSA DA FONDAZIONE DE IURE PUBLICO “I NUOVI REGIMI AMMINISTRATIVI IN EDILIZIA E URBANISTICA” - DIPENDENTE GEOM. ANTONELLA D’ANGELO. </description>
 			<a10:updated>2018-01-29T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
