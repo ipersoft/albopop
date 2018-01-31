@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 31 Jan 2018 12:31:30 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 31 Jan 2018 13:30:46 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Wed, 31 Jan 2018 12:31:30 +0100</pubDate>
+		<pubDate>Wed, 31 Jan 2018 13:30:46 +0100</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3190599</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3190599</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 31 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 15 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3190599</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>IMU RISCOSSA TRAMITE MODELLI F24. CONTRIBUTO IFEL CALCOLATO SUL GETTITO COMUNALE PER IMMOBILI IMPONIBILI </title>
+			<description>IMU RISCOSSA TRAMITE MODELLI F24. CONTRIBUTO IFEL CALCOLATO SUL GETTITO COMUNALE PER IMMOBILI IMPONIBILI </description>
+			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3190371</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3190371</link>
@@ -281,17 +292,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI AVVISO</category>
 			<title>CIRCOLARE PER MANIFESTO DI CONVOCAZIONE DELLA COMMISSIONE ELETTORALE COMUNALE PER LA NOMINA DEGLI SCRUTATORI ELEZIONE DEL CONSIGLIO REGIONALE E DEL PRESIDENTE DELLA REGIONE DI DOMENICA 4 MARZO 2018 </title>
 			<description>CIRCOLARE PER MANIFESTO DI CONVOCAZIONE DELLA COMMISSIONE ELETTORALE COMUNALE PER LA NOMINA DEGLI SCRUTATORI ELEZIONE DEL CONSIGLIO REGIONALE E DEL PRESIDENTE DELLA REGIONE DI DOMENICA 4 MARZO 2018 </description>
-			<a10:updated>2018-01-25T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3180652</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3180652</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 25 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 09 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3180652</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>ADESIONE CONVENZIONE PER LA FORNITURA DI GAS NATURALE E DEI SERVIZI CONNESSI PER LE PUBBLICHE AMMINISTRAZIONI – ED. 9, AI SENSI DELL’ARTICOLO 26, LEGGE 23 DICEMBRE 1999 N. 488 E S.M.I. E DELL’ARTICOLO 58, LEGGE 23 DICEMBRE 2000 N. 388 – ID 1729 - CIG 6644193184. CIG DERIVATO: 73619812E9. - PERIODO 01.04.2018 31.03.2019 </title>
-			<description>ADESIONE CONVENZIONE PER LA FORNITURA DI GAS NATURALE E DEI SERVIZI CONNESSI PER LE PUBBLICHE AMMINISTRAZIONI – ED. 9, AI SENSI DELL’ARTICOLO 26, LEGGE 23 DICEMBRE 1999 N. 488 E S.M.I. E DELL’ARTICOLO 58, LEGGE 23 DICEMBRE 2000 N. 388 – ID 1729 - CIG 6644193184. CIG DERIVATO: 73619812E9. - PERIODO 01.04.2018 31.03.2019 </description>
 			<a10:updated>2018-01-25T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
