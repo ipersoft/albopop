@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 31 Jan 2018 11:31:36 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 31 Jan 2018 12:32:34 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,88 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Wed, 31 Jan 2018 11:31:36 +0100</pubDate>
+		<pubDate>Wed, 31 Jan 2018 12:32:34 +0100</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3190502</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3190502</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 31 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 08 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3190502</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONTESTAZIONE</category>
+			<title>PUBBLICAZIONE ART.60 A CARICO DI BEN MOUSSA MOHAMED </title>
+			<description>PUBBLICAZIONE ART.60 A CARICO DI BEN MOUSSA MOHAMED </description>
+			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3190501</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3190501</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 31 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 20 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3190501</category>
+			<category domain="http://albopop.it/specs#item-category-type">INGIUNZIONE</category>
+			<title>PUBBLICAZIONE ART.143 C.P.C. A CARICO DI BETPOINT DI CALOGERO LA VACCARA &amp; C. SAS </title>
+			<description>PUBBLICAZIONE ART.143 C.P.C. A CARICO DI BETPOINT DI CALOGERO LA VACCARA &amp; C. SAS </description>
+			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3190500</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3190500</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 31 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 20 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3190500</category>
+			<category domain="http://albopop.it/specs#item-category-type">VERBALI VERBALE INFRAZIONE AL C.S.</category>
+			<title>PUBBLICAZIONE ART.143 C.P.C. A CARICO DI CASSISI GIUSEPPE </title>
+			<description>PUBBLICAZIONE ART.143 C.P.C. A CARICO DI CASSISI GIUSEPPE </description>
+			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3190499</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3190499</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 31 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 20 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3190499</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONTESTAZIONE</category>
+			<title>PUBBLICAZIONE ART.143 C.P.C. A CARICO DI MOCANU VASILE </title>
+			<description>PUBBLICAZIONE ART.143 C.P.C. A CARICO DI MOCANU VASILE </description>
+			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3190498</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3190498</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 31 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 20 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3190498</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONTESTAZIONE</category>
+			<title>PUBBLICAZIONE ART.143 C.P.C. A CARICO DI DISTEFANO MARCO </title>
+			<description>PUBBLICAZIONE ART.143 C.P.C. A CARICO DI DISTEFANO MARCO </description>
+			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3190497</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3190497</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 31 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 20 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3190497</category>
+			<category domain="http://albopop.it/specs#item-category-type">VERBALI VERBALE </category>
+			<title>PUBBLICAZIONE ART.143 C.P.C. A CARICO DI GAMBINA GAETANO </title>
+			<description>PUBBLICAZIONE ART.143 C.P.C. A CARICO DI GAMBINA GAETANO </description>
+			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3190379</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3190379</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 31 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 20 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3190379</category>
+			<category domain="http://albopop.it/specs#item-category-type">VERBALI VERBALE </category>
+			<title>PUBBLICAZIONE ART.143 C.P.C. A CARICO DI DISTEFANO GIUSEPPE </title>
+			<description>PUBBLICAZIONE ART.143 C.P.C. A CARICO DI DISTEFANO GIUSEPPE </description>
+			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3189993</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3189993</link>
@@ -217,83 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">CANCELLAZIONE ANAGRAFICA</category>
 			<title>PUBBLICAZIONE ART.143 C.P.C. A CARICO DI BALACEANU LIVIA, SAADI HASSEN, BALACEANU VALENTINO ALEXANDRU </title>
 			<description>PUBBLICAZIONE ART.143 C.P.C. A CARICO DI BALACEANU LIVIA, SAADI HASSEN, BALACEANU VALENTINO ALEXANDRU </description>
-			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3189825</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3189825</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 31 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 20 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3189825</category>
-			<category domain="http://albopop.it/specs#item-category-type">CANCELLAZIONE ANAGRAFICA</category>
-			<title>PUBBLICAZIONE ART.143 C.P.C. A CARICO DI BANA GEZA </title>
-			<description>PUBBLICAZIONE ART.143 C.P.C. A CARICO DI BANA GEZA </description>
-			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3189776</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3189776</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 31 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 20 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3189776</category>
-			<category domain="http://albopop.it/specs#item-category-type">CANCELLAZIONE ANAGRAFICA</category>
-			<title>PUBBLICAZIONE ART.143 C.P.C. A CARICO DI BARLA ELENA </title>
-			<description>PUBBLICAZIONE ART.143 C.P.C. A CARICO DI BARLA ELENA </description>
-			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3189775</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3189775</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 31 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 20 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3189775</category>
-			<category domain="http://albopop.it/specs#item-category-type">CANCELLAZIONE ANAGRAFICA</category>
-			<title>PUBBLICAZIONE ART.143 C.P.C. A CARICO DI BATTAGLIA GIANCARLO, BATTAGLIA ALEXANDRA </title>
-			<description>PUBBLICAZIONE ART.143 C.P.C. A CARICO DI BATTAGLIA GIANCARLO, BATTAGLIA ALEXANDRA </description>
-			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3189494</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3189494</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 31 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 07 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3189494</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
-			<title>AFFIDAMENTO PER IL SERVIZIO DI TRASFERIMENTO CANI RANDAGI RICOVERATI PRESSO IL CANILE SANITARIO PUBBLICO E QUELLO PRIVATO CONVENZIONATO A SCOPO DI ADOZIONE </title>
-			<description>AFFIDAMENTO PER IL SERVIZIO DI TRASFERIMENTO CANI RANDAGI RICOVERATI PRESSO IL CANILE SANITARIO PUBBLICO E QUELLO PRIVATO CONVENZIONATO A SCOPO DI ADOZIONE </description>
-			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3189492</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3189492</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 31 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 07 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3189492</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
-			<title>ORGANIZZARE IN COLLABORAZIONE CON L’ ASSOCIAZIONE DI VOLONTARIATO " PICCOLO PRINCIPE" ONLUS LA MANIFESTAZIONE DI SOLIDARIETÀ“ NUOTO SOLIDALE” CHE SI SVOLGERÀ IL 18 FEBBRAIO 2018 PRESSO LA PISCINA COMUNALE DI RAGUSA. CIG. Z8621D6BCE </title>
-			<description>ORGANIZZARE IN COLLABORAZIONE CON L’ ASSOCIAZIONE DI VOLONTARIATO " PICCOLO PRINCIPE" ONLUS LA MANIFESTAZIONE DI SOLIDARIETÀ“ NUOTO SOLIDALE” CHE SI SVOLGERÀ IL 18 FEBBRAIO 2018 PRESSO LA PISCINA COMUNALE DI RAGUSA. CIG. Z8621D6BCE </description>
-			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3189490</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3189490</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 31 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 07 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3189490</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
-			<title>PROROGA DEI SERVIZI COMPLEMENTARI PER IL FUNZIONAMENTO DEL CANILE SANITARIO COMUNALE ALLA A.S.D. PENSIERI BESTIALI. PERIODO: 1 FEBBRAIO 2018 – 31 MARZO 2018 </title>
-			<description>PROROGA DEI SERVIZI COMPLEMENTARI PER IL FUNZIONAMENTO DEL CANILE SANITARIO COMUNALE ALLA A.S.D. PENSIERI BESTIALI. PERIODO: 1 FEBBRAIO 2018 – 31 MARZO 2018 </description>
-			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3189488</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3189488</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 31 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 07 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3189488</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
-			<title>DIRETTIVE PER L'INSEDIAMENTO DELLE ATTIVITÀ ECONOMICHE E PRODUTTIVE: DEFINIZIONE DELLE DESTINAZIONI D'USO, DELLE CARATTERISTICHE URBANISTICHE E DEI REQUISITI IGIENICO SANITARI DEGLI IMMOBILI AD ESSE UTILI. REVOCA DELLA DETERMINAZIONE DIRIGENZIALE 11 DEL 27.06.2017 </title>
-			<description>DIRETTIVE PER L'INSEDIAMENTO DELLE ATTIVITÀ ECONOMICHE E PRODUTTIVE: DEFINIZIONE DELLE DESTINAZIONI D'USO, DELLE CARATTERISTICHE URBANISTICHE E DEI REQUISITI IGIENICO SANITARI DEGLI IMMOBILI AD ESSE UTILI. REVOCA DELLA DETERMINAZIONE DIRIGENZIALE 11 DEL 27.06.2017 </description>
 			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

@@ -5,7 +5,7 @@
 		<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mazzano</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 31 Jan 2018 11:31:35 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 31 Jan 2018 12:32:33 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mazzano</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mazzano</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mazzano</a10:id>
-		<pubDate>Wed, 31 Jan 2018 11:31:35 +0100</pubDate>
+		<pubDate>Wed, 31 Jan 2018 12:32:33 +0100</pubDate>
 		<docs>http://albopop.it/comune/mazzano/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3835343</guid>
+			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3835343</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 31 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 15 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3835343</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>CHIUSURA AL PUBBLICO DEL CIMITERO DI MOLINETTO PER ESTUMULAZIONE STRAORDINARIA </title>
+			<description>CHIUSURA AL PUBBLICO DEL CIMITERO DI MOLINETTO PER ESTUMULAZIONE STRAORDINARIA </description>
+			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3834974</guid>
+			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3834974</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 31 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 08 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3834974</category>
+			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>PUBBLICAZIONE DI MATRIMONIO GUERINI - FESTRYGA </title>
+			<description>PUBBLICAZIONE DI MATRIMONIO GUERINI - FESTRYGA </description>
+			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3833960</guid>
 			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3833960</link>
@@ -271,28 +293,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERE DI GIUNTA COMUNALE</category>
 			<title>RILASCIO NULLA OSTA ALLA SOCIETA' "MAZZANO SERVIZI SRL UNIPERSONALE" PER AFFIDAMENTO INCARICO DI FARMACISTA COLLABORATORE - PERIODO GENNAIO/APRILE 2018. </title>
 			<description>RILASCIO NULLA OSTA ALLA SOCIETA' "MAZZANO SERVIZI SRL UNIPERSONALE" PER AFFIDAMENTO INCARICO DI FARMACISTA COLLABORATORE - PERIODO GENNAIO/APRILE 2018. </description>
-			<a10:updated>2018-01-19T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3810955</guid>
-			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3810955</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 19 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 03 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3810955</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERE DI GIUNTA COMUNALE</category>
-			<title>CONTRATTO COLLETTIVO DECENTRATO INTEGRATIVO - QUANTIFICAZIONE RISORSE "VARIABILI" DA DESTINARE ALLE POLITICHE DI SVILUPPO E LE RISORSE UMANE E ALLA PERFORMANCE INDIVIDUALE/COLLETTIVA PER L'ANNO 2017 E APPROVAZIONE PARTE NORMATIVA 2017/2019. AUTORIZZAZIONE ALLA SOTTOSCRIZIONE. </title>
-			<description>CONTRATTO COLLETTIVO DECENTRATO INTEGRATIVO - QUANTIFICAZIONE RISORSE "VARIABILI" DA DESTINARE ALLE POLITICHE DI SVILUPPO E LE RISORSE UMANE E ALLA PERFORMANCE INDIVIDUALE/COLLETTIVA PER L'ANNO 2017 E APPROVAZIONE PARTE NORMATIVA 2017/2019. AUTORIZZAZIONE ALLA SOTTOSCRIZIONE. </description>
-			<a10:updated>2018-01-19T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3810953</guid>
-			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3810953</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 19 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 03 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3810953</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERE DI GIUNTA COMUNALE</category>
-			<title>REVISIONE DOTAZIONE ORGANICA, RICOGNIZIONE ANNUALE DELLE ECCEDENZE DI PERSONALE E PROGRAMMAZIONE DEL FABBISOGNO DEL PERSONALE – TRIENNIO 2018/2020 </title>
-			<description>REVISIONE DOTAZIONE ORGANICA, RICOGNIZIONE ANNUALE DELLE ECCEDENZE DI PERSONALE E PROGRAMMAZIONE DEL FABBISOGNO DEL PERSONALE – TRIENNIO 2018/2020 </description>
 			<a10:updated>2018-01-19T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
