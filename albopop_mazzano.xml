@@ -5,7 +5,7 @@
 		<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mazzano</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 31 Jan 2018 09:31:51 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 31 Jan 2018 10:32:20 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mazzano</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mazzano</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mazzano</a10:id>
-		<pubDate>Wed, 31 Jan 2018 09:31:51 +0100</pubDate>
+		<pubDate>Wed, 31 Jan 2018 10:32:20 +0100</pubDate>
 		<docs>http://albopop.it/comune/mazzano/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3833960</guid>
+			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3833960</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 31 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 08 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3833960</category>
+			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>PUBBLICAZIONE DI MATRIMONIO RICCETTI - BELLONESE </title>
+			<description>PUBBLICAZIONE DI MATRIMONIO RICCETTI - BELLONESE </description>
+			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3833455</guid>
 			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3833455</link>
@@ -282,17 +293,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERE DI GIUNTA COMUNALE</category>
 			<title>REVISIONE DOTAZIONE ORGANICA, RICOGNIZIONE ANNUALE DELLE ECCEDENZE DI PERSONALE E PROGRAMMAZIONE DEL FABBISOGNO DEL PERSONALE – TRIENNIO 2018/2020 </title>
 			<description>REVISIONE DOTAZIONE ORGANICA, RICOGNIZIONE ANNUALE DELLE ECCEDENZE DI PERSONALE E PROGRAMMAZIONE DEL FABBISOGNO DEL PERSONALE – TRIENNIO 2018/2020 </description>
-			<a10:updated>2018-01-19T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3810247</guid>
-			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3810247</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 19 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 03 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3810247</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
-			<title>DETERMINA RELATIVA ALL'ORGANIZZAZIONE INTERNA DELL'UFFICIO UNICO INTERCOMUNALE MAZZANO - NUVOLERA - NUVOLENTO LAVORI PUBBLICI E SERVIZI COMUNALI ED ALL' IDENTIFICAZIONE DELLA RESPONSABILITÀ DI CIASCUN COLLABORATORE IN MERITO ALL'ISTRUTTORIA E ALLA PREDISPOSIZIONE DEL RELATIVO PROVVEDIMENTO IN MERITO AI PROCEDIMENTI DELL'UFFICIO STESSO. ASSEGNAZIONE A CIASCUN COLLABORATORE DEGLI OBIETTIVI GESTIONALI SPECIFICI ASSEGNATI ALL'UFFICIO IN SEDE DI APPROVAZIONE DEL PIANO DELLE PERFORMANCE . </title>
-			<description>DETERMINA RELATIVA ALL'ORGANIZZAZIONE INTERNA DELL'UFFICIO UNICO INTERCOMUNALE MAZZANO - NUVOLERA - NUVOLENTO LAVORI PUBBLICI E SERVIZI COMUNALI ED ALL' IDENTIFICAZIONE DELLA RESPONSABILITÀ DI CIASCUN COLLABORATORE IN MERITO ALL'ISTRUTTORIA E ALLA PREDISPOSIZIONE DEL RELATIVO PROVVEDIMENTO IN MERITO AI PROCEDIMENTI DELL'UFFICIO STESSO. ASSEGNAZIONE A CIASCUN COLLABORATORE DEGLI OBIETTIVI GESTIONALI SPECIFICI ASSEGNATI ALL'UFFICIO IN SEDE DI APPROVAZIONE DEL PIANO DELLE PERFORMANCE . </description>
 			<a10:updated>2018-01-19T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
