@@ -5,7 +5,7 @@
 		<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bernareggio</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 30 Jan 2018 18:32:13 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 31 Jan 2018 08:31:17 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bernareggio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bernareggio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bernareggio</a10:id>
-		<pubDate>Tue, 30 Jan 2018 18:32:13 +0100</pubDate>
+		<pubDate>Wed, 31 Jan 2018 08:31:17 +0100</pubDate>
 		<docs>http://albopop.it/comune/bernareggio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -84,17 +84,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">AVVISI</category>
 			<title>POSTA CERTIFICATA: AVVISO PUBBLICO DI MOBILITÀ ESTERNA AI SENSI DELL'ART. 30, D.LGS. N. 165/2001 E S.M.I. PER LA COPERTURA DI N. 1 POSTO DI COLLABORATORE AMMINISTRATIVO DI CATEGORIA B, POSIZIONE D'ACCESSO B.3, AMBITO AMMINISTRATIVO, A TEMPO PIENO ED INDETERMINATO </title>
 			<description>POSTA CERTIFICATA: AVVISO PUBBLICO DI MOBILITÀ ESTERNA AI SENSI DELL'ART. 30, D.LGS. N. 165/2001 E S.M.I. PER LA COPERTURA DI N. 1 POSTO DI COLLABORATORE AMMINISTRATIVO DI CATEGORIA B, POSIZIONE D'ACCESSO B.3, AMBITO AMMINISTRATIVO, A TEMPO PIENO ED INDETERMINATO </description>
-			<a10:updated>2018-01-29T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3829056</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3829056</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 29 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 30 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3829056</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI</category>
-			<title>POSTA CERTIFICATA: CONVOCAZIONE ASSEMBLEA GENERALE 30.01.2018 ORE 18,15 - RICHIESTA PUBBLICAZIONE </title>
-			<description>POSTA CERTIFICATA: CONVOCAZIONE ASSEMBLEA GENERALE 30.01.2018 ORE 18,15 - RICHIESTA PUBBLICAZIONE </description>
 			<a10:updated>2018-01-29T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
@@ -292,6 +281,16 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>1^ VARIAZIONE AL BILANCIO DI PREVISIONE 2018/2020 PER SERVIZI PER CONTO TERZI AI SENSI DELL'ART. 175 COMMA 5 QUATER D.LGS. N. 267/2000 </title>
 			<description>1^ VARIAZIONE AL BILANCIO DI PREVISIONE 2018/2020 PER SERVIZI PER CONTO TERZI AI SENSI DELL'ART. 175 COMMA 5 QUATER D.LGS. N. 267/2000 </description>
+			<a10:updated>2018-01-23T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3815777</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3815777</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 23 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3815777</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI</category>
+			<title>AVVISO PUBBLICO DI MOBILITA’ VOLONTARIA EX ART. 30 DECRETO LEGISLATIVO 30 MARZO 2001, N. 165,PER LA COPERTURA A TEMPO INDETERMINATO E PIENO DI 1 POSTO VACANTE NEL RUOLO DI SPECIALISTA TECNICO – SPECIALISTA TECNICA CATEGORIA D1 </title>
+			<description>AVVISO PUBBLICO DI MOBILITA’ VOLONTARIA EX ART. 30 DECRETO LEGISLATIVO 30 MARZO 2001, N. 165,PER LA COPERTURA A TEMPO INDETERMINATO E PIENO DI 1 POSTO VACANTE NEL RUOLO DI SPECIALISTA TECNICO – SPECIALISTA TECNICA CATEGORIA D1 </description>
 			<a10:updated>2018-01-23T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

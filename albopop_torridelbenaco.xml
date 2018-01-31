@@ -5,7 +5,7 @@
 		<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Torri del Benaco</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 30 Jan 2018 18:34:17 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 31 Jan 2018 08:31:46 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Torri del Benaco</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Verona</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Torri del Benaco</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_torridelbenaco</a10:id>
-		<pubDate>Tue, 30 Jan 2018 18:34:17 +0100</pubDate>
+		<pubDate>Wed, 31 Jan 2018 08:31:46 +0100</pubDate>
 		<docs>http://albopop.it/comune/torridelbenaco/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3833215</guid>
+			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3833215</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 31 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 15 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3833215</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
+			<title>FESTA DELL'OLIVA. TORRI DEL BENACO 26/28 GENNAIO 2018. AFFIDAMENTO INCARICO ORGANIZZAZIONE ALLA DITTA PROVINCIA DI VERONA TURISMO SRL. </title>
+			<description>FESTA DELL'OLIVA. TORRI DEL BENACO 26/28 GENNAIO 2018. AFFIDAMENTO INCARICO ORGANIZZAZIONE ALLA DITTA PROVINCIA DI VERONA TURISMO SRL. </description>
+			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3832010</guid>
 			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3832010</link>
@@ -280,17 +291,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISO 30 GIORNI</category>
 			<title>VERBALE DI CONSTATAZIONE DI VEICOLO A MOTORE IN STATO DI ABBANDONO </title>
 			<description>VERBALE DI CONSTATAZIONE DI VEICOLO A MOTORE IN STATO DI ABBANDONO </description>
-			<a10:updated>2018-01-19T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3810212</guid>
-			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3810212</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 19 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 18 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3810212</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISO 30 GIORNI</category>
-			<title>BANDO CONCORSO PUBBLICO PER TITOLI ED ESAMI PER UN POSTO DI ISTRUTTORE TECNICO CAT. C A TEMPO PARZIALE E INDETERMINATO-AREA TECNICA EDILIZIA PRIVATA </title>
-			<description>BANDO CONCORSO PUBBLICO PER TITOLI ED ESAMI PER UN POSTO DI ISTRUTTORE TECNICO CAT. C A TEMPO PARZIALE E INDETERMINATO-AREA TECNICA EDILIZIA PRIVATA </description>
 			<a10:updated>2018-01-19T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
