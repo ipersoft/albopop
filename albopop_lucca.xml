@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 31 Jan 2018 13:31:07 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 31 Jan 2018 14:31:47 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Wed, 31 Jan 2018 13:31:07 +0100</pubDate>
+		<pubDate>Wed, 31 Jan 2018 14:31:47 +0100</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3836031</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3836031</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 31 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 15 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3836031</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONVOCAZIONI</category>
+			<title>CONVOCAZIONE COMMISSIONE CONSILIARE URBANISTICA ASSETTO DEL TERRITORIO PER MERCOLEDI' 07/02/2018 ORE 18.00. </title>
+			<description>CONVOCAZIONE COMMISSIONE CONSILIARE URBANISTICA ASSETTO DEL TERRITORIO PER MERCOLEDI' 07/02/2018 ORE 18.00. </description>
+			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3835926</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3835926</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 31 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 15 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3835926</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONVOCAZIONI</category>
+			<title>CONVOCAZIONE COMMISSIONE CONSILIARE SPECIALE PER LA SICUREZZA NEI LUOGHI DI LAVORO PER MERCOLEDI' 14/02/2018 ORE 10.30. </title>
+			<description>CONVOCAZIONE COMMISSIONE CONSILIARE SPECIALE PER LA SICUREZZA NEI LUOGHI DI LAVORO PER MERCOLEDI' 14/02/2018 ORE 10.30. </description>
+			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3835505</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3835505</link>
@@ -272,28 +294,6 @@
 			<title>SO.FI.R. SRL - IVG DI LUCCA - BOLLETTINO ASTA GIUDIZIARIA SUL POSTO DEL 02 02 18 </title>
 			<description>SO.FI.R. SRL - IVG DI LUCCA - BOLLETTINO ASTA GIUDIZIARIA SUL POSTO DEL 02 02 18 </description>
 			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3830605</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3830605</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 30 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 14 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3830605</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>VIA BURLAMACCHI,CENTRO STORICO -MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE DAL GIORNO 05/02/2018 AL GIORNO 07/02/2018. </title>
-			<description>VIA BURLAMACCHI,CENTRO STORICO -MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE DAL GIORNO 05/02/2018 AL GIORNO 07/02/2018. </description>
-			<a10:updated>2018-01-30T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3830603</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3830603</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 30 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 14 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3830603</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>FESTA DI S. BIAGIO A CARIGNANO: MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE ED ALLA SOSTA IN VIA PER CARIGNANO E VIA DEL GENERALE, DALLE ORE 14:00 ALLE ORE 19:00 DEL GIORNO 4 FEBBRAIO 2018. </title>
-			<description>FESTA DI S. BIAGIO A CARIGNANO: MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE ED ALLA SOSTA IN VIA PER CARIGNANO E VIA DEL GENERALE, DALLE ORE 14:00 ALLE ORE 19:00 DEL GIORNO 4 FEBBRAIO 2018. </description>
-			<a10:updated>2018-01-30T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
