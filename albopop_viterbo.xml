@@ -5,7 +5,7 @@
 		<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Viterbo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 01 Feb 2018 12:30:58 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 01 Feb 2018 13:30:44 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Viterbo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Viterbo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Viterbo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_viterbo</a10:id>
-		<pubDate>Thu, 01 Feb 2018 12:30:58 +0100</pubDate>
+		<pubDate>Thu, 01 Feb 2018 13:30:44 +0100</pubDate>
 		<docs>http://albopop.it/comune/viterbo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3838648</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3838648</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 01 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 16 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3838648</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE ORDINANZA DIRIGENZIALE</category>
+			<title>ENEL - LAVORI DI RIPRISTINO PAVIMENTAZIONE IN PIAZZALE GRAMSCI - ISTITUZIONE DIVIETO DI SOSTA </title>
+			<description>ENEL - LAVORI DI RIPRISTINO PAVIMENTAZIONE IN PIAZZALE GRAMSCI - ISTITUZIONE DIVIETO DI SOSTA </description>
+			<a10:updated>2018-02-01T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3837167</guid>
 			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3837167</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONI SENZA IMPEGNO DI SPESA</category>
 			<title>AUTORIZZAZIONE PUBBLICITA' PERMANENTE RUZZA LEOPOLDO </title>
 			<description>AUTORIZZAZIONE PUBBLICITA' PERMANENTE RUZZA LEOPOLDO </description>
-			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3834988</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3834988</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 31 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 15 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3834988</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONI SENZA IMPEGNO DI SPESA</category>
-			<title>SIG.RA ACETI SANDRA - DIPENDENTE CON PROFILO PROFESSIONALE DI ISTRUTTORE DIRETTIVO AMMINISTRATIVO - CONCESSIONE CONGEDO PARENTALE A ORE AI SENSI DELL'ART. 32 E SEGUENTI DEL D. LGS 151/2001 </title>
-			<description>SIG.RA ACETI SANDRA - DIPENDENTE CON PROFILO PROFESSIONALE DI ISTRUTTORE DIRETTIVO AMMINISTRATIVO - CONCESSIONE CONGEDO PARENTALE A ORE AI SENSI DELL'ART. 32 E SEGUENTI DEL D. LGS 151/2001 </description>
 			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
