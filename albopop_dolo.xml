@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 01 Feb 2018 08:30:50 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 01 Feb 2018 09:30:59 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Thu, 01 Feb 2018 08:30:50 +0100</pubDate>
+		<pubDate>Thu, 01 Feb 2018 09:30:59 +0100</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3836949</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3836949</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 01 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 16 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3836949</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>LIQUIDAZIONE CONTRIBUTO A ISTITUTO TECNICO C. MUSATTI DI DOLO , PARTNER OPERATIVO DEL PROGETTO “ALLEANZA PER LE FAMIGLIE DELLA RIVIERA DEL BRENTA”, PER LA REALIZZAZIONE DEL LABORATORIO DI ALFABETIZZAZIONE DIGITALE PER ADULTI E/O ANZIANI, A VALERE SUI FONDI REGIONALI CONCESSI AL PROGETTO. </title>
+			<description>LIQUIDAZIONE CONTRIBUTO A ISTITUTO TECNICO C. MUSATTI DI DOLO , PARTNER OPERATIVO DEL PROGETTO “ALLEANZA PER LE FAMIGLIE DELLA RIVIERA DEL BRENTA”, PER LA REALIZZAZIONE DEL LABORATORIO DI ALFABETIZZAZIONE DIGITALE PER ADULTI E/O ANZIANI, A VALERE SUI FONDI REGIONALI CONCESSI AL PROGETTO. </description>
+			<a10:updated>2018-02-01T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3836916</guid>
 			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3836916</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DELIBERAZIONE DEL CONSIGLIO COMUNALE</category>
 			<title>MODIFICHE ALL’ART. 24 DEL REGOLAMENTO PER L’APPLICAZIONE DEL CANONE DI OCCUPAZIONE DEGLI SPAZI ED AREE PUBBLICHE </title>
 			<description>MODIFICHE ALL’ART. 24 DEL REGOLAMENTO PER L’APPLICAZIONE DEL CANONE DI OCCUPAZIONE DEGLI SPAZI ED AREE PUBBLICHE </description>
-			<a10:updated>2018-01-30T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3830857</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3830857</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 30 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 14 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3830857</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DELIBERAZIONE DEL CONSIGLIO COMUNALE</category>
-			<title>APPROVAZIONE MODIFICHE E INTEGRAZIONI AL "REGOLAMENTO DELL’ASILO NIDO COMUNALE " APPROVATO CON DELIBERA DI C.C. N.59 DEL 28.11.2016. </title>
-			<description>APPROVAZIONE MODIFICHE E INTEGRAZIONI AL "REGOLAMENTO DELL’ASILO NIDO COMUNALE " APPROVATO CON DELIBERA DI C.C. N.59 DEL 28.11.2016. </description>
 			<a10:updated>2018-01-30T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

@@ -5,7 +5,7 @@
 		<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bernareggio</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 01 Feb 2018 08:31:05 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 01 Feb 2018 09:31:45 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bernareggio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,32 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bernareggio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bernareggio</a10:id>
-		<pubDate>Thu, 01 Feb 2018 08:31:05 +0100</pubDate>
+		<pubDate>Thu, 01 Feb 2018 09:31:45 +0100</pubDate>
 		<docs>http://albopop.it/comune/bernareggio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3837164</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3837164</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 01 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 16 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3837164</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI</category>
+			<title>POSTA CERTIFICATA: DELIBERE ASSEMBLEA GENERALE 30.01.2018 - RICHIESTA PUBBLICAZIONE </title>
+			<description>POSTA CERTIFICATA: DELIBERE ASSEMBLEA GENERALE 30.01.2018 - RICHIESTA PUBBLICAZIONE </description>
+			<a10:updated>2018-02-01T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3837163</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3837163</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 01 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3837163</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI</category>
+			<title>RICHIESTA PUBBLICAZIONE AVVISO MOBILITA' PER VARI PROFILI PROFESSIONALI </title>
+			<description>RICHIESTA PUBBLICAZIONE AVVISO MOBILITA' PER VARI PROFILI PROFESSIONALI </description>
+			<a10:updated>2018-02-01T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3833853</guid>
 			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3833853</link>
@@ -270,27 +291,6 @@
 			<title>POSTA CERTIFICATA: AVVISO DI MOBILITÀ VOLONTARIA AI SENSI DELL'ART. 30 DEL D.LGS. N. 165/2001 PER LA COPERTURA DI N. 1 </title>
 			<description>POSTA CERTIFICATA: AVVISO DI MOBILITÀ VOLONTARIA AI SENSI DELL'ART. 30 DEL D.LGS. N. 165/2001 PER LA COPERTURA DI N. 1 </description>
 			<a10:updated>2018-01-24T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3816160</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3816160</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 23 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 07 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3816160</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>1^ VARIAZIONE AL BILANCIO DI PREVISIONE 2018/2020 PER SERVIZI PER CONTO TERZI AI SENSI DELL'ART. 175 COMMA 5 QUATER D.LGS. N. 267/2000 </title>
-			<description>1^ VARIAZIONE AL BILANCIO DI PREVISIONE 2018/2020 PER SERVIZI PER CONTO TERZI AI SENSI DELL'ART. 175 COMMA 5 QUATER D.LGS. N. 267/2000 </description>
-			<a10:updated>2018-01-23T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3815777</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3815777</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 23 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3815777</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI</category>
-			<title>AVVISO PUBBLICO DI MOBILITA’ VOLONTARIA EX ART. 30 DECRETO LEGISLATIVO 30 MARZO 2001, N. 165,PER LA COPERTURA A TEMPO INDETERMINATO E PIENO DI 1 POSTO VACANTE NEL RUOLO DI SPECIALISTA TECNICO – SPECIALISTA TECNICA CATEGORIA D1 </title>
-			<description>AVVISO PUBBLICO DI MOBILITA’ VOLONTARIA EX ART. 30 DECRETO LEGISLATIVO 30 MARZO 2001, N. 165,PER LA COPERTURA A TEMPO INDETERMINATO E PIENO DI 1 POSTO VACANTE NEL RUOLO DI SPECIALISTA TECNICO – SPECIALISTA TECNICA CATEGORIA D1 </description>
-			<a10:updated>2018-01-23T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
