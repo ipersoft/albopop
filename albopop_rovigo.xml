@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 01 Feb 2018 10:31:41 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 01 Feb 2018 11:31:58 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Thu, 01 Feb 2018 10:31:41 +0100</pubDate>
+		<pubDate>Thu, 01 Feb 2018 11:31:58 +0100</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3192411</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3192411</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 01 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 16 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3192411</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE ELENCO ABUSI EDILIZI</category>
+			<title>TRASMISSIONE RAPPORTI E ORDINANZE EX ART. 31, COMMA 7, D.P.R. 380/2001: “TESTO UNICO DELLE DISPOSIZIONI LEGISLATIVE E REGOLAMENTARI IN MATERIA EDILIZIA”: MESE DI GENNAIO 2018. </title>
+			<description>TRASMISSIONE RAPPORTI E ORDINANZE EX ART. 31, COMMA 7, D.P.R. 380/2001: “TESTO UNICO DELLE DISPOSIZIONI LEGISLATIVE E REGOLAMENTARI IN MATERIA EDILIZIA”: MESE DI GENNAIO 2018. </description>
+			<a10:updated>2018-02-01T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3192350</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3192350</link>
@@ -282,17 +293,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
 			<title>LIQUIDAZIONE SPESE CONDOMINIALI BILANCIO PREVENTIVO 2017/2018 COMPETENZA 2018 (RATE N. 5-6) IMMOBILE SITO IN ROVIGO, VIALE TRIESTE 16/18, SEDE DI UFFICI COMUNALI. </title>
 			<description>LIQUIDAZIONE SPESE CONDOMINIALI BILANCIO PREVENTIVO 2017/2018 COMPETENZA 2018 (RATE N. 5-6) IMMOBILE SITO IN ROVIGO, VIALE TRIESTE 16/18, SEDE DI UFFICI COMUNALI. </description>
-			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3189532</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3189532</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 31 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 15 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3189532</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>LIQUIDAZIONE CANONE I TRIMESTRE 2018 ED IMPOSTA DI REGISTRO LOCAZIONE RELATIVA ALL’IMMOBILE SITO IN VIALE TRIESTE N. 16-18 DESTINATO A SEDE DI UFFICI COMUNALI - DITTA GIOLU S.R.L. </title>
-			<description>LIQUIDAZIONE CANONE I TRIMESTRE 2018 ED IMPOSTA DI REGISTRO LOCAZIONE RELATIVA ALL’IMMOBILE SITO IN VIALE TRIESTE N. 16-18 DESTINATO A SEDE DI UFFICI COMUNALI - DITTA GIOLU S.R.L. </description>
 			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
