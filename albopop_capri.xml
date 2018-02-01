@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 01 Feb 2018 09:32:23 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 01 Feb 2018 10:31:42 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Thu, 01 Feb 2018 09:32:23 +0100</pubDate>
+		<pubDate>Thu, 01 Feb 2018 10:31:42 +0100</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3192311</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3192311</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 01 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 05 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3192311</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONVOCAZIONE CONSIGLIO COMUNALE </category>
+			<title>CONSIGLIO COMUNALE 3 FEBBRAIO 2018 - INTEGRAZIONE ODG </title>
+			<description>CONSIGLIO COMUNALE 3 FEBBRAIO 2018 - INTEGRAZIONE ODG </description>
+			<a10:updated>2018-02-01T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3192193</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3192193</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 01 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 16 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3192193</category>
+			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
+			<title>LIQUIDAZIONE CONTRIBUTO ANAC 2017 </title>
+			<description>LIQUIDAZIONE CONTRIBUTO ANAC 2017 </description>
+			<a10:updated>2018-02-01T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3191496</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3191496</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
 			<title>Ordinanza Ingiunzione di applicazione delle sanzioni pecuniarie. Località M.Grande specchi acquei in CDM al Comune di Capri. </title>
 			<description>Ordinanza Ingiunzione di applicazione delle sanzioni pecuniarie. Località M.Grande specchi acquei in CDM al Comune di Capri. </description>
-			<a10:updated>2018-01-30T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3188647</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3188647</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 30 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 14 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3188647</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>Ordinanza Ingiunzione di applicazione delle sanzioni pecuniarie. Località M.Grande specchi acquei in CDM al Comune di Capri </title>
-			<description>Ordinanza Ingiunzione di applicazione delle sanzioni pecuniarie. Località M.Grande specchi acquei in CDM al Comune di Capri </description>
-			<a10:updated>2018-01-30T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3188573</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3188573</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 30 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 14 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3188573</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>Ordinanza Ingiunzione di applicazione delle sanzioni pecuniarie. Località M. Grande specchi acquei in CDM al Comune di Capri. </title>
-			<description>Ordinanza Ingiunzione di applicazione delle sanzioni pecuniarie. Località M. Grande specchi acquei in CDM al Comune di Capri. </description>
 			<a10:updated>2018-01-30T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 01 Feb 2018 09:32:23 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 01 Feb 2018 10:31:41 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,43 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Thu, 01 Feb 2018 09:32:23 +0100</pubDate>
+		<pubDate>Thu, 01 Feb 2018 10:31:41 +0100</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3192350</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3192350</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 01 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3192350</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI ATTI DIVERSI</category>
+			<title>AVVISO DI MOBILITA' VOLONTARIA PER LA COPERTURA DI UN POSTO DA ISTRUTTORE TECNICO DIRETTIVO CAT. D PRESSO IL SETTORE PIANIFICAZIONE E GESTIONE DEL TERRITORIO DEL COMUNE DI SUZZARA </title>
+			<description>AVVISO DI MOBILITA' VOLONTARIA PER LA COPERTURA DI UN POSTO DA ISTRUTTORE TECNICO DIRETTIVO CAT. D PRESSO IL SETTORE PIANIFICAZIONE E GESTIONE DEL TERRITORIO DEL COMUNE DI SUZZARA </description>
+			<a10:updated>2018-02-01T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3192171</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3192171</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 01 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 16 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3192171</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DELIBERE DI CONSIGLIO</category>
+			<title>APPROVAZIONE VERBALE CC DEL 28.12.2017 </title>
+			<description>APPROVAZIONE VERBALE CC DEL 28.12.2017 </description>
+			<a10:updated>2018-02-01T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3192168</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3192168</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 01 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 16 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3192168</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DELIBERE DI CONSIGLIO</category>
+			<title>APPROVAZIONE VERBALE DI CC DEL 30.11.2017 </title>
+			<description>APPROVAZIONE VERBALE DI CC DEL 30.11.2017 </description>
+			<a10:updated>2018-02-01T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3192052</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3192052</link>
@@ -261,39 +293,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
 			<title>LIQUIDAZIONE CANONE I TRIMESTRE 2018 ED IMPOSTA DI REGISTRO LOCAZIONE RELATIVA ALL’IMMOBILE SITO IN VIALE TRIESTE N. 16-18 DESTINATO A SEDE DI UFFICI COMUNALI - DITTA GIOLU S.R.L. </title>
 			<description>LIQUIDAZIONE CANONE I TRIMESTRE 2018 ED IMPOSTA DI REGISTRO LOCAZIONE RELATIVA ALL’IMMOBILE SITO IN VIALE TRIESTE N. 16-18 DESTINATO A SEDE DI UFFICI COMUNALI - DITTA GIOLU S.R.L. </description>
-			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3189450</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3189450</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 31 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 15 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3189450</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>STAGIONE DANZA 2018. APPROVAZIONE CONVENZIONE CON ENTE ROVIGO FESTIVAL </title>
-			<description>STAGIONE DANZA 2018. APPROVAZIONE CONVENZIONE CON ENTE ROVIGO FESTIVAL </description>
-			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3189447</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3189447</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 31 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 15 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3189447</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>REVOCA ASSEGNAZIONE DELL’ALLOGGIO DI EDILIZIA RESIDENZIALE PUBBLICA BANDO ANNO 2014 EX ART 9 DELLA LEGGE REGIONALE 10/1996 SITO A ROVIGO LOC. GRIGNANO IN VIA SCOLO VALDENTRO N. 46 SUB 11 GARAGE SUB 29 </title>
-			<description>REVOCA ASSEGNAZIONE DELL’ALLOGGIO DI EDILIZIA RESIDENZIALE PUBBLICA BANDO ANNO 2014 EX ART 9 DELLA LEGGE REGIONALE 10/1996 SITO A ROVIGO LOC. GRIGNANO IN VIA SCOLO VALDENTRO N. 46 SUB 11 GARAGE SUB 29 </description>
-			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3189444</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3189444</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 31 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 15 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3189444</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>ASSUNZIONE A TEMPO PIENO E INDETERMINATO - PRIMA PERSONA CLASSIFICATA NELL’ESPLETAMENTO DELLA PROCEDURA DI MOBILITÀ ESTERNA PER LA COPERTURA DI N. 1 POSTO DI ISTRUTTORE DIRETTIVO AMMINISTRATIVO - A TEMPO PIENO ED INDETERMINATO – CATEGORIA D - BASE GIURIDICA D1- SETTORE POLITICHE SOCIALI E PER LA FAMIGLIA/CASA/LAVORO, VOLONTARIATO, PARI OPPORTUNITÀ, SUSSIDIARIETÀ ED ASSOCIAZIONISMO, ISTRUZIONE, UNIVERSITÀ, SPORT E POLITICHE GIOVANILI. </title>
-			<description>ASSUNZIONE A TEMPO PIENO E INDETERMINATO - PRIMA PERSONA CLASSIFICATA NELL’ESPLETAMENTO DELLA PROCEDURA DI MOBILITÀ ESTERNA PER LA COPERTURA DI N. 1 POSTO DI ISTRUTTORE DIRETTIVO AMMINISTRATIVO - A TEMPO PIENO ED INDETERMINATO – CATEGORIA D - BASE GIURIDICA D1- SETTORE POLITICHE SOCIALI E PER LA FAMIGLIA/CASA/LAVORO, VOLONTARIATO, PARI OPPORTUNITÀ, SUSSIDIARIETÀ ED ASSOCIAZIONISMO, ISTRUZIONE, UNIVERSITÀ, SPORT E POLITICHE GIOVANILI. </description>
 			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

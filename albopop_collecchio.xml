@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 01 Feb 2018 09:32:24 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 01 Feb 2018 10:31:43 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Thu, 01 Feb 2018 09:32:24 +0100</pubDate>
+		<pubDate>Thu, 01 Feb 2018 10:31:43 +0100</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3192321</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3192321</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 01 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 10 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3192321</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO ON LINE AVVISI ELETTORALI</category>
+			<title>REVISIONE DINAMICA DELLE LISTE ELETTORALI </title>
+			<description>REVISIONE DINAMICA DELLE LISTE ELETTORALI </description>
+			<a10:updated>2018-02-01T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3192007</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3192007</link>
@@ -282,17 +293,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
 			<title>AFFIDAMENTO A ISTITUTO GANASSINI S.P.A. (CIG: Z2D21D065C), SANOFI-AVENTIS S.P.A. (CIG: ZEE21D0183), MONTEFARMACO S.P.A. (CIG:ZAD21CFCBD) DI FORNITURA DI FARMACI, PARAFARMACI E ALTRI GENERI IN VENDITA PRESSO LA FARMACIA COMUNALE - IMPEGNO DI SPESA 2018 </title>
 			<description>AFFIDAMENTO A ISTITUTO GANASSINI S.P.A. (CIG: Z2D21D065C), SANOFI-AVENTIS S.P.A. (CIG: ZEE21D0183), MONTEFARMACO S.P.A. (CIG:ZAD21CFCBD) DI FORNITURA DI FARMACI, PARAFARMACI E ALTRI GENERI IN VENDITA PRESSO LA FARMACIA COMUNALE - IMPEGNO DI SPESA 2018 </description>
-			<a10:updated>2018-01-30T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3187660</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3187660</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 30 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 14 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3187660</category>
-			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
-			<title>AFFIDAMENTO A ABOCA S.P.A. SOCIETA' AGRICOLA (CIG: ZA521B716A), MARCO VITI S.P.A. (CIG: Z8021B7044), CAUDALIE ITALIA S.R.L. (CIG:Z9A21CFC85) DI FORNITURA DI FARMACI, PARAFARMACI E ALTRI GENERI IN VENDITA PRESSO LA FARMACIA COMUNALE - IMPEGNO DI SPESA 2018 </title>
-			<description>AFFIDAMENTO A ABOCA S.P.A. SOCIETA' AGRICOLA (CIG: ZA521B716A), MARCO VITI S.P.A. (CIG: Z8021B7044), CAUDALIE ITALIA S.R.L. (CIG:Z9A21CFC85) DI FORNITURA DI FARMACI, PARAFARMACI E ALTRI GENERI IN VENDITA PRESSO LA FARMACIA COMUNALE - IMPEGNO DI SPESA 2018 </description>
 			<a10:updated>2018-01-30T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
