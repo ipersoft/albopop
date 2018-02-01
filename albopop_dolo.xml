@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 01 Feb 2018 15:30:55 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 01 Feb 2018 16:31:15 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Thu, 01 Feb 2018 15:30:55 +0100</pubDate>
+		<pubDate>Thu, 01 Feb 2018 16:31:15 +0100</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3839577</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3839577</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 01 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 16 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3839577</category>
+			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DELIBERAZIONE DI GIUNTA COMUNALE</category>
+			<title>AUTORIZZAZIONE DELL’ENTE A PRESENTARE AVANTI AL GIUDICE DI PACE COMPARSA DI RISPOSTA ALL’ATTO DI CITAZIONE IN OPPOSIZIONE A DECRETO INGIUNTIVO CON ISTANZA DI IMMEDIATA SOSPENSIONE DELLA PROVVISORIA ESECUTORIETA’ EX ART.649 C.P.C. PRESENTATO DAL SIG. TATULLI VITO </title>
+			<description>AUTORIZZAZIONE DELL’ENTE A PRESENTARE AVANTI AL GIUDICE DI PACE COMPARSA DI RISPOSTA ALL’ATTO DI CITAZIONE IN OPPOSIZIONE A DECRETO INGIUNTIVO CON ISTANZA DI IMMEDIATA SOSPENSIONE DELLA PROVVISORIA ESECUTORIETA’ EX ART.649 C.P.C. PRESENTATO DAL SIG. TATULLI VITO </description>
+			<a10:updated>2018-02-01T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3838732</guid>
 			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3838732</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>LIQUIDAZIONE FATTURA N. 7400000128 DEL 15.01.2018 DITTA SODEXO ITALIA S.P.A. DI CINISELLO BALSAMO (MI) </title>
 			<description>LIQUIDAZIONE FATTURA N. 7400000128 DEL 15.01.2018 DITTA SODEXO ITALIA S.P.A. DI CINISELLO BALSAMO (MI) </description>
-			<a10:updated>2018-01-30T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3831260</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3831260</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 30 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 14 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3831260</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>LIQUIDAZIONE FATTURA N. 001-17-VE04421 DEL 31.12.2017 DITTA ITALARCHIVI S.R.L. DI FONTEVIVO (PR) </title>
-			<description>LIQUIDAZIONE FATTURA N. 001-17-VE04421 DEL 31.12.2017 DITTA ITALARCHIVI S.R.L. DI FONTEVIVO (PR) </description>
 			<a10:updated>2018-01-30T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
