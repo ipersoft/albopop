@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 02 Feb 2018 10:31:53 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 02 Feb 2018 11:32:43 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Fri, 02 Feb 2018 10:31:53 +0100</pubDate>
+		<pubDate>Fri, 02 Feb 2018 11:32:43 +0100</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3195056</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3195056</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 02 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 17 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3195056</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO ON LINE ODG DEL CONSIGLIO</category>
+			<title>INVIO CONVOCAZIONE ED ODG DEL CONSIGLIO COMUNALE DEL 06/02/2018 ALLE ORE 19.45 </title>
+			<description>INVIO CONVOCAZIONE ED ODG DEL CONSIGLIO COMUNALE DEL 06/02/2018 ALLE ORE 19.45 </description>
+			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3194992</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3194992</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 02 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 17 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3194992</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO ON LINE ODG DEL CONSIGLIO</category>
+			<title>INVIO CONVOCAZIONE ED ODG DEL CONSIGLIO COMUNALE DEL05/02/2018 ALLE ORE 19.30 </title>
+			<description>INVIO CONVOCAZIONE ED ODG DEL CONSIGLIO COMUNALE DEL05/02/2018 ALLE ORE 19.30 </description>
+			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3194242</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3194242</link>
@@ -272,28 +294,6 @@
 			<title>POSTA CERTIFICATA: INVIO AVVISO DI VENDITA PER PUBBLICAZIONE I.V.G. 2/26 ES </title>
 			<description>POSTA CERTIFICATA: INVIO AVVISO DI VENDITA PER PUBBLICAZIONE I.V.G. 2/26 ES </description>
 			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3188999</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3188999</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 31 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 10 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3188999</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
-			<title>POSTA CERTIFICATA: INVIO AVVISO DI VENDITA PER PUBBLICAZIONE I.V.G. 2/26 ES </title>
-			<description>POSTA CERTIFICATA: INVIO AVVISO DI VENDITA PER PUBBLICAZIONE I.V.G. 2/26 ES </description>
-			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3188495</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3188495</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 30 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 14 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3188495</category>
-			<category domain="http://albopop.it/specs#item-category-type">DLG DELIBERA DI GIUNTA</category>
-			<title>AUTORIZZAZIONE MONETIZZAZIONE AREE A PARCHEGGIO PUBBLICO E VERDE PUBBLICO ALLA DITTA ILGA HOTEL'S SRL - PRATICA EDILIZIA N° 2017/0579. </title>
-			<description>AUTORIZZAZIONE MONETIZZAZIONE AREE A PARCHEGGIO PUBBLICO E VERDE PUBBLICO ALLA DITTA ILGA HOTEL'S SRL - PRATICA EDILIZIA N° 2017/0579. </description>
-			<a10:updated>2018-01-30T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
