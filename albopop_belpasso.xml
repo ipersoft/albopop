@@ -5,7 +5,7 @@
 		<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Belpasso</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 02 Feb 2018 13:30:54 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 02 Feb 2018 14:30:49 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Belpasso</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Belpasso</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_belpasso</a10:id>
-		<pubDate>Fri, 02 Feb 2018 13:30:54 +0100</pubDate>
+		<pubDate>Fri, 02 Feb 2018 14:30:49 +0100</pubDate>
 		<docs>http://albopop.it/comune/belpasso/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3842810</guid>
+			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3842810</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 02 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 26 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3842810</category>
+			<category domain="http://albopop.it/specs#item-category-type">BANDI BANDO PUBBLICO</category>
+			<title>BANDO DI SELEZIONE PUBBLICA PER TITOLI ED ESAMI PER L'ASSUNZIONE A TEMPO PIENO E DETERMINATO DI N. 30 AGENTI DI POLIZIA MUNICIPALE CATEGORIA C1, PER UN PERIODO NON SUPERIORE A CINQUE MESI. RETTIFICA E PROROGA DEI TERMINI. </title>
+			<description>BANDO DI SELEZIONE PUBBLICA PER TITOLI ED ESAMI PER L'ASSUNZIONE A TEMPO PIENO E DETERMINATO DI N. 30 AGENTI DI POLIZIA MUNICIPALE CATEGORIA C1, PER UN PERIODO NON SUPERIORE A CINQUE MESI. RETTIFICA E PROROGA DEI TERMINI. </description>
+			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3841815</guid>
 			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3841815</link>
@@ -282,17 +293,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>LIQUIDAZIONE E PAGAMENTO IN FAVORE DELLA SOCIETA' DINA PROFESSIONAL S.R.L. IN ESECUZIONE DELLA DELIBERAZIONE G.M. N. 162 DEL 11/12/2017 </title>
 			<description>LIQUIDAZIONE E PAGAMENTO IN FAVORE DELLA SOCIETA' DINA PROFESSIONAL S.R.L. IN ESECUZIONE DELLA DELIBERAZIONE G.M. N. 162 DEL 11/12/2017 </description>
-			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3840392</guid>
-			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3840392</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 02 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 17 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3840392</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>LIQUIDAZIONE E PAGAMENTO SOMME IN FAVORE DELLE SIGNORE CADDEO ANNA MARIA E SEMINARA ROBERTA IN ESECUZIONE DELLA DELIBERAZIONE G.M. N. 166 DEL 11/12/2017 </title>
-			<description>LIQUIDAZIONE E PAGAMENTO SOMME IN FAVORE DELLE SIGNORE CADDEO ANNA MARIA E SEMINARA ROBERTA IN ESECUZIONE DELLA DELIBERAZIONE G.M. N. 166 DEL 11/12/2017 </description>
 			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
