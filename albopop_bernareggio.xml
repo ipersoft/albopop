@@ -5,7 +5,7 @@
 		<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bernareggio</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 03 Feb 2018 10:31:03 +0100</lastBuildDate>
+		<lastBuildDate>Sat, 03 Feb 2018 11:31:04 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bernareggio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bernareggio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bernareggio</a10:id>
-		<pubDate>Sat, 03 Feb 2018 10:31:03 +0100</pubDate>
+		<pubDate>Sat, 03 Feb 2018 11:31:04 +0100</pubDate>
 		<docs>http://albopop.it/comune/bernareggio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3843751</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3843751</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 03 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 08 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3843751</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI</category>
+			<title>ELEZIONI POLITICHE DI DOMENICA 4 MARZO 2018: CONVOCAZIONE DELLA COMMISSIONE ELETTORALE COMUNALE PER LA NOMINA DEGLI SCRUTATORI </title>
+			<description>ELEZIONI POLITICHE DI DOMENICA 4 MARZO 2018: CONVOCAZIONE DELLA COMMISSIONE ELETTORALE COMUNALE PER LA NOMINA DEGLI SCRUTATORI </description>
+			<a10:updated>2018-02-03T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3843555</guid>
 			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3843555</link>
@@ -278,17 +289,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>ADESIONE QUALE SOSTENITORE ESTERNO ALLA FONDAZIONE "GAZZETTA AMMINISTRATIVA DELLA REPUBBLICA ITALIANA" </title>
 			<description>ADESIONE QUALE SOSTENITORE ESTERNO ALLA FONDAZIONE "GAZZETTA AMMINISTRATIVA DELLA REPUBBLICA ITALIANA" </description>
-			<a10:updated>2018-01-30T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3830812</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3830812</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 30 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 14 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3830812</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>CIG: Z5421CD60B - AFFIDAMENTO DIRETTO PER INSTALLAZIONE RADIO VEICOLARE SU VEICOLO DI POLIZIA LOCALE DI NUOVO ALLESTIMENTO </title>
-			<description>CIG: Z5421CD60B - AFFIDAMENTO DIRETTO PER INSTALLAZIONE RADIO VEICOLARE SU VEICOLO DI POLIZIA LOCALE DI NUOVO ALLESTIMENTO </description>
 			<a10:updated>2018-01-30T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
