@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 02 Feb 2018 18:32:02 +0100</lastBuildDate>
+		<lastBuildDate>Sat, 03 Feb 2018 08:31:15 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Fri, 02 Feb 2018 18:32:02 +0100</pubDate>
+		<pubDate>Sat, 03 Feb 2018 08:31:15 +0100</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -130,6 +130,17 @@
 			<title>PROCEDURA COMPARATIVA INCARICO PROFESSIONALE PER AFFIDAMENTO DEL CONTROLLO DELLA QUALITÀ DELLA REFEZIONE SCOLASTICA .PRESA D’ATTO DELLA PROCEDURA ANDATA DESERTA. ACQUISIZIONE DEL SERVIZIO SU MEPA </title>
 			<description>PROCEDURA COMPARATIVA INCARICO PROFESSIONALE PER AFFIDAMENTO DEL CONTROLLO DELLA QUALITÀ DELLA REFEZIONE SCOLASTICA .PRESA D’ATTO DELLA PROCEDURA ANDATA DESERTA. ACQUISIZIONE DEL SERVIZIO SU MEPA </description>
 			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3195058</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3195058</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 03 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 06 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3195058</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO ON LINE AVVISI DI VENDITA ALL'ASTA</category>
+			<title>POSTA CERTIFICATA: RGF 19.14 AVVISO DI VENDITA DEL 23.03.2018 </title>
+			<description>POSTA CERTIFICATA: RGF 19.14 AVVISO DI VENDITA DEL 23.03.2018 </description>
+			<a10:updated>2018-02-03T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3195056</guid>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
 			<title>RESTITUZIONE DI SOMME VERSATE E NON DOVUTE A TITOLO DI IMPOSTA MUNICIPALE PROPRIA. </title>
 			<description>RESTITUZIONE DI SOMME VERSATE E NON DOVUTE A TITOLO DI IMPOSTA MUNICIPALE PROPRIA. </description>
-			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3191141</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3191141</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 31 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 15 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3191141</category>
-			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
-			<title>CORSO FORMAZIONE DIPENDENTI ( COPELLI_IDEAPUBBLICA SRL_FEBBRAIO_MARZO 2018). IMPEGNO DI SPESA </title>
-			<description>CORSO FORMAZIONE DIPENDENTI ( COPELLI_IDEAPUBBLICA SRL_FEBBRAIO_MARZO 2018). IMPEGNO DI SPESA </description>
 			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
