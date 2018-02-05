@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 05 Feb 2018 08:30:40 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 05 Feb 2018 09:30:44 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Mon, 05 Feb 2018 08:30:40 +0100</pubDate>
+		<pubDate>Mon, 05 Feb 2018 09:30:44 +0100</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3844328</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3844328</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 05 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 07 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3844328</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO GENERICO</category>
+			<title>ELEZIONI POLITICHE DI DOMENICA 4 MARZO 2018 -CONVOCAZIONE DELLA COMMISSIONE ELETTORALE COMUNALE PER LA NOMINA DEGLI SCRUTATORI-. </title>
+			<description>ELEZIONI POLITICHE DI DOMENICA 4 MARZO 2018 -CONVOCAZIONE DELLA COMMISSIONE ELETTORALE COMUNALE PER LA NOMINA DEGLI SCRUTATORI-. </description>
+			<a10:updated>2018-02-05T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3844200</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3844200</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 05 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 25 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3844200</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO GENERICO</category>
+			<title>RICHIESTA DI PUBBLICAZIONE ESITO PROCEDURA NEGOZIATA (LAVORI REALIZZAZIONE NUOVO PRONTO SOCCORSO DOLO) </title>
+			<description>RICHIESTA DI PUBBLICAZIONE ESITO PROCEDURA NEGOZIATA (LAVORI REALIZZAZIONE NUOVO PRONTO SOCCORSO DOLO) </description>
+			<a10:updated>2018-02-05T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3842193</guid>
 			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3842193</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">AVVISO GENERICO</category>
 			<title>AVVISO DI DEPOSITO ATTI NELLA CASA COMUNALE AI SENSI ART. 60 DPR 29/09/1973 - ATTO N. T63C0TN00005, MAO CUIHONG </title>
 			<description>AVVISO DI DEPOSITO ATTI NELLA CASA COMUNALE AI SENSI ART. 60 DPR 29/09/1973 - ATTO N. T63C0TN00005, MAO CUIHONG </description>
-			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3834084</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3834084</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 31 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 15 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3834084</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title> LIQUIDAZIONE FATTURA DITTA COS MEN DI MENEGHIN AURELIO RELATIVA AL COMPLETAMENTO DEL PERCORSO PEDONALE DELLA PIAZZA STERRATA DI VIA VILLA NELLA FRAZIONE DI SAMBRUSON. </title>
-			<description> LIQUIDAZIONE FATTURA DITTA COS MEN DI MENEGHIN AURELIO RELATIVA AL COMPLETAMENTO DEL PERCORSO PEDONALE DELLA PIAZZA STERRATA DI VIA VILLA NELLA FRAZIONE DI SAMBRUSON. </description>
-			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3834082</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3834082</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 31 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 15 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3834082</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>IMPEGNO E LIQUIDAZIONE DIRITTI DI SEGRETERIA CITTA' METROPOLITANA DI VENEZIA PER RILASCIO AUTORIZZAZIONE PAESAGGISTICA SEMPLIFICATA INSTALLAZIONE NUOVI TOTEM PER AFFISSIONE NECROLOGI </title>
-			<description>IMPEGNO E LIQUIDAZIONE DIRITTI DI SEGRETERIA CITTA' METROPOLITANA DI VENEZIA PER RILASCIO AUTORIZZAZIONE PAESAGGISTICA SEMPLIFICATA INSTALLAZIONE NUOVI TOTEM PER AFFISSIONE NECROLOGI </description>
 			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
