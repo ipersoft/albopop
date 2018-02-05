@@ -5,7 +5,7 @@
 		<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/igrid/1210528</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Celle di Bulgheria</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 05 Feb 2018 14:30:30 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 05 Feb 2018 15:30:44 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Celle di Bulgheria</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Salerno</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Celle di Bulgheria</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_celledibulgheria</a10:id>
-		<pubDate>Mon, 05 Feb 2018 14:30:30 +0100</pubDate>
+		<pubDate>Mon, 05 Feb 2018 15:30:44 +0100</pubDate>
 		<docs>http://albopop.it/comune/celledibulgheria/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/3198534</guid>
+			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/3198534</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 05 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 20 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3198534</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
+			<title>LIQUIDAZIONE DI SPESA PER FORNITURA ENERGIA ELETTRICA PERIODO DICEMBRE 2017 PUBBLICA ILLUMINAZIONE- CIG ZA91D499C8 </title>
+			<description>LIQUIDAZIONE DI SPESA PER FORNITURA ENERGIA ELETTRICA PERIODO DICEMBRE 2017 PUBBLICA ILLUMINAZIONE- CIG ZA91D499C8 </description>
+			<a10:updated>2018-02-05T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/3197888</guid>
 			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/3197888</link>
@@ -226,17 +237,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">BANDI E AVVISI AUTORIZZAZIONI</category>
 			<title>AUTORIZZAZIONE UNICEF 21E 22 APRILE 2018 </title>
 			<description>AUTORIZZAZIONE UNICEF 21E 22 APRILE 2018 </description>
-			<a10:updated>2018-01-23T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/3175771</guid>
-			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/3175771</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 23 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 07 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3175771</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZE E DECRETI SINDACALI</category>
-			<title>ISTITUZIONE POSTO AUTO RISERVATO A PORTATORI DI HANDICAP ALLA FRAZIONE PODERIA IN VIA VITTORIO EMANUELE IN PROSSIMITÀ DEL CIVICO 113 </title>
-			<description>ISTITUZIONE POSTO AUTO RISERVATO A PORTATORI DI HANDICAP ALLA FRAZIONE PODERIA IN VIA VITTORIO EMANUELE IN PROSSIMITÀ DEL CIVICO 113 </description>
 			<a10:updated>2018-01-23T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
