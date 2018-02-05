@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 05 Feb 2018 12:32:04 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 05 Feb 2018 13:31:32 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Mon, 05 Feb 2018 12:32:04 +0100</pubDate>
+		<pubDate>Mon, 05 Feb 2018 13:31:32 +0100</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3197970</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3197970</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 05 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 20 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3197970</category>
+			<category domain="http://albopop.it/specs#item-category-type">DLG DELIBERA DI GIUNTA</category>
+			<title>NUOVA LEGGE URBANISTICA N. 24/2017 – ASPETTI ORGANIZZATIVI DEL PERSONALE ED ISTITUZIONE DELL’UFFICIO DI PIANO </title>
+			<description>NUOVA LEGGE URBANISTICA N. 24/2017 – ASPETTI ORGANIZZATIVI DEL PERSONALE ED ISTITUZIONE DELL’UFFICIO DI PIANO </description>
+			<a10:updated>2018-02-05T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3197968</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3197968</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 05 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 20 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3197968</category>
+			<category domain="http://albopop.it/specs#item-category-type">DLG DELIBERA DI GIUNTA</category>
+			<title>APPROVAZIONE DEL RENDICONTO DEGLI AGENTI CONTABILI E DELL’ECONOMO COMUNALE – ANNO 2017 </title>
+			<description>APPROVAZIONE DEL RENDICONTO DEGLI AGENTI CONTABILI E DELL’ECONOMO COMUNALE – ANNO 2017 </description>
+			<a10:updated>2018-02-05T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3197966</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3197966</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 05 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 20 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3197966</category>
+			<category domain="http://albopop.it/specs#item-category-type">DLG DELIBERA DI GIUNTA</category>
+			<title>PROPAGANDA ELETTORALE. INDIVIDUAZIONE E DELIMITAZIONE DEGLI SPAZI RISERVATI ALLA PROPAGANDA ELETTORALE PER LA ELEZIONE DELLA CAMERA DEI DEPUTATI E DEL SENATO DELLA REPUBBLICA DEL 04.03.2018. </title>
+			<description>PROPAGANDA ELETTORALE. INDIVIDUAZIONE E DELIMITAZIONE DEGLI SPAZI RISERVATI ALLA PROPAGANDA ELETTORALE PER LA ELEZIONE DELLA CAMERA DEI DEPUTATI E DEL SENATO DELLA REPUBBLICA DEL 04.03.2018. </description>
+			<a10:updated>2018-02-05T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3197923</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3197923</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
 			<title>INDENNITA' PER SPECIFICHE RESPONSABILITA' PER L’ANNO 2018 - DETERMINAZIONI IN MERITO </title>
 			<description>INDENNITA' PER SPECIFICHE RESPONSABILITA' PER L’ANNO 2018 - DETERMINAZIONI IN MERITO </description>
-			<a10:updated>2018-02-01T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3194238</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3194238</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 01 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 16 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3194238</category>
-			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
-			<title>RILIEVO CELERIMETRICO DELLA S.P. 58, PREORDINATO ALLA PROGETTAZIONE DI UNA PISTA CICLABILE TRA COLLECCHIO E SALA BAGANZA. AFFIDAMENTO AL GEOM. MASSIMO ZANON CON STUDIO IN VIA ROSSA 12/A A PARMA C.F. ZNNMSM72A04G337Y. CODICE CIG Z6F21E9C6A </title>
-			<description>RILIEVO CELERIMETRICO DELLA S.P. 58, PREORDINATO ALLA PROGETTAZIONE DI UNA PISTA CICLABILE TRA COLLECCHIO E SALA BAGANZA. AFFIDAMENTO AL GEOM. MASSIMO ZANON CON STUDIO IN VIA ROSSA 12/A A PARMA C.F. ZNNMSM72A04G337Y. CODICE CIG Z6F21E9C6A </description>
-			<a10:updated>2018-02-01T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3192321</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3192321</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 01 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 10 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3192321</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO ON LINE AVVISI ELETTORALI</category>
-			<title>REVISIONE DINAMICA DELLE LISTE ELETTORALI </title>
-			<description>REVISIONE DINAMICA DELLE LISTE ELETTORALI </description>
-			<a10:updated>2018-02-01T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3192007</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3192007</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 01 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 09 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3192007</category>
-			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO PUBBLICAZIONI DI MATRIMONIO</category>
-			<title>PUBBLICAZIONE DI MATRIMONIO RELATIVO A PIZZAROTTI ANDREA E GRUPPINI BARBARA </title>
-			<description>PUBBLICAZIONE DI MATRIMONIO RELATIVO A PIZZAROTTI ANDREA E GRUPPINI BARBARA </description>
 			<a10:updated>2018-02-01T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

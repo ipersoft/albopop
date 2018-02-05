@@ -5,7 +5,7 @@
 		<link>http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Baranzate</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 05 Feb 2018 12:31:10 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 05 Feb 2018 13:31:11 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Baranzate</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Milano</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Baranzate</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_baranzate</a10:id>
-		<pubDate>Mon, 05 Feb 2018 12:31:10 +0100</pubDate>
+		<pubDate>Mon, 05 Feb 2018 13:31:11 +0100</pubDate>
 		<docs>http://albopop.it/comune/baranzate/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -220,6 +220,17 @@
 			<a10:updated>2018-01-26T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
+			<guid isPermaLink="true">http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3845431</guid>
+			<link>http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3845431</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 05 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 20 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3845431</category>
+			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI </category>
+			<title>ISTITUZIONE DEL DIVIETO DI SOSTA CON RIMOZIONE FORZATA PARCHEGGIO IN VIA DEL COMMERCIO (3 STALLI SOSTA) DAL 07 AL 10 FEBBRAIO 2018 PER LAVORI IN QUOTA SU UNA COPERTURA IN VIA M.TE APRICA 6 </title>
+			<description>ISTITUZIONE DEL DIVIETO DI SOSTA CON RIMOZIONE FORZATA PARCHEGGIO IN VIA DEL COMMERCIO (3 STALLI SOSTA) DAL 07 AL 10 FEBBRAIO 2018 PER LAVORI IN QUOTA SU UNA COPERTURA IN VIA M.TE APRICA 6 </description>
+			<a10:updated>2018-02-05T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
 			<guid isPermaLink="true">http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3837820</guid>
 			<link>http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3837820</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 01 Feb 2018 01:00:00 +0100</category>
@@ -281,17 +292,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">LETTERA </category>
 			<title>AVVISO DI MOBILITA' VOLONTARIA ESTERNA PER AGENTE DI POLIZIA LOCALE CAT. C </title>
 			<description>AVVISO DI MOBILITA' VOLONTARIA ESTERNA PER AGENTE DI POLIZIA LOCALE CAT. C </description>
-			<a10:updated>2018-01-26T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3824564</guid>
-			<link>http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3824564</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 26 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 26 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3824564</category>
-			<category domain="http://albopop.it/specs#item-category-type">LETTERA </category>
-			<title>AVVISO DI MOBILITA' VOLONTARIA ESTERNA PER OPERAIO SPECIALIZZATO GIARDINIERE CAT. B1 </title>
-			<description>AVVISO DI MOBILITA' VOLONTARIA ESTERNA PER OPERAIO SPECIALIZZATO GIARDINIERE CAT. B1 </description>
 			<a10:updated>2018-01-26T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
