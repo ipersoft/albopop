@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 05 Feb 2018 13:31:41 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 05 Feb 2018 14:31:20 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Mon, 05 Feb 2018 13:31:41 +0100</pubDate>
+		<pubDate>Mon, 05 Feb 2018 14:31:20 +0100</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3198289</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3198289</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 05 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 12 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3198289</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
+			<title>AUTORIZZAZIONE MISSIONE A CATANIA DELLA DOTT.SSA RANIOLO GIULIANA PER LA PARTECIPAZIONE AL CORSO DI FORMAZIONE SU "LA LEGGE DI BILANCIO 2018: APPLICAZIONE AGLI EE.LL IN TERMINI DI PROGRAMMAZIONE E DI ELABORAZIONE DEL BILANCIO 2018-2020. L'OBBLIGO DELLA CONTABILITA' ECONOMICO PATRIMONIALE. DECISIONI DELLA CORTE COSTITUZIONALE E ORIENTAMENTI DELLA CORTE DEI CONTI" ORGANIZZATO DA PUBBLIFORMEZ GIORNO 09 FEBBRAIO 2018 </title>
+			<description>AUTORIZZAZIONE MISSIONE A CATANIA DELLA DOTT.SSA RANIOLO GIULIANA PER LA PARTECIPAZIONE AL CORSO DI FORMAZIONE SU "LA LEGGE DI BILANCIO 2018: APPLICAZIONE AGLI EE.LL IN TERMINI DI PROGRAMMAZIONE E DI ELABORAZIONE DEL BILANCIO 2018-2020. L'OBBLIGO DELLA CONTABILITA' ECONOMICO PATRIMONIALE. DECISIONI DELLA CORTE COSTITUZIONALE E ORIENTAMENTI DELLA CORTE DEI CONTI" ORGANIZZATO DA PUBBLIFORMEZ GIORNO 09 FEBBRAIO 2018 </description>
+			<a10:updated>2018-02-05T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3198070</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3198070</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI GIUNTA</category>
 			<title>DEL. G.M. N° 35/18 - RICORSO ALLA COMMISSIONE TRIBUTARIA PROVINCIALE DI RAGUSA AVVERSO AVVISO DI ACCERTAMENTO N. 9406/2016 - IMPOSTA ICI ANNO 2011. SIG.RA LO GRASSO GREGORIA / COMUNE DI RAGUSA - AUTORIZZAZIONE A STARE IN GIUDIZIO. </title>
 			<description>DEL. G.M. N° 35/18 - RICORSO ALLA COMMISSIONE TRIBUTARIA PROVINCIALE DI RAGUSA AVVERSO AVVISO DI ACCERTAMENTO N. 9406/2016 - IMPOSTA ICI ANNO 2011. SIG.RA LO GRASSO GREGORIA / COMUNE DI RAGUSA - AUTORIZZAZIONE A STARE IN GIUDIZIO. </description>
-			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3195717</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3195717</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 02 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 22 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3195717</category>
-			<category domain="http://albopop.it/specs#item-category-type">INGIUNZIONE</category>
-			<title>PUBBLICAZIONE ART.143 C.P.C. A CRICO DI BRUGALETTA LUCA </title>
-			<description>PUBBLICAZIONE ART.143 C.P.C. A CRICO DI BRUGALETTA LUCA </description>
 			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
