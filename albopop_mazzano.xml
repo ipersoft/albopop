@@ -5,7 +5,7 @@
 		<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mazzano</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 05 Feb 2018 11:31:53 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 05 Feb 2018 12:32:07 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mazzano</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,75 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mazzano</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mazzano</a10:id>
-		<pubDate>Mon, 05 Feb 2018 11:31:53 +0100</pubDate>
+		<pubDate>Mon, 05 Feb 2018 12:32:07 +0100</pubDate>
 		<docs>http://albopop.it/comune/mazzano/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3844997</guid>
+			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3844997</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 05 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 28 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3844997</category>
+			<category domain="http://albopop.it/specs#item-category-type">BANDI DI MOBILITA'</category>
+			<title>AVVISO DI MOBILITA' N. 1 ISTRUTTORE DIRETTIVO - CAT. D1 </title>
+			<description>AVVISO DI MOBILITA' N. 1 ISTRUTTORE DIRETTIVO - CAT. D1 </description>
+			<a10:updated>2018-02-05T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3844996</guid>
+			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3844996</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 05 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 25 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3844996</category>
+			<category domain="http://albopop.it/specs#item-category-type">BANDI DI MOBILITA'</category>
+			<title>AVVISO DI MOBILITA' ISTRUTTORE AMMINISTRATIVO - CAT. C </title>
+			<description>AVVISO DI MOBILITA' ISTRUTTORE AMMINISTRATIVO - CAT. C </description>
+			<a10:updated>2018-02-05T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3844994</guid>
+			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3844994</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 05 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 20 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3844994</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONCORSI PUBBLICI</category>
+			<title>BANDO DI CONCORSO PUBBLICO ISTRUTTORE TECNICO - CAT. C </title>
+			<description>BANDO DI CONCORSO PUBBLICO ISTRUTTORE TECNICO - CAT. C </description>
+			<a10:updated>2018-02-05T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3844993</guid>
+			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3844993</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 05 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 28 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3844993</category>
+			<category domain="http://albopop.it/specs#item-category-type">BANDI DI MOBILITA'</category>
+			<title>AVVISO DI MOBILITA' - ISTRUTTORE AMMINISTRATIVO CONTABILE - CAT. C </title>
+			<description>AVVISO DI MOBILITA' - ISTRUTTORE AMMINISTRATIVO CONTABILE - CAT. C </description>
+			<a10:updated>2018-02-05T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3844992</guid>
+			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3844992</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 05 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3844992</category>
+			<category domain="http://albopop.it/specs#item-category-type">BANDI DI MOBILITA'</category>
+			<title>AVVISO DI MOBILITA' ISTRUTTORE - CAT. C </title>
+			<description>AVVISO DI MOBILITA' ISTRUTTORE - CAT. C </description>
+			<a10:updated>2018-02-05T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3844990</guid>
+			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3844990</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 05 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3844990</category>
+			<category domain="http://albopop.it/specs#item-category-type">BANDI DI MOBILITA'</category>
+			<title>AVVISO DI MOBILITA' N. 1 POSTO OPERAIO - CAT. B1 </title>
+			<description>AVVISO DI MOBILITA' N. 1 POSTO OPERAIO - CAT. B1 </description>
+			<a10:updated>2018-02-05T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3844845</guid>
 			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3844845</link>
@@ -227,72 +291,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
 			<title>CIG: Z0E20D8EB7 - DETERMINAZIONE A CONTRATTARE E AFFIDAMENTO DIRETTO, AI SENSI DELL'ARTICOLO 36, COMMA 2, LETT. A), DEL D.LGS. 50/2016, PER LA FORNITURA DI ETICHETTE ADESIVE PER LA NUMERAZIONE DEI POSTI A SEDERE PRESSO IL PALAZZETTO DELLO SPORT”. </title>
 			<description>CIG: Z0E20D8EB7 - DETERMINAZIONE A CONTRATTARE E AFFIDAMENTO DIRETTO, AI SENSI DELL'ARTICOLO 36, COMMA 2, LETT. A), DEL D.LGS. 50/2016, PER LA FORNITURA DI ETICHETTE ADESIVE PER LA NUMERAZIONE DEI POSTI A SEDERE PRESSO IL PALAZZETTO DELLO SPORT”. </description>
-			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3843317</guid>
-			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3843317</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 02 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 17 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3843317</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
-			<title>CIG: Z80205ECF9 - AFFIDAMENTO DIRETTO AI SENSI DELL'ART. 31 C. 8 DLGS 50/2016 DELL'INCARICO PROFESSIONALE PER LA REDAZIONE DEL PROGETTO DEFINITIVO/ESECUTIVO, DIREZIONE LAVORI E CONTABILITÀ DELLE OPERE DI ADEGUAMENTO DELL’IMPIANTO ELETTRICO NELL’AMBITO DEL "PROGETTO DI CONFORMITÀ ANTINCENDIO-RIORDINO GLOBALE SCUOLA MEDIA FLEMING DI MAZZANO". </title>
-			<description>CIG: Z80205ECF9 - AFFIDAMENTO DIRETTO AI SENSI DELL'ART. 31 C. 8 DLGS 50/2016 DELL'INCARICO PROFESSIONALE PER LA REDAZIONE DEL PROGETTO DEFINITIVO/ESECUTIVO, DIREZIONE LAVORI E CONTABILITÀ DELLE OPERE DI ADEGUAMENTO DELL’IMPIANTO ELETTRICO NELL’AMBITO DEL "PROGETTO DI CONFORMITÀ ANTINCENDIO-RIORDINO GLOBALE SCUOLA MEDIA FLEMING DI MAZZANO". </description>
-			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3843315</guid>
-			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3843315</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 02 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 17 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3843315</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
-			<title>CIG: Z532155022 - AFFIDAMENTO MANUTENZIONE DELLA TENDA DIVISORIA PRESSO IL CENTRO SPORTIVO COMUNALE DI NUVOLERA. </title>
-			<description>CIG: Z532155022 - AFFIDAMENTO MANUTENZIONE DELLA TENDA DIVISORIA PRESSO IL CENTRO SPORTIVO COMUNALE DI NUVOLERA. </description>
-			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3843313</guid>
-			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3843313</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 02 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 17 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3843313</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
-			<title>CIG ZD51D7D75A - INTEGRAZIONE IMPEGNO DI SPESA RELATIVO ALLA DETERMINAZIONE N. 202 DEL 30.03.2017 INERENTE IL SERVIZIO DI DISINFESTAZIONE E DERATTIZZAZIONE PER I COMUNI DI MAZZANO, NUVOLENTO E NUVOLERA – PERIODO DAL 01.04.2017 AL 31.12.2019 – INTERVENTI NECESSARI AGGIUNTIVI - COMUNE MAZZANO. </title>
-			<description>CIG ZD51D7D75A - INTEGRAZIONE IMPEGNO DI SPESA RELATIVO ALLA DETERMINAZIONE N. 202 DEL 30.03.2017 INERENTE IL SERVIZIO DI DISINFESTAZIONE E DERATTIZZAZIONE PER I COMUNI DI MAZZANO, NUVOLENTO E NUVOLERA – PERIODO DAL 01.04.2017 AL 31.12.2019 – INTERVENTI NECESSARI AGGIUNTIVI - COMUNE MAZZANO. </description>
-			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3843309</guid>
-			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3843309</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 02 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 17 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3843309</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
-			<title>CIG: Z7E215A05B - AFFIDAMENTO LAVORI DI RIPARAZIONE UTA PRESSO LA SCUOLA PRIMARIA DI NUVOLERA. </title>
-			<description>CIG: Z7E215A05B - AFFIDAMENTO LAVORI DI RIPARAZIONE UTA PRESSO LA SCUOLA PRIMARIA DI NUVOLERA. </description>
-			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3843311</guid>
-			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3843311</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 02 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 17 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3843311</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
-			<title>EROGAZIONE DI UN CONTRIBUTO ECONOMICO A FAVORE DELL'UTENTE MATRICOLA N°450197517 </title>
-			<description>EROGAZIONE DI UN CONTRIBUTO ECONOMICO A FAVORE DELL'UTENTE MATRICOLA N°450197517 </description>
-			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3843307</guid>
-			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3843307</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 02 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 17 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3843307</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
-			<title>CIG: Z81214DB1C. PROROGA DELL’APPALTO PER MANUTENZIONE ORDINARIA DELLA SEGNALETICA STRADALE ORIZZONTALE E FORNITURA MATERIALE DI SEGNALETICA STRADALE VERTICALE </title>
-			<description>CIG: Z81214DB1C. PROROGA DELL’APPALTO PER MANUTENZIONE ORDINARIA DELLA SEGNALETICA STRADALE ORIZZONTALE E FORNITURA MATERIALE DI SEGNALETICA STRADALE VERTICALE </description>
 			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

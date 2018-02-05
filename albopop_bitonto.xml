@@ -5,7 +5,7 @@
 		<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bitonto</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 05 Feb 2018 11:30:36 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 05 Feb 2018 12:30:32 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bitonto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Bari</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bitonto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bitonto</a10:id>
-		<pubDate>Mon, 05 Feb 2018 11:30:36 +0100</pubDate>
+		<pubDate>Mon, 05 Feb 2018 12:30:32 +0100</pubDate>
 		<docs>http://albopop.it/comune/bitonto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3845211</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3845211</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 05 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 20 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3845211</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
+			<title>VIA RAFFAELLO - TRATTO COMPRESO TRA I CIVV. 28 E 40, DAL 6/2 AL 23/3/2018, DALLE ORE 7,00 ALLE ORE 17,00 PER LAVORI EDILI - IMPRESA "EDILIZIA DEL 2000" </title>
+			<description>VIA RAFFAELLO - TRATTO COMPRESO TRA I CIVV. 28 E 40, DAL 6/2 AL 23/3/2018, DALLE ORE 7,00 ALLE ORE 17,00 PER LAVORI EDILI - IMPRESA "EDILIZIA DEL 2000" </description>
+			<a10:updated>2018-02-05T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3844447</guid>
 			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3844447</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI 12 - SERVIZIO LAVORI PUBBLICI</category>
 			<title>MANUTENZIONE IMPIANTI DI PUBBLICA ILLUMINAZIONE CENTRO URBANO E FRAZIONI TRIMESTRE OTTOBRE/DICEMBRE 2017 – LIQUIDAZIONE INTERVENTI EXTRA CANONE ORDINI DI SERVIZIO DEL DIRETTORE DELL’ESECUZIONE N. 5-9-10-11 – </title>
 			<description>MANUTENZIONE IMPIANTI DI PUBBLICA ILLUMINAZIONE CENTRO URBANO E FRAZIONI TRIMESTRE OTTOBRE/DICEMBRE 2017 – LIQUIDAZIONE INTERVENTI EXTRA CANONE ORDINI DI SERVIZIO DEL DIRETTORE DELL’ESECUZIONE N. 5-9-10-11 – </description>
-			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3843083</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3843083</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 02 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 17 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3843083</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI 12 - SERVIZIO LAVORI PUBBLICI</category>
-			<title>MANUTENZIONE IMPIANTI DI PUBBLICA ILLUMINAZIONE CENTRO URBANO E FRAZIONI TRIMESTRE OTTOBRE/DICEMBRE 2017 – LIQUIDAZIONE INTERVENTI EXTRA CANONE ORDINI DI SERVIZIO DEL DIRETTORE DELL’ESECUZIONE N. 2 E N.8 – </title>
-			<description>MANUTENZIONE IMPIANTI DI PUBBLICA ILLUMINAZIONE CENTRO URBANO E FRAZIONI TRIMESTRE OTTOBRE/DICEMBRE 2017 – LIQUIDAZIONE INTERVENTI EXTRA CANONE ORDINI DI SERVIZIO DEL DIRETTORE DELL’ESECUZIONE N. 2 E N.8 – </description>
 			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
