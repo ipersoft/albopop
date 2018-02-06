@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 06 Feb 2018 09:31:37 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 06 Feb 2018 10:32:20 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Tue, 06 Feb 2018 09:31:37 +0100</pubDate>
+		<pubDate>Tue, 06 Feb 2018 10:32:20 +0100</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3199353</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3199353</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 06 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 13 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3199353</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
+			<title>STIPULA CONVENZIONE CON IL CAF "CONFARTIGIANATO SERVIZI RAGUSA SRL" PER LA CONCESSIONE DELL’ ASSEGNO AI NUCLEI FAMILIARI CON ALMENO TRE FIGLI MINORI E DELL’ ASSEGNO DI MATERNITÀ (ARTT.65 E 66 LEGGE N.448/98 E S.M.I.). </title>
+			<description>STIPULA CONVENZIONE CON IL CAF "CONFARTIGIANATO SERVIZI RAGUSA SRL" PER LA CONCESSIONE DELL’ ASSEGNO AI NUCLEI FAMILIARI CON ALMENO TRE FIGLI MINORI E DELL’ ASSEGNO DI MATERNITÀ (ARTT.65 E 66 LEGGE N.448/98 E S.M.I.). </description>
+			<a10:updated>2018-02-06T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3198289</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3198289</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">CONCESSIONI CONCESSIONE EDILIZIA</category>
 			<title>CONCESSIONE EDILIZIA N.67/2016 - ELLEPI SRL </title>
 			<description>CONCESSIONE EDILIZIA N.67/2016 - ELLEPI SRL </description>
-			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3195719</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3195719</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 02 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 17 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3195719</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DEL. G.M. N° 35/18 - RICORSO ALLA COMMISSIONE TRIBUTARIA PROVINCIALE DI RAGUSA AVVERSO AVVISO DI ACCERTAMENTO N. 9406/2016 - IMPOSTA ICI ANNO 2011. SIG.RA LO GRASSO GREGORIA / COMUNE DI RAGUSA - AUTORIZZAZIONE A STARE IN GIUDIZIO. </title>
-			<description>DEL. G.M. N° 35/18 - RICORSO ALLA COMMISSIONE TRIBUTARIA PROVINCIALE DI RAGUSA AVVERSO AVVISO DI ACCERTAMENTO N. 9406/2016 - IMPOSTA ICI ANNO 2011. SIG.RA LO GRASSO GREGORIA / COMUNE DI RAGUSA - AUTORIZZAZIONE A STARE IN GIUDIZIO. </description>
 			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 06 Feb 2018 09:30:40 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 06 Feb 2018 10:31:03 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Tue, 06 Feb 2018 09:30:40 +0100</pubDate>
+		<pubDate>Tue, 06 Feb 2018 10:31:03 +0100</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/877387</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/877387</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 06 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 21 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">877387</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DECRETO DEL SINDACO</category>
+			<title>DIRIGENTE DOTT. GIANNI LUCA MARCO GALDENZI – AFFIDAMENTO FUNZIONI PREVISTE ALL’ART. 107 DEL D.LGS.267/2000. </title>
+			<description>DIRIGENTE DOTT. GIANNI LUCA MARCO GALDENZI – AFFIDAMENTO FUNZIONI PREVISTE ALL’ART. 107 DEL D.LGS.267/2000. </description>
+			<a10:updated>2018-02-06T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/877323</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/877323</link>
@@ -280,17 +291,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>RICORSO AVVERSO VERBALE PER VIOLAZIONE A NORME DEL CDS , RESISTENZA IN GIUDIZIO AVANTI IL GIUDICE DI PACE DI PESARO, UDIENZA DEL 15/02/2018, R.G. 1628/2017 . </title>
 			<description>RICORSO AVVERSO VERBALE PER VIOLAZIONE A NORME DEL CDS , RESISTENZA IN GIUDIZIO AVANTI IL GIUDICE DI PACE DI PESARO, UDIENZA DEL 15/02/2018, R.G. 1628/2017 . </description>
-			<a10:updated>2018-02-05T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/876296</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/876296</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 05 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 20 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">876296</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>PROCEDURA DI MOBILITÀ FRA ENTI, AI SENSI DELL’ART.30 DEL D.LGS. 165/01 PROFILO DI EDUCATRICE 1ª INFANZIA– CAT C - APPROVAZIONE AVVISO </title>
-			<description>PROCEDURA DI MOBILITÀ FRA ENTI, AI SENSI DELL’ART.30 DEL D.LGS. 165/01 PROFILO DI EDUCATRICE 1ª INFANZIA– CAT C - APPROVAZIONE AVVISO </description>
 			<a10:updated>2018-02-05T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
