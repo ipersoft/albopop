@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 06 Feb 2018 10:32:15 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 06 Feb 2018 11:31:39 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Tue, 06 Feb 2018 10:32:15 +0100</pubDate>
+		<pubDate>Tue, 06 Feb 2018 11:31:39 +0100</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3199407</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3199407</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 06 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 21 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3199407</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE ORDINANZE</category>
+			<title>ORDINANZA PER LA PULIZIA DI UN FOSSO IN VIA STACCHE A ROVIGO </title>
+			<description>ORDINANZA PER LA PULIZIA DI UN FOSSO IN VIA STACCHE A ROVIGO </description>
+			<a10:updated>2018-02-06T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3199404</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3199404</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 06 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 21 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3199404</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
+			<title>ARTT. 65 E 66 DELLA LEGGE N. 448/98 E S.M.I. RIGUARDANTI L'ASSEGNO AL NUCLEO FAMILIARE NUMEROSO E DI MATERNITA'. PERIODO GENNAIO 2018. </title>
+			<description>ARTT. 65 E 66 DELLA LEGGE N. 448/98 E S.M.I. RIGUARDANTI L'ASSEGNO AL NUCLEO FAMILIARE NUMEROSO E DI MATERNITA'. PERIODO GENNAIO 2018. </description>
+			<a10:updated>2018-02-06T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3199099</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3199099</link>
@@ -272,28 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
 			<title>ASSEGNAZIONE ALLOGGIO DI EDILIZIA RESIDENZIALE PUBBLICA SITO A ROVIGO IN VIA PASCOLI N. 60 </title>
 			<description>ASSEGNAZIONE ALLOGGIO DI EDILIZIA RESIDENZIALE PUBBLICA SITO A ROVIGO IN VIA PASCOLI N. 60 </description>
-			<a10:updated>2018-02-05T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3197036</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3197036</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 05 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 20 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3197036</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>ACQUISTO DI DUE MODULI SPECIFICI PER IL SOFTWARE GESTIONALE DELL’UFFICIO COMMERCIO MEDIANTE TRATTATIVA DIRETTA N. 335483 NEL MEPA. SMART CIG: Z6C21046B1. LIQUIDAZIONE SPESA </title>
-			<description>ACQUISTO DI DUE MODULI SPECIFICI PER IL SOFTWARE GESTIONALE DELL’UFFICIO COMMERCIO MEDIANTE TRATTATIVA DIRETTA N. 335483 NEL MEPA. SMART CIG: Z6C21046B1. LIQUIDAZIONE SPESA </description>
-			<a10:updated>2018-02-05T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3197033</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3197033</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 05 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 20 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3197033</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>ACQUISTO DI COMPONENTI SOFTWARE PROPRIETARI NECESSARI PER L’INTEROPERABILITÀ DEL SW GESTIONALE SERVIZI DEMOGRAFICI CON IL SISTEMA MINISTERIALE PER L’EMISSIONE DELLE CIE MEDIANTE ODA N. 4003514 NEL MEPA. SMART CIG: Z032105F56. LIQUIDAZIONE SPESA </title>
-			<description>ACQUISTO DI COMPONENTI SOFTWARE PROPRIETARI NECESSARI PER L’INTEROPERABILITÀ DEL SW GESTIONALE SERVIZI DEMOGRAFICI CON IL SISTEMA MINISTERIALE PER L’EMISSIONE DELLE CIE MEDIANTE ODA N. 4003514 NEL MEPA. SMART CIG: Z032105F56. LIQUIDAZIONE SPESA </description>
 			<a10:updated>2018-02-05T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
