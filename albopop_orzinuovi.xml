@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 06 Feb 2018 08:30:44 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 06 Feb 2018 09:30:39 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Tue, 06 Feb 2018 08:30:44 +0100</pubDate>
+		<pubDate>Tue, 06 Feb 2018 09:30:39 +0100</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3198986</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3198986</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 06 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 21 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3198986</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>LAVORI DI REALIZZAZIONE DEL CAMPO DI CALCIO E COMPLETAMENTO CON ADEGUAMENTO DELLA TRIBUNA - CENTRO SPORTIVO DI VIA LONATO - CUP: J53G15000520004 – CIG: 67305777D7 - APPROVAZIONE DEL CERTIFICATO DI REGOLARE ESECUZIONE </title>
+			<description>LAVORI DI REALIZZAZIONE DEL CAMPO DI CALCIO E COMPLETAMENTO CON ADEGUAMENTO DELLA TRIBUNA - CENTRO SPORTIVO DI VIA LONATO - CUP: J53G15000520004 – CIG: 67305777D7 - APPROVAZIONE DEL CERTIFICATO DI REGOLARE ESECUZIONE </description>
+			<a10:updated>2018-02-06T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3198420</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3198420</link>
@@ -282,17 +293,6 @@
 			<title>IMPEGNO DI SPESA PER IL SERVIZIO DI NOTIFICA DEGLI ATTI COMUNALI E RIMBORSO DELLE SPESE DI NOTIFICA EFFETTUATE PER CONTO DI ALTRE PUBBLICHE AMMINISTRAZIONI E IMPRESE </title>
 			<description>IMPEGNO DI SPESA PER IL SERVIZIO DI NOTIFICA DEGLI ATTI COMUNALI E RIMBORSO DELLE SPESE DI NOTIFICA EFFETTUATE PER CONTO DI ALTRE PUBBLICHE AMMINISTRAZIONI E IMPRESE </description>
 			<a10:updated>2018-01-30T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3185588</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3185588</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 29 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 06 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3185588</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI AVVISO</category>
-			<title>AVVISO DI DEPOSITO NELLA CASA COMUNALE DI ATTO DA NOTIFICARE CRON NR 44 A CARICO DI ET-TAZI CHERKI </title>
-			<description>AVVISO DI DEPOSITO NELLA CASA COMUNALE DI ATTO DA NOTIFICARE CRON NR 44 A CARICO DI ET-TAZI CHERKI </description>
-			<a10:updated>2018-01-29T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>

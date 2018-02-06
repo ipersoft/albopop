@@ -5,7 +5,7 @@
 		<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Viterbo</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 06 Feb 2018 08:30:50 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 06 Feb 2018 09:30:45 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Viterbo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Viterbo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Viterbo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_viterbo</a10:id>
-		<pubDate>Tue, 06 Feb 2018 08:30:50 +0100</pubDate>
+		<pubDate>Tue, 06 Feb 2018 09:30:45 +0100</pubDate>
 		<docs>http://albopop.it/comune/viterbo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3846895</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3846895</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 06 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 21 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3846895</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI </category>
+			<title>VINCOLO IDROGEOLOGICO RELATIVO ALLA RICOSTRUZIONE ABITAZIONI ETRUSCHE PRESENTATO DAL SIG. ROCCHI RAFFAELE. </title>
+			<description>VINCOLO IDROGEOLOGICO RELATIVO ALLA RICOSTRUZIONE ABITAZIONI ETRUSCHE PRESENTATO DAL SIG. ROCCHI RAFFAELE. </description>
+			<a10:updated>2018-02-06T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3844932</guid>
 			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3844932</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
 			<title>FONDO INTEGRATIVO E PREVIDENZIALE PERSONALE POLIZIA LOCALE. ANNO 2017 </title>
 			<description>FONDO INTEGRATIVO E PREVIDENZIALE PERSONALE POLIZIA LOCALE. ANNO 2017 </description>
-			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3840970</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3840970</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 02 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 17 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3840970</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
-			<title>FORNITURA CAPI VESTIARIO INVERNALI </title>
-			<description>FORNITURA CAPI VESTIARIO INVERNALI </description>
 			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
