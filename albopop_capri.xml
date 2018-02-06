@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 06 Feb 2018 13:31:54 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 06 Feb 2018 14:31:21 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Tue, 06 Feb 2018 13:31:54 +0100</pubDate>
+		<pubDate>Tue, 06 Feb 2018 14:31:21 +0100</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3200300</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3200300</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 06 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 21 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3200300</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>INGIUNZIONE ALLA DEMOLIZIONE DI OPERE EDILI ABUSIVE IN VIA CERCOLA N.18 - DITTA SIG. SILVERIO PAONE </title>
+			<description>INGIUNZIONE ALLA DEMOLIZIONE DI OPERE EDILI ABUSIVE IN VIA CERCOLA N.18 - DITTA SIG. SILVERIO PAONE </description>
+			<a10:updated>2018-02-06T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3200138</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3200138</link>
@@ -282,17 +293,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
 			<title>LAVORI DI SOMMA URGENZA PER LA REALIZZAZIONE DI UNA BARRIERA GALLEGGIANTE A DELIMITAZIONE DELLO SPECCHIO D'ACQUA IN LOCALITA' CATEROLA A SEGUITO DI UN EVENTO FRANOSO. LIQUIDAZIONE DELLA FATTURA DELLA DITTA "GRUPPO ORMAGGIATORI DEL PORTO DI CAPRI COOP. A R.L. </title>
 			<description>LAVORI DI SOMMA URGENZA PER LA REALIZZAZIONE DI UNA BARRIERA GALLEGGIANTE A DELIMITAZIONE DELLO SPECCHIO D'ACQUA IN LOCALITA' CATEROLA A SEGUITO DI UN EVENTO FRANOSO. LIQUIDAZIONE DELLA FATTURA DELLA DITTA "GRUPPO ORMAGGIATORI DEL PORTO DI CAPRI COOP. A R.L. </description>
-			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3195432</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3195432</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 02 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 17 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3195432</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
-			<title>REALIZZAZIONE DI OTTO SCAVI PER INUMAZIONI NEL CIMITERO COMUNALE. LIQUIDAZIONE DELLA FATTURA DELLA DITTA "EDIL CAPRI S.R.L." DI CAPRI. </title>
-			<description>REALIZZAZIONE DI OTTO SCAVI PER INUMAZIONI NEL CIMITERO COMUNALE. LIQUIDAZIONE DELLA FATTURA DELLA DITTA "EDIL CAPRI S.R.L." DI CAPRI. </description>
 			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
