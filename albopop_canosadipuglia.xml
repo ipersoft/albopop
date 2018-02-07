@@ -5,7 +5,7 @@
 		<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Canosa di Puglia</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 07 Feb 2018 08:31:26 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 07 Feb 2018 09:31:08 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Canosa di Puglia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Barletta-Andria-Trani</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Canosa di Puglia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_canosadipuglia</a10:id>
-		<pubDate>Wed, 07 Feb 2018 08:31:26 +0100</pubDate>
+		<pubDate>Wed, 07 Feb 2018 09:31:08 +0100</pubDate>
 		<docs>http://albopop.it/comune/canosadipuglia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3850004</guid>
+			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3850004</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 07 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 22 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3850004</category>
+			<category domain="http://albopop.it/specs#item-category-type">DECRETI E ORDINANZE ORDINANZA DIRIGENZIALE</category>
+			<title>ORDINANZA REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE IN OCCASIONE DEI FESTEGGIAMENTI IN MEMORIA DELLA NASCITA AL CIELO DI SAN SABINO DEL 09/02/2018. </title>
+			<description>ORDINANZA REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE IN OCCASIONE DEI FESTEGGIAMENTI IN MEMORIA DELLA NASCITA AL CIELO DI SAN SABINO DEL 09/02/2018. </description>
+			<a10:updated>2018-02-07T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3849686</guid>
 			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3849686</link>
@@ -282,17 +293,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
 			<title>COLLOCAMENTO A RIPOSO, DAL 1°.09.2018, PER RAGGIUNTI LIMITI CONTRIBUTIVI, DEL DIPENDENTE COMUNALE SIG. SALERNO SABINO, OPERATORE SERVIZI GENERALI DI RUOLO, CATEGORIA ECONOMICA A5. </title>
 			<description>COLLOCAMENTO A RIPOSO, DAL 1°.09.2018, PER RAGGIUNTI LIMITI CONTRIBUTIVI, DEL DIPENDENTE COMUNALE SIG. SALERNO SABINO, OPERATORE SERVIZI GENERALI DI RUOLO, CATEGORIA ECONOMICA A5. </description>
-			<a10:updated>2018-02-01T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3837288</guid>
-			<link>http://canosadipuglia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3837288</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 01 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 16 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3837288</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DIRIGENZIALI</category>
-			<title>Liquidazione somme in favore della sig.ra Santoro Daniela a seguito dello schema di atto transattivo approvato con Deliberazione di Giunta Comunale n. 3 del 05/01/2018. </title>
-			<description>Liquidazione somme in favore della sig.ra Santoro Daniela a seguito dello schema di atto transattivo approvato con Deliberazione di Giunta Comunale n. 3 del 05/01/2018. </description>
 			<a10:updated>2018-02-01T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

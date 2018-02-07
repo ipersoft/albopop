@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 07 Feb 2018 08:30:54 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 07 Feb 2018 09:30:38 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Wed, 07 Feb 2018 08:30:54 +0100</pubDate>
+		<pubDate>Wed, 07 Feb 2018 09:30:38 +0100</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3849911</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3849911</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 07 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 22 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3849911</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>RIACCERTAMENTO ORDINARIO RESIDUI ATTIVI E PASSIVI ANNO 2017 E PRECEDENTI. </title>
+			<description>RIACCERTAMENTO ORDINARIO RESIDUI ATTIVI E PASSIVI ANNO 2017 E PRECEDENTI. </description>
+			<a10:updated>2018-02-07T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3849809</guid>
 			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3849809</link>
@@ -283,16 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
 			<title>ANNULLAMENTO E ARCHIVIAZIONE VERBALE DI ACCERTATA VIOLAZIONE AMMINISTRATIVA N. 60/2017 DEL 20.12.2017 A CARICO DI GOLIN MASSIMILIANO </title>
 			<description>ANNULLAMENTO E ARCHIVIAZIONE VERBALE DI ACCERTATA VIOLAZIONE AMMINISTRATIVA N. 60/2017 DEL 20.12.2017 A CARICO DI GOLIN MASSIMILIANO </description>
-			<a10:updated>2018-02-05T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3845542</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3845542</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 05 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3845542</category>
-			<category domain="http://albopop.it/specs#item-category-type">ELENCO ABUSI ABUSI</category>
-			<title>ELENCO DEI RAPPORTI COMUNICATI DAGLI ORGANI DI POLIZIA GIUDIZIARIA RIGUARDANTI OPERE O LOTTIZZAZIONI ABUSIVE E DELLE RELATIVE ORDINANZE DI SOSPENSIONE DEI LAVORI - MESE DI GENNAIO 2018 - NEGATIVO </title>
-			<description>ELENCO DEI RAPPORTI COMUNICATI DAGLI ORGANI DI POLIZIA GIUDIZIARIA RIGUARDANTI OPERE O LOTTIZZAZIONI ABUSIVE E DELLE RELATIVE ORDINANZE DI SOSPENSIONE DEI LAVORI - MESE DI GENNAIO 2018 - NEGATIVO </description>
 			<a10:updated>2018-02-05T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
