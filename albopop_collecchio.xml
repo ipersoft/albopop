@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 06 Feb 2018 18:32:02 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 07 Feb 2018 08:31:55 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Tue, 06 Feb 2018 18:32:02 +0100</pubDate>
+		<pubDate>Wed, 07 Feb 2018 08:31:55 +0100</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -252,17 +252,6 @@
 			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3195058</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3195058</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 03 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 06 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3195058</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO ON LINE AVVISI DI VENDITA ALL'ASTA</category>
-			<title>POSTA CERTIFICATA: RGF 19.14 AVVISO DI VENDITA DEL 23.03.2018 </title>
-			<description>POSTA CERTIFICATA: RGF 19.14 AVVISO DI VENDITA DEL 23.03.2018 </description>
-			<a10:updated>2018-02-03T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3195056</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3195056</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 02 Feb 2018 01:00:00 +0100</category>
@@ -293,6 +282,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
 			<title>RIQUALIFICAZIONE SCUOLA “GALAVERNA” DI COLLECCHIO. AFFIDAMENTO INCARICO DI PREDISPOSIZIONE DEL PROGETTO DI FATTIBILITÀ TECNICA ED ECONOMICA DI RIQUALIFICAZIONE ENERGETICA E DI PREDISPOSIZIONE DELLA DOCUMENTAZIONE TECNICA FINALIZZATA ALLA COMPILAZIONE DELLA DOMANDA DI AMMISSIONE AL FINANZIAMENTO REGIONALE POR FESR ALLO STUDIO REN SOLUTION (P.IVA E C.F.: 02436140350) DI REGGIO EMILIA CIG: ZE121F785F </title>
 			<description>RIQUALIFICAZIONE SCUOLA “GALAVERNA” DI COLLECCHIO. AFFIDAMENTO INCARICO DI PREDISPOSIZIONE DEL PROGETTO DI FATTIBILITÀ TECNICA ED ECONOMICA DI RIQUALIFICAZIONE ENERGETICA E DI PREDISPOSIZIONE DELLA DOCUMENTAZIONE TECNICA FINALIZZATA ALLA COMPILAZIONE DELLA DOMANDA DI AMMISSIONE AL FINANZIAMENTO REGIONALE POR FESR ALLO STUDIO REN SOLUTION (P.IVA E C.F.: 02436140350) DI REGGIO EMILIA CIG: ZE121F785F </description>
+			<a10:updated>2018-02-01T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3194240</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3194240</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 01 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 16 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3194240</category>
+			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
+			<title>INDENNITA' PER SPECIFICHE RESPONSABILITA' PER L’ANNO 2018 - DETERMINAZIONI IN MERITO </title>
+			<description>INDENNITA' PER SPECIFICHE RESPONSABILITA' PER L’ANNO 2018 - DETERMINAZIONI IN MERITO </description>
 			<a10:updated>2018-02-01T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

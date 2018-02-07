@@ -5,7 +5,7 @@
 		<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bitonto</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 06 Feb 2018 18:31:03 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 07 Feb 2018 08:30:41 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bitonto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Bari</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bitonto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bitonto</a10:id>
-		<pubDate>Tue, 06 Feb 2018 18:31:03 +0100</pubDate>
+		<pubDate>Wed, 07 Feb 2018 08:30:41 +0100</pubDate>
 		<docs>http://albopop.it/comune/bitonto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3849783</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3849783</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 07 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 22 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3849783</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISI COMUNALI</category>
+			<title>ELENCO AMMESSI 2° EDIZIONE "REDDITO DI DIGNITA" . </title>
+			<description>ELENCO AMMESSI 2° EDIZIONE "REDDITO DI DIGNITA" . </description>
+			<a10:updated>2018-02-07T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3848873</guid>
 			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3848873</link>
@@ -282,17 +293,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI 09 - UFFICIO DI PIANO</category>
 			<title>SERVIZIO DI ASSISTENZA SCOLASTICA SPECIALISTICA ALUNNI DISABILI ANNO SCOLASTICO 2017-2018. LIQUIDAZIONE FATTURA MESE DI NOVEMBRE 2017. </title>
 			<description>SERVIZIO DI ASSISTENZA SCOLASTICA SPECIALISTICA ALUNNI DISABILI ANNO SCOLASTICO 2017-2018. LIQUIDAZIONE FATTURA MESE DI NOVEMBRE 2017. </description>
-			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3843099</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3843099</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 02 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 17 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3843099</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI 01 - SERVIZIO ORGANIZZAZIONE</category>
-			<title>Piano di formazione in materia di Prevenzione della corruzione anno 2017 - Formazione obbligatoria di livello generale destinata al personale categorie A e B – Giornata di formazione del 14 dicembre 2017 - Servizio di interprete della lingua dei segni L.I.S. - Liquidazione spesa. </title>
-			<description>Piano di formazione in materia di Prevenzione della corruzione anno 2017 - Formazione obbligatoria di livello generale destinata al personale categorie A e B – Giornata di formazione del 14 dicembre 2017 - Servizio di interprete della lingua dei segni L.I.S. - Liquidazione spesa. </description>
 			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

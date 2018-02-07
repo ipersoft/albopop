@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 06 Feb 2018 18:31:16 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 07 Feb 2018 08:30:58 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Tue, 06 Feb 2018 18:31:16 +0100</pubDate>
+		<pubDate>Wed, 07 Feb 2018 08:30:58 +0100</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/878343</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/878343</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 07 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 22 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">878343</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
+			<title>NAPLA G APPALTI SRL - PIAZZA DEL POPOLO - PALAZZO DELLE POSTE - DEROGA AL DIVIETO DI TRANSITO E SOSTA IN ZTL/APU - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </title>
+			<description>NAPLA G APPALTI SRL - PIAZZA DEL POPOLO - PALAZZO DELLE POSTE - DEROGA AL DIVIETO DI TRANSITO E SOSTA IN ZTL/APU - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </description>
+			<a10:updated>2018-02-07T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/878331</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/878331</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 06 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 21 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">878331</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>LAVORI DI MANUTENZIONE STRAORDINARIA DEL PONTE SULLA STRADA STATALE 16 IN CORRISPONDENZA DI VIA LAMARCA. AFFIDAMENTO DELL'INCARICO PROFESSIONALE PER LA DIREZIONE LAVORI E ASSUNZIONE IMPEGNO DI SPESA EURO 9.249,05. </title>
+			<description>LAVORI DI MANUTENZIONE STRAORDINARIA DEL PONTE SULLA STRADA STATALE 16 IN CORRISPONDENZA DI VIA LAMARCA. AFFIDAMENTO DELL'INCARICO PROFESSIONALE PER LA DIREZIONE LAVORI E ASSUNZIONE IMPEGNO DI SPESA EURO 9.249,05. </description>
+			<a10:updated>2018-02-06T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/878328</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/878328</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 06 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 21 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">878328</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>ASSUNZIONE IMPEGNO DI SPESA PER RIVERSARE ALL'ENTRATA DEL BILANCIO DELLO STATO IL CORRISPETTIVO DOVUTO ALLO STATO MA INCASSATO DAL COMUNE IN OCCASIONE DELL'EMISSIONE DELLE NUOVE CARTE IDENTITÀ ELETTRONICHE – PERIODO 01/01/2018 – 31/01/2018. </title>
+			<description>ASSUNZIONE IMPEGNO DI SPESA PER RIVERSARE ALL'ENTRATA DEL BILANCIO DELLO STATO IL CORRISPETTIVO DOVUTO ALLO STATO MA INCASSATO DAL COMUNE IN OCCASIONE DELL'EMISSIONE DELLE NUOVE CARTE IDENTITÀ ELETTRONICHE – PERIODO 01/01/2018 – 31/01/2018. </description>
+			<a10:updated>2018-02-06T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/878257</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/878257</link>
@@ -259,38 +292,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>UTILIZZO IN ASSEGNAZIONE TEMPORANEA E PARZIALE AL 50% DELLA DIPENDENTE DELL’UNIONE MONTANA ALTA VALLE DEL METAURO PACIARONI TIZIANA </title>
 			<description>UTILIZZO IN ASSEGNAZIONE TEMPORANEA E PARZIALE AL 50% DELLA DIPENDENTE DELL’UNIONE MONTANA ALTA VALLE DEL METAURO PACIARONI TIZIANA </description>
-			<a10:updated>2018-02-05T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/876665</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/876665</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 05 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 20 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">876665</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>ASSUNZIONE DI IMPEGNO DI SPESA PER LA PARTECIPAZIOPNE DI DIPENDENTI DEL COMUNE DI PESARO A DUE CORSI DI FORMAZIONE "A CATALOGO" - ANNO 2018. </title>
-			<description>ASSUNZIONE DI IMPEGNO DI SPESA PER LA PARTECIPAZIOPNE DI DIPENDENTI DEL COMUNE DI PESARO A DUE CORSI DI FORMAZIONE "A CATALOGO" - ANNO 2018. </description>
-			<a10:updated>2018-02-05T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/876662</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/876662</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 05 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 20 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">876662</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>VARIAZIONI DI COMPETENZA GESTIONALE AI SENSI DEL COMMA 5-QUATER, ART.175 TUEL </title>
-			<description>VARIAZIONI DI COMPETENZA GESTIONALE AI SENSI DEL COMMA 5-QUATER, ART.175 TUEL </description>
-			<a10:updated>2018-02-05T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/876604</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/876604</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 05 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">876604</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALBO ESITI DI GARA</category>
-			<title>ESITO GARA AFFIDAMENTO GESTIONE DEI SERVIZI SOCIO-ASSISTENZIALI SANITARI ED ALBERGHIERI DA EROGARSI PRESSO LA RESIDENZA PROTETTA E CENTRO DIURNO “CASA AURA” DEL COMUNE DI PESARO. C.I.G. N. 7123957B48. PUBBLICATO SU GAZZETTA UFFICIALE REPUBBLICA ITALIANA N. 15 DEL 05/02/2018" </title>
-			<description>ESITO GARA AFFIDAMENTO GESTIONE DEI SERVIZI SOCIO-ASSISTENZIALI SANITARI ED ALBERGHIERI DA EROGARSI PRESSO LA RESIDENZA PROTETTA E CENTRO DIURNO “CASA AURA” DEL COMUNE DI PESARO. C.I.G. N. 7123957B48. PUBBLICATO SU GAZZETTA UFFICIALE REPUBBLICA ITALIANA N. 15 DEL 05/02/2018" </description>
 			<a10:updated>2018-02-05T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
