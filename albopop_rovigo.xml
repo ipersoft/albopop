@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 07 Feb 2018 16:31:18 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 07 Feb 2018 17:31:07 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Wed, 07 Feb 2018 16:31:18 +0100</pubDate>
+		<pubDate>Wed, 07 Feb 2018 17:31:07 +0100</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3203097</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3203097</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 07 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 22 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3203097</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
+			<title>AGGIUDICAZIONE SERVIZIO DI APPRONTAMENTO TABELLONI ELETTORALI, MONTAGGIO PALCHETTO E SUCCESSIVO DISALLESTIMENTO - ELEZIONI POLITICHE 4/3/2018 – CIG N. Z0E21D6CCC. </title>
+			<description>AGGIUDICAZIONE SERVIZIO DI APPRONTAMENTO TABELLONI ELETTORALI, MONTAGGIO PALCHETTO E SUCCESSIVO DISALLESTIMENTO - ELEZIONI POLITICHE 4/3/2018 – CIG N. Z0E21D6CCC. </description>
+			<a10:updated>2018-02-07T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3202875</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3202875</link>
@@ -280,17 +291,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
 			<title>LIQUIDAZIONE GETTONI DI PRESENZA PER SEDUTE DEI CONSIGLI COMUNALI E DELLE COMMISSIONI CONSILIARI – MESI DI NOVEMBRE E DICEMBRE 2017. </title>
 			<description>LIQUIDAZIONE GETTONI DI PRESENZA PER SEDUTE DEI CONSIGLI COMUNALI E DELLE COMMISSIONI CONSILIARI – MESI DI NOVEMBRE E DICEMBRE 2017. </description>
-			<a10:updated>2018-02-07T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3201260</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3201260</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 07 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 22 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3201260</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>IMPEGNO DELLA SPESA ED AFFIDAMENTO A SILLA SAS - FORNITURA DI TRE FONTANELLE IN GHISA DA POSIZIONARE IN ZONA A VERDE SU PISTA CICLABILE – CIG: ZF020ED74C - CUP:G14H16000940004 – RECUPERO FUNZIONALE DI PISTE CICLABILI E PERCORSI PEDONALI IN PORFIDO. </title>
-			<description>IMPEGNO DELLA SPESA ED AFFIDAMENTO A SILLA SAS - FORNITURA DI TRE FONTANELLE IN GHISA DA POSIZIONARE IN ZONA A VERDE SU PISTA CICLABILE – CIG: ZF020ED74C - CUP:G14H16000940004 – RECUPERO FUNZIONALE DI PISTE CICLABILI E PERCORSI PEDONALI IN PORFIDO. </description>
 			<a10:updated>2018-02-07T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

@@ -5,7 +5,7 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 07 Feb 2018 16:31:17 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 07 Feb 2018 17:31:07 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Isernia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>Wed, 07 Feb 2018 16:31:17 +0100</pubDate>
+		<pubDate>Wed, 07 Feb 2018 17:31:07 +0100</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3852492</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3852492</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 07 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 22 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3852492</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
+			<title>LIQUIDAZIONE DI SPESA PER ACQUISTO LIBRI E RINNOVO ABBONAMENTI A BANCHE DATI </title>
+			<description>LIQUIDAZIONE DI SPESA PER ACQUISTO LIBRI E RINNOVO ABBONAMENTI A BANCHE DATI </description>
+			<a10:updated>2018-02-07T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3852233</guid>
 			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3852233</link>
@@ -281,17 +292,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA GIUNTA COMUNALE</category>
 			<title>ELEZIONI POLITICHE DEL 4 MARZO 2018 - DELIMITAZIONE DEGLI SPAZI PER LE AFFISSIONI DI PROPAGANDA ELETTORALE </title>
 			<description>ELEZIONI POLITICHE DEL 4 MARZO 2018 - DELIMITAZIONE DEGLI SPAZI PER LE AFFISSIONI DI PROPAGANDA ELETTORALE </description>
-			<a10:updated>2018-02-06T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3848202</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3848202</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 06 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 21 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3848202</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA GIUNTA COMUNALE</category>
-			<title>CONCESSIONE DEL PATROCINIO ALL' ASSOCIAZIONE ROM IN PROGRESS PER LA MANIFESTAZIONE "IL PORRAJMOS DIMENTICATO", NELL'AMBITO DELLE CELEBRAZIONI PER LA "GIORNATA DELLA MEMORIA", ED. 2018 </title>
-			<description>CONCESSIONE DEL PATROCINIO ALL' ASSOCIAZIONE ROM IN PROGRESS PER LA MANIFESTAZIONE "IL PORRAJMOS DIMENTICATO", NELL'AMBITO DELLE CELEBRAZIONI PER LA "GIORNATA DELLA MEMORIA", ED. 2018 </description>
 			<a10:updated>2018-02-06T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

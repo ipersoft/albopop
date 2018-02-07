@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 07 Feb 2018 16:30:34 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 07 Feb 2018 17:30:30 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Wed, 07 Feb 2018 16:30:34 +0100</pubDate>
+		<pubDate>Wed, 07 Feb 2018 17:30:30 +0100</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3852442</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3852442</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 07 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 22 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3852442</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>ASSUNZIONE IMPEGNO DI SPESA PER I LAVORI DA ELETTRICISTA PER LA REALIZZAZIONE IMPIANTO PER LA FESTA DEL CARNEVALE 2018 ( CIG ZD5221EF80) </title>
+			<description>ASSUNZIONE IMPEGNO DI SPESA PER I LAVORI DA ELETTRICISTA PER LA REALIZZAZIONE IMPIANTO PER LA FESTA DEL CARNEVALE 2018 ( CIG ZD5221EF80) </description>
+			<a10:updated>2018-02-07T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3852440</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3852440</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 07 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 22 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3852440</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>APPROVAZIONE RENDICONTO DEL REFERENDUM DEL 22 OTTOBRE 2017. </title>
+			<description>APPROVAZIONE RENDICONTO DEL REFERENDUM DEL 22 OTTOBRE 2017. </description>
+			<a10:updated>2018-02-07T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3850862</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3850862</link>
@@ -267,28 +289,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>PROROGA TECNICA DELL'APPALTO DEL SERVIZIO DI RISTORAZIONE (CIG 6768023D40) IN CAPO ALLA DITTA MARKAS S.R.L. FINO AL 31/07/2018. </title>
 			<description>PROROGA TECNICA DELL'APPALTO DEL SERVIZIO DI RISTORAZIONE (CIG 6768023D40) IN CAPO ALLA DITTA MARKAS S.R.L. FINO AL 31/07/2018. </description>
-			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3833586</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3833586</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 31 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 15 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3833586</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>RIMBORSO DELLE SOMME VERSATE IN ECCEDENZA SU SANZIONI AMMINISTRATIVE. </title>
-			<description>RIMBORSO DELLE SOMME VERSATE IN ECCEDENZA SU SANZIONI AMMINISTRATIVE. </description>
-			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3833583</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3833583</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 31 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 15 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3833583</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>APPROVAZIONE VERBALE RELATIVO ALLA PROCEDURA DI MOBILITA’ VOLONTARIA PER LA COPERTURA DI UN POSTO DI “AGENTE DI POLIZIA LOCALE” – CAT. C.- TEMPO PIENO - DA COLLOCARE PRESSO IL SETTORE POLIZIA LOCALE (subordinata all’esperimento negativo delle procedure di cui all’art. 34 bis del D.lgs 165/2001) </title>
-			<description>APPROVAZIONE VERBALE RELATIVO ALLA PROCEDURA DI MOBILITA’ VOLONTARIA PER LA COPERTURA DI UN POSTO DI “AGENTE DI POLIZIA LOCALE” – CAT. C.- TEMPO PIENO - DA COLLOCARE PRESSO IL SETTORE POLIZIA LOCALE (subordinata all’esperimento negativo delle procedure di cui all’art. 34 bis del D.lgs 165/2001) </description>
 			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
