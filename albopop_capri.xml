@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 07 Feb 2018 11:32:02 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 07 Feb 2018 12:33:33 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Wed, 07 Feb 2018 11:32:02 +0100</pubDate>
+		<pubDate>Wed, 07 Feb 2018 12:33:33 +0100</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3202167</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3202167</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 07 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 22 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3202167</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>SOSPENSIONE TEMPORANEA DEL TRANSITO VEICOLARE SULLA S.P. CAPRI/ANACAPRI </title>
+			<description>SOSPENSIONE TEMPORANEA DEL TRANSITO VEICOLARE SULLA S.P. CAPRI/ANACAPRI </description>
+			<a10:updated>2018-02-07T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3201719</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3201719</link>
@@ -282,17 +293,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">GARE,BANDI,CONCORSI GARE, BANDI,CONCORSI</category>
 			<title>MOBILITA' VOLONTARIA EX ART. 30, COMMA 1, DEL D.LGS. N. 165/2001 PER LA COPERTURA DEL POSTO DI CATEGORIA C PREVISTO DALLA PROGRAMMAZIONE DEL FABBISOGNO DEL PERSONALE PER IL TRIENNIO 2017/2019 - SETTORE ANAGRAFE </title>
 			<description>MOBILITA' VOLONTARIA EX ART. 30, COMMA 1, DEL D.LGS. N. 165/2001 PER LA COPERTURA DEL POSTO DI CATEGORIA C PREVISTO DALLA PROGRAMMAZIONE DEL FABBISOGNO DEL PERSONALE PER IL TRIENNIO 2017/2019 - SETTORE ANAGRAFE </description>
-			<a10:updated>2018-02-05T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3198542</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3198542</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 05 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 20 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3198542</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
-			<title>LA CUSTODIA S.A.S / COMUNE DI CAPRI - SENTENZA TRIBUNALE DI NAPOLI N. 4034/2017 – LIQUIDAZIONE DI SPESA IN FAVORE DEL’AVVOCATO GIANCARLO MARINIELLO </title>
-			<description>LA CUSTODIA S.A.S / COMUNE DI CAPRI - SENTENZA TRIBUNALE DI NAPOLI N. 4034/2017 – LIQUIDAZIONE DI SPESA IN FAVORE DEL’AVVOCATO GIANCARLO MARINIELLO </description>
 			<a10:updated>2018-02-05T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
