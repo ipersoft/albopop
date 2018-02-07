@@ -5,7 +5,7 @@
 		<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bernareggio</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 07 Feb 2018 10:31:16 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 07 Feb 2018 11:31:33 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bernareggio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bernareggio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bernareggio</a10:id>
-		<pubDate>Wed, 07 Feb 2018 10:31:16 +0100</pubDate>
+		<pubDate>Wed, 07 Feb 2018 11:31:33 +0100</pubDate>
 		<docs>http://albopop.it/comune/bernareggio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3850752</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3850752</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 07 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 22 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3850752</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI</category>
+			<title>POSTA CERTIFICATA: ESITO - PROCEDURA APERTA, TRAMITE PIATTAFORMA SINTEL DI ARCA LOMBARDIA, PER L'AFFIDAMENTO IN CONCESSIONE A TERZI DELL'UNITÀ DI OFFERTA SOCIO ASSISTENZIALE "CENTRO POLIFUNZIONALE A. E V. VERONELLI" DI VIA CAVOUR 8/A DI BERNAREGGIO (MB) PERIODO DALL'1/10/2017 AL 31/03/2019- CIG 7140291289 </title>
+			<description>POSTA CERTIFICATA: ESITO - PROCEDURA APERTA, TRAMITE PIATTAFORMA SINTEL DI ARCA LOMBARDIA, PER L'AFFIDAMENTO IN CONCESSIONE A TERZI DELL'UNITÀ DI OFFERTA SOCIO ASSISTENZIALE "CENTRO POLIFUNZIONALE A. E V. VERONELLI" DI VIA CAVOUR 8/A DI BERNAREGGIO (MB) PERIODO DALL'1/10/2017 AL 31/03/2019- CIG 7140291289 </description>
+			<a10:updated>2018-02-07T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3847831</guid>
 			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3847831</link>
@@ -282,17 +293,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZE</category>
 			<title>ISTITUZIONE DIVIETO DI SOSTA CON RIMOZIONE FORZATA IN VIA CADORNA DALLE ORE 07.30 DEL 05/02/2018 ALLE ORE 17.00 DEL 09/02/2018 </title>
 			<description>ISTITUZIONE DIVIETO DI SOSTA CON RIMOZIONE FORZATA IN VIA CADORNA DALLE ORE 07.30 DEL 05/02/2018 ALLE ORE 17.00 DEL 09/02/2018 </description>
-			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3841517</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3841517</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 02 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 17 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3841517</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZE</category>
-			<title>ISTITUZIONE DIVIETO DI CIRCOLAZIONE IN VIA GARIBALDI N 33 DALLE ORE 08.00 ALLE ORE 18.00 DEL 06.02.2018 </title>
-			<description>ISTITUZIONE DIVIETO DI CIRCOLAZIONE IN VIA GARIBALDI N 33 DALLE ORE 08.00 ALLE ORE 18.00 DEL 06.02.2018 </description>
 			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
