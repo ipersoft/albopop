@@ -5,7 +5,7 @@
 		<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Belpasso</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 07 Feb 2018 15:30:53 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 07 Feb 2018 16:30:54 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Belpasso</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,32 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Belpasso</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_belpasso</a10:id>
-		<pubDate>Wed, 07 Feb 2018 15:30:53 +0100</pubDate>
+		<pubDate>Wed, 07 Feb 2018 16:30:54 +0100</pubDate>
 		<docs>http://albopop.it/comune/belpasso/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3852384</guid>
+			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3852384</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 07 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 22 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3852384</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONCESSIONI CONCESSIONE EDILIZIA</category>
+			<title>PERMESSO DI COSTRUIRE (GIÀ CONCESSIONE EDILIZIA) N. 10 DEL 07.02.2018 DITTA SCALIA PRAT. 11041 </title>
+			<description>PERMESSO DI COSTRUIRE (GIÀ CONCESSIONE EDILIZIA) N. 10 DEL 07.02.2018 DITTA SCALIA PRAT. 11041 </description>
+			<a10:updated>2018-02-07T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3852382</guid>
+			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3852382</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 07 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3852382</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO AVVISO PUBBLICO</category>
+			<title>RICHIESTA PUBBLICAZIONE AVVISO DI ASTA PUBBLICA PER ALIENAZIONE DI N° 3 LOTTI DI IMMOBILI DI PROPRIETÀ COMUNALE </title>
+			<description>RICHIESTA PUBBLICAZIONE AVVISO DI ASTA PUBBLICA PER ALIENAZIONE DI N° 3 LOTTI DI IMMOBILI DI PROPRIETÀ COMUNALE </description>
+			<a10:updated>2018-02-07T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3852228</guid>
 			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3852228</link>
@@ -267,28 +288,6 @@
 			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 02 Feb 2018 01:00:00 +0100</category>
 			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 17 Feb 2018 01:00:00 +0100</category>
 			<category domain="http://albopop.it/specs#item-category-uid">3840513</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZA  ORDINANZA SETTORIALE</category>
-			<title>INGIUNZIONE DI PAGAMENTO ONERI CONCESSORI. </title>
-			<description>INGIUNZIONE DI PAGAMENTO ONERI CONCESSORI. </description>
-			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3840511</guid>
-			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3840511</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 02 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 17 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3840511</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZA  ORDINANZA SETTORIALE</category>
-			<title>INGIUNZIONE DI PAGAMENTO ONERI CONCESSORI </title>
-			<description>INGIUNZIONE DI PAGAMENTO ONERI CONCESSORI </description>
-			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3840509</guid>
-			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3840509</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 02 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 17 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3840509</category>
 			<category domain="http://albopop.it/specs#item-category-type">ORDINANZA  ORDINANZA SETTORIALE</category>
 			<title>INGIUNZIONE DI PAGAMENTO ONERI CONCESSORI. </title>
 			<description>INGIUNZIONE DI PAGAMENTO ONERI CONCESSORI. </description>
