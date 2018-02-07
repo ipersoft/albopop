@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 07 Feb 2018 09:30:33 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 07 Feb 2018 10:30:37 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Wed, 07 Feb 2018 09:30:33 +0100</pubDate>
+		<pubDate>Wed, 07 Feb 2018 10:30:37 +0100</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3850231</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3850231</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 07 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 22 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3850231</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DECRETO</category>
+			<title>CONCESSIONE DEL PATROCINIO GRATUITO A FAVORE DELLA SOCIETA' SPORTIVA ASD MBO BIKE CLUB PER LA PROMOZIONE DEL GRANFONDO MTB CITTA' DI BRESCIA - 3^ EDIZIONE. </title>
+			<description>CONCESSIONE DEL PATROCINIO GRATUITO A FAVORE DELLA SOCIETA' SPORTIVA ASD MBO BIKE CLUB PER LA PROMOZIONE DEL GRANFONDO MTB CITTA' DI BRESCIA - 3^ EDIZIONE. </description>
+			<a10:updated>2018-02-07T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3849688</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3849688</link>
@@ -278,17 +289,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title> DETERMINAZIONE A CONTRATTARE MEDIANTE PROCEDURA SUL MERCATO ELETTRONICO DELLA PUBBLICA AMMINISTRAZIONE (SINTEL) PER L'AFFIDAMENTO DEL SERVIZIO DI TRASPORTO CON CONDUCENTE PER LA PARTECIPAZIONE AD UN CORSO DI SCI RIVOLTO AGLI ALUNNI DELL'ISTITUTO COMPRENSIVO DI CONCESIO NELLE GIORNATE DEL 16 E 23 FEBBRAIO 2018 E 2 MARZO 2018 (ZF921E7FEB). </title>
 			<description> DETERMINAZIONE A CONTRATTARE MEDIANTE PROCEDURA SUL MERCATO ELETTRONICO DELLA PUBBLICA AMMINISTRAZIONE (SINTEL) PER L'AFFIDAMENTO DEL SERVIZIO DI TRASPORTO CON CONDUCENTE PER LA PARTECIPAZIONE AD UN CORSO DI SCI RIVOLTO AGLI ALUNNI DELL'ISTITUTO COMPRENSIVO DI CONCESIO NELLE GIORNATE DEL 16 E 23 FEBBRAIO 2018 E 2 MARZO 2018 (ZF921E7FEB). </description>
-			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3833575</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3833575</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 31 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 15 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3833575</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>NOMINA COMMISSIONE GIUDICATRICE RELATIVA ALLA PROCEDURA DI MOBILITA' VOLONTARIA PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N.1 POSTO DI AGENTE DI POLIZIA LOCALE CATEGORIA C - DA COLLOCARE PRESSO IL SETTORE POLIZIA LOCALE DEL COMUNE DI CONCESIO. </title>
-			<description>NOMINA COMMISSIONE GIUDICATRICE RELATIVA ALLA PROCEDURA DI MOBILITA' VOLONTARIA PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N.1 POSTO DI AGENTE DI POLIZIA LOCALE CATEGORIA C - DA COLLOCARE PRESSO IL SETTORE POLIZIA LOCALE DEL COMUNE DI CONCESIO. </description>
 			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
