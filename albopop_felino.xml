@@ -5,7 +5,7 @@
 		<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Felino</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 07 Feb 2018 13:30:45 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 07 Feb 2018 14:30:49 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Felino</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Felino</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_felino</a10:id>
-		<pubDate>Wed, 07 Feb 2018 13:30:45 +0100</pubDate>
+		<pubDate>Wed, 07 Feb 2018 14:30:49 +0100</pubDate>
 		<docs>http://albopop.it/comune/felino/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3202690</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3202690</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 07 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 22 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3202690</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
+			<title>RICHIESTA PUBBLICAZIONE AVVISO MOBILITÀ </title>
+			<description>RICHIESTA PUBBLICAZIONE AVVISO MOBILITÀ </description>
+			<a10:updated>2018-02-07T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3202688</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3202688</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 07 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 22 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3202688</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
+			<title>MOBILITÀ CAT. C ISTRUTTORE TECNICO FELINO SCADUTA IL 2/2/2018 </title>
+			<description>MOBILITÀ CAT. C ISTRUTTORE TECNICO FELINO SCADUTA IL 2/2/2018 </description>
+			<a10:updated>2018-02-07T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3201767</guid>
 			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3201767</link>
@@ -269,28 +291,6 @@
 			<title>ATTO DI PUBBLICAZIONE DI MATRIMONIO DI MOLINARI MATTIA E PETTENATI CHIARA </title>
 			<description>ATTO DI PUBBLICAZIONE DI MATRIMONIO DI MOLINARI MATTIA E PETTENATI CHIARA </description>
 			<a10:updated>2018-01-30T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3181797</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3181797</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 26 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 31 Jul 2018 02:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3181797</category>
-			<category domain="http://albopop.it/specs#item-category-type">A005 ORDINANZE E AVVISI</category>
-			<title>ELENCO CONTRATTI CIMITERIALI SCADUTI NEL CIMITERO DI CEVOLA (FOSSE DECENNALI). </title>
-			<description>ELENCO CONTRATTI CIMITERIALI SCADUTI NEL CIMITERO DI CEVOLA (FOSSE DECENNALI). </description>
-			<a10:updated>2018-01-26T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3181714</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3181714</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 26 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 26 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3181714</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
-			<title>INVIO BANDO DI CONCORSO PUBBLICO PER ESAMI PER L'ASSUNZIONE, A TEMPO INDETERMINATO, DI N. 2 UNITA' DI PERSONALE NEL PROFILO PROFESSIONALE DI ISTRUTTORE DIRETTIVO, CATEGORIA D1 - SCADENZA 26 FEBBRAIO 2018 </title>
-			<description>INVIO BANDO DI CONCORSO PUBBLICO PER ESAMI PER L'ASSUNZIONE, A TEMPO INDETERMINATO, DI N. 2 UNITA' DI PERSONALE NEL PROFILO PROFESSIONALE DI ISTRUTTORE DIRETTIVO, CATEGORIA D1 - SCADENZA 26 FEBBRAIO 2018 </description>
-			<a10:updated>2018-01-26T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
