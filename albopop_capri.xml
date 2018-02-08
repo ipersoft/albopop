@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 08 Feb 2018 10:31:33 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 08 Feb 2018 11:31:35 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Thu, 08 Feb 2018 10:31:33 +0100</pubDate>
+		<pubDate>Thu, 08 Feb 2018 11:31:35 +0100</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3204127</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3204127</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 08 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 12 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3204127</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO PUBBLICAZIONE AVVISO</category>
+			<title>CONVOCAZIONE DELLA COMMISSIONE ELETTORALE COMUNALE PER LA NOMINA DEGLI SCRUTATORI </title>
+			<description>CONVOCAZIONE DELLA COMMISSIONE ELETTORALE COMUNALE PER LA NOMINA DEGLI SCRUTATORI </description>
+			<a10:updated>2018-02-08T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3204125</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3204125</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 08 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 08 Feb 2019 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3204125</category>
+			<category domain="http://albopop.it/specs#item-category-type">AUTORIZZAZIONI PAESAGGISTICHE AUTORIZZAZIONI PAESAGGISTICHE</category>
+			<title>ELENCO AUTORIZZAZIONI PAESAGGISTICHE FEBBRAIO 2018 </title>
+			<description>ELENCO AUTORIZZAZIONI PAESAGGISTICHE FEBBRAIO 2018 </description>
+			<a10:updated>2018-02-08T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3204066</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3204066</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 08 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 23 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3204066</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO PUBBLICAZIONE AVVISO</category>
+			<title>ELENCO DEI RAPPORTI COMUNICATI DAGLI AGENTI ED UFFICIALI DI POLIZIA GIUDIZIARIA RIGUARDANTI OPERE E LOTTIZZAZIONI ABUSIVE E DELLE RELATIVE ORDINANZE </title>
+			<description>ELENCO DEI RAPPORTI COMUNICATI DAGLI AGENTI ED UFFICIALI DI POLIZIA GIUDIZIARIA RIGUARDANTI OPERE E LOTTIZZAZIONI ABUSIVE E DELLE RELATIVE ORDINANZE </description>
+			<a10:updated>2018-02-08T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3203629</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3203629</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
 			<title>INGIUNZIONE A DEMOLIRE DI OPERE EDILI ABUSIVE ESEGUITE IN VIA LO PALAZZO N.20 IN PROPRIETA' SIG.RA ADRIANA SPOTO - INTERO PIANO CANTINATO DI MQ.65 - ART.31 D.P.R. N.380/2001 </title>
 			<description>INGIUNZIONE A DEMOLIRE DI OPERE EDILI ABUSIVE ESEGUITE IN VIA LO PALAZZO N.20 IN PROPRIETA' SIG.RA ADRIANA SPOTO - INTERO PIANO CANTINATO DI MQ.65 - ART.31 D.P.R. N.380/2001 </description>
-			<a10:updated>2018-02-07T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3201455</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3201455</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 07 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 22 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3201455</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>RICORSO AL T.A.R. CAMPANIA DI NAPOLI - II MOTIVI AGGIUNTI - PROPOSTO DAL SIGNOR MARIO ZORA AVVERSO L’ORDINANZA N. 282 DEL 20/10/2017- COSTITUZIONE IN GIUDIZIO –CONVENZIONE CON L’AVVOCATO GIULIANO AGLIATA </title>
-			<description>RICORSO AL T.A.R. CAMPANIA DI NAPOLI - II MOTIVI AGGIUNTI - PROPOSTO DAL SIGNOR MARIO ZORA AVVERSO L’ORDINANZA N. 282 DEL 20/10/2017- COSTITUZIONE IN GIUDIZIO –CONVENZIONE CON L’AVVOCATO GIULIANO AGLIATA </description>
-			<a10:updated>2018-02-07T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3201452</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3201452</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 07 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 22 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3201452</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>RINNOVO CONCESSIONE DI SUOLO PIBBLICO - DITTA BUONOCORE ANNALISA </title>
-			<description>RINNOVO CONCESSIONE DI SUOLO PIBBLICO - DITTA BUONOCORE ANNALISA </description>
-			<a10:updated>2018-02-07T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3201449</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3201449</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 07 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 22 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3201449</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>RINNOVO CONCESSIONE DI SUOLO PUBBLICO NR. 451 - DITTA SCHETTINO AGNESE </title>
-			<description>RINNOVO CONCESSIONE DI SUOLO PUBBLICO NR. 451 - DITTA SCHETTINO AGNESE </description>
 			<a10:updated>2018-02-07T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
