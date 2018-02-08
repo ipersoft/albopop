@@ -5,7 +5,7 @@
 		<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Felino</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 07 Feb 2018 18:30:39 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 08 Feb 2018 08:30:37 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Felino</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Felino</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_felino</a10:id>
-		<pubDate>Wed, 07 Feb 2018 18:30:39 +0100</pubDate>
+		<pubDate>Thu, 08 Feb 2018 08:30:37 +0100</pubDate>
 		<docs>http://albopop.it/comune/felino/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -282,15 +282,15 @@
 			<a10:updated>2018-01-30T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3187274</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3187274</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 30 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 07 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3187274</category>
-			<category domain="http://albopop.it/specs#item-category-type">A001 PUBBLICAZIONI MATRIMONIO</category>
-			<title>ATTO DI PUBBLICAZIONE DI MATRIMONIO DI MOLINARI MATTIA E PETTENATI CHIARA </title>
-			<description>ATTO DI PUBBLICAZIONE DI MATRIMONIO DI MOLINARI MATTIA E PETTENATI CHIARA </description>
-			<a10:updated>2018-01-30T00:00:00+01:00</a10:updated>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3181797</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3181797</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 26 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 31 Jul 2018 02:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3181797</category>
+			<category domain="http://albopop.it/specs#item-category-type">A005 ORDINANZE E AVVISI</category>
+			<title>ELENCO CONTRATTI CIMITERIALI SCADUTI NEL CIMITERO DI CEVOLA (FOSSE DECENNALI). </title>
+			<description>ELENCO CONTRATTI CIMITERIALI SCADUTI NEL CIMITERO DI CEVOLA (FOSSE DECENNALI). </description>
+			<a10:updated>2018-01-26T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>

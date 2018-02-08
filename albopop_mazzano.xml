@@ -5,7 +5,7 @@
 		<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mazzano</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 07 Feb 2018 18:31:41 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 08 Feb 2018 08:31:30 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mazzano</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mazzano</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mazzano</a10:id>
-		<pubDate>Wed, 07 Feb 2018 18:31:41 +0100</pubDate>
+		<pubDate>Thu, 08 Feb 2018 08:31:30 +0100</pubDate>
 		<docs>http://albopop.it/comune/mazzano/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -74,17 +74,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO</category>
 			<title>PUBBLICAZIONE DI MATRIMONIO N. 4/2018 </title>
 			<description>PUBBLICAZIONE DI MATRIMONIO N. 4/2018 </description>
-			<a10:updated>2018-02-06T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3848598</guid>
-			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3848598</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 06 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 07 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3848598</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI DI DEPOSITO ATTI NELLA CASA COMUNALE</category>
-			<title>AVVISO DEPOSITO ATTI </title>
-			<description>AVVISO DEPOSITO ATTI </description>
 			<a10:updated>2018-02-06T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
@@ -291,6 +280,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
 			<title>IMPEGNO DI SPESA PER ATTIVAZIONE TIROCINIO COLLOCATIVO A FAVORE DELL'UTENTE MATRICOLA N° 452199717 - PRESSO COOPERATIVA ESERCENTI FARMACIA SCRL DI BRESCIA - PERIODO 02.11.2017/31.01.2018 </title>
 			<description>IMPEGNO DI SPESA PER ATTIVAZIONE TIROCINIO COLLOCATIVO A FAVORE DELL'UTENTE MATRICOLA N° 452199717 - PRESSO COOPERATIVA ESERCENTI FARMACIA SCRL DI BRESCIA - PERIODO 02.11.2017/31.01.2018 </description>
+			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3843343</guid>
+			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3843343</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 02 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 17 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3843343</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
+			<title>CIG: Z1C20F1BA8 – AFFIDAMENTO APPALTO PER LA FORNITURA DI SEGNALETICA VERTICALE A NUVOLERA. </title>
+			<description>CIG: Z1C20F1BA8 – AFFIDAMENTO APPALTO PER LA FORNITURA DI SEGNALETICA VERTICALE A NUVOLERA. </description>
 			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
