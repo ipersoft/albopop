@@ -5,7 +5,7 @@
 		<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mazzano</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 09 Feb 2018 10:31:25 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 09 Feb 2018 11:31:24 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mazzano</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mazzano</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mazzano</a10:id>
-		<pubDate>Fri, 09 Feb 2018 10:31:25 +0100</pubDate>
+		<pubDate>Fri, 09 Feb 2018 11:31:24 +0100</pubDate>
 		<docs>http://albopop.it/comune/mazzano/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3857173</guid>
+			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3857173</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 09 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 24 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3857173</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERE DI GIUNTA COMUNALE</category>
+			<title>SCHEMA DI PROTOCOLLO D'INTESA TRA IL COMUNE DI GUSSAGO ED IL COMUNE DI MAZZANO PER IL COMANDO PARZIALE E TEMPORANEO DEL SIG. ALBERTI FULVIO PERIODO 12/02/2018 - 31/03/2018. ESAME ED APPROVAZIONE. </title>
+			<description>SCHEMA DI PROTOCOLLO D'INTESA TRA IL COMUNE DI GUSSAGO ED IL COMUNE DI MAZZANO PER IL COMANDO PARZIALE E TEMPORANEO DEL SIG. ALBERTI FULVIO PERIODO 12/02/2018 - 31/03/2018. ESAME ED APPROVAZIONE. </description>
+			<a10:updated>2018-02-09T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3855806</guid>
 			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3855806</link>
@@ -280,17 +291,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
 			<title>ACCERTAMENTO ENTRATA DEL FONDO SOCIALE REGIONALE 2017 </title>
 			<description>ACCERTAMENTO ENTRATA DEL FONDO SOCIALE REGIONALE 2017 </description>
-			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3843349</guid>
-			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3843349</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 02 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 17 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3843349</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
-			<title>CIG: Z2A20E7DA7 - DETERMINAZIONE A CONTRATTARE E AFFIDAMENTO DIRETTO DEI LAVORI DI MANUTENZIONE STRAORDINARIA DI OPERE DI URBANIZZAZIONE SECONDARIA PER IL RIFACIMENTO PARZIALE DELLA COPERTURA DELLA SCUOLA DELL’INFANZIA DI MOLINETTO IN VIA MAZZINI N. 44 </title>
-			<description>CIG: Z2A20E7DA7 - DETERMINAZIONE A CONTRATTARE E AFFIDAMENTO DIRETTO DEI LAVORI DI MANUTENZIONE STRAORDINARIA DI OPERE DI URBANIZZAZIONE SECONDARIA PER IL RIFACIMENTO PARZIALE DELLA COPERTURA DELLA SCUOLA DELL’INFANZIA DI MOLINETTO IN VIA MAZZINI N. 44 </description>
 			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

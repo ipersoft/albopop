@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 09 Feb 2018 10:31:08 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 09 Feb 2018 11:31:14 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Fri, 09 Feb 2018 10:31:08 +0100</pubDate>
+		<pubDate>Fri, 09 Feb 2018 11:31:14 +0100</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3857070</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3857070</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 09 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 24 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3857070</category>
+			<category domain="http://albopop.it/specs#item-category-type">CONVOCAZIONI</category>
+			<title>CONVOCAZIONE DELLA COMMISSIONE CONSILIARE POLITICHE SOCIALI, ABITATIVE E DELLA SALUTE PER MERCOLEDI' 14 FEBBRAIO 2018 ORE 9.00 </title>
+			<description>CONVOCAZIONE DELLA COMMISSIONE CONSILIARE POLITICHE SOCIALI, ABITATIVE E DELLA SALUTE PER MERCOLEDI' 14 FEBBRAIO 2018 ORE 9.00 </description>
+			<a10:updated>2018-02-09T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3855658</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3855658</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERE DI GIUNTA</category>
 			<title>EVENTO MOSTRA MERCATO "FESTE DELLE REGIONI DEL MERCATINO ITALIANO" AUTORIZZAZIONE ALLA VARIAZIONE DELLE DATE DI SVOLGIMENTO. </title>
 			<description>EVENTO MOSTRA MERCATO "FESTE DELLE REGIONI DEL MERCATINO ITALIANO" AUTORIZZAZIONE ALLA VARIAZIONE DELLE DATE DI SVOLGIMENTO. </description>
-			<a10:updated>2018-02-07T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3850382</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3850382</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 07 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 08 May 2018 02:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3850382</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI E BANDI VARI</category>
-			<title>VELOCIPEDE DA DONNA COLORE BLU RIMOSSO IN VIA SANTA GEMMA GALGANI ORDINANZA 142/2018 PREAVVISO 30081/2018/P E VERBALE AFFIDAMENTO 16116/2018/A DEL 3.2.2018 E DPR 189/2001 </title>
-			<description>VELOCIPEDE DA DONNA COLORE BLU RIMOSSO IN VIA SANTA GEMMA GALGANI ORDINANZA 142/2018 PREAVVISO 30081/2018/P E VERBALE AFFIDAMENTO 16116/2018/A DEL 3.2.2018 E DPR 189/2001 </description>
 			<a10:updated>2018-02-07T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
