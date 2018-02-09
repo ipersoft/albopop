@@ -5,7 +5,7 @@
 		<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Busnago</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 09 Feb 2018 17:30:56 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 09 Feb 2018 18:30:59 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Busnago</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Busnago</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_busnago</a10:id>
-		<pubDate>Fri, 09 Feb 2018 17:30:56 +0100</pubDate>
+		<pubDate>Fri, 09 Feb 2018 18:30:59 +0100</pubDate>
 		<docs>http://albopop.it/comune/busnago/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3858523</guid>
+			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3858523</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 09 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 10 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3858523</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI PUBBLICI AGENZIA DELLE ENTRATE - RISCOSSIONE. AVVISO DI DEPOSITO DI ATTI NELLA CASA COMUNALE</category>
+			<title>POSTE ITALIANE SPA PER CONTO DI AGENZIA DELLE ENTRATE - RISCOSSIONE. PUBBLICAZIONE AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE N. ELENCO: EL000182360 DEL 08/02/2018. </title>
+			<description>POSTE ITALIANE SPA PER CONTO DI AGENZIA DELLE ENTRATE - RISCOSSIONE. PUBBLICAZIONE AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE N. ELENCO: EL000182360 DEL 08/02/2018. </description>
+			<a10:updated>2018-02-09T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3854266</guid>
 			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3854266</link>
@@ -282,16 +293,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI PUBBLICI AVVISO BANDO DI MOBILITÀ ESTERNA</category>
 			<title>COMUNE DI VERANO BRIANZA: AVVISO PUBBLICO DI MOBILITA' PER LA COPERTURA DI N.1 POSTO DI ASSISTENTE SOCIALE A TEMPO PIENO E INDETERMINATO DI ASSISTENTE SOCIALE (CAT. GIU. D1) </title>
 			<description>COMUNE DI VERANO BRIANZA: AVVISO PUBBLICO DI MOBILITA' PER LA COPERTURA DI N.1 POSTO DI ASSISTENTE SOCIALE A TEMPO PIENO E INDETERMINATO DI ASSISTENTE SOCIALE (CAT. GIU. D1) </description>
-			<a10:updated>2018-02-05T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3844757</guid>
-			<link>http://busnago.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3844757</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 05 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3844757</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI PUBBLICI AVVISO BANDO DI MOBILITÀ ESTERNA</category>
-			<title>COMUNE DI MERATE: PROT. N.4426 DEL 02-02-2018 - AVVISO DI MOBILITÀ VOLONTARIA AI SENSI DELL'ART. 30 DEL D.LGS. 165/2001 E S.M.I. PER LA COPERTURA DI N. 1 POSTO A TEMPO PARZIALE (N. 30 ORE SETTIMANALI) ED INDETERMINATO DI ISTRUTTORE CULTURALE (CATEGORIA GIURIDICA "C") </title>
-			<description>COMUNE DI MERATE: PROT. N.4426 DEL 02-02-2018 - AVVISO DI MOBILITÀ VOLONTARIA AI SENSI DELL'ART. 30 DEL D.LGS. 165/2001 E S.M.I. PER LA COPERTURA DI N. 1 POSTO A TEMPO PARZIALE (N. 30 ORE SETTIMANALI) ED INDETERMINATO DI ISTRUTTORE CULTURALE (CATEGORIA GIURIDICA "C") </description>
 			<a10:updated>2018-02-05T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
