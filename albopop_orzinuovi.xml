@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 09 Feb 2018 08:30:35 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 09 Feb 2018 09:30:46 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Fri, 09 Feb 2018 08:30:35 +0100</pubDate>
+		<pubDate>Fri, 09 Feb 2018 09:30:46 +0100</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3206190</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3206190</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 09 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 24 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3206190</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI AVVISO</category>
+			<title>AVVISO DI DEPOSITO ADOZIONE PIANO DI RECUPERO IN VARIANTE AL PIANO DELLE REGOLE DEL PGT VIGENTE PER LA DEMOLIZIONE E RICOSTRUZIONE DI EDIFICIO AD USO COMMERCIALE E RESIDENZIALE INN VIA GALILEO GALILEI ANGOLO VIA COLOMBO E VIA SAVONAROLA </title>
+			<description>AVVISO DI DEPOSITO ADOZIONE PIANO DI RECUPERO IN VARIANTE AL PIANO DELLE REGOLE DEL PGT VIGENTE PER LA DEMOLIZIONE E RICOSTRUZIONE DI EDIFICIO AD USO COMMERCIALE E RESIDENZIALE INN VIA GALILEO GALILEI ANGOLO VIA COLOMBO E VIA SAVONAROLA </description>
+			<a10:updated>2018-02-09T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3205816</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3205816</link>
@@ -282,17 +293,6 @@
 			<title>BANDO DI CONCORSO N. 3 ISTRUTTORI CAT C - COMUNE DI GUSSAGO E COMUNE DI BOVEZZO </title>
 			<description>BANDO DI CONCORSO N. 3 ISTRUTTORI CAT C - COMUNE DI GUSSAGO E COMUNE DI BOVEZZO </description>
 			<a10:updated>2018-02-05T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3194717</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3194717</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 02 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 17 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3194717</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>DETERMINAZIONE A CONTRARRE - INDIZIONE PROCEDURA NEGOZIATA PER L’AFFIDAMENTO DEL SERVIZIO DI ALLESTIMENTO MANIFESTAZIONI CULTURALI. CIG 737330756B. </title>
-			<description>DETERMINAZIONE A CONTRARRE - INDIZIONE PROCEDURA NEGOZIATA PER L’AFFIDAMENTO DEL SERVIZIO DI ALLESTIMENTO MANIFESTAZIONI CULTURALI. CIG 737330756B. </description>
-			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>

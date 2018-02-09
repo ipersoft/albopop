@@ -5,7 +5,7 @@
 		<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mazzano</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 09 Feb 2018 08:31:08 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 09 Feb 2018 09:31:24 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mazzano</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mazzano</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mazzano</a10:id>
-		<pubDate>Fri, 09 Feb 2018 08:31:08 +0100</pubDate>
+		<pubDate>Fri, 09 Feb 2018 09:31:24 +0100</pubDate>
 		<docs>http://albopop.it/comune/mazzano/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3855806</guid>
+			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3855806</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 09 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 24 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3855806</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
+			<title>QUOTA ASSOCIATIVA ANCI - ANNO 2018 </title>
+			<description>QUOTA ASSOCIATIVA ANCI - ANNO 2018 </description>
+			<a10:updated>2018-02-09T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3853708</guid>
 			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3853708</link>
@@ -280,17 +291,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
 			<title>CIG: Z2A20E7DA7 - DETERMINAZIONE A CONTRATTARE E AFFIDAMENTO DIRETTO DEI LAVORI DI MANUTENZIONE STRAORDINARIA DI OPERE DI URBANIZZAZIONE SECONDARIA PER IL RIFACIMENTO PARZIALE DELLA COPERTURA DELLA SCUOLA DELL’INFANZIA DI MOLINETTO IN VIA MAZZINI N. 44 </title>
 			<description>CIG: Z2A20E7DA7 - DETERMINAZIONE A CONTRATTARE E AFFIDAMENTO DIRETTO DEI LAVORI DI MANUTENZIONE STRAORDINARIA DI OPERE DI URBANIZZAZIONE SECONDARIA PER IL RIFACIMENTO PARZIALE DELLA COPERTURA DELLA SCUOLA DELL’INFANZIA DI MOLINETTO IN VIA MAZZINI N. 44 </description>
-			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3843347</guid>
-			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3843347</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 02 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 17 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3843347</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
-			<title>DETERMINAZIONE A CONTRATTARE E AFFIDAMENTO DIRETTO, AI SENSI DELL’ART. 36, COMMA 2, LETT. A) DEL D.LGS. 18 APRILE 2016, N. 50, PER L’ACQUISTO DI N. 105 TEST ANTI ANTIDROGA DA UTILIZZARE PER IL SERVIZIO ESTERNO DI POLIZIA STRADALE. </title>
-			<description>DETERMINAZIONE A CONTRATTARE E AFFIDAMENTO DIRETTO, AI SENSI DELL’ART. 36, COMMA 2, LETT. A) DEL D.LGS. 18 APRILE 2016, N. 50, PER L’ACQUISTO DI N. 105 TEST ANTI ANTIDROGA DA UTILIZZARE PER IL SERVIZIO ESTERNO DI POLIZIA STRADALE. </description>
 			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
