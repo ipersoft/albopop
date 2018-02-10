@@ -5,7 +5,7 @@
 		<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bernareggio</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 10 Feb 2018 09:31:02 +0100</lastBuildDate>
+		<lastBuildDate>Sat, 10 Feb 2018 10:31:01 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bernareggio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bernareggio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bernareggio</a10:id>
-		<pubDate>Sat, 10 Feb 2018 09:31:02 +0100</pubDate>
+		<pubDate>Sat, 10 Feb 2018 10:31:01 +0100</pubDate>
 		<docs>http://albopop.it/comune/bernareggio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3858705</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3858705</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 10 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 18 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3858705</category>
+			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>PUBBLICAZIONE DI MATRIMONIO DI: RADAVELLI MATTEO E SPREAFICO AZZURRA </title>
+			<description>PUBBLICAZIONE DI MATRIMONIO DI: RADAVELLI MATTEO E SPREAFICO AZZURRA </description>
+			<a10:updated>2018-02-10T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3858237</guid>
 			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3858237</link>
@@ -279,17 +290,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>INTEGRAZIONE IMPEGNO DI SPESA N. 45733/2018 ASSUNTO CON DETERMINAZIONE N. 241/2017 PER COMPARTECIPAZIONE SPESE INTERVENTO DI SPAZIO NEUTRO PERIODO 1 GENNAIO 2018 - 28 FEBBRAIO 2018 </title>
 			<description>INTEGRAZIONE IMPEGNO DI SPESA N. 45733/2018 ASSUNTO CON DETERMINAZIONE N. 241/2017 PER COMPARTECIPAZIONE SPESE INTERVENTO DI SPAZIO NEUTRO PERIODO 1 GENNAIO 2018 - 28 FEBBRAIO 2018 </description>
-			<a10:updated>2018-02-06T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3847736</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3847736</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 06 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 21 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3847736</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>CIG. 726094408B – AFFIDAMENTO IN CONCESSIONE DEL SERVIZIO DI ACCERTAMENTO E RISCOSSIONE, ANCHE COATTIVA, DELL'IMPOSTA COMUNALE SULLA PUBBLICITA', DEI DIRITTI SULLE PUBBLICHE AFFISSIONI, COMPRESA LA MATERIALE AFFISSIONE DEI MANIFESTI - PERIODO 01/01/2018-31/12/2020 – AGGIUDICAZIONE DEFINITIVA. </title>
-			<description>CIG. 726094408B – AFFIDAMENTO IN CONCESSIONE DEL SERVIZIO DI ACCERTAMENTO E RISCOSSIONE, ANCHE COATTIVA, DELL'IMPOSTA COMUNALE SULLA PUBBLICITA', DEI DIRITTI SULLE PUBBLICHE AFFISSIONI, COMPRESA LA MATERIALE AFFISSIONE DEI MANIFESTI - PERIODO 01/01/2018-31/12/2020 – AGGIUDICAZIONE DEFINITIVA. </description>
 			<a10:updated>2018-02-06T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
