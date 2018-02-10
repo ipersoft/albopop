@@ -5,7 +5,7 @@
 		<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Torri del Benaco</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 10 Feb 2018 13:31:37 +0100</lastBuildDate>
+		<lastBuildDate>Sat, 10 Feb 2018 14:31:49 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Torri del Benaco</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Verona</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Torri del Benaco</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_torridelbenaco</a10:id>
-		<pubDate>Sat, 10 Feb 2018 13:31:37 +0100</pubDate>
+		<pubDate>Sat, 10 Feb 2018 14:31:49 +0100</pubDate>
 		<docs>http://albopop.it/comune/torridelbenaco/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3859167</guid>
+			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3859167</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 10 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3859167</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISO 30 GIORNI</category>
+			<title>AVVISO DI DEPOSITO NELLA CASA COMUNALE DI N. 15 ATTI (VEDI ELENCO ALLEGATO) </title>
+			<description>AVVISO DI DEPOSITO NELLA CASA COMUNALE DI N. 15 ATTI (VEDI ELENCO ALLEGATO) </description>
+			<a10:updated>2018-02-10T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3858360</guid>
 			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3858360</link>
@@ -280,16 +290,6 @@
 			<title>PIANO TRIENNALE PER LA PREVENZIONE DELLA CORRUZIONE E PER LA TRASPARENZA 2018 - 2020. ESAME ED APPROVAZIONE. </title>
 			<description>PIANO TRIENNALE PER LA PREVENZIONE DELLA CORRUZIONE E PER LA TRASPARENZA 2018 - 2020. ESAME ED APPROVAZIONE. </description>
 			<a10:updated>2018-02-07T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3847312</guid>
-			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3847312</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 06 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3847312</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISO 30 GIORNI</category>
-			<title>LONCRINI DAVIDE PRATICA 277/2017 AVVISO CONFERMA VALIDITA' SCIA </title>
-			<description>LONCRINI DAVIDE PRATICA 277/2017 AVVISO CONFERMA VALIDITA' SCIA </description>
-			<a10:updated>2018-02-06T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
