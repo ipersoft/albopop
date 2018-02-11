@@ -5,7 +5,7 @@
 		<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Felino</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 10 Feb 2018 18:30:41 +0100</lastBuildDate>
+		<lastBuildDate>Sun, 11 Feb 2018 08:30:34 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Felino</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Felino</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_felino</a10:id>
-		<pubDate>Sat, 10 Feb 2018 18:30:41 +0100</pubDate>
+		<pubDate>Sun, 11 Feb 2018 08:30:34 +0100</pubDate>
 		<docs>http://albopop.it/comune/felino/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -216,17 +216,6 @@
 			<a10:updated>2018-02-01T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3193125</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3193125</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 26 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 10 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3193125</category>
-			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
-			<title>ORGANIZZAZIONE INIZIATIVE PER GIORNO DELLA MEMORIA 2018. IMPEGNO DI SPESA. </title>
-			<description>ORGANIZZAZIONE INIZIATIVE PER GIORNO DELLA MEMORIA 2018. IMPEGNO DI SPESA. </description>
-			<a10:updated>2018-01-26T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
 			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3193123</guid>
 			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3193123</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 01 Feb 2018 01:00:00 +0100</category>
@@ -291,6 +280,17 @@
 			<title>APPROVAZIONE GRADUATORIA PROVVISORIA PER L’ASSEGNAZIONE DEI POSTEGGI TEMPORANEAMENTE NON OCCUPATI NEL MERCATO SETTIMANALE DI FELINO – AGGIORNAMENTO AL MESE DI DICEMBRE 2017. </title>
 			<description>APPROVAZIONE GRADUATORIA PROVVISORIA PER L’ASSEGNAZIONE DEI POSTEGGI TEMPORANEAMENTE NON OCCUPATI NEL MERCATO SETTIMANALE DI FELINO – AGGIORNAMENTO AL MESE DI DICEMBRE 2017. </description>
 			<a10:updated>2018-02-01T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3190611</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3190611</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 31 Jan 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 15 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3190611</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
+			<title>COMUNE DI TRAVERSETOLO: RICHIESTA PUBBLICAZIONE ALBO BANDO DI SELEZIONE PUBBLICA RISERVATA AI SOGGETTI DISABILI L. 68/1999 PER ASSUNZIONE UNA UNITA' DI ISTRUTTORE AMMINISTRATIVO CAT. C TEMPO PIENO ED INDETERMINATO PRESSO COMUNE DI TRAVERSOTOLO </title>
+			<description>COMUNE DI TRAVERSETOLO: RICHIESTA PUBBLICAZIONE ALBO BANDO DI SELEZIONE PUBBLICA RISERVATA AI SOGGETTI DISABILI L. 68/1999 PER ASSUNZIONE UNA UNITA' DI ISTRUTTORE AMMINISTRATIVO CAT. C TEMPO PIENO ED INDETERMINATO PRESSO COMUNE DI TRAVERSOTOLO </description>
+			<a10:updated>2018-01-31T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 10 Feb 2018 18:30:44 +0100</lastBuildDate>
+		<lastBuildDate>Sun, 11 Feb 2018 08:30:34 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Sat, 10 Feb 2018 18:30:44 +0100</pubDate>
+		<pubDate>Sun, 11 Feb 2018 08:30:34 +0100</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -73,17 +73,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>CIG Z65223ACD7 IMPEGNO DI SPESA PER ACQUISTO CARTA FOTOCOPIE A4 PER UFFICI COMUNALI </title>
 			<description>CIG Z65223ACD7 IMPEGNO DI SPESA PER ACQUISTO CARTA FOTOCOPIE A4 PER UFFICI COMUNALI </description>
-			<a10:updated>2018-02-09T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3206775</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3206775</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 09 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 10 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3206775</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DEPOSITO ATTI - CASELLE ESATTORIALI</category>
-			<title>DEPOSITO ATTI NELLA CASA COMUNALE PER AFFISSIONE ALL'ALBO ART 143 CPC </title>
-			<description>DEPOSITO ATTI NELLA CASA COMUNALE PER AFFISSIONE ALL'ALBO ART 143 CPC </description>
 			<a10:updated>2018-02-09T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
@@ -294,6 +283,17 @@
 			<title>LAVORI DI RIFACIMENTO CON ADEGUAMENTO E MESSA A NORMA DELLE COPERTURE IMMOBILI E.R.P. DI VIA VOLTA N° 7 E VIA CAVALLOTTI N° 36 - CUP: J51H16000060004 – CIG: 6740780B9E - APPROVAZIONE 3° E ULTIMO STATO AVANZAMENTO LAVORI E CERTIFICATO DI REGOLARE ESECUZIONE. </title>
 			<description>LAVORI DI RIFACIMENTO CON ADEGUAMENTO E MESSA A NORMA DELLE COPERTURE IMMOBILI E.R.P. DI VIA VOLTA N° 7 E VIA CAVALLOTTI N° 36 - CUP: J51H16000060004 – CIG: 6740780B9E - APPROVAZIONE 3° E ULTIMO STATO AVANZAMENTO LAVORI E CERTIFICATO DI REGOLARE ESECUZIONE. </description>
 			<a10:updated>2018-02-07T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3200162</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3200162</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 06 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 21 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3200162</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>ACCERTAMENTI IMPOSTA DI PUBBLICITA' E DIRITTI PUBBLICHE AFFISSIONI ANNO 2018 E RELATIVO AGGIO A FAVORE DEL CONCESSIONARIO ICA SRL (CIG 64397612E4) </title>
+			<description>ACCERTAMENTI IMPOSTA DI PUBBLICITA' E DIRITTI PUBBLICHE AFFISSIONI ANNO 2018 E RELATIVO AGGIO A FAVORE DEL CONCESSIONARIO ICA SRL (CIG 64397612E4) </description>
+			<a10:updated>2018-02-06T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
