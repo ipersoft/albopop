@@ -5,7 +5,7 @@
 		<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/igrid/1210528</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Celle di Bulgheria</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 12 Feb 2018 08:30:31 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 12 Feb 2018 09:30:33 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Celle di Bulgheria</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Salerno</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Celle di Bulgheria</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_celledibulgheria</a10:id>
-		<pubDate>Mon, 12 Feb 2018 08:30:31 +0100</pubDate>
+		<pubDate>Mon, 12 Feb 2018 09:30:33 +0100</pubDate>
 		<docs>http://albopop.it/comune/celledibulgheria/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/3210274</guid>
+			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/3210274</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 12 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 27 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3210274</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
+			<title>LIQUIDAZIONE DI SPESA ALLA INTERCOM S.R.L. PER RILEGATURA REGISTRI. CIG Z652080DB3 </title>
+			<description>LIQUIDAZIONE DI SPESA ALLA INTERCOM S.R.L. PER RILEGATURA REGISTRI. CIG Z652080DB3 </description>
+			<a10:updated>2018-02-12T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/3210270</guid>
+			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/3210270</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 12 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 27 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3210270</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
+			<title>LIQUIDAZIONE DI SPESA PER NOLO FOTOCOPIATRICE COMUNALE PERIODO SETTEMBRE-DICEMBRE 2017 - CIG N° Z9816671DC </title>
+			<description>LIQUIDAZIONE DI SPESA PER NOLO FOTOCOPIATRICE COMUNALE PERIODO SETTEMBRE-DICEMBRE 2017 - CIG N° Z9816671DC </description>
+			<a10:updated>2018-02-12T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/3210266</guid>
+			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/3210266</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 12 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 27 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3210266</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
+			<title>LIQUIDAZIONE DI SPESA PER SPESE POSTALI CONTI DI CREDITO. CIG ZB01D82F6D </title>
+			<description>LIQUIDAZIONE DI SPESA PER SPESE POSTALI CONTI DI CREDITO. CIG ZB01D82F6D </description>
+			<a10:updated>2018-02-12T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/3210226</guid>
 			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/3210226</link>
@@ -206,39 +239,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
 			<title>PIATTAFORMA ITER CAMPANIA PER LA MAPPATURA E IL MONITORAGGIO DI PROGETTI ESECUTIVI CANTIERABILI REGIONE CAMPANIA. ART. 24, 26 E 31 D.LGS. N. 50/2016. INDIRIZZI OPERATIVI ALL’UTC. </title>
 			<description>PIATTAFORMA ITER CAMPANIA PER LA MAPPATURA E IL MONITORAGGIO DI PROGETTI ESECUTIVI CANTIERABILI REGIONE CAMPANIA. ART. 24, 26 E 31 D.LGS. N. 50/2016. INDIRIZZI OPERATIVI ALL’UTC. </description>
-			<a10:updated>2018-02-06T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/3200651</guid>
-			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/3200651</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 06 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 21 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3200651</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>AGGIORNAMENTO PIANO TRIENNALE DI PREVENZIONE DELLA CORRUZIONE E TRASPARENZA 2018-2020. APPROVAZIONE </title>
-			<description>AGGIORNAMENTO PIANO TRIENNALE DI PREVENZIONE DELLA CORRUZIONE E TRASPARENZA 2018-2020. APPROVAZIONE </description>
-			<a10:updated>2018-02-06T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/3200615</guid>
-			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/3200615</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 06 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 21 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3200615</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI CONSIGLIO</category>
-			<title>CONVENZIONE TRA I COMUNI DI ROCCAGLORIOSA E CELLE DI BULGHERIA PER LA COSTITUZIONE DI UN UFFICIO DI PIANO INTERCOMUNALE PER LA GESTIONE ASSOCIATA PER LA REDAZIONE DEI PUC COMUNALI E RUEC E DELLA VAS. </title>
-			<description>CONVENZIONE TRA I COMUNI DI ROCCAGLORIOSA E CELLE DI BULGHERIA PER LA COSTITUZIONE DI UN UFFICIO DI PIANO INTERCOMUNALE PER LA GESTIONE ASSOCIATA PER LA REDAZIONE DEI PUC COMUNALI E RUEC E DELLA VAS. </description>
-			<a10:updated>2018-02-06T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/3200612</guid>
-			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/3200612</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 06 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 21 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3200612</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI CONSIGLIO</category>
-			<title>LETTURA E APPROVAZIONE VERBALI SEDUTA PRECEDENTE </title>
-			<description>LETTURA E APPROVAZIONE VERBALI SEDUTA PRECEDENTE </description>
 			<a10:updated>2018-02-06T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

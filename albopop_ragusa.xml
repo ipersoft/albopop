@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 12 Feb 2018 08:31:28 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 12 Feb 2018 09:32:09 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,32 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Mon, 12 Feb 2018 08:31:28 +0100</pubDate>
+		<pubDate>Mon, 12 Feb 2018 09:32:09 +0100</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3210466</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3210466</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 12 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3210466</category>
+			<category domain="http://albopop.it/specs#item-category-type">CANCELLAZIONE ANAGRAFICA</category>
+			<title>PUBBLICAZIONE ART.143 C.P.C. A CARICO DI TUDORACHE CRISTIAN, VIORICA, IRINA FLORICA E LENUTTA DANIELA </title>
+			<description>PUBBLICAZIONE ART.143 C.P.C. A CARICO DI TUDORACHE CRISTIAN, VIORICA, IRINA FLORICA E LENUTTA DANIELA </description>
+			<a10:updated>2018-02-12T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3210468</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3210468</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 12 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 27 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3210468</category>
+			<category domain="http://albopop.it/specs#item-category-type">PROVVEDIMENTO SUAP PROVVEDIMENTO AUTORIZZATIVO UNICO</category>
+			<title>PROVVEDIMENTO SUAP N.12 DEL 09/02/2018 - AZIENDA AGRICOLA MAGAZZE' S.S. </title>
+			<description>PROVVEDIMENTO SUAP N.12 DEL 09/02/2018 - AZIENDA AGRICOLA MAGAZZE' S.S. </description>
+			<a10:updated>2018-02-12T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3207448</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3207448</link>
@@ -267,28 +288,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
 			<title>RENDICONTO FONDO ECONOMATO PER SPESE POSTALI ED IL FUNZIONAMENTO DEGLI UFFICI COMUNALI 2^ SEMESTRE 2017 </title>
 			<description>RENDICONTO FONDO ECONOMATO PER SPESE POSTALI ED IL FUNZIONAMENTO DEGLI UFFICI COMUNALI 2^ SEMESTRE 2017 </description>
-			<a10:updated>2018-02-09T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3206368</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3206368</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 09 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 16 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3206368</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
-			<title>CARNEVALE 2018 PAGAMENTO DIRITTI SIAE PER SPETTACOLI IN PIAZZA SAN GIOVANNI DAL 09 AL 13 FEBBRAIO 2018. CIG.F5220FE1B </title>
-			<description>CARNEVALE 2018 PAGAMENTO DIRITTI SIAE PER SPETTACOLI IN PIAZZA SAN GIOVANNI DAL 09 AL 13 FEBBRAIO 2018. CIG.F5220FE1B </description>
-			<a10:updated>2018-02-09T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3206366</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3206366</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 09 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 16 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3206366</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
-			<title>RENDICONTO IMPEGNO SPESA DI € 600,00 PER SPESE CONNESSE ALL'ATTIVITA' DELL'UFFICIO ESPROPRIAZIONE DI QUESTO COMUNE </title>
-			<description>RENDICONTO IMPEGNO SPESA DI € 600,00 PER SPESE CONNESSE ALL'ATTIVITA' DELL'UFFICIO ESPROPRIAZIONE DI QUESTO COMUNE </description>
 			<a10:updated>2018-02-09T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

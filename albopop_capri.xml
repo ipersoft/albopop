@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 12 Feb 2018 08:31:24 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 12 Feb 2018 09:31:54 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Mon, 12 Feb 2018 08:31:24 +0100</pubDate>
+		<pubDate>Mon, 12 Feb 2018 09:31:54 +0100</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3210345</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3210345</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 12 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 20 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3210345</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO DEPOSITO ATTI PRESSO LA CASA COMUNALE</category>
+			<title>AVVISO DI DEPOSITO ATTO MESSO COMUNALE: NOTIFICA N. 34/2018 DEL 05/02/2018 </title>
+			<description>AVVISO DI DEPOSITO ATTO MESSO COMUNALE: NOTIFICA N. 34/2018 DEL 05/02/2018 </description>
+			<a10:updated>2018-02-12T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3210284</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3210284</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 12 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 20 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3210284</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO DEPOSITO ATTI PRESSO LA CASA COMUNALE</category>
+			<title>AVVISO DEPOSITO ATTO MESSO COMUNALE: NOTIFICA N. 33/2018 DEL 05/02/2018 </title>
+			<description>AVVISO DEPOSITO ATTO MESSO COMUNALE: NOTIFICA N. 33/2018 DEL 05/02/2018 </description>
+			<a10:updated>2018-02-12T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3210282</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3210282</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 12 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 20 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3210282</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO DEPOSITO ATTI PRESSO LA CASA COMUNALE</category>
+			<title>AVVISO DEPOSITO ATTO MESSO COMUNALE: NOTIFICA N. 32/2018 DEL 05/02/2018 </title>
+			<description>AVVISO DEPOSITO ATTO MESSO COMUNALE: NOTIFICA N. 32/2018 DEL 05/02/2018 </description>
+			<a10:updated>2018-02-12T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3207561</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3207561</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
 			<title>ADESIONE ANCI - LIQUIDAZIONE CONTRIBUTO ANNO 2018 </title>
 			<description>ADESIONE ANCI - LIQUIDAZIONE CONTRIBUTO ANNO 2018 </description>
-			<a10:updated>2018-02-07T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3202599</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3202599</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 07 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 22 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3202599</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
-			<title>"ARIA DI NATALE" - LIQUIDAZIONE FATTURA PER SPETTACOLO GOSPEL. DITTA C.B.S. CROWN S.R.L. CIG. ZF3213A1B1 </title>
-			<description>"ARIA DI NATALE" - LIQUIDAZIONE FATTURA PER SPETTACOLO GOSPEL. DITTA C.B.S. CROWN S.R.L. CIG. ZF3213A1B1 </description>
-			<a10:updated>2018-02-07T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3202597</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3202597</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 07 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 22 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3202597</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
-			<title>"ARIA DI NATALE" - LIQUIDAZIONE FATTURE PER SPETTACOLO FOKLORISTICO FESTIVITA' NATALIZIE. ASS. GRUPPO FOLKLORISTICO SCIALAPOPOLO - CIG. Z012172153 ASS. RICREATIVA SPETTACOLI - GRUPPO ISOLA AZZURRA - CIG.ZF321721D7 </title>
-			<description>"ARIA DI NATALE" - LIQUIDAZIONE FATTURE PER SPETTACOLO FOKLORISTICO FESTIVITA' NATALIZIE. ASS. GRUPPO FOLKLORISTICO SCIALAPOPOLO - CIG. Z012172153 ASS. RICREATIVA SPETTACOLI - GRUPPO ISOLA AZZURRA - CIG.ZF321721D7 </description>
-			<a10:updated>2018-02-07T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3202595</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3202595</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 07 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 22 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3202595</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>Soc. Il Geranio s.a.s. al viale Matteotti nr. 6/8 - Rinnovo CON416. </title>
-			<description>Soc. Il Geranio s.a.s. al viale Matteotti nr. 6/8 - Rinnovo CON416. </description>
 			<a10:updated>2018-02-07T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
