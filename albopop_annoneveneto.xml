@@ -5,7 +5,7 @@
 		<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Annone Veneto</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 13 Feb 2018 08:30:46 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 13 Feb 2018 09:30:52 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Annone Veneto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Annone Veneto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_annoneveneto</a10:id>
-		<pubDate>Tue, 13 Feb 2018 08:30:46 +0100</pubDate>
+		<pubDate>Tue, 13 Feb 2018 09:30:52 +0100</pubDate>
 		<docs>http://albopop.it/comune/annoneveneto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3862350</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3862350</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 13 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 28 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3862350</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>LAVORI INTEGRATIVI NELL'AMBITO DELL'INTERVENTO DI "ADEGUAMENTO DEI SERVIZI IGIENICI PRESSO LA TRIBUNA DELLO STADIO COMUNALE" - IMPEGNO DI SPESA </title>
+			<description>LAVORI INTEGRATIVI NELL'AMBITO DELL'INTERVENTO DI "ADEGUAMENTO DEI SERVIZI IGIENICI PRESSO LA TRIBUNA DELLO STADIO COMUNALE" - IMPEGNO DI SPESA </description>
+			<a10:updated>2018-02-13T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3861804</guid>
 			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3861804</link>
@@ -281,17 +292,6 @@
 			<title>COMUNE DI VIGONOVO - AVVISO DI PROCEDURA ESPLORATIVA PER PASSAGGIO DIRETTO DI PERSONALE TRA AMMINISTRAZIONI PER UN POSTO DI ISTRUTTORE AMMINISTRATIVO CONTABILE CAT. C PRESSO IL SETTORE RAGIONERIA. </title>
 			<description>COMUNE DI VIGONOVO - AVVISO DI PROCEDURA ESPLORATIVA PER PASSAGGIO DIRETTO DI PERSONALE TRA AMMINISTRAZIONI PER UN POSTO DI ISTRUTTORE AMMINISTRATIVO CONTABILE CAT. C PRESSO IL SETTORE RAGIONERIA. </description>
 			<a10:updated>2018-02-09T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3854923</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3854923</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 08 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 23 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3854923</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>PAGAMENTO RETTA RICOVERO IN CASA DI RIPOSO SIG. P. R. – GENNAIO/DICEMBRE 2018 </title>
-			<description>PAGAMENTO RETTA RICOVERO IN CASA DI RIPOSO SIG. P. R. – GENNAIO/DICEMBRE 2018 </description>
-			<a10:updated>2018-02-08T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
