@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 13 Feb 2018 10:30:55 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 13 Feb 2018 11:30:48 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Tue, 13 Feb 2018 10:30:55 +0100</pubDate>
+		<pubDate>Tue, 13 Feb 2018 11:30:48 +0100</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/886041</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/886041</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 13 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 22 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">886041</category>
+			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO RICHIESTA PUBBLICAZIONE MATRIMONIO ALBO</category>
+			<title>PUBBLICAZIONE DI MATRIMONIO DI PALAZZETTI ALESSANDRO E CHIRIAC LIUDMILA </title>
+			<description>PUBBLICAZIONE DI MATRIMONIO DI PALAZZETTI ALESSANDRO E CHIRIAC LIUDMILA </description>
+			<a10:updated>2018-02-13T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/885998</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/885998</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 13 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 21 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">885998</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO ATTI E AVVISI DIVERSI</category>
+			<title>A RICHIESTA DELL'AGENZIA DELLE ENTRATE DI PESARO E URBINO AVVISO DI DEPOSITO DOCUMENTO N. 2013/3/2044 </title>
+			<description>A RICHIESTA DELL'AGENZIA DELLE ENTRATE DI PESARO E URBINO AVVISO DI DEPOSITO DOCUMENTO N. 2013/3/2044 </description>
+			<a10:updated>2018-02-13T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/885997</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/885997</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 13 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 21 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">885997</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO ATTI E AVVISI DIVERSI</category>
+			<title>A RICHIESTA DELL'AGENZIA DELLE ENTRATE DI PESARO E URBINO AVVISO DI DEPOSITO DOCUMENTO N. TQ9015T000987/2018 </title>
+			<description>A RICHIESTA DELL'AGENZIA DELLE ENTRATE DI PESARO E URBINO AVVISO DI DEPOSITO DOCUMENTO N. TQ9015T000987/2018 </description>
+			<a10:updated>2018-02-13T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/885842</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/885842</link>
@@ -260,39 +293,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
 			<title>VIA MAGENTA CIV. 15 - REALIZZAZIONE STALLO DI SOSTA PER VEICOLI AL SERVIZIO DI PERSONE DIVERSAMENTE ABILI TITOLARI DI AUTORIZZAZIONE DI CUI ALL'ART. 188/2° DEL C.D.S. - TIPO GENERICO - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </title>
 			<description>VIA MAGENTA CIV. 15 - REALIZZAZIONE STALLO DI SOSTA PER VEICOLI AL SERVIZIO DI PERSONE DIVERSAMENTE ABILI TITOLARI DI AUTORIZZAZIONE DI CUI ALL'ART. 188/2° DEL C.D.S. - TIPO GENERICO - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </description>
-			<a10:updated>2018-02-12T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/884844</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/884844</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 12 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 27 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">884844</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
-			<title>VIA ALESSANDRO MANZONI CIV. 15 - REALIZZAZIONE STALLO DI SOSTA PER VEICOLI AL SERVIZIO DI PERSONE DIVERSAMENTE ABILI TITOLARI DI AUTORIZZAZIONE DI CUI ALL'ART . 188/2° DEL C.D.S. - TIPO GENERICO - DISCIPLINA DELLE CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </title>
-			<description>VIA ALESSANDRO MANZONI CIV. 15 - REALIZZAZIONE STALLO DI SOSTA PER VEICOLI AL SERVIZIO DI PERSONE DIVERSAMENTE ABILI TITOLARI DI AUTORIZZAZIONE DI CUI ALL'ART . 188/2° DEL C.D.S. - TIPO GENERICO - DISCIPLINA DELLE CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </description>
-			<a10:updated>2018-02-12T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/884834</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/884834</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 12 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 27 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">884834</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
-			<title>VIA GIULIANO VANZOLINI FRONTE CIV. 29 - REALIZZAZIONE STALLO DI SOSTA PER VEICOLI AL SERVIZIO DI PERSONE DIVERSAMENTE ABILI TITOLARI DI AUTORIZZAZIONE DEI CUI ALL'ART.188/2° DEL C.D.S. - TIPO PERSONALIZZATO - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </title>
-			<description>VIA GIULIANO VANZOLINI FRONTE CIV. 29 - REALIZZAZIONE STALLO DI SOSTA PER VEICOLI AL SERVIZIO DI PERSONE DIVERSAMENTE ABILI TITOLARI DI AUTORIZZAZIONE DEI CUI ALL'ART.188/2° DEL C.D.S. - TIPO PERSONALIZZATO - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </description>
-			<a10:updated>2018-02-12T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/884831</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/884831</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 12 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 27 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">884831</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
-			<title>SERVIZIO MANUTENZIONI - REALIZZAZIONE DI DUE STALLI DI SOSTA - VIA DEL NOVECENTO - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </title>
-			<description>SERVIZIO MANUTENZIONI - REALIZZAZIONE DI DUE STALLI DI SOSTA - VIA DEL NOVECENTO - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </description>
 			<a10:updated>2018-02-12T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
