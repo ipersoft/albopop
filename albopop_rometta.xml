@@ -5,7 +5,7 @@
 		<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rometta</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 13 Feb 2018 13:31:27 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 13 Feb 2018 14:31:15 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rometta</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Messina</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rometta</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rometta</a10:id>
-		<pubDate>Tue, 13 Feb 2018 13:31:27 +0100</pubDate>
+		<pubDate>Tue, 13 Feb 2018 14:31:15 +0100</pubDate>
 		<docs>http://albopop.it/comune/rometta/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3864154</guid>
+			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3864154</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 13 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 28 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3864154</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO PUBBLICO</category>
+			<title>RIF.0002448/2018 - AVVISO DI INTERRUZIONE DI ENERGIA ELETTRICA - SI CHIEDE PUBBLICAZIONE AVVISO SU SITO ISTITUZIONALE </title>
+			<description>RIF.0002448/2018 - AVVISO DI INTERRUZIONE DI ENERGIA ELETTRICA - SI CHIEDE PUBBLICAZIONE AVVISO SU SITO ISTITUZIONALE </description>
+			<a10:updated>2018-02-13T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3863640</guid>
 			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3863640</link>
@@ -280,17 +291,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>CONTRIBUTO ALL’ANAC PER ACQUISITO TITOLI DI VIAGGIO DI TRASPORTO INTERURBANO ALUNNI SCUOLA SECONDARIA DI SECONDO GRADO - SERVIZI PUBBLICI DI LINEA - ANNO SCOLASTICO 2016-2017. IMPEGNO E LIQUIDAZIONE. </title>
 			<description>CONTRIBUTO ALL’ANAC PER ACQUISITO TITOLI DI VIAGGIO DI TRASPORTO INTERURBANO ALUNNI SCUOLA SECONDARIA DI SECONDO GRADO - SERVIZI PUBBLICI DI LINEA - ANNO SCOLASTICO 2016-2017. IMPEGNO E LIQUIDAZIONE. </description>
-			<a10:updated>2018-02-05T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3846153</guid>
-			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3846153</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 05 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 20 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3846153</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>FORNITURA PRODOTTI INFORMATICI PER GLI UFFICI COMUNALI - LIQUIDAZIONE FATTURE DITTA LINEA DATA SRL. – GIG N. Z2C2175713. </title>
-			<description>FORNITURA PRODOTTI INFORMATICI PER GLI UFFICI COMUNALI - LIQUIDAZIONE FATTURE DITTA LINEA DATA SRL. – GIG N. Z2C2175713. </description>
 			<a10:updated>2018-02-05T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
