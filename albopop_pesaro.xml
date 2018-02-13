@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 13 Feb 2018 09:30:41 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 13 Feb 2018 10:30:55 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Tue, 13 Feb 2018 09:30:41 +0100</pubDate>
+		<pubDate>Tue, 13 Feb 2018 10:30:55 +0100</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/885842</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/885842</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 13 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 28 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">885842</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>PROSECUZIONE DEL PROGETTO DENOMINATO "L'AUTISMO NELLE MARCHE - VERSO UN PROGETTO DI VITA" - "SOTTO PROGETTO PER L'ETA' ADOLESCENZIALE ED ADULTA" VOLTO A FAVORIRE LA FREQUENZA DEI CC.S.EE.RR. (CENTRI SOCIO EDUCATIVI RIABILITATIVI) DA PARTE DI ADULTI AFFETTI DA AUTISMO (GEN-FEB 2018) – CIG 6433111323 </title>
+			<description>PROSECUZIONE DEL PROGETTO DENOMINATO "L'AUTISMO NELLE MARCHE - VERSO UN PROGETTO DI VITA" - "SOTTO PROGETTO PER L'ETA' ADOLESCENZIALE ED ADULTA" VOLTO A FAVORIRE LA FREQUENZA DEI CC.S.EE.RR. (CENTRI SOCIO EDUCATIVI RIABILITATIVI) DA PARTE DI ADULTI AFFETTI DA AUTISMO (GEN-FEB 2018) – CIG 6433111323 </description>
+			<a10:updated>2018-02-13T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/885807</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/885807</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 13 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 28 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">885807</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DECRETO DEL SINDACO</category>
+			<title>SEGRETARIO GENERALE DOTT. GIOVANNI MONTACCINI - DELEGA ALL’ESERCIZIO DELLE FUNZIONI DI LEGALE RAPPRESENTANTE DELL’ENTE, PER LE PROCEDURE DI COMPILAZIONE E PRESENTAZIONE DELLE DOMANDE DI FINANZIAMENTO E COMUNICAZIONI NELLA FASE DI GESTIONE DEI PROGETTI, TRAMITE SISTEMA INFORMATIVO SIFORM DELLA REGIONE MARCHE </title>
+			<description>SEGRETARIO GENERALE DOTT. GIOVANNI MONTACCINI - DELEGA ALL’ESERCIZIO DELLE FUNZIONI DI LEGALE RAPPRESENTANTE DELL’ENTE, PER LE PROCEDURE DI COMPILAZIONE E PRESENTAZIONE DELLE DOMANDE DI FINANZIAMENTO E COMUNICAZIONI NELLA FASE DI GESTIONE DEI PROGETTI, TRAMITE SISTEMA INFORMATIVO SIFORM DELLA REGIONE MARCHE </description>
+			<a10:updated>2018-02-13T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/885775</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/885775</link>
@@ -272,28 +294,6 @@
 			<title>SERVIZIO MANUTENZIONI - REALIZZAZIONE DI DUE STALLI DI SOSTA - VIA DEL NOVECENTO - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </title>
 			<description>SERVIZIO MANUTENZIONI - REALIZZAZIONE DI DUE STALLI DI SOSTA - VIA DEL NOVECENTO - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </description>
 			<a10:updated>2018-02-12T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/884641</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/884641</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 10 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 25 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">884641</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
-			<title>EDIL MANZO DI MANZO ANTONIO - VIA ALBERTINI N. 5 - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </title>
-			<description>EDIL MANZO DI MANZO ANTONIO - VIA ALBERTINI N. 5 - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </description>
-			<a10:updated>2018-02-10T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/884637</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/884637</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 10 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 25 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">884637</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
-			<title>QUARTIERE 3-COLLINE E CASTELLI - CARNEVALE A CANDELARA - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </title>
-			<description>QUARTIERE 3-COLLINE E CASTELLI - CARNEVALE A CANDELARA - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </description>
-			<a10:updated>2018-02-10T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Belpasso</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 13 Feb 2018 09:31:01 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 13 Feb 2018 10:31:12 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Belpasso</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,33 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Belpasso</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_belpasso</a10:id>
-		<pubDate>Tue, 13 Feb 2018 09:31:01 +0100</pubDate>
+		<pubDate>Tue, 13 Feb 2018 10:31:12 +0100</pubDate>
 		<docs>http://albopop.it/comune/belpasso/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3863118</guid>
+			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3863118</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 13 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 21 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3863118</category>
+			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>PUBBLICAZIONE DI MATRIMONIO - VERBALE N.13 </title>
+			<description>PUBBLICAZIONE DI MATRIMONIO - VERBALE N.13 </description>
+			<a10:updated>2018-02-13T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3862931</guid>
+			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3862931</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 13 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 21 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3862931</category>
+			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>PUBBLICAZIONE DI MATRIMONIO - VERBALE N.3 R.C. </title>
+			<description>PUBBLICAZIONE DI MATRIMONIO - VERBALE N.3 R.C. </description>
+			<a10:updated>2018-02-13T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3861450</guid>
 			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3861450</link>
@@ -271,28 +293,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>COMMISSIONE DI GARA PER L'AFFIDAMENTO IN CONCESSIONE DELLA GESTIONE DELLA CASA COMUNALE “ MONTE MANFRÈ”. LIQUIDAZIONE COMPENSO COMPONENTE ESTERNO UREGA DOTT.SSA BORELLA LETIZIA. </title>
 			<description>COMMISSIONE DI GARA PER L'AFFIDAMENTO IN CONCESSIONE DELLA GESTIONE DELLA CASA COMUNALE “ MONTE MANFRÈ”. LIQUIDAZIONE COMPENSO COMPONENTE ESTERNO UREGA DOTT.SSA BORELLA LETIZIA. </description>
-			<a10:updated>2018-02-09T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3857436</guid>
-			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3857436</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 09 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 24 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3857436</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>LIQUIDAZIONE IN FAVORE DEI CONSIGLIERI COMUNALI DEI GETTONI DI PRESENZA MATURATI NEI MESI DI NOVEMBRE E DICEMBRE 2017. </title>
-			<description>LIQUIDAZIONE IN FAVORE DEI CONSIGLIERI COMUNALI DEI GETTONI DI PRESENZA MATURATI NEI MESI DI NOVEMBRE E DICEMBRE 2017. </description>
-			<a10:updated>2018-02-09T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3857434</guid>
-			<link>http://belpasso.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3857434</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 09 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 24 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3857434</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>LIQUIDAZIONE E PAGAMENTO SOMME IN FAVORE DEL SIG.AZZARELLO ANTONINO , IN ESECUZIONE DELLA DELIBERAZIONE DI GIUNTA MUNICIPALE N.201 DEL 12 DICEMBRE 2016 .(FASC.N. 1302 /2015 ) </title>
-			<description>LIQUIDAZIONE E PAGAMENTO SOMME IN FAVORE DEL SIG.AZZARELLO ANTONINO , IN ESECUZIONE DELLA DELIBERAZIONE DI GIUNTA MUNICIPALE N.201 DEL 12 DICEMBRE 2016 .(FASC.N. 1302 /2015 ) </description>
 			<a10:updated>2018-02-09T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
