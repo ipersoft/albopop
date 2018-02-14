@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 14 Feb 2018 11:31:14 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 14 Feb 2018 12:31:16 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Wed, 14 Feb 2018 11:31:14 +0100</pubDate>
+		<pubDate>Wed, 14 Feb 2018 12:31:16 +0100</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3866042</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3866042</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 14 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3866042</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>VIA MONTEGRAPPA E BENEDETTO CAIROLI,FRAZIONE DI S.CONCORDIO IN C/A,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE ED ALLA SOSTA,PER IL 17/02/2018. </title>
+			<description>VIA MONTEGRAPPA E BENEDETTO CAIROLI,FRAZIONE DI S.CONCORDIO IN C/A,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE ED ALLA SOSTA,PER IL 17/02/2018. </description>
+			<a10:updated>2018-02-14T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3865381</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3865381</link>
@@ -281,17 +291,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
 			<title>MERCATO ANTIQUARIO: EDIZIONE FEBBRAIO 2018 - MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE ED ALLA SOSTA IN ALCUNE VIABILITÀ E PIAZZE DEL CENTRO STORICO DALLE ORE 22:00 DEL GIORNO 16 FEBBRAIO 2018 ALLE ORE 08:00 DEL GIORNO 19 FEBBRAIO 2018 . </title>
 			<description>MERCATO ANTIQUARIO: EDIZIONE FEBBRAIO 2018 - MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE ED ALLA SOSTA IN ALCUNE VIABILITÀ E PIAZZE DEL CENTRO STORICO DALLE ORE 22:00 DEL GIORNO 16 FEBBRAIO 2018 ALLE ORE 08:00 DEL GIORNO 19 FEBBRAIO 2018 . </description>
-			<a10:updated>2018-02-13T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3863690</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3863690</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 13 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 28 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3863690</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>PIAZZALE SAN DONATO E VIA DELLE CONCE, ISTITUZIONE DEL DIVIETO DI SOSTA CON RIMOZIONE COATTA DALLE ORE 8:00 ALLE ORE 17:00 DEL GIORNO 16 FEBBRAIO 2018. </title>
-			<description>PIAZZALE SAN DONATO E VIA DELLE CONCE, ISTITUZIONE DEL DIVIETO DI SOSTA CON RIMOZIONE COATTA DALLE ORE 8:00 ALLE ORE 17:00 DEL GIORNO 16 FEBBRAIO 2018. </description>
 			<a10:updated>2018-02-13T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
