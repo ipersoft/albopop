@@ -5,7 +5,7 @@
 		<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mascalucia</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 14 Feb 2018 15:31:28 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 14 Feb 2018 16:31:31 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mascalucia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mascalucia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mascalucia</a10:id>
-		<pubDate>Wed, 14 Feb 2018 15:31:28 +0100</pubDate>
+		<pubDate>Wed, 14 Feb 2018 16:31:31 +0100</pubDate>
 		<docs>http://albopop.it/comune/mascalucia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3231606</guid>
+			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3231606</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 14 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3231606</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRE PUBBLICAZIONI AVVISI ELETTORALI</category>
+			<title>ELEZIONE DEL SENATO DELLA REPUBBLICA E DELLA CAMERA DEI DEPUTATI - PUBBLICAZIONE VERBALE ED ELENCO AIRE </title>
+			<description>ELEZIONE DEL SENATO DELLA REPUBBLICA E DELLA CAMERA DEI DEPUTATI - PUBBLICAZIONE VERBALE ED ELENCO AIRE </description>
+			<a10:updated>2018-02-14T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3231074</guid>
 			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3231074</link>
@@ -279,17 +289,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
 			<title>LIQUIDAZIONE PER LA FORNITURA DI N. 30 SEDIE IN POLIPROPILENE PER VILLA BUSCEMI – DELEGAZIONE DI MASSANNUNZIATA. BENEFICIARIO: DITTA: BIGA SRL INDUSTRIA ARREDI SCOLASTICI, VIA F. GIUNTA 14, PALERMO – P.IVA: IT00801910829. COD. CIG: ZA8214E890 </title>
 			<description>LIQUIDAZIONE PER LA FORNITURA DI N. 30 SEDIE IN POLIPROPILENE PER VILLA BUSCEMI – DELEGAZIONE DI MASSANNUNZIATA. BENEFICIARIO: DITTA: BIGA SRL INDUSTRIA ARREDI SCOLASTICI, VIA F. GIUNTA 14, PALERMO – P.IVA: IT00801910829. COD. CIG: ZA8214E890 </description>
-			<a10:updated>2018-02-12T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3213050</guid>
-			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3213050</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 12 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 27 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3213050</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
-			<title>LIQUIDAZIONE PER SERVIZI DI REFEZIONE SCOLASTICA A FAVORE DEI MINORI FREQUENTANTI LE SCUOLE PRIMARIE DEL COMUNE DI MASCALUCIA, A.S. 2017/18. GENNAIO 2018. DITTA: G &amp; C SERVIZI GLOBALI S.R.L., CON SEDE IN MASCALUCIA (CT), VIA D. CIMAROSA N. 11, P.IVA: 04427080876 CODICE CIG: 6793633B4B </title>
-			<description>LIQUIDAZIONE PER SERVIZI DI REFEZIONE SCOLASTICA A FAVORE DEI MINORI FREQUENTANTI LE SCUOLE PRIMARIE DEL COMUNE DI MASCALUCIA, A.S. 2017/18. GENNAIO 2018. DITTA: G &amp; C SERVIZI GLOBALI S.R.L., CON SEDE IN MASCALUCIA (CT), VIA D. CIMAROSA N. 11, P.IVA: 04427080876 CODICE CIG: 6793633B4B </description>
 			<a10:updated>2018-02-12T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
