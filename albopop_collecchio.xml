@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 13 Feb 2018 18:31:27 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 14 Feb 2018 08:31:12 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Tue, 13 Feb 2018 18:31:27 +0100</pubDate>
+		<pubDate>Wed, 14 Feb 2018 08:31:12 +0100</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -270,17 +270,6 @@
 			<a10:updated>2018-02-05T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3197915</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3197915</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 05 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 13 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3197915</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
-			<title>DEPOSITO ATTI ELENCO N° 60E-C852-20161123 </title>
-			<description>DEPOSITO ATTI ELENCO N° 60E-C852-20161123 </description>
-			<a10:updated>2018-02-05T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3195689</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3195689</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 02 Feb 2018 01:00:00 +0100</category>
@@ -289,6 +278,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
 			<title>PIANO PARTICOLAREGGIATO DI INIZIATIVA PRIVATA - COMPARTO C( "COLLECCHIO CENTRO". REALIZZAZIONE OPERE DI URBANIZZAZIONE DI CUI ALLA CONVENZIONE URBANISTICA SOTTOSCRITTA IN DATA 24/03/2004. APPROVAZIONE COLLAUDO E ESCUSSIONE FIDEIUSSIONI PRESTATE A GARANZIA OBBLIGHI ASSUNTI DALLA DITTA EDILDOMUS SPA. </title>
 			<description>PIANO PARTICOLAREGGIATO DI INIZIATIVA PRIVATA - COMPARTO C( "COLLECCHIO CENTRO". REALIZZAZIONE OPERE DI URBANIZZAZIONE DI CUI ALLA CONVENZIONE URBANISTICA SOTTOSCRITTA IN DATA 24/03/2004. APPROVAZIONE COLLAUDO E ESCUSSIONE FIDEIUSSIONI PRESTATE A GARANZIA OBBLIGHI ASSUNTI DALLA DITTA EDILDOMUS SPA. </description>
+			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3195609</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3195609</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 02 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 16 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3195609</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO ON LINE LISTE DI LEVA </category>
+			<title>ELENCO GIOVANI ISCRITTI NELLA CLASSE DI LEVA 2001 </title>
+			<description>ELENCO GIOVANI ISCRITTI NELLA CLASSE DI LEVA 2001 </description>
 			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
