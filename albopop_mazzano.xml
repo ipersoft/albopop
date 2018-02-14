@@ -5,7 +5,7 @@
 		<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mazzano</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 14 Feb 2018 17:31:31 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 14 Feb 2018 18:32:17 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mazzano</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mazzano</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mazzano</a10:id>
-		<pubDate>Wed, 14 Feb 2018 17:31:31 +0100</pubDate>
+		<pubDate>Wed, 14 Feb 2018 18:32:17 +0100</pubDate>
 		<docs>http://albopop.it/comune/mazzano/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3867752</guid>
+			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3867752</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 14 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 22 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3867752</category>
+			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>PUBBLICAZIONE DI MATRIMONIO N. 5/2018 </title>
+			<description>PUBBLICAZIONE DI MATRIMONIO N. 5/2018 </description>
+			<a10:updated>2018-02-14T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3861004</guid>
 			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3861004</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
 			<title>ELEZIONI POLITICHE E REGIONALI DEL 4 MARZO 2018. AUTORIZZAZIONE A COMPIERE LAVORO STRAORDINARIO AL PERSONALE DIPENDENTE NEL PERIOGO DAL 15.1.2018 AL 7.3.2018 PER GLI ADEMPIMENTI CONCERNENTI LE OPERAZIONI ELETTORALI. </title>
 			<description>ELEZIONI POLITICHE E REGIONALI DEL 4 MARZO 2018. AUTORIZZAZIONE A COMPIERE LAVORO STRAORDINARIO AL PERSONALE DIPENDENTE NEL PERIOGO DAL 15.1.2018 AL 7.3.2018 PER GLI ADEMPIMENTI CONCERNENTI LE OPERAZIONI ELETTORALI. </description>
-			<a10:updated>2018-02-12T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3860857</guid>
-			<link>http://mazzano.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3860857</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 12 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 27 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3860857</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINE</category>
-			<title>DETERMINAZIONE A CONTRATTARE ED AFFIDAMENTO DIRETTO, AI SENSI DELL'ART.36, COMMA 2 LETTERA A) DEL D.LGS 18.4.2016 N.50, DELLA FORNITURA DI STAMPATI PER ELEZIONI POLITICHE E REGIONALI DEL 4 MARZO 2018. </title>
-			<description>DETERMINAZIONE A CONTRATTARE ED AFFIDAMENTO DIRETTO, AI SENSI DELL'ART.36, COMMA 2 LETTERA A) DEL D.LGS 18.4.2016 N.50, DELLA FORNITURA DI STAMPATI PER ELEZIONI POLITICHE E REGIONALI DEL 4 MARZO 2018. </description>
 			<a10:updated>2018-02-12T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
