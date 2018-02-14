@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 14 Feb 2018 09:31:44 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 14 Feb 2018 10:31:25 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Wed, 14 Feb 2018 09:31:44 +0100</pubDate>
+		<pubDate>Wed, 14 Feb 2018 10:31:25 +0100</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3230434</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3230434</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 13 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 21 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3230434</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO DEPOSITO ATTI PRESSO LA CASA COMUNALE</category>
+			<title>AVVISO DEPOSITO ATTO MESSO COMUNALE: NOTIFICA N. 38/2018 DEL 05/02/2018 </title>
+			<description>AVVISO DEPOSITO ATTO MESSO COMUNALE: NOTIFICA N. 38/2018 DEL 05/02/2018 </description>
+			<a10:updated>2018-02-13T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3230432</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3230432</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 13 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 21 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3230432</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO DEPOSITO ATTI PRESSO LA CASA COMUNALE</category>
+			<title>AVVISO DEPOSITO ATTO MESSO COMUNALE: NOTIFICA N. 37/2018 DEL 05/02/2018 </title>
+			<description>AVVISO DEPOSITO ATTO MESSO COMUNALE: NOTIFICA N. 37/2018 DEL 05/02/2018 </description>
+			<a10:updated>2018-02-13T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3230430</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3230430</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 13 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 21 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3230430</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO DEPOSITO ATTI PRESSO LA CASA COMUNALE</category>
+			<title>AVVISO DEPOSITO ATTO MESSO COMUNALE: NOTIFICA N. 36/2018 DEL 05/02/2018 </title>
+			<description>AVVISO DEPOSITO ATTO MESSO COMUNALE: NOTIFICA N. 36/2018 DEL 05/02/2018 </description>
+			<a10:updated>2018-02-13T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3230173</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3230173</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">AVVISO PUBBLICAZIONE AVVISO</category>
 			<title>AVVISO RILASCIO PERMESSO COSTRUIRE - SIGG. POLLASTRO/GARGIULO </title>
 			<description>AVVISO RILASCIO PERMESSO COSTRUIRE - SIGG. POLLASTRO/GARGIULO </description>
-			<a10:updated>2018-02-12T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3213774</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3213774</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 12 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 27 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3213774</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISO PUBBLICAZIONE AVVISO</category>
-			<title>AVVISO RILASCIO PERMESSO DI COSTRUIRE - SIG. VERDE </title>
-			<description>AVVISO RILASCIO PERMESSO DI COSTRUIRE - SIG. VERDE </description>
-			<a10:updated>2018-02-12T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3213772</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3213772</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 12 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 27 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3213772</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
-			<title>PAGAMENTO CONTRIBUTI ANAC PER PROCEDURE DI AFFIDAMENTO DI COMPETENZA DEL SETTORE VI URBANISTICA ED EDILIZIA PRIVATA - LIQUIDAZIONE. </title>
-			<description>PAGAMENTO CONTRIBUTI ANAC PER PROCEDURE DI AFFIDAMENTO DI COMPETENZA DEL SETTORE VI URBANISTICA ED EDILIZIA PRIVATA - LIQUIDAZIONE. </description>
-			<a10:updated>2018-02-12T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3213770</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3213770</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 12 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 27 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3213770</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>INGIUNZIONE AL PAGAMENTO DI SANZIONI AMMINISTRATIVE AI SENSI ART.167 DEL D.LGS.N.42/2004 ED ART.6 DEL D.P.R. N.380/2001 PER OPERE EDILI ABUSIVE IN VIA TUORO N.43 - PROPRIETA' SIG.RA ADRIANA MARIA FABIOLA CASSANDRO </title>
-			<description>INGIUNZIONE AL PAGAMENTO DI SANZIONI AMMINISTRATIVE AI SENSI ART.167 DEL D.LGS.N.42/2004 ED ART.6 DEL D.P.R. N.380/2001 PER OPERE EDILI ABUSIVE IN VIA TUORO N.43 - PROPRIETA' SIG.RA ADRIANA MARIA FABIOLA CASSANDRO </description>
 			<a10:updated>2018-02-12T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

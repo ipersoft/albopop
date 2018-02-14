@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 14 Feb 2018 09:30:48 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 14 Feb 2018 10:30:40 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Wed, 14 Feb 2018 09:30:48 +0100</pubDate>
+		<pubDate>Wed, 14 Feb 2018 10:30:40 +0100</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3865530</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3865530</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 14 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3865530</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISO GENERICO</category>
+			<title>PUBBLICAZIONE ESTRATTO LISTA DI LEVA 2018 - CLASSE 2001 </title>
+			<description>PUBBLICAZIONE ESTRATTO LISTA DI LEVA 2018 - CLASSE 2001 </description>
+			<a10:updated>2018-02-14T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3863610</guid>
 			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3863610</link>
@@ -41,6 +51,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>PRESA D’ATTO DIMISSIONI PER COLLOCAMENTO IN QUIESCENZA DEL DIPENDENTE M. D. </title>
 			<description>PRESA D’ATTO DIMISSIONI PER COLLOCAMENTO IN QUIESCENZA DEL DIPENDENTE M. D. </description>
+			<a10:updated>2018-02-13T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3865526</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3865526</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 13 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 28 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3865526</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title>LIQUIDAZIONE DI SPESA PERMESSI AMMINISTRATORI COMUNALI -CONSIGLIERE GOTTARDO MARIAMADDALENA MESE DI OTTOBRE 2017 </title>
+			<description>LIQUIDAZIONE DI SPESA PERMESSI AMMINISTRATORI COMUNALI -CONSIGLIERE GOTTARDO MARIAMADDALENA MESE DI OTTOBRE 2017 </description>
 			<a10:updated>2018-02-13T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
@@ -273,28 +294,6 @@
 			<title>LIQUIDAZIONE FATTURA N° 03 DEL 31/01/2018. DITTA MEGRA S.R.L. DI CAMPONAGARA (VE). </title>
 			<description>LIQUIDAZIONE FATTURA N° 03 DEL 31/01/2018. DITTA MEGRA S.R.L. DI CAMPONAGARA (VE). </description>
 			<a10:updated>2018-02-09T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3855719</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3855719</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 09 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 24 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3855719</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>LIQUIDAZIONE FATTURA ING. SAMBO MAURIZIO PER LA PREDISPOSIZIONE DEL PROGETTO DI ADEGUAMENTO ALLE NORME ANTINCENDIO DELL’ASILO NIDO DI PIAZZA COLLODI. </title>
-			<description>LIQUIDAZIONE FATTURA ING. SAMBO MAURIZIO PER LA PREDISPOSIZIONE DEL PROGETTO DI ADEGUAMENTO ALLE NORME ANTINCENDIO DELL’ASILO NIDO DI PIAZZA COLLODI. </description>
-			<a10:updated>2018-02-09T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3855352</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3855352</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 08 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 23 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3855352</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
-			<title>IRROGAZIONE DELLA SANZIONE AMMINISTRATIVA AI SENSI DELL’ARTICOLO 37 COMMA 4 E ART. 34 COMMA 2 DEL D.P.R. 380/2001. </title>
-			<description>IRROGAZIONE DELLA SANZIONE AMMINISTRATIVA AI SENSI DELL’ARTICOLO 37 COMMA 4 E ART. 34 COMMA 2 DEL D.P.R. 380/2001. </description>
-			<a10:updated>2018-02-08T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
