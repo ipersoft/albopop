@@ -5,7 +5,7 @@
 		<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Annone Veneto</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 14 Feb 2018 08:30:46 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 14 Feb 2018 09:31:02 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Annone Veneto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Annone Veneto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_annoneveneto</a10:id>
-		<pubDate>Wed, 14 Feb 2018 08:30:46 +0100</pubDate>
+		<pubDate>Wed, 14 Feb 2018 09:31:02 +0100</pubDate>
 		<docs>http://albopop.it/comune/annoneveneto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3865382</guid>
+			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3865382</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 14 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3865382</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
+			<title>APPROVAZIONE DOMANDA DI CONTRIBUTO BANDO REGIONALE DI CUI ALLA DGR N. 1210 DEL 01.08.2017_ALLEGATO C (2° SEMESTRE 2017) </title>
+			<description>APPROVAZIONE DOMANDA DI CONTRIBUTO BANDO REGIONALE DI CUI ALLA DGR N. 1210 DEL 01.08.2017_ALLEGATO C (2° SEMESTRE 2017) </description>
+			<a10:updated>2018-02-14T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3863418</guid>
 			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3863418</link>
@@ -283,17 +293,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>INCARICO PER LA PROGETTAZIONE DEFINITIVA ED ESECUTIVA DEL PRIMO STRALCIO DELL'INTERVENTO PRESSO LA SEDE DEL BIODISTRETTO NEL COMPENDIO IMMOBILIARE DELL'EX LATTERIA DI ANNONE VENETO - LIQUIDAZIONE </title>
 			<description>INCARICO PER LA PROGETTAZIONE DEFINITIVA ED ESECUTIVA DEL PRIMO STRALCIO DELL'INTERVENTO PRESSO LA SEDE DEL BIODISTRETTO NEL COMPENDIO IMMOBILIARE DELL'EX LATTERIA DI ANNONE VENETO - LIQUIDAZIONE </description>
-			<a10:updated>2018-02-09T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3856035</guid>
-			<link>http://annoneveneto.trasparenza-valutazione-merito.it/web/trasparenza/albo/-/papca/display/3856035</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 09 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 24 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3856035</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
-			<title>COMUNE DI SANTO STEFANO DI CAMASTRA (ME): ORDINANZA CIMITERIALE N. 02/18 DEL 15/01/2018. </title>
-			<description>COMUNE DI SANTO STEFANO DI CAMASTRA (ME): ORDINANZA CIMITERIALE N. 02/18 DEL 15/01/2018. </description>
 			<a10:updated>2018-02-09T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
