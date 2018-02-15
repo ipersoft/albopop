@@ -5,7 +5,7 @@
 		<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Torri del Benaco</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 15 Feb 2018 08:31:50 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 15 Feb 2018 09:32:14 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Torri del Benaco</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Verona</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Torri del Benaco</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_torridelbenaco</a10:id>
-		<pubDate>Thu, 15 Feb 2018 08:31:50 +0100</pubDate>
+		<pubDate>Thu, 15 Feb 2018 09:32:14 +0100</pubDate>
 		<docs>http://albopop.it/comune/torridelbenaco/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3868149</guid>
+			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3868149</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3868149</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
+			<title>POTENZIAMENTO SERVIZI DI SICUREZZA TERRITORIALE STAGIONE ESTIVA 2018. CONCESSIONE CONTRIBUTO AL COMANDO STAZIONE CARABINIERI DI TORRI DEL BENACO. </title>
+			<description>POTENZIAMENTO SERVIZI DI SICUREZZA TERRITORIALE STAGIONE ESTIVA 2018. CONCESSIONE CONTRIBUTO AL COMANDO STAZIONE CARABINIERI DI TORRI DEL BENACO. </description>
+			<a10:updated>2018-02-15T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3867565</guid>
 			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3867565</link>
@@ -259,16 +269,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
 			<title>DELIMITAZIONE ZONE DI BALNEAZIONE E DI NON BALNEAZIONE RICADENTI NEL TERRITORIO COMUNALE. ANNO 2018. </title>
 			<description>DELIMITAZIONE ZONE DI BALNEAZIONE E DI NON BALNEAZIONE RICADENTI NEL TERRITORIO COMUNALE. ANNO 2018. </description>
-			<a10:updated>2018-02-14T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3865342</guid>
-			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3865342</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 14 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3865342</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>RELAZIONE ANNUALE DEL RESPONSABILE ANTICORRUZIONE </title>
-			<description>RELAZIONE ANNUALE DEL RESPONSABILE ANTICORRUZIONE </description>
 			<a10:updated>2018-02-14T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

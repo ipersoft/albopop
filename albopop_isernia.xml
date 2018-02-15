@@ -5,7 +5,7 @@
 		<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Isernia</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 15 Feb 2018 08:31:30 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 15 Feb 2018 09:31:51 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Isernia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Isernia</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Isernia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_isernia</a10:id>
-		<pubDate>Thu, 15 Feb 2018 08:31:30 +0100</pubDate>
+		<pubDate>Thu, 15 Feb 2018 09:31:51 +0100</pubDate>
 		<docs>http://albopop.it/comune/isernia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3868209</guid>
+			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3868209</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3868209</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
+			<title>[AMBITO TERRITORIALE SOCIALE] TIROCINI DI ORIENTAMENTO, FORMAZIONE E INSERIMENTO/REINSERIMENTO FINALIZZATI ALL'INCLUSIONE SOCIALE, ALL'AUTONOMIA DELLE PERSONE E ALLA RIABILITAZIONE - REVOCA CONTRIBUTO CONCESSO AI TIROCINANTI MIGRANTI DI CUI ALLE SCHEDE DI COPROGETTANZIONE N. 133 E N. 134 E CONTESTUALE SCORRIMENTO DELLA GRADUATORIA DEFINITIVA DEGLI ASPIRANTI TIROCINANTI. CUP: D51J17000150009. </title>
+			<description>[AMBITO TERRITORIALE SOCIALE] TIROCINI DI ORIENTAMENTO, FORMAZIONE E INSERIMENTO/REINSERIMENTO FINALIZZATI ALL'INCLUSIONE SOCIALE, ALL'AUTONOMIA DELLE PERSONE E ALLA RIABILITAZIONE - REVOCA CONTRIBUTO CONCESSO AI TIROCINANTI MIGRANTI DI CUI ALLE SCHEDE DI COPROGETTANZIONE N. 133 E N. 134 E CONTESTUALE SCORRIMENTO DELLA GRADUATORIA DEFINITIVA DEGLI ASPIRANTI TIROCINANTI. CUP: D51J17000150009. </description>
+			<a10:updated>2018-02-15T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3867369</guid>
 			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3867369</link>
@@ -271,17 +281,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
 			<title>Servizio di trattamento e conferimento rifiuti in discarica.Impegno di spesa a favore della Ditta "Smaltimenti Sud" </title>
 			<description>Servizio di trattamento e conferimento rifiuti in discarica.Impegno di spesa a favore della Ditta "Smaltimenti Sud" </description>
-			<a10:updated>2018-02-13T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3864581</guid>
-			<link>http://isernia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3864581</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 13 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 28 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3864581</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONI</category>
-			<title>DISTACCO SINDACALE RETRIBUITO AL 50% - REVOCA DEL PROVVEDIMENTO. </title>
-			<description>DISTACCO SINDACALE RETRIBUITO AL 50% - REVOCA DEL PROVVEDIMENTO. </description>
 			<a10:updated>2018-02-13T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
