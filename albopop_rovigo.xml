@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 15 Feb 2018 14:31:18 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 15 Feb 2018 15:31:15 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Thu, 15 Feb 2018 14:31:18 +0100</pubDate>
+		<pubDate>Thu, 15 Feb 2018 15:31:15 +0100</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3239747</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3239747</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3239747</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
+			<title>LIQUIDAZIONE CACHET AD ARTISTA IMPEGNATO NELLE PROVE E RECITE DELL’OPERA LIRICA IL BARBIERE DI SIVIGLIA DI G.ROSSINI_2 </title>
+			<description>LIQUIDAZIONE CACHET AD ARTISTA IMPEGNATO NELLE PROVE E RECITE DELL’OPERA LIRICA IL BARBIERE DI SIVIGLIA DI G.ROSSINI_2 </description>
+			<a10:updated>2018-02-15T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3239492</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3239492</link>
@@ -259,16 +269,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DELIBERE DI GIUNTA</category>
 			<title>AUTORIZZAZIONE ALLO SVOLGIMENTO DELLA MANIFESTAZIONE DENOMINATA "IL MERCATINO DEI RAGAZZI - OTTAVA FESTA DEL VOLONTARIATO E DEI BAMBINI"- RIVIERA ADIGETTO SAN PIO X – 5 E 6 MAGGIO 2018. </title>
 			<description>AUTORIZZAZIONE ALLO SVOLGIMENTO DELLA MANIFESTAZIONE DENOMINATA "IL MERCATINO DEI RAGAZZI - OTTAVA FESTA DEL VOLONTARIATO E DEI BAMBINI"- RIVIERA ADIGETTO SAN PIO X – 5 E 6 MAGGIO 2018. </description>
-			<a10:updated>2018-02-14T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3231239</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3231239</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 14 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3231239</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DELIBERE DI GIUNTA</category>
-			<title>“PROGRAMMA STRAORDINARIO DI INTERVENTO PER LA RIQUALIFICAZIONE URBANA E LA SICUREZZA DELLE PERIFERIE DI CUI ALL'ART. 1 COMMA 974 E 975 DELLA LEGGE 28 DICEMBRE 2015, N.208 , BANDO ALLEGATO A D.P.C.M. 25/05/2016 IN G.U. 127 DEL 01/06/2016 – ART.3 COMMA 2° E ART.5 – COMMA 1 – LETT. “C E D” - INDIVIDUAZIONE IMMOBILI DI PROPRIETÀ COMUNALE DA PORRE IN VALUTAZIONE PER LA REDAZIONE DI PIANO ECONOMICO FINANZIARIO DA PARTE DEI SOGGETTI PRIVATI COMPARTECIPANTI </title>
-			<description>“PROGRAMMA STRAORDINARIO DI INTERVENTO PER LA RIQUALIFICAZIONE URBANA E LA SICUREZZA DELLE PERIFERIE DI CUI ALL'ART. 1 COMMA 974 E 975 DELLA LEGGE 28 DICEMBRE 2015, N.208 , BANDO ALLEGATO A D.P.C.M. 25/05/2016 IN G.U. 127 DEL 01/06/2016 – ART.3 COMMA 2° E ART.5 – COMMA 1 – LETT. “C E D” - INDIVIDUAZIONE IMMOBILI DI PROPRIETÀ COMUNALE DA PORRE IN VALUTAZIONE PER LA REDAZIONE DI PIANO ECONOMICO FINANZIARIO DA PARTE DEI SOGGETTI PRIVATI COMPARTECIPANTI </description>
 			<a10:updated>2018-02-14T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
