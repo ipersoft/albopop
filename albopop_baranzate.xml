@@ -5,7 +5,7 @@
 		<link>http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Baranzate</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 15 Feb 2018 16:31:01 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 15 Feb 2018 17:30:47 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Baranzate</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Milano</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Baranzate</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_baranzate</a10:id>
-		<pubDate>Thu, 15 Feb 2018 16:31:01 +0100</pubDate>
+		<pubDate>Thu, 15 Feb 2018 17:30:47 +0100</pubDate>
 		<docs>http://albopop.it/comune/baranzate/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -264,6 +264,16 @@
 			<a10:updated>2018-02-12T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
+			<guid isPermaLink="true">http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3871233</guid>
+			<link>http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3871233</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3871233</category>
+			<category domain="http://albopop.it/specs#item-category-type">DELIBERA DELIBERA GIUNTA</category>
+			<title>INTEGRAZIONE DEL PIANO DEI FABBISOGNI DI PERSONALE PER IL TRIENNIO 2018-2020. </title>
+			<description>INTEGRAZIONE DEL PIANO DEI FABBISOGNI DI PERSONALE PER IL TRIENNIO 2018-2020. </description>
+			<a10:updated>2018-02-15T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
 			<guid isPermaLink="true">http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3860071</guid>
 			<link>http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3860071</link>
 			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 12 Feb 2018 01:00:00 +0100</category>
@@ -283,17 +293,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINA P.O. DETERMINA</category>
 			<title>IMPEGNO DI SPESA PULIZIE STRAORDINARIE IN OCCASIONE DELLE CONSULTAZIONI ELETTORALI PREVISTE PER IL 4 MARZO 2018. </title>
 			<description>IMPEGNO DI SPESA PULIZIE STRAORDINARIE IN OCCASIONE DELLE CONSULTAZIONI ELETTORALI PREVISTE PER IL 4 MARZO 2018. </description>
-			<a10:updated>2018-02-12T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3860376</guid>
-			<link>http://baranzate.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3860376</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 12 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 27 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3860376</category>
-			<category domain="http://albopop.it/specs#item-category-type">DELIBERA DELIBERA GIUNTA</category>
-			<title>PROPAGANDA ELETTORALE, INDIVIDUAZIONE E DELIMITAZIONE DEGLI SPAZI RISERVATI ALLA PROPAGANDA ELETTORALE PER L'ELEZIONE DELLA CAMERA DEI DEPUTATI E DEL SENATO DELLA REPUBBLICA DI DOMENICA 4 MARZO 2018. </title>
-			<description>PROPAGANDA ELETTORALE, INDIVIDUAZIONE E DELIMITAZIONE DEGLI SPAZI RISERVATI ALLA PROPAGANDA ELETTORALE PER L'ELEZIONE DELLA CAMERA DEI DEPUTATI E DEL SENATO DELLA REPUBBLICA DI DOMENICA 4 MARZO 2018. </description>
 			<a10:updated>2018-02-12T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
