@@ -5,7 +5,7 @@
 		<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Viterbo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 15 Feb 2018 15:30:50 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 15 Feb 2018 16:30:51 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Viterbo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Viterbo</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Viterbo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_viterbo</a10:id>
-		<pubDate>Thu, 15 Feb 2018 15:30:50 +0100</pubDate>
+		<pubDate>Thu, 15 Feb 2018 16:30:51 +0100</pubDate>
 		<docs>http://albopop.it/comune/viterbo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3870913</guid>
+			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3870913</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3870913</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI VARI </category>
+			<title>MANIFESTO TRASPORTO DISABILI PER LE ELEZIONI POLICHE 4 MARZO 2018 </title>
+			<description>MANIFESTO TRASPORTO DISABILI PER LE ELEZIONI POLICHE 4 MARZO 2018 </description>
+			<a10:updated>2018-02-15T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3870554</guid>
 			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3870554</link>
@@ -261,16 +271,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONI SENZA IMPEGNO DI SPESA</category>
 			<title>BRUNO GIOVANNI, ASSEGNAZIONE ALLOGGIO DI E.R.P. DI RISULTA,VIA L. PETROSELLI, 3, PIANO 1, INT.4. DI MQ. 45,00, VITERBO ( EX MATTOCCIA AMELIA). </title>
 			<description>BRUNO GIOVANNI, ASSEGNAZIONE ALLOGGIO DI E.R.P. DI RISULTA,VIA L. PETROSELLI, 3, PIANO 1, INT.4. DI MQ. 45,00, VITERBO ( EX MATTOCCIA AMELIA). </description>
-			<a10:updated>2018-02-15T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3869385</guid>
-			<link>http://viterbo.trasparenza-valutazione-merito.it/web/trasparenza2/albo-pretorio/-/papca/display/3869385</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3869385</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE DETERMINAZIONE DIRIGENZIALE CON IMPEGNO DI SPESA</category>
-			<title>ACQUISIZIONE AL PATRIMONIO COMUNALE AI SENSI DELL'ART. 42 BIS DEL D.P.R. 08.06.2001, N. 327 DEGLI IMMOBILI OCCUPATI E TRASFORMATI AI FINI DELLA REALIZZAZIONE DEL SEMIANELLO VIARIO TANGENZIALE DI VITERBO - DITTA GENNARI CARLO - PRAGAMENTO DEGLI ONERI PER REGISTRAZIONE, TRASCRIZIONE E VOLTURAZIONE DEL DECRETO DI ACQUISIZIONE. </title>
-			<description>ACQUISIZIONE AL PATRIMONIO COMUNALE AI SENSI DELL'ART. 42 BIS DEL D.P.R. 08.06.2001, N. 327 DEGLI IMMOBILI OCCUPATI E TRASFORMATI AI FINI DELLA REALIZZAZIONE DEL SEMIANELLO VIARIO TANGENZIALE DI VITERBO - DITTA GENNARI CARLO - PRAGAMENTO DEGLI ONERI PER REGISTRAZIONE, TRASCRIZIONE E VOLTURAZIONE DEL DECRETO DI ACQUISIZIONE. </description>
 			<a10:updated>2018-02-15T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
