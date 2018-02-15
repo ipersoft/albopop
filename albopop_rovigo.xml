@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 15 Feb 2018 17:31:05 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 15 Feb 2018 18:31:37 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Thu, 15 Feb 2018 17:31:05 +0100</pubDate>
+		<pubDate>Thu, 15 Feb 2018 18:31:37 +0100</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3240263</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3240263</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 23 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3240263</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE PUBBLICAZIONI MATRIMONIALI</category>
+			<title>PUBBLICAZIONE DI MATRIMONIO LUMINI E CREPALDI </title>
+			<description>PUBBLICAZIONE DI MATRIMONIO LUMINI E CREPALDI </description>
+			<a10:updated>2018-02-15T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3239961</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3239961</link>
@@ -259,16 +270,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DELIBERE DI GIUNTA</category>
 			<title> PROMOZIONE DELLA MOSTRA DIDATTICA ITINERANTE “LA CAPPELLA DEGLI SCROVEGNI: UN'AFFASCINANTE RISORSA PER TUTTA LA SCUOLA VENETA, A 750 ANNI DALLA NASCITA DI GIOTTO” CHE SI SVOLGERÀ DAL 15 MAGGIO AL 15 GIUGNO 2018, NELLA SEDE DELL'EX CHIESA “SAN MICHELE”, CON LA COLLABORAZIONE DEL LICEO STATALE “CELIO - ROCCATI” DI ROVIGO. </title>
 			<description> PROMOZIONE DELLA MOSTRA DIDATTICA ITINERANTE “LA CAPPELLA DEGLI SCROVEGNI: UN'AFFASCINANTE RISORSA PER TUTTA LA SCUOLA VENETA, A 750 ANNI DALLA NASCITA DI GIOTTO” CHE SI SVOLGERÀ DAL 15 MAGGIO AL 15 GIUGNO 2018, NELLA SEDE DELL'EX CHIESA “SAN MICHELE”, CON LA COLLABORAZIONE DEL LICEO STATALE “CELIO - ROCCATI” DI ROVIGO. </description>
-			<a10:updated>2018-02-14T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3231338</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3231338</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 14 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3231338</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DELIBERE DI GIUNTA</category>
-			<title>CONCESSIONE DI GRATUITA' PER L'USO DELLE SALE POLIVALENTI, PRESSO LA STRUTTURA "EX CONVENTO DEGLI OLIVETANI", PER LA REALIZZAZIONE DELLA MOSTRA DIDATTICA DAL TITOLO "LE MADRI E I PADRI FONDATORI DELL'UNIONE EUROPEA" ORGANIZZATA NEL PERIODO 22/03/2018 - 05/04/2018 DAL LICEO ARTISTICO ROCCATI DI ROVIGO. </title>
-			<description>CONCESSIONE DI GRATUITA' PER L'USO DELLE SALE POLIVALENTI, PRESSO LA STRUTTURA "EX CONVENTO DEGLI OLIVETANI", PER LA REALIZZAZIONE DELLA MOSTRA DIDATTICA DAL TITOLO "LE MADRI E I PADRI FONDATORI DELL'UNIONE EUROPEA" ORGANIZZATA NEL PERIODO 22/03/2018 - 05/04/2018 DAL LICEO ARTISTICO ROCCATI DI ROVIGO. </description>
 			<a10:updated>2018-02-14T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
