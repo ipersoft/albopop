@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 16 Feb 2018 16:31:01 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 16 Feb 2018 17:31:11 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Fri, 16 Feb 2018 16:31:01 +0100</pubDate>
+		<pubDate>Fri, 16 Feb 2018 17:31:11 +0100</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3874035</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3874035</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 16 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3874035</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>OGGETTO: MERCATO DEL CARMINE - MIGLIORAMENTO SISMICO CHIESA – CONCESSIONE PROROGA ULTIMAZIONE LAVORI – CUP: J62C16000010007 – CIG: 6893309A88 </title>
+			<description>OGGETTO: MERCATO DEL CARMINE - MIGLIORAMENTO SISMICO CHIESA – CONCESSIONE PROROGA ULTIMAZIONE LAVORI – CUP: J62C16000010007 – CIG: 6893309A88 </description>
+			<a10:updated>2018-02-16T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3873786</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3873786</link>
@@ -263,16 +273,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>SERVIZIO CONTRATTI - IMPOSTA DI BOLLO (D.P.R. 642/72 S.M.I.), ASSOLTA IN MODO VIRTUALE SULLE CERTIFICAZIONI ANAGRAFICHE, SULLE REGISTRAZIONI DEI CONTRATTI, GESTITA IN MODALITA' TELEMATICA – PRIME TRE RATE ANNO 2018 (COD. FAMIGLIA 5) </title>
 			<description>SERVIZIO CONTRATTI - IMPOSTA DI BOLLO (D.P.R. 642/72 S.M.I.), ASSOLTA IN MODO VIRTUALE SULLE CERTIFICAZIONI ANAGRAFICHE, SULLE REGISTRAZIONI DEI CONTRATTI, GESTITA IN MODALITA' TELEMATICA – PRIME TRE RATE ANNO 2018 (COD. FAMIGLIA 5) </description>
-			<a10:updated>2018-02-15T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3871202</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3871202</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3871202</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>GARE - VERSAMENTO DEI CONTRIBUTI IN FAVORE DI ANAC IN RELAZIONE ALLE GARE DI APPALTO INDIVIDUATE NELL’ESTRATTO CONTO RELATIVAMENTE AL III QUADRIMESTRE 2017 (COD. FAMIGLIA 5) </title>
-			<description>GARE - VERSAMENTO DEI CONTRIBUTI IN FAVORE DI ANAC IN RELAZIONE ALLE GARE DI APPALTO INDIVIDUATE NELL’ESTRATTO CONTO RELATIVAMENTE AL III QUADRIMESTRE 2017 (COD. FAMIGLIA 5) </description>
 			<a10:updated>2018-02-15T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
