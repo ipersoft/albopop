@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 15 Feb 2018 18:30:40 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 16 Feb 2018 08:30:37 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Thu, 15 Feb 2018 18:30:40 +0100</pubDate>
+		<pubDate>Fri, 16 Feb 2018 08:30:37 +0100</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -70,6 +70,16 @@
 			<title>VERBALE ED ELENCO ELETTORI CIRCOSCRIZIONE ESTERO - ELEZIONI POLITICHE E REGIONALI 2018 </title>
 			<description>VERBALE ED ELENCO ELETTORI CIRCOSCRIZIONE ESTERO - ELEZIONI POLITICHE E REGIONALI 2018 </description>
 			<a10:updated>2018-02-14T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3866117</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3866117</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 16 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3866117</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
+			<title>ISTITUZIONE TEMPORANEA CHIUSURA DI VIA S. LUCIA CIV. 3. </title>
+			<description>ISTITUZIONE TEMPORANEA CHIUSURA DI VIA S. LUCIA CIV. 3. </description>
+			<a10:updated>2018-02-16T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3864700</guid>
@@ -274,16 +284,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI RILASCIO PERMESSO DI COSTRUIRE</category>
 			<title>RIF.0023943/2017 - APOSTOLI - PERMESSO DI COSTRUIRE (EDILIZIA RESIDENZIALE) (C_C948-117952) </title>
 			<description>RIF.0023943/2017 - APOSTOLI - PERMESSO DI COSTRUIRE (EDILIZIA RESIDENZIALE) (C_C948-117952) </description>
-			<a10:updated>2018-02-06T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3849486</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3849486</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 06 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3849486</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI VARI AVVISO</category>
-			<title>INVIO BANDI - COMUNE DI BOTTICINO - SCADENZA 09/03/2018 - COMUNE DI BORGOSATOLLO - COMUNE DI TORBOLE CASAGLIA - SCADENZA 08/03/2018 </title>
-			<description>INVIO BANDI - COMUNE DI BOTTICINO - SCADENZA 09/03/2018 - COMUNE DI BORGOSATOLLO - COMUNE DI TORBOLE CASAGLIA - SCADENZA 08/03/2018 </description>
 			<a10:updated>2018-02-06T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
