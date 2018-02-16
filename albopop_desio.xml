@@ -5,7 +5,7 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/igrid/1233682</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Desio</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 16 Feb 2018 14:30:37 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 16 Feb 2018 15:30:33 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Desio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Desio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_desio</a10:id>
-		<pubDate>Fri, 16 Feb 2018 14:30:37 +0100</pubDate>
+		<pubDate>Fri, 16 Feb 2018 15:30:33 +0100</pubDate>
 		<docs>http://albopop.it/comune/desio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3873948</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3873948</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 16 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3873948</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
+			<title>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA GARIBALDI - PER INTERVENTO DI POTATURA ALBERI - </title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA GARIBALDI - PER INTERVENTO DI POTATURA ALBERI - </description>
+			<a10:updated>2018-02-16T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3872708</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3872708</link>
@@ -209,16 +219,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>ELEZIONI DELLA CAMERA DEI DEPUTATI E DEL SENATO DELLA REPUBBLICA, NONCHÈ ELEZIONE DIRETTA DEL CONSIGLIO REGIONALE E DEL PRESIDENTE DELLA REGIONE LOMBARDIA DEL 4 MARZO 2018 - AFFIDAMENTO PRESTAZIONI DI SERVIZI STRETTAMENTE INDISPENSABILI ALL'ORGANIZZAZIONE TECNICA DELLE CONSULTAZIONI ( € 2.561,80 IVA COMPRESA) </title>
 			<description>ELEZIONI DELLA CAMERA DEI DEPUTATI E DEL SENATO DELLA REPUBBLICA, NONCHÈ ELEZIONE DIRETTA DEL CONSIGLIO REGIONALE E DEL PRESIDENTE DELLA REGIONE LOMBARDIA DEL 4 MARZO 2018 - AFFIDAMENTO PRESTAZIONI DI SERVIZI STRETTAMENTE INDISPENSABILI ALL'ORGANIZZAZIONE TECNICA DELLE CONSULTAZIONI ( € 2.561,80 IVA COMPRESA) </description>
-			<a10:updated>2018-02-15T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3869672</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/display/3869672</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3869672</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>APPROVAZIONE RENDICONTO SPESE FUNZIONAMENTO SOTTOCOMMISSIONI ELETTORALI CIRCONDARIALI - ANNO 2017 </title>
-			<description>APPROVAZIONE RENDICONTO SPESE FUNZIONAMENTO SOTTOCOMMISSIONI ELETTORALI CIRCONDARIALI - ANNO 2017 </description>
 			<a10:updated>2018-02-15T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
