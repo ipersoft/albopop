@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 16 Feb 2018 12:31:08 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 16 Feb 2018 13:31:11 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Fri, 16 Feb 2018 12:31:08 +0100</pubDate>
+		<pubDate>Fri, 16 Feb 2018 13:31:11 +0100</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3241451</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3241451</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 16 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3241451</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO ON LINE ORDINANZE E AVVISI</category>
+			<title>MODIFICHE TEMPORANEE ALLA VIABILITÀ IN STRADA RIPA A GAIANO PER LAVORI DI PULIZIA FOSSI </title>
+			<description>MODIFICHE TEMPORANEE ALLA VIABILITÀ IN STRADA RIPA A GAIANO PER LAVORI DI PULIZIA FOSSI </description>
+			<a10:updated>2018-02-16T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3241241</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3241241</link>
@@ -259,16 +269,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO ON LINE BANDI DI CONCORSO</category>
 			<title>POSTA CERTIFICATA: PROT.N.0001518/2018 - AVVISO DI MOBILITA ESTERNA PER LA COPERTURA DI UN POSTO DI AGENTE DI POLIZIA MUNICIPALE CAT C </title>
 			<description>POSTA CERTIFICATA: PROT.N.0001518/2018 - AVVISO DI MOBILITA ESTERNA PER LA COPERTURA DI UN POSTO DI AGENTE DI POLIZIA MUNICIPALE CAT C </description>
-			<a10:updated>2018-02-13T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3224879</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3224879</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 13 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3224879</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO ORDINANZA</category>
-			<title>ORDINANZA IN MATERIA DI SANITÀ ED IGIENE PER LA PREVENZIONE DEI RISCHI DA "PROCESSIONARIA DEL PINO" </title>
-			<description>ORDINANZA IN MATERIA DI SANITÀ ED IGIENE PER LA PREVENZIONE DEI RISCHI DA "PROCESSIONARIA DEL PINO" </description>
 			<a10:updated>2018-02-13T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

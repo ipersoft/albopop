@@ -5,7 +5,7 @@
 		<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mascalucia</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 16 Feb 2018 12:31:09 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 16 Feb 2018 13:31:12 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mascalucia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mascalucia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mascalucia</a10:id>
-		<pubDate>Fri, 16 Feb 2018 12:31:09 +0100</pubDate>
+		<pubDate>Fri, 16 Feb 2018 13:31:12 +0100</pubDate>
 		<docs>http://albopop.it/comune/mascalucia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3241682</guid>
+			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3241682</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 16 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 24 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3241682</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI STATO CIVILE (STC) PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>PUBBLICAZIONE DI MATRIMONIO PICCIONE SALVATORE / CONTI ALESSIA. </title>
+			<description>PUBBLICAZIONE DI MATRIMONIO PICCIONE SALVATORE / CONTI ALESSIA. </description>
+			<a10:updated>2018-02-16T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3241361</guid>
 			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3241361</link>
@@ -262,16 +273,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
 			<title>LIQUIDAZIONE COSTO CANONE DI ECCEDENZA COME DA CONTRATTO DI NOLEGGIO N. 2 FOTOCOPIATRICI PER GLI UFFICI DI POLIZIA MUNICIPALE. DITTA: SALVATORE FOTI S.R.L. AVENTE SEDE IN VIA GIORGIO LA PIRA N. 29 TERME VIGLIATORE (ME) P.I. N. 02838250831 C.I.G. N. Z511EF2A20 </title>
 			<description>LIQUIDAZIONE COSTO CANONE DI ECCEDENZA COME DA CONTRATTO DI NOLEGGIO N. 2 FOTOCOPIATRICI PER GLI UFFICI DI POLIZIA MUNICIPALE. DITTA: SALVATORE FOTI S.R.L. AVENTE SEDE IN VIA GIORGIO LA PIRA N. 29 TERME VIGLIATORE (ME) P.I. N. 02838250831 C.I.G. N. Z511EF2A20 </description>
-			<a10:updated>2018-02-15T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3239263</guid>
-			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3239263</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3239263</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
-			<title>FORMAZIONE ED AGGIORNAMENTO PROFESSIONALE SERVIZI PRODUTTIVI/SUAP.IMPEGNO DI SPESA </title>
-			<description>FORMAZIONE ED AGGIORNAMENTO PROFESSIONALE SERVIZI PRODUTTIVI/SUAP.IMPEGNO DI SPESA </description>
 			<a10:updated>2018-02-15T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
