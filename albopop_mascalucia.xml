@@ -5,7 +5,7 @@
 		<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mascalucia</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 16 Feb 2018 13:31:12 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 16 Feb 2018 14:31:20 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mascalucia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mascalucia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mascalucia</a10:id>
-		<pubDate>Fri, 16 Feb 2018 13:31:12 +0100</pubDate>
+		<pubDate>Fri, 16 Feb 2018 14:31:20 +0100</pubDate>
 		<docs>http://albopop.it/comune/mascalucia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3241845</guid>
+			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3241845</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 16 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 23 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3241845</category>
+			<category domain="http://albopop.it/specs#item-category-type">COMMISSIONI CONSILIARI CONVOCAZIONE II COMMISSIONE CONSILIARE</category>
+			<title>CONVOCAZIONE SEDUTE SECONDA COMMISSIONE DAL 19 AL 23 FEBBRAIO 2018. </title>
+			<description>CONVOCAZIONE SEDUTE SECONDA COMMISSIONE DAL 19 AL 23 FEBBRAIO 2018. </description>
+			<a10:updated>2018-02-16T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3241682</guid>
 			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3241682</link>
@@ -263,16 +274,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
 			<title>LIQUIDAZIONE SPESA FORNITURA PULLOVER DOLCEVITA CON ZIP PER LA POLIZIA MUNICIPALE DITTA: NARCISI UMBERTO CON SEDE IN VIA A. DI SANGIULIANO – CATANIA – P.IVA 03755770876; C.I.G. N. ZBF2183415 </title>
 			<description>LIQUIDAZIONE SPESA FORNITURA PULLOVER DOLCEVITA CON ZIP PER LA POLIZIA MUNICIPALE DITTA: NARCISI UMBERTO CON SEDE IN VIA A. DI SANGIULIANO – CATANIA – P.IVA 03755770876; C.I.G. N. ZBF2183415 </description>
-			<a10:updated>2018-02-15T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3239265</guid>
-			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3239265</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3239265</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
-			<title>LIQUIDAZIONE COSTO CANONE DI ECCEDENZA COME DA CONTRATTO DI NOLEGGIO N. 2 FOTOCOPIATRICI PER GLI UFFICI DI POLIZIA MUNICIPALE. DITTA: SALVATORE FOTI S.R.L. AVENTE SEDE IN VIA GIORGIO LA PIRA N. 29 TERME VIGLIATORE (ME) P.I. N. 02838250831 C.I.G. N. Z511EF2A20 </title>
-			<description>LIQUIDAZIONE COSTO CANONE DI ECCEDENZA COME DA CONTRATTO DI NOLEGGIO N. 2 FOTOCOPIATRICI PER GLI UFFICI DI POLIZIA MUNICIPALE. DITTA: SALVATORE FOTI S.R.L. AVENTE SEDE IN VIA GIORGIO LA PIRA N. 29 TERME VIGLIATORE (ME) P.I. N. 02838250831 C.I.G. N. Z511EF2A20 </description>
 			<a10:updated>2018-02-15T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
