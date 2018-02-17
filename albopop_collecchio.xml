@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 17 Feb 2018 11:31:14 +0100</lastBuildDate>
+		<lastBuildDate>Sat, 17 Feb 2018 12:30:54 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Sat, 17 Feb 2018 11:31:14 +0100</pubDate>
+		<pubDate>Sat, 17 Feb 2018 12:30:54 +0100</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3242557</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3242557</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 17 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3242557</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO ON LINE AVVISI ELETTORALI</category>
+			<title>ELENCO ELETTORI CHE VOTERANNO DALL'ESTERO PER LE ELEZIONI POLITICHE DEL 04 MARZO 2018 </title>
+			<description>ELENCO ELETTORI CHE VOTERANNO DALL'ESTERO PER LE ELEZIONI POLITICHE DEL 04 MARZO 2018 </description>
+			<a10:updated>2018-02-17T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3242485</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3242485</link>
@@ -259,16 +269,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
 			<title>PROGETTO “DEVELOPING STRATEGIES FOR INNOVATIVE LEARNING CONTEXTS FOSTERING INTEGRATION IN SCHOOLS”– SEMINARIO COLLECCHIO 27,28 FEBBRAIO-1°MARZO 2018. ORGANIZZAZIONE E IMPEGNO DI SPESA. </title>
 			<description>PROGETTO “DEVELOPING STRATEGIES FOR INNOVATIVE LEARNING CONTEXTS FOSTERING INTEGRATION IN SCHOOLS”– SEMINARIO COLLECCHIO 27,28 FEBBRAIO-1°MARZO 2018. ORGANIZZAZIONE E IMPEGNO DI SPESA. </description>
-			<a10:updated>2018-02-14T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3230522</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3230522</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 14 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3230522</category>
-			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
-			<title>CORSO FORMAZIONE DIPENDENTE (ALESSANDRO BERTANI- MAGGIOLI DEL 22 FEBBRAIO E ORDINE DEGLI INGEGNERI DELLA PROVINCIA DI PARMA DEL 28 FEBBRAIO 2018). IMPEGNO DI SPESA. </title>
-			<description>CORSO FORMAZIONE DIPENDENTE (ALESSANDRO BERTANI- MAGGIOLI DEL 22 FEBBRAIO E ORDINE DEGLI INGEGNERI DELLA PROVINCIA DI PARMA DEL 28 FEBBRAIO 2018). IMPEGNO DI SPESA. </description>
 			<a10:updated>2018-02-14T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

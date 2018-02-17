@@ -5,7 +5,7 @@
 		<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Felino</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 17 Feb 2018 11:30:54 +0100</lastBuildDate>
+		<lastBuildDate>Sat, 17 Feb 2018 12:30:34 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Felino</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Felino</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_felino</a10:id>
-		<pubDate>Sat, 17 Feb 2018 11:30:54 +0100</pubDate>
+		<pubDate>Sat, 17 Feb 2018 12:30:34 +0100</pubDate>
 		<docs>http://albopop.it/comune/felino/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3242550</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3242550</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 17 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 25 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3242550</category>
+			<category domain="http://albopop.it/specs#item-category-type">A001 PUBBLICAZIONI MATRIMONIO</category>
+			<title>ATTO DI PUBBLICAZIONE DI MATRIMONIO DI RUSSO UMBERTO CON TORTOROLI SIMONA </title>
+			<description>ATTO DI PUBBLICAZIONE DI MATRIMONIO DI RUSSO UMBERTO CON TORTOROLI SIMONA </description>
+			<a10:updated>2018-02-17T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3242353</guid>
 			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3242353</link>
@@ -274,16 +285,6 @@
 			<title>CONSULTE DI PARTECIPAZIONE - COMPOSIZIONE. </title>
 			<description>CONSULTE DI PARTECIPAZIONE - COMPOSIZIONE. </description>
 			<a10:updated>2018-01-19T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3168076</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3168076</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 18 Jan 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3168076</category>
-			<category domain="http://albopop.it/specs#item-category-type">A003 AVVISI ELETTORALI </category>
-			<title>CONVOCAZIONE COMIZI ELETTORALI PER LE ELEZIONI POLITICHE DI DOMENICA 4 MARZO 2018. </title>
-			<description>CONVOCAZIONE COMIZI ELETTORALI PER LE ELEZIONI POLITICHE DI DOMENICA 4 MARZO 2018. </description>
-			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
