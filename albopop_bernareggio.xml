@@ -5,7 +5,7 @@
 		<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bernareggio</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 17 Feb 2018 09:30:42 +0100</lastBuildDate>
+		<lastBuildDate>Sat, 17 Feb 2018 10:30:43 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bernareggio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bernareggio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bernareggio</a10:id>
-		<pubDate>Sat, 17 Feb 2018 09:30:42 +0100</pubDate>
+		<pubDate>Sat, 17 Feb 2018 10:30:43 +0100</pubDate>
 		<docs>http://albopop.it/comune/bernareggio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3874486</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3874486</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 17 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3874486</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI</category>
+			<title>POSTA CERTIFICATA: RICHIESTA PUBBLICAZIONE BANDO MOBILITÀ GEOMETRA C </title>
+			<description>POSTA CERTIFICATA: RICHIESTA PUBBLICAZIONE BANDO MOBILITÀ GEOMETRA C </description>
+			<a10:updated>2018-02-17T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3872923</guid>
 			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3872923</link>
@@ -260,16 +270,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
 			<title>APPROVAZIONE VARIAZIONE AL PIANO ESECUTIVO DI GESTIONE E DELLA PERFORMANCE 2018/2020. </title>
 			<description>APPROVAZIONE VARIAZIONE AL PIANO ESECUTIVO DI GESTIONE E DELLA PERFORMANCE 2018/2020. </description>
-			<a10:updated>2018-02-14T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3866363</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3866363</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 14 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3866363</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZE</category>
-			<title>ISTITUZIONE SENSO UNICO ALTERNATO IN VIA DEL COMMERCIO E IN VIA DELL'ARTIGIANATO DALLE ORE 00.00 DEL 19/02/2018 ALLE ORE 24.00 DEL 31/08/2018 </title>
-			<description>ISTITUZIONE SENSO UNICO ALTERNATO IN VIA DEL COMMERCIO E IN VIA DELL'ARTIGIANATO DALLE ORE 00.00 DEL 19/02/2018 ALLE ORE 24.00 DEL 31/08/2018 </description>
 			<a10:updated>2018-02-14T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
