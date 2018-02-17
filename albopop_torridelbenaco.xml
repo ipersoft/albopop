@@ -5,7 +5,7 @@
 		<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Torri del Benaco</description>
 		<language>it</language>
-		<lastBuildDate>Fri, 16 Feb 2018 18:31:11 +0100</lastBuildDate>
+		<lastBuildDate>Sat, 17 Feb 2018 08:31:08 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Torri del Benaco</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Verona</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Torri del Benaco</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_torridelbenaco</a10:id>
-		<pubDate>Fri, 16 Feb 2018 18:31:11 +0100</pubDate>
+		<pubDate>Sat, 17 Feb 2018 08:31:08 +0100</pubDate>
 		<docs>http://albopop.it/comune/torridelbenaco/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3874208</guid>
+			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3874208</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 17 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3874208</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISO 30 GIORNI</category>
+			<title>MANIFESTO CANDIDATURE ELEZIONI DELLA CAMERA DEI DEPUTATI - ANNO 2018 </title>
+			<description>MANIFESTO CANDIDATURE ELEZIONI DELLA CAMERA DEI DEPUTATI - ANNO 2018 </description>
+			<a10:updated>2018-02-17T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3873632</guid>
 			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3873632</link>
@@ -259,16 +269,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>ASSOCIAZIONE PRO LOCO DI TORRI DEL BENACO. EROGAZIONE ACCONTO SU CONTRIBUTO ATTIVITA' ISTITUZIONALI ANNO 2018. </title>
 			<description>ASSOCIAZIONE PRO LOCO DI TORRI DEL BENACO. EROGAZIONE ACCONTO SU CONTRIBUTO ATTIVITA' ISTITUZIONALI ANNO 2018. </description>
-			<a10:updated>2018-02-14T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3866592</guid>
-			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3866592</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 14 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3866592</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>TASSA DI CIRCOLAZIONE AUTOMEZZI COMUNALI ANNO 2018. PROVVEDIMENTI. </title>
-			<description>TASSA DI CIRCOLAZIONE AUTOMEZZI COMUNALI ANNO 2018. PROVVEDIMENTI. </description>
 			<a10:updated>2018-02-14T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
