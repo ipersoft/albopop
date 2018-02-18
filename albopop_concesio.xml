@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Sat, 17 Feb 2018 18:30:31 +0100</lastBuildDate>
+		<lastBuildDate>Sun, 18 Feb 2018 08:30:33 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,7 +16,7 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Sat, 17 Feb 2018 18:30:31 +0100</pubDate>
+		<pubDate>Sun, 18 Feb 2018 08:30:33 +0100</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -102,17 +102,6 @@
 			<title>VERBALE ED ELENCO ELETTORI CIRCOSCRIZIONE ESTERO - ELEZIONI POLITICHE E REGIONALI 2018 </title>
 			<description>VERBALE ED ELENCO ELETTORI CIRCOSCRIZIONE ESTERO - ELEZIONI POLITICHE E REGIONALI 2018 </description>
 			<a10:updated>2018-02-14T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3866117</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3866117</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 16 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 17 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3866117</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
-			<title>ISTITUZIONE TEMPORANEA CHIUSURA DI VIA S. LUCIA CIV. 3. </title>
-			<description>ISTITUZIONE TEMPORANEA CHIUSURA DI VIA S. LUCIA CIV. 3. </description>
-			<a10:updated>2018-02-16T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3864700</guid>
@@ -284,6 +273,17 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>ASSUNZIONE IMPEGNO DI SPESA A FAVORE DELL'ATS DI BRESCIA PER IL PAGAMENTO DEI DIRITTI SANITARI </title>
 			<description>ASSUNZIONE IMPEGNO DI SPESA A FAVORE DELL'ATS DI BRESCIA PER IL PAGAMENTO DEI DIRITTI SANITARI </description>
+			<a10:updated>2018-02-07T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3850860</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3850860</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 07 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 22 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3850860</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
+			<title> ASSUNZIONE IMPEGNO DI SPESA A FAVORE DELLA DITTA PAXFILM PER LA PROIEZIONE DEI FILMS D'ANIMAZIONE "SING" E "IL GRANDE GIGANTE GENTILE" IN OCCASIONE DEL CARNEVALE 2018. </title>
+			<description> ASSUNZIONE IMPEGNO DI SPESA A FAVORE DELLA DITTA PAXFILM PER LA PROIEZIONE DEI FILMS D'ANIMAZIONE "SING" E "IL GRANDE GIGANTE GENTILE" IN OCCASIONE DEL CARNEVALE 2018. </description>
 			<a10:updated>2018-02-07T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
