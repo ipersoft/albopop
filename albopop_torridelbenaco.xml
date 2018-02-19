@@ -5,7 +5,7 @@
 		<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Torri del Benaco</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 19 Feb 2018 12:31:33 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 19 Feb 2018 13:31:12 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Torri del Benaco</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Verona</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Torri del Benaco</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_torridelbenaco</a10:id>
-		<pubDate>Mon, 19 Feb 2018 12:31:33 +0100</pubDate>
+		<pubDate>Mon, 19 Feb 2018 13:31:12 +0100</pubDate>
 		<docs>http://albopop.it/comune/torridelbenaco/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3876273</guid>
+			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3876273</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 19 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3876273</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISO</category>
+			<title>CAUTA NAVIGAZIONE NELLE ACQUE DEL LAGO DI GARDA TRA CASTELLETTO E BRENZONE PER LO SVOLGIMENTO DELLA REGATA INTERZONALE J24 SABATO 3 E DOMENICA 4 MARZO 2018- TRASMISSIONE ORDINANZA N. 45 DEL 16 FEBBRAIO 2018 </title>
+			<description>CAUTA NAVIGAZIONE NELLE ACQUE DEL LAGO DI GARDA TRA CASTELLETTO E BRENZONE PER LO SVOLGIMENTO DELLA REGATA INTERZONALE J24 SABATO 3 E DOMENICA 4 MARZO 2018- TRASMISSIONE ORDINANZA N. 45 DEL 16 FEBBRAIO 2018 </description>
+			<a10:updated>2018-02-19T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3875888</guid>
 			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3875888</link>
@@ -259,16 +269,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>FORNITURA FORMELLE PER OMAGGI MATRIMONI CIVILI. AFFIDAMENTO INCARICO ALLA COOPERATIVA SOCIALE ONLUS LA TROTTOLA DI VERONA. </title>
 			<description>FORNITURA FORMELLE PER OMAGGI MATRIMONI CIVILI. AFFIDAMENTO INCARICO ALLA COOPERATIVA SOCIALE ONLUS LA TROTTOLA DI VERONA. </description>
-			<a10:updated>2018-02-14T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3866768</guid>
-			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3866768</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 14 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3866768</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>LIQUIDAZIONE ACCESSORIO PERSONALE AREA VIGILANZA E TERRITORIO MESE DI FEBBRAIO 2018. </title>
-			<description>LIQUIDAZIONE ACCESSORIO PERSONALE AREA VIGILANZA E TERRITORIO MESE DI FEBBRAIO 2018. </description>
 			<a10:updated>2018-02-14T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
