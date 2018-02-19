@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Sun, 18 Feb 2018 18:30:50 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 19 Feb 2018 08:31:08 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,32 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Sun, 18 Feb 2018 18:30:50 +0100</pubDate>
+		<pubDate>Mon, 19 Feb 2018 08:31:08 +0100</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3242833</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3242833</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 19 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3242833</category>
+			<category domain="http://albopop.it/specs#item-category-type">GARE,BANDI,CONCORSI GARE, BANDI,CONCORSI</category>
+			<title>GRADUATORIA AVVISO PUBBLICO CAPRISERVIZI </title>
+			<description>GRADUATORIA AVVISO PUBBLICO CAPRISERVIZI </description>
+			<a10:updated>2018-02-19T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3242831</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3242831</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 19 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 27 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3242831</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO DEPOSITO ATTI PRESSO LA CASA COMUNALE</category>
+			<title>AVVISO DEPOSITO ATTO MESSO COMUNALE: NOTIFICA N. 44/2018 DEL 06/02/2018 </title>
+			<description>AVVISO DEPOSITO ATTO MESSO COMUNALE: NOTIFICA N. 44/2018 DEL 06/02/2018 </description>
+			<a10:updated>2018-02-19T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3241839</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3241839</link>
@@ -251,28 +272,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO DEPOSITO ATTI PRESSO LA CASA COMUNALE</category>
 			<title>AVVISO DEPOSITO ATTO MESSO COMUNALE: NOTIFICA N. 37/2018 DEL 05/02/2018 </title>
 			<description>AVVISO DEPOSITO ATTO MESSO COMUNALE: NOTIFICA N. 37/2018 DEL 05/02/2018 </description>
-			<a10:updated>2018-02-13T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3230430</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3230430</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 13 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 21 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3230430</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO DEPOSITO ATTI PRESSO LA CASA COMUNALE</category>
-			<title>AVVISO DEPOSITO ATTO MESSO COMUNALE: NOTIFICA N. 36/2018 DEL 05/02/2018 </title>
-			<description>AVVISO DEPOSITO ATTO MESSO COMUNALE: NOTIFICA N. 36/2018 DEL 05/02/2018 </description>
-			<a10:updated>2018-02-13T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3230173</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3230173</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 13 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 28 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3230173</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
-			<title>SERVIZI GIURIDICI DI SUPPORTO SPECIALISTICO AL R.U.P. INERENTEMENTE ALLE FASI SUCCESSIVE PREVISTE DALL'ART. 183, COMMA 15, DEL D. LGS. N. 50/2016, RIGUARDANTI LA PROPOSTA AD INIZIATIVA PRIVATA DENOMINATA "RIPRISTINO, MANUTENZIONE E GESTIONE DI VIA KRUPP". LIQUIDAZIONE DELLA FATTURA DEL DOTT. FORTUNATO GIANPIERO DI SALERNO A TITOLO DI ACCONTO. </title>
-			<description>SERVIZI GIURIDICI DI SUPPORTO SPECIALISTICO AL R.U.P. INERENTEMENTE ALLE FASI SUCCESSIVE PREVISTE DALL'ART. 183, COMMA 15, DEL D. LGS. N. 50/2016, RIGUARDANTI LA PROPOSTA AD INIZIATIVA PRIVATA DENOMINATA "RIPRISTINO, MANUTENZIONE E GESTIONE DI VIA KRUPP". LIQUIDAZIONE DELLA FATTURA DEL DOTT. FORTUNATO GIANPIERO DI SALERNO A TITOLO DI ACCONTO. </description>
 			<a10:updated>2018-02-13T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
