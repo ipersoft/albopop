@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 19 Feb 2018 11:31:11 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 19 Feb 2018 12:31:11 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Mon, 19 Feb 2018 11:31:11 +0100</pubDate>
+		<pubDate>Mon, 19 Feb 2018 12:31:11 +0100</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3876202</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3876202</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 19 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3876202</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>MODIFICA TEMPORANEA ALLA CIRCOLAZIONE VEICOLARE NEI TRATTI DI VIABILITÀ POSTI TRA LE INTERSEZIONI DEGLI IMPIANTI SEMAFORICI IN VIA CAVALLETTI, VIA L. PAPI, VIALE CARLO DEL PRETE E PORTA SAN DONATO,PER LAVORI DI SCARIFICA E NUOVA ASFALTATURA. PERIODO : 20 - 22 FEBBARIO 2018. </title>
+			<description>MODIFICA TEMPORANEA ALLA CIRCOLAZIONE VEICOLARE NEI TRATTI DI VIABILITÀ POSTI TRA LE INTERSEZIONI DEGLI IMPIANTI SEMAFORICI IN VIA CAVALLETTI, VIA L. PAPI, VIALE CARLO DEL PRETE E PORTA SAN DONATO,PER LAVORI DI SCARIFICA E NUOVA ASFALTATURA. PERIODO : 20 - 22 FEBBARIO 2018. </description>
+			<a10:updated>2018-02-19T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3875342</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3875342</link>
@@ -264,16 +274,6 @@
 			<title>RICHIESTA DI PUBBLICAZIONE ALL`ALBO PER CINQUE GIORNI DELL`AVVISO DI VENDITA IMMOBILIARE (PORZIONE DI FABBRICATO POSTA IN UN COMPLESSO IMMOBILIARE POLIFUNZIONALE SITO IN FRAZ. PONTE A MORIANO) - REPERTORIO N.1991 </title>
 			<description>RICHIESTA DI PUBBLICAZIONE ALL`ALBO PER CINQUE GIORNI DELL`AVVISO DI VENDITA IMMOBILIARE (PORZIONE DI FABBRICATO POSTA IN UN COMPLESSO IMMOBILIARE POLIFUNZIONALE SITO IN FRAZ. PONTE A MORIANO) - REPERTORIO N.1991 </description>
 			<a10:updated>2018-02-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3871465</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3871465</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3871465</category>
-			<category domain="http://albopop.it/specs#item-category-type">REGOLAMENTI</category>
-			<title>REGOLAMENTO PER LA DISCIPLINA DELL’IMPOSTA UNICA COMUNALE (IUC) - MODIFICHE E INTEGRAZIONI APPROVATE DAL CONSIGLIO COMUNALE CON DELIBERAZIONE N.7 DEL 06/02/2018 </title>
-			<description>REGOLAMENTO PER LA DISCIPLINA DELL’IMPOSTA UNICA COMUNALE (IUC) - MODIFICHE E INTEGRAZIONI APPROVATE DAL CONSIGLIO COMUNALE CON DELIBERAZIONE N.7 DEL 06/02/2018 </description>
-			<a10:updated>2018-02-15T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
