@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 19 Feb 2018 09:30:39 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 19 Feb 2018 10:30:43 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,42 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Mon, 19 Feb 2018 09:30:39 +0100</pubDate>
+		<pubDate>Mon, 19 Feb 2018 10:30:43 +0100</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/890473</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/890473</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 19 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">890473</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PUBBLICAZIONI RICHIESTE DA SOGGETTI ESTERNI</category>
+			<title>AUTORIZZAZIONE N. 746/2018 - ABBATTIMENTO PIANTE TUTELATE PRIVATE - TREBBIO DELLA SCONFITTA </title>
+			<description>AUTORIZZAZIONE N. 746/2018 - ABBATTIMENTO PIANTE TUTELATE PRIVATE - TREBBIO DELLA SCONFITTA </description>
+			<a10:updated>2018-02-19T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/890400</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/890400</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 19 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">890400</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PUBBLICAZIONI RICHIESTE DA SOGGETTI ESTERNI</category>
+			<title>AUTORIZZAZIONE N. 752/2018 - ABBATTIMENTO PIANTE TUTELATE PRIVATE IN VIA TREBBIO DELLA SCONFITTA </title>
+			<description>AUTORIZZAZIONE N. 752/2018 - ABBATTIMENTO PIANTE TUTELATE PRIVATE IN VIA TREBBIO DELLA SCONFITTA </description>
+			<a10:updated>2018-02-19T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/890372</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/890372</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 19 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 20 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">890372</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PUBBLICAZIONI RICHIESTE DA SOGGETTI ESTERNI</category>
+			<title>AVVISO DI DEPOSITO - ART. 26 DPR 602/73, ART. 60 DPR 600/73, ART. 140 CPC - IRREPERIBILI - AVVISI PROT. N. 1202 </title>
+			<description>AVVISO DI DEPOSITO - ART. 26 DPR 602/73, ART. 60 DPR 600/73, ART. 140 CPC - IRREPERIBILI - AVVISI PROT. N. 1202 </description>
+			<a10:updated>2018-02-19T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/890291</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/890291</link>
@@ -243,37 +274,6 @@
 			<title>NIDO D'INFANZIA "CUCCIOLO" - M'ILLUMINO DI MENO - VIA DEL NOVECENTO - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </title>
 			<description>NIDO D'INFANZIA "CUCCIOLO" - M'ILLUMINO DI MENO - VIA DEL NOVECENTO - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </description>
 			<a10:updated>2018-02-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/889070</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/889070</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 16 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">889070</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
-			<title>DE ANGELIS BRUNO &amp; FIGLI SRL - VIALE TRIESTE N. 20/26 - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </title>
-			<description>DE ANGELIS BRUNO &amp; FIGLI SRL - VIALE TRIESTE N. 20/26 - PROVVEDIMENTI VARI DI MODIFICA ALLA VIABILITA' ORDINARIA - DISCIPLINA DELLA CIRCOLAZIONE E DELLA SOSTA DEI VEICOLI. </description>
-			<a10:updated>2018-02-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/888815</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/888815</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 19 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">888815</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALBO CONVOCAZIONI CONSIGLIO COMMISSIONI ETC</category>
-			<title>CONVOCAZIONE CONSIGLIO COMUNALE LUNEDI' 19 FEBBRAIO 2018 </title>
-			<description>CONVOCAZIONE CONSIGLIO COMUNALE LUNEDI' 19 FEBBRAIO 2018 </description>
-			<a10:updated>2018-02-15T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/888668</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/888668</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">888668</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>VARIAZIONI DI COMPETENZA GESTIONALE AI SENSI DEL COMMA 5-QUATER, ART.175 TUEL </title>
-			<description>VARIAZIONI DI COMPETENZA GESTIONALE AI SENSI DEL COMMA 5-QUATER, ART.175 TUEL </description>
-			<a10:updated>2018-02-15T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>

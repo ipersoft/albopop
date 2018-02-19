@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Mon, 19 Feb 2018 09:30:59 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 19 Feb 2018 10:31:14 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,41 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Mon, 19 Feb 2018 09:30:59 +0100</pubDate>
+		<pubDate>Mon, 19 Feb 2018 10:31:14 +0100</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3875342</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3875342</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 19 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3875342</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>VIA S.ZITA,CENTRO STORICO,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE,DAL 26/02/2018 AL 27/02/2018. </title>
+			<description>VIA S.ZITA,CENTRO STORICO,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE,DAL 26/02/2018 AL 27/02/2018. </description>
+			<a10:updated>2018-02-19T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3875340</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3875340</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 19 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3875340</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>VIA AUGUSTO PASSAGLIA,FRAZIONE DI S.MARCO,MODIFICHE TEMPORANEE ALLA SOSTA ED ALLA CIRCOLAZIONE VEICOLARE, DAL 21/02/2018 AL 23/02/2018. </title>
+			<description>VIA AUGUSTO PASSAGLIA,FRAZIONE DI S.MARCO,MODIFICHE TEMPORANEE ALLA SOSTA ED ALLA CIRCOLAZIONE VEICOLARE, DAL 21/02/2018 AL 23/02/2018. </description>
+			<a10:updated>2018-02-19T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3875338</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3875338</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 19 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3875338</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>VIALE S.CONCORDIO,FRAZIONE DI S.CONCORDIO IN C/A,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE ED ALLA SOSTA,PER IL 26/02/2018. </title>
+			<description>VIALE S.CONCORDIO,FRAZIONE DI S.CONCORDIO IN C/A,MODIFICHE TEMPORANEE ALLA CIRCOLAZIONE VEICOLARE ED ALLA SOSTA,PER IL 26/02/2018. </description>
+			<a10:updated>2018-02-19T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3874689</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3874689</link>
@@ -243,37 +273,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">REGOLAMENTI</category>
 			<title>REGOLAMENTO PER LA DISCIPLINA DELL’IMPOSTA UNICA COMUNALE (IUC) - MODIFICHE E INTEGRAZIONI APPROVATE DAL CONSIGLIO COMUNALE CON DELIBERAZIONE N.7 DEL 06/02/2018 </title>
 			<description>REGOLAMENTO PER LA DISCIPLINA DELL’IMPOSTA UNICA COMUNALE (IUC) - MODIFICHE E INTEGRAZIONI APPROVATE DAL CONSIGLIO COMUNALE CON DELIBERAZIONE N.7 DEL 06/02/2018 </description>
-			<a10:updated>2018-02-15T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3871220</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3871220</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 16 Apr 2018 02:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3871220</category>
-			<category domain="http://albopop.it/specs#item-category-type">AVVISI E BANDI VARI</category>
-			<title>AVVISO PUBBLICO PER LA PRESENTAZIONE DI CANDIDATURE PER LA NOMINA E LA DESIGNAZIONE DEI RAPPRESENTANTI DEL COMUNE DI LUCCA PRESSO ENTI, AZIENDE ED ISTITUZIONI – ANNO 2018. </title>
-			<description>AVVISO PUBBLICO PER LA PRESENTAZIONE DI CANDIDATURE PER LA NOMINA E LA DESIGNAZIONE DEI RAPPRESENTANTI DEL COMUNE DI LUCCA PRESSO ENTI, AZIENDE ED ISTITUZIONI – ANNO 2018. </description>
-			<a10:updated>2018-02-15T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3871217</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3871217</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3871217</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>CARTIERE MODESTO CARDELLA/COMUNE DI LUCCA – RICORSO AL TAR TOSCANA (RG. 852/17). INCARICO ALL'AVV. GRAZIELLA FERRARONI – IMPEGNO DI SPESA (CONTENUTO&gt;INCARICHI PROFESSIONALI ESTERNI E DI COLLABORAZIONE – FAMIGLIA 8). </title>
-			<description>CARTIERE MODESTO CARDELLA/COMUNE DI LUCCA – RICORSO AL TAR TOSCANA (RG. 852/17). INCARICO ALL'AVV. GRAZIELLA FERRARONI – IMPEGNO DI SPESA (CONTENUTO&gt;INCARICHI PROFESSIONALI ESTERNI E DI COLLABORAZIONE – FAMIGLIA 8). </description>
-			<a10:updated>2018-02-15T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3871214</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3871214</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3871214</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>PROVVEDITORATO: ACQUISIZIONE DEL MATERIALE VARIO DI CONSUMO A SUPPORTO DELLE ATTIVITA' DEL SERVIZIO ELETTORALE E DEI SEGGI PER L'ESPLETAMENTO DELLE ELEZIONI POLITICHE DEL 04/03/2018. (FAMIGLIA 5 – ATTI INERENTI E CONSEGUENTI GLI AFFIDAMENTI). </title>
-			<description>PROVVEDITORATO: ACQUISIZIONE DEL MATERIALE VARIO DI CONSUMO A SUPPORTO DELLE ATTIVITA' DEL SERVIZIO ELETTORALE E DEI SEGGI PER L'ESPLETAMENTO DELLE ELEZIONI POLITICHE DEL 04/03/2018. (FAMIGLIA 5 – ATTI INERENTI E CONSEGUENTI GLI AFFIDAMENTI). </description>
 			<a10:updated>2018-02-15T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
