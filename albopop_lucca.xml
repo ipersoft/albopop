@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 20 Feb 2018 09:31:14 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 20 Feb 2018 10:31:07 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Tue, 20 Feb 2018 09:31:14 +0100</pubDate>
+		<pubDate>Tue, 20 Feb 2018 10:31:07 +0100</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3878290</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3878290</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 21 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3878290</category>
+			<category domain="http://albopop.it/specs#item-category-type">DEPOSITO ATTI CASA COMUNALE</category>
+			<title>AGENZIA ENTRATE RISCOSSIONE ART. 60/E ELENCO IRR 2 19/2/2018 </title>
+			<description>AGENZIA ENTRATE RISCOSSIONE ART. 60/E ELENCO IRR 2 19/2/2018 </description>
+			<a10:updated>2018-02-20T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3877723</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3877723</link>
@@ -259,16 +270,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
 			<title>PIAZZA BERNARDINI, LATO SUD, MODIFICHE TEMPORANEE ALLA SOSTA E ALLA CIRCOLAZIONE DAL GIORNO 19 FEBBRAIO 2018 AL GIORNO 10 MARZO 2018 PER LAVORI DI SOSTITUZIONE TUBATURE DEL GAS METANO PER CONTO DI GESAM SPA, NELL'AMBITO DEL PROGETTO DI RIQUALIFICAZIONE DELLE PIAZZE MERCATALI DEL CENTRO STORICO. </title>
 			<description>PIAZZA BERNARDINI, LATO SUD, MODIFICHE TEMPORANEE ALLA SOSTA E ALLA CIRCOLAZIONE DAL GIORNO 19 FEBBRAIO 2018 AL GIORNO 10 MARZO 2018 PER LAVORI DI SOSTITUZIONE TUBATURE DEL GAS METANO PER CONTO DI GESAM SPA, NELL'AMBITO DEL PROGETTO DI RIQUALIFICAZIONE DELLE PIAZZE MERCATALI DEL CENTRO STORICO. </description>
-			<a10:updated>2018-02-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3872215</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3872215</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 16 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3872215</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>(OP) ISTITUZIONE DELLA CIRCOLAZIONE A ROTATORIA ALL'INTERSEZIONE TRA VIALE GIUSTI, VIA OBERDAN, VIA DEI PUBBLICI MACELLI, VIA CANTORE, E VIALE PACINI, ED ALTRI PROVVEDIMENTI, A PARTIRE DAL GIORNO 15 FEBBRAIO 2018. </title>
-			<description>(OP) ISTITUZIONE DELLA CIRCOLAZIONE A ROTATORIA ALL'INTERSEZIONE TRA VIALE GIUSTI, VIA OBERDAN, VIA DEI PUBBLICI MACELLI, VIA CANTORE, E VIALE PACINI, ED ALTRI PROVVEDIMENTI, A PARTIRE DAL GIORNO 15 FEBBRAIO 2018. </description>
 			<a10:updated>2018-02-16T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

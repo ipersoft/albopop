@@ -5,7 +5,7 @@
 		<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bernareggio</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 20 Feb 2018 09:30:58 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 20 Feb 2018 10:30:53 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bernareggio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bernareggio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bernareggio</a10:id>
-		<pubDate>Tue, 20 Feb 2018 09:30:58 +0100</pubDate>
+		<pubDate>Tue, 20 Feb 2018 10:30:53 +0100</pubDate>
 		<docs>http://albopop.it/comune/bernareggio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3878353</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3878353</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3878353</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI</category>
+			<title>POSTA CERTIFICATA: AVVISO DI MOBILITÀ VOLONTARIA AI SENSI DELL'ART. 30 DEL D.LGS. 165/2001 E S.M.I. PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO ED INDETERMINATO DI AGENTE DI POLIZIA LOCALE - CATEGORIA GIURIDICA "C" </title>
+			<description>POSTA CERTIFICATA: AVVISO DI MOBILITÀ VOLONTARIA AI SENSI DELL'ART. 30 DEL D.LGS. 165/2001 E S.M.I. PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO ED INDETERMINATO DI AGENTE DI POLIZIA LOCALE - CATEGORIA GIURIDICA "C" </description>
+			<a10:updated>2018-02-20T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3877110</guid>
 			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3877110</link>
@@ -261,16 +271,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>CIG: ZC322440BC - INDIZIONE PROCEDURA RISTRETTA PER L'AFFIDAMENTO DEL SERVIZIO DI REALIZZAZIONE E MANTENIMENTO IN EFFICIENZA DELLA SEGNALETICA STRADALE ANNO 2018 </title>
 			<description>CIG: ZC322440BC - INDIZIONE PROCEDURA RISTRETTA PER L'AFFIDAMENTO DEL SERVIZIO DI REALIZZAZIONE E MANTENIMENTO IN EFFICIENZA DELLA SEGNALETICA STRADALE ANNO 2018 </description>
-			<a10:updated>2018-02-15T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3868353</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3868353</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3868353</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>CIG: ZEF2248E49- INTEGRAZIONE SPESA ASSUNTO CON DETERMINAZIONE N. 212/2016 AVENTE PER OGGETTO "CONFERIMENTO INCARICO AVV. ORLANDI PER ASSISTENZA IN GIUDIZIO PER CONVALIDA SFRATTO PER MOROSITA'" </title>
-			<description>CIG: ZEF2248E49- INTEGRAZIONE SPESA ASSUNTO CON DETERMINAZIONE N. 212/2016 AVENTE PER OGGETTO "CONFERIMENTO INCARICO AVV. ORLANDI PER ASSISTENZA IN GIUDIZIO PER CONVALIDA SFRATTO PER MOROSITA'" </description>
 			<a10:updated>2018-02-15T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
