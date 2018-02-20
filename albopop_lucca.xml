@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 20 Feb 2018 10:31:07 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 20 Feb 2018 11:31:10 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,32 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Tue, 20 Feb 2018 10:31:07 +0100</pubDate>
+		<pubDate>Tue, 20 Feb 2018 11:31:10 +0100</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3878960</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3878960</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3878960</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>(PT 37-C/2016 EX 47/2015) LAVORI DI RIQUALIFICAZIONE IGIENICA, ENERGETICA, IMPIANTISTICA E ABBATTIMENTO BARRIERE ARCHITETTONICHE DELLA SCUOLA PRIMARIA DI S.ANGELO IN CAMPO. APPROVAZIONE DEL CERTIFICATO DI REGOLARE ESECUZIONE DI CUI ALLA DD 177/2018 - RETTIFICA DELLA RELAZIONE AL CONTO FINALE. (FAMIGLIA ATTI: 05 - ATTI INERENTI LL.SS.FF) </title>
+			<description>(PT 37-C/2016 EX 47/2015) LAVORI DI RIQUALIFICAZIONE IGIENICA, ENERGETICA, IMPIANTISTICA E ABBATTIMENTO BARRIERE ARCHITETTONICHE DELLA SCUOLA PRIMARIA DI S.ANGELO IN CAMPO. APPROVAZIONE DEL CERTIFICATO DI REGOLARE ESECUZIONE DI CUI ALLA DD 177/2018 - RETTIFICA DELLA RELAZIONE AL CONTO FINALE. (FAMIGLIA ATTI: 05 - ATTI INERENTI LL.SS.FF) </description>
+			<a10:updated>2018-02-20T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3878959</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3878959</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 28 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3878959</category>
+			<category domain="http://albopop.it/specs#item-category-type">DEPOSITO ATTI CASA COMUNALE</category>
+			<title> ARTICOLO 60 COMMA E) DPR 600/73 BOTTURA RICCARDO REP. 360/2018 - NOTIFICA ATTO </title>
+			<description> ARTICOLO 60 COMMA E) DPR 600/73 BOTTURA RICCARDO REP. 360/2018 - NOTIFICA ATTO </description>
+			<a10:updated>2018-02-20T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3878290</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3878290</link>
@@ -250,26 +271,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">OGGETTI SMARRITI</category>
 			<title>DENUNCIA DI SMARRIMENTO DI TELEFONO CELLULARE - PRATIVA N. 2370 DEL 16/02/2018. </title>
 			<description>DENUNCIA DI SMARRIMENTO DI TELEFONO CELLULARE - PRATIVA N. 2370 DEL 16/02/2018. </description>
-			<a10:updated>2018-02-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3872220</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3872220</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 16 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3872220</category>
-			<category domain="http://albopop.it/specs#item-category-type">CONVOCAZIONI</category>
-			<title>CONVOCAZIONE COMMISSIONE POLITICHE SOCIALI, ABITATIVE E DELLA SALUTE PER MERCOLEDÌ 21.02.2018 ORE 9.30 C/O SALA BIBLIOTECA </title>
-			<description>CONVOCAZIONE COMMISSIONE POLITICHE SOCIALI, ABITATIVE E DELLA SALUTE PER MERCOLEDÌ 21.02.2018 ORE 9.30 C/O SALA BIBLIOTECA </description>
-			<a10:updated>2018-02-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3872217</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3872217</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 16 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3872217</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
-			<title>PIAZZA BERNARDINI, LATO SUD, MODIFICHE TEMPORANEE ALLA SOSTA E ALLA CIRCOLAZIONE DAL GIORNO 19 FEBBRAIO 2018 AL GIORNO 10 MARZO 2018 PER LAVORI DI SOSTITUZIONE TUBATURE DEL GAS METANO PER CONTO DI GESAM SPA, NELL'AMBITO DEL PROGETTO DI RIQUALIFICAZIONE DELLE PIAZZE MERCATALI DEL CENTRO STORICO. </title>
-			<description>PIAZZA BERNARDINI, LATO SUD, MODIFICHE TEMPORANEE ALLA SOSTA E ALLA CIRCOLAZIONE DAL GIORNO 19 FEBBRAIO 2018 AL GIORNO 10 MARZO 2018 PER LAVORI DI SOSTITUZIONE TUBATURE DEL GAS METANO PER CONTO DI GESAM SPA, NELL'AMBITO DEL PROGETTO DI RIQUALIFICAZIONE DELLE PIAZZE MERCATALI DEL CENTRO STORICO. </description>
 			<a10:updated>2018-02-16T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

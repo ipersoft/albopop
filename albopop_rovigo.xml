@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 20 Feb 2018 10:31:12 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 20 Feb 2018 11:31:15 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Tue, 20 Feb 2018 10:31:12 +0100</pubDate>
+		<pubDate>Tue, 20 Feb 2018 11:31:15 +0100</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3245632</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3245632</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3245632</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI ALTRI ENTI ATTI DIVERSI</category>
+			<title>AVVISO PER CAMBIAMENTO DI COGNOME DELLA FIGLIA MINORE DA CREPALDI ELEONORA A CREPALDI ARDUIN ELEONORA </title>
+			<description>AVVISO PER CAMBIAMENTO DI COGNOME DELLA FIGLIA MINORE DA CREPALDI ELEONORA A CREPALDI ARDUIN ELEONORA </description>
+			<a10:updated>2018-02-20T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3245104</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3245104</link>
@@ -262,16 +272,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
 			<title>RIMBORSO AD ALTRE AMMINISTRAZIONI PER NOTIFICHE TRAMITE MESSI COMUNALI DEI VERBALI RELATIVI A SANZIONI AMMINISTRATIVE. IMPEGNO DI SPESA. </title>
 			<description>RIMBORSO AD ALTRE AMMINISTRAZIONI PER NOTIFICHE TRAMITE MESSI COMUNALI DEI VERBALI RELATIVI A SANZIONI AMMINISTRATIVE. IMPEGNO DI SPESA. </description>
-			<a10:updated>2018-02-19T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3243344</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3243344</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 19 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3243344</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>COINTESTAZIONE PERMESSO DI COSTRUIRE N. 124 DEL 11/10/2016 U.T. 207/16, RILASCIATO ALLA DITTA FERRATI S.R.L CON BIOLCATI PAOLA E MARCON MAURIZIO. </title>
-			<description>COINTESTAZIONE PERMESSO DI COSTRUIRE N. 124 DEL 11/10/2016 U.T. 207/16, RILASCIATO ALLA DITTA FERRATI S.R.L CON BIOLCATI PAOLA E MARCON MAURIZIO. </description>
 			<a10:updated>2018-02-19T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
