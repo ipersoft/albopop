@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 20 Feb 2018 11:30:44 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 20 Feb 2018 12:30:38 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,31 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Tue, 20 Feb 2018 11:30:44 +0100</pubDate>
+		<pubDate>Tue, 20 Feb 2018 12:30:38 +0100</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3245834</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3245834</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3245834</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>INTERVENTO MANUTENTIVO PER POSA TABELLONE ELETTRONICO LUMINOSO INFORMATIVO - FRAZIONE OVANENGO DI ORZINUOVI. – CIG Z61225AF7D </title>
+			<description>INTERVENTO MANUTENTIVO PER POSA TABELLONE ELETTRONICO LUMINOSO INFORMATIVO - FRAZIONE OVANENGO DI ORZINUOVI. – CIG Z61225AF7D </description>
+			<a10:updated>2018-02-20T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3245831</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3245831</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3245831</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>RIMBORSO DELLE SPESE SOSTENUTE PER RIPRISTINO CHIUSINO DI ISPEZIONE FOGNARIA </title>
+			<description>RIMBORSO DELLE SPESE SOSTENUTE PER RIPRISTINO CHIUSINO DI ISPEZIONE FOGNARIA </description>
+			<a10:updated>2018-02-20T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3243729</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3243729</link>
@@ -259,28 +279,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>AREE DI PROPRIETA’ COMUNALE – DETERMINAZIONE A CONTRATTARE AI SENSI DELL’ART. 192 DEL D.LGS 267/2000 </title>
 			<description>AREE DI PROPRIETA’ COMUNALE – DETERMINAZIONE A CONTRATTARE AI SENSI DELL’ART. 192 DEL D.LGS 267/2000 </description>
-			<a10:updated>2018-02-09T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3206781</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3206781</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 09 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 24 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3206781</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>FORNITURA E POSA CALDAIE MURALI ALLOGGI DI EDILIZIA RESIDENZIALE PUBBLICA – ERP. CIG: Z8F2209B0A </title>
-			<description>FORNITURA E POSA CALDAIE MURALI ALLOGGI DI EDILIZIA RESIDENZIALE PUBBLICA – ERP. CIG: Z8F2209B0A </description>
-			<a10:updated>2018-02-09T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3206778</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3206778</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 09 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 24 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3206778</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>CIG Z65223ACD7 IMPEGNO DI SPESA PER ACQUISTO CARTA FOTOCOPIE A4 PER UFFICI COMUNALI </title>
-			<description>CIG Z65223ACD7 IMPEGNO DI SPESA PER ACQUISTO CARTA FOTOCOPIE A4 PER UFFICI COMUNALI </description>
 			<a10:updated>2018-02-09T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

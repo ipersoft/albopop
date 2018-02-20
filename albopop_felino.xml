@@ -5,7 +5,7 @@
 		<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Felino</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 20 Feb 2018 11:30:43 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 20 Feb 2018 12:30:38 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Felino</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Felino</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_felino</a10:id>
-		<pubDate>Tue, 20 Feb 2018 11:30:43 +0100</pubDate>
+		<pubDate>Tue, 20 Feb 2018 12:30:38 +0100</pubDate>
 		<docs>http://albopop.it/comune/felino/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3245799</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3245799</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3245799</category>
+			<category domain="http://albopop.it/specs#item-category-type">A005 ORDINANZE E AVVISI</category>
+			<title>AVVISO.CREDITORI_PR-E-1050 </title>
+			<description>AVVISO.CREDITORI_PR-E-1050 </description>
+			<a10:updated>2018-02-20T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3245128</guid>
 			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3245128</link>
@@ -268,17 +278,6 @@
 			<title>POSTA CERTIFICATA: INVIO AVVISO DI MOBILITA' </title>
 			<description>POSTA CERTIFICATA: INVIO AVVISO DI MOBILITA' </description>
 			<a10:updated>2018-02-13T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3213156</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3213156</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 12 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 20 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3213156</category>
-			<category domain="http://albopop.it/specs#item-category-type">A001 PUBBLICAZIONI MATRIMONIO</category>
-			<title>ATTO DI PUBBLICAZIONE DI MATRIMONIO DI CHITTOLINI PABLO CON TAGLIENTE GRAZIANA </title>
-			<description>ATTO DI PUBBLICAZIONE DI MATRIMONIO DI CHITTOLINI PABLO CON TAGLIENTE GRAZIANA </description>
-			<a10:updated>2018-02-12T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/igrid/1210528</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Celle di Bulgheria</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 20 Feb 2018 11:30:32 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 20 Feb 2018 12:30:31 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Celle di Bulgheria</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Salerno</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Celle di Bulgheria</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_celledibulgheria</a10:id>
-		<pubDate>Tue, 20 Feb 2018 11:30:32 +0100</pubDate>
+		<pubDate>Tue, 20 Feb 2018 12:30:31 +0100</pubDate>
 		<docs>http://albopop.it/comune/celledibulgheria/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/3245696</guid>
+			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/3245696</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3245696</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
+			<title>ATTO DI LIQUIDAZIONE DI SPESA IN FAVORE DELLA DITTA LIQUIGAS LUCANIA S.R.L. PER FORNITURA GPL PER RISCALDAMENTO SCUOLE COMUNALI. </title>
+			<description>ATTO DI LIQUIDAZIONE DI SPESA IN FAVORE DELLA DITTA LIQUIGAS LUCANIA S.R.L. PER FORNITURA GPL PER RISCALDAMENTO SCUOLE COMUNALI. </description>
+			<a10:updated>2018-02-20T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/3245144</guid>
 			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/3245144</link>
@@ -210,16 +220,6 @@
 			<title>IMPEGNO DI SPESA PER LA FORNITURA CARBURANTE PER AUTOMEZZI COMUNALI </title>
 			<description>IMPEGNO DI SPESA PER LA FORNITURA CARBURANTE PER AUTOMEZZI COMUNALI </description>
 			<a10:updated>2018-02-15T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/3235165</guid>
-			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/3235165</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 14 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3235165</category>
-			<category domain="http://albopop.it/specs#item-category-type">BANDI E AVVISI GESTIONE ELETTORALE</category>
-			<title>TRASMISSIONE VERBALE N. 10 RELATIVO ALLA COMPILAZIONE DELL'ELENCO DEI CITTADINI ITALIANI RESIDENTI ALL'ESTERO CHE NON HANNO ESERCITATO L'OPZIONE PER VOTARE IN ITALIA E NON SONO RESIDENTI IN PAESI IN CUI NON PUÒ VOTERSI PER CORRISPONDENZA, E DEI CITTADINI ITALIANI TEMPORANEAMENTE ALL'ESTERO CHE HANNO ESPRESSO L'OPZIONE PER VOTARE PER CORRISPONDENZA </title>
-			<description>TRASMISSIONE VERBALE N. 10 RELATIVO ALLA COMPILAZIONE DELL'ELENCO DEI CITTADINI ITALIANI RESIDENTI ALL'ESTERO CHE NON HANNO ESERCITATO L'OPZIONE PER VOTARE IN ITALIA E NON SONO RESIDENTI IN PAESI IN CUI NON PUÒ VOTERSI PER CORRISPONDENZA, E DEI CITTADINI ITALIANI TEMPORANEAMENTE ALL'ESTERO CHE HANNO ESPRESSO L'OPZIONE PER VOTARE PER CORRISPONDENZA </description>
-			<a10:updated>2018-02-14T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Torri del Benaco</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 20 Feb 2018 11:31:23 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 20 Feb 2018 12:31:22 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Torri del Benaco</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Verona</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Torri del Benaco</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_torridelbenaco</a10:id>
-		<pubDate>Tue, 20 Feb 2018 11:31:23 +0100</pubDate>
+		<pubDate>Tue, 20 Feb 2018 12:31:22 +0100</pubDate>
 		<docs>http://albopop.it/comune/torridelbenaco/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3879167</guid>
+			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3879167</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3879167</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PERMESSO DI COSTRUIRE</category>
+			<title>RILASCIO PERMESSO DI COSTRUIRE N. 225/2017 DITTA PRO.TUR. S.A.S </title>
+			<description>RILASCIO PERMESSO DI COSTRUIRE N. 225/2017 DITTA PRO.TUR. S.A.S </description>
+			<a10:updated>2018-02-20T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3877588</guid>
 			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3877588</link>
@@ -259,16 +269,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISO</category>
 			<title>CAUTA NAVIGAZIONE NELLE ACQUE DEL LAGO DI GARDA TRA CASTELLETTO E BRENZONE PER LO SVOLGIMENTO DELLA REGATA INTERZONALE J24 SABATO 17 E DOMENICA 18 FEBBRAIO 2018- TRASMISSIONE ORDINANZA N. 33 DEL 13 FEBBRAIO 2018 </title>
 			<description>CAUTA NAVIGAZIONE NELLE ACQUE DEL LAGO DI GARDA TRA CASTELLETTO E BRENZONE PER LO SVOLGIMENTO DELLA REGATA INTERZONALE J24 SABATO 17 E DOMENICA 18 FEBBRAIO 2018- TRASMISSIONE ORDINANZA N. 33 DEL 13 FEBBRAIO 2018 </description>
-			<a10:updated>2018-02-15T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3869346</guid>
-			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3869346</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3869346</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>RINNOVO ABBONAMENTO AL GIORNALE "IL SOLE ORE" PER L'ANNO 2018. </title>
-			<description>RINNOVO ABBONAMENTO AL GIORNALE "IL SOLE ORE" PER L'ANNO 2018. </description>
 			<a10:updated>2018-02-15T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
