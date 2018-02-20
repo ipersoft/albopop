@@ -5,7 +5,7 @@
 		<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rovigo</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 20 Feb 2018 15:31:12 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 20 Feb 2018 16:31:41 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rovigo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Rovigo</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rovigo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rovigo</a10:id>
-		<pubDate>Tue, 20 Feb 2018 15:31:12 +0100</pubDate>
+		<pubDate>Tue, 20 Feb 2018 16:31:41 +0100</pubDate>
 		<docs>http://albopop.it/comune/rovigo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3246391</guid>
+			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3246391</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3246391</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE ORDINANZE</category>
+			<title>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE RELATIVA ALLA TEMPORANEA MODIFICA DELLA VIABILITA' SU VIA MAZZINI E VIA VERDI IL GIORNO 21/02/2018 DALLE ORE 07.00 ALLE 16.00 </title>
+			<description>ORDINANZA PER LA DISCIPLINA TEMPORANEA DELLA CIRCOLAZIONE STRADALE RELATIVA ALLA TEMPORANEA MODIFICA DELLA VIABILITA' SU VIA MAZZINI E VIA VERDI IL GIORNO 21/02/2018 DALLE ORE 07.00 ALLE 16.00 </description>
+			<a10:updated>2018-02-20T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3245824</guid>
 			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3245824</link>
@@ -264,16 +274,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
 			<title>LIQUIDAZIONE IN FAVORE DI AS2 S.R.L. PER NOLEGGIO AUTOVELOX. MESE DI DICEMBRE 2017 </title>
 			<description>LIQUIDAZIONE IN FAVORE DI AS2 S.R.L. PER NOLEGGIO AUTOVELOX. MESE DI DICEMBRE 2017 </description>
-			<a10:updated>2018-02-19T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3243353</guid>
-			<link>http://rovigo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3243353</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 19 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3243353</category>
-			<category domain="http://albopop.it/specs#item-category-type">ALTRI ATTI DELL'ENTE DETERMINAZIONI DIRIGENZIALI</category>
-			<title>LIQUIDAZIONE SPESA PER ACQUISTO MEZZO DI SOCCORSO AD UTILIZZO DEL SERVIZIO DI PROTEZIONE CIVILE DA ASSEGNARE AL COMANDO PROVINCIALE DEI VIGILI DEL FUOCO DI ROVIGO - NUCLEO OPERATIVO SAF. CIG : 70362408ED </title>
-			<description>LIQUIDAZIONE SPESA PER ACQUISTO MEZZO DI SOCCORSO AD UTILIZZO DEL SERVIZIO DI PROTEZIONE CIVILE DA ASSEGNARE AL COMANDO PROVINCIALE DEI VIGILI DEL FUOCO DI ROVIGO - NUCLEO OPERATIVO SAF. CIG : 70362408ED </description>
 			<a10:updated>2018-02-19T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 20 Feb 2018 15:31:06 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 20 Feb 2018 16:31:36 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,32 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Tue, 20 Feb 2018 15:31:06 +0100</pubDate>
+		<pubDate>Tue, 20 Feb 2018 16:31:36 +0100</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3880153</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3880153</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 28 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3880153</category>
+			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>PUBBLICAZIONI ANNO 2018 N. 42 CACICIA GABRIELE SOCIU SIMONA CODRINA </title>
+			<description>PUBBLICAZIONI ANNO 2018 N. 42 CACICIA GABRIELE SOCIU SIMONA CODRINA </description>
+			<a10:updated>2018-02-20T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3880105</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3880105</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3880105</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>CALENDARIO EVENTI “VIVI LUCCA 2018”. APPROVAZIONE DEL CALENDARIO EVENTI (FAM. 11 ALTRO) </title>
+			<description>CALENDARIO EVENTI “VIVI LUCCA 2018”. APPROVAZIONE DEL CALENDARIO EVENTI (FAM. 11 ALTRO) </description>
+			<a10:updated>2018-02-20T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3879993</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3879993</link>
@@ -253,26 +274,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>OGGETTO: MERCATO DEL CARMINE - MIGLIORAMENTO SISMICO CHIESA – CONCESSIONE PROROGA ULTIMAZIONE LAVORI – CUP: J62C16000010007 – CIG: 6893309A88 </title>
 			<description>OGGETTO: MERCATO DEL CARMINE - MIGLIORAMENTO SISMICO CHIESA – CONCESSIONE PROROGA ULTIMAZIONE LAVORI – CUP: J62C16000010007 – CIG: 6893309A88 </description>
-			<a10:updated>2018-02-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3873786</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3873786</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 16 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3873786</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>RENDICONTO DELLA GESTIONE ESERCIZIO 2017 – RIACCERTAMENTO RESIDUI ATTIVI E PASSIVI ESISTENTI ALLA DATA DEL 31.12.2017, AI SENSI DELL'ART. 228, COMMA 3 DEL D. LGS N. 267/2000 E DELL'ART. 3, COMMA 4 DEL D. LGS 118/2011 – UNITA' OPERATIVA 7.2 "FLUSSI DOCUMENTALI, PROTOLLO E ARCHIVIO </title>
-			<description>RENDICONTO DELLA GESTIONE ESERCIZIO 2017 – RIACCERTAMENTO RESIDUI ATTIVI E PASSIVI ESISTENTI ALLA DATA DEL 31.12.2017, AI SENSI DELL'ART. 228, COMMA 3 DEL D. LGS N. 267/2000 E DELL'ART. 3, COMMA 4 DEL D. LGS 118/2011 – UNITA' OPERATIVA 7.2 "FLUSSI DOCUMENTALI, PROTOLLO E ARCHIVIO </description>
-			<a10:updated>2018-02-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3873691</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3873691</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 16 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3873691</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>PROSECUZIONE DEL SERVIZIO DI TRASPORTO PUBBLICO LOCALE URBANO DAL 1 GENNAIO AL 31 DICEMBRE 2018 – APPROVAZIONE DELLA SPESA. </title>
-			<description>PROSECUZIONE DEL SERVIZIO DI TRASPORTO PUBBLICO LOCALE URBANO DAL 1 GENNAIO AL 31 DICEMBRE 2018 – APPROVAZIONE DELLA SPESA. </description>
 			<a10:updated>2018-02-16T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
