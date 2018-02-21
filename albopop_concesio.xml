@@ -5,7 +5,7 @@
 		<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Concesio</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 21 Feb 2018 11:30:37 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 21 Feb 2018 12:30:38 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Concesio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Concesio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_concesio</a10:id>
-		<pubDate>Wed, 21 Feb 2018 11:30:37 +0100</pubDate>
+		<pubDate>Wed, 21 Feb 2018 12:30:38 +0100</pubDate>
 		<docs>http://albopop.it/comune/concesio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3881776</guid>
+			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3881776</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3881776</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
+			<title>ISTITUZIONE TEMPORANEA CHIUSURA DI VIA DONIZETTI DAL CIV. 25/B ALL'INTERSEZIONE CON VIA TOSCANINI, IL SENSO UNICO ALTERNATO IN VIA TOSCANINI DAL CIV. 21 ALL'INTERSEZIONE CON VIA DONIZETTI E IL DIVIETO DI SOSTA SULLE VIE CITATE. INTEGRAZIONE </title>
+			<description>ISTITUZIONE TEMPORANEA CHIUSURA DI VIA DONIZETTI DAL CIV. 25/B ALL'INTERSEZIONE CON VIA TOSCANINI, IL SENSO UNICO ALTERNATO IN VIA TOSCANINI DAL CIV. 21 ALL'INTERSEZIONE CON VIA DONIZETTI E IL DIVIETO DI SOSTA SULLE VIE CITATE. INTEGRAZIONE </description>
+			<a10:updated>2018-02-21T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3881311</guid>
 			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3881311</link>
@@ -269,16 +279,6 @@
 			<title>ISTITUZIONE TEMPORANEA SENSO UNICO ALTERNATO E DIVIETO DI SOSTA IN VIA DELLE MOIE E INTERSEZIONI CON VIA FALCONE E VIA SANGERVASIO. </title>
 			<description>ISTITUZIONE TEMPORANEA SENSO UNICO ALTERNATO E DIVIETO DI SOSTA IN VIA DELLE MOIE E INTERSEZIONI CON VIA FALCONE E VIA SANGERVASIO. </description>
 			<a10:updated>2018-02-15T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3859400</guid>
-			<link>http://concesio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3859400</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 12 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3859400</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZA</category>
-			<title>ISTITUZIONE TEMPORANEA CHIUSURA DI VIA DONIZETTI DAL CIV. 19 AL CIV. 25/A, SENSO UNICO IN VIA DONIZETTI DALL'INTERSEZIONE CON VIA TOSCANINI AL CIV. 19, IL SENSO UNICO ALTERNATO IN VIA TOSCANINI DAL CIV. 9 ALL'INTERSEZIONE CON VIA DONIZETTI E IL DIVIETO DI SOSTA SULLE VIE CITATE. </title>
-			<description>ISTITUZIONE TEMPORANEA CHIUSURA DI VIA DONIZETTI DAL CIV. 19 AL CIV. 25/A, SENSO UNICO IN VIA DONIZETTI DALL'INTERSEZIONE CON VIA TOSCANINI AL CIV. 19, IL SENSO UNICO ALTERNATO IN VIA TOSCANINI DAL CIV. 9 ALL'INTERSEZIONE CON VIA DONIZETTI E IL DIVIETO DI SOSTA SULLE VIE CITATE. </description>
-			<a10:updated>2018-02-12T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
