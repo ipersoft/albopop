@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 21 Feb 2018 14:31:05 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 21 Feb 2018 15:31:19 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Wed, 21 Feb 2018 14:31:05 +0100</pubDate>
+		<pubDate>Wed, 21 Feb 2018 15:31:19 +0100</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3882613</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3882613</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3882613</category>
+			<category domain="http://albopop.it/specs#item-category-type">(STC) PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>PUBBLICAZIONI ANNO 2018 N. 7 GALLETTI MATTEO MOLINO FEDERICA FRANCESCA </title>
+			<description>PUBBLICAZIONI ANNO 2018 N. 7 GALLETTI MATTEO MOLINO FEDERICA FRANCESCA </description>
+			<a10:updated>2018-02-21T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3881906</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3881906</link>
@@ -265,16 +275,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
 			<title>UFFICI COMUNALI: LIQUIDAZIONE LAVORO STRAORDINARIO PER PRESTAZIONI RELATIVE AL MESE DI DICEMBRE 2017. </title>
 			<description>UFFICI COMUNALI: LIQUIDAZIONE LAVORO STRAORDINARIO PER PRESTAZIONI RELATIVE AL MESE DI DICEMBRE 2017. </description>
-			<a10:updated>2018-02-19T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3877720</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3877720</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 19 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3877720</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
-			<title>RENDICONTO DELLA GESTIONE ESERCIZIO 2017 – RIACCERTAMENTO RESIDUI ATTIVI E PASSIVI ESISTENTI ALLA DATA DEL 31.12.2017 AI SENSI DELL’ART. 228 COMMA 3 DEL D.LGS. N. 267/2000 E DELL’ART. 3 COMMA 4 DEL D.LGS. 118/2011 </title>
-			<description>RENDICONTO DELLA GESTIONE ESERCIZIO 2017 – RIACCERTAMENTO RESIDUI ATTIVI E PASSIVI ESISTENTI ALLA DATA DEL 31.12.2017 AI SENSI DELL’ART. 228 COMMA 3 DEL D.LGS. N. 267/2000 E DELL’ART. 3 COMMA 4 DEL D.LGS. 118/2011 </description>
 			<a10:updated>2018-02-19T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
