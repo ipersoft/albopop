@@ -5,7 +5,7 @@
 		<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bernareggio</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 21 Feb 2018 08:30:48 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 21 Feb 2018 09:30:55 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bernareggio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Monza e della Brianza</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bernareggio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bernareggio</a10:id>
-		<pubDate>Wed, 21 Feb 2018 08:30:48 +0100</pubDate>
+		<pubDate>Wed, 21 Feb 2018 09:30:55 +0100</pubDate>
 		<docs>http://albopop.it/comune/bernareggio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3880755</guid>
+			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3880755</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3880755</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI ORDINANZE</category>
+			<title>ISTITUZIONE SENSO UNICO ALTERNATO IN VIA BUONAROTTI N 24 DALLE ORE 09.00 ALLE ORE 16.00 DEL 22/02/2018 </title>
+			<description>ISTITUZIONE SENSO UNICO ALTERNATO IN VIA BUONAROTTI N 24 DALLE ORE 09.00 ALLE ORE 16.00 DEL 22/02/2018 </description>
+			<a10:updated>2018-02-21T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3880126</guid>
 			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3880126</link>
@@ -261,16 +271,6 @@
 			<title>AVVISO PUBBLICO DI MOBILITA’ VOLONTARIA EX ART. 30 DECRETO LEGISLATIVO 30 MARZO 2001, N. 165, PER LA COPERTURA A TEMPO INDETERMINATO E PIENO DI 1 POSTO VACANTE NEL RUOLO DI SPECIALISTA AMMINISTRATIVO – SPECIALISTA AMMINISTRATIVA CATEGORIA D1 </title>
 			<description>AVVISO PUBBLICO DI MOBILITA’ VOLONTARIA EX ART. 30 DECRETO LEGISLATIVO 30 MARZO 2001, N. 165, PER LA COPERTURA A TEMPO INDETERMINATO E PIENO DI 1 POSTO VACANTE NEL RUOLO DI SPECIALISTA AMMINISTRATIVO – SPECIALISTA AMMINISTRATIVA CATEGORIA D1 </description>
 			<a10:updated>2018-02-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3871446</guid>
-			<link>http://bernareggio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3871446</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3871446</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DECRETO</category>
-			<title>CONCESSIONE PATROCINIO ALL'ASSOCIAZIONE CORPO MUSICALE P.L. DA PALESTRINA PER LA MANIFESTAZIONE POMERIGGIO MUSICALE CON MERENDA "LA MUSICA PER NOI RAGAZZI" E PRESENTAZIONE "DOPO SCUOLA MUSICALE" </title>
-			<description>CONCESSIONE PATROCINIO ALL'ASSOCIAZIONE CORPO MUSICALE P.L. DA PALESTRINA PER LA MANIFESTAZIONE POMERIGGIO MUSICALE CON MERENDA "LA MUSICA PER NOI RAGAZZI" E PRESENTAZIONE "DOPO SCUOLA MUSICALE" </description>
-			<a10:updated>2018-02-15T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
