@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 21 Feb 2018 09:30:47 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 21 Feb 2018 10:31:00 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Wed, 21 Feb 2018 09:30:47 +0100</pubDate>
+		<pubDate>Wed, 21 Feb 2018 10:31:00 +0100</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3247411</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3247411</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3247411</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>ACCERTAMENTO DI ENTRATA E IMPEGNO DI SPESA PER LA LIQUIDAZIONE DEGLI ONORARI AI COMPONENTI DEI SEGGI ELETTORALI PER LE CONSULTAZIONI ELETTORALI DEL 4 MARZO 2018 RELATIVE ALLA ELEZIONE DEI MEMBRI DELLA CAMERA DEI DEPUTATI E DEL SENATO DELLA REPUBBLICA ED ALL’ ELEZIONE DEL CONSIGLIO REGIONALE E DEL PRESIDENTE DELLA REGIONE LOMBARDIA. </title>
+			<description>ACCERTAMENTO DI ENTRATA E IMPEGNO DI SPESA PER LA LIQUIDAZIONE DEGLI ONORARI AI COMPONENTI DEI SEGGI ELETTORALI PER LE CONSULTAZIONI ELETTORALI DEL 4 MARZO 2018 RELATIVE ALLA ELEZIONE DEI MEMBRI DELLA CAMERA DEI DEPUTATI E DEL SENATO DELLA REPUBBLICA ED ALL’ ELEZIONE DEL CONSIGLIO REGIONALE E DEL PRESIDENTE DELLA REGIONE LOMBARDIA. </description>
+			<a10:updated>2018-02-21T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3245834</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3245834</link>
@@ -268,17 +278,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI BANDO</category>
 			<title>RICHIESTA PUBBLICAZIONE BANDI DI MOBILITA' COMUNI DI SAN FELICE DEL BENACO - BOTTICINO - TRAVAGLIATO </title>
 			<description>RICHIESTA PUBBLICAZIONE BANDI DI MOBILITA' COMUNI DI SAN FELICE DEL BENACO - BOTTICINO - TRAVAGLIATO </description>
-			<a10:updated>2018-02-09T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3206916</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3206916</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 09 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 24 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3206916</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>AREE DI PROPRIETA’ COMUNALE – DETERMINAZIONE A CONTRATTARE AI SENSI DELL’ART. 192 DEL D.LGS 267/2000 </title>
-			<description>AREE DI PROPRIETA’ COMUNALE – DETERMINAZIONE A CONTRATTARE AI SENSI DELL’ART. 192 DEL D.LGS 267/2000 </description>
 			<a10:updated>2018-02-09T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
