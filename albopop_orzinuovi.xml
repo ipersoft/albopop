@@ -5,7 +5,7 @@
 		<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Orzinuovi</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 21 Feb 2018 10:31:00 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 21 Feb 2018 11:31:08 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Orzinuovi</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Brescia</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Orzinuovi</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_orzinuovi</a10:id>
-		<pubDate>Wed, 21 Feb 2018 10:31:00 +0100</pubDate>
+		<pubDate>Wed, 21 Feb 2018 11:31:08 +0100</pubDate>
 		<docs>http://albopop.it/comune/orzinuovi/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3247872</guid>
+			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3247872</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3247872</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
+			<title>INTERVENTI DI MANUTENZIONE STRAORDINARIA STRADE COMUNALI - CIG: Z632266956 </title>
+			<description>INTERVENTI DI MANUTENZIONE STRAORDINARIA STRADE COMUNALI - CIG: Z632266956 </description>
+			<a10:updated>2018-02-21T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3247411</guid>
 			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3247411</link>
@@ -269,16 +279,6 @@
 			<title>AVVISO PER NR 2 CONCORSI: AREA AMMINISTRATIVA E POLIZIA LOCALE </title>
 			<description>AVVISO PER NR 2 CONCORSI: AREA AMMINISTRATIVA E POLIZIA LOCALE </description>
 			<a10:updated>2018-02-12T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3207030</guid>
-			<link>http://orzinuovi.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3207030</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 09 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3207030</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI BANDO</category>
-			<title>RICHIESTA PUBBLICAZIONE BANDI DI MOBILITA' COMUNI DI SAN FELICE DEL BENACO - BOTTICINO - TRAVAGLIATO </title>
-			<description>RICHIESTA PUBBLICAZIONE BANDI DI MOBILITA' COMUNI DI SAN FELICE DEL BENACO - BOTTICINO - TRAVAGLIATO </description>
-			<a10:updated>2018-02-09T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
