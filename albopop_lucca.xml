@@ -5,7 +5,7 @@
 		<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Lucca</description>
 		<language>it</language>
-		<lastBuildDate>Wed, 21 Feb 2018 18:31:08 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 22 Feb 2018 08:30:54 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Lucca</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Lucca</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Lucca</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_lucca</a10:id>
-		<pubDate>Wed, 21 Feb 2018 18:31:08 +0100</pubDate>
+		<pubDate>Thu, 22 Feb 2018 08:30:54 +0100</pubDate>
 		<docs>http://albopop.it/comune/lucca/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883045</guid>
+			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883045</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3883045</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DIRIGENZIALI DETERMINAZIONI DIRIGENZIALI</category>
+			<title>AFFIDAMENTO IN CONCESSIONE DELL’IMPIANTO SPORTIVO SITO IN VIA DI S. GIMIGNANO – PONTE A MORIANO – LUCCA. APPROVAZIONE ATTI DELLA PROCEDURA AD EVIDENZA PUBBLICA (FAMIGLIA 11) </title>
+			<description>AFFIDAMENTO IN CONCESSIONE DELL’IMPIANTO SPORTIVO SITO IN VIA DI S. GIMIGNANO – PONTE A MORIANO – LUCCA. APPROVAZIONE ATTI DELLA PROCEDURA AD EVIDENZA PUBBLICA (FAMIGLIA 11) </description>
+			<a10:updated>2018-02-21T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3882613</guid>
 			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3882613</link>
@@ -254,17 +264,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DEPOSITO ATTI CASA COMUNALE</category>
 			<title> ARTICOLO 60 COMMA E) DPR 600/73 BOTTURA RICCARDO REP. 360/2018 - NOTIFICA ATTO </title>
 			<description> ARTICOLO 60 COMMA E) DPR 600/73 BOTTURA RICCARDO REP. 360/2018 - NOTIFICA ATTO </description>
-			<a10:updated>2018-02-20T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3878290</guid>
-			<link>http://lucca.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3878290</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 21 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3878290</category>
-			<category domain="http://albopop.it/specs#item-category-type">DEPOSITO ATTI CASA COMUNALE</category>
-			<title>AGENZIA ENTRATE RISCOSSIONE ART. 60/E ELENCO IRR 2 19/2/2018 </title>
-			<description>AGENZIA ENTRATE RISCOSSIONE ART. 60/E ELENCO IRR 2 19/2/2018 </description>
 			<a10:updated>2018-02-20T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
