@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 22 Feb 2018 15:30:40 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 22 Feb 2018 16:30:43 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Thu, 22 Feb 2018 15:30:40 +0100</pubDate>
+		<pubDate>Thu, 22 Feb 2018 16:30:43 +0100</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/894262</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/894262</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">894262</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO CONVOCAZIONI CONSIGLIO COMMISSIONI ETC</category>
+			<title>AVVISO CONVOCAZIONE 1° CONFERENZA DI SERVIZI DI UN PROGETTO, COMPORTANTE VARIANTE URBANISTICA, RELATIVO ALLA NUOVA COSTRUZIONE DI UN LABORATORIO ARTIGIANALE, IN ADERENZA ALL'ESISTENTE, DA REALIZZARSI IN VIA COSTA DI FAGNANO 3 - PESARO </title>
+			<description>AVVISO CONVOCAZIONE 1° CONFERENZA DI SERVIZI DI UN PROGETTO, COMPORTANTE VARIANTE URBANISTICA, RELATIVO ALLA NUOVA COSTRUZIONE DI UN LABORATORIO ARTIGIANALE, IN ADERENZA ALL'ESISTENTE, DA REALIZZARSI IN VIA COSTA DI FAGNANO 3 - PESARO </description>
+			<a10:updated>2018-02-22T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/894114</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/894114</link>
@@ -261,16 +271,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>ASSOCIAZIONE A.P.D. BORGO UISP - COMPENSAZIONE TRA DEBITI E CREDITI IN BASE AL DISPOSTO DI CUI ALL’ ART 32 DEL NUOVO REGOLAMENTO DI CONTABILITA’ DEL COMUNE DI PESARO </title>
 			<description>ASSOCIAZIONE A.P.D. BORGO UISP - COMPENSAZIONE TRA DEBITI E CREDITI IN BASE AL DISPOSTO DI CUI ALL’ ART 32 DEL NUOVO REGOLAMENTO DI CONTABILITA’ DEL COMUNE DI PESARO </description>
-			<a10:updated>2018-02-21T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/892854</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/892854</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">892854</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>AFFIDAMENTO SERVIZI DI RIPARAZIONE, SISTEMAZIONE E MANIFATTURA CHIAVI E TIMBRI PER LE ESIGENZE DEGLI UFFICI COMUNALI. - IMPEGNI DI SPESA ANNO 2018 </title>
-			<description>AFFIDAMENTO SERVIZI DI RIPARAZIONE, SISTEMAZIONE E MANIFATTURA CHIAVI E TIMBRI PER LE ESIGENZE DEGLI UFFICI COMUNALI. - IMPEGNI DI SPESA ANNO 2018 </description>
 			<a10:updated>2018-02-21T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

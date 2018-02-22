@@ -5,7 +5,7 @@
 		<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Ragusa</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 22 Feb 2018 15:31:08 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 22 Feb 2018 16:31:24 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Ragusa</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Ragusa</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Ragusa</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_ragusa</a10:id>
-		<pubDate>Thu, 22 Feb 2018 15:31:08 +0100</pubDate>
+		<pubDate>Thu, 22 Feb 2018 16:31:24 +0100</pubDate>
 		<docs>http://albopop.it/comune/ragusa/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3256300</guid>
+			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3256300</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3256300</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINE DETERMINA DI SETTORE</category>
+			<title>OGGETTO: CONFERIMENTO AL GEOM. FRANCO CIVELLO DELLA POSIZIONE ORGANIZZATIVA AFFERENTE AL SETTORE V - DECORO URBANO, MANUTENZIONE E GESTIONE INFRASTRUTTURALE, PROGRAMMAZIONE OPERE, DAL 01/02/2018 AL 31/12/2018. </title>
+			<description>OGGETTO: CONFERIMENTO AL GEOM. FRANCO CIVELLO DELLA POSIZIONE ORGANIZZATIVA AFFERENTE AL SETTORE V - DECORO URBANO, MANUTENZIONE E GESTIONE INFRASTRUTTURALE, PROGRAMMAZIONE OPERE, DAL 01/02/2018 AL 31/12/2018. </description>
+			<a10:updated>2018-02-22T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3255663</guid>
 			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3255663</link>
@@ -262,16 +272,6 @@
 			<title>CONVOCAZIONE 4^ COMMISSIONE RISORSE GIORNO 27 FEBBRAIO 2018 ALLE ORE 9,30 - ARGOMENTO AGGIUNTO </title>
 			<description>CONVOCAZIONE 4^ COMMISSIONE RISORSE GIORNO 27 FEBBRAIO 2018 ALLE ORE 9,30 - ARGOMENTO AGGIUNTO </description>
 			<a10:updated>2018-02-22T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3250739</guid>
-			<link>http://ragusa.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3250739</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 21 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3250739</category>
-			<category domain="http://albopop.it/specs#item-category-type">CONCESSIONI CONCESSIONE EDILIZIA</category>
-			<title>CONCESSIONE EDILIZIA N.28/2018 - DITTA GALOFARO SALVATORE </title>
-			<description>CONCESSIONE EDILIZIA N.28/2018 - DITTA GALOFARO SALVATORE </description>
-			<a10:updated>2018-02-21T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
