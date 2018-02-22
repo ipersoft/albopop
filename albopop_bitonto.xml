@@ -5,7 +5,7 @@
 		<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bitonto</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 22 Feb 2018 16:30:29 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 22 Feb 2018 17:30:36 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bitonto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Bari</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bitonto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bitonto</a10:id>
-		<pubDate>Thu, 22 Feb 2018 16:30:29 +0100</pubDate>
+		<pubDate>Thu, 22 Feb 2018 17:30:36 +0100</pubDate>
 		<docs>http://albopop.it/comune/bitonto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3885598</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3885598</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3885598</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
+			<title>VIA GUIDONE - DIVIETO DI TRANSITO E SOSTA VEICOLARE - SULLA PARTE TERMINALE DELLA STESSA PER VERIFICHE TECNICHE </title>
+			<description>VIA GUIDONE - DIVIETO DI TRANSITO E SOSTA VEICOLARE - SULLA PARTE TERMINALE DELLA STESSA PER VERIFICHE TECNICHE </description>
+			<a10:updated>2018-02-22T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3884959</guid>
 			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3884959</link>
@@ -259,16 +269,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI 15 - SERVIZIO POLIZIA LOCALE</category>
 			<title>"PARISI GAETANO" BITONTO - LIQUIDAZIONE FATTURE CUSTODIA GIUDIZIALE VEICOLI SOTTOPOSTI A FERMO AMMINISTRATIVO POSTI SOTTO SEQUESTRO </title>
 			<description>"PARISI GAETANO" BITONTO - LIQUIDAZIONE FATTURE CUSTODIA GIUDIZIALE VEICOLI SOTTOPOSTI A FERMO AMMINISTRATIVO POSTI SOTTO SEQUESTRO </description>
-			<a10:updated>2018-02-22T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883198</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883198</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3883198</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI 13 - SERVIZIO TERRITORIO</category>
-			<title>D.R.S. N° 970/2016 – S. N° 19 DEL 16/6/2016 – CANONE FOTOCOPIATORE MONOCROMATICO “XEROX” MODELLO WC 5875 IN DOTAZIONE AL SERVIZIO PER IL TERRITORIO – SOCIETA’ “XEROX S.P.A.” DA SESTO SAN GIOVANNI (MI) – PERIODO: 01/10/2017 – 31/12/2017 – LIQUIDAZIONE – </title>
-			<description>D.R.S. N° 970/2016 – S. N° 19 DEL 16/6/2016 – CANONE FOTOCOPIATORE MONOCROMATICO “XEROX” MODELLO WC 5875 IN DOTAZIONE AL SERVIZIO PER IL TERRITORIO – SOCIETA’ “XEROX S.P.A.” DA SESTO SAN GIOVANNI (MI) – PERIODO: 01/10/2017 – 31/12/2017 – LIQUIDAZIONE – </description>
 			<a10:updated>2018-02-22T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

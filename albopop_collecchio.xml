@@ -5,7 +5,7 @@
 		<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Collecchio</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 22 Feb 2018 16:31:21 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 22 Feb 2018 17:31:20 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Collecchio</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Collecchio</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_collecchio</a10:id>
-		<pubDate>Thu, 22 Feb 2018 16:31:21 +0100</pubDate>
+		<pubDate>Thu, 22 Feb 2018 17:31:20 +0100</pubDate>
 		<docs>http://albopop.it/comune/collecchio/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3256402</guid>
+			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3256402</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3256402</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO PRETORIO ON LINE ATTI VARI SU RICHIESTA DI ALTRI ENTI</category>
+			<title>POSTA CERTIFICATA: AVVISO BANDO DI MOBILITA' VOLONTARIA - COMUNE DI VARSI </title>
+			<description>POSTA CERTIFICATA: AVVISO BANDO DI MOBILITA' VOLONTARIA - COMUNE DI VARSI </description>
+			<a10:updated>2018-02-22T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3249424</guid>
 			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3249424</link>
@@ -260,16 +270,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DT DETERMINAZIONE</category>
 			<title>TRASFORMAZIONE RAPPORTO DI LAVORO DIPENDENTE GHIRARDI SILVIA </title>
 			<description>TRASFORMAZIONE RAPPORTO DI LAVORO DIPENDENTE GHIRARDI SILVIA </description>
-			<a10:updated>2018-02-19T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3243577</guid>
-			<link>http://collecchio.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3243577</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 19 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3243577</category>
-			<category domain="http://albopop.it/specs#item-category-type">DLG DELIBERA DI GIUNTA</category>
-			<title>PROGRAMMAZIONE DEL FABBISOGNO DI PERSONALE PER L’ANNO 2018 </title>
-			<description>PROGRAMMAZIONE DEL FABBISOGNO DI PERSONALE PER L’ANNO 2018 </description>
 			<a10:updated>2018-02-19T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
