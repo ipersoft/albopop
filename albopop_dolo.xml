@@ -5,7 +5,7 @@
 		<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Dolo</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 22 Feb 2018 10:31:03 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 22 Feb 2018 11:30:38 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Dolo</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Dolo</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_dolo</a10:id>
-		<pubDate>Thu, 22 Feb 2018 10:31:03 +0100</pubDate>
+		<pubDate>Thu, 22 Feb 2018 11:30:38 +0100</pubDate>
 		<docs>http://albopop.it/comune/dolo/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883959</guid>
+			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883959</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3883959</category>
+			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI PUBBLICAZIONE DI MATRIMONIO</category>
+			<title>PUBBLICAZIONE DI MATRIMONIO MINOTTO FABIO E BALDO BARBARA </title>
+			<description>PUBBLICAZIONE DI MATRIMONIO MINOTTO FABIO E BALDO BARBARA </description>
+			<a10:updated>2018-02-22T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3882745</guid>
 			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3882745</link>
@@ -261,16 +271,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
 			<title>LIQUIDAZIONE FATTURA ALLA DITTA S.T.T. SERVIZI TELEMATICI TELEFONICI S.R.L. PER ASSISTENZA TECNICA CENTRALINI TELEFONICI DELLA SEDE MUNICIPALE ED UFFICI IN BARCHESSA EST DI VILLA CONCINA– ANNO 2018. </title>
 			<description>LIQUIDAZIONE FATTURA ALLA DITTA S.T.T. SERVIZI TELEMATICI TELEFONICI S.R.L. PER ASSISTENZA TECNICA CENTRALINI TELEFONICI DELLA SEDE MUNICIPALE ED UFFICI IN BARCHESSA EST DI VILLA CONCINA– ANNO 2018. </description>
-			<a10:updated>2018-02-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3871746</guid>
-			<link>http://dolo.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3871746</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 16 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3871746</category>
-			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI DETERMINAZIONE</category>
-			<title>LAVORI DI MANUTENZIONE EDILE DA ESEGUIRSI SU FABBRICATI, MANUFATTI ED AREE DI COMPETENZA COMUNALE. TRIENNIO 2018/2020. DETERMINA A CONTRARRE. </title>
-			<description>LAVORI DI MANUTENZIONE EDILE DA ESEGUIRSI SU FABBRICATI, MANUFATTI ED AREE DI COMPETENZA COMUNALE. TRIENNIO 2018/2020. DETERMINA A CONTRARRE. </description>
 			<a10:updated>2018-02-16T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

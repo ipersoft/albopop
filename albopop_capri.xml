@@ -5,7 +5,7 @@
 		<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Capri</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 22 Feb 2018 10:31:53 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 22 Feb 2018 11:31:34 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Capri</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Napoli</category>
@@ -16,11 +16,41 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Capri</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_capri</a10:id>
-		<pubDate>Thu, 22 Feb 2018 10:31:53 +0100</pubDate>
+		<pubDate>Thu, 22 Feb 2018 11:31:34 +0100</pubDate>
 		<docs>http://albopop.it/comune/capri/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3255430</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3255430</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3255430</category>
+			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
+			<title>LIQUIDAZIONE FATTURA DELLA CAPRI SERVIZI S.R.L. UNIPERSONALE PER IL SERVIZIO DI VERDE PUBBLICO – MARZO 2018 </title>
+			<description>LIQUIDAZIONE FATTURA DELLA CAPRI SERVIZI S.R.L. UNIPERSONALE PER IL SERVIZIO DI VERDE PUBBLICO – MARZO 2018 </description>
+			<a10:updated>2018-02-22T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3255229</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3255229</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3255229</category>
+			<category domain="http://albopop.it/specs#item-category-type">DELIBERAZIONI DI GIUNTA DELIBERA DI GIUNTA</category>
+			<title>CONCESSIONE PATROCINIO MORALE E COLLABORAZIONE ISTITUZIONALE EVENTO "UOVA DI PASQUA" A CURA DELL'AIL - ROLEX CAPRI SAILING WEEK 13 - 19 MAGGIO 2018 - "INSIEME SENZA BARRIERE 2018" 10 E 11 MARZO A CURA DELL'ASS. CAPRI SENZA BARRIERE. </title>
+			<description>CONCESSIONE PATROCINIO MORALE E COLLABORAZIONE ISTITUZIONALE EVENTO "UOVA DI PASQUA" A CURA DELL'AIL - ROLEX CAPRI SAILING WEEK 13 - 19 MAGGIO 2018 - "INSIEME SENZA BARRIERE 2018" 10 E 11 MARZO A CURA DELL'ASS. CAPRI SENZA BARRIERE. </description>
+			<a10:updated>2018-02-22T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3255226</guid>
+			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3255226</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3255226</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE</category>
+			<title>INGIUNZIONE ALLA DEMOLIZIONE DELLE OPERE EDILI ABUSIVE ACCERTATE IN CAPRI VIA TUORO N.43 NELLA PROPRIETA' DELLA SIG.RA CASSANDRO ADRIANA M.F. . ART.31 D.P.R. N.380/2001 </title>
+			<description>INGIUNZIONE ALLA DEMOLIZIONE DELLE OPERE EDILI ABUSIVE ACCERTATE IN CAPRI VIA TUORO N.43 NELLA PROPRIETA' DELLA SIG.RA CASSANDRO ADRIANA M.F. . ART.31 D.P.R. N.380/2001 </description>
+			<a10:updated>2018-02-22T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3255124</guid>
 			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3255124</link>
@@ -241,36 +271,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
 			<title>CARNEVALISSIMO 2018 - LIQUIDAZIONE FATTURA PER ALLESTIMENTO PALCO. DITTA ALMANI S.R.L. CIG. ZAC2203ED9 </title>
 			<description>CARNEVALISSIMO 2018 - LIQUIDAZIONE FATTURA PER ALLESTIMENTO PALCO. DITTA ALMANI S.R.L. CIG. ZAC2203ED9 </description>
-			<a10:updated>2018-02-19T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3243612</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3243612</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 19 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3243612</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
-			<title>APPELLO AVVERSO LA SENTENZA N. 16713/2013 DEL TRIBUNALE DI NAPOLI - SEZIONE LAVORO - COMUNE DI CAPRI C/ MOSCA ANTONINO - COSTITUZIONE IN GIUDIZIO – LIQUIDAZIONE SALDO ALL’ AVVOCATO UMBERTO FEDERICO </title>
-			<description>APPELLO AVVERSO LA SENTENZA N. 16713/2013 DEL TRIBUNALE DI NAPOLI - SEZIONE LAVORO - COMUNE DI CAPRI C/ MOSCA ANTONINO - COSTITUZIONE IN GIUDIZIO – LIQUIDAZIONE SALDO ALL’ AVVOCATO UMBERTO FEDERICO </description>
-			<a10:updated>2018-02-19T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3243558</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3243558</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 19 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3243558</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
-			<title>CARNEVALISSIMO 2018 - LIQUIDAZIONE ONERI SIAE. </title>
-			<description>CARNEVALISSIMO 2018 - LIQUIDAZIONE ONERI SIAE. </description>
-			<a10:updated>2018-02-19T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3243504</guid>
-			<link>http://capri.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3243504</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 19 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3243504</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI LIQUIDAZIONE</category>
-			<title>CARNEVALISSIMO 2018 -LIQUIDAZIONE FATTURA PER REALIZZAZIONE BANNER PER SCENOGRAFIA. DITTA EMERGENZA CREATIVA DI VINCI SOC. COOP. CIG. Z972203E17 </title>
-			<description>CARNEVALISSIMO 2018 -LIQUIDAZIONE FATTURA PER REALIZZAZIONE BANNER PER SCENOGRAFIA. DITTA EMERGENZA CREATIVA DI VINCI SOC. COOP. CIG. Z972203E17 </description>
 			<a10:updated>2018-02-19T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>

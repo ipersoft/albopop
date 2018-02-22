@@ -5,7 +5,7 @@
 		<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rometta</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 22 Feb 2018 10:31:47 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 22 Feb 2018 11:31:26 +0100</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rometta</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Messina</category>
@@ -16,11 +16,21 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rometta</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rometta</a10:id>
-		<pubDate>Thu, 22 Feb 2018 10:31:47 +0100</pubDate>
+		<pubDate>Thu, 22 Feb 2018 11:31:26 +0100</pubDate>
 		<docs>http://albopop.it/comune/rometta/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3884009</guid>
+			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3884009</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Feb 2018 01:00:00 +0100</category>
+			<category domain="http://albopop.it/specs#item-category-uid">3884009</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISO PUBBLICO</category>
+			<title>VERBALE ELEZIONI DELLA CAMERA DEI DEPUTATI E DEL SENATO DELLA REPUBBLICA DI DOMENICA 4 MARZO 2018 </title>
+			<description>VERBALE ELEZIONI DELLA CAMERA DEI DEPUTATI E DEL SENATO DELLA REPUBBLICA DI DOMENICA 4 MARZO 2018 </description>
+			<a10:updated>2018-02-22T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3875470</guid>
 			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3875470</link>
@@ -264,17 +274,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>LIQUIDAZIONE GETTONI DI PRESENZA AI CONSIGLIERI COMUNALI PER LE SEDUTE CONSILIARI SVOLTESI NELL’ANNO 2017. </title>
 			<description>LIQUIDAZIONE GETTONI DI PRESENZA AI CONSIGLIERI COMUNALI PER LE SEDUTE CONSILIARI SVOLTESI NELL’ANNO 2017. </description>
-			<a10:updated>2018-02-13T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3863469</guid>
-			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3863469</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 13 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 28 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3863469</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>LAVORI DI “REALIZZAZIONE AREE DI SOSTA, ARREDO URBANO,VALORIZZAZIONE ITINERARIO DI GRANDE INTERESSE ARTISTICO MONUMENTALE NELLA FRAZIONE DI S.ANDREA” – LIQUIDAZIONE FATTURA 02/18 DEL 17.01.2018 PER LAVORI AL I° SAL - CIG. 70778201D6 </title>
-			<description>LAVORI DI “REALIZZAZIONE AREE DI SOSTA, ARREDO URBANO,VALORIZZAZIONE ITINERARIO DI GRANDE INTERESSE ARTISTICO MONUMENTALE NELLA FRAZIONE DI S.ANDREA” – LIQUIDAZIONE FATTURA 02/18 DEL 17.01.2018 PER LAVORI AL I° SAL - CIG. 70778201D6 </description>
 			<a10:updated>2018-02-13T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
