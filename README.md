@@ -1,3 +1,7 @@
+
+
+Ho disattivato la creazione dei feed in quanto non sono stati mai inseriti sul sito di AlboPop
+
 # Link RSS Albo Pretorio
 
 
