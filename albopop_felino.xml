@@ -5,7 +5,7 @@
 		<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Felino</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 22 Feb 2018 18:30:41 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 25 Aug 2020 00:45:16 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Felino</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Parma</category>
@@ -16,268 +16,285 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Felino</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_felino</a10:id>
-		<pubDate>Thu, 22 Feb 2018 18:30:41 +0100</pubDate>
+		<pubDate>Tue, 25 Aug 2020 00:45:16 +0200</pubDate>
 		<docs>http://albopop.it/comune/felino/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
 		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3245799</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3245799</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3245799</category>
-			<category domain="http://albopop.it/specs#item-category-type">A005 ORDINANZE E AVVISI</category>
-			<title>AVVISO.CREDITORI_PR-E-1050 </title>
-			<description>AVVISO.CREDITORI_PR-E-1050 </description>
-			<a10:updated>2018-02-20T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3245128</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3245128</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 19 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3245128</category>
-			<category domain="http://albopop.it/specs#item-category-type">DLC DELIBERA DI CONSIGLIO</category>
-			<title>INTERROGAZIONI EX ART. 24, COMMA 5, DEL REGOLAMENTO DEL CONSIGLIO COMUNALE. </title>
-			<description>INTERROGAZIONI EX ART. 24, COMMA 5, DEL REGOLAMENTO DEL CONSIGLIO COMUNALE. </description>
-			<a10:updated>2018-02-19T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3245023</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3245023</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 19 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3245023</category>
-			<category domain="http://albopop.it/specs#item-category-type">DLC DELIBERA DI CONSIGLIO</category>
-			<title>RISPOSTA ALL’INTERROGAZIONE PRESENTATA NELLA SEDUTA CONSILIARE DEL 27/11/2017 DAL GRUPPO CONSILIARE “CAMBIAMO FELINO” IN MERITO ALLA GESTIONE DEL CAS SITO IN SAN MICHELE TIORRE. </title>
-			<description>RISPOSTA ALL’INTERROGAZIONE PRESENTATA NELLA SEDUTA CONSILIARE DEL 27/11/2017 DAL GRUPPO CONSILIARE “CAMBIAMO FELINO” IN MERITO ALLA GESTIONE DEL CAS SITO IN SAN MICHELE TIORRE. </description>
-			<a10:updated>2018-02-19T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3245021</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3245021</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3245021</category>
-			<category domain="http://albopop.it/specs#item-category-type">DLC DELIBERA DI CONSIGLIO</category>
-			<title>RISPOSTA ALL’INTERROGAZIONE PRESENTATA NELLA SEDUTA CONSILIARE DEL 27/11/2017 DAL GRUPPO CONSILIARE “CAMBIAMO FELINO” IN MERITO AGLI EPISODI DI GUASTI VERIFICATISI PRESSO IL POLO SCOLASTICO. </title>
-			<description>RISPOSTA ALL’INTERROGAZIONE PRESENTATA NELLA SEDUTA CONSILIARE DEL 27/11/2017 DAL GRUPPO CONSILIARE “CAMBIAMO FELINO” IN MERITO AGLI EPISODI DI GUASTI VERIFICATISI PRESSO IL POLO SCOLASTICO. </description>
-			<a10:updated>2018-02-20T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3244969</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3244969</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 19 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3244969</category>
-			<category domain="http://albopop.it/specs#item-category-type">DLC DELIBERA DI CONSIGLIO</category>
-			<title>RISPOSTA ALL’INTERROGAZIONE PRESENTATA NELLA SEDUTA CONSILIARE DEL 27/11/2017 DAL GRUPPO CONSILIARE MISTO IN MERITO A FRUIZIONE E TARIFFE DEL SERVIZIO TRASPORTO SCOLASTICO. </title>
-			<description>RISPOSTA ALL’INTERROGAZIONE PRESENTATA NELLA SEDUTA CONSILIARE DEL 27/11/2017 DAL GRUPPO CONSILIARE MISTO IN MERITO A FRUIZIONE E TARIFFE DEL SERVIZIO TRASPORTO SCOLASTICO. </description>
-			<a10:updated>2018-02-19T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3244967</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3244967</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3244967</category>
-			<category domain="http://albopop.it/specs#item-category-type">DLC DELIBERA DI CONSIGLIO</category>
-			<title>MOZIONE PRESENTATA DAL GRUPPO CONSILIARE MISTO IN MERITO ALLA RIVISITAZIONE DEL REGOLAMENTO TRASPORTO SCOLASTICO DEL COMUNE DI FELINO, APPROVATO CON DELIBERA DI CONSIGLIO COMUNALE N. 23 DEL 3/04/2007. </title>
-			<description>MOZIONE PRESENTATA DAL GRUPPO CONSILIARE MISTO IN MERITO ALLA RIVISITAZIONE DEL REGOLAMENTO TRASPORTO SCOLASTICO DEL COMUNE DI FELINO, APPROVATO CON DELIBERA DI CONSIGLIO COMUNALE N. 23 DEL 3/04/2007. </description>
-			<a10:updated>2018-02-20T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3244965</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3244965</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3244965</category>
-			<category domain="http://albopop.it/specs#item-category-type">DLC DELIBERA DI CONSIGLIO</category>
-			<title>NOMINA PRESIDENTI DELLE CONSULTE DI PARTECIPAZIONE. RATIFICA AI SENSI DELL’ART. 4, COMMA 1, DEL VIGENTE REGOLAMENTO PER IL FUNZIONAMENTO DELLE CONSULTE DI PARTECIPAZIONE. </title>
-			<description>NOMINA PRESIDENTI DELLE CONSULTE DI PARTECIPAZIONE. RATIFICA AI SENSI DELL’ART. 4, COMMA 1, DEL VIGENTE REGOLAMENTO PER IL FUNZIONAMENTO DELLE CONSULTE DI PARTECIPAZIONE. </description>
-			<a10:updated>2018-02-20T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3244963</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3244963</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3244963</category>
-			<category domain="http://albopop.it/specs#item-category-type">DLC DELIBERA DI CONSIGLIO</category>
-			<title>SOSTITUZIONE COMPONENTE DELLA CONSULTA DI SAN MICHELE GATTI A SEGUITO DI DIMISSIONI. RATIFICA AI SENSI DELL’ART. 4, COMMA 1, DEL VIGENTE REGOLAMENTO PER IL FUNZIONAMENTO DELLE CONSULTE DI PARTECIPAZIONE. </title>
-			<description>SOSTITUZIONE COMPONENTE DELLA CONSULTA DI SAN MICHELE GATTI A SEGUITO DI DIMISSIONI. RATIFICA AI SENSI DELL’ART. 4, COMMA 1, DEL VIGENTE REGOLAMENTO PER IL FUNZIONAMENTO DELLE CONSULTE DI PARTECIPAZIONE. </description>
-			<a10:updated>2018-02-20T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3244936</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3244936</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3244936</category>
-			<category domain="http://albopop.it/specs#item-category-type">DLC DELIBERA DI CONSIGLIO</category>
-			<title>CONFERIMENTO DELLE FUNZIONI RELATIVE AI SERVIZI TURISTICI DEI COMUNI - COME PREVISTI DALLA L.R. 25/03/2016, N. 4 - ALL'UNIONE PEDEMONTANA PARMENSE. APPROVAZIONE CONVENZIONE. </title>
-			<description>CONFERIMENTO DELLE FUNZIONI RELATIVE AI SERVIZI TURISTICI DEI COMUNI - COME PREVISTI DALLA L.R. 25/03/2016, N. 4 - ALL'UNIONE PEDEMONTANA PARMENSE. APPROVAZIONE CONVENZIONE. </description>
-			<a10:updated>2018-02-20T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3244934</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3244934</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3244934</category>
-			<category domain="http://albopop.it/specs#item-category-type">DLC DELIBERA DI CONSIGLIO</category>
-			<title>APPROVAZIONE DELLO SCHEMA DI CONVENZIONE DA STIPULARSI TRA I COMUNI DI COLLECCHIO, FELINO, MONTECHIARUGOLO, SALA BAGANZA TRAVERSETOLO E L'UNIONE PEDEMONTANA PARMENSE PER LA GESTIONE ASSOCIATA DELLE FUNZIONI IN MATERIA SISMICA AI SENSI DELLA L.R.19/2008. </title>
-			<description>APPROVAZIONE DELLO SCHEMA DI CONVENZIONE DA STIPULARSI TRA I COMUNI DI COLLECCHIO, FELINO, MONTECHIARUGOLO, SALA BAGANZA TRAVERSETOLO E L'UNIONE PEDEMONTANA PARMENSE PER LA GESTIONE ASSOCIATA DELLE FUNZIONI IN MATERIA SISMICA AI SENSI DELLA L.R.19/2008. </description>
-			<a10:updated>2018-02-20T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3244898</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3244898</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3244898</category>
-			<category domain="http://albopop.it/specs#item-category-type">DLC DELIBERA DI CONSIGLIO</category>
-			<title>APPROVAZIONE SCHEMA DI ACCORDO AI SENSI DELL'ART. 11 DELLA L. 241/90 A VALERE TRA COMUNE DI FELINO, G.P. COSTRUZIONI EDILI SRL, PRAMPOLINI EDDA, BALESTRIERI SILVANA E LEPORATI NORINA. </title>
-			<description>APPROVAZIONE SCHEMA DI ACCORDO AI SENSI DELL'ART. 11 DELLA L. 241/90 A VALERE TRA COMUNE DI FELINO, G.P. COSTRUZIONI EDILI SRL, PRAMPOLINI EDDA, BALESTRIERI SILVANA E LEPORATI NORINA. </description>
-			<a10:updated>2018-02-20T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3244896</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3244896</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3244896</category>
-			<category domain="http://albopop.it/specs#item-category-type">DLC DELIBERA DI CONSIGLIO</category>
-			<title>COMUNICAZIONE DI PRELEVAMENTI DAL FONDO DI RISERVA. </title>
-			<description>COMUNICAZIONE DI PRELEVAMENTI DAL FONDO DI RISERVA. </description>
-			<a10:updated>2018-02-20T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3244835</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3244835</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 20 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3244835</category>
-			<category domain="http://albopop.it/specs#item-category-type">DLC DELIBERA DI CONSIGLIO</category>
-			<title>APPROVAZIONE PIANO FINANZIARIO E TARIFFE DELLA TARIFFA CORRISPETTIVA PER LA GESTIONE RIFIUTI EX ART. 1, COMMA 668, LEGGE 147/2013. ANNO 2018, </title>
-			<description>APPROVAZIONE PIANO FINANZIARIO E TARIFFE DELLA TARIFFA CORRISPETTIVA PER LA GESTIONE RIFIUTI EX ART. 1, COMMA 668, LEGGE 147/2013. ANNO 2018, </description>
-			<a10:updated>2018-02-20T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3243897</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3243897</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 19 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 27 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3243897</category>
-			<category domain="http://albopop.it/specs#item-category-type">A001 PUBBLICAZIONI MATRIMONIO</category>
-			<title>ATTO DI PUBBLICAZIONE DI MATRIMONIO DI MAZZIERI CLAUDIO CON NEGRI SIMONA </title>
-			<description>ATTO DI PUBBLICAZIONE DI MATRIMONIO DI MAZZIERI CLAUDIO CON NEGRI SIMONA </description>
-			<a10:updated>2018-02-19T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3242550</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3242550</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 17 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 25 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3242550</category>
-			<category domain="http://albopop.it/specs#item-category-type">A001 PUBBLICAZIONI MATRIMONIO</category>
-			<title>ATTO DI PUBBLICAZIONE DI MATRIMONIO DI RUSSO UMBERTO CON TORTOROLI SIMONA </title>
-			<description>ATTO DI PUBBLICAZIONE DI MATRIMONIO DI RUSSO UMBERTO CON TORTOROLI SIMONA </description>
-			<a10:updated>2018-02-17T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3242353</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3242353</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 17 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3242353</category>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4569628</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4569628</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 22 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 21 Sep 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">4569628</category>
 			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
-			<title>ANOMALIA MESSAGGIO: BANDO DI MOBILITÀ ESTERNA VOLONTARIA PER LA COPERTURA DI DUE POSTI DI AGENTE POLIZIA MUNICIPALE - CAT. C - A TEMPO INDETERMINATO ED A TEMPO PIENO. </title>
-			<description>ANOMALIA MESSAGGIO: BANDO DI MOBILITÀ ESTERNA VOLONTARIA PER LA COPERTURA DI DUE POSTI DI AGENTE POLIZIA MUNICIPALE - CAT. C - A TEMPO INDETERMINATO ED A TEMPO PIENO. </description>
-			<a10:updated>2018-02-17T00:00:00+01:00</a10:updated>
+			<title>SOSPENSIONE DEI PRELIEVI IDRICI DAL T. BAGANZA E SUOI AFFLUENTI, NEL TERRITORIO DI COMPETENZA DEL SERVIZIO AUTORIZZAZIONI E CONCESSIONI DI ARPAE PARMA </title>
+			<description>SOSPENSIONE DEI PRELIEVI IDRICI DAL T. BAGANZA E SUOI AFFLUENTI, NEL TERRITORIO DI COMPETENZA DEL SERVIZIO AUTORIZZAZIONI E CONCESSIONI DI ARPAE PARMA </description>
+			<a10:updated>2020-08-22T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3242351</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3242351</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 17 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3242351</category>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4565217</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4565217</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 21 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 05 Sep 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">4565217</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
+			<title>PROVVEDIMENTO DEL SINDACO N. 2 </title>
+			<description>PROVVEDIMENTO DEL SINDACO N. 2 </description>
+			<a10:updated>2020-08-21T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4561844</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4561844</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 19 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 18 Sep 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">4561844</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
+			<title>RILASCIO PERMESSO DI COSTRUIRE PER REALIZZAZIONE BOCCHE DI CARICO IN VIA CALESTANO A POGGIO S. ILARIO BAGANZA </title>
+			<description>RILASCIO PERMESSO DI COSTRUIRE PER REALIZZAZIONE BOCCHE DI CARICO IN VIA CALESTANO A POGGIO S. ILARIO BAGANZA </description>
+			<a10:updated>2020-08-19T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4561842</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4561842</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 19 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 18 Sep 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">4561842</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
+			<title>PERMESSO DI COSTRURE PER REALIZZAZIONE DEPOSITO ATTREZZI IN VIA RICÒ </title>
+			<description>PERMESSO DI COSTRURE PER REALIZZAZIONE DEPOSITO ATTREZZI IN VIA RICÒ </description>
+			<a10:updated>2020-08-19T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4561450</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4561450</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 19 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 19 Oct 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">4561450</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
+			<title>SOSPENSIONE DEI PRELIEVI IDRICI DAL FIUME TARO, NEL TERRITORIO DI COMPETENZA DEL SERVIZIO AUTORIZZAZIONI E CONCESSIONI DI ARPAE PARMA </title>
+			<description>SOSPENSIONE DEI PRELIEVI IDRICI DAL FIUME TARO, NEL TERRITORIO DI COMPETENZA DEL SERVIZIO AUTORIZZAZIONI E CONCESSIONI DI ARPAE PARMA </description>
+			<a10:updated>2020-08-19T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4559046</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4559046</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 17 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 26 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">4559046</category>
+			<category domain="http://albopop.it/specs#item-category-type">A005 ORDINANZE E AVVISI</category>
+			<title>SOSPENSIONE TEMPORANEA DELLA SOSTA ORARIA IN PIAZZA MIODINI DURANTE I LAVORI, IN VIA ROMA , PER RIQUALIFICA SERVIZI GAS E ACQUA </title>
+			<description>SOSPENSIONE TEMPORANEA DELLA SOSTA ORARIA IN PIAZZA MIODINI DURANTE I LAVORI, IN VIA ROMA , PER RIQUALIFICA SERVIZI GAS E ACQUA </description>
+			<a10:updated>2020-08-17T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4553277</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4553277</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 14 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 20 Sep 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">4553277</category>
 			<category domain="http://albopop.it/specs#item-category-type">A003 AVVISI ELETTORALI </category>
-			<title>ELEZIONI POLITICHE DEL 4 MARZO 2018 - LISTE DEI CANDIDATI PER L'ELEZIONE DELLA CAMERA DEI DEPUTATI E DEL SENATO DELLA REPUBBLICA. </title>
-			<description>ELEZIONI POLITICHE DEL 4 MARZO 2018 - LISTE DEI CANDIDATI PER L'ELEZIONE DELLA CAMERA DEI DEPUTATI E DEL SENATO DELLA REPUBBLICA. </description>
-			<a10:updated>2018-02-17T00:00:00+01:00</a10:updated>
+			<title>REFERENDUM DEL 20/21 SETTEMBRE 2020 - AVVISO DEPOSITO VERBALE RELATIVO ALLA COMPILAZIONE DELL’ELENCO DEI CITTADINI CHE, PUR ESSENDO COMPRESI NELLE LISTE ELETTORALI, NON AVRANNO COMPIUTO, NEL PRIMO GIORNO FISSATO PER LE ELEZIONI, IL 18° ANNO DI ETA’ </title>
+			<description>REFERENDUM DEL 20/21 SETTEMBRE 2020 - AVVISO DEPOSITO VERBALE RELATIVO ALLA COMPILAZIONE DELL’ELENCO DEI CITTADINI CHE, PUR ESSENDO COMPRESI NELLE LISTE ELETTORALI, NON AVRANNO COMPIUTO, NEL PRIMO GIORNO FISSATO PER LE ELEZIONI, IL 18° ANNO DI ETA’ </description>
+			<a10:updated>2020-08-14T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3242290</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3242290</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 17 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 31 Dec 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3242290</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
-			<title>BANDO PER REVISIONE DELLE PATENTI DI ABILITAZIONE PER L’IMPIEGO DEI GAS TOSSICI </title>
-			<description>BANDO PER REVISIONE DELLE PATENTI DI ABILITAZIONE PER L’IMPIEGO DEI GAS TOSSICI </description>
-			<a10:updated>2018-02-17T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3242288</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3242288</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 17 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 15 Sep 2018 02:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3242288</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
-			<title>BANDO PER L'ABILITAZIONE ALL'IMPIEGO DEI GAS TOSSICI </title>
-			<description>BANDO PER L'ABILITAZIONE ALL'IMPIEGO DEI GAS TOSSICI </description>
-			<a10:updated>2018-02-17T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3241412</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3241412</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 16 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 22 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3241412</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
-			<title>CONVOCAZIONE COMMISSIONE PER LA QUALITÀ ARCHITETTONICA E IL PAESAGGIO AI SENSI DELL’ART. 6 L.R. 15/2013 E DELL’ART. 8 DEL REGOLAMENTO EDILIZIO VIGENTE PER GIOVEDÌ 22 FEBBRAIO 2018 </title>
-			<description>CONVOCAZIONE COMMISSIONE PER LA QUALITÀ ARCHITETTONICA E IL PAESAGGIO AI SENSI DELL’ART. 6 L.R. 15/2013 E DELL’ART. 8 DEL REGOLAMENTO EDILIZIO VIGENTE PER GIOVEDÌ 22 FEBBRAIO 2018 </description>
-			<a10:updated>2018-02-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3240481</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3240481</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 16 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 24 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3240481</category>
-			<category domain="http://albopop.it/specs#item-category-type">A001 PUBBLICAZIONI MATRIMONIO</category>
-			<title>ATTO DI PUBBLICAZIONE DI MATRIMONIO DI BRUNO GIOVANNI CON MIGLIARI BEATRICE </title>
-			<description>ATTO DI PUBBLICAZIONE DI MATRIMONIO DI BRUNO GIOVANNI CON MIGLIARI BEATRICE </description>
-			<a10:updated>2018-02-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3239464</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3239464</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 23 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3239464</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
-			<title>RICHIESTA PUBBLICAZIONE MEDIANTE PROCEDURA PREVISTA DALL'ART. 140 CPC PER BA BARA </title>
-			<description>RICHIESTA PUBBLICAZIONE MEDIANTE PROCEDURA PREVISTA DALL'ART. 140 CPC PER BA BARA </description>
-			<a10:updated>2018-02-15T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3238260</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3238260</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 15 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 16 May 2018 02:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3238260</category>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4553275</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4553275</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 14 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 07 Sep 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">4553275</category>
 			<category domain="http://albopop.it/specs#item-category-type">A005 ORDINANZE E AVVISI</category>
-			<title>PREVENZIONE E CONTROLLO DELLA LEGIONELLOSI NEL TERRITORIO COMUNALE - DGR N. 828/2017 “LINEE GUIDA PER LA SORVEGLIANZA E IL CONTROLLO DELLA LEGIONELLOSI” </title>
-			<description>PREVENZIONE E CONTROLLO DELLA LEGIONELLOSI NEL TERRITORIO COMUNALE - DGR N. 828/2017 “LINEE GUIDA PER LA SORVEGLIANZA E IL CONTROLLO DELLA LEGIONELLOSI” </description>
-			<a10:updated>2018-02-15T00:00:00+01:00</a10:updated>
+			<title>MODIFICA TEMPORANEA ALLA VIABILITA’ IN FELINO, VIA ROMA FELINO, PER LAVORI IRETI DI RIQUALIFICA SERVIZI GAS E ACQUA – FASE 3; </title>
+			<description>MODIFICA TEMPORANEA ALLA VIABILITA’ IN FELINO, VIA ROMA FELINO, PER LAVORI IRETI DI RIQUALIFICA SERVIZI GAS E ACQUA – FASE 3; </description>
+			<a10:updated>2020-08-14T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3230614</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3230614</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 14 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3230614</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
-			<title>POSTA CERTIFICATA: PROT.N.0001518/2018 - AVVISO DI MOBILITA ESTERNA PER LA COPERTURA DI UN POSTO DI AGENTE DI POLIZIA MUNICIPALE CAT C </title>
-			<description>POSTA CERTIFICATA: PROT.N.0001518/2018 - AVVISO DI MOBILITA ESTERNA PER LA COPERTURA DI UN POSTO DI AGENTE DI POLIZIA MUNICIPALE CAT C </description>
-			<a10:updated>2018-02-14T00:00:00+01:00</a10:updated>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4547597</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4547597</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 11 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 10 Oct 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">4547597</category>
+			<category domain="http://albopop.it/specs#item-category-type">A005 ORDINANZE E AVVISI</category>
+			<title>MESSA IN FUNZIONE IMPIANTO SEMAFORICO DI VIA UGO BALDI ALL’INTERSEZIONE VIA CAPELLI/VIA P.BORGHI; </title>
+			<description>MESSA IN FUNZIONE IMPIANTO SEMAFORICO DI VIA UGO BALDI ALL’INTERSEZIONE VIA CAPELLI/VIA P.BORGHI; </description>
+			<a10:updated>2020-08-11T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3224454</guid>
-			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3224454</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 13 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3224454</category>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4547525</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4547525</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 11 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 25 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">4547525</category>
 			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
-			<title>POSTA CERTIFICATA: INVIO AVVISO DI MOBILITA' </title>
-			<description>POSTA CERTIFICATA: INVIO AVVISO DI MOBILITA' </description>
-			<a10:updated>2018-02-13T00:00:00+01:00</a10:updated>
+			<title>POSTA CERTIFICATA: AOO UCBEP - 10/08/2020 - 0004577 TRSAMISSIONE BANDI DI CONCORSO </title>
+			<description>POSTA CERTIFICATA: AOO UCBEP - 10/08/2020 - 0004577 TRSAMISSIONE BANDI DI CONCORSO </description>
+			<a10:updated>2020-08-11T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4546932</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4546932</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 11 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 10 Oct 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">4546932</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
+			<title>L.R. 8/94 E S.M., ART. 22-ZONE DI RIFUGIO ANNO 2020/2021 -NOTIFICA ATTO DI ISTITUZIONE. </title>
+			<description>L.R. 8/94 E S.M., ART. 22-ZONE DI RIFUGIO ANNO 2020/2021 -NOTIFICA ATTO DI ISTITUZIONE. </description>
+			<a10:updated>2020-08-11T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4545850</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4545850</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 10 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 25 Sep 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">4545850</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
+			<title>POSTA CERTIFICATA: BANDO DI MOBILITÀ ESTERNA AI SENSI DELL'ART. 30 DEL D.LGS 165/2011 - PER LA COPERTURA DI N. 1 POSTO DI CATEGORIA C PROFILO PROFESSIONALE “TECNICO IMMOBILI - ESPERTO IN IMPIANTI”. </title>
+			<description>POSTA CERTIFICATA: BANDO DI MOBILITÀ ESTERNA AI SENSI DELL'ART. 30 DEL D.LGS 165/2011 - PER LA COPERTURA DI N. 1 POSTO DI CATEGORIA C PROFILO PROFESSIONALE “TECNICO IMMOBILI - ESPERTO IN IMPIANTI”. </description>
+			<a10:updated>2020-08-10T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4545664</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4545664</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 10 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 09 Sep 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">4545664</category>
+			<category domain="http://albopop.it/specs#item-category-type">A005 ORDINANZE E AVVISI</category>
+			<title>ORDINANZA PER L’ESECUZIONE DI MANUTENZIONE DI TERRENI E LOTTI ALL’INTERNO DEL PERIMETRO URBANO E IN AREE LIMITROFE AI FINI DELLA SALVAGUARDIA DELLA SANITA’ E SICUREZZA PUBLICA </title>
+			<description>ORDINANZA PER L’ESECUZIONE DI MANUTENZIONE DI TERRENI E LOTTI ALL’INTERNO DEL PERIMETRO URBANO E IN AREE LIMITROFE AI FINI DELLA SALVAGUARDIA DELLA SANITA’ E SICUREZZA PUBLICA </description>
+			<a10:updated>2020-08-10T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4535008</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4535008</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 06 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 21 Sep 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">4535008</category>
+			<category domain="http://albopop.it/specs#item-category-type">A003 AVVISI ELETTORALI </category>
+			<title>REFERENDUM COSTITUZIONALE - CONVOCAZIONE DEI COMIZI ELETTORALI PER I GIORNI DI DOMENICA 20 E LUNEDI 21 SETTEMBRE 2020 </title>
+			<description>REFERENDUM COSTITUZIONALE - CONVOCAZIONE DEI COMIZI ELETTORALI PER I GIORNI DI DOMENICA 20 E LUNEDI 21 SETTEMBRE 2020 </description>
+			<a10:updated>2020-08-06T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4532051</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4532051</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 04 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 31 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">4532051</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
+			<title>UNIONE MONTANA APPENNINO PARMA EST - RICHIESTA PUBBLICAZIONE AVVISO RIAPERTURA TERMINI BANDO DI SELEZIONE PUBBLICA PER SOLI ESAMI PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO E INDETERMINATO CON PROFILO PROFESSIONALE DI "ISTRUTTORE DIRETTIVO TECNICO” (CATEGORIA GIURIDICA D POSIZIONE ECONOMICA D1 - CCNL PERSONALE NON DIRIGENTE COMPARTO FUNZIONI LOCALI) DA ASSEGNARE ALL’AREA TECNICA – SERVIZIO SISMICA DELL’UNIONE MONTANA APPENNINO PARMA EST </title>
+			<description>UNIONE MONTANA APPENNINO PARMA EST - RICHIESTA PUBBLICAZIONE AVVISO RIAPERTURA TERMINI BANDO DI SELEZIONE PUBBLICA PER SOLI ESAMI PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO E INDETERMINATO CON PROFILO PROFESSIONALE DI "ISTRUTTORE DIRETTIVO TECNICO” (CATEGORIA GIURIDICA D POSIZIONE ECONOMICA D1 - CCNL PERSONALE NON DIRIGENTE COMPARTO FUNZIONI LOCALI) DA ASSEGNARE ALL’AREA TECNICA – SERVIZIO SISMICA DELL’UNIONE MONTANA APPENNINO PARMA EST </description>
+			<a10:updated>2020-08-04T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4528779</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4528779</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 01 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 31 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">4528779</category>
+			<category domain="http://albopop.it/specs#item-category-type">A005 ORDINANZE E AVVISI</category>
+			<title>MISURE DI CONTENIMENTO E GESTIONE DELL’EMERGENZA EPIDEMIOLOGICA DA COVID-19 IN VIGORE DAL 1° AGOSTO 2020. </title>
+			<description>MISURE DI CONTENIMENTO E GESTIONE DELL’EMERGENZA EPIDEMIOLOGICA DA COVID-19 IN VIGORE DAL 1° AGOSTO 2020. </description>
+			<a10:updated>2020-08-01T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4527801</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4527801</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 31 Jul 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 30 Sep 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">4527801</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
+			<title>POSTA CERTIFICATA: PROT. N.4803 DEL 30-07-2020 - TRASMISSIONE BANDO DI CONCORSO 1 POSTO TEMPO PIENO ED INDETERMINATO OPERAIO CAT. B1 </title>
+			<description>POSTA CERTIFICATA: PROT. N.4803 DEL 30-07-2020 - TRASMISSIONE BANDO DI CONCORSO 1 POSTO TEMPO PIENO ED INDETERMINATO OPERAIO CAT. B1 </description>
+			<a10:updated>2020-07-31T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4527688</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4527688</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 31 Jul 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 31 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">4527688</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
+			<title>BANDO DI SELEZIONE PUBBLICA PER SOLI ESAMI PER ASSUNZIONE DI UNA UNITÀ DI PERSONALE A TEMPO PIENO ED A TEMPO INDETERMINATO CON PROFILO PROFESSIONALE DI “ISTRUTTORE DIRETTIVO TECNICO” CATEGORIA GIURIDICA D – POSIZIONE ECONOMICA D1 CCNL DEL COMPARTO FUNZIONI LOCALI DA ASSEGNARE AL SETTORE TECNICO DEL COMUNE DI CORNIGLIO </title>
+			<description>BANDO DI SELEZIONE PUBBLICA PER SOLI ESAMI PER ASSUNZIONE DI UNA UNITÀ DI PERSONALE A TEMPO PIENO ED A TEMPO INDETERMINATO CON PROFILO PROFESSIONALE DI “ISTRUTTORE DIRETTIVO TECNICO” CATEGORIA GIURIDICA D – POSIZIONE ECONOMICA D1 CCNL DEL COMPARTO FUNZIONI LOCALI DA ASSEGNARE AL SETTORE TECNICO DEL COMUNE DI CORNIGLIO </description>
+			<a10:updated>2020-07-31T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4525580</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4525580</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 30 Jul 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 27 Jan 2021 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">4525580</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
+			<title>POSTA CERTIFICATA: 392.2020 RICHIESTA PUBBLICAZIONE ALBO PRETORIO COMUNE DI FELINO PR- LAVORI DI TAGLIO PIANTE LUNGO LINEE ELETTRICHE E-DISTRIBUZIONE </title>
+			<description>POSTA CERTIFICATA: 392.2020 RICHIESTA PUBBLICAZIONE ALBO PRETORIO COMUNE DI FELINO PR- LAVORI DI TAGLIO PIANTE LUNGO LINEE ELETTRICHE E-DISTRIBUZIONE </description>
+			<a10:updated>2020-07-30T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4525326</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4525326</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 30 Jul 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 29 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">4525326</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
+			<title>RETTIFICA - GRADUATORIE NIDO D’INFANZIA INTERCOMUNALE FELINO-SALA BAGANZA “LA RONDINE” E MICRONIDO “ARCOBALENO” DI SAN MICHELE TIORRE ANNO EDUCATIVO 2020/2021 </title>
+			<description>RETTIFICA - GRADUATORIE NIDO D’INFANZIA INTERCOMUNALE FELINO-SALA BAGANZA “LA RONDINE” E MICRONIDO “ARCOBALENO” DI SAN MICHELE TIORRE ANNO EDUCATIVO 2020/2021 </description>
+			<a10:updated>2020-07-30T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4520698</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4520698</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 28 Jul 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 27 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">4520698</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
+			<title>GRADUATORIE NIDO D’INFANZIA INTERCOMUNALE FELINO-SALA BAGANZA “LA RONDINE” E MICRONIDO “ARCOBALENO” DI SAN MICHELE TIORRE ANNO EDUCATIVO 2020/2021 </title>
+			<description>GRADUATORIE NIDO D’INFANZIA INTERCOMUNALE FELINO-SALA BAGANZA “LA RONDINE” E MICRONIDO “ARCOBALENO” DI SAN MICHELE TIORRE ANNO EDUCATIVO 2020/2021 </description>
+			<a10:updated>2020-07-28T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4495880</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4495880</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 09 Jul 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 01 Sep 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">4495880</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI ALBO GENERICO</category>
+			<title>AVVISO MOBILITÀ TRA ENTI </title>
+			<description>AVVISO MOBILITÀ TRA ENTI </description>
+			<a10:updated>2020-07-09T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4468363</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4468363</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 23 Jun 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 23 Dec 2020 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">4468363</category>
+			<category domain="http://albopop.it/specs#item-category-type">A005 ORDINANZE E AVVISI</category>
+			<title>ELENCO CONCESSIONI CIMITERIALI SCADUTE O IN SCADENZA AL 31.12.2020 NEL CIMITERO DI CEVOLA. PUBBLICAZIONE AI SENSI DELL'ART. 23 DEL REGOLAMENTO COMUNALE DI POLIZIA MORTUARIA </title>
+			<description>ELENCO CONCESSIONI CIMITERIALI SCADUTE O IN SCADENZA AL 31.12.2020 NEL CIMITERO DI CEVOLA. PUBBLICAZIONE AI SENSI DELL'ART. 23 DEL REGOLAMENTO COMUNALE DI POLIZIA MORTUARIA </description>
+			<a10:updated>2020-06-23T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4468361</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4468361</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 23 Jun 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 23 Dec 2020 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">4468361</category>
+			<category domain="http://albopop.it/specs#item-category-type">A005 ORDINANZE E AVVISI</category>
+			<title>ELENCO CONCESSIONI CIMITERIALI SCADUTE O IN SCADENZA AL 31.12.2020 NEL CIMITERO DI BARBIANO. PUBBLICAZIONE AI SENSI DELL'ART. 23 DEL REGOLAMENTO COMUNALE DI POLIZIA MORTUARIA </title>
+			<description>ELENCO CONCESSIONI CIMITERIALI SCADUTE O IN SCADENZA AL 31.12.2020 NEL CIMITERO DI BARBIANO. PUBBLICAZIONE AI SENSI DELL'ART. 23 DEL REGOLAMENTO COMUNALE DI POLIZIA MORTUARIA </description>
+			<a10:updated>2020-06-23T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4468359</guid>
+			<link>http://felino.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4468359</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 23 Jun 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 23 Dec 2020 01:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">4468359</category>
+			<category domain="http://albopop.it/specs#item-category-type">A005 ORDINANZE E AVVISI</category>
+			<title>ELENCO CONCESSIONI CIMITERIALI SCADUTE O IN SCADENZA AL 31.12.2020 NEL CIMITERO DI FELINO. PUBBLICAZIONE AI SENSI DELL'ART. 23 DEL REGOLAMENTO COMUNALE DI POLIZIA MORTUARIA </title>
+			<description>ELENCO CONCESSIONI CIMITERIALI SCADUTE O IN SCADENZA AL 31.12.2020 NEL CIMITERO DI FELINO. PUBBLICAZIONE AI SENSI DELL'ART. 23 DEL REGOLAMENTO COMUNALE DI POLIZIA MORTUARIA </description>
+			<a10:updated>2020-06-23T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>

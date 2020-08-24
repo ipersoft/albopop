@@ -5,7 +5,7 @@
 		<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Bitonto</description>
 		<language>it</language>
-		<lastBuildDate>Thu, 22 Feb 2018 18:30:31 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 25 Aug 2020 00:45:01 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Bitonto</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Bari</category>
@@ -16,260 +16,285 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Bitonto</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_bitonto</a10:id>
-		<pubDate>Thu, 22 Feb 2018 18:30:31 +0100</pubDate>
+		<pubDate>Tue, 25 Aug 2020 00:45:01 +0200</pubDate>
 		<docs>http://albopop.it/comune/bitonto/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
 		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3885598</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3885598</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3885598</category>
-			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
-			<title>VIA GUIDONE - DIVIETO DI TRANSITO E SOSTA VEICOLARE - SULLA PARTE TERMINALE DELLA STESSA PER VERIFICHE TECNICHE </title>
-			<description>VIA GUIDONE - DIVIETO DI TRANSITO E SOSTA VEICOLARE - SULLA PARTE TERMINALE DELLA STESSA PER VERIFICHE TECNICHE </description>
-			<a10:updated>2018-02-22T00:00:00+01:00</a10:updated>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5797905</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5797905</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 24 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 21 Sep 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">5797905</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISI ALTRI ENTI</category>
+			<title>AVVISO PUBBLICO DI MOBILITÀ VOLONTARIA PER LA COPERTURA DI N. 6 POSTI A TEMPO PIENO ED INDETERMINATO PER VARI PROFILI PROFESSIONALI APPARTENENTI ALLA CATEGORIA C E D MEDIANTE PASSAGGIO DIRETTO AI SENSI DELL’ART. 30 DEL D.LGS 165/2001. </title>
+			<description>AVVISO PUBBLICO DI MOBILITÀ VOLONTARIA PER LA COPERTURA DI N. 6 POSTI A TEMPO PIENO ED INDETERMINATO PER VARI PROFILI PROFESSIONALI APPARTENENTI ALLA CATEGORIA C E D MEDIANTE PASSAGGIO DIRETTO AI SENSI DELL’ART. 30 DEL D.LGS 165/2001. </description>
+			<a10:updated>2020-08-24T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3884959</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3884959</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 17 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3884959</category>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5797842</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5797842</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 24 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 27 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">5797842</category>
 			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISI COMUNALI</category>
-			<title>ELEZIONE DELLA CAMERA DEI DEPUTATI - ANNO 2018. LISTE DEI CANDIDATI. </title>
-			<description>ELEZIONE DELLA CAMERA DEI DEPUTATI - ANNO 2018. LISTE DEI CANDIDATI. </description>
-			<a10:updated>2018-02-17T00:00:00+01:00</a10:updated>
+			<title>CONVOCAZIONE DELLA COMMISSIONE ELETTORALE COMUNALE </title>
+			<description>CONVOCAZIONE DELLA COMMISSIONE ELETTORALE COMUNALE </description>
+			<a10:updated>2020-08-24T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3884183</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3884183</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3884183</category>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5797807</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5797807</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 24 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 08 Sep 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">5797807</category>
 			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
-			<title>VIA DELLA REPUBBLICA ITALIANA - DIVIETO DI SOSTA CON RIMOZIONE DAL 26 AL 28/02/2018 - LAVORI DI MANUTENZIONE DEL VERDE PUBBLICO - DITTA TOSCANO NICOLA </title>
-			<description>VIA DELLA REPUBBLICA ITALIANA - DIVIETO DI SOSTA CON RIMOZIONE DAL 26 AL 28/02/2018 - LAVORI DI MANUTENZIONE DEL VERDE PUBBLICO - DITTA TOSCANO NICOLA </description>
-			<a10:updated>2018-02-22T00:00:00+01:00</a10:updated>
+			<title>VIA KENNEDY, CIV. 1 - DIVIETO DI SOSTA CON RIMOZIONE - I GIORNI 26 E 27 AGOSTO 2020 - PER LAVORI URGENTI DI RIPRISTINO FRONTALINI IN FASE DI CADUTA - IL RESTAURO </title>
+			<description>VIA KENNEDY, CIV. 1 - DIVIETO DI SOSTA CON RIMOZIONE - I GIORNI 26 E 27 AGOSTO 2020 - PER LAVORI URGENTI DI RIPRISTINO FRONTALINI IN FASE DI CADUTA - IL RESTAURO </description>
+			<a10:updated>2020-08-24T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883447</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883447</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3883447</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI 06 - SERVIZIO TRIBUTI</category>
-			<title>RIMBORSI TARI ED IMU A CONTRIBUENTI VARI E RIVERSAMENTO AD ALTRO COMUNE </title>
-			<description>RIMBORSI TARI ED IMU A CONTRIBUENTI VARI E RIVERSAMENTO AD ALTRO COMUNE </description>
-			<a10:updated>2018-02-22T00:00:00+01:00</a10:updated>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5797644</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5797644</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 24 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 08 Sep 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">5797644</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
+			<title>VIA F. MUCIACCIA, 2 - DIVIETO DI SOSTA CON RIMOZIONE IL GIORNO 28/08/2020 DALLE 7:30 ALLE 14:00 - OPERAZIONI DI TRASLOCO "PROGETTI DI CASA" </title>
+			<description>VIA F. MUCIACCIA, 2 - DIVIETO DI SOSTA CON RIMOZIONE IL GIORNO 28/08/2020 DALLE 7:30 ALLE 14:00 - OPERAZIONI DI TRASLOCO "PROGETTI DI CASA" </description>
+			<a10:updated>2020-08-24T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883445</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883445</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3883445</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI 07 - SERVIZIO DEMOGRAFICO</category>
-			<title>GESTIONE SERVIZI CIMITERIALI QUARTO TRIMESTRE 2017. LIQUIDAZIONE </title>
-			<description>GESTIONE SERVIZI CIMITERIALI QUARTO TRIMESTRE 2017. LIQUIDAZIONE </description>
-			<a10:updated>2018-02-22T00:00:00+01:00</a10:updated>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5796757</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5796757</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Sat, 22 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sun, 06 Sep 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">5796757</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
+			<title>VIA G. MATTEOTTI, TRATTO COMPRESO TRA VIA L. D'ANGIO' E PIAZZA F. D'ARAGONA - IL 5 SETTEMBRE 2020 - PER MANIFESTAZIONE AUTO E MOTO D'EPOCA - ASTE E BILANCIERI </title>
+			<description>VIA G. MATTEOTTI, TRATTO COMPRESO TRA VIA L. D'ANGIO' E PIAZZA F. D'ARAGONA - IL 5 SETTEMBRE 2020 - PER MANIFESTAZIONE AUTO E MOTO D'EPOCA - ASTE E BILANCIERI </description>
+			<a10:updated>2020-08-22T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883441</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883441</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3883441</category>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5796239</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5796239</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 21 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 05 Sep 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">5796239</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
+			<title>VIA ISONZO ANGOLO VIA CARRARA - DIVIETO DI SOSTA CON RIMOZIONE DAL 24/08 AL 07/09/2020 - LAVORI EDILI - B.&amp;B. COSTRUZIONI </title>
+			<description>VIA ISONZO ANGOLO VIA CARRARA - DIVIETO DI SOSTA CON RIMOZIONE DAL 24/08 AL 07/09/2020 - LAVORI EDILI - B.&amp;B. COSTRUZIONI </description>
+			<a10:updated>2020-08-21T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5795742</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5795742</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 21 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 04 Sep 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">5795742</category>
+			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERA DI GIUNTA</category>
+			<title>REFERENDUM EX ARTICOLO 138 DELLA COSTITUZIONE DI DOMENICA 20 E LUNEDI’ 21 SETTEMBRE 2020 PER L’APPROVAZIONE DEL TESTO DELLA LEGGE COSTITUZIONALE IN MATERIA DI RIDUZIONE DEL NUMERO DEI PARLAMENTARI. ASSEGNAZIONE DEGLI SPAZI PER PROPAGANDA ELETTORALE. </title>
+			<description>REFERENDUM EX ARTICOLO 138 DELLA COSTITUZIONE DI DOMENICA 20 E LUNEDI’ 21 SETTEMBRE 2020 PER L’APPROVAZIONE DEL TESTO DELLA LEGGE COSTITUZIONALE IN MATERIA DI RIDUZIONE DEL NUMERO DEI PARLAMENTARI. ASSEGNAZIONE DEGLI SPAZI PER PROPAGANDA ELETTORALE. </description>
+			<a10:updated>2020-08-21T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5795740</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5795740</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 21 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 04 Sep 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">5795740</category>
+			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERA DI GIUNTA</category>
+			<title>REFERENDUM EX ART. 138 DELLA COSTITUZIONE E CONSULTAZIONI REGIONALI DI DOMENICA 20 E LUNEDI’ 21 SETTEMBRE 2020. INDIVIDUAZIONE DEI LUOGHI E DEL NUMERO DEGLI SPAZI DESTINATI ALLE AFFISSIONI PER LA PROPAGANDA. </title>
+			<description>REFERENDUM EX ART. 138 DELLA COSTITUZIONE E CONSULTAZIONI REGIONALI DI DOMENICA 20 E LUNEDI’ 21 SETTEMBRE 2020. INDIVIDUAZIONE DEI LUOGHI E DEL NUMERO DEGLI SPAZI DESTINATI ALLE AFFISSIONI PER LA PROPAGANDA. </description>
+			<a10:updated>2020-08-21T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5793011</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5793011</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 19 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 03 Sep 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">5793011</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI RESPONSABILI DEI SERVIZI (DAL 6-03-2015) 12 - SERVIZIO LAVORI PUBBLICI</category>
+			<title>SERVIZIO DI MANUTENZIONE DEL VERDE PUBBLICO DELLA CITTÀ DI BITONTO E DELLE FRAZIONI DI MARIOTTO E PALOMBAIO PROROGA DEL SERVIZIO PER IL PERIODO AGOSTO – OTTOBRE 2020 PROROGA TECNICA EX ART. 106, COMMA 11, D. LGS. 50/2016 DEI TERMINI STABILITI DAL BANDO DI GARA </title>
+			<description>SERVIZIO DI MANUTENZIONE DEL VERDE PUBBLICO DELLA CITTÀ DI BITONTO E DELLE FRAZIONI DI MARIOTTO E PALOMBAIO PROROGA DEL SERVIZIO PER IL PERIODO AGOSTO – OTTOBRE 2020 PROROGA TECNICA EX ART. 106, COMMA 11, D. LGS. 50/2016 DEI TERMINI STABILITI DAL BANDO DI GARA </description>
+			<a10:updated>2020-08-19T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5793008</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5793008</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 19 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 03 Sep 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">5793008</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI RESPONSABILI DEI SERVIZI (DAL 6-03-2015) 11 - SERVIZIO PATRIMONIO E PER LA PUBBLICA ISTRUZIONE</category>
+			<title>Fondi Strutturali Europei – Programma Operativo Nazionale “Per la scuola, competenze e ambienti per l’apprendimento” 2014-2020. Asse II – Infrastrutture per l’Istruzione – Fondo Europeo di Sviluppo Regionale (FESR). Obiettivo Specifico 10.7 – Azione 10.7.1 -CUP: [D59D20000430001 ] - CIG [8402269BB7]. DETERMINAZIONE A CONTRARRE. </title>
+			<description>Fondi Strutturali Europei – Programma Operativo Nazionale “Per la scuola, competenze e ambienti per l’apprendimento” 2014-2020. Asse II – Infrastrutture per l’Istruzione – Fondo Europeo di Sviluppo Regionale (FESR). Obiettivo Specifico 10.7 – Azione 10.7.1 -CUP: [D59D20000430001 ] - CIG [8402269BB7]. DETERMINAZIONE A CONTRARRE. </description>
+			<a10:updated>2020-08-19T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5793005</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5793005</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 19 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 03 Sep 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">5793005</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI RESPONSABILI DEI SERVIZI (DAL 6-03-2015) 12 - SERVIZIO LAVORI PUBBLICI</category>
+			<title>CIMITERO DEL CAPOLUOGO DEL COMUNE – VARIANTE AL PIANO CIMITERIALE DELLA NUOVA ZONA DI AMPLIAMENTO A SUD–OVEST REALIZZAZIONE DI EDICOLE FUNERARIE A QUATTRO ORDINI A DOPPIO FRONTE CON OSSARI INTERVENTI AGGIUNTIVI DI CUI ALL’ART. 3.2 DEL CAPITOLATO DI APPALTO – PROVVEDIMENTI CIG Z192DCBF28 </title>
+			<description>CIMITERO DEL CAPOLUOGO DEL COMUNE – VARIANTE AL PIANO CIMITERIALE DELLA NUOVA ZONA DI AMPLIAMENTO A SUD–OVEST REALIZZAZIONE DI EDICOLE FUNERARIE A QUATTRO ORDINI A DOPPIO FRONTE CON OSSARI INTERVENTI AGGIUNTIVI DI CUI ALL’ART. 3.2 DEL CAPITOLATO DI APPALTO – PROVVEDIMENTI CIG Z192DCBF28 </description>
+			<a10:updated>2020-08-19T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5792511</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5792511</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 19 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 03 Sep 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">5792511</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
+			<title>VIA DELL REP. ITALIANA, 83/91 - DIVIETO DI SOSTA CON RIMOZIONE IL GIORNO 22/08/2020 DALLE 7:00 ALLE 13:00 - OPERAZIONI DI TRASLOCO - COOP. LA ROSA BLU </title>
+			<description>VIA DELL REP. ITALIANA, 83/91 - DIVIETO DI SOSTA CON RIMOZIONE IL GIORNO 22/08/2020 DALLE 7:00 ALLE 13:00 - OPERAZIONI DI TRASLOCO - COOP. LA ROSA BLU </description>
+			<a10:updated>2020-08-19T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5792360</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5792360</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 19 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 03 Sep 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">5792360</category>
 			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI 08 - SERVIZIO POLITICHE SOCIALI</category>
-			<title>SERVIZIO OSPITALITÀ N.1 NUCLEO (MADRE E N.2 MINORI). COOPERATIVA SOCIALE "ARTEMIDE"- LATIANO (BR) - LIQUIDAZIONE FATTURE PERIODO DICEMBRE 2017. </title>
-			<description>SERVIZIO OSPITALITÀ N.1 NUCLEO (MADRE E N.2 MINORI). COOPERATIVA SOCIALE "ARTEMIDE"- LATIANO (BR) - LIQUIDAZIONE FATTURE PERIODO DICEMBRE 2017. </description>
-			<a10:updated>2018-02-22T00:00:00+01:00</a10:updated>
+			<title>CRISI ECONOMICA DETERMINATA DALL'EMERGENZA EPIDEMIOLOGICA DA CORONAVIRUS. D.G.R. N. 443/2020. ACQUIIZIONE BUONI SPESA PER L'ACQUISTO DI PRODOTTI ALIMENTARI FRESCHI. LIQUIDAZIONE FATTURA ESERCIZIO COMMERCIALE LEUCI &amp; C. SRL - BITONTO. </title>
+			<description>CRISI ECONOMICA DETERMINATA DALL'EMERGENZA EPIDEMIOLOGICA DA CORONAVIRUS. D.G.R. N. 443/2020. ACQUIIZIONE BUONI SPESA PER L'ACQUISTO DI PRODOTTI ALIMENTARI FRESCHI. LIQUIDAZIONE FATTURA ESERCIZIO COMMERCIALE LEUCI &amp; C. SRL - BITONTO. </description>
+			<a10:updated>2020-08-19T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883439</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883439</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3883439</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI 01 - SERVIZIO ORGANIZZAZIONE</category>
-			<title>FORNITURA E POSA IN OPERA DI N. 3 CONDIZIONATORI MONOSPLIT DA INSTALLARE PRESSO L’UFFICIO DI SUPPORTO CONTRATTI E APPALTI DEL COMUNE DI BITONTO. LIQUIDAZIONE FATTURA </title>
-			<description>FORNITURA E POSA IN OPERA DI N. 3 CONDIZIONATORI MONOSPLIT DA INSTALLARE PRESSO L’UFFICIO DI SUPPORTO CONTRATTI E APPALTI DEL COMUNE DI BITONTO. LIQUIDAZIONE FATTURA </description>
-			<a10:updated>2018-02-22T00:00:00+01:00</a10:updated>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5792358</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5792358</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 19 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 03 Sep 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">5792358</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI RESPONSABILI DEI SERVIZI (DAL 6-03-2015) 10 - SERVIZIO CULTURA, BENI STORICI, PARTECIPAZIONE ATTIVA</category>
+			<title>AUTORIZZAZIONE AL FUNZIONAMENTO DEL SERVIZIO LUDOTECA EX ART. 89 REGOLAM. REG. N. 4/2007 IN VIA A.VACCA N.113/74 - 86 A BITONTO (BA) – “I PICCOLI GIGANTI DI DORONZO ANNA MARIA“. </title>
+			<description>AUTORIZZAZIONE AL FUNZIONAMENTO DEL SERVIZIO LUDOTECA EX ART. 89 REGOLAM. REG. N. 4/2007 IN VIA A.VACCA N.113/74 - 86 A BITONTO (BA) – “I PICCOLI GIGANTI DI DORONZO ANNA MARIA“. </description>
+			<a10:updated>2020-08-19T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883437</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883437</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3883437</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI 11 - SERVIZIO PATRIMONIO, PUBBLICA ISTRUZIONE</category>
-			<title>Giornata internazionale dell’Infanzia e dell’Adolescenza. – Evento conclusivo dal titolo “Infanzie. Storie di infanzie” . Incarico per attività di moderazione. Liquidazione di spesa. </title>
-			<description>Giornata internazionale dell’Infanzia e dell’Adolescenza. – Evento conclusivo dal titolo “Infanzie. Storie di infanzie” . Incarico per attività di moderazione. Liquidazione di spesa. </description>
-			<a10:updated>2018-02-22T00:00:00+01:00</a10:updated>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5792356</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5792356</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 19 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 03 Sep 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">5792356</category>
+			<category domain="http://albopop.it/specs#item-category-type">DETERMINAZIONI RESPONSABILI DEI SERVIZI (DAL 6-03-2015) 11 - SERVIZIO PATRIMONIO E PER LA PUBBLICA ISTRUZIONE</category>
+			<title>IMMOBILE DI PROPRIETA' COMUNALE SITO ALLA VIA FERRANTE APORTI, 9. PAGAMENTO IMPOSTA DI REGISTRO. </title>
+			<description>IMMOBILE DI PROPRIETA' COMUNALE SITO ALLA VIA FERRANTE APORTI, 9. PAGAMENTO IMPOSTA DI REGISTRO. </description>
+			<a10:updated>2020-08-19T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883433</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883433</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3883433</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI 03 - SERVIZIO INFORMATICO</category>
-			<title>SERVER SICR@WEB. ASSISTENZA TECNICA HP. LIQUIDAZIONE. </title>
-			<description>SERVER SICR@WEB. ASSISTENZA TECNICA HP. LIQUIDAZIONE. </description>
-			<a10:updated>2018-02-22T00:00:00+01:00</a10:updated>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5792020</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5792020</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Wed, 19 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 03 Sep 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">5792020</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
+			<title>VIA GEN. A. RAGNI, 12 - DIVIETO DI SOSTA CON RIMOZIONE IL GIORNO 24/08/2020, PER OPERAZIONI DI TRASLOCO - PROGETTI DI CASA </title>
+			<description>VIA GEN. A. RAGNI, 12 - DIVIETO DI SOSTA CON RIMOZIONE IL GIORNO 24/08/2020, PER OPERAZIONI DI TRASLOCO - PROGETTI DI CASA </description>
+			<a10:updated>2020-08-19T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883352</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883352</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3883352</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI 09 - UFFICIO DI PIANO</category>
-			<title>SERVIZIO ADS - COOPERATIVA SOCIALE AUXILIUM SENISE (PZ) - LIQUIDAZIONE FATTURE DICEMBRE 2017. </title>
-			<description>SERVIZIO ADS - COOPERATIVA SOCIALE AUXILIUM SENISE (PZ) - LIQUIDAZIONE FATTURE DICEMBRE 2017. </description>
-			<a10:updated>2018-02-22T00:00:00+01:00</a10:updated>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5790881</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5790881</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 18 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 02 Sep 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">5790881</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
+			<title>VIA MONS. L. BOVIO, 29/35 - DIVIETO DI SOSTA CON RIMOZIONE DAL 29 AL 35 - LAVORI EDILI COALTA SRL </title>
+			<description>VIA MONS. L. BOVIO, 29/35 - DIVIETO DI SOSTA CON RIMOZIONE DAL 29 AL 35 - LAVORI EDILI COALTA SRL </description>
+			<a10:updated>2020-08-18T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883350</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883350</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3883350</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI 09 - UFFICIO DI PIANO</category>
-			<title>SERVIZIO ADI. COOPERATIVA SOCIALE AUXILIUM SENISE (PZ). LIQUIDAZIONE FATTURE DICEMBRE 2017. </title>
-			<description>SERVIZIO ADI. COOPERATIVA SOCIALE AUXILIUM SENISE (PZ). LIQUIDAZIONE FATTURE DICEMBRE 2017. </description>
-			<a10:updated>2018-02-22T00:00:00+01:00</a10:updated>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5790131</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5790131</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 18 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 02 Sep 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">5790131</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
+			<title>VIA L. D'ANGIO', 44 - DIVIETO DI SOSTA CON RIMOZIONE DAL 24/08 AL 24/09/2020, PER LAVORI EDILI - IMPRESA MASCIALE </title>
+			<description>VIA L. D'ANGIO', 44 - DIVIETO DI SOSTA CON RIMOZIONE DAL 24/08 AL 24/09/2020, PER LAVORI EDILI - IMPRESA MASCIALE </description>
+			<a10:updated>2020-08-18T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883348</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883348</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3883348</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI 09 - UFFICIO DI PIANO</category>
-			<title>CASA PER LA VITA - SOCIETÀ RESIDENCE CASA BIANCA SRL. LIQUIDAZIONE INTEGRAZIONE LUGLIO 2017. </title>
-			<description>CASA PER LA VITA - SOCIETÀ RESIDENCE CASA BIANCA SRL. LIQUIDAZIONE INTEGRAZIONE LUGLIO 2017. </description>
-			<a10:updated>2018-02-22T00:00:00+01:00</a10:updated>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5789200</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5789200</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 17 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 01 Sep 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">5789200</category>
+			<category domain="http://albopop.it/specs#item-category-type">ORDINANZE ORDINANZA</category>
+			<title>VIA LAMARMORA E VIA R. BONGHI - DIVIETI E PRESCRIZIONI ALLA CIRCOLAZIONE STRADALE IL GIORNO 21/08/2020 - PER OPERAZIONI DI TRASLOCO - GRUPPO INTINI </title>
+			<description>VIA LAMARMORA E VIA R. BONGHI - DIVIETI E PRESCRIZIONI ALLA CIRCOLAZIONE STRADALE IL GIORNO 21/08/2020 - PER OPERAZIONI DI TRASLOCO - GRUPPO INTINI </description>
+			<a10:updated>2020-08-17T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883263</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883263</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3883263</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI 09 - UFFICIO DI PIANO</category>
-			<title>CASA PER LA VITA - SOCIETÀ RESIDENCE CASA BIANCA SRL. LIQUIDAZIONE 1 UTENTE OTTOBRE - DICEMBRE 2017. </title>
-			<description>CASA PER LA VITA - SOCIETÀ RESIDENCE CASA BIANCA SRL. LIQUIDAZIONE 1 UTENTE OTTOBRE - DICEMBRE 2017. </description>
-			<a10:updated>2018-02-22T00:00:00+01:00</a10:updated>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5784600</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5784600</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 13 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 28 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">5784600</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISI ALTRI ENTI</category>
+			<title>VERBALE INCONTRO N. 2 DEL COMITATO DEI DELEGATI DEL 7 AGOSTO 2020 </title>
+			<description>VERBALE INCONTRO N. 2 DEL COMITATO DEI DELEGATI DEL 7 AGOSTO 2020 </description>
+			<a10:updated>2020-08-13T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883261</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883261</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3883261</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI 09 - UFFICIO DI PIANO</category>
-			<title>CASA PER LA VITA - SOCIETÀ RESIDENCE CASA BIANCA SRL. LIQUIDAZIONE DICEMBRE 2017. </title>
-			<description>CASA PER LA VITA - SOCIETÀ RESIDENCE CASA BIANCA SRL. LIQUIDAZIONE DICEMBRE 2017. </description>
-			<a10:updated>2018-02-22T00:00:00+01:00</a10:updated>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5781186</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5781186</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 11 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 26 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">5781186</category>
+			<category domain="http://albopop.it/specs#item-category-type">DELIBERE DELIBERAZIONI PARCO LAMA BALICE</category>
+			<title>PARCO NATURALE REGIONALE " LAMA BALICE " BARI - DELIBERAZIONE DELL'ASSEMBLEA DEGLI AMMINISTRATORI N° 1 DEL 07/08/2020. </title>
+			<description>PARCO NATURALE REGIONALE " LAMA BALICE " BARI - DELIBERAZIONE DELL'ASSEMBLEA DEGLI AMMINISTRATORI N° 1 DEL 07/08/2020. </description>
+			<a10:updated>2020-08-11T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883259</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883259</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3883259</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI 09 - UFFICIO DI PIANO</category>
-			<title>CENTRO AGGREGATIVO A BASSA SOGLIA DROP-IN LIQUIDAZIONE 30% SECONDA ANNUALITA' </title>
-			<description>CENTRO AGGREGATIVO A BASSA SOGLIA DROP-IN LIQUIDAZIONE 30% SECONDA ANNUALITA' </description>
-			<a10:updated>2018-02-22T00:00:00+01:00</a10:updated>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5780897</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5780897</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 11 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 10 Sep 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">5780897</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISI ALTRI ENTI</category>
+			<title>AVVISO CAMBIAMENTO NOME </title>
+			<description>AVVISO CAMBIAMENTO NOME </description>
+			<a10:updated>2020-08-11T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883257</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883257</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3883257</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI 09 - UFFICIO DI PIANO</category>
-			<title>CENTRI DIURNI ART. 52 RR 4/2007. COOPERATIVA SOCIALE EUGHENIA. LIQUIDAZIONE DICEMBRE 2017. </title>
-			<description>CENTRI DIURNI ART. 52 RR 4/2007. COOPERATIVA SOCIALE EUGHENIA. LIQUIDAZIONE DICEMBRE 2017. </description>
-			<a10:updated>2018-02-22T00:00:00+01:00</a10:updated>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5779487</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5779487</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 10 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 25 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">5779487</category>
+			<category domain="http://albopop.it/specs#item-category-type">PRATICHE SERVIZIO TERRITORIO</category>
+			<title>PERMESSO DI COSTRUIRE IN SANATORIA N. 83/20 - DELLAPIGNA </title>
+			<description>PERMESSO DI COSTRUIRE IN SANATORIA N. 83/20 - DELLAPIGNA </description>
+			<a10:updated>2020-08-10T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883216</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883216</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3883216</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI 11 - SERVIZIO PATRIMONIO, PUBBLICA ISTRUZIONE</category>
-			<title>TRASPORTO SCOLASTICO PER GLI ALUNNI FREQUENTANTI LA SCUOLA DELL’INFANZIA, PRIMARIA E SECONDARIA DI 1° GRADO, A.S. 2017/2018 . LIQUIDAZIONE MESE DI GENNAIO 2018. </title>
-			<description>TRASPORTO SCOLASTICO PER GLI ALUNNI FREQUENTANTI LA SCUOLA DELL’INFANZIA, PRIMARIA E SECONDARIA DI 1° GRADO, A.S. 2017/2018 . LIQUIDAZIONE MESE DI GENNAIO 2018. </description>
-			<a10:updated>2018-02-22T00:00:00+01:00</a10:updated>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5779486</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5779486</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Mon, 10 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Tue, 25 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">5779486</category>
+			<category domain="http://albopop.it/specs#item-category-type">PRATICHE SERVIZIO TERRITORIO</category>
+			<title>PERMESSO DI COSTRUIRE N° 84/20 - FALLACARA M.L. </title>
+			<description>PERMESSO DI COSTRUIRE N° 84/20 - FALLACARA M.L. </description>
+			<a10:updated>2020-08-10T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883214</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883214</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3883214</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI 03 - SERVIZIO INFORMATICO</category>
-			<title>POSTAZIONI DI LAVORO PER SERVIZI RAGIONERIA E TRIBUTI. LIQUIDAZIONE. </title>
-			<description>POSTAZIONI DI LAVORO PER SERVIZI RAGIONERIA E TRIBUTI. LIQUIDAZIONE. </description>
-			<a10:updated>2018-02-22T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883212</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883212</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3883212</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI 12 - SERVIZIO LAVORI PUBBLICI</category>
-			<title>CONVENZIONE CONSIP ED. 9 – LOTTO 12 – FORNITURA GASOLIO DA RISCALDAMENTO MEDIANTE CONSEGNA A DOMICILIO STAGIONE INVERNALE 2017/2018 - LIQUIDAZIONE - CIG N. 71382584D9 - </title>
-			<description>CONVENZIONE CONSIP ED. 9 – LOTTO 12 – FORNITURA GASOLIO DA RISCALDAMENTO MEDIANTE CONSEGNA A DOMICILIO STAGIONE INVERNALE 2017/2018 - LIQUIDAZIONE - CIG N. 71382584D9 - </description>
-			<a10:updated>2018-02-22T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883210</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883210</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3883210</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI 12 - SERVIZIO LAVORI PUBBLICI</category>
-			<title>SERVIZIO DI MANUTENZIONE DEL VERDE PUBBLICO PER TRE MESI – LIQUIDAZIONE DITTA FRANCESE AGRICOLTURA SRL CIG. 718271431A </title>
-			<description>SERVIZIO DI MANUTENZIONE DEL VERDE PUBBLICO PER TRE MESI – LIQUIDAZIONE DITTA FRANCESE AGRICOLTURA SRL CIG. 718271431A </description>
-			<a10:updated>2018-02-22T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883208</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883208</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3883208</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI 12 - SERVIZIO LAVORI PUBBLICI</category>
-			<title>LAVORI DI RIPRISTINO DEI DISCENDENTI PLUVIALI ED ALTRI INTERVENTI DI PULIZIA CADITOIE IMMOBILE COMUNALE DENOMINATO “CASA DELLA MUSICA” IN VIA GEN. PLANELLI </title>
-			<description>LAVORI DI RIPRISTINO DEI DISCENDENTI PLUVIALI ED ALTRI INTERVENTI DI PULIZIA CADITOIE IMMOBILE COMUNALE DENOMINATO “CASA DELLA MUSICA” IN VIA GEN. PLANELLI </description>
-			<a10:updated>2018-02-22T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883206</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883206</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3883206</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI 11 - SERVIZIO PATRIMONIO, PUBBLICA ISTRUZIONE</category>
-			<title>ESITO PROCEDURA GARA NEGOZIATA SU MEPA PER FORNITURA ARREDI SCOLASTICI. LIQUIDAZIONE DI SPESA </title>
-			<description>ESITO PROCEDURA GARA NEGOZIATA SU MEPA PER FORNITURA ARREDI SCOLASTICI. LIQUIDAZIONE DI SPESA </description>
-			<a10:updated>2018-02-22T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883204</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883204</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3883204</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI 07 - SERVIZIO DEMOGRAFICO</category>
-			<title>FORNITURA CARTA IN RISME PER UFFICI COMUNALI. LIQUIDAZIONE </title>
-			<description>FORNITURA CARTA IN RISME PER UFFICI COMUNALI. LIQUIDAZIONE </description>
-			<a10:updated>2018-02-22T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883202</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883202</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3883202</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI 10 - SERVIZIO CULTURA</category>
-			<title>INTERVENTO CULTURALE “PARCO DELLE ARTI – BITONTO ESTATE” ED. 2017. Eventi di supporto alla rivitalizzazione del Centro Antico ai sensi dell’art. 11 del regolamento comunale inerente “Disposizioni per lo sviluppo e nuove norme per l’insediamento delle attività produttive e commerciali nell’ambito del centro antico” (Delibera di Consiglio n. 69 del 22-11-2012). EVENTI AGOSTO-SETTEMBRE E SERVIZI DI PRIMO SOCCORSO. ASSOCIAZIONE CENACOLO DEI POETI BITONTO. LIQUIDAZIONE. </title>
-			<description>INTERVENTO CULTURALE “PARCO DELLE ARTI – BITONTO ESTATE” ED. 2017. Eventi di supporto alla rivitalizzazione del Centro Antico ai sensi dell’art. 11 del regolamento comunale inerente “Disposizioni per lo sviluppo e nuove norme per l’insediamento delle attività produttive e commerciali nell’ambito del centro antico” (Delibera di Consiglio n. 69 del 22-11-2012). EVENTI AGOSTO-SETTEMBRE E SERVIZI DI PRIMO SOCCORSO. ASSOCIAZIONE CENACOLO DEI POETI BITONTO. LIQUIDAZIONE. </description>
-			<a10:updated>2018-02-22T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883200</guid>
-			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/3883200</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 22 Feb 2018 01:00:00 +0100</category>
-			<category domain="http://albopop.it/specs#item-category-uid">3883200</category>
-			<category domain="http://albopop.it/specs#item-category-type">LIQUIDAZIONI 15 - SERVIZIO POLIZIA LOCALE</category>
-			<title>"PARISI GAETANO" BITONTO - LIQUIDAZIONE FATTURE CUSTODIA GIUDIZIALE VEICOLI SOTTOPOSTI A FERMO AMMINISTRATIVO POSTI SOTTO SEQUESTRO </title>
-			<description>"PARISI GAETANO" BITONTO - LIQUIDAZIONE FATTURE CUSTODIA GIUDIZIALE VEICOLI SOTTOPOSTI A FERMO AMMINISTRATIVO POSTI SOTTO SEQUESTRO </description>
-			<a10:updated>2018-02-22T00:00:00+01:00</a10:updated>
+			<guid isPermaLink="true">http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5771230</guid>
+			<link>http://bitonto.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5771230</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 06 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Mon, 21 Sep 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">5771230</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI AVVISI COMUNALI</category>
+			<title>ELEZIONE DEL PRESIDENTE DELLA GIUNTA E DEL CONSIGLIO REGIONALE DELLA PUGLIA DI DOMENICA 20 E LUNEDI' 21 SETTEMBRE 2020: CONVOCAZIONE DEI COMIZI. </title>
+			<description>ELEZIONE DEL PRESIDENTE DELLA GIUNTA E DEL CONSIGLIO REGIONALE DELLA PUGLIA DI DOMENICA 20 E LUNEDI' 21 SETTEMBRE 2020: CONVOCAZIONE DEI COMIZI. </description>
+			<a10:updated>2020-08-06T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
