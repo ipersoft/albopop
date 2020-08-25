@@ -5,7 +5,7 @@
 		<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Rometta</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 25 Aug 2020 11:42:06 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 25 Aug 2020 16:06:06 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Rometta</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Messina</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Rometta</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_rometta</a10:id>
-		<pubDate>Tue, 25 Aug 2020 11:42:06 +0200</pubDate>
+		<pubDate>Tue, 25 Aug 2020 16:06:06 +0200</pubDate>
 		<docs>http://albopop.it/comune/rometta/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5799821</guid>
+			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5799821</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 25 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 09 Sep 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">5799821</category>
+			<category domain="http://albopop.it/specs#item-category-type">AVVISI BANDI E GARE</category>
+			<title>VERBALE DI GARA PER L'AFFIDAMENTO DEI LAVORI DI ADEGIAMENTO E ADATTAMENTO FUNZIONALE DEGLI SPAZI E DELLE AULE DIDATTICHE IN CONSEGUWNZA DELL'EMERGENZA SANITARIA DA COVID 19 - PLESSI SCOLASTICI CORSO FRANCESCO SAIJA E VIA GIURBA CORPO B </title>
+			<description>VERBALE DI GARA PER L'AFFIDAMENTO DEI LAVORI DI ADEGIAMENTO E ADATTAMENTO FUNZIONALE DEGLI SPAZI E DELLE AULE DIDATTICHE IN CONSEGUWNZA DELL'EMERGENZA SANITARIA DA COVID 19 - PLESSI SCOLASTICI CORSO FRANCESCO SAIJA E VIA GIURBA CORPO B </description>
+			<a10:updated>2020-08-25T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5798999</guid>
 			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5798999</link>
@@ -284,17 +295,6 @@
 			<title>UTILIZZO TEMPORANEO AREE DA ADIBIRE A PARCHEGGIO STAGIONALE ANNO 2020 - LIQUIDAZIONE CANONE DI AFFITTO DITTA DE PASQUALE MARIA - CIG Z2A2B64025 </title>
 			<description>UTILIZZO TEMPORANEO AREE DA ADIBIRE A PARCHEGGIO STAGIONALE ANNO 2020 - LIQUIDAZIONE CANONE DI AFFITTO DITTA DE PASQUALE MARIA - CIG Z2A2B64025 </description>
 			<a10:updated>2020-08-24T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5791414</guid>
-			<link>http://rometta.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5791414</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 18 Aug 2020 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 02 Sep 2020 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">5791414</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DELIBERA DI GIUNTA</category>
-			<title>REFERENDUM COSTITUZIONALE DEL 20 E 21 SETTEMBRE 2020 – RIPARTIZIONE, DELIMITAZIONE ED ASSEGNAZIONE SPAZI PROPAGANDA DIRETTA. </title>
-			<description>REFERENDUM COSTITUZIONALE DEL 20 E 21 SETTEMBRE 2020 – RIPARTIZIONE, DELIMITAZIONE ED ASSEGNAZIONE SPAZI PROPAGANDA DIRETTA. </description>
-			<a10:updated>2020-08-18T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>

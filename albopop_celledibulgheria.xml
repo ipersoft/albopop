@@ -5,7 +5,7 @@
 		<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/igrid/1210528</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Celle di Bulgheria</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 25 Aug 2020 11:41:33 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 25 Aug 2020 16:05:49 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Celle di Bulgheria</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Salerno</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Celle di Bulgheria</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_celledibulgheria</a10:id>
-		<pubDate>Tue, 25 Aug 2020 11:41:33 +0200</pubDate>
+		<pubDate>Tue, 25 Aug 2020 16:05:49 +0200</pubDate>
 		<docs>http://albopop.it/comune/celledibulgheria/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/4572238</guid>
+			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/4572238</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 25 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 09 Sep 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">4572238</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
+			<title>AFFIDAMENTO SERVIZIO DI GESTIONE IMPIANTI DI DEPURAZIONE COMUNALI. (CIG: Z702E0C1A0) DETERMINAZIONE A CONTRARRE AFFIDAMENTO DEL SERVIZIO, AI SENSI DELL’ART. 36, COMMA 2, LETT. A) D.LGS. 50/2016 </title>
+			<description>AFFIDAMENTO SERVIZIO DI GESTIONE IMPIANTI DI DEPURAZIONE COMUNALI. (CIG: Z702E0C1A0) DETERMINAZIONE A CONTRARRE AFFIDAMENTO DEL SERVIZIO, AI SENSI DELL’ART. 36, COMMA 2, LETT. A) D.LGS. 50/2016 </description>
+			<a10:updated>2020-08-25T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/4571099</guid>
 			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/4571099</link>
@@ -228,17 +239,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>PROGETTO SERVIZI PER EMERGENZA SOCIALE “UN’ESTATE D’A…MARE” DETERMINAZIONE DI LIQUIDAZIONE ACQUISTO GADGET CON STAMPA (CIG: Z7B2D9C73C) </title>
 			<description>PROGETTO SERVIZI PER EMERGENZA SOCIALE “UN’ESTATE D’A…MARE” DETERMINAZIONE DI LIQUIDAZIONE ACQUISTO GADGET CON STAMPA (CIG: Z7B2D9C73C) </description>
-			<a10:updated>2020-08-20T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/4564151</guid>
-			<link>http://celledibulgheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/4564151</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 20 Aug 2020 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 04 Sep 2020 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">4564151</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>OGGETTO: PROGETTO SERVIZI PER EMERGENZA SOCIALE “UN’ESTATE D’A…MARE” DETERMINAZIONE DI LIQUIDAZIONE PER PER BORSA LAVORO M. F. </title>
-			<description>OGGETTO: PROGETTO SERVIZI PER EMERGENZA SOCIALE “UN’ESTATE D’A…MARE” DETERMINAZIONE DI LIQUIDAZIONE PER PER BORSA LAVORO M. F. </description>
 			<a10:updated>2020-08-20T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

@@ -5,7 +5,7 @@
 		<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Pesaro</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 25 Aug 2020 11:41:43 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 25 Aug 2020 16:05:55 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Pesaro</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Pesaro e Urbino</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Pesaro</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_pesaro</a10:id>
-		<pubDate>Tue, 25 Aug 2020 11:41:43 +0200</pubDate>
+		<pubDate>Tue, 25 Aug 2020 16:05:55 +0200</pubDate>
 		<docs>http://albopop.it/comune/pesaro/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2341327</guid>
+			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2341327</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 25 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 02 Sep 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">2341327</category>
+			<category domain="http://albopop.it/specs#item-category-type">PUBBLICAZIONI DI MATRIMONIO RICHIESTA PUBBLICAZIONE MATRIMONIO ALBO</category>
+			<title>PUBBLICAZIONI DI MATRIMONIO DI RIPANTI SIMONE E MOGLIA ANNA MARIA </title>
+			<description>PUBBLICAZIONI DI MATRIMONIO DI RIPANTI SIMONE E MOGLIA ANNA MARIA </description>
+			<a10:updated>2020-08-25T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2340987</guid>
 			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2340987</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
 			<title>PROVVEDIMENTI A FAVORE DELLO SPORT. ATTIVITA' DI COMUNICAZIONE </title>
 			<description>PROVVEDIMENTI A FAVORE DELLO SPORT. ATTIVITA' DI COMUNICAZIONE </description>
-			<a10:updated>2020-08-21T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2339249</guid>
-			<link>http://pesaro.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/2339249</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Fri, 21 Aug 2020 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Sat, 05 Sep 2020 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">2339249</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINA</category>
-			<title>AFFIDAMENTO DEL SERVIZIO DI GESTIONE INTEGRATA DI N° 5 SPIAGGE LIBERE NEL COMUNE DI PESARO PER FRONTEGGIARE L’EMERGENZA COVID-19 PER L’ESTATE 2020 – COSTITUZIONE DEI DEPOSITI CAUZIONALI DA PARTE DELLE DITTE AFFIDATARIE DALLAGO GIOVANNI MARIA – DI LORENZI KATJA – ANDREANI MATTEO </title>
-			<description>AFFIDAMENTO DEL SERVIZIO DI GESTIONE INTEGRATA DI N° 5 SPIAGGE LIBERE NEL COMUNE DI PESARO PER FRONTEGGIARE L’EMERGENZA COVID-19 PER L’ESTATE 2020 – COSTITUZIONE DEI DEPOSITI CAUZIONALI DA PARTE DELLE DITTE AFFIDATARIE DALLAGO GIOVANNI MARIA – DI LORENZI KATJA – ANDREANI MATTEO </description>
 			<a10:updated>2020-08-21T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
