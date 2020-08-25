@@ -5,7 +5,7 @@
 		<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Torri del Benaco</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 25 Aug 2020 00:46:00 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 25 Aug 2020 11:42:18 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Torri del Benaco</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Verona</category>
@@ -16,11 +16,22 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Torri del Benaco</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_torridelbenaco</a10:id>
-		<pubDate>Tue, 25 Aug 2020 00:46:00 +0200</pubDate>
+		<pubDate>Tue, 25 Aug 2020 11:42:18 +0200</pubDate>
 		<docs>http://albopop.it/comune/torridelbenaco/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5799167</guid>
+			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5799167</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 25 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Thu, 24 Sep 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">5799167</category>
+			<category domain="http://albopop.it/specs#item-category-type">ALBO AVVISO 30 GIORNI</category>
+			<title>COMUNICAZIONE ESITO NEGATIVO SORTEGGIO PRATICHE SISMICHE PRESENTATE NEL MESE DI LUGLIO 2020 </title>
+			<description>COMUNICAZIONE ESITO NEGATIVO SORTEGGIO PRATICHE SISMICHE PRESENTATE NEL MESE DI LUGLIO 2020 </description>
+			<a10:updated>2020-08-25T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5795182</guid>
 			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5795182</link>
@@ -283,17 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
 			<title>LIQUIDAZIONE SOMMA PER LA RIPARTIZIONE SPESA NOMINA DEL R.S.P.P. ALL'ISTITUTO COMPRENSIVO DI GARDA "FLORESTE MALFER" PER L'ANNO SCOLASTICO 2019/2020. </title>
 			<description>LIQUIDAZIONE SOMMA PER LA RIPARTIZIONE SPESA NOMINA DEL R.S.P.P. ALL'ISTITUTO COMPRENSIVO DI GARDA "FLORESTE MALFER" PER L'ANNO SCOLASTICO 2019/2020. </description>
-			<a10:updated>2020-08-13T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5785916</guid>
-			<link>http://torridelbenaco.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/5785916</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 13 Aug 2020 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 28 Aug 2020 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">5785916</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE</category>
-			<title>DETERMINA A CONTRARRE PER L'AFFIDAMENTO DIRETTO DELL’ACQUISTO DI UNA IDROPULITRICE AD ACQUA CALDA. DITTA: AGRIFER DI CHIGNOLA MAURIZIO CIG: ZC42DFAE34 </title>
-			<description>DETERMINA A CONTRARRE PER L'AFFIDAMENTO DIRETTO DELL’ACQUISTO DI UNA IDROPULITRICE AD ACQUA CALDA. DITTA: AGRIFER DI CHIGNOLA MAURIZIO CIG: ZC42DFAE34 </description>
 			<a10:updated>2020-08-13T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>

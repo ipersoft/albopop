@@ -5,7 +5,7 @@
 		<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio</link>
 		<description>*non ufficiale* RSS feed dell'Albo Pretorio di Mascalucia</description>
 		<language>it</language>
-		<lastBuildDate>Tue, 25 Aug 2020 00:45:55 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 25 Aug 2020 11:42:14 +0200</lastBuildDate>
 		<category domain="http://albopop.it/specs#channel-category-type">Comune</category>
 		<category domain="http://albopop.it/specs#channel-category-municipality">Mascalucia</category>
 		<category domain="http://albopop.it/specs#channel-category-province">Catania</category>
@@ -16,11 +16,44 @@
 		<category domain="http://albopop.it/specs#channel-category-country">Italia</category>
 		<category domain="http://albopop.it/specs#channel-category-name">Comune di Mascalucia</category>
 		<a10:id>http://feeds.feedburner.com/albopretorio_mascalucia</a10:id>
-		<pubDate>Tue, 25 Aug 2020 00:45:55 +0200</pubDate>
+		<pubDate>Tue, 25 Aug 2020 11:42:14 +0200</pubDate>
 		<docs>http://albopop.it/comune/mascalucia/</docs>
 		<webMaster>paolo.fisco@gmail.com (Paolo Fisco @ipersoft)</webMaster>
 		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 		<creativeCommons:license xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" >http://creativecommons.org/licenses/by/4.0/</creativeCommons:license>
+		<item>
+			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4571966</guid>
+			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4571966</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 25 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 09 Sep 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">4571966</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
+			<title>ATTUAZIONE DELEGA DEL RESP. D’AREA A SEGUITO DETERMINA SINDACALE N° 10 DEL 06/07/2020 INERENTE LA DISTRIBUZIONE DEL PERSONALE ASSEGNATO ALL’AREA LAVORI PUBBLICI E ORGANIZZAZIONE INTERNA </title>
+			<description>ATTUAZIONE DELEGA DEL RESP. D’AREA A SEGUITO DETERMINA SINDACALE N° 10 DEL 06/07/2020 INERENTE LA DISTRIBUZIONE DEL PERSONALE ASSEGNATO ALL’AREA LAVORI PUBBLICI E ORGANIZZAZIONE INTERNA </description>
+			<a10:updated>2020-08-25T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4571683</guid>
+			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4571683</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 25 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Wed, 02 Sep 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">4571683</category>
+			<category domain="http://albopop.it/specs#item-category-type">ATTI DI STATO CIVILE (STC) PUBBLICAZIONI DI MATRIMONIO</category>
+			<title>PUBBLICAZIONE DI MATRIMONIO FRAGAPANE BIAGIO / FERRACANE FRANCESCA MARIA </title>
+			<description>PUBBLICAZIONE DI MATRIMONIO FRAGAPANE BIAGIO / FERRACANE FRANCESCA MARIA </description>
+			<a10:updated>2020-08-25T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4571681</guid>
+			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4571681</link>
+			<category domain="http://albopop.it/specs#item-category-pubStart">Tue, 25 Aug 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 04 Sep 2020 02:00:00 +0200</category>
+			<category domain="http://albopop.it/specs#item-category-uid">4571681</category>
+			<category domain="http://albopop.it/specs#item-category-type">COMMISSIONI CONSILIARI CONVOCAZIONE I COMMISSIONE CONSILIARE</category>
+			<title>CONVOCAZIONE SEDUTE PRIMA COMMISSIONE DAL 31 AGOSTO AL 4 SETTEMBRE 2020 </title>
+			<description>CONVOCAZIONE SEDUTE PRIMA COMMISSIONE DAL 31 AGOSTO AL 4 SETTEMBRE 2020 </description>
+			<a10:updated>2020-08-25T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4570824</guid>
 			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4570824</link>
@@ -261,39 +294,6 @@
 			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
 			<title>LIQUIDAZIONE BUONI-LIBRO ORDINARI- A.S. 2019/2020. DITTE: “CAVALLOTTO” LIBRERIE S.R.L CON SEDE IN CORSO SICILIA 91, CATANIA – P.IVA IT04692470877; VIVISCUOLA SRL CON SEDE IN VIA AGOSTINO DE COSMI 38, CATANIA – P.IVA: IT0951320870;; “IL TULIPANO” SAS DI PAPPALARDO VENERO E C., CON SEDE IN VIA MARCONI 78, NICOLOSI – P.IVA IT04856050879; </title>
 			<description>LIQUIDAZIONE BUONI-LIBRO ORDINARI- A.S. 2019/2020. DITTE: “CAVALLOTTO” LIBRERIE S.R.L CON SEDE IN CORSO SICILIA 91, CATANIA – P.IVA IT04692470877; VIVISCUOLA SRL CON SEDE IN VIA AGOSTINO DE COSMI 38, CATANIA – P.IVA: IT0951320870;; “IL TULIPANO” SAS DI PAPPALARDO VENERO E C., CON SEDE IN VIA MARCONI 78, NICOLOSI – P.IVA IT04856050879; </description>
-			<a10:updated>2020-08-20T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4563758</guid>
-			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4563758</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 20 Aug 2020 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 04 Sep 2020 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">4563758</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
-			<title>LIQUIDAZIONE BUONI-LIBRO ORDINARI- A.S. 2019/2020. DITTE: COOP ALLEANZA 3.0 CON SEDE IN VIA VILLANOVA 29/7 FRAZ. VILLANOVA – CASTENASO (BO) – P.IVA: IT03503411203; MARIA GRAZIA TOMASELLO CON SEDE IN VIA UMBERTO 39, SANT'AGATA LI BATTIATI – P.IVA: IT04738520875; “CARTOLERIA - LIBRERIA LA PAGLIA” DI MORGANO STEFANO CON SEDE VIA ETNEA, 393 CATANIA - P.I.: IT01197090879; VILLANI CONCETTA CON SEDE IN CORSO S. VITO 59, MASCALUCIA - P.IVA.: IT03137580878.. </title>
-			<description>LIQUIDAZIONE BUONI-LIBRO ORDINARI- A.S. 2019/2020. DITTE: COOP ALLEANZA 3.0 CON SEDE IN VIA VILLANOVA 29/7 FRAZ. VILLANOVA – CASTENASO (BO) – P.IVA: IT03503411203; MARIA GRAZIA TOMASELLO CON SEDE IN VIA UMBERTO 39, SANT'AGATA LI BATTIATI – P.IVA: IT04738520875; “CARTOLERIA - LIBRERIA LA PAGLIA” DI MORGANO STEFANO CON SEDE VIA ETNEA, 393 CATANIA - P.I.: IT01197090879; VILLANI CONCETTA CON SEDE IN CORSO S. VITO 59, MASCALUCIA - P.IVA.: IT03137580878.. </description>
-			<a10:updated>2020-08-20T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4563756</guid>
-			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4563756</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 20 Aug 2020 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 04 Sep 2020 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">4563756</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
-			<title> LIQUIDAZIONE BUONI-LIBRO ORDINARI- A.S. 2019/2020. DITTA: COMAR DI GAETANO CARUSO CON SEDE IN VIA ETNEA 374, MASCALUCIA – P.IVA: IT05681110879. </title>
-			<description> LIQUIDAZIONE BUONI-LIBRO ORDINARI- A.S. 2019/2020. DITTA: COMAR DI GAETANO CARUSO CON SEDE IN VIA ETNEA 374, MASCALUCIA – P.IVA: IT05681110879. </description>
-			<a10:updated>2020-08-20T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4563754</guid>
-			<link>http://mascalucia.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/4563754</link>
-			<category domain="http://albopop.it/specs#item-category-pubStart">Thu, 20 Aug 2020 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-pubEnd">Fri, 04 Sep 2020 02:00:00 +0200</category>
-			<category domain="http://albopop.it/specs#item-category-uid">4563754</category>
-			<category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI DETERMINAZIONE DIRIGENZIALE</category>
-			<title>INTERVENTI DI RIPARAZIONE E MANUTENZIONE DEGLI AUTOVEICOLI COMUNALI - DITTA MUSUMECI ORAZIO CON SEDE IN MASCALUCIA </title>
-			<description>INTERVENTI DI RIPARAZIONE E MANUTENZIONE DEGLI AUTOVEICOLI COMUNALI - DITTA MUSUMECI ORAZIO CON SEDE IN MASCALUCIA </description>
 			<a10:updated>2020-08-20T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
